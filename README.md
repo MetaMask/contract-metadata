@@ -11,11 +11,15 @@ Submit PRs to add valid logos, and obviously valid logos will be merged.
 You can install from npm with `npm install eth-contract-metadata` and use it in your code like this:
 
 ```javascript
-const iconMap = require('ethereum-contract-icons')
+const contractMap = require('eth-contract-metadata')
 const toChecksumAddress = require('ethereumjs-util').toChecksumAddress
 
 function imageElFor (address) {
-  const fileName = iconMap[toChecksumAddress(address)]
+  const metadata = iconMap[toChecksumAddress(address)]
+  if (!('logo' in metadata)) {
+    return false
+  }
+  const fileName = metadata.logo
   const path = `images/contract/${fileName}`
   const img = document.createElement('img')
   img.src = path
