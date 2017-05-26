@@ -1,1 +1,1 @@
-module.exports = require('./icon-map.json')
+module.exports = require('./contract-map.json')

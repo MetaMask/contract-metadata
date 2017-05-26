@@ -1,6 +1,6 @@
-# Ethereum Contract Icons [![CircleCI](https://circleci.com/gh/MetaMask/ethereum-contract-icons.svg?style=svg)](https://circleci.com/gh/MetaMask/ethereum-contract-icons)
+# Ethereum Contract Metadata [![CircleCI](https://circleci.com/gh/MetaMask/ethereum-contract-icons.svg?style=svg)](https://circleci.com/gh/MetaMask/ethereum-contract-icons)
 
-A mapping of checksummed ethereum addresses to images of those addresses' logos.
+A mapping of checksummed ethereum addresses to metadata, like names, and images of those addresses' logos.
 
 All address keys follow the [EIP 55 address checksum format](https://github.com/ethereum/EIPs/issues/55).
 
@@ -8,7 +8,7 @@ Submit PRs to add valid logos, and obviously valid logos will be merged.
 
 ## Usage
 
-You can install from npm with `npm install ethereum-contract-icons` and use it in your code like this:
+You can install from npm with `npm install eth-contract-metadata` and use it in your code like this:
 
 ```javascript
 const iconMap = require('ethereum-contract-icons')
@@ -28,10 +28,19 @@ function imageElFor (address) {
 
 1. Fork this repository.
 2. Add your logo image in a web-safe format to the `images` folder.
-3. Add an entry to the `icon-map.json` file with the specified address as the key, and the image file's name as the value.
+3. Add an entry to the `contract-map.json` file with the specified address as the key, and the image file's name as the value.
 
 Criteria:
 - The icon should be small, but high resolution, ideally a vector/svg.
 - Do not add your entry to the end of the JSON map, messing with the trailing comma. Your pull request should only be an addition of lines, and any line removals should be deliberate deprecations of those logos.
 
+A sample submission:
 
+```json
+{
+  "0x6090A6e47849629b7245Dfa1Ca21D94cd15878Ef": {
+    "name": "ENS Registrar",
+    "logo": "ens.svg"
+  }
+}
+```
