@@ -10,9 +10,9 @@ test('the object is parsable', function (t) {
   t.end()
 })
 
-test('the accounts are valid', function (t) {
+test('the accounts are valid checksum addresses', function (t) {
   Object.keys(iconMap).forEach(address => {
-    t.ok(util.isValidAddress(address), `Address should be valid: ${address}`)
+    t.ok(util.isValidChecksumAddress(address), `Address should be valid: ${address}`)
   })
 
   t.end()
