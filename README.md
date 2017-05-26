@@ -6,6 +6,24 @@ All address keys follow the [EIP 55 address checksum format](https://github.com/
 
 Submit PRs to add valid logos, and obviously valid logos will be merged.
 
+## Usage
+
+You can install from npm with `npm install ethereum-contract-icons` and use it in your code like this:
+
+```javascript
+const iconMap = require('ethereum-contract-icons')
+const toChecksumAddress = require('ethereumjs-util').toChecksumAddress
+
+function imageElFor (address) {
+  const fileName = iconMap[toChecksumAddress(address)]
+  const path = `images/contract/${fileName}`
+  const img = document.createElement('img')
+  img.src = path
+  img.style.width = '100%'
+  return img
+}
+```
+
 ## Submission Process
 
 1. Fork this repository.
