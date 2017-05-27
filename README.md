@@ -1,4 +1,4 @@
-# Ethereum Contract Metadata [![CircleCI](https://circleci.com/gh/MetaMask/ethereum-contract-icons.svg?style=svg)](https://circleci.com/gh/MetaMask/ethereum-contract-icons)
+# Ethereum Contract Metadata [![CircleCI](https://circleci.com/gh/MetaMask/eth-contract-metadata.svg?style=svg)](https://circleci.com/gh/MetaMask/eth-contract-metadata)
 
 A mapping of checksummed ethereum addresses to metadata, like names, and images of those addresses' logos.
 
