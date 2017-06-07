@@ -53,7 +53,7 @@
     "logo": "chronobank.png",
     "erc20": true,
     "totalSupply": 71011281080000,
-    "name": "Chronobank TIME",
+    "name": "Chronobank TIME",
     "symbol": "TIME",
     "decimals": 8
   },
@@ -342,3 +342,4 @@
     "name": "ENS Registrar"
   }
 }
+
