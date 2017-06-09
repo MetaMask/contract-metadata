@@ -13,7 +13,7 @@
     "symbol": "vSlice",
     "decimals": 0
   },
-  "0xff3519eeeea3e76f1f699ccce5e23ee0bdda41ac": {
+  "0xFf3519eeeEA3e76F1F699CCcE5E23ee0bdDa41aC": {
     "name": "Blockchain Capital",
     "logo": "bcap.svg",
     "erc20": true,
@@ -27,28 +27,28 @@
     "symbol": "TIME",
     "decimals": 8
   },
-  "0xe7775a6e9bcf904eb39da2b68c5efb4f9360e08c": {
+  "0xE7775A6e9Bcf904eb39DA2b68c5efb4F9360e08C": {
     "name": "Token-as-a-Service",
     "logo": "taas-ico.png",
     "erc20": true,
     "symbol": "TAAS",
     "decimals": 6
   },
-  "0xaaaf91d9b90df800df4f55c205fd6989c977e73a": {
+  "0xaAAf91D9b90dF800Df4F55c205fd6989c977E73a": {
     "name": "Monolith TKN",
     "logo": "tkn.svg",
     "erc20": true,
     "symbol": "TKN",
     "decimals": 8
   },
-  "0x08711d3b02c8758f2fb3ab4e80228418a7f8e39c": {
+  "0x08711D3B02C8758F2FB3ab4e80228418a7F8e39c": {
     "name": "Edgeless",
-    "logo": "edg.png",
+    "logo": "",
     "erc20": true,
     "symbol": "EDG",
     "decimals": 0
   },
-  "0xf7b098298f7c69fc14610bf71d5e02c60792894c": {
+  "0xf7B098298f7C69Fc14610bf71d5e02c60792894C": {
     "name": "Guppy",
     "logo": "guppy.png",
     "erc20": true,
@@ -62,16 +62,16 @@
     "symbol": "XAUR",
     "decimals": 8
   },
-  "0xb9e7f8568e08d5659f5d29c4997173d84cdf2607": {
+  "0xB9e7F8568e08d5659f5D29C4997173d84CdF2607": {
     "name": "Swarm City Token",
     "logo": "swt.jpg",
     "erc20": true,
     "symbol": "SWT",
     "decimals": 18
   },
-  "0xcb94be6f13a1182e4a4b6140cb7bf2025d28e41b": {
+  "0xCb94be6f13A1182E4A4B6140cb7bf2025d28e41B": {
     "name": "Trustcoin",
-    "logo": "trst.png",
+    "logo": "",
     "erc20": true,
     "symbol": "TRST",
     "decimals": 6
@@ -111,7 +111,7 @@
     "symbol": "RLC",
     "decimals": 9
   },
-  "0xaec2e87e0a235266d9c5adc9deb4b2e29b54d009": {
+  "0xaeC2E87E0A235266D9C5ADc9DEb4b2E29b54D009": {
     "name": "SingularDTV",
     "logo": "singulardtv.svg",
     "erc20": true,
@@ -125,14 +125,14 @@
     "symbol": "ICN",
     "decimals": 18
   },
-  "0xe0b7927c4af23765cb51314a0e0521a9645f0e2a": {
+  "0xE0B7927c4aF23765Cb51314A0E0521A9645F0E2A": {
     "name": "Digix",
     "logo": "DGD.png",
     "erc20": true,
     "symbol": "DGD",
     "decimals": 0
   },
-  "0xc66ea802717bfb9833400264dd12c2bceaa34a6d": {
+  "0xC66eA802717bFb9833400264Dd12c2bCeAa34a6d": {
     "name": "Maker",
     "logo": "logo-maker-4.svg",
     "erc20": true,
@@ -146,7 +146,7 @@
     "symbol": "BAT",
     "decimals": 18
   },
-  "0x6810e776880c02933d47db1b9fc05908e5386b96": {
+  "0x6810e776880C02933D47DB1b9fc05908e5386b96": {
     "name": "Gnosis Token",
     "logo": "gnosis.svg",
     "erc20": true,
@@ -162,7 +162,7 @@
   },
   "0x48c80F1f4D53D5951e5D5438B54Cba84f29F32a5": {
     "name": "Reputation",
-    "logo": "augur-logo.svg",
+    "logo": "augur_logo.png",
     "erc20": true,
     "symbol": "REP",
     "decimals": 18
