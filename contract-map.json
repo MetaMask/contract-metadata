@@ -137,7 +137,7 @@
     "logo": "logo-maker-4.svg",
     "erc20": true,
     "symbol": "MKR",
-    "decimals": 0
+    "decimals": 18
   },
   "0x0D8775F648430679A709E98d2b0Cb6250d2887EF": {
     "name": "Basic Attention Token",
