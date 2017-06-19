@@ -181,6 +181,13 @@
     "symbol": "GNT",
     "decimals": 18
   },
+  "0x617b3f8050a0BD94b6b1da02B4384eE5B4DF13F4": {
+    "name": "MetaMark",
+    "logo": "metamark.svg",
+    "erc20": true,
+    "decimals": 18,
+    "symbol": "META"
+  },
   "0x6090A6e47849629b7245Dfa1Ca21D94cd15878Ef": {
     "name": "ENS Registrar",
     "logo": "ens.svg"
