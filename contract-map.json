@@ -1,4 +1,12 @@
 {
+  {
+  "0xBEB9eF514a379B997e0798FDcC901Ee474B6D9A1": {
+    "name": "Melon",
+    "logo": "MLNSymbol.png"
+    "erc20": true,
+    "symbol": "MLN",
+    "decimals": 18
+  }
   "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C": {
     "name": "Bancor Network Token",
     "logo": "bancor.png",
@@ -82,13 +90,6 @@
     "erc20": true,
     "symbol": "TRST",
     "decimals": 6
-  },
-  "0xBEB9eF514a379B997e0798FDcC901Ee474B6D9A1": {
-    "name": "Melon Token",
-    "logo": "melonport-1.svg",
-    "erc20": true,
-    "symbol": "MLN",
-    "decimals": 18
   },
   "0x960b236A07cf122663c4303350609A66A7B288C0": {
     "name": "Aragon Network Token",
