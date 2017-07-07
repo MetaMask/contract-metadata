@@ -151,7 +151,7 @@
     "logo": "logo-maker-4.svg",
     "erc20": true,
     "symbol": "MKR",
-    "decimals": 0
+    "decimals": 18
   },
   "0x0D8775F648430679A709E98d2b0Cb6250d2887EF": {
     "name": "Basic Attention Token",
@@ -187,6 +187,13 @@
     "erc20": true,
     "symbol": "GNT",
     "decimals": 18
+  },
+  "0x617b3f8050a0BD94b6b1da02B4384eE5B4DF13F4": {
+    "name": "MetaMark",
+    "logo": "metamark.svg",
+    "erc20": true,
+    "decimals": 18,
+    "symbol": "META"
   },
   "0x6090A6e47849629b7245Dfa1Ca21D94cd15878Ef": {
     "name": "ENS Registrar",
