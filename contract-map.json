@@ -1,4 +1,11 @@
 {
+  "0x86Fa049857E0209aa7D9e616F7eb3b3B78ECfdb0": {
+    "name": "EOS",
+    "logo": "eos-logo.jpeg",
+    "erc20": true,
+    "symbol": "EOS",
+    "decimals": 18
+  },
   "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C": {
     "name": "Bancor Network Token",
     "logo": "bancor.png",
