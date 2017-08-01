@@ -23,6 +23,6 @@
   "homepage": "https://github.com/MetaMask/ethereum-contract-icons#readme",
   "devDependencies": {
     "ethereumjs-util": "^5.1.1",
-    "tape": "^4.6.3"
+    "tape": "^4.8.0"
   }
 }
