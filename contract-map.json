@@ -1,4 +1,18 @@
 {
+  "0xc596bd09d652827b0106292d3e378d5938df4b12": {
+    "name": "Teleport Token",
+    "logo": "tpt.png",
+    "erc20": true,
+    "symbol": "TPT",
+    "decimals": 18
+  },
+  "0xa54ddc7b3cce7fc8b1e3fa0256d0db80d2c10970": {
+    "name": "NEVERDIE Coin",
+    "logo": "ndc.png",
+    "erc20": true,
+    "symbol": "NDC",
+    "decimals": 18
+  },
   "0xD0b3462481C33F63a288cd1923e2A261EE65b4FF": {
     "name": "EGO Badge",
     "logo": "ego_badge.png",
