@@ -1,4 +1,11 @@
 {
+  "0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6": {
+    "name": "Dentacoin",
+    "logo": "Dentacoin.png",
+    "erc20": true,
+    "symbol": "DCN",
+    "decimals": 0
+  },
   "0xC596bD09d652827b0106292D3e378D5938df4B12": {
     "name": "Teleport Token",
     "logo": "tpt.png",
