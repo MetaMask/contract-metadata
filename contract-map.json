@@ -1,4 +1,11 @@
 {
+  "0xba2184520A1cC49a6159c57e61E1844E085615B6": {
+    "name": "HelloGold Token",
+    "logo": "hgt.png",
+    "erc20": true,
+    "symbol": "HGT",
+    "decimals": 8
+  },
   "0xC596bD09d652827b0106292D3e378D5938df4B12": {
     "name": "Teleport Token",
     "logo": "tpt.png",
