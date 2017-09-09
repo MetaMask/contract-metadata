@@ -246,6 +246,13 @@
     "decimals": 18,
     "symbol": "META"
   },
+  "0x9a642d6b3368ddc662CA244bAdf32cDA716005BC": {
+    "name": "Qtum",
+    "logo": "qtum_28.png",
+    "erc20": true,
+    "decimals": 18,
+    "symbol": "QTUM"
+  },
   "0x6090A6e47849629b7245Dfa1Ca21D94cd15878Ef": {
     "name": "ENS Registrar",
     "logo": "ens.svg"
