@@ -253,6 +253,16 @@
     "decimals": 18,
     "symbol": "QTUM"
   },
+  "0x7d4b8Cce0591C9044a22ee543533b72E976E36C3": {
+    "name": "Change Coin",
+    "logo": "change.png",
+    "erc20": true,
+    "decimals": 18,
+    "symbol": "CAG"
+  },
+
+
+  
   "0x6090A6e47849629b7245Dfa1Ca21D94cd15878Ef": {
     "name": "ENS Registrar",
     "logo": "ens.svg"
