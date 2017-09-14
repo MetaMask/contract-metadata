@@ -1,4 +1,11 @@
 {
+  "0x5d269f0280ff406c61535623ee37a45cd22f4dd7": {
+    "name": "Tulip Token",
+    "logo": "tlp.svg",
+    "erc20": true,
+    "symbol": "TLP",
+    "decimals": 0
+  },
   "0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6": {
     "name": "Dentacoin",
     "logo": "Dentacoin.png",
