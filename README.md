@@ -35,7 +35,7 @@ function imageElFor (address) {
 3. Add an entry to the `contract-map.json` file with the specified address as the key, and the image file's name as the value.
 
 Criteria:
-- The icon should be small, but high resolution, ideally a vector/svg.
+- The icon should be small, square, but high resolution, ideally a vector/svg.
 - Do not add your entry to the end of the JSON map, messing with the trailing comma. Your pull request should only be an addition of lines, and any line removals should be deliberate deprecations of those logos.
 
 A sample submission:
