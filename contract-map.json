@@ -13,6 +13,13 @@
     "symbol": "HGT",
     "decimals": 8
   },
+"0x049f887e6ac070cf36153bb275381d5beeddebef": {
+    "name": "Sift Token",
+    "logo": "SiftToken.png",
+    "erc20": true,
+    "symbol": "SFT",
+    "decimals": 18
+  },
   "0xC596bD09d652827b0106292D3e378D5938df4B12": {
     "name": "Teleport Token",
     "logo": "tpt.png",
