@@ -13,6 +13,22 @@
     "symbol": "HGT",
     "decimals": 8
   },
+
+  "0x8727c112C712c4a03371AC87a74dD6aB104Af768": {
+    "name": "Jetcoin Institute Token",
+    "logo": "JETCOIN28.png",
+    "erc20": true,
+    "symbol": "JET",
+    "decimals": 18
+  },
+  "0xf8e386EDa857484f5a12e4B5DAa9984E06E73705": {
+    "name": "Indorse Token",
+    "logo": "indorseLogo.jpg",
+    "erc20": true,
+    "symbol": "IND",
+    "decimals": 18
+  },
+
   "0xC596bD09d652827b0106292D3e378D5938df4B12": {
     "name": "Teleport Token",
     "logo": "tpt.png",
@@ -230,6 +246,23 @@
     "decimals": 18,
     "symbol": "META"
   },
+  "0x9a642d6b3368ddc662CA244bAdf32cDA716005BC": {
+    "name": "Qtum",
+    "logo": "qtum_28.png",
+    "erc20": true,
+    "decimals": 18,
+    "symbol": "QTUM"
+  },
+  "0x7d4b8Cce0591C9044a22ee543533b72E976E36C3": {
+    "name": "Change Coin",
+    "logo": "change.png",
+    "erc20": true,
+    "decimals": 18,
+    "symbol": "CAG"
+  },
+
+
+  
   "0x6090A6e47849629b7245Dfa1Ca21D94cd15878Ef": {
     "name": "ENS Registrar",
     "logo": "ens.svg"
