@@ -13,7 +13,6 @@
     "symbol": "HGT",
     "decimals": 8
   },
-
   "0x8727c112C712c4a03371AC87a74dD6aB104Af768": {
     "name": "Jetcoin Institute Token",
     "logo": "JETCOIN28.png",
@@ -28,7 +27,6 @@
     "symbol": "IND",
     "decimals": 18
   },
-
   "0xC596bD09d652827b0106292D3e378D5938df4B12": {
     "name": "Teleport Token",
     "logo": "tpt.png",
@@ -260,9 +258,6 @@
     "decimals": 18,
     "symbol": "CAG"
   },
-
-
-  
   "0x6090A6e47849629b7245Dfa1Ca21D94cd15878Ef": {
     "name": "ENS Registrar",
     "logo": "ens.svg"
@@ -273,5 +268,12 @@
     "erc20": true,
     "decimals": 18,
     "symbol": "RVT"
+  },
+  "0xfec0cf7fe078a500abf15f1284958f22049c2c7e": {
+    "name": "Maecenas ART Token",
+    "logo": "Maecenas.jpg",
+    "erc20": true,
+    "symbol": "ART",
+    "decimals": 18
   }
 }
