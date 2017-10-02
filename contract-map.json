@@ -1,4 +1,62 @@
 {
+  "0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6": {
+    "name": "Dentacoin",
+    "logo": "Dentacoin.png",
+    "erc20": true,
+    "symbol": "DCN",
+    "decimals": 0
+  },
+  "0xba2184520A1cC49a6159c57e61E1844E085615B6": {
+    "name": "HelloGold Token",
+    "logo": "hgt.png",
+    "erc20": true,
+    "symbol": "HGT",
+    "decimals": 8
+  },
+
+  "0x8727c112C712c4a03371AC87a74dD6aB104Af768": {
+    "name": "Jetcoin Institute Token",
+    "logo": "JETCOIN28.png",
+    "erc20": true,
+    "symbol": "JET",
+    "decimals": 18
+  },
+  "0xf8e386EDa857484f5a12e4B5DAa9984E06E73705": {
+    "name": "Indorse Token",
+    "logo": "indorseLogo.jpg",
+    "erc20": true,
+    "symbol": "IND",
+    "decimals": 18
+  },
+
+  "0xC596bD09d652827b0106292D3e378D5938df4B12": {
+    "name": "Teleport Token",
+    "logo": "tpt.png",
+    "erc20": true,
+    "symbol": "TPT",
+    "decimals": 18
+  },
+  "0xA54ddC7B3CcE7FC8b1E3Fa0256D0DB80D2c10970": {
+    "name": "NEVERDIE Coin",
+    "logo": "ndc.png",
+    "erc20": true,
+    "symbol": "NDC",
+    "decimals": 18
+  },
+  "0xD0b3462481C33F63a288cd1923e2A261EE65b4FF": {
+    "name": "EGO Badge",
+    "logo": "ego_badge.png",
+    "erc20": true,
+    "symbol": "EGO",
+    "decimals": 0
+  },
+  "0x86Fa049857E0209aa7D9e616F7eb3b3B78ECfdb0": {
+    "name": "EOS",
+    "logo": "eos-logo.jpeg",
+    "erc20": true,
+    "symbol": "EOS",
+    "decimals": 18
+  },
   "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C": {
     "name": "Bancor Network Token",
     "logo": "bancor.png",
@@ -167,7 +225,7 @@
     "symbol": "PLU",
     "decimals": 18
   },
-  "0x48c80F1f4D53D5951e5D5438B54Cba84f29F32a5": {
+  "0xE94327D07Fc17907b4DB788E5aDf2ed424adDff6": {
     "name": "Reputation",
     "logo": "augur_logo.png",
     "erc20": true,
@@ -188,8 +246,32 @@
     "decimals": 18,
     "symbol": "META"
   },
+  "0x9a642d6b3368ddc662CA244bAdf32cDA716005BC": {
+    "name": "Qtum",
+    "logo": "qtum_28.png",
+    "erc20": true,
+    "decimals": 18,
+    "symbol": "QTUM"
+  },
+  "0x7d4b8Cce0591C9044a22ee543533b72E976E36C3": {
+    "name": "Change Coin",
+    "logo": "change.png",
+    "erc20": true,
+    "decimals": 18,
+    "symbol": "CAG"
+  },
+
+
+  
   "0x6090A6e47849629b7245Dfa1Ca21D94cd15878Ef": {
     "name": "ENS Registrar",
     "logo": "ens.svg"
+  },
+  "0x3d1BA9be9f66B8ee101911bC36D3fB562eaC2244": {
+    "name": "Rivetz",
+    "logo": "rivetz.png",
+    "erc20": true,
+    "decimals": 18,
+    "symbol": "RVT"
   }
 }
