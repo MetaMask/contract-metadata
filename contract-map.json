@@ -1,4 +1,16 @@
 {
+  "0xc3cB5D41C2f79C2F4f33A5D8a6DE72D0D87b1DB3": {
+    "name": "Swarm",
+    "logo": "swarm-logo-token.svg",
+    "erc20": true,
+    "symbol": "SWM",
+    "decimals": 18
+  },
+  "0x3B13F20CB484A87d4613b0ffe2d934d9c70CcCFd": {
+    "name": "Swarm Tokensale",
+    "logo": "swarm-logo-sale.svg",
+    "erc20": false
+  },
   "0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6": {
     "name": "Dentacoin",
     "logo": "Dentacoin.png",
