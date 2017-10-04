@@ -44,7 +44,7 @@
     "decimals": 18
   },
   "0x1c4481750daa5Ff521A2a7490d9981eD46465Dbd": {
-    "name": "Blockmason Credit Protocol Token",
+    "name": "BlockMason Credit Protocol Token",
     "logo": "bcpt.svg",
     "erc20": true,
     "symbol": "BCPT",
