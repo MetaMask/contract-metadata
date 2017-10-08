@@ -260,7 +260,13 @@
     "decimals": 18,
     "symbol": "CAG"
   },
-
+  "0x1d462414fe14cf489c7A21CaC78509f4bF8CD7c0": {
+    "name": "CanYaCoin",
+    "logo": "CanYa.svg",
+    "erc20": true,
+    "decimals": 6,
+    "symbol": "CAN"
+  },
 
   
   "0x6090A6e47849629b7245Dfa1Ca21D94cd15878Ef": {
