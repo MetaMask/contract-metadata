@@ -1,4 +1,11 @@
 {
+  "0xCed1A8529125D1bD06B54a7B01210df357D00885": {
+    "name": "Too Real Badge",
+    "logo": "too-real.jpg",
+    "erc20": true,
+    "symbol": "TRL",
+    "decimals": 0
+  },
   "0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6": {
     "name": "Dentacoin",
     "logo": "Dentacoin.png",
