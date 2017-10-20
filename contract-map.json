@@ -1,4 +1,11 @@
 {
+  "0xBEB9eF514a379B997e0798FDcC901Ee474B6D9A1": {
+    "name": "Melon",
+    "logo": "MLNSymbol.png",
+    "erc20": true,
+    "symbol": "MLN",
+    "decimals": 18
+  },
   "0xCed1A8529125D1bD06B54a7B01210df357D00885": {
     "name": "Too Real Badge",
     "logo": "too-real.jpg",
@@ -20,7 +27,6 @@
     "symbol": "HGT",
     "decimals": 8
   },
-
   "0x8727c112C712c4a03371AC87a74dD6aB104Af768": {
     "name": "Jetcoin Institute Token",
     "logo": "JETCOIN28.png",
@@ -35,7 +41,6 @@
     "symbol": "IND",
     "decimals": 18
   },
-
   "0xC596bD09d652827b0106292D3e378D5938df4B12": {
     "name": "Teleport Token",
     "logo": "tpt.png",
@@ -147,13 +152,6 @@
     "erc20": true,
     "symbol": "TRST",
     "decimals": 6
-  },
-  "0xBEB9eF514a379B997e0798FDcC901Ee474B6D9A1": {
-    "name": "Melon Token",
-    "logo": "melonport-1.svg",
-    "erc20": true,
-    "symbol": "MLN",
-    "decimals": 18
   },
   "0x960b236A07cf122663c4303350609A66A7B288C0": {
     "name": "Aragon Network Token",
@@ -267,9 +265,6 @@
     "decimals": 18,
     "symbol": "CAG"
   },
-
-
-  
   "0x6090A6e47849629b7245Dfa1Ca21D94cd15878Ef": {
     "name": "ENS Registrar",
     "logo": "ens.svg"
