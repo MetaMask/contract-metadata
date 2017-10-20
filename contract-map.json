@@ -1,7 +1,7 @@
 {
   "0xBEB9eF514a379B997e0798FDcC901Ee474B6D9A1": {
     "name": "Melon",
-    "logo": "MLNSymbol.png"
+    "logo": "MLNSymbol.png",
     "erc20": true,
     "symbol": "MLN",
     "decimals": 18
