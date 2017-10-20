@@ -4,6 +4,8 @@
     "logo": "MLNSymbol.png"
     "erc20": true,
     "symbol": "MLN",
+    "decimals": 18
+  },
   "0xCed1A8529125D1bD06B54a7B01210df357D00885": {
     "name": "Too Real Badge",
     "logo": "too-real.jpg",
