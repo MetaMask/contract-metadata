@@ -1,4 +1,11 @@
 {
+  "0x599346779e90fc3F5F997b5ea715349820F91571": {
+    "name": "Saturn",
+    "logo": "saturn-logo.svg",
+    "erc20": true,
+    "symbol": "STN",
+    "decimals": 4
+  },
   "0xBEB9eF514a379B997e0798FDcC901Ee474B6D9A1": {
     "name": "Melon",
     "logo": "MLNSymbol.png",
