@@ -1,7 +1,7 @@
 {
   "0x599346779e90fc3F5F997b5ea715349820F91571": {
     "name": "Saturn",
-    "logo": "saturn-logo.png",
+    "logo": "saturn-logo.svg",
     "erc20": true,
     "symbol": "STN",
     "decimals": 4
