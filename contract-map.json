@@ -1,4 +1,11 @@
 {
+  "0x957c30aB0426e0C93CD8241E2c60392d08c6aC8e": {
+    "name": "Modum Token",
+    "logo": "modum.svg",
+    "erc20": true,
+    "symbol": "MOD",
+    "decimals": 0
+  },
   "0xBEB9eF514a379B997e0798FDcC901Ee474B6D9A1": {
     "name": "Melon",
     "logo": "MLNSymbol.png",
