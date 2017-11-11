@@ -34,6 +34,13 @@
     "symbol": "HGT",
     "decimals": 8
   },
+  "0x7585F835ae2d522722d2684323a0ba83401f32f5": {
+    "name": "HelloGold Gold Backed Token",
+    "logo": "hg_gbt.png",
+    "erc20": true,
+    "symbol": "GBT",
+    "decimals": 18
+  },
   "0x8727c112C712c4a03371AC87a74dD6aB104Af768": {
     "name": "Jetcoin Institute Token",
     "logo": "JETCOIN28.png",
