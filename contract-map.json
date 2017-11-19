@@ -1,4 +1,25 @@
 {
+    "0x4F4f0Db4de903B88f2B1a2847971E231D54F8fd3": {
+    "name": "Geens Platform Token",
+    "logo": "gee-icon.svg",
+    "erc20": true,
+    "symbol": "GEE",
+    "decimals": 8
+  },
+  "0xBEB9eF514a379B997e0798FDcC901Ee474B6D9A1": {
+    "name": "Melon",
+    "logo": "MLNSymbol.png",
+    "erc20": true,
+    "symbol": "MLN",
+    "decimals": 18
+  },
+  "0xCed1A8529125D1bD06B54a7B01210df357D00885": {
+    "name": "Too Real Badge",
+    "logo": "too-real.jpg",
+    "erc20": true,
+    "symbol": "TRL",
+    "decimals": 0
+  },
   "0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6": {
     "name": "Dentacoin",
     "logo": "Dentacoin.png",
@@ -13,7 +34,13 @@
     "symbol": "HGT",
     "decimals": 8
   },
-
+  "0x7585F835ae2d522722d2684323a0ba83401f32f5": {
+    "name": "HelloGold Gold Backed Token",
+    "logo": "hg_gbt.png",
+    "erc20": true,
+    "symbol": "GBT",
+    "decimals": 18
+  },
   "0x8727c112C712c4a03371AC87a74dD6aB104Af768": {
     "name": "Jetcoin Institute Token",
     "logo": "JETCOIN28.png",
@@ -28,7 +55,6 @@
     "symbol": "IND",
     "decimals": 18
   },
-
   "0xC596bD09d652827b0106292D3e378D5938df4B12": {
     "name": "Teleport Token",
     "logo": "tpt.png",
@@ -148,13 +174,6 @@
     "symbol": "TRST",
     "decimals": 6
   },
-  "0xBEB9eF514a379B997e0798FDcC901Ee474B6D9A1": {
-    "name": "Melon Token",
-    "logo": "melonport-1.svg",
-    "erc20": true,
-    "symbol": "MLN",
-    "decimals": 18
-  },
   "0x960b236A07cf122663c4303350609A66A7B288C0": {
     "name": "Aragon Network Token",
     "logo": "aragon_isotype.svg",
@@ -267,9 +286,6 @@
     "decimals": 18,
     "symbol": "CAG"
   },
-
-
-  
   "0x6090A6e47849629b7245Dfa1Ca21D94cd15878Ef": {
     "name": "ENS Registrar",
     "logo": "ens.svg"
