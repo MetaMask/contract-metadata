@@ -258,14 +258,14 @@
     "symbol": "GNT",
     "decimals": 18
   },
-  "0x983f5fee8d2a2db5ca6675a37ea8361d0f66b2cf": {
+  "0x983F5fee8d2A2DB5CA6675a37EA8361d0f66b2CF": {
     "name": "Spectiv Signal Token",
     "logo": "spectiv.svg",
     "erc20": true,
     "symbol": "SIG",
     "decimals": 18
   },
-  "0xea6bf98404e1d10551e45b6275aaa942c136d3b5": {
+  "0xea6bf98404E1D10551e45B6275aaa942c136d3b5": {
     "name": "Spectiv Crowdsale",
     "logo": "spectiv.svg"
   },
