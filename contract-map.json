@@ -1,4 +1,11 @@
 {
+  "0x957c30aB0426e0C93CD8241E2c60392d08c6aC8e": {
+    "name": "Modum Token",
+    "logo": "modum.svg",
+    "erc20": true,
+    "symbol": "MOD",
+    "decimals": 0
+  },
     "0x06012c8cf97BEaD5deAe237070F9587f8E7A266d": {
     "name": "Crypto Kitties",
     "logo": "CryptoKitties-Kitty-13733.svg",
