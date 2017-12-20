@@ -1,4 +1,11 @@
 {
+    "0x06012c8cf97BEaD5deAe237070F9587f8E7A266d": {
+    "name": "Crypto Kitties",
+    "logo": "CryptoKitties-Kitty-13733.svg",
+    "erc20": true,
+    "symbol": "CK",
+    "decimals": 0
+  },
     "0x4F4f0Db4de903B88f2B1a2847971E231D54F8fd3": {
     "name": "Geens Platform Token",
     "logo": "gee-icon.svg",
