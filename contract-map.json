@@ -336,6 +336,13 @@
     "decimals": 18,
     "symbol": "RVT"
   },
+  "0x13f11C9905A08ca76e3e853bE63D4f0944326C72": {
+    "name": "Divi Exchange Token",
+    "logo": "divi.svg",
+    "erc20": true,
+    "symbol": "DIVX",
+    "decimals": 18
+  },
   "0xfec0cF7fE078a500abf15F1284958F22049c2C7e": {
     "name": "Maecenas ART Token",
     "logo": "Maecenas.jpg",
