@@ -1,4 +1,11 @@
 {
+  "0x106b419718298f91ca576728a670597fb2e0ee4e": {
+    "name": "Genevieve exchange",
+    "logo": "gxe.jpg",
+    "erc20": true,
+    "symbol": "GXE",
+    "decimals": 0
+  },
   "0x72D32ac1c5E66BfC5b08806271f8eEF915545164": {
     "name": "KEE Cryptoken",
     "logo": "Cryptokee150px.png",
