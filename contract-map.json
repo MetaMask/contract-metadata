@@ -1,7 +1,7 @@
 {
   "0x106b419718298f91ca576728a670597fb2e0ee4e": {
     "name": "Genevieve exchange",
-    "logo": "gxe.jpg",
+    "logo": "gxe.png",
     "erc20": true,
     "symbol": "GXE",
     "decimals": 0
