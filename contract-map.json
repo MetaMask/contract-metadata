@@ -325,6 +325,13 @@
     "decimals": 18,
     "symbol": "QTUM"
   },
+    "0x1234567461d3f8Db7496581774Bd869C83D51c93": {
+    "name": "BitClave",
+    "logo": "bitclave.svg",
+    "erc20": true,
+    "decimals": 18,
+    "symbol": "CAT"
+  },
   "0x7d4b8Cce0591C9044a22ee543533b72E976E36C3": {
     "name": "Change Coin",
     "logo": "change.png",
