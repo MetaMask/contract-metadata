@@ -69,11 +69,11 @@
     "symbol": "HGT",
     "decimals": 8
   },
-  "0x7585F835ae2d522722d2684323a0ba83401f32f5": {
-    "name": "HelloGold Gold Backed Token",
-    "logo": "hg_gbt.png",
+  "0xeAb43193CF0623073Ca89DB9B712796356FA7414": {
+    "name": "GOLDX",
+    "logo": "goldx.png",
     "erc20": true,
-    "symbol": "GBT",
+    "symbol": "GOLDX",
     "decimals": 18
   },
   "0x8727c112C712c4a03371AC87a74dD6aB104Af768": {
