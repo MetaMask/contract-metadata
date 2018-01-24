@@ -1,4 +1,11 @@
 {
+  "0x55296f69f40Ea6d20E478533C15A6B08B654E758": {
+    "name": "XY Oracle Token",
+    "logo": "xyo_coin.png",
+    "erc20": true,
+    "symbol": "XYO",
+    "decimals": 18
+  },
   "0x0F513fFb4926ff82D7F60A05069047AcA295C413": {
     "name": "CrowdstartCoin",
     "logo": "XSC Logo.svg",
