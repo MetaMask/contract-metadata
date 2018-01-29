@@ -139,6 +139,13 @@
     "symbol": "LUN",
     "decimals": 18
   },
+  "0x5b26C5D0772E5bbaC8b3182AE9a13f9BB2D03765": {
+    "name": "LiveEdu Education Token",
+    "logo": "edu.svg",
+    "erc20": true,
+    "symbol": "EDU",
+    "decimals": 8
+  },
   "0x5c543e7AE0A1104f78406C340E9C64FD9fCE5170": {
     "name": "vSlice",
     "logo": "",
