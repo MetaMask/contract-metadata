@@ -140,7 +140,7 @@
     "decimals": 18
   },
   "0x5b26C5D0772E5bbaC8b3182AE9a13f9BB2D03765": {
-    "name": "LiveEdu Education Token",
+    "name": "EDU Token",
     "logo": "edu.svg",
     "erc20": true,
     "symbol": "EDU",
