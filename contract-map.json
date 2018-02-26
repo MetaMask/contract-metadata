@@ -325,6 +325,13 @@
     "decimals": 18,
     "symbol": "META"
   },
+  "0x21f3618937f954f8681c93673086d74426f63eb6": {
+    "name": "MageCoin",
+    "logo": "magecoin.png",
+    "erc20": true,
+    "decimals": 18,
+    "symbol": "MAG"
+  },
   "0x9a642d6b3368ddc662CA244bAdf32cDA716005BC": {
     "name": "Qtum",
     "logo": "qtum_28.png",
@@ -388,12 +395,5 @@
     "erc20": true,
     "symbol": "ART",
     "decimals": 18
-  },
-  "0x21f3618937f954f8681c93673086d74426f63eb6": {
-    "name": "MageCoin",
-    "logo": "magecoin.png",
-    "erc20": true,
-    "decimals": 18,
-    "symbol": "MAG"
   }
 }
