@@ -393,7 +393,7 @@
     "name": "MageCoin",
     "logo": "magecoin.png",
     "erc20": true,
-    "symbol": "MAG",
-    "decimals": 18
+    "decimals": 18,
+    "symbol": "MAG"
   }
 }
