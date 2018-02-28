@@ -6,14 +6,14 @@
     "symbol": "OMG",
     "decimals": 18
   },
-  "0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac": {
+  "0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC": {
     "name": "Storj",
     "logo": "storj.jpg",
     "erc20": true,
     "symbol": "STORJ",
     "decimals": 8
   },
-  "0x0f5d2fb29fb7d3cfee444a200298f468908cc942": {
+  "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942": {
     "name": "Decentraland",
     "logo": "decentraland.png",
     "erc20": true,

@@ -13,7 +13,7 @@ test('the object is parsable', function (t) {
 
 test('the accounts are valid checksum addresses', function (t) {
   Object.keys(contractMap).forEach(address => {
-    t.ok(util.isValidChecksumAddress(address), `Address should be valid: ${address}`)
+    t.ok(util.isValidChecksumAddress(address), `Address should be valid checksum address: ${address}`)
   })
 
   t.end()
