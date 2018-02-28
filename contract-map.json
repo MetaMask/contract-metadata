@@ -20,6 +20,13 @@
     "symbol": "MOD",
     "decimals": 0
   },
+  "0x21F3618937f954F8681C93673086d74426f63eb6": {
+    "name": "MageCoin",
+    "logo": "magecoin.png",
+    "erc20": true,
+    "symbol": "MAG",
+    "decimals": 18
+  },
   "0x1a7a8BD9106F2B8D977E08582DC7d24c723ab0DB": {
     "name": "AppCoins",
     "logo": "appcoins.png",
