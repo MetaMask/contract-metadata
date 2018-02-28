@@ -1,4 +1,11 @@
 {
+  "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07": {
+    "name": "OmiseGO",
+    "logo": "omg.jpg",
+    "erc20": true,
+    "symbol": "OMG",
+    "decimals": 18
+  },
   "0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac": {
     "name": "Storj",
     "logo": "storj.jpg",
