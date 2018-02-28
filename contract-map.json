@@ -1,4 +1,11 @@
 {
+  "0x0f5d2fb29fb7d3cfee444a200298f468908cc942": {
+    "name": "Decentraland",
+    "logo": "decentraland.png",
+    "erc20": true,
+    "symbol": "MANA",
+    "decimals": 18
+  },
   "0x0F513fFb4926ff82D7F60A05069047AcA295C413": {
     "name": "CrowdstartCoin",
     "logo": "XSC_Logo.svg",
