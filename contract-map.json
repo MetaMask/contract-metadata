@@ -1,7 +1,7 @@
 {
   "0x0F513fFb4926ff82D7F60A05069047AcA295C413": {
     "name": "CrowdstartCoin",
-    "logo": "XSC Logo.svg",
+    "logo": "XSC_Logo.svg",
     "erc20": true,
     "symbol": "XSC",
     "decimals": 18
