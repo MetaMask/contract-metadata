@@ -25,7 +25,7 @@ test('logos should correspond to an included web image file', function (t) {
     if (!contract.logo) return
     const fileName = contract.logo
     const filePath = path.join(__dirname, '..', 'images', fileName)
-    t.ok(fs.existsSync(filePath), `file exists: ${fileName}`)
+    t.ok(fs.existsSync(filePath), `file exists: "${fileName}"`)
   })
 
   t.end()
@@ -37,7 +37,19 @@ test('logos path names should match exactly', function (t) {
     const contract = contractMap[address]
     if (!contract.logo) return
     const fileName = contract.logo
-    t.ok(dirContent.includes(fileName), `filename matches exactly: ${fileName}`)
+    t.ok(dirContent.includes(fileName), `filename matches exactly: "${fileName}"`)
+  })
+
+  t.end()
+})
+
+test('logos path names should not contain space', function (t) {
+  const dirContent = fs.readdirSync(path.join(__dirname, '..', 'images'))
+  Object.keys(contractMap).forEach(address => {
+    const contract = contractMap[address]
+    if (!contract.logo) return
+    const fileName = contract.logo
+    t.notOk(fileName.includes(' '), `filename does not include space: "${fileName}"`)
   })
 
   t.end()
