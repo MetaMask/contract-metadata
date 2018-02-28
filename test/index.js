@@ -22,10 +22,22 @@ test('the accounts are valid checksum addresses', function (t) {
 test('logos should correspond to an included web image file', function (t) {
   Object.keys(contractMap).forEach(address => {
     const contract = contractMap[address]
-    if ('logo' in contract) {
-      const fileName = contract.logo
-      t.ok(fs.existsSync(path.join(__dirname, '..', 'images', fileName)), `file exists: ${fileName}`)
-    }
+    if (!contract.logo) return
+    const fileName = contract.logo
+    const filePath = path.join(__dirname, '..', 'images', fileName)
+    t.ok(fs.existsSync(filePath), `file exists: ${fileName}`)
+  })
+
+  t.end()
+})
+
+test('logos path names should match exactly', function (t) {
+  const dirContent = fs.readdirSync(path.join(__dirname, '..', 'images'))
+  Object.keys(contractMap).forEach(address => {
+    const contract = contractMap[address]
+    if (!contract.logo) return
+    const fileName = contract.logo
+    t.ok(dirContent.includes(fileName), `filename matches exactly: ${fileName}`)
   })
 
   t.end()
@@ -43,4 +55,3 @@ test('only permitted fields should be used', function (t) {
 
   t.end()
 })
-
