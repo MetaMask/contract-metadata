@@ -34,6 +34,13 @@
     "symbol": "PKT",
     "decimals": 18
   },
+  "0xe41d2489571d322189246dafa5ebde1f4699f498": {
+    "name": "0x",
+    "logo": "0x.svg",
+    "erc20": true,
+    "symbol": "ZRX",
+    "decimals": 18
+  },
   "0x957c30aB0426e0C93CD8241E2c60392d08c6aC8e": {
     "name": "Modum Token",
     "logo": "modum.svg",
