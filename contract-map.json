@@ -428,5 +428,12 @@
   "0x2af47a65da8CD66729b4209C22017d6A5C2d2400": {
     "name": "StandardBounties",
     "logo": "StandardBounties.png"
+  },
+  "0x20bA6D154e59e02A33B02b0DC3FE0a63F9968E51": {
+    "name": "Opioid",
+    "logo": "Oid.LifeImage.png",
+    "erc20": true,
+    "symbol": "OID",
+    "decimals": 8
   }
 }
