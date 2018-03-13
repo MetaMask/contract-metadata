@@ -328,6 +328,13 @@
     "symbol": "RFR",
     "decimals": 4
   },
+  "0x408e41876cCCDC0F92210600ef50372656052a38": {
+    "name": "Republic Protocol",
+    "logo": "ren.svg",
+    "erc20": true,
+    "symbol": "REN",
+    "decimals": 18
+  },
   "0xa74476443119A942dE498590Fe1f2454d7D4aC0d": {
     "name": "Golem Network Token",
     "logo": "golem.svg",
