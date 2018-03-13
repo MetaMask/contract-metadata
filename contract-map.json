@@ -48,6 +48,13 @@
     "symbol": "MOD",
     "decimals": 0
   },
+  "0xe8780B48bdb05F928697A5e8155f672ED91462F7": {
+    "name": "Cashaa",
+    "logo": "cashaa.png",
+    "erc20": true,
+    "decimals": 18,
+    "symbol": "CAS"
+  },
   "0x1a7a8BD9106F2B8D977E08582DC7d24c723ab0DB": {
     "name": "AppCoins",
     "logo": "appcoins.png",
