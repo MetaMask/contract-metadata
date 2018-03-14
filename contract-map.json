@@ -132,7 +132,7 @@
     "symbol": "BCPT",
     "decimals": 18
   },
-  "0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0": {
+  "0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0": {
     "name": "Loom Network Token",
     "logo": "loom.svg",
     "erc20": true,
