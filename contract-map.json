@@ -1,4 +1,11 @@
 {
+  "0x82BD526bDB718C6d4DD2291Ed013A5186cAE2DCa": {
+    "name": "dutyof.care Token",
+    "logo": "dutyof.care-logo.svg",
+    "erc20": true,
+    "symbol": "VDOC",
+    "decimals": 18
+  },
   "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07": {
     "name": "OmiseGO",
     "logo": "omg.jpg",
