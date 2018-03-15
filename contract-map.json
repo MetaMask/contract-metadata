@@ -1,7 +1,7 @@
 {
   "0x82BD526bDB718C6d4DD2291Ed013A5186cAE2DCa": {
     "name": "dutyof.care Token",
-    "logo": "dutyof.care-logo.svg",
+    "logo": "dutyof.care-square.png",
     "erc20": true,
     "symbol": "VDOC",
     "decimals": 18
