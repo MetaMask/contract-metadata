@@ -1,4 +1,11 @@
 {
+  "0x28dee01D53FED0Edf5f6E310BF8Ef9311513Ae40": {
+    "name": "BlitzPredict",
+    "logo": "BlitzPredict.png",
+    "erc20": true,
+    "symbol": "XBP",
+    "decimals": 18
+  },
   "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07": {
     "name": "OmiseGO",
     "logo": "omg.jpg",
