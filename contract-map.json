@@ -76,6 +76,13 @@
     "symbol": "GBT",
     "decimals": 18
   },
+  "0x12fCd6463E66974cF7bBC24FFC4d40d6bE458283": {
+    "name": "Globitex",
+    "logo": "Globitex.png",
+    "erc20": true,
+    "symbol": "GBX",
+    "decimals": 18
+  },
   "0x8727c112C712c4a03371AC87a74dD6aB104Af768": {
     "name": "Jetcoin Institute Token",
     "logo": "JETCOIN28.png",
