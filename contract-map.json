@@ -139,6 +139,13 @@
     "symbol": "BCPT",
     "decimals": 18
   },
+  "0x20F7A3DdF244dc9299975b4Da1C39F8D5D75f05A": {
+    "name": "Sapien Network Token",
+    "logo": "spn.svg",
+    "erc20": true,
+    "symbol": "SPN",
+    "decimals": 6
+  },
   "0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0": {
     "name": "Loom Network Token",
     "logo": "loom.svg",
