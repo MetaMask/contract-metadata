@@ -307,6 +307,13 @@
     "symbol": "MKR",
     "decimals": 18
   },
+  "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359": {
+    "name": "DAI",
+    "logo": "dai.svg",
+    "erc20": true,
+    "symbol": "DAI",
+    "decimals": 18
+  },
   "0x0D8775F648430679A709E98d2b0Cb6250d2887EF": {
     "name": "Basic Attention Token",
     "logo": "BAT_icon.svg",
