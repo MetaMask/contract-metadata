@@ -32,6 +32,8 @@ function imageElFor (address) {
 
 ## Submission Process
 
+Maintaining this list is a considerable chore, and it is not our highest priority. We do not guarantee inclusion in this list on any urgent timeline. We are actively looking for fair and safe ways to maintain a list like this in a decentralized way, because maintaining it is a large and security-delicate task.
+
 1. Fork this repository.
 2. Add your logo image in a web-safe format to the `images` folder.
 3. Add an entry to the `contract-map.json` file with the specified address as the key, and the image file's name as the value.
