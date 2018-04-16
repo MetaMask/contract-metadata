@@ -453,6 +453,13 @@
     "symbol": "ZIL",
     "decimals": 12
   },
+  "0x05f4a42e251f2d52b8ed15E9FEdAacFcEF1FAD27": {
+    "name": "BitMartToken",
+    "logo": "bitmart.png",
+    "erc20": true,
+    "symbol": "BMX",
+    "decimals": 18
+  },
   "0x2af47a65da8CD66729b4209C22017d6A5C2d2400": {
     "name": "StandardBounties",
     "logo": "StandardBounties.png"
