@@ -45,6 +45,7 @@ Criteria:
 - Project website should include explanation of project.
 - Project should have clear signs of activity, either traffic on the network, activity on GitHub, or community buzz.
 - Nice to have a verified source code on a block explorer like Etherscan.
+- Must have a ['NEUTRAL' reputation or 'OK' reputation](https://etherscancom.freshdesk.com/support/solutions/articles/35000022146-etherscan-token-reputation-system) on Etherscan.
 
 A sample submission:
 
