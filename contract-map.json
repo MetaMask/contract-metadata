@@ -307,6 +307,13 @@
     "symbol": "MKR",
     "decimals": 18
   },
+  "0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359": {
+    "name": "Dai Stablecoin v1.0",
+    "logo": "dai.svg",
+    "erc20": true,
+    "symbol": "DAI",
+    "decimals": 18
+  },
   "0x0D8775F648430679A709E98d2b0Cb6250d2887EF": {
     "name": "Basic Attention Token",
     "logo": "BAT_icon.svg",
