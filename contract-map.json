@@ -167,7 +167,7 @@
     "symbol": "EOS",
     "decimals": 18
   },
-  "0x7e9e431a0b8c4d532c745b1043c7fa29a48d4fba": {
+  "0x7e9e431a0B8c4D532C745B1043c7FA29a48D4fBa": {
     "name": "eosDAC",
     "logo": "eosdac_logo.jpg",
     "erc20": true,
