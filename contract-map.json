@@ -1,4 +1,11 @@
 {
+  "0x7f6715c3fc4740a02f70de85b9fd50ac6001fed9": {
+    "name": "FANX TOKEN",
+    "logo": "FanX-LOGO.png",
+    "erc20": true,
+    "symbol": "FANX",
+    "decimals": 18
+  },
   "0x82BD526bDB718C6d4DD2291Ed013A5186cAE2DCa": {
     "name": "dutyof.care Token",
     "logo": "dutyof.care-square.png",
