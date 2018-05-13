@@ -471,4 +471,11 @@
     "name": "StandardBounties",
     "logo": "StandardBounties.png"
   }
+  "0xbf24a875bf58a2473005f9271bd023b656721d3e": {
+    "name": "Colorado Coin",
+    "logo": "Colorado_Coin.png",
+    "erc20": true,
+    "symbol": "COLO",
+    "decimals": 18
+  }
 }
