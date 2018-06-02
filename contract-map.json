@@ -470,5 +470,12 @@
   "0x2af47a65da8CD66729b4209C22017d6A5C2d2400": {
     "name": "StandardBounties",
     "logo": "StandardBounties.png"
+  },
+  "0xFFE02ee4C69eDf1b340fCaD64fbd6b37a7b9e265": {
+    "name": "NANJCOIN",
+    "logo": "nanjcoin.svg",
+    "erc20": true,
+    "symbol": "NANJ",
+    "decimals": 8
   }
 }
