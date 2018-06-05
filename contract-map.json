@@ -467,6 +467,13 @@
     "symbol": "ZIL",
     "decimals": 12
   },
+  "0x97AEB5066E1A590e868b511457BEb6FE99d329F5": {
+    "name": "Atonomi",
+    "logo": "atonomi.png",
+    "erc20": true,
+    "symbol": "ATMI",
+    "decimals": 18
+  },
   "0x2af47a65da8CD66729b4209C22017d6A5C2d2400": {
     "name": "StandardBounties",
     "logo": "StandardBounties.png"
