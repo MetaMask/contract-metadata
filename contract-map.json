@@ -69,6 +69,13 @@
     "symbol": "CK",
     "decimals": 0
   },
+  "0xE477292f1B3268687A29376116B0ED27A9c76170": {
+    "name": "Herocoin",
+    "logo": "herocoin_logo.png",
+    "erc20": true,
+    "symbol": "PLAY",
+    "decimals": 18
+  },
   "0x4F4f0Db4de903B88f2B1a2847971E231D54F8fd3": {
     "name": "Geens Platform Token",
     "logo": "gee-icon.svg",
