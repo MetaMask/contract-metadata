@@ -6,6 +6,13 @@
     "symbol": "NCT",
     "decimals": 18
   },
+  "0x82BD526bDB718C6d4DD2291Ed013A5186cAE2DCa": {
+    "name": "dutyof.care Token",
+    "logo": "dutyof.care-square.png",
+    "erc20": true,
+    "symbol": "VDOC",
+    "decimals": 18
+  },
   "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07": {
     "name": "OmiseGO",
     "logo": "omg.jpg",
@@ -312,6 +319,13 @@
     "logo": "logo-maker-4.svg",
     "erc20": true,
     "symbol": "MKR",
+    "decimals": 18
+  },
+  "0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359": {
+    "name": "Dai Stablecoin v1.0",
+    "logo": "dai.svg",
+    "erc20": true,
+    "symbol": "DAI",
     "decimals": 18
   },
   "0x0D8775F648430679A709E98d2b0Cb6250d2887EF": {
