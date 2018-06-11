@@ -1,4 +1,11 @@
 {
+  "0x9E46A38F5DaaBe8683E10793b06749EEF7D733d1": {
+    "name": "PolySwarm Nectar",
+    "logo": "polyswarm_nectar.svg",
+    "erc20": true,
+    "symbol": "NCT",
+    "decimals": 18
+  },
   "0x82BD526bDB718C6d4DD2291Ed013A5186cAE2DCa": {
     "name": "dutyof.care Token",
     "logo": "dutyof.care-square.png",
