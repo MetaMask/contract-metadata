@@ -1,4 +1,11 @@
 {
+  "0x039F5050De4908F9b5ddf40A4F3AA3f329086387": {
+    "name": "Ethernet Cash",
+    "logo": "ethernet_cash.svg",
+    "erc20": true,
+    "symbol": "ENC",
+    "decimals": 18
+  },
   "0x9E46A38F5DaaBe8683E10793b06749EEF7D733d1": {
     "name": "PolySwarm Nectar",
     "logo": "polyswarm_nectar.svg",
