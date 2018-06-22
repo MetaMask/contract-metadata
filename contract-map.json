@@ -1,4 +1,11 @@
 {
+  "0x0D262e5dC4A06a0F1c90cE79C7a60C09DfC884E4": {
+    "name": "JET8 Token",
+    "logo": "J8T.svg",
+    "erc20": true,
+    "symbol": "J8T",
+    "decimals": 8
+  },
   "0xBC86727E770de68B1060C91f6BB6945c73e10388": {
     "name": "Ink Protocol",
     "logo": "ink_protocol.svg",
