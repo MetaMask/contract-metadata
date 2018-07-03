@@ -520,6 +520,17 @@
     "name": "StandardBounties",
     "logo": "StandardBounties.png"
   },
+  "0xf79C2cc623c9317725712cF1b1b980464507a70A": {
+    "name": "Exposure Token",
+    "logo": "exposure.svg",
+    "erc20": true,
+    "symbol": "EXPO",
+    "decimals": 18
+  },
+  "0xB7D9372DbcEDfFd7b58a15516e0b156204b764a8": {
+    "name": "Exposure Crowdsale",
+    "logo": "exposure.svg"
+  }, 
   "0xFFE02ee4C69eDf1b340fCaD64fbd6b37a7b9e265": {
     "name": "NANJCOIN",
     "logo": "nanjcoin.svg",
