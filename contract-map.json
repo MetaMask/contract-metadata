@@ -1,4 +1,25 @@
 {
+  "0x0D262e5dC4A06a0F1c90cE79C7a60C09DfC884E4": {
+    "name": "JET8 Token",
+    "logo": "J8T.svg",
+    "erc20": true,
+    "symbol": "J8T",
+    "decimals": 8
+  },
+  "0xBC86727E770de68B1060C91f6BB6945c73e10388": {
+    "name": "Ink Protocol",
+    "logo": "ink_protocol.svg",
+    "erc20": true,
+    "symbol": "XNK",
+    "decimals": 18
+  },
+  "0x9E46A38F5DaaBe8683E10793b06749EEF7D733d1": {
+    "name": "PolySwarm Nectar",
+    "logo": "polyswarm_nectar.svg",
+    "erc20": true,
+    "symbol": "NCT",
+    "decimals": 18
+  },
   "0x82BD526bDB718C6d4DD2291Ed013A5186cAE2DCa": {
     "name": "dutyof.care Token",
     "logo": "dutyof.care-square.png",
@@ -32,6 +53,13 @@
     "logo": "XSC_Logo.svg",
     "erc20": true,
     "symbol": "XSC",
+    "decimals": 18
+  },
+  "0x5BC7e5f0Ab8b2E10D2D0a3F21739FCe62459aeF3": {
+    "name": "Hut34 Entropy Token",
+    "logo": "ENTRP.png",
+    "symbol": "ENTR",
+    "erc20": true,
     "decimals": 18
   },
   "0x2604FA406Be957E542BEb89E6754fCdE6815e83f": {
@@ -68,6 +96,13 @@
     "erc20": true,
     "symbol": "CK",
     "decimals": 0
+  },
+  "0xE477292f1B3268687A29376116B0ED27A9c76170": {
+    "name": "Herocoin",
+    "logo": "herocoin_logo.png",
+    "erc20": true,
+    "symbol": "PLAY",
+    "decimals": 18
   },
   "0x4F4f0Db4de903B88f2B1a2847971E231D54F8fd3": {
     "name": "Geens Platform Token",
@@ -145,6 +180,13 @@
     "erc20": true,
     "symbol": "BCPT",
     "decimals": 18
+  },
+  "0x20F7A3DdF244dc9299975b4Da1C39F8D5D75f05A": {
+    "name": "Sapien Network Token",
+    "logo": "spn.svg",
+    "erc20": true,
+    "symbol": "SPN",
+    "decimals": 6
   },
   "0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0": {
     "name": "Loom Network Token",
@@ -467,6 +509,13 @@
     "symbol": "ZIL",
     "decimals": 12
   },
+  "0x986EE2B944c42D017F52Af21c4c69B84DBeA35d8": {
+    "name": "BitMartToken",
+    "logo": "bitmart.png",
+    "erc20": true,
+    "symbol": "BMX",
+    "decimals": 18
+  },
   "0x2af47a65da8CD66729b4209C22017d6A5C2d2400": {
     "name": "StandardBounties",
     "logo": "StandardBounties.png"
@@ -477,5 +526,12 @@
     "erc20": true,
     "symbol": "WETH",
     "decimals": 18
+  },
+  "0xFFE02ee4C69eDf1b340fCaD64fbd6b37a7b9e265": {
+    "name": "NANJCOIN",
+    "logo": "nanjcoin.svg",
+    "erc20": true,
+    "symbol": "NANJ",
+    "decimals": 8
   }
 }
