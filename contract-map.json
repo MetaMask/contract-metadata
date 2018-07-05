@@ -1,4 +1,11 @@
 {
+  "0x7dCB3B2356C822d3577D4d060D0D5D78C860488C": {
+    "name": "FANX TOKEN",
+    "logo": "FanX-LOGO.png",
+    "erc20": true,
+    "symbol": "FANX",
+    "decimals": 18
+  },
   "0x0D262e5dC4A06a0F1c90cE79C7a60C09DfC884E4": {
     "name": "JET8 Token",
     "logo": "J8T.svg",
