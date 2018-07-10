@@ -520,6 +520,13 @@
     "name": "StandardBounties",
     "logo": "StandardBounties.png"
   },
+  "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2": {
+    "name": "Wrapped Ether",
+    "logo": "weth.png",
+    "erc20": true,
+    "symbol": "WETH",
+    "decimals": 18
+  },
   "0xFFE02ee4C69eDf1b340fCaD64fbd6b37a7b9e265": {
     "name": "NANJCOIN",
     "logo": "nanjcoin.svg",
