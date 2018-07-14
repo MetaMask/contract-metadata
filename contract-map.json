@@ -526,5 +526,12 @@
     "erc20": true,
     "symbol": "NANJ",
     "decimals": 8
+  },
+  "0x2cc114bbe7b551d62b15c465c7bdcccd9125b182": {
+    "name": "IDOLCOIN",
+    "logo": "idolcoin.png",
+    "erc20": true,
+    "symbol": "IDOL",
+    "decimals": 8
   }
 }
