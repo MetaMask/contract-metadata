@@ -90,6 +90,13 @@
     "decimals": 18,
     "symbol": "APPC"
   },
+  "0xC011A72400E58ecD99Ee497CF89E3775d4bd732F": {
+    "name": "Havven",
+    "logo": "havven.png",
+    "erc20": true,
+    "decimals": 18,
+    "symbol": "HAV"
+  },
   "0x0DB8D8b76BC361bAcbB72E2C491E06085A97Ab31": {
     "name": "IQeon",
     "logo": "iqeon.svg",
