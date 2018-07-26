@@ -330,7 +330,7 @@
   },
   "0x607F4C5BB672230e8672085532f7e901544a7375": {
     "name": "iEx.ec Network Token",
-    "logo": "rlc.png",
+    "logo": "rlc.svg",
     "erc20": true,
     "symbol": "RLC",
     "decimals": 9
