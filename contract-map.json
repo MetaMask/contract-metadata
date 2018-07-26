@@ -90,6 +90,13 @@
     "decimals": 18,
     "symbol": "APPC"
   },
+  "0x57Ab1E02fEE23774580C119740129eAC7081e9D3": {
+    "name": "nUSD",
+    "logo": "havven_nusd.png",
+    "erc20": true,
+    "decimals": 18,
+    "symbol": "NUSD"
+  },
   "0x0DB8D8b76BC361bAcbB72E2C491E06085A97Ab31": {
     "name": "IQeon",
     "logo": "iqeon.svg",
