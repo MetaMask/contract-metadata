@@ -246,7 +246,7 @@
   },
   "0x5c543e7AE0A1104f78406C340E9C64FD9fCE5170": {
     "name": "vSlice",
-    "logo": "",
+    "logo": "vslice.png",
     "erc20": true,
     "symbol": "vSlice",
     "decimals": 0
@@ -281,7 +281,7 @@
   },
   "0x08711D3B02C8758F2FB3ab4e80228418a7F8e39c": {
     "name": "Edgeless",
-    "logo": "",
+    "logo": "edgeless.jpg",
     "erc20": true,
     "symbol": "EDG",
     "decimals": 0
@@ -309,7 +309,7 @@
   },
   "0xCb94be6f13A1182E4A4B6140cb7bf2025d28e41B": {
     "name": "Trustcoin",
-    "logo": "",
+    "logo": "trustcoin.jpg",
     "erc20": true,
     "symbol": "TRST",
     "decimals": 6
