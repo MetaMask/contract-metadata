@@ -329,7 +329,7 @@
     "decimals": 18
   },
   "0x607F4C5BB672230e8672085532f7e901544a7375": {
-    "name": "iEx.ec Network Token",
+    "name": "iExec RLC Token",
     "logo": "rlc.svg",
     "erc20": true,
     "symbol": "RLC",
