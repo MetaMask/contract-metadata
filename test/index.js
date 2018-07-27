@@ -43,6 +43,16 @@ test('logos path names should match exactly', function (t) {
   t.end()
 })
 
+test('logos icon should not be empty', function (t) {
+  Object.keys(contractMap).forEach(address => {
+    const contract = contractMap[address]
+    const logo = contract.logo
+    t.notEqual(logo.length, 0)
+
+  })
+  t.end()
+})
+
 test('logos path names should not contain space', function (t) {
   const dirContent = fs.readdirSync(path.join(__dirname, '..', 'images'))
   Object.keys(contractMap).forEach(address => {
