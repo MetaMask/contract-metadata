@@ -555,11 +555,11 @@
     "symbol": "NANJ",
     "decimals": 8
   },
-  "0x2cc114bbe7b551d62b15c465c7bdcccd9125b182": {
-    "name": "IDOLCOIN",
-    "logo": "idolcoin.png",
+  "0xe11609b9a51caf7d32a55896386ac52ed90e66f1": {
+    "name": "COMIKETCOIN",
+    "logo": "comiketcoin.png",
     "erc20": true,
-    "symbol": "IDOL",
+    "symbol": "CMIT",
     "decimals": 8
   }
 }
