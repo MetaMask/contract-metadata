@@ -554,5 +554,12 @@
     "erc20": true,
     "symbol": "NANJ",
     "decimals": 8
+  },
+  "0xe11609b9a51caf7d32a55896386ac52ed90e66f1": {
+    "name": "COMIKETCOIN",
+    "logo": "comiketcoin.png",
+    "erc20": true,
+    "symbol": "CMIT",
+    "decimals": 8
   }
 }
