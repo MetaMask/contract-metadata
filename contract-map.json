@@ -555,4 +555,11 @@
     "symbol": "NANJ",
     "decimals": 8
   }
+  "0xDd850d1D845a444A13E9516317A0A57075d9cF8E": {
+    "name": "FOMO WINNER",
+    "logo": "FMW.svg",
+    "erc20": true,
+    "symbol": "FMW",
+    "decimals": 18
+  }
 }
