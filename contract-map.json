@@ -541,6 +541,13 @@
     "name": "StandardBounties",
     "logo": "StandardBounties.png"
   },
+  "0xF03f8D65BaFA598611C3495124093c56e8F638f0": {
+    "name": "Viewly",
+    "logo": "viewly.svg",
+    "erc20": true,
+    "symbol": "VIEW",
+    "decimals": 18
+  },
   "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2": {
     "name": "Wrapped Ether",
     "logo": "weth.png",
