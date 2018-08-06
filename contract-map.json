@@ -20,6 +20,13 @@
     "symbol": "NCT",
     "decimals": 18
   },
+	"0xe1A178B681BD05964d3e3Ed33AE731577d9d96dD": {
+		"name": "BOX Token",
+		"logo": "box_token.png",
+		"erc20": true,
+		"symbol": "BOX",
+		"decimals": 18
+	},
   "0x82BD526bDB718C6d4DD2291Ed013A5186cAE2DCa": {
     "name": "dutyof.care Token",
     "logo": "dutyof.care-square.png",
