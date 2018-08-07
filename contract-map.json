@@ -561,5 +561,12 @@
     "erc20": true,
     "symbol": "NANJ",
     "decimals": 8
+  },
+  "0x9847345de8b614c956146bbea549336d9c8d26b6": {
+    "name": "Guld ERC20",
+    "logo": "guld.svg",
+    "erc20": true,
+    "symbol": "GULD",
+    "decimals": 8
   }
 }
