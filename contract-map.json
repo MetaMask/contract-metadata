@@ -530,13 +530,6 @@
     "symbol": "ART",
     "decimals": 18
   },
-  "0x05f4a42e251f2d52b8ed15E9FEdAacFcEF1FAD27": {
-    "name": "Zilliqa",
-    "logo": "zilliqa.svg",
-    "erc20": true,
-    "symbol": "ZIL",
-    "decimals": 12
-  },
   "0x986EE2B944c42D017F52Af21c4c69B84DBeA35d8": {
     "name": "BitMartToken",
     "logo": "bitmart.png",
