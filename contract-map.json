@@ -90,6 +90,13 @@
     "decimals": 18,
     "symbol": "APPC"
   },
+  "0xdB25f211AB05b1c97D595516F45794528a807ad8": {
+    "name": "STASIS EURS Token",
+    "logo": "stasis-eurs.svg",
+    "erc20": true,
+    "decimals": 2,
+    "symbol": "EURS"
+  },
   "0xC011A72400E58ecD99Ee497CF89E3775d4bd732F": {
     "name": "Havven",
     "logo": "havven.png",
