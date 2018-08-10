@@ -20,6 +20,13 @@
     "symbol": "NCT",
     "decimals": 18
   },
+	"0xe1A178B681BD05964d3e3Ed33AE731577d9d96dD": {
+		"name": "BOX Token",
+		"logo": "box_token.png",
+		"erc20": true,
+		"symbol": "BOX",
+		"decimals": 18
+	},
   "0x82BD526bDB718C6d4DD2291Ed013A5186cAE2DCa": {
     "name": "dutyof.care Token",
     "logo": "dutyof.care-square.png",
@@ -33,6 +40,13 @@
     "erc20": true,
     "symbol": "RHOC",
     "decimals": 8
+  },
+  "0x543Ff227F64Aa17eA132Bf9886cAb5DB55DCAddf": {
+    "name": "DAOstack",
+    "logo": "DAOstack.png",
+    "erc20": true,
+    "symbol": "GEN",
+    "decimals": 18
   },
   "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07": {
     "name": "OmiseGO",
@@ -69,6 +83,13 @@
     "erc20": true,
     "decimals": 18
   },
+  "0xEBBdf302c940c6bfd49C6b165f457fdb324649bc": {
+    "name": "Hydro",
+    "logo": "hydro.png",
+    "erc20": true,
+    "symbol": "HYDRO",
+    "decimals": 18
+  },
   "0x2604FA406Be957E542BEb89E6754fCdE6815e83f": {
     "name": "Playkey Token",
     "logo": "playkey.svg",
@@ -96,6 +117,13 @@
     "erc20": true,
     "decimals": 18,
     "symbol": "APPC"
+  },
+  "0xdB25f211AB05b1c97D595516F45794528a807ad8": {
+    "name": "STASIS EURS Token",
+    "logo": "stasis-eurs.svg",
+    "erc20": true,
+    "decimals": 2,
+    "symbol": "EURS"
   },
   "0xC011A72400E58ecD99Ee497CF89E3775d4bd732F": {
     "name": "Havven",
@@ -260,7 +288,7 @@
   },
   "0x5c543e7AE0A1104f78406C340E9C64FD9fCE5170": {
     "name": "vSlice",
-    "logo": "",
+    "logo": "vslice.png",
     "erc20": true,
     "symbol": "vSlice",
     "decimals": 0
@@ -295,7 +323,7 @@
   },
   "0x08711D3B02C8758F2FB3ab4e80228418a7F8e39c": {
     "name": "Edgeless",
-    "logo": "",
+    "logo": "edgeless.jpg",
     "erc20": true,
     "symbol": "EDG",
     "decimals": 0
@@ -323,7 +351,7 @@
   },
   "0xCb94be6f13A1182E4A4B6140cb7bf2025d28e41B": {
     "name": "Trustcoin",
-    "logo": "",
+    "logo": "trustcoin.jpg",
     "erc20": true,
     "symbol": "TRST",
     "decimals": 6
@@ -375,7 +403,7 @@
     "logo": "DGD.png",
     "erc20": true,
     "symbol": "DGD",
-    "decimals": 0
+    "decimals": 9
   },
   "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2": {
     "name": "Maker",
@@ -548,6 +576,13 @@
     "name": "StandardBounties",
     "logo": "StandardBounties.png"
   },
+  "0xF03f8D65BaFA598611C3495124093c56e8F638f0": {
+    "name": "Viewly",
+    "logo": "viewly.svg",
+    "erc20": true,
+    "symbol": "VIEW",
+    "decimals": 18
+  },
   "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2": {
     "name": "Wrapped Ether",
     "logo": "weth.png",
@@ -560,6 +595,13 @@
     "logo": "nanjcoin.svg",
     "erc20": true,
     "symbol": "NANJ",
+    "decimals": 8
+  },
+ "0xB6eD7644C69416d67B522e20bC294A9a9B405B31": {
+    "name": "0xBitcoin Token",
+    "logo": "0xbitcoin.png",
+    "erc20": true,
+    "symbol": "0xBTC",
     "decimals": 8
   }
 }
