@@ -34,6 +34,13 @@
     "symbol": "VDOC",
     "decimals": 18
   },
+  "0x168296bb09e24A88805CB9c33356536B980D3fC5": {
+    "name": "Rhoc",
+    "logo": "rchain.png",
+    "erc20": true,
+    "symbol": "RHOC",
+    "decimals": 8
+  },
   "0x543Ff227F64Aa17eA132Bf9886cAb5DB55DCAddf": {
     "name": "DAOstack",
     "logo": "DAOstack.png",
