@@ -1,4 +1,11 @@
 {
+  "0x9f452e458b024e82d6e3ff50a07b8de74c988523": {
+    "name": "Goat Cash",
+    "logo": "goat.svg",
+    "erc20": true,
+    "symbol": "GOAT",
+    "decimals": 18
+  },
   "0x0D262e5dC4A06a0F1c90cE79C7a60C09DfC884E4": {
     "name": "JET8 Token",
     "logo": "J8T.svg",
