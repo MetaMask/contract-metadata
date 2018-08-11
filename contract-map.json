@@ -426,6 +426,13 @@
     "symbol": "BAT",
     "decimals": 18
   },
+  "0xdb0F69306FF8F949f258E83f6b87ee5D052d0b23": {
+    "name": "Globcoin Crypto Platform",
+    "logo": "GCP.png",
+    "erc20": true,
+    "symbol": "GCP",
+    "decimals": 18
+  },
   "0x6810e776880C02933D47DB1b9fc05908e5386b96": {
     "name": "Gnosis Token",
     "logo": "gnosis.svg",
