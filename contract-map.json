@@ -603,5 +603,12 @@
     "erc20": true,
     "symbol": "0xBTC",
     "decimals": 8
+  },
+  "0x744d70FDBE2Ba4CF95131626614a1763DF805B9E": {
+    "name": "Status Network Token",
+    "logo": "snt.svg",
+    "erc20": true,
+    "symbol": "SNT",
+    "decimals": 18
   }
 }
