@@ -104,6 +104,13 @@
     "symbol": "ZRX",
     "decimals": 18
   },
+  "0xB563300A3BAc79FC09B93b6F84CE0d4465A2AC27": {
+    "name": "RedCab",
+    "logo": "redcab.png",
+    "erc20": true,
+    "symbol": "REDC",
+    "decimals": 18
+  },
   "0x957c30aB0426e0C93CD8241E2c60392d08c6aC8e": {
     "name": "Modum Token",
     "logo": "modum.svg",
