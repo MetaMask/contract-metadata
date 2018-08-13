@@ -610,5 +610,12 @@
     "erc20": true,
     "symbol": "SNT",
     "decimals": 18
+  },
+  "0x02F61Fd266DA6E8B102D4121f5CE7b992640CF98": {
+    "name": "LikeCoin",
+    "logo": "like.svg",
+    "erc20": true,
+    "symbol": "LIKE",
+    "decimals": 18
   }
 }
