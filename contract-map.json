@@ -13,6 +13,13 @@
     "symbol": "XNK",
     "decimals": 18
   },
+  "0xa95592DCFfA3C080B4B40E459c5f5692F67DB7F8": {
+    "name": "ELY Token",
+    "logo": "ely.png",
+    "erc20": true,
+    "symbol": "ELY",
+    "decimals": 18
+  },
   "0x9E46A38F5DaaBe8683E10793b06749EEF7D733d1": {
     "name": "PolySwarm Nectar",
     "logo": "polyswarm_nectar.svg",
@@ -102,6 +109,13 @@
     "logo": "0x.svg",
     "erc20": true,
     "symbol": "ZRX",
+    "decimals": 18
+  },
+  "0xB563300A3BAc79FC09B93b6F84CE0d4465A2AC27": {
+    "name": "RedCab",
+    "logo": "redcab.png",
+    "erc20": true,
+    "symbol": "REDC",
     "decimals": 18
   },
   "0x957c30aB0426e0C93CD8241E2c60392d08c6aC8e": {
@@ -616,6 +630,13 @@
     "logo": "SPANK.png",
     "erc20": true,
     "symbol": "SPANK",
+    "decimals": 18
+  },
+  "0x02F61Fd266DA6E8B102D4121f5CE7b992640CF98": {
+    "name": "LikeCoin",
+    "logo": "like.svg",
+    "erc20": true,
+    "symbol": "LIKE",
     "decimals": 18
   }
 }
