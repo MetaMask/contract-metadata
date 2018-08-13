@@ -13,6 +13,13 @@
     "symbol": "XNK",
     "decimals": 18
   },
+  "0xa95592DCFfA3C080B4B40E459c5f5692F67DB7F8": {
+    "name": "ELY Token",
+    "logo": "ely.png",
+    "erc20": true,
+    "symbol": "ELY",
+    "decimals": 18
+  },
   "0x9E46A38F5DaaBe8683E10793b06749EEF7D733d1": {
     "name": "PolySwarm Nectar",
     "logo": "polyswarm_nectar.svg",
