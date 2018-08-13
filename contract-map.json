@@ -610,5 +610,12 @@
     "erc20": true,
     "symbol": "SNT",
     "decimals": 18
+  },
+  "0x42d6622deCe394b54999Fbd73D108123806f6a18": {
+    "name": "SPANK",
+    "logo": "SPANK.png",
+    "erc20": true,
+    "symbol": "SPANK",
+    "decimals": 18
   }
 }
