@@ -65,6 +65,17 @@ test('logos path names should not contain space', function (t) {
   t.end()
 })
 
+test('symbols should be five or less characters', function (t) {
+  Object.keys(contractMap).forEach(address => {
+    const contract = contractMap[address]
+    const symbol = contract.symbol
+    if (symbol) {
+      t.ok(symbol.length < 6, `symbol with more than 5 characters: "${symbol}"`)
+    }
+  })
+  t.end()
+})
+
 test('only permitted fields should be used', function (t) {
   Object.keys(contractMap).forEach(address => {
     const contract = contractMap[address]
