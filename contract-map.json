@@ -632,6 +632,13 @@
     "symbol": "SPANK",
     "decimals": 18
   },
+  "0x0abdace70d3790235af448c88547603b945604ea": {
+    "name": "district0x Network Token",
+    "logo": "d0x-icon.png",
+    "erc20": true,
+    "symbol": "DNT",
+    "decimals": 18
+  },
   "0x02F61Fd266DA6E8B102D4121f5CE7b992640CF98": {
     "name": "LikeCoin",
     "logo": "like.svg",
