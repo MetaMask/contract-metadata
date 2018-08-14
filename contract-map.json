@@ -13,6 +13,13 @@
     "symbol": "XNK",
     "decimals": 18
   },
+  "0x4ceda7906a5ed2179785cd3a40a69ee8bc99c466": {
+    "name": "Aion Network",
+    "logo": "Aion.png",
+    "erc20": true,
+    "symbol": "AION",
+    "decimals": 8
+  },
   "0xa95592DCFfA3C080B4B40E459c5f5692F67DB7F8": {
     "name": "ELY Token",
     "logo": "ely.png",
