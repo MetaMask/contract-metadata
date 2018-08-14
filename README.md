@@ -60,7 +60,7 @@ A sample submission:
 
 Tokens should include a field `"erc20": true`, and can include additional fields:
 
-- symbol (a four-character or less ticker symbol)
+- symbol (a five-character or less ticker symbol)
 - decimals (precision of the tokens stored)
 
 A full list of permitted fields can be found in the [permitted-fields.json](./permitted-fields.json) file.
