@@ -27,13 +27,13 @@
     "symbol": "NCT",
     "decimals": 18
   },
-	"0xe1A178B681BD05964d3e3Ed33AE731577d9d96dD": {
-		"name": "BOX Token",
-		"logo": "box_token.png",
-		"erc20": true,
-		"symbol": "BOX",
-		"decimals": 18
-	},
+  "0xe1A178B681BD05964d3e3Ed33AE731577d9d96dD": {
+    "name": "BOX Token",
+    "logo": "box_token.png",
+    "erc20": true,
+    "symbol": "BOX",
+    "decimals": 18
+  },
   "0x82BD526bDB718C6d4DD2291Ed013A5186cAE2DCa": {
     "name": "dutyof.care Token",
     "logo": "dutyof.care-square.png",
@@ -611,7 +611,7 @@
     "symbol": "NANJ",
     "decimals": 8
   },
- "0xB6eD7644C69416d67B522e20bC294A9a9B405B31": {
+  "0xB6eD7644C69416d67B522e20bC294A9a9B405B31": {
     "name": "0xBitcoin Token",
     "logo": "0xbitcoin.png",
     "erc20": true,
@@ -637,6 +637,13 @@
     "logo": "like.svg",
     "erc20": true,
     "symbol": "LIKE",
+    "decimals": 18
+  },
+  "0x7E43581b19ab509BCF9397a2eFd1ab10233f27dE": {
+    "name": "PLATINUM",
+    "logo": "plat.png",
+    "erc20": true,
+    "symbol": "PLAT",
     "decimals": 18
   }
 }
