@@ -632,6 +632,13 @@
     "symbol": "SPANK",
     "decimals": 18
   },
+  "0x4a6058666cf1057eaC3CD3A5a614620547559fc9": {
+    "name": "Brickblock",
+    "logo": "Brickblock.svg",
+    "erc20": true,
+    "symbol": "BBK",
+    "decimals": 18
+  },
   "0x02F61Fd266DA6E8B102D4121f5CE7b992640CF98": {
     "name": "LikeCoin",
     "logo": "like.svg",
