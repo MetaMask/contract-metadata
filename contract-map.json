@@ -1,4 +1,11 @@
 {
+  "0x27054b13b1B798B345b591a4d22e6562d47eA75a": {
+    "name": "AirSwap Token",
+    "logo": "AST.png",
+    "erc20": true,
+    "symbol": "AST",
+    "decimals": 4
+  },
   "0x0D262e5dC4A06a0F1c90cE79C7a60C09DfC884E4": {
     "name": "JET8 Token",
     "logo": "J8T.svg",
