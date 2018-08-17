@@ -634,7 +634,7 @@
   },
   "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03": {
   "name": "ETHLend Token",
-  "logo": "LEND.svg",
+  "logo": "lend.svg",
   "erc20": true,
   "symbol": "LEND",
   "decimals": 18
