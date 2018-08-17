@@ -195,13 +195,6 @@
     "symbol": "TRL",
     "decimals": 0
   },
-  "0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6": {
-    "name": "Dentacoin",
-    "logo": "Dentacoin.png",
-    "erc20": true,
-    "symbol": "DCN",
-    "decimals": 0
-  },
   "0xba2184520A1cC49a6159c57e61E1844E085615B6": {
     "name": "HelloGold Token",
     "logo": "hgt.png",
@@ -265,13 +258,6 @@
     "symbol": "LOOM",
     "decimals": 18
   },
-  "0xD0b3462481C33F63a288cd1923e2A261EE65b4FF": {
-    "name": "EGO Badge",
-    "logo": "ego_badge.png",
-    "erc20": true,
-    "symbol": "EGO",
-    "decimals": 0
-  },
   "0x86Fa049857E0209aa7D9e616F7eb3b3B78ECfdb0": {
     "name": "EOS",
     "logo": "eos-logo.jpeg",
@@ -305,7 +291,7 @@
     "logo": "vslice.png",
     "erc20": true,
     "symbol": "vSlice",
-    "decimals": 0
+    "decimals": 18
   },
   "0xFf3519eeeEA3e76F1F699CCcE5E23ee0bdDa41aC": {
     "name": "Blockchain Capital",
@@ -398,13 +384,6 @@
     "symbol": "RLC",
     "decimals": 9
   },
-  "0xaeC2E87E0A235266D9C5ADc9DEb4b2E29b54D009": {
-    "name": "SingularDTV",
-    "logo": "singulardtv.svg",
-    "erc20": true,
-    "symbol": "SNGLS",
-    "decimals": 0
-  },
   "0x888666CA69E0f178DED6D75b5726Cee99A87D698": {
     "name": "ICONOMI",
     "logo": "iconomi.png",
@@ -489,17 +468,6 @@
     "symbol": "SIG",
     "decimals": 18
   },
-  "0xC526560cf6Ab1755a457248CB9E8669ec7F4B78C": {
-    "name": "Spectiv Crowdsale",
-    "logo": "spectiv.svg"
-  },
-  "0x617b3f8050a0BD94b6b1da02B4384eE5B4DF13F4": {
-    "name": "MetaMark",
-    "logo": "metamark.svg",
-    "erc20": true,
-    "decimals": 18,
-    "symbol": "META"
-  },
   "0x9a642d6b3368ddc662CA244bAdf32cDA716005BC": {
     "name": "Qtum",
     "logo": "qtum_28.png",
@@ -546,38 +514,12 @@
     "symbol": "DIVX",
     "decimals": 18
   },
-  "0x056017c55aE7AE32d12AeF7C679dF83A85ca75Ff": {
-    "name": "WyvernToken",
-    "logo": "wyvern-logo.svg",
-    "erc20": true,
-    "symbol": "WYV",
-    "decimals": 18
-  },
-  "0x17F68886d00845867C154C912b4cCc506EC92Fc7": {
-    "name": "WyvernDAO",
-    "logo": "wyvern-logo.svg"
-  },
-  "0xf14f06e227C015b398b8069314F4B8d1d7022c9e": {
-    "name": "WyvernExchange",
-    "logo": "wyvern-logo.svg"
-  },
-  "0xa4306692b00795f97010ec7237980141d08c6D56": {
-    "name": "WyvernProxyRegistry",
-    "logo": "wyvern-logo.svg"
-  },
   "0xfec0cF7fE078a500abf15F1284958F22049c2C7e": {
     "name": "Maecenas ART Token",
     "logo": "Maecenas.jpg",
     "erc20": true,
     "symbol": "ART",
     "decimals": 18
-  },
-  "0x05f4a42e251f2d52b8ed15E9FEdAacFcEF1FAD27": {
-    "name": "Zilliqa",
-    "logo": "zilliqa.svg",
-    "erc20": true,
-    "symbol": "ZIL",
-    "decimals": 12
   },
   "0x986EE2B944c42D017F52Af21c4c69B84DBeA35d8": {
     "name": "BitMartToken",
