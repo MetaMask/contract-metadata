@@ -48,6 +48,13 @@
     "symbol": "RHOC",
     "decimals": 8
   },
+  "0x919d0131fa5f77d99fbbbbace50bcb6e62332bf2": {
+    "name": "BorisCoin",
+    "logo": "boriscoin.png",
+    "erc20": true,
+    "symbol": "BORIS",
+    "decimals": 18
+  },
   "0x543Ff227F64Aa17eA132Bf9886cAb5DB55DCAddf": {
     "name": "DAOstack",
     "logo": "DAOstack.png",
