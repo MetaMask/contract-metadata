@@ -646,56 +646,56 @@
     "symbol": "BNB",
     "decimals": 18
   },
-  "0xd850942ef8811f2a866692a623011bde52a462c1": {
+  "0xD850942eF8811f2A866692A623011bDE52a462C1": {
     "name": "VeChain",
     "logo": "vechain.png",
     "erc20": true,
     "symbol": "VEN",
     "decimals": 18
   },
-  "0xb5a5f22694352c15b00323844ad545abb2b11028": {
+  "0xb5A5F22694352C15B00323844aD545ABb2B11028": {
     "name": "ICON",
     "logo": "icon-icx-logo.png",
     "erc20": true,
     "symbol": "ICX",
     "decimals": 18
   },
-  "0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d": {
+  "0x5CA9a71B1d01849C0a95490Cc00559717fCF0D1d": {
     "name": "Aeternity",
     "logo": "aeternity.svg",
     "erc20": true,
     "symbol": "AE",
     "decimals": 18
    },
-  "0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a": {
+  "0xd4fa1460F537bb9085d22C7bcCB5DD450Ef28e3a": {
     "name": "Populous",
     "logo": "FEATURED.POP_.png",
     "erc20": true,
     "symbol": "PPT",
     "decimals": 8
    },
-  "0xfa1a856cfa3409cfa145fa4e20eb270df3eb21ab": {
+  "0xFA1a856Cfa3409CFa145Fa4e20Eb270dF3EB21ab": {
     "name": "IOST",
     "logo": "iost.png",
     "erc20": true,
     "symbol": "IOST",
     "decimals": 18
    },
-  "0x039b5649a59967e3e936d7471f9c3700100ee1ab": {
+  "0x039B5649A59967e3e936D7471f9c3700100Ee1ab": {
     "name": "Kucoin Shares",
     "logo": "kucoin.svg",
     "erc20": true,
     "symbol": "LIKE",
     "decimals": 6
    },
-  "0x3893b9422cd5d70a81edeffe3d5a1c6a978310bb": {
+  "0x3893b9422Cd5D70a81eDeFfe3d5A1c6A978310BB": {
     "name": "Mithril",
     "logo": "mithril-featured.png",
     "erc20": true,
     "symbol": "MITH",
     "decimals": 18
    },
-  "0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74": {
+  "0xb7cB1C96dB6B22b0D3d9536E0108d062BD488F74": {
     "name": "Walton",
     "logo": "waltonchain.png",
     "erc20": true,
