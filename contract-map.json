@@ -645,5 +645,68 @@
     "erc20": true,
     "symbol": "BNB",
     "decimals": 18
+  },
+  "0xd850942ef8811f2a866692a623011bde52a462c1": {
+    "name": "VeChain",
+    "logo": "vechain.png",
+    "erc20": true,
+    "symbol": "VEN",
+    "decimals": 18
+  },
+  "0xb5a5f22694352c15b00323844ad545abb2b11028": {
+    "name": "ICON",
+    "logo": "icon-icx-logo.png",
+    "erc20": true,
+    "symbol": "ICX",
+    "decimals": 18
+  },
+  "0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d": {
+    "name": "Aeternity",
+    "logo": "aeternity.svg",
+    "erc20": true,
+    "symbol": "AE",
+    "decimals": 18
+   },
+  "0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a": {
+    "name": "Populous",
+    "logo": "FEATURED.POP_.png",
+    "erc20": true,
+    "symbol": "PPT",
+    "decimals": 8
+   },
+  "0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3": {
+    "name": "Pundi X",
+    "logo": "pundix-logo.png",
+    "erc20": true,
+    "symbol": "NPXS",
+    "decimals": 18
+   },
+  "0xfa1a856cfa3409cfa145fa4e20eb270df3eb21ab": {
+    "name": "IOST",
+    "logo": "iost.png",
+    "erc20": true,
+    "symbol": "IOST",
+    "decimals": 18
+   },
+  "0x039b5649a59967e3e936d7471f9c3700100ee1ab": {
+    "name": "Kucoin Shares",
+    "logo": "kucoin.svg",
+    "erc20": true,
+    "symbol": "LIKE",
+    "decimals": 6
+   },
+  "0x3893b9422cd5d70a81edeffe3d5a1c6a978310bb": {
+    "name": "Mithril",
+    "logo": "mithril-featured.png",
+    "erc20": true,
+    "symbol": "MITH",
+    "decimals": 18
+   },
+  "0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74": {
+    "name": "Walton",
+    "logo": "waltonchain.png",
+    "erc20": true,
+    "symbol": "WTC",
+    "decimals": 18
   }
 }
