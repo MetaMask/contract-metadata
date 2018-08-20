@@ -674,13 +674,6 @@
     "symbol": "PPT",
     "decimals": 8
    },
-  "0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3": {
-    "name": "Pundi X",
-    "logo": "pundix-logo.png",
-    "erc20": true,
-    "symbol": "NPXS",
-    "decimals": 18
-   },
   "0xfa1a856cfa3409cfa145fa4e20eb270df3eb21ab": {
     "name": "IOST",
     "logo": "iost.png",
