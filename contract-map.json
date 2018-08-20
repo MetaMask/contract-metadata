@@ -1,4 +1,18 @@
 {
+  "0x27054b13b1B798B345b591a4d22e6562d47eA75a": {
+    "name": "AirSwap Token",
+    "logo": "AST.png",
+    "erc20": true,
+    "symbol": "AST",
+    "decimals": 4
+  },
+  "0xDDe12a12A6f67156e0DA672be05c374e1B0a3e57": {
+    "name": "JOYSO",
+    "logo": "JOY.png",
+    "erc20": true,
+    "symbol": "JOY",
+    "decimals": 6
+  },
   "0x0D262e5dC4A06a0F1c90cE79C7a60C09DfC884E4": {
     "name": "JET8 Token",
     "logo": "J8T.svg",
@@ -12,6 +26,13 @@
     "erc20": true,
     "symbol": "XNK",
     "decimals": 18
+  },
+  "0x4CEdA7906a5Ed2179785Cd3A40A69ee8bc99C466": {
+    "name": "Aion Network",
+    "logo": "Aion.png",
+    "erc20": true,
+    "symbol": "AION",
+    "decimals": 8
   },
   "0xa95592DCFfA3C080B4B40E459c5f5692F67DB7F8": {
     "name": "ELY Token",
@@ -86,7 +107,7 @@
   "0x5BC7e5f0Ab8b2E10D2D0a3F21739FCe62459aeF3": {
     "name": "Hut34 Entropy Token",
     "logo": "ENTRP.png",
-    "symbol": "ENTR",
+    "symbol": "ENTRP",
     "erc20": true,
     "decimals": 18
   },
@@ -304,8 +325,8 @@
     "name": "vSlice",
     "logo": "vslice.png",
     "erc20": true,
-    "symbol": "vSlice",
-    "decimals": 0
+    "symbol": "VSL",
+    "decimals": 18
   },
   "0xFf3519eeeEA3e76F1F699CCcE5E23ee0bdDa41aC": {
     "name": "Blockchain Capital",
@@ -700,6 +721,13 @@
     "logo": "waltonchain.png",
     "erc20": true,
     "symbol": "WTC",
+    "decimals": 18
+  },
+  "0xcA2796F9F61dc7b238Aab043971e49c6164DF375": {
+    "name": "YGGDRASH YEED Token",
+    "logo": "yggdrash.svg",
+    "erc20": true,
+    "symbol": "YEED",
     "decimals": 18
   }
 }
