@@ -638,5 +638,12 @@
     "erc20": true,
     "symbol": "LIKE",
     "decimals": 18
+  },
+  "0xcA2796F9F61dc7b238Aab043971e49c6164DF375": {
+    "name": "YGGDRASH YEED Token",
+    "logo": "yggdrash.svg",
+    "erc20": true,
+    "symbol": "YEED",
+    "decimals": 18
   }
 }
