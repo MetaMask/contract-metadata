@@ -6,6 +6,13 @@
     "symbol": "AST",
     "decimals": 4
   },
+  "0xDDe12a12A6f67156e0DA672be05c374e1B0a3e57": {
+    "name": "JOYSO",
+    "logo": "JOY.png",
+    "erc20": true,
+    "symbol": "JOY",
+    "decimals": 6
+  },
   "0x0D262e5dC4A06a0F1c90cE79C7a60C09DfC884E4": {
     "name": "JET8 Token",
     "logo": "J8T.svg",
@@ -19,6 +26,13 @@
     "erc20": true,
     "symbol": "XNK",
     "decimals": 18
+  },
+  "0x4CEdA7906a5Ed2179785Cd3A40A69ee8bc99C466": {
+    "name": "Aion Network",
+    "logo": "Aion.png",
+    "erc20": true,
+    "symbol": "AION",
+    "decimals": 8
   },
   "0xa95592DCFfA3C080B4B40E459c5f5692F67DB7F8": {
     "name": "ELY Token",
@@ -644,6 +658,13 @@
     "logo": "like.svg",
     "erc20": true,
     "symbol": "LIKE",
+    "decimals": 18
+  },
+  "0xcA2796F9F61dc7b238Aab043971e49c6164DF375": {
+    "name": "YGGDRASH YEED Token",
+    "logo": "yggdrash.svg",
+    "erc20": true,
+    "symbol": "YEED",
     "decimals": 18
   }
 }
