@@ -1,4 +1,11 @@
 {
+  "0x27054b13b1B798B345b591a4d22e6562d47eA75a": {
+    "name": "AirSwap Token",
+    "logo": "AST.png",
+    "erc20": true,
+    "symbol": "AST",
+    "decimals": 4
+  },
   "0xDDe12a12A6f67156e0DA672be05c374e1B0a3e57": {
     "name": "JOYSO",
     "logo": "JOY.png",
