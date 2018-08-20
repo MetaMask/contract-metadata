@@ -107,7 +107,7 @@
   "0x5BC7e5f0Ab8b2E10D2D0a3F21739FCe62459aeF3": {
     "name": "Hut34 Entropy Token",
     "logo": "ENTRP.png",
-    "symbol": "ENTR",
+    "symbol": "ENTRP",
     "erc20": true,
     "decimals": 18
   },
