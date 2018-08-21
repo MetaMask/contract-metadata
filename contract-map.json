@@ -48,13 +48,13 @@
     "symbol": "NCT",
     "decimals": 18
   },
-	"0xe1A178B681BD05964d3e3Ed33AE731577d9d96dD": {
-		"name": "BOX Token",
-		"logo": "box_token.png",
-		"erc20": true,
-		"symbol": "BOX",
-		"decimals": 18
-	},
+  "0xe1A178B681BD05964d3e3Ed33AE731577d9d96dD": {
+    "name": "BOX Token",
+    "logo": "box_token.png",
+    "erc20": true,
+    "symbol": "BOX",
+    "decimals": 18
+  },
   "0x82BD526bDB718C6d4DD2291Ed013A5186cAE2DCa": {
     "name": "dutyof.care Token",
     "logo": "dutyof.care-square.png",
@@ -632,7 +632,7 @@
     "symbol": "NANJ",
     "decimals": 8
   },
- "0xB6eD7644C69416d67B522e20bC294A9a9B405B31": {
+  "0xB6eD7644C69416d67B522e20bC294A9a9B405B31": {
     "name": "0xBitcoin Token",
     "logo": "0xbitcoin.png",
     "erc20": true,
@@ -687,40 +687,47 @@
     "erc20": true,
     "symbol": "AE",
     "decimals": 18
-   },
+  },
   "0xd4fa1460F537bb9085d22C7bcCB5DD450Ef28e3a": {
     "name": "Populous",
     "logo": "FEATURED.POP_.png",
     "erc20": true,
     "symbol": "PPT",
     "decimals": 8
-   },
+  },
   "0xFA1a856Cfa3409CFa145Fa4e20Eb270dF3EB21ab": {
     "name": "IOST",
     "logo": "iost.png",
     "erc20": true,
     "symbol": "IOST",
     "decimals": 18
-   },
+  },
   "0x039B5649A59967e3e936D7471f9c3700100Ee1ab": {
     "name": "Kucoin Shares",
     "logo": "kucoin.svg",
     "erc20": true,
     "symbol": "LIKE",
     "decimals": 6
-   },
+  },
   "0x3893b9422Cd5D70a81eDeFfe3d5A1c6A978310BB": {
     "name": "Mithril",
     "logo": "mithril-featured.png",
     "erc20": true,
     "symbol": "MITH",
     "decimals": 18
-   },
+  },
   "0xb7cB1C96dB6B22b0D3d9536E0108d062BD488F74": {
     "name": "Walton",
     "logo": "waltonchain.png",
     "erc20": true,
     "symbol": "WTC",
+    "decimals": 18
+  },
+  "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d": {
+    "name": "Pinakion Token",
+    "logo": "pinakion.svg",
+    "erc20": true,
+    "symbol": "PNK",
     "decimals": 18
   },
   "0xcA2796F9F61dc7b238Aab043971e49c6164DF375": {
