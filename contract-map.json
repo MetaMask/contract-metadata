@@ -1,4 +1,11 @@
 {
+  "0xf5ed2dc77f0d1ea7f106ecbd1850e406adc41b51": {
+    "name": "The Ocean Token",
+    "logo": "OCEAN.svg",
+    "erc20": true,
+    "symbol": "OCEAN",
+    "decimals": 18
+  },
   "0x27054b13b1B798B345b591a4d22e6562d47eA75a": {
     "name": "AirSwap Token",
     "logo": "AST.png",
