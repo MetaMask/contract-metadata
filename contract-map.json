@@ -660,6 +660,13 @@
     "symbol": "SPANK",
     "decimals": 18
   },
+  "0x4a6058666cf1057eaC3CD3A5a614620547559fc9": {
+    "name": "Brickblock",
+    "logo": "Brickblock.svg",
+    "erc20": true,
+    "symbol": "BBK",
+    "decimals": 18
+  },
   "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03": {
   "name": "ETHLend Token",
   "logo": "lend.svg",
