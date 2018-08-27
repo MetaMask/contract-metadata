@@ -1,4 +1,18 @@
 {
+  "0x27054b13b1B798B345b591a4d22e6562d47eA75a": {
+    "name": "AirSwap Token",
+    "logo": "AST.png",
+    "erc20": true,
+    "symbol": "AST",
+    "decimals": 4
+  },
+  "0xDDe12a12A6f67156e0DA672be05c374e1B0a3e57": {
+    "name": "JOYSO",
+    "logo": "JOY.png",
+    "erc20": true,
+    "symbol": "JOY",
+    "decimals": 6
+  },
   "0x0D262e5dC4A06a0F1c90cE79C7a60C09DfC884E4": {
     "name": "JET8 Token",
     "logo": "J8T.svg",
@@ -12,6 +26,13 @@
     "erc20": true,
     "symbol": "XNK",
     "decimals": 18
+  },
+  "0x4CEdA7906a5Ed2179785Cd3A40A69ee8bc99C466": {
+    "name": "Aion Network",
+    "logo": "Aion.png",
+    "erc20": true,
+    "symbol": "AION",
+    "decimals": 8
   },
   "0xa95592DCFfA3C080B4B40E459c5f5692F67DB7F8": {
     "name": "ELY Token",
@@ -62,6 +83,13 @@
     "symbol": "OMG",
     "decimals": 18
   },
+  "0x4162178B78D6985480A308B2190EE5517460406D": {
+    "name": "Colu Local Network",
+    "logo": "cln.png",
+    "erc20": true,
+    "symbol": "CLN",
+    "decimals": 18
+  },
   "0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC": {
     "name": "Storj",
     "logo": "storj.jpg",
@@ -86,7 +114,7 @@
   "0x5BC7e5f0Ab8b2E10D2D0a3F21739FCe62459aeF3": {
     "name": "Hut34 Entropy Token",
     "logo": "ENTRP.png",
-    "symbol": "ENTR",
+    "symbol": "ENTRP",
     "erc20": true,
     "decimals": 18
   },
@@ -304,8 +332,8 @@
     "name": "vSlice",
     "logo": "vslice.png",
     "erc20": true,
-    "symbol": "vSlice",
-    "decimals": 0
+    "symbol": "VSL",
+    "decimals": 18
   },
   "0xFf3519eeeEA3e76F1F699CCcE5E23ee0bdDa41aC": {
     "name": "Blockchain Capital",
@@ -639,11 +667,102 @@
     "symbol": "BBK",
     "decimals": 18
   },
+  "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03": {
+  "name": "ETHLend Token",
+  "logo": "lend.svg",
+  "erc20": true,
+  "symbol": "LEND",
+  "decimals": 18
+  },
   "0x02F61Fd266DA6E8B102D4121f5CE7b992640CF98": {
     "name": "LikeCoin",
     "logo": "like.svg",
     "erc20": true,
     "symbol": "LIKE",
+    "decimals": 18
+  },
+  "0xB8c77482e45F1F44dE1745F52C74426C631bDD52": {
+    "name": "Binance Coin",
+    "logo": "bnb.png",
+    "erc20": true,
+    "symbol": "BNB",
+    "decimals": 18
+  },
+  "0xD850942eF8811f2A866692A623011bDE52a462C1": {
+    "name": "VeChain",
+    "logo": "vechain.png",
+    "erc20": true,
+    "symbol": "VEN",
+    "decimals": 18
+  },
+  "0xb5A5F22694352C15B00323844aD545ABb2B11028": {
+    "name": "ICON",
+    "logo": "icon-icx-logo.png",
+    "erc20": true,
+    "symbol": "ICX",
+    "decimals": 18
+  },
+  "0x5CA9a71B1d01849C0a95490Cc00559717fCF0D1d": {
+    "name": "Aeternity",
+    "logo": "aeternity.svg",
+    "erc20": true,
+    "symbol": "AE",
+    "decimals": 18
+   },
+  "0xd4fa1460F537bb9085d22C7bcCB5DD450Ef28e3a": {
+    "name": "Populous",
+    "logo": "FEATURED.POP_.png",
+    "erc20": true,
+    "symbol": "PPT",
+    "decimals": 8
+   },
+  "0xFA1a856Cfa3409CFa145Fa4e20Eb270dF3EB21ab": {
+    "name": "IOST",
+    "logo": "iost.png",
+    "erc20": true,
+    "symbol": "IOST",
+    "decimals": 18
+   },
+  "0x039B5649A59967e3e936D7471f9c3700100Ee1ab": {
+    "name": "Kucoin Shares",
+    "logo": "kucoin.svg",
+    "erc20": true,
+    "symbol": "LIKE",
+    "decimals": 6
+   },
+  "0x3893b9422Cd5D70a81eDeFfe3d5A1c6A978310BB": {
+    "name": "Mithril",
+    "logo": "mithril-featured.png",
+    "erc20": true,
+    "symbol": "MITH",
+    "decimals": 18
+   },
+  "0xb7cB1C96dB6B22b0D3d9536E0108d062BD488F74": {
+    "name": "Walton",
+    "logo": "waltonchain.png",
+    "erc20": true,
+    "symbol": "WTC",
+    "decimals": 18
+  },
+  "0x419D0d8BdD9aF5e606Ae2232ed285Aff190E711b": {
+    "name": "FunFair",
+    "logo": "fun.svg",
+    "erc20": true,
+    "symbol": "FUN",
+    "decimals": 8
+  },
+  "0xcA2796F9F61dc7b238Aab043971e49c6164DF375": {
+    "name": "YGGDRASH YEED Token",
+    "logo": "yggdrash.svg",
+    "erc20": true,
+    "symbol": "YEED",
+    "decimals": 18
+  },
+  "0x03e3f0c25965f13DbbC58246738C183E27b26a56": {
+    "name": "Disciplina Token",
+    "logo": "disciplina.svg",
+    "erc20": true,
+    "symbol": "DSCP",
     "decimals": 18
   }
 }
