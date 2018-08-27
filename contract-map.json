@@ -737,6 +737,13 @@
     "symbol": "WTC",
     "decimals": 18
   },
+    "0xEBBdf302c940c6bfd49C6b165f457fdb324649bc": {
+    "name": "Hydro",
+    "logo": "hydro.svg",
+    "erc20": true,
+    "symbol": "HYDRO",
+    "decimals": 18
+  },
   "0xcA2796F9F61dc7b238Aab043971e49c6164DF375": {
     "name": "YGGDRASH YEED Token",
     "logo": "yggdrash.svg",
