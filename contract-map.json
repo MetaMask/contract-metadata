@@ -688,7 +688,7 @@
     "symbol": "BNB",
     "decimals": 18
   },
-    "0x8dd86d96af14e9bdac093071e3a8cd2c8e15ddc8": {
+    "0x8dd86d96Af14e9BDAc093071E3A8Cd2C8E15dDc8": {
     "name": "Eventa Token",
     "logo": "eventa.svg",
     "erc20": true,
