@@ -688,6 +688,13 @@
     "symbol": "BNB",
     "decimals": 18
   },
+    "0x8dd86d96af14e9bdac093071e3a8cd2c8e15ddc8": {
+    "name": "Eventa Token",
+    "logo": "eventa.svg",
+    "erc20": true,
+    "symbol": "EVTA",
+    "decimals": 18
+  },
   "0xD850942eF8811f2A866692A623011bDE52a462C1": {
     "name": "VeChain",
     "logo": "vechain.png",
