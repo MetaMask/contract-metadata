@@ -83,6 +83,13 @@
     "symbol": "OMG",
     "decimals": 18
   },
+  "0x4162178B78D6985480A308B2190EE5517460406D": {
+    "name": "Colu Local Network",
+    "logo": "cln.png",
+    "erc20": true,
+    "symbol": "CLN",
+    "decimals": 18
+  },
   "0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC": {
     "name": "Storj",
     "logo": "storj.jpg",
@@ -653,6 +660,20 @@
     "symbol": "SPANK",
     "decimals": 18
   },
+  "0x4a6058666cf1057eaC3CD3A5a614620547559fc9": {
+    "name": "Brickblock",
+    "logo": "Brickblock.svg",
+    "erc20": true,
+    "symbol": "BBK",
+    "decimals": 18
+  },
+  "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03": {
+  "name": "ETHLend Token",
+  "logo": "lend.svg",
+  "erc20": true,
+  "symbol": "LEND",
+  "decimals": 18
+  },
   "0x02F61Fd266DA6E8B102D4121f5CE7b992640CF98": {
     "name": "LikeCoin",
     "logo": "like.svg",
@@ -729,12 +750,26 @@
     "erc20": true,
     "symbol": "PNK",
     "decimals": 18
+  }
+  "0x419D0d8BdD9aF5e606Ae2232ed285Aff190E711b": {
+    "name": "FunFair",
+    "logo": "fun.svg",
+    "erc20": true,
+    "symbol": "FUN",
+    "decimals": 8
   },
   "0xcA2796F9F61dc7b238Aab043971e49c6164DF375": {
     "name": "YGGDRASH YEED Token",
     "logo": "yggdrash.svg",
     "erc20": true,
     "symbol": "YEED",
+    "decimals": 18
+  },
+  "0x03e3f0c25965f13DbbC58246738C183E27b26a56": {
+    "name": "Disciplina Token",
+    "logo": "disciplina.svg",
+    "erc20": true,
+    "symbol": "DSCP",
     "decimals": 18
   }
 }
