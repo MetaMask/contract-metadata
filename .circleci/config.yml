@@ -1,0 +1,36 @@
+aliases:
+  - &install-node-dependencies
+      |
+        npm install
+
+defaults: &defaults
+  working_directory: ~/MetaMask
+
+version: 2
+jobs:
+  prep-deps:
+    <<: *defaults
+    docker:
+      - image: circleci/node:9
+    steps:
+      - checkout
+      - run: *install-node-dependencies
+
+  test-unit:
+    <<: *defaults
+    docker:
+      - image: circleci/node:9
+    steps:
+      - checkout
+      - attach_workspace:
+          at: .
+      - run: npm test
+
+workflows:
+  version: 2
+  ful_test:
+    jobs:
+      - prep-deps
+      - test-unit:
+          requires:
+            - prep-deps
