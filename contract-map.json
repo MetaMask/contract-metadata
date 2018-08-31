@@ -668,11 +668,11 @@
     "decimals": 18
   },
   "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03": {
-  "name": "ETHLend Token",
-  "logo": "lend.svg",
-  "erc20": true,
-  "symbol": "LEND",
-  "decimals": 18
+    "name": "ETHLend Token",
+    "logo": "lend.svg",
+    "erc20": true,
+    "symbol": "LEND",
+    "decimals": 18
   },
   "0x02F61Fd266DA6E8B102D4121f5CE7b992640CF98": {
     "name": "LikeCoin",
@@ -750,7 +750,7 @@
     "erc20": true,
     "symbol": "PNK",
     "decimals": 18
-  }
+  },
   "0x419D0d8BdD9aF5e606Ae2232ed285Aff190E711b": {
     "name": "FunFair",
     "logo": "fun.svg",
