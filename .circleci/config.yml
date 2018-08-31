@@ -15,6 +15,10 @@ jobs:
     steps:
       - checkout
       - run: *install-node-dependencies
+      - persist_to_workspace:
+          root: .
+          paths:
+          - node_modules
 
   test-unit:
     <<: *defaults
