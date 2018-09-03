@@ -695,13 +695,6 @@
     "symbol": "BIX",
     "decimals": 18
   },
-  "0xd37532D304214D588aeeaC4c365E8F1d72e2304A": {
-    "name": "FT Token",
-    "logo": "ft-chainsights.png",
-    "erc20": true,
-    "symbol": "FT",
-    "decimals": 18
-  },
   "0xD850942eF8811f2A866692A623011bDE52a462C1": {
     "name": "VeChain",
     "logo": "vechain.png",
