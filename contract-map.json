@@ -771,5 +771,12 @@
     "erc20": true,
     "symbol": "DSCP",
     "decimals": 18
+  },
+  "0xd8446236fa95b9b5f9fd0f8e7df1a944823c683d": {
+    "name": "NEEO",
+    "logo": "neeo.png",
+    "erc20": true,
+    "symbol": "NEEO",
+    "decimals": 18
   }
 }
