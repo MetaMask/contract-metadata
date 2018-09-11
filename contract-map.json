@@ -779,7 +779,7 @@
     "symbol": "DAY",
     "decimals": 18
   },
-  "0x6758b7d441a9739b98552b373703d8d3d14f9e62": {
+  "0x6758B7d441a9739b98552B373703d8d3d14f9e62": {
     "name": "POA20 Token",
     "logo": "POA20.png",
     "erc20": true,
