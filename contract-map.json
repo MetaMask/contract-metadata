@@ -779,6 +779,13 @@
     "symbol": "DAY",
     "decimals": 18
   },
+  "0xC16b542ff490e01fcc0DC58a60e1EFdc3e357cA6": {
+    "name": "ICE ROCK MINING",
+    "logo": "rock2.png",
+    "erc20": true,
+    "symbol": "ROCK2",
+    "decimals": 0
+  },
   "0x6758B7d441a9739b98552B373703d8d3d14f9e62": {
     "name": "POA20 Token",
     "logo": "POA20.png",
