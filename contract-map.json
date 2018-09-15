@@ -772,6 +772,27 @@
     "symbol": "DSCP",
     "decimals": 18
   },
+  "0xE814aeE960a85208C3dB542C53E7D4a6C8D5f60F": {
+    "name": "Chronologic DAY Token",
+    "logo": "DAY.png",
+    "erc20": true,
+    "symbol": "DAY",
+    "decimals": 18
+  },
+  "0xC16b542ff490e01fcc0DC58a60e1EFdc3e357cA6": {
+    "name": "ICE ROCK MINING",
+    "logo": "rock2.png",
+    "erc20": true,
+    "symbol": "ROCK2",
+    "decimals": 0
+  },
+  "0x6758B7d441a9739b98552B373703d8d3d14f9e62": {
+    "name": "POA20 Token",
+    "logo": "POA20.png",
+    "erc20": true,
+    "symbol": "POA20",
+    "decimals": 18
+  },
   "0xd8446236FA95b9b5f9fd0f8E7Df1a944823c683d": {
     "name": "NEEO",
     "logo": "neeo.png",
