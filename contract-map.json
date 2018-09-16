@@ -792,5 +792,12 @@
     "erc20": true,
     "symbol": "POA20",
     "decimals": 18
+  },
+  "0xf70a642bd387f94380ffb90451c2c81d4eb82cbc": {
+    "name": "STAR",
+    "logo": "starbase.png",
+    "erc20": true,
+    "symbol": "STAR",
+    "decimals": 18
   }
 }
