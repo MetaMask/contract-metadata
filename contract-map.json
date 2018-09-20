@@ -792,5 +792,12 @@
     "erc20": true,
     "symbol": "POA20",
     "decimals": 18
+  },
+  "0x7064aAb39A0Fcf7221c3396719D0917a65E35515": {
+    "name": "Cpollo",
+    "logo": "Cpollo.svg",
+    "erc20": true,
+    "symbol": "CPLO",
+    "decimals": 18
   }
 }
