@@ -1,4 +1,11 @@
 {
+  "0xddd460bbd9f79847ea08681563e8a9696867210c": {
+    "name": "Spendcoin",
+    "logo": "SpendCoin.png",
+    "erc20": true,
+    "symbol": "SPND",
+    "decimals": 18
+  },
   "0x27054b13b1B798B345b591a4d22e6562d47eA75a": {
     "name": "AirSwap Token",
     "logo": "AST.png",
