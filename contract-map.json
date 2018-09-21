@@ -786,6 +786,13 @@
     "symbol": "DAY",
     "decimals": 18
   },
+  "0x7E43581b19ab509BCF9397a2eFd1ab10233f27dE": {
+    "name": "PLATINUM",
+    "logo": "plat.png",
+    "erc20": true,
+    "symbol": "PLAT",
+    "decimals": 18
+  },
   "0x8E870D67F660D95d5be530380D0eC0bd388289E1": {
     "name": "PAX Stablecoin",
     "logo": "pax.svg",
