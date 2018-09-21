@@ -786,6 +786,13 @@
     "symbol": "DAY",
     "decimals": 18
   },
+  "0x8E870D67F660D95d5be530380D0eC0bd388289E1": {
+    "name": "PAX Stablecoin",
+    "logo": "pax.svg",
+    "erc20": true,
+    "symbol": "PAX",
+    "decimals": 18
+  },
   "0xC16b542ff490e01fcc0DC58a60e1EFdc3e357cA6": {
     "name": "ICE ROCK MINING",
     "logo": "rock2.png",
