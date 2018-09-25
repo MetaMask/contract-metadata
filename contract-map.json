@@ -825,6 +825,7 @@
     "name": "STAR",
     "logo": "starbase.png",
     "erc20": true,
-    "symbol": "STAR"
+    "symbol": "STAR",
+    "decimals": 18
   }
 }
