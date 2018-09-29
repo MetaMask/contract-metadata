@@ -1,4 +1,11 @@
 {
+  "0x0E3de3B0E3D617FD8D1D8088639bA877feb4d742": {
+    "name": "Rock2Pay",
+    "logo": "rock2pay.png",
+    "erc20": true,
+    "symbol": "Rock2Pay",
+    "decimals": 18
+  },
   "0xDDD460bBD9F79847ea08681563e8A9696867210C": {
     "name": "Spendcoin",
     "logo": "SpendCoin.png",
