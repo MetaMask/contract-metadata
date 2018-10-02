@@ -827,5 +827,12 @@
     "erc20": true,
     "symbol": "NEEO",
     "decimals": 18
+  },
+  "0x500df47e1df0ef06039218dcf0960253d89d6658": {
+    "name": "Authpaper Coin",
+    "logo": "ap256.png",
+    "erc20": true,
+    "symbol": "AUPC",
+    "decimals": 18
   }
 }
