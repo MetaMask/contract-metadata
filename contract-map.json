@@ -827,5 +827,12 @@
     "erc20": true,
     "symbol": "NEEO",
     "decimals": 18
+  },
+  "0x5B21E581a0A441338fFDC19923Eb32bA4c9Df365": {
+    "name": "mHealthCoin",
+    "logo": "mh256.png",
+    "erc20": true,
+    "symbol": "MHEC",
+    "decimals": 18
   }
 }
