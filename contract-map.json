@@ -5,7 +5,7 @@
     "erc20": true,
     "symbol": "PARETO",
     "decimals": 18
-{
+  },
   "0xDDD460bBD9F79847ea08681563e8A9696867210C": {
     "name": "Spendcoin",
     "logo": "SpendCoin.png",
@@ -313,6 +313,13 @@
     "erc20": true,
     "symbol": "EGO",
     "decimals": 0
+  },
+  "0x71D01dB8d6a2fBEa7f8d434599C237980C234e4C": {
+    "name": "Gladius",
+    "logo": "gladius.svg",
+    "erc20": true,
+    "symbol": "GLA",
+    "decimals": 8
   },
   "0x86Fa049857E0209aa7D9e616F7eb3b3B78ECfdb0": {
     "name": "EOS",
@@ -821,11 +828,25 @@
     "symbol": "POA20",
     "decimals": 18
   },
+  "0x7064aAb39A0Fcf7221c3396719D0917a65E35515": {
+    "name": "Cpollo",
+    "logo": "Cpollo.svg",
+    "erc20": true,
+    "symbol": "CPLO",
+    "decimals": 18
+  },
   "0xd8446236FA95b9b5f9fd0f8E7Df1a944823c683d": {
     "name": "NEEO",
     "logo": "neeo.png",
     "erc20": true,
     "symbol": "NEEO",
+    "decimals": 18
+  },
+  "0xF70a642bD387F94380fFb90451C2c81d4Eb82CBc": {
+    "name": "STAR",
+    "logo": "starbase.png",
+    "erc20": true,
+    "symbol": "STAR",
     "decimals": 18
   }
 }
