@@ -827,5 +827,12 @@
     "erc20": true,
     "symbol": "NEEO",
     "decimals": 18
+  },
+  "0xF70a642bD387F94380fFb90451C2c81d4Eb82CBc": {
+    "name": "STAR",
+    "logo": "starbase.png",
+    "erc20": true,
+    "symbol": "STAR",
+    "decimals": 18
   }
 }
