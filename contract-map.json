@@ -314,6 +314,13 @@
     "symbol": "EGO",
     "decimals": 0
   },
+  "0x71D01dB8d6a2fBEa7f8d434599C237980C234e4C": {
+    "name": "Gladius",
+    "logo": "gladius.svg",
+    "erc20": true,
+    "symbol": "GLA",
+    "decimals": 8
+  },
   "0x86Fa049857E0209aa7D9e616F7eb3b3B78ECfdb0": {
     "name": "EOS",
     "logo": "eos-logo.jpeg",
