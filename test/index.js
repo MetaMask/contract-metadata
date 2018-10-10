@@ -70,7 +70,7 @@ test('symbols should be five or less characters', function (t) {
     const contract = contractMap[address]
     const symbol = contract.symbol
     if (symbol) {
-      t.notOk(symbol.length > 5, `symbol with more than 5 characters: "${symbol}"`)
+      t.notOk(symbol.length > 6, `symbol with more than 6 characters: "${symbol}"`)
     }
   })
   t.end()
