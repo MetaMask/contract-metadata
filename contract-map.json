@@ -1,9 +1,9 @@
 {
-  "0x8f8221aFbB33998d8584A2B05749bA73c37a938a": {
-    "name": "Request Network",
-    "logo": "request-network.png",
+  "0xea5f88E54d982Cbb0c441cde4E79bC305e5b43Bc": {
+    "name": "Pareto",
+    "logo": "ParetoLogo.png",
     "erc20": true,
-    "symbol": "REQ",
+    "symbol": "PARETO",
     "decimals": 18
   },
   "0xDDD460bBD9F79847ea08681563e8A9696867210C": {
