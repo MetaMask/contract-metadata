@@ -842,6 +842,13 @@
     "symbol": "NEEO",
     "decimals": 18
   },
+  "0x0Cf0Ee63788A0849fE5297F3407f701E122cC023": {
+    "name": "Streamr",
+    "logo": "streamr.svg",
+    "erc20": true,
+    "symbol": "DATA",
+    "decimals": 18
+  },
   "0xF70a642bD387F94380fFb90451C2c81d4Eb82CBc": {
     "name": "STAR",
     "logo": "starbase.png",
