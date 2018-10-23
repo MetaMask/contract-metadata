@@ -1,4 +1,12 @@
 {
+  "0x7ba19b7f7d106a9a1e0985397b94f38eee0b555e": {
+    "name": "Wixlar",
+    "logo": "0x7ba19b7f7d106a9a1e0985397b94f38eee0b555e.png",
+    "erc20": true,
+    "symbol": "WIX",
+    "decimals": 2
+  },
+{
   "0xea5f88E54d982Cbb0c441cde4E79bC305e5b43Bc": {
     "name": "Pareto",
     "logo": "ParetoLogo.png",
