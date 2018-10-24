@@ -856,7 +856,7 @@
     "symbol": "STAR",
     "decimals": 18
   },
-  "0xfbeef911dc5821886e1dda71586d90ed28174b7d": {
+  "0xFBeef911Dc5821886e1dda71586d90eD28174B7d": {
     "name": "KnownOrigin",
     "logo": "knownorigin.svg",
     "erc20": false,
