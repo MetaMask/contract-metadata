@@ -1,4 +1,11 @@
 {
+  "0x1BE7cFD61aA8dAaa9FF2F3b8820888f09462d037": {
+    "name": "GramGold Coin",
+    "logo": "GGC.svg",
+    "erc20": true,
+    "symbol": "GGC",
+    "decimals": 8
+  },
   "0xea5f88E54d982Cbb0c441cde4E79bC305e5b43Bc": {
     "name": "Pareto",
     "logo": "ParetoLogo.png",
