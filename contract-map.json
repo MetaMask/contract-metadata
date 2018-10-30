@@ -1,4 +1,12 @@
 {
+  "0x0C15D535F8c21d6f3A03dd46ae23A07e5d897C80": {
+    "name": "dAppCaps",
+    "logo": "qwoyn_io_dappcaps.png",
+    "erc20": true,
+    "symbol": "CAPS",
+    "decimals": 0
+  },
+{
   "0xea5f88E54d982Cbb0c441cde4E79bC305e5b43Bc": {
     "name": "Pareto",
     "logo": "ParetoLogo.png",
