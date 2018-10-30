@@ -6,6 +6,13 @@
     "symbol": "PARETO",
     "decimals": 18
   },
+    "0x7ba19b7f7d106a9a1e0985397b94f38eee0b555e": {
+    "name": "Wixlar",
+    "logo": "0x7ba19b7f7d106a9a1e0985397b94f38eee0b555e.png",
+    "erc20": true,
+    "symbol": "WIX",
+    "decimals": 2
+   },
   "0xDDD460bBD9F79847ea08681563e8A9696867210C": {
     "name": "Spendcoin",
     "logo": "SpendCoin.png",
