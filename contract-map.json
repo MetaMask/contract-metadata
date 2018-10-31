@@ -1,4 +1,11 @@
 {
+  "0x9e88613418cf03dca54d6a2cf6ad934a78c7a17a": {
+    "name": "Swarm",
+    "logo": "swarm.svg",
+    "erc20": true,
+    "symbol": "SWM",
+    "decimals": 18
+  },
   "0xea5f88E54d982Cbb0c441cde4E79bC305e5b43Bc": {
     "name": "Pareto",
     "logo": "ParetoLogo.png",
