@@ -702,6 +702,13 @@
     "symbol": "LEND",
     "decimals": 18
   },
+  "0x48FF53777F747cFB694101222a944dE070c15D36": {
+    "name": "Ether Kingdoms Token",
+    "logo": "IMP.svg",
+    "erc20": true,
+    "symbol": "IMP",
+    "decimals": 7
+  },
   "0x02F61Fd266DA6E8B102D4121f5CE7b992640CF98": {
     "name": "LikeCoin",
     "logo": "like.svg",
