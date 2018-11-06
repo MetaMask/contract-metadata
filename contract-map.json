@@ -27,6 +27,13 @@
     "symbol": "AST",
     "decimals": 4
   },
+  "0x8D5682941cE456900b12d47ac06a88b47C764CE1": {
+    "name": "RightMesh Token",
+    "logo": "Rmesh.png",
+    "erc20": true,
+    "symbol": "RMESH",
+    "decimals": 18
+  },
   "0xDDe12a12A6f67156e0DA672be05c374e1B0a3e57": {
     "name": "JOYSO",
     "logo": "JOY.png",
