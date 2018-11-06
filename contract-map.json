@@ -48,6 +48,13 @@
     "symbol": "J8T",
     "decimals": 8
   },
+  "0x4a220E6096B25EADb88358cb44068A3248254675": {
+    "name": "Quant Network",
+    "logo": "quant-network.svg",
+    "erc20": true,
+    "symbol": "QNT",
+    "decimals": 18
+  },
   "0xBC86727E770de68B1060C91f6BB6945c73e10388": {
     "name": "Ink Protocol",
     "logo": "ink_protocol.svg",
