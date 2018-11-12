@@ -1,4 +1,11 @@
 {
+  "0xDF347911910b6c9A4286bA8E2EE5ea4a39eB2134": {
+    "name": "Bob's Repair",
+    "logo": "bobsrepair.png",
+    "erc20": true,
+    "symbol": "BOB",
+    "decimals": 18
+  },
   "0x9e88613418cF03dCa54D6a2cf6Ad934A78C7A17A": {
     "name": "Swarm",
     "logo": "swarm.svg",
