@@ -904,5 +904,12 @@
     "erc20": true,
     "symbol": "STAR",
     "decimals": 18
+  },
+  "0x5c38fc75474d1bef3d66f81bfb89c4bf6e65f0a4": {
+    "name": "Butler Extension Fund Coin",
+    "logo": "befc.svg",
+    "erc20": true,
+    "symbol": "BEFC",
+    "decimals": 18
   }
 }
