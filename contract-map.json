@@ -1,4 +1,11 @@
 {
+  "0x5c38fc75474d1bef3d66f81bfb89c4bf6e65f0a4": {
+    "name": "Butler Extension Fund Coin",
+    "logo": "befc.svg",
+    "erc20": true,
+    "symbol": "BEFC",
+    "decimals": 18
+  },
   "0xDF347911910b6c9A4286bA8E2EE5ea4a39eB2134": {
     "name": "Bob's Repair",
     "logo": "bobsrepair.png",
@@ -903,13 +910,6 @@
     "logo": "starbase.png",
     "erc20": true,
     "symbol": "STAR",
-    "decimals": 18
-  },
-  "0x5c38fc75474d1bef3d66f81bfb89c4bf6e65f0a4": {
-    "name": "Butler Extension Fund Coin",
-    "logo": "befc.svg",
-    "erc20": true,
-    "symbol": "BEFC",
     "decimals": 18
   }
 }
