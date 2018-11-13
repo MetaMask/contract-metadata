@@ -1,4 +1,11 @@
 {
+  "0xe73f83fD4c2baEDA893016357c6988011D73e027": {
+    "name": "Butler Coin",
+    "logo": "bc.svg",
+    "erc20": true,
+    "symbol": "BC",
+    "decimals": 8
+  },
   "0x5C38Fc75474D1BeF3D66F81BFb89c4BF6e65f0a4": {
     "name": "Butler Extension Fund Coin",
     "logo": "befc.svg",
