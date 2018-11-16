@@ -1,4 +1,11 @@
 {
+  "0x526ccc90191a9472299323816bd2c784c0a1bcde": {
+    "name": "DataOnBlock",
+    "logo": "dataonblock.png",
+    "erc20": true,
+    "symbol": "DBLK",
+    "decimals": 18
+  },  
   "0xDF347911910b6c9A4286bA8E2EE5ea4a39eB2134": {
     "name": "Bob's Repair",
     "logo": "bobsrepair.png",
