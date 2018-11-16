@@ -1,4 +1,11 @@
 {
+  "0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190": {
+    "name": "Dether",
+    "logo": "dether.svg",
+    "erc20": true,
+    "symbol": "DTH",
+    "decimals": 18
+  },
   "0xDF347911910b6c9A4286bA8E2EE5ea4a39eB2134": {
     "name": "Bob's Repair",
     "logo": "bobsrepair.png",
