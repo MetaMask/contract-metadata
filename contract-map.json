@@ -20,6 +20,13 @@
     "symbol": "SWM",
     "decimals": 18
   },
+  "0x6863be0e7cf7ce860a574760e9020d519a8bdc47": {
+    "name": "On.Live",
+    "logo": "onlive.svg",
+    "erc20": true,
+    "symbol": "ONL",
+    "decimals": 18
+  },
   "0xea5f88E54d982Cbb0c441cde4E79bC305e5b43Bc": {
     "name": "Pareto",
     "logo": "ParetoLogo.png",
