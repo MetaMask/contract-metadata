@@ -370,7 +370,7 @@
     "symbol": "EOS",
     "decimals": 18
   },
-  "0xDD974D5C2E2928DEA5F71B9825B8B646686BD200": {
+  "0xdd974D5C2e2928deA5F71b9825b8b646686BD200": {
     "name": "Kyber Network Crystal",
     "logo": "kyber.svg",
     "erc20": true,
