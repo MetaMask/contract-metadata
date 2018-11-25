@@ -27,6 +27,13 @@
     "symbol": "PARETO",
     "decimals": 18
   },
+  "0x6251583e7d997df3604bc73b9779196e94a090ce": {
+    "name": "Hercules",
+    "logo": "herc.png",
+    "erc20": true,
+    "symbol": "HERC",
+    "decimals": 18
+  },
   "0xDDD460bBD9F79847ea08681563e8A9696867210C": {
     "name": "Spendcoin",
     "logo": "SpendCoin.png",
