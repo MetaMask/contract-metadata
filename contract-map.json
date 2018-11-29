@@ -1,4 +1,32 @@
 {
+  "0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190": {
+    "name": "Dether",
+    "logo": "dether.svg",
+    "erc20": true,
+    "symbol": "DTH",
+    "decimals": 18
+  },
+  "0xDF347911910b6c9A4286bA8E2EE5ea4a39eB2134": {
+    "name": "Bob's Repair",
+    "logo": "bobsrepair.png",
+    "erc20": true,
+    "symbol": "BOB",
+    "decimals": 18
+  },
+  "0x9e88613418cF03dCa54D6a2cf6Ad934A78C7A17A": {
+    "name": "Swarm",
+    "logo": "swarm.svg",
+    "erc20": true,
+    "symbol": "SWM",
+    "decimals": 18
+  },
+  "0x6863bE0e7CF7ce860A574760e9020D519a8bDC47": {
+    "name": "On.Live",
+    "logo": "onlive.svg",
+    "erc20": true,
+    "symbol": "ONL",
+    "decimals": 18
+  },
   "0xea5f88E54d982Cbb0c441cde4E79bC305e5b43Bc": {
     "name": "Pareto",
     "logo": "ParetoLogo.png",
@@ -20,6 +48,13 @@
     "symbol": "AST",
     "decimals": 4
   },
+  "0x8D5682941cE456900b12d47ac06a88b47C764CE1": {
+    "name": "RightMesh Token",
+    "logo": "Rmesh.png",
+    "erc20": true,
+    "symbol": "RMESH",
+    "decimals": 18
+  },
   "0xDDe12a12A6f67156e0DA672be05c374e1B0a3e57": {
     "name": "JOYSO",
     "logo": "JOY.png",
@@ -33,6 +68,13 @@
     "erc20": true,
     "symbol": "J8T",
     "decimals": 8
+  },
+  "0x4a220E6096B25EADb88358cb44068A3248254675": {
+    "name": "Quant Network",
+    "logo": "quant-network.svg",
+    "erc20": true,
+    "symbol": "QNT",
+    "decimals": 18
   },
   "0xBC86727E770de68B1060C91f6BB6945c73e10388": {
     "name": "Ink Protocol",
@@ -89,6 +131,13 @@
     "erc20": true,
     "symbol": "GEN",
     "decimals": 18
+  },
+  "0x6aEDbF8dFF31437220dF351950Ba2a3362168d1b": {
+    "name": "Dragonglass",
+    "logo": "dragonglass.svg",
+    "erc20": true,
+    "symbol": "DGS",
+    "decimals": 8
   },
   "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07": {
     "name": "OmiseGO",
@@ -201,6 +250,13 @@
     "erc20": true,
     "decimals": 18,
     "symbol": "IQN"
+  },
+  "0x26E75307Fc0C021472fEb8F727839531F112f317": {
+    "name": "Crypto20",
+    "logo": "c20.svg",
+    "erc20": true,
+    "symbol": "C20",
+    "decimals": 18
   },
   "0x06012c8cf97BEaD5deAe237070F9587f8E7A266d": {
     "name": "Crypto Kitties",
@@ -326,6 +382,13 @@
     "logo": "eos-logo.jpeg",
     "erc20": true,
     "symbol": "EOS",
+    "decimals": 18
+  },
+  "0xdd974D5C2e2928deA5F71b9825b8b646686BD200": {
+    "name": "Kyber Network Crystal",
+    "logo": "kyber.svg",
+    "erc20": true,
+    "symbol": "KNC",
     "decimals": 18
   },
   "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C": {
@@ -517,6 +580,13 @@
     "symbol": "RFR",
     "decimals": 4
   },
+    "0xb0866289e870D2efc282406cF4123Df6E5BcB652": {
+    "name": "NoFakeCoin",
+    "logo": "nfticon.png",
+    "erc20": true,
+    "symbol": "NFC",
+    "decimals": 18
+  },
   "0x408e41876cCCDC0F92210600ef50372656052a38": {
     "name": "Republic Protocol",
     "logo": "ren.svg",
@@ -662,7 +732,7 @@
   },
   "0xB6eD7644C69416d67B522e20bC294A9a9B405B31": {
     "name": "0xBitcoin Token",
-    "logo": "0xbitcoin.png",
+    "logo": "0xbitcoin.svg",
     "erc20": true,
     "symbol": "0xBTC",
     "decimals": 8
@@ -694,6 +764,13 @@
     "erc20": true,
     "symbol": "LEND",
     "decimals": 18
+  },
+  "0x48FF53777F747cFB694101222a944dE070c15D36": {
+    "name": "Ether Kingdoms Token",
+    "logo": "IMP.svg",
+    "erc20": true,
+    "symbol": "IMP",
+    "decimals": 7
   },
   "0x02F61Fd266DA6E8B102D4121f5CE7b992640CF98": {
     "name": "LikeCoin",
@@ -814,6 +891,13 @@
     "symbol": "PAX",
     "decimals": 18
   },
+  "0x8dd5fbCe2F6a956C3022bA3663759011Dd51e73E": {
+    "name": "TrueUSD",
+    "logo": "tusd.png",
+    "erc20": true,
+    "symbol": "TUSD",
+    "decimals": 18
+  },
   "0xC16b542ff490e01fcc0DC58a60e1EFdc3e357cA6": {
     "name": "ICE ROCK MINING",
     "logo": "rock2.png",
@@ -854,6 +938,13 @@
     "logo": "starbase.png",
     "erc20": true,
     "symbol": "STAR",
+    "decimals": 18
+  },
+  "0xC17195bde49D70CefCF8A9F2ee1759FFC27BF0B1": {
+    "name": "Groocoin",
+    "logo": "groo.png",
+    "erc20": true,
+    "symbol": "GROO",
     "decimals": 18
   },
   "0xFBeef911Dc5821886e1dda71586d90eD28174B7d": {
