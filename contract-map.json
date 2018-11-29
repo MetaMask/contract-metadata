@@ -725,7 +725,7 @@
   },
   "0xB6eD7644C69416d67B522e20bC294A9a9B405B31": {
     "name": "0xBitcoin Token",
-    "logo": "0xbitcoin.png",
+    "logo": "0xbitcoin.svg",
     "erc20": true,
     "symbol": "0xBTC",
     "decimals": 8
