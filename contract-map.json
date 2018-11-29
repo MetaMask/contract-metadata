@@ -918,5 +918,12 @@
     "erc20": true,
     "symbol": "STAR",
     "decimals": 18
+  },
+  "0xCc80C051057B774cD75067Dc48f8987C4Eb97A5e": {
+    "name": "Nectar",
+    "logo": "nec.svg",
+    "erc20": true,
+    "symbol": "NEC",
+    "decimals": 18
   }
 }
