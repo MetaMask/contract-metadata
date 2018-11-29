@@ -573,6 +573,13 @@
     "symbol": "RFR",
     "decimals": 4
   },
+    "0xb0866289e870D2efc282406cF4123Df6E5BcB652": {
+    "name": "NoFakeCoin",
+    "logo": "nfticon.png",
+    "erc20": true,
+    "symbol": "NFC",
+    "decimals": 18
+  },
   "0x408e41876cCCDC0F92210600ef50372656052a38": {
     "name": "Republic Protocol",
     "logo": "ren.svg",
