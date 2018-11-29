@@ -377,6 +377,13 @@
     "symbol": "EOS",
     "decimals": 18
   },
+  "0xdd974D5C2e2928deA5F71b9825b8b646686BD200": {
+    "name": "Kyber Network Crystal",
+    "logo": "kyber.svg",
+    "erc20": true,
+    "symbol": "KNC",
+    "decimals": 18
+  },
   "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C": {
     "name": "Bancor Network Token",
     "logo": "bancor.png",
