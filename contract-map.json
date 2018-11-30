@@ -946,5 +946,12 @@
     "erc20": true,
     "symbol": "GROO",
     "decimals": 18
+  },
+  "0xFBeef911Dc5821886e1dda71586d90eD28174B7d": {
+    "name": "KnownOrigin",
+    "logo": "knownorigin.svg",
+    "erc20": true,
+    "symbol": "KODA",
+    "decimals": 0
   }
 }
