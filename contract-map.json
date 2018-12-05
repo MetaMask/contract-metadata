@@ -232,14 +232,14 @@
   },
   "0xC011A72400E58ecD99Ee497CF89E3775d4bd732F": {
     "name": "Synthetix Network Token",
-    "logo": "synthetix.png",
+    "logo": "synthetix.svg",
     "erc20": true,
     "decimals": 18,
     "symbol": "SNX"
   },
   "0x57Ab1E02fEE23774580C119740129eAC7081e9D3": {
     "name": "sUSD",
-    "logo": "synthetix_susd.png",
+    "logo": "synthetix_susd.svg",
     "erc20": true,
     "decimals": 18,
     "symbol": "SUSD"
