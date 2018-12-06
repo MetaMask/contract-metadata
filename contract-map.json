@@ -1,4 +1,11 @@
 {
+  "0x49AAa160506F7e07E6C3F6cD6316b6866025cDcB": {
+    "name": "Lira Cash",
+    "logo": "lira_cash.png",
+    "erc20": true,
+    "symbol": "LIRA",
+    "decimals": 8
+  },
   "0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190": {
     "name": "Dether",
     "logo": "dether.svg",
