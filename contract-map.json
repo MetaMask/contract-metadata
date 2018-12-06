@@ -1,4 +1,11 @@
 {
+
+  "0xF9D9702D031407F425a4412682fDc56b07d05262": {
+    "name": "WallOfChain",
+    "logo": "WallOfChain.png",
+    "symbol": "WOC",
+    "decimals": 0
+  },
   "0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190": {
     "name": "Dether",
     "logo": "dether.svg",
