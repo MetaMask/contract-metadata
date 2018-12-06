@@ -1,5 +1,12 @@
 {
   "0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190": {
+  "name": "BTU",
+  "logo": "BTU.svg",
+  "erc20": true,
+  "symbol": "BTU",
+  "decimals": 18
+},
+  "0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190": {
     "name": "Dether",
     "logo": "dether.svg",
     "erc20": true,
