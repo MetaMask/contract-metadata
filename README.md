@@ -58,7 +58,7 @@ A sample submission:
 }
 ```
 
-Tokens should include a field `"erc20": true`, and can include additional fields:
+ERC20 tokens should include a field `"erc20": true`, and can include additional fields:
 
 - symbol (a five-character or less ticker symbol)
 - decimals (precision of the tokens stored)
