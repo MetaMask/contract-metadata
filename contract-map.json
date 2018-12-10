@@ -953,5 +953,12 @@
     "erc20": true,
     "symbol": "KODA",
     "decimals": 0
+  },
+  "0xdfc3e857c8ccea7657e0ed98ab92e048e38dee0f": {
+    "name": "FidelityHouse Token",
+    "logo": "fih.png",
+    "erc20": true,
+    "symbol": "FIH",
+    "decimals": 18
   }
 }
