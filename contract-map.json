@@ -1,4 +1,11 @@
 {
+  "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": {
+    "name": "USD Coin",
+    "logo": "USD-Coin.svg",
+    "erc20": true,
+    "symbol": "USDC",
+    "decimals": 6
+  },
   "0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190": {
     "name": "Dether",
     "logo": "dether.svg",
