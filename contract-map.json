@@ -1,4 +1,11 @@
 {
+  "0x150b0b96933B75Ce27af8b92441F8fB683bF9739": {
+    "name": "Dragonereum Gold",
+    "logo": "gold.svg",
+    "erc20": true,
+    "symbol": "GOLD",
+    "decimals": 18
+  },
   "0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190": {
     "name": "Dether",
     "logo": "dether.svg",
