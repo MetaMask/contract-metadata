@@ -468,6 +468,13 @@
     "symbol": "XAUR",
     "decimals": 8
   },
+  "0xbd2db105b965d74e91deed64ec4b441beab9d498": {
+    "name": "FoodNation Token",
+    "logo": "FOOD_LOGO.svg",
+    "erc20": true,
+    "symbol": "FOOD",
+    "decimals": 18
+  },
   "0xB9e7F8568e08d5659f5D29C4997173d84CdF2607": {
     "name": "Swarm City Token",
     "logo": "swt.jpg",
