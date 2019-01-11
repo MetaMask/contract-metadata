@@ -967,5 +967,12 @@
     "erc20": true,
     "symbol": "KODA",
     "decimals": 0
+  },
+  "0x903D78ca7D892e4518586d0b64F418bd4CA9a82d": {
+    "name": "FK Coin",
+    "logo": "fkcoin.png",
+    "erc20": true,
+    "symbol": "FK",
+    "decimals": 18
   }
 }
