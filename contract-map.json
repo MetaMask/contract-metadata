@@ -967,5 +967,12 @@
     "erc20": true,
     "symbol": "KODA",
     "decimals": 0
+  },
+   "0xc98e0639c6d2ec037a615341c369666b110e80e5": {
+    "name": "EXMR",
+    "logo": "exmrlogo.svg",
+    "erc20": true,
+    "symbol": "EXMR",
+    "decimals": 8
   }
 }
