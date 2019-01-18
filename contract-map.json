@@ -90,6 +90,13 @@
     "symbol": "AION",
     "decimals": 8
   },
+  "0x2C36204a0712A2a50E54A62F7c4F01867e78cB53": {
+    "name": "Taklimakan",
+    "logo": "Taklimakan.svg",
+    "erc20": true,
+    "symbol": "TAN",
+    "decimals": 18
+  },
   "0xa95592DCFfA3C080B4B40E459c5f5692F67DB7F8": {
     "name": "ELY Token",
     "logo": "ely.png",
