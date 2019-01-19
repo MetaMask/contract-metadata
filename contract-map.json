@@ -202,6 +202,13 @@
     "symbol": "ZRX",
     "decimals": 18
   },
+  "0x06012c8cf97BEaD5deAe237070F9587f8E7A266d": {
+    "name": "Taklimakan",
+    "logo": "Taklimakan.svg",
+    "erc20": true,
+    "symbol": "TAN",
+    "decimals": 18
+},
   "0xB563300A3BAc79FC09B93b6F84CE0d4465A2AC27": {
     "name": "RedCab",
     "logo": "redcab.png",
