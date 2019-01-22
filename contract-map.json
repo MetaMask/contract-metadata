@@ -13,6 +13,13 @@
     "symbol": "DTH",
     "decimals": 18
   },
+  "0x3F17Dd476faF0a4855572F0B6ed5115D9bBA22AD": {
+    "name": "Wibson",
+    "logo": "wibson-logo.svg",
+    "erc20": true,
+    "symbol": "WIB",
+    "decimals": 9
+  },
   "0xDF347911910b6c9A4286bA8E2EE5ea4a39eB2134": {
     "name": "Bob's Repair",
     "logo": "bobsrepair.png",
