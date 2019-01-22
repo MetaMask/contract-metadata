@@ -954,6 +954,13 @@
     "symbol": "NEEO",
     "decimals": 18
   },
+  "0xA823E6722006afe99E91c30FF5295052fe6b8E32": {
+    "name": "Neumark",
+    "logo": "neu.svg",
+    "erc20": true,
+    "symbol": "NEU",
+    "decimals": 18
+  },
   "0x0Cf0Ee63788A0849fE5297F3407f701E122cC023": {
     "name": "Streamr",
     "logo": "streamr.svg",
