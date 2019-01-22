@@ -566,6 +566,13 @@
     "symbol": "DAI",
     "decimals": 18
   },
+  "0xDF2C7238198Ad8B389666574f2d8bc411A4b7428": {
+    "name": "Mainframe Token",
+    "logo": "Mainframe.png",
+    "erc20": true,
+    "symbol": "MFT",
+    "decimals": 18
+  },
   "0x0D8775F648430679A709E98d2b0Cb6250d2887EF": {
     "name": "Basic Attention Token",
     "logo": "BAT_icon.svg",
