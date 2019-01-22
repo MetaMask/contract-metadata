@@ -1,4 +1,11 @@
 {
+  "0x5d60d8d7eF6d37E16EBABc324de3bE57f135e0BC": {
+    "name": "MyBit",
+    "logo": "MYB.svg",
+    "erc20": true,
+    "symbol": "MYB",
+    "decimals": 18
+  },
   "0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190": {
     "name": "Dether",
     "logo": "dether.svg",
