@@ -41,6 +41,13 @@
     "symbol": "PARETO",
     "decimals": 18
   },
+  "0x4D807509aECe24C0fa5A102b6a3B059Ec6E14392": {
+    "name": "Menlo One",
+    "logo": "Menlo_One.png",
+    "erc20": true,
+    "symbol": "ONE",
+    "decimals": 18
+  },
   "0xDDD460bBD9F79847ea08681563e8A9696867210C": {
     "name": "Spendcoin",
     "logo": "SpendCoin.png",
