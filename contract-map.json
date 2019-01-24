@@ -989,6 +989,13 @@
     "symbol": "DATA",
     "decimals": 18
   },
+  "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b": {
+    "name": "Crypto.com Chain",
+    "logo": "CRO.png",
+    "erc20": true,
+    "symbol": "CRO",
+    "decimals": 8
+  },
   "0xF70a642bD387F94380fFb90451C2c81d4Eb82CBc": {
     "name": "STAR",
     "logo": "starbase.png",
