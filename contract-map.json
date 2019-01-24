@@ -1,4 +1,11 @@
 {
+  "0x150b0b96933B75Ce27af8b92441F8fB683bF9739": {
+    "name": "Dragonereum Gold",
+    "logo": "gold.svg",
+    "erc20": true,
+    "symbol": "GOLD",
+    "decimals": 18
+  },
   "0x5d60d8d7eF6d37E16EBABc324de3bE57f135e0BC": {
     "name": "MyBit",
     "logo": "MYB.svg",
