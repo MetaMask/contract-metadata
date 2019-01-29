@@ -1010,13 +1010,6 @@
     "symbol": "GROO",
     "decimals": 18
   },
-  "0xbb1f24c0c1554b9990222f036b0aad6ee4caec29": {
-    "name": "CryptoSoul",
-    "logo": "SOUL.svg",
-    "erc20": true,
-    "symbol": "SOUL",
-    "decimals": 18
-  },
   "0x7C5A0CE9267ED19B22F8cae653F198e3E8daf098": {
     "name": "Santiment",
     "logo": "santiment.svg",
