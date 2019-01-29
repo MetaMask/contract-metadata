@@ -925,6 +925,7 @@
     "erc20": true,
     "symbol": "SOUL",
     "decimals": 18
+  },
   "0x7E43581b19ab509BCF9397a2eFd1ab10233f27dE": {
     "name": "PLATINUM",
     "logo": "plat.png",
