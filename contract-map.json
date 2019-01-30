@@ -1,4 +1,11 @@
 {
+  "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599": {
+    "name": "Wrapped BTC",
+    "logo": "wbtc.png",
+    "erc20": true,
+    "symbol": "WBTC",
+    "decimals": 8
+  },
   "0x150b0b96933B75Ce27af8b92441F8fB683bF9739": {
     "name": "Dragonereum Gold",
     "logo": "gold.svg",
