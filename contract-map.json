@@ -1031,4 +1031,11 @@
     "symbol": "KODA",
     "decimals": 0
   }
+  "0x1966d718a565566e8e202792658d7b5ff4ece469":{
+  "name": "nDEX",
+  "logo": "nDEX.png",
+  "erc20": true,
+  "symbol": "NDX",
+  "decimals": 18
+  }
 }
