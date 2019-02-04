@@ -1,4 +1,11 @@
 {
+  "0x1966d718A565566e8E202792658D7b5Ff4ECe469": {
+    "name": "nDEX",
+    "logo": "nDEX.png",
+    "erc20": true,
+    "symbol": "NDX",
+    "decimals": 18
+  },  
   "0x150b0b96933B75Ce27af8b92441F8fB683bF9739": {
     "name": "Dragonereum Gold",
     "logo": "gold.svg",
