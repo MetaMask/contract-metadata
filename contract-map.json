@@ -1030,5 +1030,12 @@
     "erc20": true,
     "symbol": "KODA",
     "decimals": 0
+  },
+  "0x5bc901cbebefb03a56d45e57e4f356dc4db30ab5": {
+    "name": "xensor token",
+    "logo": "xensor.png",
+    "erc20": true,
+    "symbol": "XST",
+    "decimals": 18
   }
 }
