@@ -1,4 +1,11 @@
 {
+  "0x6fb3e0a217407efff7ca062d46c26e5d60a14d69": {
+    "name": "IoTeX",
+    "logo": "iotex.svg",
+    "erc20": true,
+    "symbol": "IOTX",
+    "decimals": 18
+  },
   "0x150b0b96933B75Ce27af8b92441F8fB683bF9739": {
     "name": "Dragonereum Gold",
     "logo": "gold.svg",
