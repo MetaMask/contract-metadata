@@ -1,4 +1,11 @@
 {
+  "0xdf59c8ba19b4d1437d80836b45f1319d9a429eed": {
+    "name": "IZIChain",
+    "logo": "IZIChain.png",
+    "erc20": true,
+    "symbol": "IZI",
+    "decimals": 4
+  },
   "0x150b0b96933B75Ce27af8b92441F8fB683bF9739": {
     "name": "Dragonereum Gold",
     "logo": "gold.svg",
