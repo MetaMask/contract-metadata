@@ -1024,6 +1024,13 @@
     "symbol": "SAN",
     "decimals": 18
   },
+  "0xDB5C3C46E28B53a39C255AA39A411dD64e5fed9c": {
+    "name": "Neos Credits",
+    "logo": "neos_credits.png",
+    "erc20": true,
+    "symbol": "NCR",
+    "decimals": 18
+  },
   "0xFBeef911Dc5821886e1dda71586d90eD28174B7d": {
     "name": "KnownOrigin",
     "logo": "knownorigin.svg",
