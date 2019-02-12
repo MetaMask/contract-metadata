@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 294.8 294.8">
+  <path fill="#051d2d" d="M0-.6h294.8v296.1H0z"/>
+  <linearGradient id="a" gradientUnits="userSpaceOnUse" x1="5402.691" y1="5516.113" x2="5563.532" y2="5516.113" gradientTransform="matrix(0 1 1 0 -5368.712 -5339.958)">
+    <stop offset="0" stop-color="#fff"/>
+    <stop offset=".03" stop-color="#fff" stop-opacity=".83"/>
+    <stop offset=".07" stop-color="#fff" stop-opacity=".66"/>
+    <stop offset=".11" stop-color="#fff" stop-opacity=".5"/>
+    <stop offset=".15" stop-color="#fff" stop-opacity=".37"/>
+    <stop offset=".19" stop-color="#fff" stop-opacity=".25"/>
+    <stop offset=".25" stop-color="#fff" stop-opacity=".16"/>
+    <stop offset=".3" stop-color="#fff" stop-opacity=".09"/>
+    <stop offset=".37" stop-color="#fff" stop-opacity=".04"/>
+    <stop offset=".47" stop-color="#fff" stop-opacity=".01"/>
+    <stop offset=".66" stop-color="#fff" stop-opacity="0"/>
+  </linearGradient>
+  <path d="M147.4 223.6c-44.4 0-80.4-36-80.4-80.4s36-80.4 80.4-80.4 80.4 36 80.4 80.4c0 44.3-36 80.3-80.4 80.4zm0-80.9c-.3 0-.5.2-.5.5s.2.5.5.5.5-.2.5-.5-.2-.5-.5-.5z" fill="url(#a)"/>
+  <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="5483.602" y1="5516.113" x2="5644.441" y2="5516.113" gradientTransform="matrix(0 1 1 0 -5368.712 -5339.958)">
+    <stop offset="0" stop-color="#fff"/>
+    <stop offset=".03" stop-color="#fff" stop-opacity=".83"/>
+    <stop offset=".07" stop-color="#fff" stop-opacity=".66"/>
+    <stop offset=".11" stop-color="#fff" stop-opacity=".5"/>
+    <stop offset=".15" stop-color="#fff" stop-opacity=".37"/>
+    <stop offset=".19" stop-color="#fff" stop-opacity=".25"/>
+    <stop offset=".25" stop-color="#fff" stop-opacity=".16"/>
+    <stop offset=".3" stop-color="#fff" stop-opacity=".09"/>
+    <stop offset=".37" stop-color="#fff" stop-opacity=".04"/>
+    <stop offset=".47" stop-color="#fff" stop-opacity=".01"/>
+    <stop offset=".66" stop-color="#fff" stop-opacity="0"/>
+  </linearGradient>
+  <path d="M147.4 304.5c-44.4 0-80.4-36-80.4-80.4s36-80.4 80.4-80.4 80.4 36 80.4 80.4c0 44.4-36 80.3-80.4 80.4zm0-80.9c-.3 0-.5.2-.5.5s.2.5.5.5.5-.2.5-.5-.2-.5-.5-.5z" fill="url(#b)"/>
+</svg>

@@ -1,4 +1,11 @@
 {
+  "0xc994a2dEb02543Db1f48688438b9903c4b305ce3": {
+    "name": "Augmint Euro",
+    "logo": "augmint.svg",
+    "erc20": true,
+    "symbol": "AEUR",
+    "decimals": 2
+  },
   "0x150b0b96933B75Ce27af8b92441F8fB683bF9739": {
     "name": "Dragonereum Gold",
     "logo": "gold.svg",
