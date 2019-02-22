@@ -1041,7 +1041,7 @@
   "0x819Bb9964B6eBF52361F1ae42CF4831B921510f9": {
     "name": "Origin Marketplace",
     "logo": "originprotocol.png",
-    "erc20": false,
+    "erc20": false
   },
   "0x3dDb21eff50640aF57bcea41374001aFF245Bf28": {
     "name": "Origin Marketplace",
