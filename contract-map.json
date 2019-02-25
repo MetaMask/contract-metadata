@@ -1,4 +1,18 @@
 {
+  "0x150b0b96933B75Ce27af8b92441F8fB683bF9739": {
+    "name": "Dragonereum Gold",
+    "logo": "gold.svg",
+    "erc20": true,
+    "symbol": "GOLD",
+    "decimals": 18
+  },
+  "0x5d60d8d7eF6d37E16EBABc324de3bE57f135e0BC": {
+    "name": "MyBit",
+    "logo": "MYB.svg",
+    "erc20": true,
+    "symbol": "MYB",
+    "decimals": 18
+  },
   "0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190": {
     "name": "Dether",
     "logo": "dether.svg",
@@ -39,6 +53,20 @@
     "logo": "ParetoLogo.png",
     "erc20": true,
     "symbol": "PARETO",
+    "decimals": 18
+  },
+  "0x6251583e7D997DF3604bc73B9779196e94A090Ce": {
+    "name": "Hercules",
+    "logo": "herc.png",
+    "erc20": true,
+    "symbol": "HERC",
+    "decimals": 18
+},
+  "0x4D807509aECe24C0fa5A102b6a3B059Ec6E14392": {
+    "name": "Menlo One",
+    "logo": "Menlo_One.png",
+    "erc20": true,
+    "symbol": "ONE",
     "decimals": 18
   },
   "0xDDD460bBD9F79847ea08681563e8A9696867210C": {
@@ -552,6 +580,13 @@
     "symbol": "DAI",
     "decimals": 18
   },
+  "0xDF2C7238198Ad8B389666574f2d8bc411A4b7428": {
+    "name": "Mainframe Token",
+    "logo": "Mainframe.png",
+    "erc20": true,
+    "symbol": "MFT",
+    "decimals": 18
+  },
   "0x0D8775F648430679A709E98d2b0Cb6250d2887EF": {
     "name": "Basic Attention Token",
     "logo": "BAT_icon.svg",
@@ -905,8 +940,15 @@
     "symbol": "PAX",
     "decimals": 18
   },
-  "0x8dd5fbCe2F6a956C3022bA3663759011Dd51e73E": {
+  "0x0000000000085d4780B73119b644AE5ecd22b376": {
     "name": "TrueUSD",
+    "logo": "tusd.png",
+    "erc20": true,
+    "symbol": "TUSD",
+    "decimals": 18
+  },
+  "0x8dd5fbCe2F6a956C3022bA3663759011Dd51e73E": {
+    "name": "TrueUSD (Deprecated)",
     "logo": "tusd.png",
     "erc20": true,
     "symbol": "TUSD",
@@ -940,12 +982,26 @@
     "symbol": "NEEO",
     "decimals": 18
   },
+  "0xA823E6722006afe99E91c30FF5295052fe6b8E32": {
+    "name": "Neumark",
+    "logo": "neu.svg",
+    "erc20": true,
+    "symbol": "NEU",
+    "decimals": 18
+  },
   "0x0Cf0Ee63788A0849fE5297F3407f701E122cC023": {
     "name": "Streamr",
     "logo": "streamr.svg",
     "erc20": true,
     "symbol": "DATA",
     "decimals": 18
+  },
+  "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b": {
+    "name": "Crypto.com Chain",
+    "logo": "CRO.png",
+    "erc20": true,
+    "symbol": "CRO",
+    "decimals": 8
   },
   "0xF70a642bD387F94380fFb90451C2c81d4Eb82CBc": {
     "name": "STAR",
