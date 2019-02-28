@@ -723,6 +723,20 @@
     "symbol": "WTC",
     "decimals": 18
   },
+  "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599": {
+    "name": "Wrapped BTC",
+    "logo": "wbtc.png",
+    "erc20": true,
+    "symbol": "WBTC",
+    "decimals": 8
+  },
+  "0x1776e1f26f98b1a5df9cd347953a26dd3cb46671": {
+    "name": "Numeraire",
+    "logo": "nmr.png",
+    "erc20": true,
+    "symbol": "NMR",
+    "decimals": 18
+  },
   "0xcA2796F9F61dc7b238Aab043971e49c6164DF375": {
     "name": "YGGDRASH YEED Token",
     "logo": "yggdrash.svg",
