@@ -89,7 +89,7 @@
     "erc20": true,
     "symbol": "HERC",
     "decimals": 18
-},
+  },
   "0x4D807509aECe24C0fa5A102b6a3B059Ec6E14392": {
     "name": "Menlo One",
     "logo": "Menlo_One.png",
@@ -657,7 +657,7 @@
     "symbol": "RFR",
     "decimals": 4
   },
-    "0xb0866289e870D2efc282406cF4123Df6E5BcB652": {
+  "0xb0866289e870D2efc282406cF4123Df6E5BcB652": {
     "name": "NoFakeCoin",
     "logo": "nfticon.png",
     "erc20": true,
@@ -1065,6 +1065,13 @@
     "erc20": true,
     "symbol": "KODA",
     "decimals": 0
+  },
+  "0x8f8221aFbB33998d8584A2B05749bA73c37a938a": {
+    "name": "Request",
+    "logo": "request.svg",
+    "erc20": true,
+    "symbol": "REQ",
+    "decimals": 18
   },
   "0x14C926F2290044B647e1Bf2072e67B495eff1905": {
     "name": "Bethereum",
