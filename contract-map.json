@@ -1,4 +1,32 @@
 {
+  "0x93a7174dafd31d13400cD9fa01f4e5B5BAa00D39": {
+    "name": "Shaka",
+    "logo": "hak.svg",
+    "erc20": true,
+    "symbol": "HAK",
+    "decimals": 18
+  },
+  "0x6fB3e0A217407EFFf7Ca062D46c26E5d60a14d69": {
+    "name": "IoTeX",
+    "logo": "iotex.svg",
+    "erc20": true,
+    "symbol": "IOTX",
+    "decimals": 18
+  },
+  "0x1966d718A565566e8E202792658D7b5Ff4ECe469": {
+    "name": "nDEX",
+    "logo": "nDEX.png",
+    "erc20": true,
+    "symbol": "NDX",
+    "decimals": 18
+  },  
+  "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599": {
+    "name": "Wrapped BTC",
+    "logo": "wbtc.png",
+    "erc20": true,
+    "symbol": "WBTC",
+    "decimals": 8
+  },
   "0x150b0b96933B75Ce27af8b92441F8fB683bF9739": {
     "name": "Dragonereum Gold",
     "logo": "gold.svg",
@@ -1024,6 +1052,13 @@
     "symbol": "SAN",
     "decimals": 18
   },
+  "0x28dee01D53FED0Edf5f6E310BF8Ef9311513Ae40": {
+    "name": "BlitzPredict",
+    "logo": "blitzpredict.svg",
+    "erc20": true,
+    "symbol": "XBP",
+    "decimals": 18
+  },
   "0xFBeef911Dc5821886e1dda71586d90eD28174B7d": {
     "name": "KnownOrigin",
     "logo": "knownorigin.svg",
@@ -1036,6 +1071,13 @@
     "logo": "request.svg",
     "erc20": true,
     "symbol": "REQ",
+    "decimals": 18
+  },
+  "0x14C926F2290044B647e1Bf2072e67B495eff1905": {
+    "name": "Bethereum",
+    "logo": "bether.jpg",
+    "erc20": true,
+    "symbol": "BETHER",
     "decimals": 18
   }
 }
