@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="350px" height="350px" viewBox="0 0 350 350" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M47,81.1774801 L47,181.17748 C47,183.17748 55.6821062,219.809919 90.0026218,219.809919 L174.199694,219.809919 L174.199694,116.313633 C174.199694,116.313633 170.164846,80 130.496941,80 L99,80 L118,105.327179 L135.212366,105.327179 C135.212366,105.327179 150.573957,110.285667 150.573957,127.057024 C150.525344,149.710509 150.282281,172.704282 150.039218,195.503605 L89.1275945,195.503605 C89.1275945,195.503605 68.5347389,195.210362 68,174.209706 C67.6836275,161.842418 67.959677,139.956226 68,124.17748 C68.0200749,116.321973 68.0072996,108.470399 68.0016301,105.738674 C68.000969,105.420125 68.0004045,105.171196 68,105 C68,105 67.5867152,104.531167 67.3800727,104.296751 C62.8511677,99.1591352 56.0578101,91.4527116 47,81.1774801 Z" id="path-1"></path>
+        <filter x="-5.9%" y="-3.9%" width="111.8%" height="110.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-3" points="201 80.1774801 180 105.17748 194.940638 105.17748 205.721792 105.17748 231 105.17748 250 80"></polygon>
+        <filter x="-10.7%" y="-21.8%" width="121.4%" height="159.6%" filterUnits="objectBoundingBox" id="filter-4">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="LTO-LOGO" transform="translate(25.000000, 24.000000)" fill-rule="nonzero">
+            <g id="path4584">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use stroke="#9867D0" stroke-width="1" fill="#9867D0" xlink:href="#path-1"></use>
+            </g>
+            <g id="path4586" transform="translate(215.000000, 92.588740) scale(1, -1) translate(-215.000000, -92.588740) ">
+                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                <use stroke="#9867D0" stroke-width="1" fill="#9867D0" xlink:href="#path-3"></use>
+            </g>
+        </g>
+    </g>
+</svg>
