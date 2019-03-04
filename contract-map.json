@@ -1,4 +1,11 @@
 {
+  "0x93a7174dafd31d13400cD9fa01f4e5B5BAa00D39": {
+    "name": "Shaka",
+    "logo": "hak.svg",
+    "erc20": true,
+    "symbol": "HAK",
+    "decimals": 18
+  },
   "0x6fB3e0A217407EFFf7Ca062D46c26E5d60a14d69": {
     "name": "IoTeX",
     "logo": "iotex.svg",
