@@ -1052,6 +1052,13 @@
     "symbol": "SAN",
     "decimals": 18
   },
+  "0x28dee01D53FED0Edf5f6E310BF8Ef9311513Ae40": {
+    "name": "BlitzPredict",
+    "logo": "blitzpredict.svg",
+    "erc20": true,
+    "symbol": "XBP",
+    "decimals": 18
+  },
   "0xFBeef911Dc5821886e1dda71586d90eD28174B7d": {
     "name": "KnownOrigin",
     "logo": "knownorigin.svg",
