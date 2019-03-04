@@ -1,4 +1,11 @@
 {
+  "0x1966d718A565566e8E202792658D7b5Ff4ECe469": {
+    "name": "nDEX",
+    "logo": "nDEX.png",
+    "erc20": true,
+    "symbol": "NDX",
+    "decimals": 18
+  },  
   "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599": {
     "name": "Wrapped BTC",
     "logo": "wbtc.png",
