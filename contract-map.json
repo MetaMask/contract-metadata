@@ -919,6 +919,27 @@
     "symbol": "WTC",
     "decimals": 18
   },
+  "0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671": {
+    "name": "Numeraire",
+    "logo": "nmr.png",
+    "erc20": true,
+    "symbol": "NMR",
+    "decimals": 18
+  },
+  "0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd": {
+    "name": "Gemini Dollar",
+    "logo": "gemini_28.png",
+    "erc20": true,
+    "symbol": "GUSD",
+    "decimals": 2
+  },
+  "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48": {
+    "name": "USD Coin",
+    "logo": "usdc.png",
+    "erc20": true,
+    "symbol": "USDC",
+    "decimals": 6
+  },
   "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d": {
     "name": "Pinakion Token",
     "logo": "pinakion.svg",
@@ -1051,6 +1072,48 @@
     "erc20": true,
     "symbol": "SAN",
     "decimals": 18
+  },
+    "0x58b6A8A3302369DAEc383334672404Ee733aB239": {
+    "name": "Livepeer",
+    "logo": "livepeer.png",
+    "erc20": true,
+    "symbol": "LPT",
+    "decimals": 18
+  },
+    "0x6c6EE5e31d828De241282B9606C8e98Ea48526E2": {
+    "name": "HoloToken",
+    "logo": "holotoken.png",
+    "erc20": true,
+    "symbol": "HOT",
+    "decimals": 18
+  },
+    "0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c": {
+    "name": "EnjinCoin",
+    "logo": "enjin.png",
+    "erc20": true,
+    "symbol": "ENJ",
+    "decimals": 18
+  },
+    "0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e": {
+    "name": "AELF",
+    "logo": "aelf.png",
+    "erc20": true,
+    "symbol": "ELF",
+    "decimals": 18
+  },
+    "0x39Bb259F66E1C59d5ABEF88375979b4D20D98022": {
+    "name": "Wax",
+    "logo": "wax.png",
+    "erc20": true,
+    "symbol": "WAX",
+    "decimals": 8
+  },
+    "0x595832F8FC6BF59c85C527fEC3740A1b7a361269": {
+    "name": "PowerLedger",
+    "logo": "power.png",
+    "erc20": true,
+    "symbol": "POWR",
+    "decimals": 6
   },
   "0x28dee01D53FED0Edf5f6E310BF8Ef9311513Ae40": {
     "name": "BlitzPredict",
