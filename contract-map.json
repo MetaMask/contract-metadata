@@ -1052,6 +1052,48 @@
     "symbol": "SAN",
     "decimals": 18
   },
+    "0x58b6a8a3302369daec383334672404ee733ab239": {
+    "name": "Livepeer",
+    "logo": "livepeer.png",
+    "erc20": true,
+    "symbol": "LPT",
+    "decimals": 18
+  },
+    "0x6c6ee5e31d828de241282b9606c8e98ea48526e2": {
+    "name": "HoloToken",
+    "logo": "holotoken.png",
+    "erc20": true,
+    "symbol": "HOT",
+    "decimals": 18
+  },
+    "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c": {
+    "name": "EnjinCoin",
+    "logo": "enjin.png",
+    "erc20": true,
+    "symbol": "ENJ",
+    "decimals": 18
+  },
+    "0xbf2179859fc6d5bee9bf9158632dc51678a4100e": {
+    "name": "AELF",
+    "logo": "aelf.png",
+    "erc20": true,
+    "symbol": "ELF",
+    "decimals": 18
+  },
+    "0x39bb259f66e1c59d5abef88375979b4d20d98022": {
+    "name": "Wax",
+    "logo": "wax.png",
+    "erc20": true,
+    "symbol": "WAX",
+    "decimals": 8
+  },
+    "0x595832f8fc6bf59c85c527fec3740a1b7a361269": {
+    "name": "PowerLedger",
+    "logo": "power.png",
+    "erc20": true,
+    "symbol": "POWR",
+    "decimals": 6
+  },
   "0xFBeef911Dc5821886e1dda71586d90eD28174B7d": {
     "name": "KnownOrigin",
     "logo": "knownorigin.svg",
