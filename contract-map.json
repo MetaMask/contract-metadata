@@ -891,13 +891,6 @@
     "symbol": "WTC",
     "decimals": 18
   },
-  "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599": {
-    "name": "Wrapped BTC",
-    "logo": "wbtc.png",
-    "erc20": true,
-    "symbol": "WBTC",
-    "decimals": 8
-  },
   "0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671": {
     "name": "Numeraire",
     "logo": "nmr.png",
