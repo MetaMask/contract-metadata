@@ -6,6 +6,13 @@
     "symbol": "HAK",
     "decimals": 18
   },
+  "0x141abb03f001deded9a0223d4ff26d929117b72e": {
+    "name": "HighVibe",
+    "logo": "hvlogo.png",
+    "erc20": true,
+    "symbol": "HV",
+    "decimals": 18
+  },
   "0x6fB3e0A217407EFFf7Ca062D46c26E5d60a14d69": {
     "name": "IoTeX",
     "logo": "iotex.svg",
