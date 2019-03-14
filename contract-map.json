@@ -20,6 +20,13 @@
     "symbol": "NDX",
     "decimals": 18
   },  
+    "0x4946Fcea7C692606e8908002e55A582af44AC121": {
+    "name": "FOAM",
+    "logo": "FOAM.svg",
+    "erc20": true,
+    "symbol": "FOAM",
+    "decimals": 18
+  },  
   "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599": {
     "name": "Wrapped BTC",
     "logo": "wbtc.png",
