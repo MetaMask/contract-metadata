@@ -6,18 +6,18 @@
     "symbol": "HAK",
     "decimals": 18
   },
-  "0x141abb03f001deded9a0223d4ff26d929117b72e": {
-    "name": "HighVibe",
-    "logo": "hvlogo.png",
-    "erc20": true,
-    "symbol": "HV",
-    "decimals": 18
-  },
   "0x6fB3e0A217407EFFf7Ca062D46c26E5d60a14d69": {
     "name": "IoTeX",
     "logo": "iotex.svg",
     "erc20": true,
     "symbol": "IOTX",
+    "decimals": 18
+  },
+  "0x141ABB03F001dEDED9A0223d4ff26d929117B72e": {
+    "name": "HighVibe",
+    "logo": "hvlogo.png",
+    "erc20": true,
+    "symbol": "HV",
     "decimals": 18
   },
   "0x1966d718A565566e8E202792658D7b5Ff4ECe469": {
