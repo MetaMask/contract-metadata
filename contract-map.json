@@ -41,6 +41,13 @@
     "symbol": "MYB",
     "decimals": 18
   },
+  "0x01FA555c97D7958Fa6f771f3BbD5CCD508f81e22": {
+    "name": "Civil Token",
+    "logo": "CVL_token.svg",
+    "erc20": true,
+    "symbol": "CVL",
+    "decimals": 18
+  },
   "0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190": {
     "name": "Dether",
     "logo": "dether.svg",
