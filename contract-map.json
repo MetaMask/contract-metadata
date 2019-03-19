@@ -13,6 +13,25 @@
     "symbol": "IOTX",
     "decimals": 18
   },
+    "0x4946Fcea7C692606e8908002e55A582af44AC121": {
+    "name": "FOAM",
+    "logo": "FOAM.svg",
+    "erc20": true,
+    "symbol": "FOAM",
+    "decimals": 18
+  },  
+  "0x36f16a0d35b866cdd0f3c3fa39e2ba8f48b099d2": {
+    "name": "FOAM Signal",
+    "logo": "FOAM.svg",
+  },  
+  "0x2832373dddad96bbfb44f1b7da11b6541026bf40": {
+    "name": "FOAM Registry",
+    "logo": "FOAM.svg",
+  },  
+  "0x66f27365d66c0e8ad4ef87db8cb4af63ce874b7b": {
+    "name": "FOAM TCR Voting",
+    "logo": "FOAM.svg",
+  }, 
   "0x1966d718A565566e8E202792658D7b5Ff4ECe469": {
     "name": "nDEX",
     "logo": "nDEX.png",
