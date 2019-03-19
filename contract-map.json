@@ -28,6 +28,19 @@
     "decimals": 18
   },  
   "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599": {
+    "name": "FOAM Signal",
+    "logo": "FOAM.svg",
+  },  
+  "0x2832373dddad96bbfb44f1b7da11b6541026bf40": {
+    "name": "FOAM Registry",
+    "logo": "FOAM.svg",
+  },  
+  "0x66f27365d66c0e8ad4ef87db8cb4af63ce874b7b": {
+    "name": "FOAM TCR Voting",
+    "logo": "FOAM.svg",
+  }, 
+  }, 
+  "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599": {
     "name": "Wrapped BTC",
     "logo": "wbtc.png",
     "erc20": true,
