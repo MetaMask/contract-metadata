@@ -1136,6 +1136,13 @@
     "symbol": "KODA",
     "decimals": 0
   },
+  "0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26": {
+    "name": "Origin Protocol",
+    "logo": "originprotocol.png",
+    "erc20": true,
+    "symbol": "OGN",
+    "decimals": 18
+  },
   "0x8f8221aFbB33998d8584A2B05749bA73c37a938a": {
     "name": "Request",
     "logo": "request.svg",
