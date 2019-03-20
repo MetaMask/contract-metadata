@@ -356,13 +356,6 @@
     "symbol": "TRL",
     "decimals": 0
   },
-  "0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6": {
-    "name": "Dentacoin",
-    "logo": "Dentacoin.png",
-    "erc20": true,
-    "symbol": "DCN",
-    "decimals": 0
-  },
   "0xba2184520A1cC49a6159c57e61E1844E085615B6": {
     "name": "HelloGold Token",
     "logo": "hgt.png",
