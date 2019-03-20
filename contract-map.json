@@ -328,6 +328,14 @@
     "symbol": "C20",
     "decimals": 18
   },
+  "0x06012c8cf97BEaD5deAe237070F9587f8E7A266d": {
+    "name": "Crypto Kitties",
+    "logo": "CryptoKitties-Kitty-13733.svg",
+    "erc20": false,
+    "erc721": true,
+    "symbol": "CK",
+    "decimals": 0
+  },
   "0xE477292f1B3268687A29376116B0ED27A9c76170": {
     "name": "Herocoin",
     "logo": "herocoin_logo.png",
