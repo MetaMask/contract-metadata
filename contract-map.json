@@ -1,4 +1,11 @@
 {
+  "0xe5b826ca2ca02f09c1725e9bd98d9a8874c30532": {
+    "name": "ZEON Network",
+    "logo": "ZEON_logo.png",
+    "erc20": true,
+    "symbol": "ZEON",
+    "decimals": 18
+   },
   "0x93a7174dafd31d13400cD9fa01f4e5B5BAa00D39": {
     "name": "Shaka",
     "logo": "hak.svg",
