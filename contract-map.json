@@ -1150,5 +1150,12 @@
     "erc20": true,
     "symbol": "BETHER",
     "decimals": 18
+    },
+  "0xD717B75404022fb1C8582ADf1c66B9A553811754": {
+    "name": "Micro Licensing Coin",
+    "logo": "MILC_logo.png",
+    "erc20": true,
+    "symbol": "MILC",
+    "decimals": 18
   }
 }
