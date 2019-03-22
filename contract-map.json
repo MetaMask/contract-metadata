@@ -1032,6 +1032,13 @@
     "symbol": "POA20",
     "decimals": 18
   },
+  "0x3DB6Ba6ab6F95efed1a6E794caD492fAAabF294D": {
+    "name": "LTO Network Token",
+    "logo": "LTO.svg",
+    "erc20": true,
+    "symbol": "LTO",
+    "decimals": 8
+  },
   "0x7064aAb39A0Fcf7221c3396719D0917a65E35515": {
     "name": "Cpollo",
     "logo": "Cpollo.svg",
