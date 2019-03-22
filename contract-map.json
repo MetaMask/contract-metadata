@@ -57,7 +57,7 @@
   },
   "0x3F17Dd476faF0a4855572F0B6ed5115D9bBA22AD": {
     "name": "Wibson",
-    "logo": "wibson-logo.svg",
+    "logo": "wibson-logo.png",
     "erc20": true,
     "symbol": "WIB",
     "decimals": 9
