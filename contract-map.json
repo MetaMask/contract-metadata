@@ -560,6 +560,13 @@
     "symbol": "WINGS",
     "decimals": 18
   },
+  "0x009e864923b49263c7F10D19B7f8Ab7a9A5AAd33": {
+    "name": "Knoxstertoken",
+    "logo": "FortKnoxster.png",
+    "erc20": true,
+    "symbol": "FKX",
+    "decimals": 18
+  },
   "0xAf30D2a7E90d7DC361c8C4585e9BB7D2F6f15bc7": {
     "name": "FirstBlood Token",
     "logo": "1st.svg",
