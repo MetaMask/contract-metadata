@@ -1,4 +1,11 @@
 {
+  "0x13cb85823f78Cff38f0B0E90D3e975b8CB3AAd64": {
+    "name": "REMIIT REMI Token",
+    "logo": "remi.svg",
+    "erc20": true,
+    "symbol": "REMI",
+    "decimals": 18
+  },
   "0x93a7174dafd31d13400cD9fa01f4e5B5BAa00D39": {
     "name": "Shaka",
     "logo": "hak.svg",
