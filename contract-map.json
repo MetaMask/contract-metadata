@@ -26,7 +26,7 @@
     "erc20": true,
     "symbol": "NDX",
     "decimals": 18
-  },  
+  },
   "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599": {
     "name": "Wrapped BTC",
     "logo": "wbtc.png",
@@ -686,6 +686,13 @@
     "symbol": "REN",
     "decimals": 18
   },
+  "0x2C4e8f2D746113d0696cE89B35F0d8bF88E0AEcA": {
+    "name": "Open Simple Token",
+    "logo": "OST.svg",
+    "erc20": true,
+    "symbol": "OST",
+    "decimals": 18
+  },
   "0xa74476443119A942dE498590Fe1f2454d7D4aC0d": {
     "name": "Golem Network Token",
     "logo": "golem.svg",
@@ -1095,42 +1102,42 @@
     "symbol": "SAN",
     "decimals": 18
   },
-    "0x58b6A8A3302369DAEc383334672404Ee733aB239": {
+  "0x58b6A8A3302369DAEc383334672404Ee733aB239": {
     "name": "Livepeer",
     "logo": "livepeer.png",
     "erc20": true,
     "symbol": "LPT",
     "decimals": 18
   },
-    "0x6c6EE5e31d828De241282B9606C8e98Ea48526E2": {
+  "0x6c6EE5e31d828De241282B9606C8e98Ea48526E2": {
     "name": "HoloToken",
     "logo": "holotoken.png",
     "erc20": true,
     "symbol": "HOT",
     "decimals": 18
   },
-    "0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c": {
+  "0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c": {
     "name": "EnjinCoin",
     "logo": "enjin.png",
     "erc20": true,
     "symbol": "ENJ",
     "decimals": 18
   },
-    "0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e": {
+  "0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e": {
     "name": "AELF",
     "logo": "aelf.png",
     "erc20": true,
     "symbol": "ELF",
     "decimals": 18
   },
-    "0x39Bb259F66E1C59d5ABEF88375979b4D20D98022": {
+  "0x39Bb259F66E1C59d5ABEF88375979b4D20D98022": {
     "name": "Wax",
     "logo": "wax.png",
     "erc20": true,
     "symbol": "WAX",
     "decimals": 8
   },
-    "0x595832F8FC6BF59c85C527fEC3740A1b7a361269": {
+  "0x595832F8FC6BF59c85C527fEC3740A1b7a361269": {
     "name": "PowerLedger",
     "logo": "power.png",
     "erc20": true,
