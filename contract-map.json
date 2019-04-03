@@ -1165,6 +1165,13 @@
     "symbol": "REQ",
     "decimals": 18
   },
+  "0xe41dd6e41f8F9962c5103D95D95f5d9B82D90fDF": {
+    "name": "ATS20 Token",
+    "logo": "ats20.svg",
+    "erc20": true,
+    "symbol": "ATS20",
+    "decimals": 18
+  },
   "0x14C926F2290044B647e1Bf2072e67B495eff1905": {
     "name": "Bethereum",
     "logo": "bether.jpg",
