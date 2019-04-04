@@ -1165,6 +1165,14 @@
     "symbol": "REQ",
     "decimals": 18
   },
+  "0x2aea4add166ebf38b63d09a75de1a7b94aa24163": {
+    "name": "Kudos",
+    "logo": "kudso.svg",
+    "erc20": false,
+    "erc721": true,
+    "symbol": "KDO",
+    "decimals": 0
+  },
   "0x14C926F2290044B647e1Bf2072e67B495eff1905": {
     "name": "Bethereum",
     "logo": "bether.jpg",
