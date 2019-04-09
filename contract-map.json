@@ -1011,6 +1011,13 @@
     "symbol": "TUSD",
     "decimals": 18
   },
+  "0x00000000441378008EA67F4284A57932B1c000a5": {
+    "name": "TrueGBP",
+    "logo": "tgbp.png",
+    "erc20": true,
+    "symbol": "TGBP",
+    "decimals": 18
+  },
   "0x8dd5fbCe2F6a956C3022bA3663759011Dd51e73E": {
     "name": "TrueUSD (Deprecated)",
     "logo": "tusd.png",
