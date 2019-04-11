@@ -1171,5 +1171,12 @@
     "erc20": true,
     "symbol": "BETHER",
     "decimals": 18
+  },
+  "0x6d38574be6C230272DAAd16Fa5F291F825Bd0Da1": {
+    "name": "Dinngo",
+    "logo": "DGO.png",
+    "erc20": true,
+    "symbol": "DGO",
+    "decimals": 18
   }
 }
