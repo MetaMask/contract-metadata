@@ -924,7 +924,7 @@
     "name": "Kucoin Shares",
     "logo": "kucoin.svg",
     "erc20": true,
-    "symbol": "LIKE",
+    "symbol": "KCS",
     "decimals": 6
   },
   "0x3893b9422Cd5D70a81eDeFfe3d5A1c6A978310BB": {
