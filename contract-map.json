@@ -1171,5 +1171,12 @@
     "erc20": true,
     "symbol": "BETHER",
     "decimals": 18
+  },
+  "0x9aab071b4129b083b01cb5a0cb513ce7eca26fa5": {
+    "name": "Hunt Token",
+    "logo": "hunt.png",
+    "erc20": true,
+    "symbol": "HUNT",
+    "decimals": 18
   }
 }
