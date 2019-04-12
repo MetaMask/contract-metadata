@@ -679,6 +679,13 @@
     "symbol": "NFC",
     "decimals": 18
   },
+  "0x2C4e8f2D746113d0696cE89B35F0d8bF88E0AEcA": {
+    "name": "Open Simple Token",
+    "logo": "OST.svg",
+    "erc20": true,
+    "symbol": "OST",
+    "decimals": 18
+  },
   "0x408e41876cCCDC0F92210600ef50372656052a38": {
     "name": "Republic Protocol",
     "logo": "ren.svg",
