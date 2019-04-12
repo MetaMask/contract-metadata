@@ -104,6 +104,13 @@
     "symbol": "HERC",
     "decimals": 18
   },
+  "0x4946Fcea7C692606e8908002e55A582af44AC121": {
+    "name": "FOAM",
+    "logo": "FOAM.svg",
+    "erc20": true,
+    "symbol": "FOAM",
+    "decimals": 18
+  },  
   "0x4D807509aECe24C0fa5A102b6a3B059Ec6E14392": {
     "name": "Menlo One",
     "logo": "Menlo_One.png",
