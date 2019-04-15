@@ -1,4 +1,11 @@
 {
+  "0xabfe059e98b75b9293b341d461dad649fef25cf9": {
+    "name": "MediaRich.io Dyncoin proxy token",
+    "logo": "DYNP-256x256.png",
+    "erc20": true,
+    "symbol": "DYNP",
+    "decimals": 18
+  },
   "0x13cb85823f78Cff38f0B0E90D3e975b8CB3AAd64": {
     "name": "REMIIT REMI Token",
     "logo": "remi.svg",
