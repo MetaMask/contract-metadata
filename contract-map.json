@@ -20,6 +20,13 @@
     "symbol": "IOTX",
     "decimals": 18
   },
+  "0xE5a3229CCb22b6484594973A03a3851dCd948756": {
+    "name": "RAE Token",
+    "logo": "rae.svg",
+    "erc20": true,
+    "symbol": "RAE",
+    "decimals": 18
+  },
   "0x1966d718A565566e8E202792658D7b5Ff4ECe469": {
     "name": "nDEX",
     "logo": "nDEX.png",
