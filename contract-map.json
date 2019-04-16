@@ -104,6 +104,13 @@
     "symbol": "HERC",
     "decimals": 18
   },
+  "0x4946Fcea7C692606e8908002e55A582af44AC121": {
+    "name": "FOAM",
+    "logo": "FOAM.svg",
+    "erc20": true,
+    "symbol": "FOAM",
+    "decimals": 18
+  },  
   "0x4D807509aECe24C0fa5A102b6a3B059Ec6E14392": {
     "name": "Menlo One",
     "logo": "Menlo_One.png",
@@ -679,6 +686,13 @@
     "symbol": "NFC",
     "decimals": 18
   },
+  "0x2C4e8f2D746113d0696cE89B35F0d8bF88E0AEcA": {
+    "name": "Open Simple Token",
+    "logo": "OST.svg",
+    "erc20": true,
+    "symbol": "OST",
+    "decimals": 18
+  },
   "0x408e41876cCCDC0F92210600ef50372656052a38": {
     "name": "Republic Protocol",
     "logo": "ren.svg",
@@ -917,7 +931,7 @@
     "name": "Kucoin Shares",
     "logo": "kucoin.svg",
     "erc20": true,
-    "symbol": "LIKE",
+    "symbol": "KCS",
     "decimals": 6
   },
   "0x3893b9422Cd5D70a81eDeFfe3d5A1c6A978310BB": {
@@ -1016,13 +1030,6 @@
     "logo": "tgbp.png",
     "erc20": true,
     "symbol": "TGBP",
-    "decimals": 18
-  },
-  "0x8dd5fbCe2F6a956C3022bA3663759011Dd51e73E": {
-    "name": "TrueUSD (Deprecated)",
-    "logo": "tusd.png",
-    "erc20": true,
-    "symbol": "TUSD",
     "decimals": 18
   },
   "0xC16b542ff490e01fcc0DC58a60e1EFdc3e357cA6": {
@@ -1171,6 +1178,14 @@
     "erc20": true,
     "symbol": "REQ",
     "decimals": 18
+  },
+  "0x2aEa4Add166EBf38b63d09a75dE1a7b94Aa24163": {
+    "name": "Kudos",
+    "logo": "kudos.svg",
+    "erc20": false,
+    "erc721": true,
+    "symbol": "KDO",
+    "decimals": 0
   },
   "0x14C926F2290044B647e1Bf2072e67B495eff1905": {
     "name": "Bethereum",
