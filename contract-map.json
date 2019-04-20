@@ -6,6 +6,13 @@
     "symbol": "REMI",
     "decimals": 18
   },
+  "0x6311a8d6c7ad7d84ef100366ae0b747e50856ec3": {
+    "name": "CryptoBones",
+    "logo": "CryptoBones.png",
+    "erc20": true,
+    "symbol": "CBT",
+    "decimals": 18
+  },
   "0x93a7174dafd31d13400cD9fa01f4e5B5BAa00D39": {
     "name": "Shaka",
     "logo": "hak.svg",
