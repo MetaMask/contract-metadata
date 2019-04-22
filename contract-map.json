@@ -1187,7 +1187,7 @@
     "symbol": "BETHER",
     "decimals": 18
   },
-  "0X0ABDACE70D3790235AF448C88547603B945604EA": {
+  "0x0AbdAce70D3790235af448C88547603b945604ea": {
     "name": "district0x",
     "logo": "district0x.svg",
     "erc20": true,
