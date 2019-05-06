@@ -1,4 +1,11 @@
 {
+  "0xE5B826Ca2Ca02F09c1725e9bd98d9a8874C30532": {
+    "name": "ZEON Network",
+    "logo": "ZEON_logo.png",
+    "erc20": true,
+    "symbol": "ZEON",
+    "decimals": 18
+  },
   "0x13cb85823f78Cff38f0B0E90D3e975b8CB3AAd64": {
     "name": "REMIIT REMI Token",
     "logo": "remi.svg",
