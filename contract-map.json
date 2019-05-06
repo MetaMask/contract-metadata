@@ -1039,6 +1039,13 @@
     "symbol": "TUSD",
     "decimals": 18
   },
+  "0x23Ccc43365D9dD3882eab88F43d515208f832430": {
+    "name": "MidasProtocol",
+    "logo": "MAS.png",
+    "erc20": true,
+    "symbol": "MAS",
+    "decimals": 18
+  },
   "0xC16b542ff490e01fcc0DC58a60e1EFdc3e357cA6": {
     "name": "ICE ROCK MINING",
     "logo": "rock2.png",
