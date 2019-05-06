@@ -1,4 +1,11 @@
 {
+  "0x5D858bcd53E085920620549214a8b27CE2f04670": {
+    "name": "POP Network Token",
+    "logo": "POP.svg",
+    "erc20": true,
+    "symbol": "POP",
+    "decimals": 18
+  },
   "0xE5B826Ca2Ca02F09c1725e9bd98d9a8874C30532": {
     "name": "ZEON Network",
     "logo": "ZEON_logo.png",
