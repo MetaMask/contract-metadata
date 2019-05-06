@@ -1193,5 +1193,12 @@
     "erc20": true,
     "symbol": "BETHER",
     "decimals": 18
+  },
+  "0x7848ae8F19671Dc05966dafBeFbBbb0308BDfAbD": {
+    "name": "WednesdayCoin",
+    "logo": "wed.png",
+    "erc20": true,
+    "symbol": "WED",
+    "decimals": 18
   }
 }
