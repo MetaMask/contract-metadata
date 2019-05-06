@@ -1194,6 +1194,13 @@
     "symbol": "BETHER",
     "decimals": 18
   },
+  "0x0AbdAce70D3790235af448C88547603b945604ea": {
+    "name": "district0x",
+    "logo": "district0x.svg",
+    "erc20": true,
+    "symbol": "DNT",
+    "decimals": 18
+  },
   "0x7848ae8F19671Dc05966dafBeFbBbb0308BDfAbD": {
     "name": "WednesdayCoin",
     "logo": "wed.png",
