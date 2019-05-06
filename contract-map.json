@@ -1208,6 +1208,13 @@
     "symbol": "BETHER",
     "decimals": 18
   },
+  "0xFEF3884b603C33EF8eD4183346E093A173C94da6": {
+    "name": "Metamorph",
+    "logo": "metamorph.svg",
+    "erc20": true,
+    "symbol": "METM",
+    "decimals": 18
+  },
   "0x0AbdAce70D3790235af448C88547603b945604ea": {
     "name": "district0x",
     "logo": "district0x.svg",
