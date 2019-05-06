@@ -1,4 +1,18 @@
 {
+  "0x5D858bcd53E085920620549214a8b27CE2f04670": {
+    "name": "POP Network Token",
+    "logo": "POP.svg",
+    "erc20": true,
+    "symbol": "POP",
+    "decimals": 18
+  },
+  "0xE5B826Ca2Ca02F09c1725e9bd98d9a8874C30532": {
+    "name": "ZEON Network",
+    "logo": "ZEON_logo.png",
+    "erc20": true,
+    "symbol": "ZEON",
+    "decimals": 18
+  },
   "0x13cb85823f78Cff38f0B0E90D3e975b8CB3AAd64": {
     "name": "REMIIT REMI Token",
     "logo": "remi.svg",
@@ -1025,6 +1039,13 @@
     "symbol": "TUSD",
     "decimals": 18
   },
+  "0x23Ccc43365D9dD3882eab88F43d515208f832430": {
+    "name": "MidasProtocol",
+    "logo": "MAS.png",
+    "erc20": true,
+    "symbol": "MAS",
+    "decimals": 18
+  },
   "0xC16b542ff490e01fcc0DC58a60e1EFdc3e357cA6": {
     "name": "ICE ROCK MINING",
     "logo": "rock2.png",
@@ -1192,6 +1213,20 @@
     "logo": "metamorph.svg",
     "erc20": true,
     "symbol": "METM",
+    "decimals": 18
+  },
+  "0x0AbdAce70D3790235af448C88547603b945604ea": {
+    "name": "district0x",
+    "logo": "district0x.svg",
+    "erc20": true,
+    "symbol": "DNT",
+    "decimals": 18
+  },
+  "0x7848ae8F19671Dc05966dafBeFbBbb0308BDfAbD": {
+    "name": "WednesdayCoin",
+    "logo": "wed.png",
+    "erc20": true,
+    "symbol": "WED",
     "decimals": 18
   }
 }
