@@ -1208,7 +1208,7 @@
     "symbol": "WED",
     "decimals": 18
   },
-    "0x7848ae8F19671Dc05966dafBeFbBbb0308BDfAbD": {
+  "0x7848ae8F19671Dc05966dafBeFbBbb0308BDfAbD": {
     "name": "Meme Factory DANK Token",
     "logo": "dank12.svg",
     "erc20": true,
