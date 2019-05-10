@@ -1222,6 +1222,13 @@
     "symbol": "DNT",
     "decimals": 18
   },
+  "0xB26631c6dda06aD89B93C71400D25692de89c068": {
+    "name": "Minds",
+    "logo": "minds.svg",
+    "erc20": true,
+    "symbol": "MINDS",
+    "decimals": 18
+  },
   "0x7848ae8F19671Dc05966dafBeFbBbb0308BDfAbD": {
     "name": "WednesdayCoin",
     "logo": "wed.png",
