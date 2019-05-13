@@ -1222,6 +1222,13 @@
     "symbol": "DNT",
     "decimals": 18
   },
+  "0x4FbB350052Bca5417566f188eB2EBCE5b19BC964": {
+    "name": "Rigo",
+    "logo": "rigo.svg",
+    "erc20": true,
+    "symbol": "GRG",
+    "decimals": 18
+  },
   "0x7848ae8F19671Dc05966dafBeFbBbb0308BDfAbD": {
     "name": "WednesdayCoin",
     "logo": "wed.png",
