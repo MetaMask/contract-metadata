@@ -1230,10 +1230,10 @@
     "decimals": 18
   },
   "0x2F4Bdafb22bd92AA7b7552d270376dE8eDccbc1E": {
-    "name": "Cheeze Wizards",
+    "name": "Cheeze Wizards Presale",
     "logo": "cheeze-wizards.svg",
     "erc721": true,
-    "symbol": "CW",
+    "symbol": "CWP",
     "decimals": 0
   }
 }
