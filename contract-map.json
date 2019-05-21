@@ -1222,6 +1222,13 @@
     "symbol": "DNT",
     "decimals": 18
   },
+  "0x0C6144c16af288948C8fdB37fD8fEc94bfF3d1d9": {
+    "name": "Neutral Dollar",
+    "logo": "neutraldollar.png",
+    "erc20": true,
+    "symbol": "NUSD",
+    "decimals": 6
+  },
   "0x7848ae8F19671Dc05966dafBeFbBbb0308BDfAbD": {
     "name": "WednesdayCoin",
     "logo": "wed.png",
