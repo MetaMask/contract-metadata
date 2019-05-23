@@ -1235,4 +1235,5 @@
     "erc20": true,
     "symbol": "LRC",
     "decimals": 18
+  }
 }
