@@ -1229,9 +1229,9 @@
     "symbol": "WED",
     "decimals": 18
   },
-  "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd": {
+  "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD": {
     "name": "Loopring",
-    "logo": "LRC blue_fill.png",
+    "logo": "LRC.png",
     "erc20": true,
     "symbol": "LRC",
     "decimals": 18
