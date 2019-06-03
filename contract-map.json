@@ -349,6 +349,13 @@
     "decimals": 18,
     "symbol": "IQN"
   },
+  "0x000c100050e98c91f9114fa5dd75ce6869bf4f53": {
+    "name": "CRYPTO10 Hedged",
+    "logo": "c10.svg",
+    "erc20": true,
+    "symbol": "C10",
+    "decimals": 18
+  },  
   "0x26E75307Fc0C021472fEb8F727839531F112f317": {
     "name": "Crypto20",
     "logo": "c20.svg",
