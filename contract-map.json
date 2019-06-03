@@ -1228,5 +1228,12 @@
     "erc20": true,
     "symbol": "WED",
     "decimals": 18
+  },
+  "0x7F969C4D388Ca0AE39A4FdDB1A6f89878CA2fBf8": {
+    "name": "GGCOIN",
+    "logo": "GGC_TOKEN.png",
+    "erc20": true,
+    "symbol": "GGC",
+    "decimals": 18
   }
 }
