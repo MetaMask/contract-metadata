@@ -1228,5 +1228,12 @@
     "erc20": true,
     "symbol": "WED",
     "decimals": 18
+  },
+  "0x779492d3644ddf4495aa2d80c468e1b7be6af1d2": {
+    "name": "CAS coin",
+    "logo": "cas.svg",
+    "erc20": true,
+    "symbol": "CAS",
+    "decimals": 2
   }
 }
