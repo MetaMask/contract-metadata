@@ -1222,6 +1222,13 @@
     "symbol": "DNT",
     "decimals": 18
   },
+  "0xff0e5e014cf97e0615cb50f6f39da6388e2fae6e": {
+    "name": "Origo",
+    "logo": "origo.svg",
+    "erc20": true,
+    "symbol": "OGO",
+    "decimals": 18
+  },  
   "0x7848ae8F19671Dc05966dafBeFbBbb0308BDfAbD": {
     "name": "WednesdayCoin",
     "logo": "wed.png",
