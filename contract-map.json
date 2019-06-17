@@ -921,7 +921,7 @@
   },
   "0xbb1f24c0c1554b9990222f036b0aad6ee4caec29": {
     "name": "CryptoSoul",
-    "logo": "SOUL.png",
+    "logo": "SOUL.svg",
     "erc20": true,
     "symbol": "SOUL",
     "decimals": 18
