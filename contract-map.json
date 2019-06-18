@@ -1229,6 +1229,13 @@
     "symbol": "MINDS",
     "decimals": 18
   },
+  "0xbb1f24c0c1554b9990222f036b0aad6ee4caec29": {
+    "name": "CryptoSoul",
+    "logo": "SOUL.svg",
+    "erc20": true,
+    "symbol": "SOUL",
+    "decimals": 18
+  },
   "0x7848ae8F19671Dc05966dafBeFbBbb0308BDfAbD": {
     "name": "WednesdayCoin",
     "logo": "wed.png",
