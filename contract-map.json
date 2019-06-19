@@ -1231,7 +1231,7 @@
   },
   "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD": {
     "name": "Loopring",
-    "logo": "LRC.png",
+    "logo": "LRC.svg",
     "erc20": true,
     "symbol": "LRC",
     "decimals": 18
