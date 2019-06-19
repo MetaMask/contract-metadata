@@ -1243,6 +1243,13 @@
     "symbol": "DNT",
     "decimals": 18
   },
+  "0x0C6144c16af288948C8fdB37fD8fEc94bfF3d1d9": {
+    "name": "Neutral Dollar",
+    "logo": "neutraldollar.png",
+    "erc20": true,
+    "symbol": "NUSD",
+    "decimals": 6
+  },
   "0xB26631c6dda06aD89B93C71400D25692de89c068": {
     "name": "Minds",
     "logo": "minds.svg",
