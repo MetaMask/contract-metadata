@@ -672,6 +672,13 @@
     "symbol": "GNO",
     "decimals": 18
   },
+  "0x514910771AF9Ca656af840dff83E8264EcF986CA": {
+    "name": "Chainlink Token",
+    "logo": "chainlink.svg",
+    "erc20": true,
+    "symbol": "LINK",
+    "decimals": 18
+  },
   "0xD8912C10681D8B21Fd3742244f44658dBA12264E": {
     "name": "Pluton",
     "logo": "plutus-god.svg",
