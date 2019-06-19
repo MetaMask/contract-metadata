@@ -425,7 +425,7 @@
     "logo": "tpt.png",
     "erc20": true,
     "symbol": "TPT",
-    "decimals": 18
+    "decimals": 
   },
   "0xA54ddC7B3CcE7FC8b1E3Fa0256D0DB80D2c10970": {
     "name": "NEVERDIE Coin",
@@ -1248,6 +1248,7 @@
     "logo": "neutraldollar.png",
     "erc20": true,
     "symbol": "NUSD",
+    "decimals": 6
   },
   "0xB26631c6dda06aD89B93C71400D25692de89c068": {
     "name": "Minds",
