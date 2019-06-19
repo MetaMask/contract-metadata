@@ -1084,6 +1084,7 @@
     "name": "Su Squares",
     "logo": "Su-Squares.svg",
     "erc20": false,
+    "erc721": true,
     "symbol": "SU",
     "decimals": 0
   }
