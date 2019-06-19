@@ -6,6 +6,13 @@
     "symbol": "POP",
     "decimals": 18
   },
+  "0x048fe49be32adfc9ed68c37d32b5ec9df17b3603": {
+    "name": "Skrumble Network V2",
+    "logo": "skm.png",
+    "erc20": true,
+    "symbol": "SKM",
+    "decimals": 18
+  },
   "0xE5B826Ca2Ca02F09c1725e9bd98d9a8874C30532": {
     "name": "ZEON Network",
     "logo": "ZEON_logo.png",
