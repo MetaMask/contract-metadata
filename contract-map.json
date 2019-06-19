@@ -1235,5 +1235,11 @@
     "erc20": true,
     "symbol": "WED",
     "decimals": 18
-  }
+  },
+  "0x0cB8D0B37C7487b11d57F1f33dEfA2B1d3cFccfE": {
+    "name": "DANKToken",
+    "logo": "dank-logo.png",
+    "erc20": true,
+    "symbol": "DANK",
+    "decimals": 18  
 }
