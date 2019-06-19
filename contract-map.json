@@ -1242,4 +1242,5 @@
     "erc20": true,
     "symbol": "DANK",
     "decimals": 18  
+  }
 }
