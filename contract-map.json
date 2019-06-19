@@ -1264,6 +1264,13 @@
     "symbol": "MINDS",
     "decimals": 18
   },
+  "0xFF0E5e014cf97e0615cb50F6f39Da6388E2FaE6E": {
+    "name": "Origo",
+    "logo": "origo.svg",
+    "erc20": true,
+    "symbol": "OGO",
+    "decimals": 18
+  },
   "0x7848ae8F19671Dc05966dafBeFbBbb0308BDfAbD": {
     "name": "WednesdayCoin",
     "logo": "wed.png",
