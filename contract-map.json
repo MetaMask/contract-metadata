@@ -1067,6 +1067,13 @@
     "symbol": "LTO",
     "decimals": 8
   },
+  "0x445f51299Ef3307dBD75036dd896565F5B4BF7A5": {
+    "name": "V-ID Token",
+    "logo": "VIDT.svg",
+    "erc20": true,
+    "symbol": "VIDT",
+    "decimals": 18
+  },
   "0x7064aAb39A0Fcf7221c3396719D0917a65E35515": {
     "name": "Cpollo",
     "logo": "Cpollo.svg",
