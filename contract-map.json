@@ -8,7 +8,7 @@
   },
   "0x048fe49be32adfc9ed68c37d32b5ec9df17b3603": {
     "name": "Skrumble Network V2",
-    "logo": "skm.png",
+    "logo": "skm.svg",
     "erc20": true,
     "symbol": "SKM",
     "decimals": 18
