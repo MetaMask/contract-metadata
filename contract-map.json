@@ -1264,6 +1264,13 @@
     "symbol": "MINDS",
     "decimals": 18
   },
+  "0xBb1f24C0c1554b9990222f036b0AaD6Ee4CAec29": {
+    "name": "CryptoSoul",
+    "logo": "SOUL.svg",
+    "erc20": true,
+    "symbol": "SOUL",
+    "decimals": 18
+  },
   "0xFF0E5e014cf97e0615cb50F6f39Da6388E2FaE6E": {
     "name": "Origo",
     "logo": "origo.svg",
