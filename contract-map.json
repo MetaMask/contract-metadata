@@ -425,7 +425,7 @@
     "logo": "tpt.png",
     "erc20": true,
     "symbol": "TPT",
-    "decimals": 
+    "decimals": 18
   },
   "0xA54ddC7B3CcE7FC8b1E3Fa0256D0DB80D2c10970": {
     "name": "NEVERDIE Coin",
