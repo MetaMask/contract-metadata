@@ -1,4 +1,18 @@
 {
+  "0x5D858bcd53E085920620549214a8b27CE2f04670": {
+    "name": "POP Network Token",
+    "logo": "POP.svg",
+    "erc20": true,
+    "symbol": "POP",
+    "decimals": 18
+  },
+  "0xE5B826Ca2Ca02F09c1725e9bd98d9a8874C30532": {
+    "name": "ZEON Network",
+    "logo": "ZEON_logo.png",
+    "erc20": true,
+    "symbol": "ZEON",
+    "decimals": 18
+  },
   "0x13cb85823f78Cff38f0B0E90D3e975b8CB3AAd64": {
     "name": "REMIIT REMI Token",
     "logo": "remi.svg",
@@ -104,6 +118,13 @@
     "symbol": "HERC",
     "decimals": 18
   },
+  "0x4946Fcea7C692606e8908002e55A582af44AC121": {
+    "name": "FOAM",
+    "logo": "FOAM.svg",
+    "erc20": true,
+    "symbol": "FOAM",
+    "decimals": 18
+  },  
   "0x4D807509aECe24C0fa5A102b6a3B059Ec6E14392": {
     "name": "Menlo One",
     "logo": "Menlo_One.png",
@@ -490,7 +511,7 @@
     "symbol": "VSL",
     "decimals": 18
   },
-  "0xFf3519eeeEA3e76F1F699CCcE5E23ee0bdDa41aC": {
+  "0x1f41E42D0a9e3c0Dd3BA15B527342783B43200A9": {
     "name": "Blockchain Capital",
     "logo": "bcap.svg",
     "erc20": true,
@@ -677,6 +698,13 @@
     "logo": "nfticon.png",
     "erc20": true,
     "symbol": "NFC",
+    "decimals": 18
+  },
+  "0x2C4e8f2D746113d0696cE89B35F0d8bF88E0AEcA": {
+    "name": "Open Simple Token",
+    "logo": "OST.svg",
+    "erc20": true,
+    "symbol": "OST",
     "decimals": 18
   },
   "0x408e41876cCCDC0F92210600ef50372656052a38": {
@@ -917,7 +945,7 @@
     "name": "Kucoin Shares",
     "logo": "kucoin.svg",
     "erc20": true,
-    "symbol": "LIKE",
+    "symbol": "KCS",
     "decimals": 6
   },
   "0x3893b9422Cd5D70a81eDeFfe3d5A1c6A978310BB": {
@@ -1011,11 +1039,11 @@
     "symbol": "TUSD",
     "decimals": 18
   },
-  "0x8dd5fbCe2F6a956C3022bA3663759011Dd51e73E": {
-    "name": "TrueUSD (Deprecated)",
-    "logo": "tusd.png",
+  "0x23Ccc43365D9dD3882eab88F43d515208f832430": {
+    "name": "MidasProtocol",
+    "logo": "MAS.png",
     "erc20": true,
-    "symbol": "TUSD",
+    "symbol": "MAS",
     "decimals": 18
   },
   "0xC16b542ff490e01fcc0DC58a60e1EFdc3e357cA6": {
@@ -1038,6 +1066,13 @@
     "erc20": true,
     "symbol": "LTO",
     "decimals": 8
+  },
+  "0x445f51299Ef3307dBD75036dd896565F5B4BF7A5": {
+    "name": "V-ID Token",
+    "logo": "VIDT.svg",
+    "erc20": true,
+    "symbol": "VIDT",
+    "decimals": 18
   },
   "0x7064aAb39A0Fcf7221c3396719D0917a65E35515": {
     "name": "Cpollo",
@@ -1165,6 +1200,14 @@
     "symbol": "REQ",
     "decimals": 18
   },
+  "0x2aEa4Add166EBf38b63d09a75dE1a7b94Aa24163": {
+    "name": "Kudos",
+    "logo": "kudos.svg",
+    "erc20": false,
+    "erc721": true,
+    "symbol": "KDO",
+    "decimals": 0
+  },
   "0x14C926F2290044B647e1Bf2072e67B495eff1905": {
     "name": "Bethereum",
     "logo": "bether.jpg",
@@ -1177,6 +1220,34 @@
     "logo": "hunt.png",
     "erc20": true,
     "symbol": "HUNT",
+    "decimals": 18
+  },
+  "0xFEF3884b603C33EF8eD4183346E093A173C94da6": {
+    "name": "Metamorph",
+    "logo": "metamorph.svg",
+    "erc20": true,
+    "symbol": "METM",
+    "decimals": 18
+  },
+  "0x0AbdAce70D3790235af448C88547603b945604ea": {
+    "name": "district0x",
+    "logo": "district0x.svg",
+    "erc20": true,
+    "symbol": "DNT",
+    "decimals": 18
+  },
+  "0xB26631c6dda06aD89B93C71400D25692de89c068": {
+    "name": "Minds",
+    "logo": "minds.svg",
+    "erc20": true,
+    "symbol": "MINDS",
+    "decimals": 18
+  },
+  "0x7848ae8F19671Dc05966dafBeFbBbb0308BDfAbD": {
+    "name": "WednesdayCoin",
+    "logo": "wed.png",
+    "erc20": true,
+    "symbol": "WED",
     "decimals": 18
   }
 }
