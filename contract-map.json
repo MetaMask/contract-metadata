@@ -1256,5 +1256,13 @@
     "erc20": true,
     "symbol": "WED",
     "decimals": 18
+  },
+  "0xE9e3F9cfc1A64DFca53614a0182CFAD56c10624F": {
+    "name": "Su Squares",
+    "logo": "Su-Squares.svg",
+    "erc20": false,
+    "erc721": true,
+    "symbol": "SU",
+    "decimals": 0
   }
 }
