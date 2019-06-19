@@ -857,6 +857,48 @@
     "symbol": "WETH",
     "decimals": 18
   },
+  "0x6C8c6b02E7b2BE14d4fA6022Dfd6d75921D90E4E": {
+    "name": "Compound Basic Attention Token",
+    "logo": "ctoken-bat.svg",
+    "erc20": true,
+    "symbol":"cBAT",
+    "decimals": 8
+  },
+  "0xF5DCe57282A584D2746FaF1593d3121Fcac444dC": {
+    "name": "Compound Dai",
+    "logo": "ctoken-dai.svg",
+    "erc20": true,
+    "symbol":"cDAI",
+    "decimals": 8
+  },
+  "0x4Ddc2D193948926D02f9B1fE9e1daa0718270ED5": {
+    "name": "Compound Ether",
+    "logo": "ctoken-eth.svg",
+    "erc20": true,
+    "symbol":"cETH",
+    "decimals": 8
+  },
+  "0x158079Ee67Fce2f58472A96584A73C7Ab9AC95c1": {
+    "name": "Compound Augur",
+    "logo": "ctoken-rep.svg",
+    "erc20": true,
+    "symbol":"cREP",
+    "decimals": 8
+  },
+  "0x39AA39c021dfbaE8faC545936693aC917d5E7563": {
+    "name": "Compound USD Coin",
+    "logo": "ctoken-usdc.svg",
+    "erc20": true,
+    "symbol":"cUSDC",
+    "decimals": 8
+  },
+  "0xB3319f5D18Bc0D84dD1b4825Dcde5d5f7266d407": {
+    "name": "Compound 0x",
+    "logo": "ctoken-zrx.svg",
+    "erc20": true,
+    "symbol":"cZRX",
+    "decimals": 8
+  },
   "0xFFE02ee4C69eDf1b340fCaD64fbd6b37a7b9e265": {
     "name": "NANJCOIN",
     "logo": "nanjcoin.svg",
