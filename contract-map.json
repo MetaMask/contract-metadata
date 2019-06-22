@@ -927,6 +927,13 @@
     "symbol": "SPANK",
     "decimals": 18
   },
+  "0x6b01c3170ae1efebee1a3159172cb3f7a5ecf9e5": {
+    "name": "BOOTY",
+    "logo": "booty.png",
+    "erc20": true,
+    "symbol": "BOOTY",
+    "decimals": 18
+  },
   "0x4a6058666cf1057eaC3CD3A5a614620547559fc9": {
     "name": "Brickblock",
     "logo": "Brickblock.svg",
@@ -1342,11 +1349,4 @@
     "symbol": "SU",
     "decimals": 0
   }
-},
-"0x6b01c3170ae1efebee1a3159172cb3f7a5ecf9e5": {
-    "name": "BOOTY",
-    "logo": "booty.png",
-    "erc20": true,
-    "symbol": "BOOTY",
-    "decimals": 18
-  }
+}
