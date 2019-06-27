@@ -6,6 +6,13 @@
     "symbol": "POP",
     "decimals": 18
   },
+  "0x0eeff52203749c300f9f7b0d0a5a6e3262fa2228": {
+    "name": "MC2I Token",
+    "logo": "MC2I_Token.png",
+    "erc20": true,
+    "symbol": "MC2I",
+    "decimals": 18
+  },
   "0xE5B826Ca2Ca02F09c1725e9bd98d9a8874C30532": {
     "name": "ZEON Network",
     "logo": "ZEON_logo.png",
