@@ -20,6 +20,13 @@
     "symbol": "REMI",
     "decimals": 18
   },
+  "0x0eeff52203749c300f9f7b0d0a5a6e3262fa2228": {
+    "name": "MC2IToken",
+    "logo": "mc2i-token.png",
+    "erc20": true,
+    "symbol": "MC2I",
+    "decimals": 18
+  },
   "0x93a7174dafd31d13400cD9fa01f4e5B5BAa00D39": {
     "name": "Shaka",
     "logo": "hak.svg",
