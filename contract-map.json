@@ -1,4 +1,11 @@
 {
+  "0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d": {
+    "name": "Celsius",
+    "logo": "celsius.svg",
+    "erc20": true,
+    "symbol": "CEL",
+    "decimals": 4
+  },
   "0x5D858bcd53E085920620549214a8b27CE2f04670": {
     "name": "POP Network Token",
     "logo": "POP.svg",
