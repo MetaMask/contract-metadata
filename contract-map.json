@@ -1341,5 +1341,13 @@
     "erc721": true,
     "symbol": "SU",
     "decimals": 0
+  },
+  "0xac9ce326e95f51b5005e9fe1dd8085a01f18450c": {
+    "name": "VeriSafe",
+    "logo": "verisafe.png",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "VSF",
+    "decimals": 18
   }
 }
