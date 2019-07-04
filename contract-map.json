@@ -1344,7 +1344,7 @@
   },
   "0xac9ce326e95f51b5005e9fe1dd8085a01f18450c": {
     "name": "VeriSafe",
-    "logo": "verisafe.png",
+    "logo": "verisafe.svg",
     "erc20": true,
     "erc721": false,
     "symbol": "VSF",
