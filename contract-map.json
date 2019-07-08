@@ -1341,5 +1341,12 @@
     "erc721": true,
     "symbol": "SU",
     "decimals": 0
+  },
+  "0x3afe25a2739b5c2e08cfec439f9621d91ff7fbfb": {
+    "name": "BULVRD",
+    "logo": "blvd.png",
+    "erc20": true,
+    "symbol": "BLVD",
+    "decimals": 18
   }
 }
