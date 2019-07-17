@@ -1342,7 +1342,6 @@
     "symbol": "SU",
     "decimals": 0
   },
-  {
   "0x31301fad701bfad28d0589b0077428026b14aa8a": {
     "name": "PrimeBlock",
     "logo": "PMBK.svg",
@@ -1351,5 +1350,4 @@
     "symbol": "PMBK",
     "decimals": 18
   }
-}
 }
