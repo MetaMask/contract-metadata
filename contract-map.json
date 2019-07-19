@@ -1341,5 +1341,13 @@
     "erc721": true,
     "symbol": "SU",
     "decimals": 0
+  },
+  "0xa19bbEf64eFF0D060a653e4DF10a57B6d8006d3E": {
+    "name": "Enegra",
+    "logo": "enegra.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "EGX",
+    "decimals": 18
   }
 }
