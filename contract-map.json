@@ -1342,7 +1342,7 @@
     "symbol": "SU",
     "decimals": 0
   },
-  "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0": {
+  "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0": {
     "name": "Matic Network Token",
     "logo": "matic-network-logo.svg",
     "erc20": true,
