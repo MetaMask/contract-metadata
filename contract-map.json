@@ -1,4 +1,11 @@
 {
+  "0x2b144019Dba12FA983d591783F1f49e28acedf7A": {
+    "name": "VF Cash",
+    "logo": "vfc_icon.png",
+    "erc20": true,
+    "symbol": "VFC",
+    "decimals": 3
+  },
   "0x5D858bcd53E085920620549214a8b27CE2f04670": {
     "name": "POP Network Token",
     "logo": "POP.svg",
