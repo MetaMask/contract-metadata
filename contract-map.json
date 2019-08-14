@@ -1341,5 +1341,19 @@
     "erc721": true,
     "symbol": "SU",
     "decimals": 0
+  },
+  "0xeb269732ab75A6fD61Ea60b06fE994cD32a83549": {
+    "name": "dForce Stablecoin",
+    "logo": "logo_USDx.svg",
+    "erc20": true,
+    "symbol": "USDx",
+    "decimals": 18
+  },
+  "0x431ad2ff6a9C365805eBaD47Ee021148d6f7DBe0": {
+    "name": "dForce Platform Token",
+    "logo": "logo_DF.svg",
+    "erc20": true,
+    "symbol": "DF",
+    "decimals": 18
   }
 }
