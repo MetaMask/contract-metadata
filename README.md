@@ -64,4 +64,3 @@ Tokens should include a field `"erc20": true`, and can include additional fields
 - decimals (precision of the tokens stored)
 
 A full list of permitted fields can be found in the [permitted-fields.json](./permitted-fields.json) file.
-
