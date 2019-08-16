@@ -1,4 +1,11 @@
 {
+  "0x998FFE1E43fAcffb941dc337dD0468d52bA5b48A": {
+    "name": "Rupiah Token",
+    "logo": "idrt.png",
+    "erc20": true,
+    "symbol": "IDRT",
+    "decimals": 2
+  },
   "0x5D858bcd53E085920620549214a8b27CE2f04670": {
     "name": "POP Network Token",
     "logo": "POP.svg",
