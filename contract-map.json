@@ -48,6 +48,20 @@
     "symbol": "WBTC",
     "decimals": 8
   },
+  "0x8AedB297FED4b6884b808ee61fAf0837713670d0": {
+    "name": "Wrapped MarbleCards",
+    "logo": "WrappedMarbleCards.png",
+    "erc20": true,
+    "symbol": "WMC",
+    "decimals": 18
+  },
+  "0x8888889213DD4dA823EbDD1e235b09590633C150": {
+    "name": "Marblecoin",
+    "logo": "Marblecoin.png",
+    "erc20": true,
+    "symbol": "MBC",
+    "decimals": 18
+  },
   "0x150b0b96933B75Ce27af8b92441F8fB683bF9739": {
     "name": "Dragonereum Gold",
     "logo": "gold.svg",
