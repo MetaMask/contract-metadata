@@ -1377,6 +1377,13 @@
     "symbol": "SU",
     "decimals": 0
   },
+  "0x0a50C93c762fDD6E56D86215C24AaAD43aB629aa": {
+    "name": "LGO Token",
+    "logo": "lgo.png",
+    "erc20": true,
+    "symbol": "LGO",
+    "decimals": 8
+  },
   "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD": {
     "name": "Loopring",
     "logo": "LRC.svg",
