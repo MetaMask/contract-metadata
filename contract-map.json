@@ -1,10 +1,38 @@
 {
+  "0x5f778ec4B31a506c1Dfd8b06F131E9B451a61D39": {
+    "name": "UPX Token",
+    "logo": "UPX.svg",
+    "erc20": true,
+    "symbol": "UPX",
+    "decimals": 18
+  },
+  "0xaaAEBE6Fe48E54f431b0C390CfaF0b017d09D42d": {
+    "name": "Celsius",
+    "logo": "celsius.svg",
+    "erc20": true,
+    "symbol": "CEL",
+    "decimals": 4
+  },
+  "0xb683D83a532e2Cb7DFa5275eED3698436371cc9f": {
+    "name": "BTU",
+    "logo": "BTU.svg",
+    "erc20": true,
+    "symbol": "BTU",
+    "decimals": 18
+  },
   "0x5D858bcd53E085920620549214a8b27CE2f04670": {
     "name": "POP Network Token",
     "logo": "POP.svg",
     "erc20": true,
     "symbol": "POP",
     "decimals": 18
+  },
+  "0x16EA01aCB4b0Bca2000ee5473348B6937ee6f72F": {
+    "name": "Enecuum",
+    "logo": "ENQ-logo.svg",
+    "erc20": true,
+    "symbol": "ENQ",
+    "decimals": 10 
   },
   "0xE5B826Ca2Ca02F09c1725e9bd98d9a8874C30532": {
     "name": "ZEON Network",
@@ -33,6 +61,13 @@
     "erc20": true,
     "symbol": "IOTX",
     "decimals": 18
+  },
+  "0x4470BB87d77b963A013DB939BE332f927f2b992e": {
+    "name": "AdEx Token",
+    "logo": "adex.svg",
+    "erc20": true,
+    "symbol": "ADX",
+    "decimals": 4
   },
   "0x1966d718A565566e8E202792658D7b5Ff4ECe469": {
     "name": "nDEX",
@@ -244,6 +279,13 @@
     "symbol": "OMG",
     "decimals": 18
   },
+  "0x99ea4dB9EE77ACD40B119BD1dC4E33e1C070b80d": {
+    "name": "Quantstamp",
+    "logo": "qsp.svg",
+    "erc20": true,
+    "symbol": "QSP",
+    "decimals": 18
+  },
   "0x4162178B78D6985480A308B2190EE5517460406D": {
     "name": "Colu Local Network",
     "logo": "cln.png",
@@ -327,6 +369,13 @@
     "erc20": true,
     "decimals": 2,
     "symbol": "EURS"
+  },
+  "0xCA0e7269600d353F70b14Ad118A49575455C0f2f" :{
+    "name": "AMLT",
+    "logo": "amlt.png",
+    "erc20": true,
+    "decimals": 18,
+    "symbol": "AMLT"
   },
   "0xC011A72400E58ecD99Ee497CF89E3775d4bd732F": {
     "name": "Synthetix Network Token",
@@ -927,6 +976,13 @@
     "symbol": "SPANK",
     "decimals": 18
   },
+  "0x6B01c3170ae1EFEBEe1a3159172CB3F7A5ECf9E5": {
+    "name": "BOOTY",
+    "logo": "booty.png",
+    "erc20": true,
+    "symbol": "BOOTY",
+    "decimals": 18
+  },
   "0x4a6058666cf1057eaC3CD3A5a614620547559fc9": {
     "name": "Brickblock",
     "logo": "Brickblock.svg",
@@ -1193,6 +1249,13 @@
     "symbol": "LPT",
     "decimals": 18
   },
+    "0x6fe56C0bcdD471359019FcBC48863d6c3e9d4F41": {
+    "name": "Props",
+    "logo": "props.png",
+    "erc20": true,
+    "symbol": "PROPS",
+    "decimals": 18
+  },
     "0x6c6EE5e31d828De241282B9606C8e98Ea48526E2": {
     "name": "HoloToken",
     "logo": "holotoken.png",
@@ -1334,6 +1397,13 @@
     "symbol": "DANK",
     "decimals": 18
   },
+  "0x5f5b176553e51171826D1A62e540bC30422C7717": {
+    "name": "PLA Token",
+    "logo": "PLA.svg",
+    "erc20": true,
+    "symbol": "PLA",
+    "decimals": 18
+  },
   "0xE9e3F9cfc1A64DFca53614a0182CFAD56c10624F": {
     "name": "Su Squares",
     "logo": "Su-Squares.svg",
@@ -1347,6 +1417,27 @@
     "logo": "storm.svg",
     "erc20": true,
     "symbol": "STORM",
+    "decimals": 18
+  },
+  "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0": {
+    "name": "Matic Network Token",
+    "logo": "matic-network-logo.svg",
+    "erc20": true,
+    "symbol": "MATIC",
+    "decimals": 18
+  },
+  "0x0a50C93c762fDD6E56D86215C24AaAD43aB629aa": {
+    "name": "LGO Token",
+    "logo": "lgo.png",
+    "erc20": true,
+    "symbol": "LGO",
+    "decimals": 8
+  },
+  "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD": {
+    "name": "Loopring",
+    "logo": "LRC.svg",
+    "erc20": true,
+    "symbol": "LRC",
     "decimals": 18
   }
 }
