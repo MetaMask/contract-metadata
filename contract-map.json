@@ -1369,5 +1369,12 @@
     "erc721": true,
     "symbol": "SU",
     "decimals": 0
+  },
+  "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD": {
+    "name": "Loopring",
+    "logo": "LRC.svg",
+    "erc20": true,
+    "symbol": "LRC",
+    "decimals": 18
   }
 }
