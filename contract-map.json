@@ -27,6 +27,13 @@
     "symbol": "POP",
     "decimals": 18
   },
+  "0x16EA01aCB4b0Bca2000ee5473348B6937ee6f72F": {
+    "name": "Enecuum",
+    "logo": "ENQ-logo.svg",
+    "erc20": true,
+    "symbol": "ENQ",
+    "decimals": 10 
+  },
   "0xE5B826Ca2Ca02F09c1725e9bd98d9a8874C30532": {
     "name": "ZEON Network",
     "logo": "ZEON_logo.png",
