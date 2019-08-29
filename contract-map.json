@@ -1,4 +1,11 @@
 {
+  "0xaaAEBE6Fe48E54f431b0C390CfaF0b017d09D42d": {
+    "name": "Celsius",
+    "logo": "celsius.svg",
+    "erc20": true,
+    "symbol": "CEL",
+    "decimals": 4
+  },
   "0xb683D83a532e2Cb7DFa5275eED3698436371cc9f": {
     "name": "BTU",
     "logo": "BTU.svg",
