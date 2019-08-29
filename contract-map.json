@@ -1390,7 +1390,7 @@
     "erc20": true,
     "symbol": "MATIC",
     "decimals": 18
-  }
+  },
   "0x0a50C93c762fDD6E56D86215C24AaAD43aB629aa": {
     "name": "LGO Token",
     "logo": "lgo.png",
