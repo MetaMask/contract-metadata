@@ -941,6 +941,13 @@
     "symbol": "SPANK",
     "decimals": 18
   },
+  "0x6B01c3170ae1EFEBEe1a3159172CB3F7A5ECf9E5": {
+    "name": "BOOTY",
+    "logo": "booty.png",
+    "erc20": true,
+    "symbol": "BOOTY",
+    "decimals": 18
+  },
   "0x4a6058666cf1057eaC3CD3A5a614620547559fc9": {
     "name": "Brickblock",
     "logo": "Brickblock.svg",
