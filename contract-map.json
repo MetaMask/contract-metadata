@@ -1,4 +1,11 @@
 {
+  "0xb683D83a532e2Cb7DFa5275eED3698436371cc9f": {
+    "name": "BTU",
+    "logo": "BTU.svg",
+    "erc20": true,
+    "symbol": "BTU",
+    "decimals": 18
+  },
   "0x5D858bcd53E085920620549214a8b27CE2f04670": {
     "name": "POP Network Token",
     "logo": "POP.svg",
@@ -40,7 +47,7 @@
     "erc20": true,
     "symbol": "NDX",
     "decimals": 18
-  },  
+  },
   "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599": {
     "name": "Wrapped BTC",
     "logo": "wbtc.png",
