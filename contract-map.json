@@ -1207,6 +1207,13 @@
     "symbol": "LPT",
     "decimals": 18
   },
+    "0x6fe56C0bcdD471359019FcBC48863d6c3e9d4F41": {
+    "name": "Props",
+    "logo": "props.png",
+    "erc20": true,
+    "symbol": "PROPS",
+    "decimals": 18
+  },
     "0x6c6EE5e31d828De241282B9606C8e98Ea48526E2": {
     "name": "HoloToken",
     "logo": "holotoken.png",
