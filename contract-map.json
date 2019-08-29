@@ -55,6 +55,13 @@
     "symbol": "IOTX",
     "decimals": 18
   },
+  "0x4470BB87d77b963A013DB939BE332f927f2b992e": {
+    "name": "AdEx Token",
+    "logo": "adex.svg",
+    "erc20": true,
+    "symbol": "ADX",
+    "decimals": 4
+  },
   "0x1966d718A565566e8E202792658D7b5Ff4ECe469": {
     "name": "nDEX",
     "logo": "nDEX.png",
