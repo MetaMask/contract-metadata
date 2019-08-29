@@ -1,4 +1,11 @@
 {
+  "0x5f778ec4B31a506c1Dfd8b06F131E9B451a61D39": {
+    "name": "UPX Token",
+    "logo": "UPX.svg",
+    "erc20": true,
+    "symbol": "UPX",
+    "decimals": 18
+  },
   "0xaaAEBE6Fe48E54f431b0C390CfaF0b017d09D42d": {
     "name": "Celsius",
     "logo": "celsius.svg",
