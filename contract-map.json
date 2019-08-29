@@ -370,6 +370,13 @@
     "decimals": 2,
     "symbol": "EURS"
   },
+  "0xCA0e7269600d353F70b14Ad118A49575455C0f2f" :{
+    "name": "AMLT",
+    "logo": "amlt.png",
+    "erc20": true,
+    "decimals": 18,
+    "symbol": "AMLT"
+  },
   "0xC011A72400E58ecD99Ee497CF89E3775d4bd732F": {
     "name": "Synthetix Network Token",
     "logo": "synthetix.svg",
