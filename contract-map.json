@@ -1,4 +1,11 @@
 {
+  "0xc97A5cdF41BAfD51c8dBE82270097e704d748b92": {
+    "name": "Ether Clown",
+    "logo": "KLOWN.png",
+    "erc20": true,
+    "symbol": "KLOWN",
+    "decimals": 7
+  },  
   "0x5f778ec4B31a506c1Dfd8b06F131E9B451a61D39": {
     "name": "UPX Token",
     "logo": "UPX.svg",
