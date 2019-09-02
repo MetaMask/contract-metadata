@@ -125,8 +125,8 @@
     "symbol": "BOB",
     "decimals": 18
   },
-  "0x9e88613418cF03dCa54D6a2cf6Ad934A78C7A17A": {
-    "name": "Swarm",
+  "0x3505f494c3f0fed0b594e01fa41dd3967645ca39": {
+    "name": "SWARM",
     "logo": "swarm.svg",
     "erc20": true,
     "symbol": "SWM",
