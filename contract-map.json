@@ -1432,5 +1432,12 @@
     "erc20": true,
     "symbol": "LRC",
     "decimals": 18
+  },
+  "0xeb269732ab75A6fD61Ea60b06fE994cD32a83549": {
+    "name": "dForce Stablecoin",
+    "logo": "logo_USDx.svg",
+    "erc20": true,
+    "symbol": "USDx",
+    "decimals": 18
   }
 }
