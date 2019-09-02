@@ -1426,6 +1426,13 @@
     "symbol": "LGO",
     "decimals": 8
   },
+  "0x4eeea7b48b9c3ac8f70a9c932a8b1e8a5cb624c7": {
+    "name": "Membrana Token",
+    "logo": "MBN_membrana.png",
+    "erc20": true,
+    "symbol": "MBN",
+    "decimals": 18
+  },
   "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD": {
     "name": "Loopring",
     "logo": "LRC.svg",
