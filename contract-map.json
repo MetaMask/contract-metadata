@@ -6,6 +6,14 @@
     "symbol": "UPX",
     "decimals": 18
   },
+  {
+  "0xf1ac7a375429719de0dde33528e2639b9a206eba": {
+    "name": "Arena Match Gold"",
+    "logo": "amgo.png",
+    "erc20": true,
+    "symbol": "AMGO",
+    "decimals": 18
+  },
   "0xaaAEBE6Fe48E54f431b0C390CfaF0b017d09D42d": {
     "name": "Celsius",
     "logo": "celsius.svg",
