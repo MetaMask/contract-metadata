@@ -1426,7 +1426,7 @@
     "symbol": "LGO",
     "decimals": 8
   },
-  "0x4eeea7b48b9c3ac8f70a9c932a8b1e8a5cb624c7": {
+  "0x4Eeea7B48b9C3ac8F70a9c932A8B1E8a5CB624c7": {
     "name": "Membrana Token",
     "logo": "MBN_membrana.png",
     "erc20": true,
