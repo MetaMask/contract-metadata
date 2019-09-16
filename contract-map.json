@@ -13,6 +13,13 @@
     "symbol": "CEL",
     "decimals": 4
   },
+  "0xce2ac722f8b9349a0bdcbe9ee9f9d877c8cfa7a0": {
+    "name": "UUnit",
+    "logo": "uunit.png",
+    "erc20": true,
+    "symbol": "UUN",
+    "decimals": 18	
+  },
   "0xb683D83a532e2Cb7DFa5275eED3698436371cc9f": {
     "name": "BTU",
     "logo": "BTU.svg",
