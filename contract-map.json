@@ -1426,6 +1426,13 @@
     "symbol": "LGO",
     "decimals": 8
   },
+  "0xd8B8E1Eca89dA014E67fDbc2014eaA8E171079bF": {
+    "name": "FreldoCoinX",
+    "logo": "FRECNX.png",
+    "erc20": true,
+    "symbol": "FRECNX",
+    "decimals": 18
+  },
   "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD": {
     "name": "Loopring",
     "logo": "LRC.svg",
