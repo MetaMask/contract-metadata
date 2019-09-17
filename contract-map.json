@@ -1,4 +1,11 @@
 {
+  "0x09d8b66c48424324b25754a873e290cae5dca439": {
+    "name": "Nova Token",
+    "logo": "NVT_Logo.svg",
+    "erc20": true,
+    "symbol": "NVT",
+    "decimals": 18
+  },
   "0x5f778ec4B31a506c1Dfd8b06F131E9B451a61D39": {
     "name": "UPX Token",
     "logo": "UPX.svg",
