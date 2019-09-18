@@ -1,4 +1,11 @@
 {
+  "0xC958e9FB59724f8b0927426a8836F1158F0d03cf": {
+    "name": "SWAPS.NETWORK",
+    "logo": "swap.svg",
+    "erc20": true,
+    "symbol": "SWAP",
+    "decimals": 18
+  },
   "0x5f778ec4B31a506c1Dfd8b06F131E9B451a61D39": {
     "name": "UPX Token",
     "logo": "UPX.svg",
