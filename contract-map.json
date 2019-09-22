@@ -7,6 +7,13 @@
     "decimals": 18
   },
   "0xaaAEBE6Fe48E54f431b0C390CfaF0b017d09D42d": {
+    "name": "AMIS",
+    "logo": "AMIS.svg",
+    "erc20": true,
+    "symbol": "AMIS",
+    "decimals": 9
+  },
+  "0xaaAEBE6Fe48E54f431b0C390CfaF0b017d09D42d": {
     "name": "Celsius",
     "logo": "celsius.svg",
     "erc20": true,
