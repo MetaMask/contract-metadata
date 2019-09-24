@@ -1432,5 +1432,12 @@
     "erc20": true,
     "symbol": "LRC",
     "decimals": 18
+  },
+  "0xaa3f8e382cb01cae98a7f37a170f3d218c38e3ec": {
+    "name": "FENNIECOIN",
+    "logo": "FIN.svg",
+    "erc20": true,
+    "symbol": "FIN",
+    "decimals": 18
   }
 }
