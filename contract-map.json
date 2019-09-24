@@ -27,6 +27,13 @@
     "symbol": "POP",
     "decimals": 18
   },
+  "0x5acD19b9c91e596b1f062f18e3D02da7eD8D1e50": {
+    "name": "BTC Lite",
+    "logo": "btcl.png",
+    "erc20": true,
+    "symbol": "BTCL",
+    "decimals": 8
+  },
   "0x16EA01aCB4b0Bca2000ee5473348B6937ee6f72F": {
     "name": "Enecuum",
     "logo": "ENQ-logo.svg",
