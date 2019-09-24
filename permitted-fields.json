@@ -1,8 +1,7 @@
 [
-  "name": "FENNIECOIN",
-  "logo": "FIN logo.png",
-  "erc20": true,
-  "erc721": false,
+  "FENNIECOIN",
+  "FIN logo.png",
+  "erc20",
   "symbol": "FIN",
   "decimals": 18
 ]
