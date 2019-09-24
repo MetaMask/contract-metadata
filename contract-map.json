@@ -4,5 +4,5 @@
     "logo": "FIN logo.png",
     "erc20": true,
     "symbol": "FIN",
-    "decimals": 18
+    "decimals": 18,
   }
