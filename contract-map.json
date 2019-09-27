@@ -1,4 +1,11 @@
 {
+  "0xe5caef4af8780e59df925470b050fb23c43ca68c": {
+    "name": "Ferrum Network Token",
+    "logo": "FRM.png",
+    "erc20": true,
+    "symbol": "FRM",
+    "decimals": 6
+  },
   "0x5f778ec4B31a506c1Dfd8b06F131E9B451a61D39": {
     "name": "UPX Token",
     "logo": "UPX.svg",
@@ -32,7 +39,7 @@
     "logo": "ENQ-logo.svg",
     "erc20": true,
     "symbol": "ENQ",
-    "decimals": 10 
+    "decimals": 10
   },
   "0xE5B826Ca2Ca02F09c1725e9bd98d9a8874C30532": {
     "name": "ZEON Network",
@@ -159,7 +166,7 @@
     "erc20": true,
     "symbol": "FOAM",
     "decimals": 18
-  },  
+  },
   "0x4D807509aECe24C0fa5A102b6a3B059Ec6E14392": {
     "name": "Menlo One",
     "logo": "Menlo_One.png",
@@ -370,7 +377,7 @@
     "decimals": 2,
     "symbol": "EURS"
   },
-  "0xCA0e7269600d353F70b14Ad118A49575455C0f2f" :{
+  "0xCA0e7269600d353F70b14Ad118A49575455C0f2f": {
     "name": "AMLT",
     "logo": "amlt.png",
     "erc20": true,
@@ -910,42 +917,42 @@
     "name": "Compound Basic Attention Token",
     "logo": "ctoken-bat.svg",
     "erc20": true,
-    "symbol":"cBAT",
+    "symbol": "cBAT",
     "decimals": 8
   },
   "0xF5DCe57282A584D2746FaF1593d3121Fcac444dC": {
     "name": "Compound Dai",
     "logo": "ctoken-dai.svg",
     "erc20": true,
-    "symbol":"cDAI",
+    "symbol": "cDAI",
     "decimals": 8
   },
   "0x4Ddc2D193948926D02f9B1fE9e1daa0718270ED5": {
     "name": "Compound Ether",
     "logo": "ctoken-eth.svg",
     "erc20": true,
-    "symbol":"cETH",
+    "symbol": "cETH",
     "decimals": 8
   },
   "0x158079Ee67Fce2f58472A96584A73C7Ab9AC95c1": {
     "name": "Compound Augur",
     "logo": "ctoken-rep.svg",
     "erc20": true,
-    "symbol":"cREP",
+    "symbol": "cREP",
     "decimals": 8
   },
   "0x39AA39c021dfbaE8faC545936693aC917d5E7563": {
     "name": "Compound USD Coin",
     "logo": "ctoken-usdc.svg",
     "erc20": true,
-    "symbol":"cUSDC",
+    "symbol": "cUSDC",
     "decimals": 8
   },
   "0xB3319f5D18Bc0D84dD1b4825Dcde5d5f7266d407": {
     "name": "Compound 0x",
     "logo": "ctoken-zrx.svg",
     "erc20": true,
-    "symbol":"cZRX",
+    "symbol": "cZRX",
     "decimals": 8
   },
   "0xFFE02ee4C69eDf1b340fCaD64fbd6b37a7b9e265": {
@@ -1242,49 +1249,49 @@
     "symbol": "SAN",
     "decimals": 18
   },
-    "0x58b6A8A3302369DAEc383334672404Ee733aB239": {
+  "0x58b6A8A3302369DAEc383334672404Ee733aB239": {
     "name": "Livepeer",
     "logo": "livepeer.png",
     "erc20": true,
     "symbol": "LPT",
     "decimals": 18
   },
-    "0x6fe56C0bcdD471359019FcBC48863d6c3e9d4F41": {
+  "0x6fe56C0bcdD471359019FcBC48863d6c3e9d4F41": {
     "name": "Props",
     "logo": "props.png",
     "erc20": true,
     "symbol": "PROPS",
     "decimals": 18
   },
-    "0x6c6EE5e31d828De241282B9606C8e98Ea48526E2": {
+  "0x6c6EE5e31d828De241282B9606C8e98Ea48526E2": {
     "name": "HoloToken",
     "logo": "holotoken.png",
     "erc20": true,
     "symbol": "HOT",
     "decimals": 18
   },
-    "0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c": {
+  "0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c": {
     "name": "EnjinCoin",
     "logo": "enjin.png",
     "erc20": true,
     "symbol": "ENJ",
     "decimals": 18
   },
-    "0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e": {
+  "0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e": {
     "name": "AELF",
     "logo": "aelf.png",
     "erc20": true,
     "symbol": "ELF",
     "decimals": 18
   },
-    "0x39Bb259F66E1C59d5ABEF88375979b4D20D98022": {
+  "0x39Bb259F66E1C59d5ABEF88375979b4D20D98022": {
     "name": "Wax",
     "logo": "wax.png",
     "erc20": true,
     "symbol": "WAX",
     "decimals": 8
   },
-    "0x595832F8FC6BF59c85C527fEC3740A1b7a361269": {
+  "0x595832F8FC6BF59c85C527fEC3740A1b7a361269": {
     "name": "PowerLedger",
     "logo": "power.png",
     "erc20": true,
@@ -1395,7 +1402,7 @@
     "logo": "dank-logo.svg",
     "erc20": true,
     "symbol": "DANK",
-    "decimals": 18  
+    "decimals": 18
   },
   "0x5f5b176553e51171826D1A62e540bC30422C7717": {
     "name": "PLA Token",
