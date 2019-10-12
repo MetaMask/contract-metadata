@@ -1432,5 +1432,12 @@
     "erc20": true,
     "symbol": "LRC",
     "decimals": 18
-  }
+  },
+  "0x2e84df8ba0c87670a7073689aa94e7f1d2d85970": {
+    "name": "EXNCE",
+    "logo": "XNC.svg",
+    "erc20": true,
+    "symbol": "XNC",
+    "decimals": 6
+  }  
 }
