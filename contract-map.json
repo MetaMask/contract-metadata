@@ -429,7 +429,7 @@
   },
   "0xec67005c4E498Ec7f55E092bd1d35cbC47C91892": {
     "name": "Melon",
-    "logo": "MLNSymbol.png",
+    "logo": "mln.jpeg",
     "erc20": true,
     "symbol": "MLN",
     "decimals": 18
