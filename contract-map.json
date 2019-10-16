@@ -1433,63 +1433,63 @@
     "symbol": "LRC",
     "decimals": 18
   },
-  "0x14094949152eddbfcd073717200da82fed8dc960": {
+  "0x14094949152EDDBFcd073717200DA82fEd8dC960": {
     "name": "bZx DAI iToken",
     "logo": "iDAI.svg",
     "erc20": true,
     "symbol": "iDAI",
     "decimals": 18
   },
-  "0x77f973fcaf871459aa58cd81881ce453759281bc": {
+  "0x77f973FCaF871459aa58cd81881Ce453759281bC": {
     "name": "bZx ETH iToken",
     "logo": "iETH.svg",
     "erc20": true,
     "symbol": "iETH",
     "decimals": 18
   },
-  "0x1cc9567ea2eb740824a45f8026ccf8e46973234d": {
+  "0x1cC9567EA2eB740824a45F8026cCF8e46973234D": {
     "name": "bZx KNC iToken",
     "logo": "iKNC.svg",
     "erc20": true,
     "symbol": "iKNC",
     "decimals": 18
   },
-  "0x1d496da96caf6b518b133736beca85d5c4f9cbc5": {
+  "0x1D496da96caf6b518b133736beca85D5C4F9cBc5": {
     "name": "bZx LINK iToken",
     "logo": "iLINK.svg",
     "erc20": true,
     "symbol": "iLINK",
     "decimals": 18
   },
-  "0xbd56e9477fc6997609cf45f84795efbdac642ff1": {
+  "0xBd56E9477Fc6997609Cf45F84795eFbDAC642Ff1": {
     "name": "bZx REP iToken",
     "logo": "iREP.svg",
     "erc20": true,
     "symbol": "iREP",
     "decimals": 18
   },
-  "0xf013406a0b1d544238083df0b93ad0d2cbe0f65f": {
+  "0xF013406A0B1d544238083DF0B93ad0d2cBE0f65f": {
     "name": "bZx USDC iToken",
     "logo": "iUSDC.svg",
     "erc20": true,
     "symbol": "iUSDC",
     "decimals": 6
   },
-  "0xba9262578efef8b3aff7f60cd629d6cc8859c8b5": {
+  "0xBA9262578EFef8b3aFf7F60Cd629d6CC8859C8b5": {
     "name": "bZx WBTC iToken",
     "logo": "iWBTC.svg",
     "erc20": true,
     "symbol": "iWBTC",
     "decimals": 8
   },
-  "0x1c74cff0376fb4031cd7492cd6db2d66c3f2c6b9": {
+  "0x1c74cFF0376FB4031Cd7492cD6dB2D66c3f2c6B9": {
     "name": "bZx Protocol Token",
     "logo": "BZRX.svg",
     "erc20": true,
     "symbol": "BZRX",
     "decimals": 18
   },
-  "0xa7eb2bc82df18013ecc2a6c533fc29446442edee": {
+  "0xA7Eb2bc82df18013ecC2A6C533fc29446442EDEe": {
     "name": "bZx ZRX iToken",
     "logo": "iZRX.svg",
     "erc20": true,
