@@ -1,4 +1,11 @@
 {
+    "0xdcac1e6732cb951282e1cfc18b26adb5d1f995e2": {
+    "name": "TrueGoldCoin",
+    "logo": "TGC-Logo-256x256.png",
+    "erc20": true,
+    "symbol": "TGC",
+    "decimals": 18
+  },
     "0xfdEA2AD97EC5297090c8d945f25a15f17f4C283d": {
     "name": "FreeCoin",
     "logo": "FREEinterwave.png",
