@@ -32,7 +32,7 @@
     "logo": "ENQ-logo.svg",
     "erc20": true,
     "symbol": "ENQ",
-    "decimals": 10 
+    "decimals": 10
   },
   "0xE5B826Ca2Ca02F09c1725e9bd98d9a8874C30532": {
     "name": "ZEON Network",
@@ -159,7 +159,7 @@
     "erc20": true,
     "symbol": "FOAM",
     "decimals": 18
-  },  
+  },
   "0x4D807509aECe24C0fa5A102b6a3B059Ec6E14392": {
     "name": "Menlo One",
     "logo": "Menlo_One.png",
@@ -1395,7 +1395,7 @@
     "logo": "dank-logo.svg",
     "erc20": true,
     "symbol": "DANK",
-    "decimals": 18  
+    "decimals": 18
   },
   "0x5f5b176553e51171826D1A62e540bC30422C7717": {
     "name": "PLA Token",
@@ -1431,6 +1431,69 @@
     "logo": "LRC.svg",
     "erc20": true,
     "symbol": "LRC",
+    "decimals": 18
+  },
+  "0x14094949152eddbfcd073717200da82fed8dc960": {
+    "name": "bZx DAI iToken",
+    "logo": "iDAI.svg",
+    "erc20": true,
+    "symbol": "iDAI",
+    "decimals": 18
+  },
+  "0x77f973fcaf871459aa58cd81881ce453759281bc": {
+    "name": "bZx ETH iToken",
+    "logo": "iETH.svg",
+    "erc20": true,
+    "symbol": "iETH",
+    "decimals": 18
+  },
+  "0x1cc9567ea2eb740824a45f8026ccf8e46973234d": {
+    "name": "bZx KNC iToken",
+    "logo": "iKNC.svg",
+    "erc20": true,
+    "symbol": "iKNC",
+    "decimals": 18
+  },
+  "0x1d496da96caf6b518b133736beca85d5c4f9cbc5": {
+    "name": "bZx LINK iToken",
+    "logo": "iLINK.svg",
+    "erc20": true,
+    "symbol": "iLINK",
+    "decimals": 18
+  },
+  "0xbd56e9477fc6997609cf45f84795efbdac642ff1": {
+    "name": "bZx REP iToken",
+    "logo": "iREP.svg",
+    "erc20": true,
+    "symbol": "iREP",
+    "decimals": 18
+  },
+  "0xf013406a0b1d544238083df0b93ad0d2cbe0f65f": {
+    "name": "bZx USDC iToken",
+    "logo": "iUSDC.svg",
+    "erc20": true,
+    "symbol": "iUSDC",
+    "decimals": 6
+  },
+  "0xba9262578efef8b3aff7f60cd629d6cc8859c8b5": {
+    "name": "bZx WBTC iToken",
+    "logo": "iWBTC.svg",
+    "erc20": true,
+    "symbol": "iWBTC",
+    "decimals": 8
+  },
+  "0x1c74cff0376fb4031cd7492cd6db2d66c3f2c6b9": {
+    "name": "bZx Protocol Token",
+    "logo": "BZRX.svg",
+    "erc20": true,
+    "symbol": "BZRX",
+    "decimals": 18
+  },
+  "0xa7eb2bc82df18013ecc2a6c533fc29446442edee": {
+    "name": "bZx ZRX iToken	",
+    "logo": "iZRX.svg",
+    "erc20": true,
+    "symbol": "iZRX",
     "decimals": 18
   }
 }
