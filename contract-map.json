@@ -1,4 +1,11 @@
 {
+  "0xa3ac41fde5f3a569fa79e81ffe6734ee8097ce9d": {
+    "name": "4xBit",
+    "logo": "4xBit.png",
+    "erc20": true,
+    "symbol": "4XB",
+    "decimals": 8
+  },
   "0x5f778ec4B31a506c1Dfd8b06F131E9B451a61D39": {
     "name": "UPX Token",
     "logo": "UPX.svg",
