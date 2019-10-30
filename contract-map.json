@@ -1432,5 +1432,12 @@
     "erc20": true,
     "symbol": "LRC",
     "decimals": 18
+  },
+  "0x255aa6df07540cb5d3d297f0d0d4d84cb52bc8e6": {
+    "name": "Raiden Network Token",
+    "logo": "raiden.svg",
+    "erc20": true,
+    "symbol": "RDN",
+    "decimals": 18
   }
 }
