@@ -20,6 +20,13 @@
     "symbol": "BTU",
     "decimals": 18
   },
+  "0xd3516ecB852037a33bAD2372D52b638D6D534516": {
+    "name": "Auto Make Money",
+    "logo": "AMM.png",
+    "erc20": true,
+    "symbol": "AMM",
+    "decimals": 18
+  },
   "0x5D858bcd53E085920620549214a8b27CE2f04670": {
     "name": "POP Network Token",
     "logo": "POP.svg",
