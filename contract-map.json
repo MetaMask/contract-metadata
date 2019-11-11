@@ -1,4 +1,11 @@
 {
+  "0xea8b224edd3e342deb514c4176c2e72bcce6fff9": {
+    "name": "rDAI",
+    "logo": "rdai.svg",
+    "erc20": true,
+    "symbol": "rDAI",
+    "decimals": 18
+  },
   "0x5f778ec4B31a506c1Dfd8b06F131E9B451a61D39": {
     "name": "UPX Token",
     "logo": "UPX.svg",
