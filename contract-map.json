@@ -32,7 +32,7 @@
     "logo": "ENQ-logo.svg",
     "erc20": true,
     "symbol": "ENQ",
-    "decimals": 10 
+    "decimals": 10
   },
   "0xE5B826Ca2Ca02F09c1725e9bd98d9a8874C30532": {
     "name": "ZEON Network",
@@ -159,7 +159,7 @@
     "erc20": true,
     "symbol": "FOAM",
     "decimals": 18
-  },  
+  },
   "0x4D807509aECe24C0fa5A102b6a3B059Ec6E14392": {
     "name": "Menlo One",
     "logo": "Menlo_One.png",
@@ -917,7 +917,7 @@
     "name": "Compound Dai",
     "logo": "ctoken-dai.svg",
     "erc20": true,
-    "symbol":"cDAI",
+    "symbol":"cSAI",
     "decimals": 8
   },
   "0x4Ddc2D193948926D02f9B1fE9e1daa0718270ED5": {
@@ -1395,7 +1395,7 @@
     "logo": "dank-logo.svg",
     "erc20": true,
     "symbol": "DANK",
-    "decimals": 18  
+    "decimals": 18
   },
   "0x5f5b176553e51171826D1A62e540bC30422C7717": {
     "name": "PLA Token",
