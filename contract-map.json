@@ -913,9 +913,16 @@
     "symbol":"cBAT",
     "decimals": 8
   },
-  "0xF5DCe57282A584D2746FaF1593d3121Fcac444dC": {
+  "0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643": {
     "name": "Compound Dai",
     "logo": "ctoken-dai.svg",
+    "erc20": true,
+    "symbol":"cSAI",
+    "decimals": 8
+  },
+  "0xF5DCe57282A584D2746FaF1593d3121Fcac444dC": {
+    "name": "Compound Sai (Legacy Dai)",
+    "logo": "ctoken-sai.svg",
     "erc20": true,
     "symbol":"cSAI",
     "decimals": 8
