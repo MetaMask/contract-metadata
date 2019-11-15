@@ -700,6 +700,13 @@
     "symbol": "SAI",
     "decimals": 18
   },
+  "0x6B175474E89094C44Da98b954EedeAC495271d0F": {
+    "name": "Dai Stablecoin",
+    "logo": "new-dai.svg",
+    "erc20": true,
+    "symbol": "DAI",
+    "decimals": 18
+  },  
   "0xDF2C7238198Ad8B389666574f2d8bc411A4b7428": {
     "name": "Mainframe Token",
     "logo": "Mainframe.png",
