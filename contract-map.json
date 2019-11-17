@@ -1446,5 +1446,12 @@
     "erc20": true,
     "symbol": "RDN",
     "decimals": 18
-  }
+  },
+  "0xFE16A9e3904f928CC6A34507d6d667F731C66Bb0": {
+    "name": "Easy Deals",
+    "logo": "EDBT.png",
+    "erc20": true,
+    "symbol": "EDBT",
+    "decimals": 8
+  } 
 }
