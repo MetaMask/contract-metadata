@@ -6,6 +6,13 @@
     "symbol": "UPX",
     "decimals": 18
   },
+  "0xb1CD6e4153B2a390Cf00A6556b0fC1458C4A5533": {
+    "name": "ETHBNT Liquidity Pool",
+    "logo": "ETHBNT.svg",
+    "erc20": true,
+    "symbol": "ETHBNT",
+    "decimals": 18
+  },
   "0xaaAEBE6Fe48E54f431b0C390CfaF0b017d09D42d": {
     "name": "Celsius",
     "logo": "celsius.svg",
