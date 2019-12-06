@@ -1,4 +1,11 @@
 {
+  "0x309627af60F0926daa6041B8279484312f2bf060": {
+    "name": "Bancor USD Token",
+    "logo": "USDB.png",
+    "erc20": true,
+    "symbol": "USDB",
+    "decimals": 18
+  },
   "0x5f778ec4B31a506c1Dfd8b06F131E9B451a61D39": {
     "name": "UPX Token",
     "logo": "UPX.svg",
