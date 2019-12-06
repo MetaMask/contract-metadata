@@ -1453,5 +1453,12 @@
     "erc20": true,
     "symbol": "RDN",
     "decimals": 18
+  },
+  "0xefEb307E6ED951f45D66A8456c41877760d54aC3": {
+    "name": "CAP coin",
+    "logo": "CAP.svg",
+    "erc20": true,
+    "symbol": "CAP",
+    "decimals": 6
   }
 }
