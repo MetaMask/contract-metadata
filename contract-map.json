@@ -1,4 +1,11 @@
 {
+  "0xb63b606ac810a52cca15e44bb630fd42d8d1d83d": {
+    "name": "MCO Token",
+    "logo": "mco.svg",
+    "erc20": true,
+    "symbol": "MCO",
+    "decimals": 8
+  },
   "0x5f778ec4B31a506c1Dfd8b06F131E9B451a61D39": {
     "name": "UPX Token",
     "logo": "UPX.svg",
