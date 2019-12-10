@@ -1390,6 +1390,13 @@
     "symbol": "SOUL",
     "decimals": 18
   },
+  "0xed0849BF46CfB9845a2d900A0A4E593F2dD3673c": {
+    "name": "SGA Token",
+    "logo": "sga.png",
+    "erc20": true,
+    "symbol": "SGN",
+    "decimals": 18
+  },
   "0xFF0E5e014cf97e0615cb50F6f39Da6388E2FaE6E": {
     "name": "Origo",
     "logo": "origo.svg",
