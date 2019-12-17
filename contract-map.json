@@ -1,4 +1,11 @@
 {
+  "0x06AF07097C9Eeb7fD685c692751D5C66dB49c215": {
+    "name": "Chai",
+    "logo": "CHAI.svg",
+    "erc20": true,
+    "symbol": "CHAI",
+    "decimals": 18
+  },
   "0x5f778ec4B31a506c1Dfd8b06F131E9B451a61D39": {
     "name": "UPX Token",
     "logo": "UPX.svg",
@@ -706,7 +713,7 @@
     "erc20": true,
     "symbol": "DAI",
     "decimals": 18
-  },  
+  },
   "0xDF2C7238198Ad8B389666574f2d8bc411A4b7428": {
     "name": "Mainframe Token",
     "logo": "Mainframe.png",
