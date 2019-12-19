@@ -1,7 +1,7 @@
 {
   "0xea8b224eDD3e342DEb514C4176c2E72Bcce6fFF9": {
     "name": "rSAI",
-    "logo": "rdai.svg",
+    "logo": "rsai.svg",
     "erc20": true,
     "symbol": "rSAI",
     "decimals": 18
