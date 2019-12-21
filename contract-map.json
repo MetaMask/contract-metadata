@@ -1,4 +1,11 @@
 {
+  "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39": {
+    "name": "HEX",
+    "logo": "HEX.png",
+    "erc20": true,
+    "symbol": "HEX",
+    "decimals": 8
+  },
   "0x06AF07097C9Eeb7fD685c692751D5C66dB49c215": {
     "name": "Chai",
     "logo": "CHAI.svg",
