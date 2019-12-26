@@ -62,6 +62,13 @@
     "symbol": "HAK",
     "decimals": 18
   },
+  "0xfb19c03a02a519a44542343803f3d42578cbc243": {
+    "name": "CR Coin",
+    "logo": "CRC.png",
+    "erc20": true,
+    "symbol": "CRC",
+    "decimals": 8
+  },
   "0x6fB3e0A217407EFFf7Ca062D46c26E5d60a14d69": {
     "name": "IoTeX",
     "logo": "iotex.svg",
