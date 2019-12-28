@@ -1460,5 +1460,12 @@
     "erc20": true,
     "symbol": "RDN",
     "decimals": 18
+  },
+    "0xaC9Bb427953aC7FDDC562ADcA86CF42D988047Fd": {
+    "name": "Scatter Token",
+    "logo": "STT.png",
+    "erc20": true,
+    "symbol": "STT",
+    "decimals": 18
   }
 }
