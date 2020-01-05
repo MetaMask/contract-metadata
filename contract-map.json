@@ -1460,5 +1460,12 @@
     "erc20": true,
     "symbol": "RDN",
     "decimals": 18
+  },
+  "0xb92aa4a864daf0d6a509e73a9364feba44384965": {
+    "name": "Werkcoin",
+    "logo": "werkcoin-logo.png",
+    "erc20": true,
+    "symbol": "WER",
+    "decimals": 9
   }
 }
