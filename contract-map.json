@@ -1,4 +1,12 @@
 {
+  "0xF02123509A08632339102eE5fdd41B638592E495": {
+    "name": "DUCATO",
+    "logo": "image2vector.svg",
+    "erc20": true,
+    "symbol": "VEN",
+    "decimals": 18
+  },
+{
   "0x06AF07097C9Eeb7fD685c692751D5C66dB49c215": {
     "name": "Chai",
     "logo": "CHAI.svg",
