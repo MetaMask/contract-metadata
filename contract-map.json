@@ -1,4 +1,11 @@
 {
+  "0xdAC17F958D2ee523a2206206994597C13D831ec7": {
+    "name": "Tether USD",
+    "logo": "tether_usd.png",
+    "erc20": true,
+    "symbol": "USDT",
+    "decimals": 6
+  },
   "0x5f778ec4B31a506c1Dfd8b06F131E9B451a61D39": {
     "name": "UPX Token",
     "logo": "UPX.svg",
