@@ -1,6 +1,6 @@
 {
 
-  "0xA3AC41Fde5f3a569fa79E81fFe6734ee8097Ce9d": {
+  "0xa3ac41fde5f3a569fa79e81ffe6734ee8097ce9d": {
     "name": "4xBit",
     "logo": "4xBit.svg",
     "erc20": true,
@@ -8,6 +8,15 @@
     "decimals": 8
   },
 
+{ 
+  "0xdAC17F958D2ee523a2206206994597C13D831ec7": {
+    "name": "Tether USD",
+    "logo": "tether_usd.png",
+    "erc20": true,
+    "symbol": "USDT",
+    "decimals": 6
+  },
+ 
   "0x06AF07097C9Eeb7fD685c692751D5C66dB49c215": {
     "name": "Chai",
     "logo": "CHAI.svg",
