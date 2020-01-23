@@ -1481,5 +1481,12 @@
     "erc20": true,
     "symbol": "TLN",
     "decimals": 18
+  },
+  "0xc35aAea6dD561A9976E1745A22F8CC5A762354BB": {
+    "name": "AIVIA Token",
+    "logo": "AIVIA.png",
+    "erc20": true,
+    "symbol": "AIV",
+    "decimals": 18
   }
 }
