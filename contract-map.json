@@ -5,7 +5,14 @@
     "erc20": true,
     "symbol": "EMU",
     "decimals": 18
-  { 
+  },
+  "0x4575f41308EC1483f3d399aa9a2826d74Da13Deb": {
+    "name": "Orchid",
+    "logo": "OXT.svg",
+    "erc20": true,
+    "symbol": "OXT",
+    "decimals": 18
+  },
   "0xdAC17F958D2ee523a2206206994597C13D831ec7": {
     "name": "Tether USD",
     "logo": "tether_usd.png",
@@ -1473,6 +1480,13 @@
     "logo": "raiden.svg",
     "erc20": true,
     "symbol": "RDN",
+    "decimals": 18
+  },
+  "0x679131F591B4f369acB8cd8c51E68596806c3916": {
+    "name": "Trustlines Network Token",
+    "logo": "TLN128.png",
+    "erc20": true,
+    "symbol": "TLN",
     "decimals": 18
   }
 }
