@@ -945,7 +945,7 @@
     "name": "Compound Dai",
     "logo": "ctoken-dai.svg",
     "erc20": true,
-    "symbol":"cSAI",
+    "symbol":"cDAI",
     "decimals": 8
   },
   "0xF5DCe57282A584D2746FaF1593d3121Fcac444dC": {
