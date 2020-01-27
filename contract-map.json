@@ -6,6 +6,13 @@
     "symbol": "OXT",
     "decimals": 18
   },
+  "0x42566cFEFC853c232117EbA4413e45782a72715d": {
+    "name": "Krios",
+    "logo": "krios.png",
+    "erc20": true,
+    "symbol": "KRI",
+    "decimals": 18
+  }, 
   "0xdAC17F958D2ee523a2206206994597C13D831ec7": {
     "name": "Tether USD",
     "logo": "tether_usd.png",
