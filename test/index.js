@@ -88,3 +88,22 @@ test('only permitted fields should be used', function (t) {
 
   t.end()
 })
+
+test('symbols should not overlap', function (t) {
+  const symbols = Object.keys(contractMap).map(contract => contractMap[contract].symbol)
+  const symbolsCheck = Object.create(null)
+
+  const duplicateSymbol = (() => {
+    for (var i = 0; i < symbols.length; ++i) {
+      const symbol = symbols[i]
+      
+      if (symbol in symbolsCheck && symbol !== undefined) {
+        return symbol
+      }
+      symbolsCheck[symbol] = true
+    }
+  })()
+  
+  t.notOk(duplicateSymbol, "Symbols should not overlap")
+  t.end()
+})
