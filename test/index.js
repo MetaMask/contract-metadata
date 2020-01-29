@@ -97,6 +97,7 @@ test('symbols should not overlap', function (t) {
   symbols.forEach(symbol => {
     if (symbolsCheck.has(symbol) && symbol !== undefined) {
       duplicateSymbol = symbol
+      return
     }
     symbolsCheck.set(symbol, true)
   })
