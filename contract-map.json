@@ -20,6 +20,13 @@
     "symbol": "CHAI",
     "decimals": 18
   },
+  "0x3b3A5557F119106270017A7662488C1FF6312A6b": {
+    "name": "LOGISTICS",
+    "logo": "LGC.png",
+    "erc20": true,
+    "symbol": "LGC",
+    "decimals": 18
+  },
   "0x5f778ec4B31a506c1Dfd8b06F131E9B451a61D39": {
     "name": "UPX Token",
     "logo": "UPX.svg",
