@@ -1,4 +1,4 @@
-{ 
+{
   "0x4575f41308EC1483f3d399aa9a2826d74Da13Deb": {
     "name": "Orchid",
     "logo": "OXT.svg",
@@ -1469,66 +1469,87 @@
     "decimals": 18
   },
   "0x14094949152EDDBFcd073717200DA82fEd8dC960": {
-    "name": "bZx DAI iToken",
+    "name": "Fulcrum SAI iToken",
+    "logo": "iSAI.svg",
+    "erc20": true,
+    "symbol": "iSAI",
+    "decimals": 18
+  },
+  "0x493c57c4763932315a328269e1adad09653b9081": {
+    "name": "Fulcrum DAI iToken",
     "logo": "iDAI.svg",
     "erc20": true,
     "symbol": "iDAI",
     "decimals": 18
   },
   "0x77f973FCaF871459aa58cd81881Ce453759281bC": {
-    "name": "bZx ETH iToken",
+    "name": "Fulcrum ETH iToken",
     "logo": "iETH.svg",
     "erc20": true,
     "symbol": "iETH",
     "decimals": 18
   },
   "0x1cC9567EA2eB740824a45F8026cCF8e46973234D": {
-    "name": "bZx KNC iToken",
+    "name": "Fulcrum KNC iToken",
     "logo": "iKNC.svg",
     "erc20": true,
     "symbol": "iKNC",
     "decimals": 18
   },
   "0x1D496da96caf6b518b133736beca85D5C4F9cBc5": {
-    "name": "bZx LINK iToken",
+    "name": "Fulcrum LINK iToken",
     "logo": "iLINK.svg",
     "erc20": true,
     "symbol": "iLINK",
     "decimals": 18
   },
   "0xBd56E9477Fc6997609Cf45F84795eFbDAC642Ff1": {
-    "name": "bZx REP iToken",
+    "name": "Fulcrum REP iToken",
     "logo": "iREP.svg",
     "erc20": true,
     "symbol": "iREP",
     "decimals": 18
   },
   "0xF013406A0B1d544238083DF0B93ad0d2cBE0f65f": {
-    "name": "bZx USDC iToken",
+    "name": "Fulcrum USDC iToken",
     "logo": "iUSDC.svg",
     "erc20": true,
     "symbol": "iUSDC",
     "decimals": 6
   },
   "0xBA9262578EFef8b3aFf7F60Cd629d6CC8859C8b5": {
-    "name": "bZx WBTC iToken",
+    "name": "Fulcrum WBTC iToken",
     "logo": "iWBTC.svg",
     "erc20": true,
     "symbol": "iWBTC",
     "decimals": 8
   },
   "0x1c74cFF0376FB4031Cd7492cD6dB2D66c3f2c6B9": {
-    "name": "bZx Protocol Token",
+    "name": "Fulcrum Protocol Token",
     "logo": "BZRX.svg",
     "erc20": true,
     "symbol": "BZRX",
     "decimals": 18
   },
   "0xA7Eb2bc82df18013ecC2A6C533fc29446442EDEe": {
-    "name": "bZx ZRX iToken",
+    "name": "Fulcrum ZRX iToken",
     "logo": "iZRX.svg",
     "erc20": true,
     "symbol": "iZRX",
+    "decimals": 18
+  },
+  "0x49f4592e641820e928f9919ef4abd92a719b4b49": {
+    "name": "Fulcrum sUSD iToken",
+    "logo": "isUSD.svg",
+    "erc20": true,
+    "symbol": "isUSD",
+    "decimals": 18
+  },
+  "0x8326645f3aa6de6420102fdb7da9e3a91855045b": {
+    "name": "Fulcrum USDT iToken",
+    "logo": "iUSDT.svg",
+    "erc20": true,
+    "symbol": "iUSDT",
     "decimals": 18
   },
   "0x679131F591B4f369acB8cd8c51E68596806c3916": {
