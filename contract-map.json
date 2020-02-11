@@ -1475,7 +1475,7 @@
     "symbol": "iSAI",
     "decimals": 18
   },
-  "0x493c57c4763932315a328269e1adad09653b9081": {
+  "0x493C57C4763932315A328269E1ADaD09653B9081": {
     "name": "Fulcrum DAI iToken",
     "logo": "iDAI.svg",
     "erc20": true,
@@ -1538,14 +1538,14 @@
     "symbol": "iZRX",
     "decimals": 18
   },
-  "0x49f4592e641820e928f9919ef4abd92a719b4b49": {
+  "0x49f4592E641820e928F9919Ef4aBd92a719B4b49": {
     "name": "Fulcrum sUSD iToken",
     "logo": "isUSD.svg",
     "erc20": true,
     "symbol": "isUSD",
     "decimals": 18
   },
-  "0x8326645f3aa6de6420102fdb7da9e3a91855045b": {
+  "0x8326645f3Aa6De6420102Fdb7Da9E3a91855045B": {
     "name": "Fulcrum USDT iToken",
     "logo": "iUSDT.svg",
     "erc20": true,
