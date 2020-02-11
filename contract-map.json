@@ -1540,7 +1540,7 @@
   },
   "0x49f4592E641820e928F9919Ef4aBd92a719B4b49": {
     "name": "Fulcrum sUSD iToken",
-    "logo": "isUSD.svg",
+    "logo": "iSUSD.svg",
     "erc20": true,
     "symbol": "isUSD",
     "decimals": 18
