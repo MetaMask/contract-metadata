@@ -1481,5 +1481,118 @@
     "erc20": true,
     "symbol": "TLN",
     "decimals": 18
+  },
+  "0xe1ba0fb44ccb0d11b80f92f4f8ed94ca3ff51d00": {
+    "name": "Aave BAT",
+    "logo": "aBAT.svg",
+    "erc20": true,
+    "symbol": "aBAT",
+    "decimals": 18
+  },
+  "0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d": {
+    "name": "Aave DAI",
+    "logo": "aDAI.svg",
+    "erc20": true,
+    "symbol": "aDAI",
+    "decimals": 18
+  },
+  "0x3a3A65aAb0dd2A17E3F1947bA16138cd37d08c04": {
+    "name": "Aave ETH",
+    "logo": "aETH.svg",
+    "erc20": true,
+    "symbol": "aETH",
+    "decimals": 18
+  },
+  "0x9D91BE44C06d373a8a226E1f3b146956083803eB": {
+    "name": "Aave KNC",
+    "logo": "aKNC.svg",
+    "erc20": true,
+    "symbol": "aKNC",
+    "decimals": 18
+  },
+  "0x7D2D3688Df45Ce7C552E19c27e007673da9204B8": {
+    "name": "Aave LEND",
+    "logo": "aLEND.svg",
+    "erc20": true,
+    "symbol": "aLEND",
+    "decimals": 18
+  },
+  "0xA64BD6C70Cb9051F6A9ba1F163Fdc07E0DfB5F84": {
+    "name": "Aave LINK",
+    "logo": "aLINK.svg",
+    "erc20": true,
+    "symbol": "aLINK",
+    "decimals": 18
+  },
+  "0x6FCE4A401B6B80ACe52baAefE4421Bd188e76F6f": {
+    "name": "Aave MANA",
+    "logo": "aMANA.svg",
+    "erc20": true,
+    "symbol": "aMANA",
+    "decimals": 18
+  },
+  "0x7deB5e830be29F91E298ba5FF1356BB7f8146998": {
+    "name": "Aave MKR",
+    "logo": "aMKR.svg",
+    "erc20": true,
+    "symbol": "aMKR",
+    "decimals": 18
+  },
+  "0x71010a9d003445ac60c4e6a7017c1e89a477b438": {
+    "name": "Aave REP",
+    "logo": "aREP.svg",
+    "erc20": true,
+    "symbol": "aREP",
+    "decimals": 18
+  },
+  "0x328C4c80BC7aCa0834Db37e6600A6c49E12Da4DE": {
+    "name": "Aave SNX",
+    "logo": "aSNX.svg",
+    "erc20": true,
+    "symbol": "aSNX",
+    "decimals": 18
+  },
+  "0x625ae63000f46200499120b906716420bd059240": {
+    "name": "Aave sUSD",
+    "logo": "aSUSD.svg",
+    "erc20": true,
+    "symbol": "aSUSD",
+    "decimals": 18
+  },
+  "0x4da9b813057d04baef4e5800e36083717b4a0341": {
+    "name": "Aave TUSD",
+    "logo": "aTUSD.svg",
+    "erc20": true,
+    "symbol": "aTUSD",
+    "decimals": 18
+  },
+  "0x9bA00D6856a4eDF4665BcA2C2309936572473B7E": {
+    "name": "Aave USDC",
+    "logo": "aUSDC.svg",
+    "erc20": true,
+    "symbol": "aUSDC",
+    "decimals": 6
+  },
+  "0x71fc860F7D3A592A4a98740e39dB31d25db65ae8": {
+    "name": "Aave USDT",
+    "logo": "aUSDT.svg",
+    "erc20": true,
+    "symbol": "aUSDT",
+    "decimals": 6
+  },
+  "0xFC4B8ED459e00e5400be803A9BB3954234FD50e3": {
+    "name": "Aave WBTC",
+    "logo": "aWBTC.svg",
+    "erc20": true,
+    "symbol": "aWBTC",
+    "decimals": 8
+  },
+  "0x6Fb0855c404E09c47C3fBCA25f08d4E41f9F062f": {
+    "name": "Aave ZRX",
+    "logo": "aZRX.svg",
+    "erc20": true,
+    "symbol": "aZRX",
+    "decimals": 18
   }
+  
 }
