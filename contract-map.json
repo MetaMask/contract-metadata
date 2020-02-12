@@ -1026,7 +1026,7 @@
     "decimals": 18
   },
   "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03": {
-    "name": "ETHLend Token",
+    "name": "Aave",
     "logo": "lend.svg",
     "erc20": true,
     "symbol": "LEND",
