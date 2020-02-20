@@ -20,6 +20,13 @@
     "symbol": "CHAI",
     "decimals": 18
   },
+  "0x04fa0d235c4abf4bcf4787af4cf447de572ef828": {
+    "name": "UMA",
+    "logo": "UMA.png",
+    "erc20": true,
+    "symbol": "UMA",
+    "decimals": 18
+  },
   "0x5f778ec4B31a506c1Dfd8b06F131E9B451a61D39": {
     "name": "UPX Token",
     "logo": "UPX.svg",
