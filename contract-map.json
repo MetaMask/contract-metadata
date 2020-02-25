@@ -20,8 +20,8 @@
     "symbol": "CHAI",
     "decimals": 18
   },
-  "0x3b3A5557F119106270017A7662488C1FF6312A6b": {
-    "name": "LOGISTICS",
+  "0x2bc8B955F6a0Ed5a9D4146DED61aEC0bB74EcF67": {
+    "name": "Logistics Coin",
     "logo": "LGC.png",
     "erc20": true,
     "symbol": "LGC",
