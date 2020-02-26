@@ -1482,7 +1482,7 @@
     "symbol": "TLN",
     "decimals": 18
   },
-  "0xe1ba0fb44ccb0d11b80f92f4f8ed94ca3ff51d00": {
+  "0xE1BA0FB44CCb0D11b80F92f4f8Ed94CA3fF51D00": {
     "name": "Aave BAT",
     "logo": "aBAT.svg",
     "erc20": true,
