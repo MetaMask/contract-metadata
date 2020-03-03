@@ -6,6 +6,13 @@
     "symbol": "OXT",
     "decimals": 18
   },
+  "0x4cc19356f2d37338b9802aa8e8fc58b0373296e7": {
+    "name": "Selfkey",
+    "logo": "KEY.svg",
+    "erc20": true,
+    "symbol": "KEY",
+    "decimals": 18
+  },
   "0xdAC17F958D2ee523a2206206994597C13D831ec7": {
     "name": "Tether USD",
     "logo": "tether_usd.png",
