@@ -1,4 +1,25 @@
 { 
+  "0x49d716DFe60b37379010A75329ae09428f17118d": {
+    "name": "PoolTogether Dai",
+    "logo": "pldai.svg",
+    "erc20": true,
+    "symbol": "PLDAI",
+    "decimals": 18
+  },
+  "0xfE6892654CBB05eB73d28DCc1Ff938f59666Fe9f": {
+    "name": "PoolTogether Sai",
+    "logo": "plsai.svg",
+    "erc20": true,
+    "symbol": "PLSAI",
+    "decimals": 18
+  },
+  "0xBD87447F48ad729C5c4b8bcb503e1395F62e8B98": {
+    "name": "PoolTogether USDC",
+    "logo": "plusdc.svg",
+    "erc20": true,
+    "symbol": "PLUSDC",
+    "decimals": 6
+  },
   "0x4575f41308EC1483f3d399aa9a2826d74Da13Deb": {
     "name": "Orchid",
     "logo": "OXT.svg",
