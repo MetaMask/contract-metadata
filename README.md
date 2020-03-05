@@ -6,7 +6,7 @@ A mapping of checksummed ethereum addresses to metadata, like names, and images 
 
 All address keys follow the [EIP 55 address checksum format](https://github.com/ethereum/EIPs/issues/55).
 
-Submit PRs to add valid logos, and obviously valid logos will be merged.
+This repository is effectively frozen. We recommend that developers of new tokens use [EIP 747](https://metamask.github.io/metamask-docs/Best_Practices/Registering_Your_Token) to ask the user's permission to display your tokens in their wallet. This reduces the dangers of airdrop-based phishing, and reduces administrative overhead from managing this list.
 
 ## Usage
 
