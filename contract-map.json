@@ -997,6 +997,13 @@
     "symbol": "0xBTC",
     "decimals": 8
   },
+  "0x6737fE98389Ffb356F64ebB726aA1a92390D94Fb": {
+    "name": "Zero Carbon Token",
+    "logo": "ZCC.svg",
+    "erc20": true,
+    "symbol": "ZCC",
+    "decimals": 18
+  },  
   "0x744d70FDBE2Ba4CF95131626614a1763DF805B9E": {
     "name": "Status Network Token",
     "logo": "snt.svg",
