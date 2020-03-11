@@ -342,6 +342,13 @@
     "erc20": true,
     "decimals": 18
   },
+  "0x17540494ad5e39aefd49901774528e9ff17fe40b": {
+    "name": "Buccaneer",
+    "logo": "buccaneer.svg",
+    "erc20": true,
+    "symbol": "Private",
+    "decimals": 3
+  },
   "0xEBBdf302c940c6bfd49C6b165f457fdb324649bc": {
     "name": "Hydro",
     "logo": "hydro.png",
