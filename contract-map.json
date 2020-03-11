@@ -244,6 +244,13 @@
     "symbol": "AION",
     "decimals": 8
   },
+  "0x17540494Ad5E39AEFD49901774528e9ff17FE40B": {
+    "name": "Buccaneer",
+    "logo": "buccaneer.png",
+    "erc20": true,
+    "symbol": "Private",
+    "decimals": 3
+  },
   "0xa95592DCFfA3C080B4B40E459c5f5692F67DB7F8": {
     "name": "ELY Token",
     "logo": "ely.png",
