@@ -1481,5 +1481,12 @@
     "erc20": true,
     "symbol": "TLN",
     "decimals": 18
+  },
+  "0xb91c2a2b953d72f3ef890490669a0a41b0add5f7": {
+    "name": "Belifex",
+    "logo": "befx-logo.png",
+    "erc20": true,
+    "symbol": "BEFX",
+    "decimals": 8
   }
 }
