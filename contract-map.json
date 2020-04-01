@@ -1447,6 +1447,13 @@
     "symbol": "SU",
     "decimals": 0
   },
+  "0x2775f2a3c83bee1541d1d1bc308b3bb432b45151": {
+    "name": "Membership",
+    "logo": "MEMBERSHIP.svg",
+    "erc20": true,
+    "symbol": "MEM",
+    "decimals": 18
+  },
   "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0": {
     "name": "Matic Network Token",
     "logo": "matic-network-logo.svg",
