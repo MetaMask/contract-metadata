@@ -1468,6 +1468,13 @@
     "symbol": "LRC",
     "decimals": 18
   },
+  "0x2775f2a3c83bee1541d1d1bc308b3bb432b45151": {
+    "name": "Membership",
+    "logo": "MEMBERSHIP.svg",
+    "erc20": true,
+    "symbol": "PLANETAGRO.ORG",
+    "decimals": 18
+  },
   "0x255Aa6DF07540Cb5d3d297f0D0D4D84cb52bc8e6": {
     "name": "Raiden Network Token",
     "logo": "raiden.svg",
