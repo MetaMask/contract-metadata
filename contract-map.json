@@ -1481,5 +1481,11 @@
     "erc20": true,
     "symbol": "TLN",
     "decimals": 18
-  }
+  },
+    "0xdfbc9050f5b01df53512dcc39b4f2b2bbacd517a": {
+    "name": "Jobchain",
+    "logo": "Jobchain.svg",
+    "erc20": true,
+    "symbol": "JOB",
+    "decimals": 8
 }
