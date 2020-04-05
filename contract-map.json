@@ -1,4 +1,11 @@
 { 
+  "0xdfbc9050f5b01df53512dcc39b4f2b2bbacd517a": {
+    "name": "Jobchain",
+    "logo": "Jobchain.svg",
+    "erc20": true,
+    "symbol": "JOB",
+    "decimals": 8
+  },
   "0x4575f41308EC1483f3d399aa9a2826d74Da13Deb": {
     "name": "Orchid",
     "logo": "OXT.svg",
