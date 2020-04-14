@@ -1,4 +1,32 @@
 { 
+  "0x04A289fe4cE5fa87a76F58d0214340fb5893A58c": {
+  "name": "RealBlock.io",
+  "logo": "real.png",
+  "erc20": true,
+  "symbol": "REAL",
+  "decimals": 18
+  },
+  "0x7F77a0cc3caCE8c58ccE9D153c070f312D1a1088": {
+  "name": "Dollar Blocknote",
+  "logo": "$.png",
+  "erc20": true,
+  "symbol": "$",
+  "decimals": 4
+  },
+  "0x7F77a0cc3caCE8c58ccE9D153c070f312D1a1088": {
+  "name": "Med. Cannabis Note",
+  "logo": "₵.png",
+  "erc20": true,
+  "symbol": "₵",
+  "decimals": 4
+  },
+  "0xAFCCBDA168681038419908470E79E2353A798E1F": {
+  "name": "Mythril Ore",
+  "logo": "ore.png",
+  "erc20": true,
+  "symbol": "ORE",
+  "decimals": 18
+  },
   "0x691c25C461DaFC47792b6E4d674FBB637bca1C6F": {
   "name": "iBBT Utility",
   "logo": "ibbt.png",
