@@ -1,4 +1,32 @@
 { 
+  "0x691c25C461DaFC47792b6E4d674FBB637bca1C6F": {
+  "name": "iBBT Utility",
+  "logo": "ibbt.png",
+  "erc20": true,
+  "symbol": "iBBT",
+  "decimals": 18
+  },
+  "0x829FC6B9CCEC9FBd5534E40B2181556C2a791896": {
+    "name": "GEO Rewards",
+    "logo": "geo.png",
+    "erc20": true,
+    "symbol": "GEO",
+    "decimals": 7
+  },
+  "0x829FC6B9CCEC9FBd5534E40B2181556C2a791896": {
+    "name": "Greek Drachma",
+    "logo": "grd.png",
+    "erc20": true,
+    "symbol": "GRD",
+    "decimals": 7
+  },
+  "0x76ace4e080c49f04a6c12756c036d3627f6b1e69": {
+    "name": "InterGalactic Credits",
+    "logo": "cree.png",
+    "erc20": true,
+    "symbol": "CREE",
+    "decimals": 7
+  },
   "0x4575f41308EC1483f3d399aa9a2826d74Da13Deb": {
     "name": "Orchid",
     "logo": "OXT.svg",
