@@ -13,14 +13,14 @@
     "symbol": "GEO",
     "decimals": 7
   },
-  "0x829FC6B9CCEC9FBd5534E40B2181556C2a791896": {
+  "0x2915ACAa744e36BEfB3c539c3d99A7f82AD8E6c9": {
     "name": "Greek Drachma",
     "logo": "grd.png",
     "erc20": true,
     "symbol": "GRD",
     "decimals": 7
   },
-  "0x76ace4e080c49f04a6c12756c036d3627f6b1e69": {
+  "0x76ACE4E080C49F04A6C12756C036D3627F6B1E69": {
     "name": "InterGalactic Credits",
     "logo": "cree.png",
     "erc20": true,
