@@ -1448,7 +1448,7 @@
     "decimals": 0
   },
     "0x7F969C4D388Ca0AE39A4FdDB1A6f89878CA2fBf8": {
-    "name": "GGCOIN",
+    "name": "Global Game Coin",
     "logo": "GGC_TOKEN.png",
     "erc20": true,
     "symbol": "GGC",
@@ -1487,5 +1487,6 @@
     "logo": "TLN128.png",
     "erc20": true,
     "symbol": "TLN",
+    "decimals": 18
   }
 }
