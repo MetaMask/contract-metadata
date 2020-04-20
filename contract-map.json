@@ -1,4 +1,11 @@
 { 
+    "0x70e8dE73cE538DA2bEEd35d14187F6959a8ecA96": {
+    "name": "XSGD Singapore-dollar backed stablecoin",
+    "logo": "XSGD.svg",
+    "erc20": true,
+    "symbol": "XSGD",
+    "decimals": 6
+  },
   "0x4575f41308EC1483f3d399aa9a2826d74Da13Deb": {
     "name": "Orchid",
     "logo": "OXT.svg",
