@@ -1,4 +1,11 @@
 {
+  "0x261b45D85cCFeAbb11F022eBa346ee8D1cd488c0": {
+    "name": "rDAI",
+    "logo": "rdai.svg",
+    "erc20": true,
+    "symbol": "rDAI",
+    "decimals": 18
+  },
   "0xea8b224eDD3e342DEb514C4176c2E72Bcce6fFF9": {
     "name": "rSAI",
     "logo": "rsai.svg",
