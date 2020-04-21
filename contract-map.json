@@ -737,7 +737,7 @@
   },
   "0x6B175474E89094C44Da98b954EedeAC495271d0F": {
     "name": "Dai Stablecoin",
-    "logo": "new-dai.svg",
+    "logo": "dai.svg",
     "erc20": true,
     "symbol": "DAI",
     "decimals": 18
