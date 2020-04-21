@@ -1,4 +1,11 @@
-{ 
+{
+  "0xea8b224eDD3e342DEb514C4176c2E72Bcce6fFF9": {
+    "name": "rSAI",
+    "logo": "rsai.svg",
+    "erc20": true,
+    "symbol": "rSAI",
+    "decimals": 18
+  },
   "0x4575f41308EC1483f3d399aa9a2826d74Da13Deb": {
     "name": "Orchid",
     "logo": "OXT.svg",
