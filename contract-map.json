@@ -1495,5 +1495,12 @@
     "erc20": true,
     "symbol": "TLN",
     "decimals": 18
+  },
+  "0x84bD2079824535fC590f484a405e28555379260a": {
+    "name": "Fair go Steel seal",
+    "logo": "FGS.png",
+    "erc20": true,
+    "symbol": "FGS",
+    "decimals": 18
   }
 }
