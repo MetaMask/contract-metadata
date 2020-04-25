@@ -1495,5 +1495,12 @@
     "erc20": true,
     "symbol": "TLN",
     "decimals": 18
+  },
+  "0x93d3296cac208422BF587c3597D116e809870f2b": {
+    "name": "PegNet US Dollar",
+    "logo": "pegnet-pusd.svg",
+    "erc20": true,
+    "symbol": "pUSD",
+    "decimals": 8
   }
 }
