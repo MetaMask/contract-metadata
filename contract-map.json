@@ -1,4 +1,11 @@
 {
+  "0x93d3296cac208422BF587c3597D116e809870f2b": {
+    "name": "PegNet US Dollar",
+    "logo": "pegnet-pusd.svg",
+    "erc20": true,
+    "symbol": "pUSD",
+    "decimals": 8
+  },
   "0x261b45D85cCFeAbb11F022eBa346ee8D1cd488c0": {
     "name": "rDAI",
     "logo": "rdai.svg",
@@ -1495,12 +1502,5 @@
     "erc20": true,
     "symbol": "TLN",
     "decimals": 18
-  },
-  "0x93d3296cac208422BF587c3597D116e809870f2b": {
-    "name": "PegNet US Dollar",
-    "logo": "pegnet-pusd.svg",
-    "erc20": true,
-    "symbol": "pUSD",
-    "decimals": 8
   }
 }
