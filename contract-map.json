@@ -1495,5 +1495,12 @@
     "erc20": true,
     "symbol": "TLN",
     "decimals": 18
+  },
+  "0x1d287cc25dad7ccaf76a26bc660c5f7c8e2a05bd": {
+    "name": "FET",
+    "logo": "fetch.png",
+    "erc20": true,
+    "symbol": "FET",
+    "decimals": 18
   }
 }
