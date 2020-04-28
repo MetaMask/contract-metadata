@@ -1468,6 +1468,13 @@
     "symbol": "SU",
     "decimals": 0
   },
+  "0xD0a4b8946Cb52f0661273bfbC6fD0E0C75Fc6433": {
+    "name": "Storm Token",
+    "logo": "storm.svg",
+    "erc20": true,
+    "symbol": "STORM",
+    "decimals": 18
+  },
   "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0": {
     "name": "Matic Network Token",
     "logo": "matic-network-logo.svg",
