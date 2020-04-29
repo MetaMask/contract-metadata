@@ -20,11 +20,33 @@
     "symbol": "PLUSDC",
     "decimals": 6
   },
+  {
+  "0x261b45D85cCFeAbb11F022eBa346ee8D1cd488c0": {
+    "name": "rDAI",
+    "logo": "rdai.svg",
+    "erc20": true,
+    "symbol": "rDAI",
+    "decimals": 18
+  },
+  "0xea8b224eDD3e342DEb514C4176c2E72Bcce6fFF9": {
+    "name": "rSAI",
+    "logo": "rsai.svg",
+    "erc20": true,
+    "symbol": "rSAI",
+    "decimals": 18
+  },
   "0x4575f41308EC1483f3d399aa9a2826d74Da13Deb": {
     "name": "Orchid",
     "logo": "OXT.svg",
     "erc20": true,
     "symbol": "OXT",
+    "decimals": 18
+  },
+  "0x4CC19356f2D37338b9802aa8E8fc58B0373296E7": {
+    "name": "Selfkey",
+    "logo": "KEY.svg",
+    "erc20": true,
+    "symbol": "KEY",
     "decimals": 18
   },
   "0xdAC17F958D2ee523a2206206994597C13D831ec7": {
@@ -39,6 +61,13 @@
     "logo": "CHAI.svg",
     "erc20": true,
     "symbol": "CHAI",
+    "decimals": 18
+  },
+  "0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828": {
+    "name": "UMA",
+    "logo": "UMA.png",
+    "erc20": true,
+    "symbol": "UMA",
     "decimals": 18
   },
   "0x5f778ec4B31a506c1Dfd8b06F131E9B451a61D39": {
@@ -744,7 +773,7 @@
   },
   "0x6B175474E89094C44Da98b954EedeAC495271d0F": {
     "name": "Dai Stablecoin",
-    "logo": "new-dai.svg",
+    "logo": "dai.svg",
     "erc20": true,
     "symbol": "DAI",
     "decimals": 18
@@ -995,6 +1024,13 @@
     "logo": "ctoken-usdc.svg",
     "erc20": true,
     "symbol":"cUSDC",
+    "decimals": 8
+  },
+  "0xC11b1268C1A384e55C48c2391d8d480264A3A7F4": {
+    "name": "Compound Wrapped BTC",
+    "logo": "ctoken-wbtc.svg",
+    "erc20": true,
+    "symbol":"cWBTC",
     "decimals": 8
   },
   "0xB3319f5D18Bc0D84dD1b4825Dcde5d5f7266d407": {
@@ -1468,6 +1504,13 @@
     "symbol": "SU",
     "decimals": 0
   },
+  "0xD0a4b8946Cb52f0661273bfbC6fD0E0C75Fc6433": {
+    "name": "Storm Token",
+    "logo": "storm.svg",
+    "erc20": true,
+    "symbol": "STORM",
+    "decimals": 18
+  },
   "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0": {
     "name": "Matic Network Token",
     "logo": "matic-network-logo.svg",
@@ -1501,6 +1544,20 @@
     "logo": "TLN128.png",
     "erc20": true,
     "symbol": "TLN",
+    "decimals": 18
+  },
+  "0x1D287CC25dAD7cCaF76a26bc660c5F7C8E2a05BD": {
+    "name": "FET",
+    "logo": "fetch.png",
+    "erc20": true,
+    "symbol": "FET",
+    "decimals": 18
+  },
+  "0x0Ae055097C6d159879521C384F1D2123D1f195e6": {
+    "name": "STAKE Token",
+    "logo": "stake.png",
+    "erc20": true,
+    "symbol": "STAKE",
     "decimals": 18
   }
 }
