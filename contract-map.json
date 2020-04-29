@@ -1,5 +1,4 @@
-{
-
+{ 
   "0xA3AC41Fde5f3a569fa79E81fFe6734ee8097Ce9d": {
     "name": "4xBit",
     "logo": "4xBit.png",
@@ -7,7 +6,27 @@
     "symbol": "4XB",
     "decimals": 8
   },
-
+  "0x49d716DFe60b37379010A75329ae09428f17118d": {
+    "name": "PoolTogether Dai",
+    "logo": "pldai.svg",
+    "erc20": true,
+    "symbol": "PLDAI",
+    "decimals": 18
+  },
+  "0xfE6892654CBB05eB73d28DCc1Ff938f59666Fe9f": {
+    "name": "PoolTogether Sai",
+    "logo": "plsai.svg",
+    "erc20": true,
+    "symbol": "PLSAI",
+    "decimals": 18
+  },
+  "0xBD87447F48ad729C5c4b8bcb503e1395F62e8B98": {
+    "name": "PoolTogether USDC",
+    "logo": "plusdc.svg",
+    "erc20": true,
+    "symbol": "PLUSDC",
+    "decimals": 6
+  },
   "0x261b45D85cCFeAbb11F022eBa346ee8D1cd488c0": {
     "name": "rDAI",
     "logo": "rdai.svg",
@@ -27,6 +46,13 @@
     "logo": "OXT.svg",
     "erc20": true,
     "symbol": "OXT",
+    "decimals": 18
+  },
+  "0x4CC19356f2D37338b9802aa8E8fc58B0373296E7": {
+    "name": "Selfkey",
+    "logo": "KEY.svg",
+    "erc20": true,
+    "symbol": "KEY",
     "decimals": 18
   },
   "0xdAC17F958D2ee523a2206206994597C13D831ec7": {
@@ -1006,6 +1032,13 @@
     "symbol":"cUSDC",
     "decimals": 8
   },
+  "0xC11b1268C1A384e55C48c2391d8d480264A3A7F4": {
+    "name": "Compound Wrapped BTC",
+    "logo": "ctoken-wbtc.svg",
+    "erc20": true,
+    "symbol":"cWBTC",
+    "decimals": 8
+  },
   "0xB3319f5D18Bc0D84dD1b4825Dcde5d5f7266d407": {
     "name": "Compound 0x",
     "logo": "ctoken-zrx.svg",
@@ -1524,6 +1557,13 @@
     "logo": "fetch.png",
     "erc20": true,
     "symbol": "FET",
+    "decimals": 18
+  },
+  "0x0Ae055097C6d159879521C384F1D2123D1f195e6": {
+    "name": "STAKE Token",
+    "logo": "stake.png",
+    "erc20": true,
+    "symbol": "STAKE",
     "decimals": 18
   }
 }
