@@ -1561,10 +1561,10 @@
     
       },
   "0x78a685e0762096ed0f98107212e98f8c35a9d1d8": {
-    "name": "Bloc Token",
+    "name": "Bloc",
     "logo": "bloc.jpg",
     "erc20": true,
-    "symbol": "DAP",
+    "symbol": "dap",
     "decimals": 10
     
   }
