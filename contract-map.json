@@ -1558,7 +1558,6 @@
     "erc20": true,
     "symbol": "STAKE",
     "decimals": 18
-    
      },
   "0x78a685e0762096ed0f98107212e98f8c35a9d1d8": {
     "name": "Bloc Token",
@@ -1566,6 +1565,5 @@
     "erc20": true,
     "symbol": "DAP",
     "decimals": 10
-    
   }
 }
