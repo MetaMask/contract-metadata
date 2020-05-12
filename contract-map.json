@@ -1545,6 +1545,13 @@
     "symbol": "RDN",
     "decimals": 18
   },
+  "0x4e15361fd6b4bb609fa63c81a2be19d873717870": {
+    "name": "Fantom",
+    "logo": "Fantom.png",
+    "erc20": true,
+    "symbol": "FTM",
+    "decimals": 18
+  },
   "0x679131F591B4f369acB8cd8c51E68596806c3916": {
     "name": "Trustlines Network Token",
     "logo": "TLN128.png",
