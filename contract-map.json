@@ -1565,5 +1565,12 @@
     "erc20": true,
     "symbol": "STAKE",
     "decimals": 18
+  },
+  "0x580c8520dEDA0a441522AEAe0f9F7A5f29629aFa": {
+    "name": "Dawn",
+    "logo": "dawnlogo.png",
+    "erc20": true,
+    "symbol": "DAWN",
+    "decimals": 18
   }
 }
