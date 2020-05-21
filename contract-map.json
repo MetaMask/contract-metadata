@@ -1565,5 +1565,12 @@
     "erc20": true,
     "symbol": "STAKE",
     "decimals": 18
+  },
+  "0x2e071D2966Aa7D8dECB1005885bA1977D6038A65": {
+    "name": "DICE",
+    "logo": "Etheroll.jpg",
+    "erc20": true,
+    "symbol": "ROL",
+    "decimals": 16
   }
 }
