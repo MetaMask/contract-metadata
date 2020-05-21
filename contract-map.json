@@ -6,12 +6,20 @@
     "symbol": "PLDAI",
     "decimals": 18
   },
+
   "0xfE6892654CBB05eB73d28DCc1Ff938f59666Fe9f": {
     "name": "PoolTogether Sai",
     "logo": "plsai.svg",
     "erc20": true,
     "symbol": "PLSAI",
     "decimals": 18
+  },
+   "0xAD8B556174bff978c6a6Ea022871C3E26eA9dDb2": {
+    "name": "Daatty Coin",
+    "logo": "Daatty.png",
+    "erc20": true,
+    "symbol": "DTC",
+    "decimals": 6
   },
   "0xBD87447F48ad729C5c4b8bcb503e1395F62e8B98": {
     "name": "PoolTogether USDC",
