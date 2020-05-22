@@ -1,4 +1,12 @@
 { 
+  "0x11111254369792b2Ca5d084aB5eEA397cA8fa48B": {
+    "name": "1inch.exchange",
+    "logo": "1inch.svg"
+  },
+  "0xE4C9194962532fEB467DCe8b3d42419641c6eD2E": {
+    "name": "1inch.exchange ERC20 proxy",
+    "logo": "1inch.svg"
+  },
   "0x49d716DFe60b37379010A75329ae09428f17118d": {
     "name": "PoolTogether Dai",
     "logo": "pldai.svg",
