@@ -9,7 +9,10 @@
   },
   "0x0000000000004946c0e9F43F4Dee607b0eF1fA1c": {
     "name": "Chi Gastoken by 1inch",
-    "logo": "chi.png"
+    "logo": "chi.png",
+    "erc20": true,
+    "symbol": "CHI",
+    "decimals": 0
   },
   "0x49d716DFe60b37379010A75329ae09428f17118d": {
     "name": "PoolTogether Dai",
