@@ -13,21 +13,23 @@ This repository is effectively frozen. We recommend that developers of new token
 You can install from npm with `npm install eth-contract-metadata` and use it in your code like this:
 
 ```javascript
-const contractMap = require('eth-contract-metadata')
-const toChecksumAddress = require('ethereumjs-util').toChecksumAddress
+import contractMap from 'eth-contract-metadata'
+import ethJSUtil from 'ethereumjs-util'
+const { toChecksumAddress } = ethJSUtil
 
 function imageElFor (address) {
-  const metadata = iconMap[toChecksumAddress(address)]
-  if (!('logo' in metadata)) {
-    return false
+  const metadata = contractMap[toChecksumAddress(address)]
+  if (metadata?.logo) {
+    const fileName = metadata.logo
+    const path = `images/contract/${fileName}`
+    const img = document.createElement('img')
+    img.src = path
+    img.style.width = '100%'
+    return img
   }
-  const fileName = metadata.logo
-  const path = `images/contract/${fileName}`
-  const img = document.createElement('img')
-  img.src = path
-  img.style.width = '100%'
-  return img
 }
+
+imageElFor ("0x06012c8cf97BEaD5deAe237070F9587f8E7A266d")
 ```
 
 ## Submission Process
