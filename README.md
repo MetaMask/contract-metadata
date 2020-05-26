@@ -21,7 +21,7 @@ function imageElFor (address) {
   const metadata = contractMap[toChecksumAddress(address)]
   if (metadata?.logo) {
     const fileName = metadata.logo
-    const path = `images/contract/${fileName}`
+    const path = `${__dirname}/images/contract/${fileName}`
     const img = document.createElement('img')
     img.src = path
     img.style.width = '100%'
