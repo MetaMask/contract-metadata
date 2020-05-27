@@ -6,6 +6,13 @@
     "symbol": "PLDAI",
     "decimals": 18
   },
+  "0xbca3c97837a39099ec3082df97e28ce91be14472": {
+    "name": "DUST Token",
+    "logo": "DUST.png",
+    "erc20": true,
+    "symbol": "DUST",
+    "decimals": 8
+  },
   "0xfE6892654CBB05eB73d28DCc1Ff938f59666Fe9f": {
     "name": "PoolTogether Sai",
     "logo": "plsai.svg",
