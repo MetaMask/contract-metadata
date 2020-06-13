@@ -1,9 +1,9 @@
 {
-  "0x09d8b66c48424324b25754a873e290cae5dca439": {
-    "name": "Nova Token",
-    "logo": "NVT_Logo.svg",
+  "0x63f88A2298a5c4AEE3c216Aa6D926B184a4b2437": {
+    "name": "GAME Credits",
+    "logo": "GAME Credits Logo.svg",
     "erc20": true,
-    "symbol": "NVT",
+    "symbol": "GAME",
     "decimals": 18
   },
   "0x5f778ec4B31a506c1Dfd8b06F131E9B451a61D39": {
