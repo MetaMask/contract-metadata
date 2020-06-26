@@ -1039,6 +1039,13 @@
     "symbol":"cZRX",
     "decimals": 8
   },
+  "0xc00e94Cb662C3520282E6f5717214004A7f26888": {
+    "name": "Compound",
+    "logo": "comp.svg",
+    "erc20": true,
+    "symbol": "COMP",
+    "decimals": 18
+  },
   "0xFFE02ee4C69eDf1b340fCaD64fbd6b37a7b9e265": {
     "name": "NANJCOIN",
     "logo": "nanjcoin.svg",
