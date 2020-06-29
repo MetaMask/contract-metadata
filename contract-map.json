@@ -447,19 +447,33 @@
     "decimals": 18,
     "symbol": "AMLT"
   },
-  "0xC011A72400E58ecD99Ee497CF89E3775d4bd732F": {
+  "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F": {
     "name": "Synthetix Network Token",
     "logo": "synthetix.svg",
     "erc20": true,
     "decimals": 18,
     "symbol": "SNX"
   },
-  "0x57Ab1E02fEE23774580C119740129eAC7081e9D3": {
-    "name": "sUSD",
+  "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51": {
+    "name": "Synth sUSD",
     "logo": "synthetix_susd.svg",
     "erc20": true,
     "decimals": 18,
     "symbol": "SUSD"
+  },
+  "0x5e74C9036fb86BD7eCdcb084a0673EFc32eA31cb": {
+    "name": "Synth sETH",
+    "logo": "synthetix_seth.svg",
+    "erc20": true,
+    "decimals": 18,
+    "symbol": "SETH"
+  },
+  "0xfE18be6b3Bd88A2D2A7f928d00292E7a9963CfC6": {
+    "name": "Synth sBTC",
+    "logo": "synthetix_sbtc.svg",
+    "erc20": true,
+    "decimals": 18,
+    "symbol": "SBTC"
   },
   "0x0DB8D8b76BC361bAcbB72E2C491E06085A97Ab31": {
     "name": "IQeon",
