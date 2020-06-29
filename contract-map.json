@@ -1039,6 +1039,13 @@
     "symbol":"cUSDC",
     "decimals": 8
   },
+  "0xf650C3d88D12dB855b8bf7D11Be6C55A4e07dCC9": {
+    "name": "Compound Tether",
+    "logo": "ctoken-usdt.svg",
+    "erc20": true,
+    "symbol":"cUSDT",
+    "decimals": 8
+  },
   "0xC11b1268C1A384e55C48c2391d8d480264A3A7F4": {
     "name": "Compound Wrapped BTC",
     "logo": "ctoken-wbtc.svg",
