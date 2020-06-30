@@ -1599,4 +1599,6 @@
     "logo": "get-logo.png",
     "erc20": true,
     "symbol": "GET",
+    "decimals": 18
+  }
 }
