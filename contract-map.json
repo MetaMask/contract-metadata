@@ -6,6 +6,15 @@
     "symbol": "PLDAI",
     "decimals": 18
   },
+  
+   "0x5732046a883704404f284ce41ffadd5b007fd668": {
+    "name": "Bluzelle Token",
+    "logo": "Bluzelle.svg",
+    "erc20": true,
+    "symbol": "BLZ",
+    "decimals": 18
+  },
+  
   "0xfE6892654CBB05eB73d28DCc1Ff938f59666Fe9f": {
     "name": "PoolTogether Sai",
     "logo": "plsai.svg",
@@ -1592,13 +1601,6 @@
     "logo": "stake.png",
     "erc20": true,
     "symbol": "STAKE",
-    "decimals": 18
-  }
-  "0x5732046a883704404f284ce41ffadd5b007fd668": {
-    "name": "Bluzelle Token",
-    "logo": "Bluzelle.svg",
-    "erc20": true,
-    "symbol": "BLZ",
     "decimals": 18
   }
 }
