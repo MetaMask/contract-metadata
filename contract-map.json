@@ -1593,5 +1593,12 @@
     "erc20": true,
     "symbol": "STAKE",
     "decimals": 18
+  },
+  "0xc4199fB6FFDb30A829614becA030f9042f1c3992": {
+    "name": "snglsDAO Governance Token",
+    "logo": "SGT.png",
+    "erc20": true,
+    "symbol": "SGT",
+    "decimals": 18
   }
 }
