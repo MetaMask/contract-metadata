@@ -840,6 +840,13 @@
     "symbol": "REP",
     "decimals": 18
   },
+  "0x221657776846890989a759ba2973e427dff5c9bb": {
+    "name": "Reputation V2",
+    "logo": "augur_v2_logo.svg",
+    "erc20": true,
+    "symbol": "REPv2",
+    "decimals": 18
+  },
   "0xd0929d411954c47438dc1d871dd6081F5C5e149c": {
     "name": "Refereum",
     "logo": "rfr.svg",
