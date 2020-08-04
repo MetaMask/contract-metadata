@@ -20,6 +20,13 @@
     "symbol": "PLUSDC",
     "decimals": 6
   },
+  "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e": {
+    "name": "yearn.finance",
+    "logo": "yearn.svg",
+    "erc20": true,
+    "symbol": "YFI",
+    "decimals": 18
+  },
   "0x261b45D85cCFeAbb11F022eBa346ee8D1cd488c0": {
     "name": "rDAI",
     "logo": "rdai.svg",
