@@ -48,6 +48,13 @@
     "symbol": "KEY",
     "decimals": 18
   },
+  "0xd42debe4edc92bd5a3fbb4243e1eccf6d63a4a5d": {
+    "name": "Carboneum",
+    "logo": "Carboneum.svg",
+    "erc20": true,
+    "symbol":"C8",
+    "decimals": 18
+  },
   "0xdAC17F958D2ee523a2206206994597C13D831ec7": {
     "name": "Tether USD",
     "logo": "tether_usd.png",
