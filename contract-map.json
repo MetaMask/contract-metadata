@@ -1,4 +1,4 @@
-{ 
+{
   "0x49d716DFe60b37379010A75329ae09428f17118d": {
     "name": "PoolTogether Dai",
     "logo": "pldai.svg",
@@ -1585,6 +1585,13 @@
     "logo": "fetch.png",
     "erc20": true,
     "symbol": "FET",
+    "decimals": 18
+  },
+  "0x444997b7e7fC830E20089afea3078cd518fCF2A2": {
+    "name": "EWO Token",
+    "logo": "ewo.png",
+    "erc20": true,
+    "symbol": "EWO",
     "decimals": 18
   },
   "0x0Ae055097C6d159879521C384F1D2123D1f195e6": {
