@@ -1,4 +1,11 @@
 { 
+  "0x74f9595874b595c7a5af9cf78ac051c2e7387173": {
+    "name": "PROOF",
+    "logo": "proof.svg",
+    "erc20": true,
+    "symbol": "PRF",
+    "decimals": 6
+  },
   "0x49d716DFe60b37379010A75329ae09428f17118d": {
     "name": "PoolTogether Dai",
     "logo": "pldai.svg",
