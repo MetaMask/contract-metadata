@@ -1593,5 +1593,12 @@
     "erc20": true,
     "symbol": "STAKE",
     "decimals": 18
-  }
+  },
+  "0x8a854288a5976036A725879164Ca3e91d30c6A1B": {
+    "name": "Guaranteed Entrance Token",
+    "logo": "get-logo.svg",
+    "erc20": true,
+    "symbol": "GET",
+    "decimals": 18
+  } 
 }
