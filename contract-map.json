@@ -1587,6 +1587,13 @@
     "symbol": "FET",
     "decimals": 18
   },
+  "0x2e1E15C44Ffe4Df6a0cb7371CD00d5028e571d14": {
+    "name": "Mettalex",
+    "logo": "Mettalex.png",
+    "erc20": true,
+    "symbol": "MTLX",
+    "decimals": 18
+  },
   "0x0Ae055097C6d159879521C384F1D2123D1f195e6": {
     "name": "STAKE Token",
     "logo": "stake.png",
