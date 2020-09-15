@@ -1587,6 +1587,13 @@
     "symbol": "aBAT",
     "decimals": 18
   },
+  "0x712DB54daA836B53Ef1EcBb9c6ba3b9Efb073F40": {
+    "name": "Aave ENJ",
+    "logo": "aENJ.svg",
+    "erc20": true,
+    "symbol": "aENJ",
+    "decimals": 18
+  },
   "0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d": {
     "name": "Aave DAI",
     "logo": "aDAI.svg",
@@ -1620,6 +1627,13 @@
     "logo": "aLINK.svg",
     "erc20": true,
     "symbol": "aLINK",
+    "decimals": 18
+  },
+  "0x69948cC03f478B95283F7dbf1CE764d0fc7EC54C": {
+    "name": "Aave REN",
+    "logo": "aREN.svg",
+    "erc20": true,
+    "symbol": "aREN",
     "decimals": 18
   },
   "0x6FCE4A401B6B80ACe52baAefE4421Bd188e76F6f": {
@@ -1678,6 +1692,13 @@
     "symbol": "aUSDT",
     "decimals": 6
   },
+  "0x6Ee0f7BB50a54AB5253dA0667B0Dc2ee526C30a8": {
+    "name": "Aave BUSD",
+    "logo": "aBUSD.svg",
+    "erc20": true,
+    "symbol": "aBUSD",
+    "decimals": 18
+  },
   "0xFC4B8ED459e00e5400be803A9BB3954234FD50e3": {
     "name": "Aave WBTC",
     "logo": "aWBTC.svg",
@@ -1685,11 +1706,88 @@
     "symbol": "aWBTC",
     "decimals": 8
   },
+  "0x12e51E77DAAA58aA0E9247db7510Ea4B46F9bEAd": {
+    "name": "Aave YFI",
+    "logo": "aYFI.svg",
+    "erc20": true,
+    "symbol": "aYFI",
+    "decimals": 18
+  },
   "0x6Fb0855c404E09c47C3fBCA25f08d4E41f9F062f": {
     "name": "Aave ZRX",
     "logo": "aZRX.svg",
     "erc20": true,
     "symbol": "aZRX",
+    "decimals": 18
+  },
+  "0x1D0e53A0e524E3CC92C1f0f33Ae268FfF8D7E7a5": {
+    "name": "Aave UniUSDCETH",
+    "logo": "aUniUSDCETH.svg",
+    "erc20": true,
+    "symbol": "aUniUSDCETH",
+    "decimals": 18
+  },
+  "0x9548DB8b1cA9b6c757485e7861918b640390169c": {
+    "name": "Aave UniLINKETH",
+    "logo": "aUniLINKETH.svg",
+    "erc20": true,
+    "symbol": "aUniLINKETH",
+    "decimals": 18
+  },
+  "0xc88ebbf7C523f38Ef3eB8A151273C0F0dA421e63": {
+    "name": "Aave UniLENDETH",
+    "logo": "aUniLENDETH.svg",
+    "erc20": true,
+    "symbol": "aUniLENDETH",
+    "decimals": 18
+  },
+  "0x8c69f7A4C9B38F1b48005D216c398Efb2F1Ce3e4": {
+    "name": "Aave UniMKRETH",
+    "logo": "aUniMKRETH.svg",
+    "erc20": true,
+    "symbol": "aUniMKRETH",
+    "decimals": 18
+  },
+  "0x84BBcaB430717ff832c3904fa6515f97fc63C76F": {
+    "name": "Aave UniSETHETH",
+    "logo": "aUniSETHETH.svg",
+    "erc20": true,
+    "symbol": "aUniSETHETH",
+    "decimals": 18
+  },
+  "0xBbBb7F2aC04484F7F04A2C2C16f20479791BbB44": {
+    "name": "Aave UniDAIETH",
+    "logo": "aUniDAIETH.svg",
+    "erc20": true,
+    "symbol": "aUniDAIETH",
+    "decimals": 18
+  },
+  "0x048930eec73c91B44b0844aEACdEBADC2F2b6efb": {
+    "name": "Aave UniDAI",
+    "logo": "aUniDAI.svg",
+    "erc20": true,
+    "symbol": "aUniDAI",
+    "decimals": 18
+  },
+  "0xe02b2Ad63eFF3Ac1D5827cBd7AB9DD3DaC4f4AD0": {
+    "name": "Aave UniUSDC",
+    "logo": "aUniUSDC.svg",
+    "erc20": true,
+    "symbol": "aUniUSDC",
+    "decimals": 6
+  },
+  "0xb977ee318010A5252774171494a1bCB98E7fab65": {
+    "name": "Aave UniUSDT",
+    "logo": "aUniUSDT.svg",
+    "erc20": true,
+    "symbol": "aUniUSDT",
+    "decimals": 6
+  },
+  "0xb977ee318010A5252774171494a1bCB98E7fab65": {
+    "name": "Aave UniETH",
+    "logo": "aUniETH.svg",
+    "erc20": true,
+    "symbol": "aUniETH",
     "decimals": 18
   },
   "0x1D287CC25dAD7cCaF76a26bc660c5F7C8E2a05BD": {
