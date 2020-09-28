@@ -6,6 +6,13 @@
     "symbol": "PLDAI",
     "decimals": 18
   },
+   "0x697ef32b4a3f5a4c39de1cb7563f24ca7bfc5947": {
+    "name": "Insula Token",
+    "logo": "android-chrome-144x144.png",
+    "erc20": true,
+    "symbol": "ISLA",
+    "decimals": 18
+  },
   "0xfE6892654CBB05eB73d28DCc1Ff938f59666Fe9f": {
     "name": "PoolTogether Sai",
     "logo": "plsai.svg",
