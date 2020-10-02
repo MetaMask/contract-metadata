@@ -1621,5 +1621,12 @@
     "erc20": true,
     "symbol": "STAKE",
     "decimals": 18
+  },
+  "0xe3818504c1B32bF1557b16C238B2E01Fd3149C17": {
+    "name": "Pillar",
+    "logo": "plr.svg",
+    "erc20": true,
+    "symbol": "PLR",
+    "decimals": 18
   }
 }
