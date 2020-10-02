@@ -147,11 +147,18 @@
     "decimals": 18
   },
   "0x4470BB87d77b963A013DB939BE332f927f2b992e": {
+    "name": "AdEx Legacy Token",
+    "logo": "adex.svg",
+    "erc20": true,
+    "symbol": "ADXL",
+    "decimals": 4
+  },
+  "0xADE00C28244d5CE17D72E40330B1c318cD12B7c3": {
     "name": "AdEx Token",
     "logo": "adex.svg",
     "erc20": true,
     "symbol": "ADX",
-    "decimals": 4
+    "decimals": 18
   },
   "0x1966d718A565566e8E202792658D7b5Ff4ECe469": {
     "name": "nDEX",
