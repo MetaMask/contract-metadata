@@ -1573,6 +1573,13 @@
     "symbol": "MATIC",
     "decimals": 18
   },
+  "0x9992eC3cF6A55b00978cdDF2b27BC6882d88D1eC": {
+    "name": "Polymath",
+    "logo": "polymath_logo.svg",
+    "erc20": true,
+    "symbol": "POLY",
+    "decimals": 18
+  },
   "0x0a50C93c762fDD6E56D86215C24AaAD43aB629aa": {
     "name": "LGO Token",
     "logo": "lgo.png",
