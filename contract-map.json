@@ -1622,6 +1622,13 @@
     "symbol": "FET",
     "decimals": 18
   },
+  "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984": {
+    "name": "Uniswap",
+    "logo": "uni.svg",
+    "erc20": true,
+    "symbol": "UNI",
+    "decimals": 18
+  },
   "0x0Ae055097C6d159879521C384F1D2123D1f195e6": {
     "name": "STAKE Token",
     "logo": "stake.png",
