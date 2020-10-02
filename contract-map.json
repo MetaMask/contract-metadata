@@ -1284,6 +1284,13 @@
     "symbol": "TUSD",
     "decimals": 18
   },
+  "0x4Fabb145d64652a948d72533023f6E7A623C7C53": {
+    "name": "Binance USD",
+    "logo": "busd.svg",
+    "erc20": true,
+    "symbol": "BUSD",
+    "decimals": 18
+  },
   "0x23Ccc43365D9dD3882eab88F43d515208f832430": {
     "name": "MidasProtocol",
     "logo": "MAS.png",
