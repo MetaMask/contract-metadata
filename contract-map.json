@@ -1,4 +1,4 @@
-{ 
+{
   "0x49d716DFe60b37379010A75329ae09428f17118d": {
     "name": "PoolTogether Dai",
     "logo": "pldai.svg",
@@ -40,6 +40,13 @@
     "erc20": true,
     "symbol": "rSAI",
     "decimals": 18
+  },
+  "0x12B19D3e2ccc14Da04FAe33e63652ce469b3F2FD": {
+    "name": "GridPlus",
+    "logo": "GridPlus.svg",
+    "erc20": true,
+    "symbol": "GRID",
+    "decimals": 12
   },
   "0x4575f41308EC1483f3d399aa9a2826d74Da13Deb": {
     "name": "Orchid",
