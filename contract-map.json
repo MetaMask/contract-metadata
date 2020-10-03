@@ -1656,5 +1656,12 @@
     "erc20": true,
     "symbol": "PLR",
     "decimals": 18
+  },
+  "0xba100000625a3754423978a60c9317c58a424e3D": {
+    "name": "Balancer (BAL)",
+    "logo": "balancer.svg",
+    "erc20": true,
+    "symbol": "BAL",
+    "decimals": 18
   }
 }
