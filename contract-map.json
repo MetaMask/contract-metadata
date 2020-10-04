@@ -20,6 +20,13 @@
     "symbol": "PLUSDC",
     "decimals": 6
   },
+  "0xB8BAa0e4287890a5F79863aB62b7F175ceCbD433": {
+    "name": "Swerve DAO Token",
+    "logo": "swerve.png",
+    "erc20": true,
+    "symbol": "SWRV",
+    "decimals": 18
+  },
   "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e": {
     "name": "yearn.finance",
     "logo": "yearn.svg",
