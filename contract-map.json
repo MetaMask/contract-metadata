@@ -1661,5 +1661,7 @@
     "name": "Guaranteed Entrance Token",
     "logo": "get-logo.svg",
     "erc20": true,
-    "symbol": "GET"
+    "symbol": "GET",
+    "decimals": 18
+  }
 }
