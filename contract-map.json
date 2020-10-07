@@ -1565,9 +1565,9 @@
     "symbol": "DANK",
     "decimals": 18
   },
-  "0x5f5b176553e51171826D1A62e540bC30422C7717": {
-    "name": "PLA Token",
-    "logo": "PLA.svg",
+  "0x3a4f40631a4f906c2BaD353Ed06De7A5D3fCb430": {
+    "name": "PlayDapp Token",
+    "logo": "playdapp.svg",
     "erc20": true,
     "symbol": "PLA",
     "decimals": 18
