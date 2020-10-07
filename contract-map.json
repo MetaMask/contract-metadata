@@ -153,6 +153,13 @@
     "symbol": "IOTX",
     "decimals": 18
   },
+  "0xE5a3229CCb22b6484594973A03a3851dCd948756": {
+    "name": "RAE Token",
+    "logo": "rae.svg",
+    "erc20": true,
+    "symbol": "RAE",
+    "decimals": 18
+  },
   "0x4470BB87d77b963A013DB939BE332f927f2b992e": {
     "name": "AdEx Legacy Token",
     "logo": "adex.svg",
