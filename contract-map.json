@@ -118,6 +118,13 @@
     "symbol": "POP",
     "decimals": 18
   },
+  "0x048Fe49BE32adfC9ED68C37D32B5ec9Df17b3603": {
+    "name": "Skrumble Network V2",
+    "logo": "skm.svg",
+    "erc20": true,
+    "symbol": "SKM",
+    "decimals": 18
+  },
   "0x16EA01aCB4b0Bca2000ee5473348B6937ee6f72F": {
     "name": "Enecuum",
     "logo": "ENQ-logo.svg",
