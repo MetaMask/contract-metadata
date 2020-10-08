@@ -1,16 +1,9 @@
 { 
-  "0x06f59A767f33eaBE3F1a3D3C14997Bae8058430C": {
+  "0x674C6Ad92Fd080e4004b2312b45f796a192D27a0": {
     "name": "Neutrino USD",
     "logo": "USDN.svg",
     "erc20": true,
     "symbol": "USDN",
-    "decimals": 18
-  },
-   "0x9D79d5B61De59D882ce90125b18F74af650acB93": {
-    "name": "Neutrino System Base Token",
-    "logo": "NSBT.svg",
-    "erc20": true,
-    "symbol": "NSBT",
     "decimals": 18
   },
   "0x49d716DFe60b37379010A75329ae09428f17118d": {
