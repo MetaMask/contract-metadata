@@ -6,7 +6,7 @@ A mapping of checksummed ethereum addresses to metadata, like names, and images 
 
 All address keys follow the [EIP 55 address checksum format](https://github.com/ethereum/EIPs/issues/55).
 
-This repository is effectively frozen. We recommend that developers of new tokens use [EIP 747](https://metamask.github.io/metamask-docs/Best_Practices/Registering_Your_Token) to ask the user's permission to display your tokens in their wallet. This reduces the dangers of airdrop-based phishing, and reduces administrative overhead from managing this list.
+This repository is effectively frozen. We recommend that developers of new tokens use [EIP 747](https://docs.metamask.io/guide/registering-your-token.html) to ask the user's permission to display your tokens in their wallet. This reduces the dangers of airdrop-based phishing, and reduces administrative overhead from managing this list.
 
 ## Usage
 
@@ -48,7 +48,7 @@ Criteria:
 - Project website should include explanation of project.
 - Project should have clear signs of activity, either traffic on the network, activity on GitHub, or community buzz.
 - Nice to have a verified source code on a block explorer like Etherscan.
-- Must have a ['NEUTRAL' reputation or 'OK' reputation](https://etherscancom.freshdesk.com/support/solutions/articles/35000022146-etherscan-token-reputation-system) on Etherscan.
+- Must have a ['NEUTRAL' reputation or 'OK' reputation](https://info.etherscan.com/etherscan-token-reputation) on Etherscan.
 
 A sample submission:
 
