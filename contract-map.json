@@ -111,6 +111,13 @@
     "symbol": "BTU",
     "decimals": 18
   },
+  "0x746DdA2ea243400D5a63e0700F190aB79f06489e": {
+    "name": "BOSAGORA",
+    "logo": "BOA.svg",
+    "erc20": true,
+    "symbol": "BOA",
+    "decimals": 7
+  },
   "0x5D858bcd53E085920620549214a8b27CE2f04670": {
     "name": "POP Network Token",
     "logo": "POP.svg",
