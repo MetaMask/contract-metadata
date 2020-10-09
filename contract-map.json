@@ -1615,6 +1615,13 @@
     "symbol": "STORM",
     "decimals": 18
   },
+  "0xbE9375C6a420D2eEB258962efB95551A5b722803": {
+    "name": "StormX Token",
+    "logo": "stormx.svg",
+    "erc20": true,
+    "symbol": "STMX",
+    "decimals": 18
+  },
   "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0": {
     "name": "Matic Network Token",
     "logo": "matic-network-logo.svg",
