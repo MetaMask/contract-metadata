@@ -1685,6 +1685,13 @@
     "symbol": "STAKE",
     "decimals": 18
   },
+  "0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6": {
+    "name": "Dentacoin Token",
+    "logo": "dcn.svg",
+    "erc20": true,
+    "symbol": "DCN",
+    "decimals": 0
+  },
   "0xe2f2a5C287993345a840Db3B0845fbC70f5935a5": {
     "name": "mStable USD",
     "logo": "mUSD.svg",
