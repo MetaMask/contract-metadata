@@ -1,4 +1,11 @@
 {
+  "0x7865af71cf0b288b4E7F654f4F7851EB46a2B7F8": {
+    "name": "Sentivate",
+    "logo": "sentivate.svg",
+    "erc20": true,
+    "symbol": "SNTVT",
+    "decimals": 18
+  },
   "0x49d716DFe60b37379010A75329ae09428f17118d": {
     "name": "PoolTogether Dai",
     "logo": "pldai.svg",
