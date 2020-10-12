@@ -62,6 +62,13 @@
     "symbol": "KEY",
     "decimals": 18
   },
+    "0x92A5B04D0ED5D94D7a193d1d334D3D16996f4E13": {
+    "name": "Eristica",
+    "logo": "Eristica.svg",
+    "erc20": true,
+    "symbol": "ERT",
+    "decimals": 18
+  },
   "0xdAC17F958D2ee523a2206206994597C13D831ec7": {
     "name": "Tether USD",
     "logo": "tether_usd.png",
