@@ -1685,6 +1685,13 @@
     "symbol": "STAKE",
     "decimals": 18
   },
+  "0xA31B1767e09f842ECFd4bc471Fe44F830E3891AA": {
+    "name": "ROOBEE",
+    "logo": "ROOBEE.svg",
+    "erc20": true,
+    "symbol": "ROOBEE",
+    "decimals": 18
+  },
   "0xC7e43A1c8E118aA2965F5EAbe0e718D83DB7A63C": {
     "name": "ZCore Token",
     "logo": "zcrt.svg",
