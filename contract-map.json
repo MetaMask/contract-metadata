@@ -1396,8 +1396,8 @@
     "symbol": "LTO",
     "decimals": 8
   },
-  "0x445f51299Ef3307dBD75036dd896565F5B4BF7A5": {
-    "name": "V-ID Token",
+  "0xfeF4185594457050cC9c23980d301908FE057Bb1": {
+    "name": "VIDT Datalink",
     "logo": "VIDT.svg",
     "erc20": true,
     "symbol": "VIDT",
