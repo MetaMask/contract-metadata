@@ -13,6 +13,13 @@
     "symbol": "PLSAI",
     "decimals": 18
   },
+  "0x27702a26126e0B3702af63Ee09aC4d1A084EF628": {
+    "name": "aleph.im v2 Token",
+    "logo": "alephim.svg",
+    "erc20": true,
+    "symbol": "ALEPH",
+    "decimals": 18
+  },
    "0x5732046A883704404F284Ce41FfADd5b007FD668": {
     "name": "Bluzelle Token",
     "logo": "Bluzelle.svg",
