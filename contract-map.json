@@ -1761,5 +1761,12 @@
     "erc20": true,
     "symbol": "GET",
     "decimals": 18
+  },
+  "0xc12d099be31567add4e4e4d0D45691C3F58f5663": {
+    "name": "Auctus",
+    "logo": "auc.svg",
+    "erc20": true,
+    "symbol": "AUC",
+    "decimals": 18
   }
 }
