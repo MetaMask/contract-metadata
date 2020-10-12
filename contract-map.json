@@ -861,6 +861,13 @@
     "symbol": "DAI",
     "decimals": 18
   },
+  "0xD46bA6D942050d489DBd938a2C909A5d5039A161": {
+    "name": "Ampleforth",
+    "logo": "ampl.svg",
+    "erc20": true,
+    "symbol": "AMPL",
+    "decimals": 9
+  },
   "0xDF2C7238198Ad8B389666574f2d8bc411A4b7428": {
     "name": "Mainframe Token",
     "logo": "Mainframe.png",
