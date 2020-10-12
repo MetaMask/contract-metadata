@@ -13,6 +13,13 @@
     "symbol": "PLSAI",
     "decimals": 18
   },
+   "0x5732046A883704404F284Ce41FfADd5b007FD668": {
+    "name": "Bluzelle Token",
+    "logo": "Bluzelle.svg",
+    "erc20": true,
+    "symbol": "BLZ",
+    "decimals": 18
+  },
   "0xBD87447F48ad729C5c4b8bcb503e1395F62e8B98": {
     "name": "PoolTogether USDC",
     "logo": "plusdc.svg",
