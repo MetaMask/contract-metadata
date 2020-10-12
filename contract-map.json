@@ -1664,6 +1664,13 @@
     "symbol": "TLN",
     "decimals": 18
   },
+  "0xdcD85914b8aE28c1E62f1C488E1D968D5aaFfE2b": {
+    "name": "TOP Network Token",
+    "logo": "TOP.svg",
+    "erc20": true,
+    "symbol": "TOP",
+    "decimals": 18
+  },
   "0x1D287CC25dAD7cCaF76a26bc660c5F7C8E2a05BD": {
     "name": "FET",
     "logo": "fetch.png",
