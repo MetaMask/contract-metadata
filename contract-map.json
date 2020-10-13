@@ -1593,8 +1593,6 @@
     "erc20": true,
     "symbol": "STAKE",
     "decimals": 18
-  }
-}
   },
   "0xdf574c24545e5ffecb9a659c229253d4111d87e1": {
     "name": "HUSD",
