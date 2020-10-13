@@ -1594,7 +1594,7 @@
     "symbol": "STAKE",
     "decimals": 18
   },
-  "0x2ecb13a8c458c379c4d9a7259e202de03c8f3d19": {
+  "0x2ecB13A8c458c379c4d9a7259e202De03c8F3D19": {
     "name": "Block-Chain.com Token",
     "logo": "block-chain.svg",
     "erc20": true,
