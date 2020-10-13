@@ -1775,5 +1775,12 @@
     "erc20": true,
     "symbol": "AUC",
     "decimals": 18
+  },
+  "0x2ecB13A8c458c379c4d9a7259e202De03c8F3D19": {
+    "name": "Block-Chain.com Token",
+    "logo": "block-chain.svg",
+    "erc20": true,
+    "symbol": "BC",
+    "decimals": 18
   }
 }
