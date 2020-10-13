@@ -8,7 +8,7 @@
   },
    "0x697eF32B4a3F5a4C39dE1cB7563f24CA7BfC5947": {
     "name": "Insula Token",
-    "logo": "android-chrome-144x144.png",
+    "logo": "Insula.svg",
     "erc20": true,
     "symbol": "ISLA",
     "decimals": 18
