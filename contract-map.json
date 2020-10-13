@@ -2,7 +2,7 @@
   "0x674C6Ad92Fd080e4004b2312b45f796a192D27a0": {
     "name": "Neutrino USD",
     "logo": "USDN.svg",
-    "erc20": true,
+    "erc20": true, 
     "symbol": "USDN",
     "decimals": 18
   },
