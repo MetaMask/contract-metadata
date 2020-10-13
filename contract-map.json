@@ -1775,6 +1775,13 @@
     "erc20": true,
     "symbol": "AUC",
     "decimals": 18
+   },
+    "0xdF574c24545E5FfEcb9a659c229253D4111d87e1": {
+    "name": "HUSD",
+    "logo": "HUSD.svg",
+    "erc20": true,
+    "symbol": "HUSD",
+    "decimals": 8
   },
   "0x2ecB13A8c458c379c4d9a7259e202De03c8F3D19": {
     "name": "Block-Chain.com Token",
