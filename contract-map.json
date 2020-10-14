@@ -1,7 +1,7 @@
 {
   "0x998FFE1E43fAcffb941dc337dD0468d52bA5b48A": {
     "name": "Rupiah Token",
-    "logo": "idrt.png",
+    "logo": "idrt.svg",
     "erc20": true,
     "symbol": "IDRT",
     "decimals": 2
