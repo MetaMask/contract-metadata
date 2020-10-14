@@ -1596,7 +1596,7 @@
   },
   "0x5dc60C4D5e75D22588FA17fFEB90A63E535efCE0": {
     "name": "dKargo",
-    "logo": "DKA.png",
+    "logo": "DKA.svg",
     "erc20": true,
     "symbol": "DKA",
     "decimals": 18
