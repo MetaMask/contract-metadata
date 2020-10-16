@@ -1827,7 +1827,7 @@
   },
   "0x38e4adB44ef08F22F5B5b76A8f0c2d0dCbE7DcA1": {
     "name": "PowerPool Concentrated Voting Power",
-    "logo": "PowerPool.png",
+    "logo": "PowerPool.svg",
     "erc20": true,
     "symbol": "CVP",
     "decimals": 18
