@@ -1,6 +1,6 @@
 {
   "name": "eth-contract-metadata",
-  "version": "1.9.3",
+  "version": "1.16.0",
   "description": "A mapping of ethereum contract addresses to broadly accepted icons for those addresses.",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,11 @@
     "url": "https://github.com/MetaMask/ethereum-contract-icons/issues"
   },
   "homepage": "https://github.com/MetaMask/ethereum-contract-icons#readme",
+  "files": [
+    "index.js",
+    "contract-map.json",
+    "images"
+  ],
   "devDependencies": {
     "ethereumjs-util": "^5.1.1",
     "tape": "^4.6.3"

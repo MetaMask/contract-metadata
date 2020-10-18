@@ -6,28 +6,30 @@ A mapping of checksummed ethereum addresses to metadata, like names, and images 
 
 All address keys follow the [EIP 55 address checksum format](https://github.com/ethereum/EIPs/issues/55).
 
-Submit PRs to add valid logos, and obviously valid logos will be merged.
+This repository is effectively frozen. We recommend that developers of new tokens use [EIP 747](https://docs.metamask.io/guide/registering-your-token.html) to ask the user's permission to display your tokens in their wallet. This reduces the dangers of airdrop-based phishing, and reduces administrative overhead from managing this list.
 
 ## Usage
 
 You can install from npm with `npm install eth-contract-metadata` and use it in your code like this:
 
 ```javascript
-const contractMap = require('eth-contract-metadata')
-const toChecksumAddress = require('ethereumjs-util').toChecksumAddress
+import contractMap from 'eth-contract-metadata'
+import ethJSUtil from 'ethereumjs-util'
+const { toChecksumAddress } = ethJSUtil
 
 function imageElFor (address) {
-  const metadata = iconMap[toChecksumAddress(address)]
-  if (!('logo' in metadata)) {
-    return false
+  const metadata = contractMap[toChecksumAddress(address)]
+  if (metadata?.logo) {
+    const fileName = metadata.logo
+    const path = `${__dirname}/images/contract/${fileName}`
+    const img = document.createElement('img')
+    img.src = path
+    img.style.width = '100%'
+    return img
   }
-  const fileName = metadata.logo
-  const path = `images/contract/${fileName}`
-  const img = document.createElement('img')
-  img.src = path
-  img.style.width = '100%'
-  return img
 }
+
+imageElFor ("0x06012c8cf97BEaD5deAe237070F9587f8E7A266d")
 ```
 
 ## Submission Process
@@ -39,13 +41,14 @@ Maintaining this list is a considerable chore, and it is not our highest priorit
 3. Add an entry to the `contract-map.json` file with the specified address as the key, and the image file's name as the value.
 
 Criteria:
+
 - The icon should be small, square, but high resolution, ideally a vector/svg.
 - Do not add your entry to the end of the JSON map, messing with the trailing comma. Your pull request should only be an addition of lines, and any line removals should be deliberate deprecations of those logos.
 - PR should include link to official project website referencing the suggested address.
 - Project website should include explanation of project.
 - Project should have clear signs of activity, either traffic on the network, activity on GitHub, or community buzz.
 - Nice to have a verified source code on a block explorer like Etherscan.
-- Must have a ['NEUTRAL' reputation or 'OK' reputation](https://etherscancom.freshdesk.com/support/solutions/articles/35000022146-etherscan-token-reputation-system) on Etherscan.
+- Must have a ['NEUTRAL' reputation or 'OK' reputation](https://info.etherscan.com/etherscan-token-reputation) on Etherscan.
 
 A sample submission:
 
@@ -64,4 +67,3 @@ Tokens should include a field `"erc20": true`, and can include additional fields
 - decimals (precision of the tokens stored)
 
 A full list of permitted fields can be found in the [permitted-fields.json](./permitted-fields.json) file.
-
