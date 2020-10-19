@@ -6,6 +6,13 @@
     "symbol": "SNTVT",
     "decimals": 18
   },
+  "0xa3d58c4E56fedCae3a7c43A725aeE9A71F0ece4e": {
+    "name": "Metronome",
+    "logo": "metronome.svg",
+    "erc20": true,
+    "symbol": "MET",
+    "decimals": 18
+  },
   "0x49d716DFe60b37379010A75329ae09428f17118d": {
     "name": "PoolTogether Dai",
     "logo": "pldai.svg",
@@ -1699,7 +1706,7 @@
     "symbol": "TOP",
     "decimals": 18
   },
-  "0x1D287CC25dAD7cCaF76a26bc660c5F7C8E2a05BD": {
+  "0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85": {
     "name": "FET",
     "logo": "fetch.png",
     "erc20": true,
@@ -1720,11 +1727,32 @@
     "symbol": "YFDOT",
     "decimals": 18
   },
+  "0x9F284E1337A815fe77D2Ff4aE46544645B20c5ff": {
+    "name": "Darwinia Commitment Token",
+    "logo": "kton.svg",
+    "erc20": true,
+    "symbol": "KTON",
+    "decimals": 18
+  },
+  "0xE48972fCd82a274411c01834e2f031D4377Fa2c0": {
+    "name": "TwoKeyEconomy",
+    "logo": "2key.svg",
+    "erc20": true,
+    "symbol": "2KEY",
+    "decimals": 18
+  },
   "0x0Ae055097C6d159879521C384F1D2123D1f195e6": {
     "name": "STAKE Token",
     "logo": "stake.png",
     "erc20": true,
     "symbol": "STAKE",
+    "decimals": 18
+  },
+  "0x9469D013805bFfB7D3DEBe5E7839237e535ec483": {
+    "name": "Darwinia Network Native Token",
+    "logo": "ring.svg",
+    "erc20": true,
+    "symbol": "RING",
     "decimals": 18
   },
   "0xA31B1767e09f842ECFd4bc471Fe44F830E3891AA": {
@@ -1769,6 +1797,13 @@
     "symbol": "PLR",
     "decimals": 18
   },
+  "0xba100000625a3754423978a60c9317c58a424e3D": {
+    "name": "Balancer (BAL)",
+    "logo": "balancer.svg",
+    "erc20": true,
+    "symbol": "BAL",
+    "decimals": 18
+  },
   "0x8a854288a5976036A725879164Ca3e91d30c6A1B": {
     "name": "Guaranteed Entrance Token",
     "logo": "get-logo.svg",
@@ -1781,6 +1816,27 @@
     "logo": "auc.svg",
     "erc20": true,
     "symbol": "AUC",
+    "decimals": 18
+   },
+    "0xdF574c24545E5FfEcb9a659c229253D4111d87e1": {
+    "name": "HUSD",
+    "logo": "HUSD.svg",
+    "erc20": true,
+    "symbol": "HUSD",
+    "decimals": 8
+  },
+  "0x2ecB13A8c458c379c4d9a7259e202De03c8F3D19": {
+    "name": "Block-Chain.com Token",
+    "logo": "block-chain.svg",
+    "erc20": true,
+    "symbol": "BC",
+    "decimals": 18
+  },
+  "0x38e4adB44ef08F22F5B5b76A8f0c2d0dCbE7DcA1": {
+    "name": "Concentrated Voting Power",
+    "logo": "PowerPool.svg",
+    "erc20": true,
+    "symbol": "CVP",
     "decimals": 18
   }
 }
