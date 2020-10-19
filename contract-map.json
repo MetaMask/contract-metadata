@@ -4,6 +4,8 @@
     "logo": "GAMECreditsLogo.svg",
     "erc20": true,
     "symbol": "GAME",
+    "decimals": 18
+  },
   "0xa3d58c4E56fedCae3a7c43A725aeE9A71F0ece4e": {
     "name": "Metronome",
     "logo": "metronome.svg",
