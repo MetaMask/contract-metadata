@@ -1,4 +1,11 @@
 {
+  "0x7865af71cf0b288b4E7F654f4F7851EB46a2B7F8": {
+    "name": "Sentivate",
+    "logo": "sentivate.svg",
+    "erc20": true,
+    "symbol": "SNTVT",
+    "decimals": 18
+  },
   "0xa3d58c4E56fedCae3a7c43A725aeE9A71F0ece4e": {
     "name": "Metronome",
     "logo": "metronome.svg",
