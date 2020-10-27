@@ -1,6 +1,6 @@
-# Ethereum Contract Metadata
+# @metamask/contract-metadata
 
-A mapping of checksummed ethereum addresses to metadata, like names, and images of those addresses' logos.
+A mapping of checksummed Ethereum contract addresses to metadata, like names, and images of their logos.
 
 All address keys follow the [EIP 55 address checksum format](https://github.com/ethereum/EIPs/issues/55).
 
