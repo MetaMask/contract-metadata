@@ -823,7 +823,7 @@
     "name": "Aragon Network Token v1",
     "logo": "antv1.svg",
     "erc20": true,
-    "symbol": "ANT (old)",
+    "symbol": "ANTv1",
     "decimals": 18
   },
   "0x667088b212ce3d06a1b553a7221E1fD19000d9aF": {
