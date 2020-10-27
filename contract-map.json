@@ -1664,13 +1664,6 @@
     "symbol": "SU",
     "decimals": 0
   },
-  "0xD0a4b8946Cb52f0661273bfbC6fD0E0C75Fc6433": {
-    "name": "Storm Token",
-    "logo": "storm.svg",
-    "erc20": true,
-    "symbol": "STORM",
-    "decimals": 18
-  },
   "0xbE9375C6a420D2eEB258962efB95551A5b722803": {
     "name": "StormX Token",
     "logo": "stormx.svg",
