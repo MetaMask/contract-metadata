@@ -1,4 +1,11 @@
 {
+  "0x178c820f862B14f316509ec36b13123DA19A6054": {
+    "name": "Energy Web Token Bridged",
+    "logo": "ewtb.svg",
+    "erc20": true,
+    "symbol": "EWTB",
+    "decimals": 18
+  },
   "0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39": {
     "name": "HEX",
     "logo": "hex.svg",
