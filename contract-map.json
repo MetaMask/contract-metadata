@@ -1860,6 +1860,13 @@
     "symbol": "CVP",
     "decimals": 18
   },
+  "0x4Cf89ca06ad997bC732Dc876ed2A7F26a9E7f361": {
+    "name": "Mysterium",
+    "logo": "myst.png",
+    "erc20": true,
+    "symbol": "MYST",
+    "decimals": 18
+  },
   "0xa117000000f279D81A1D3cc75430fAA017FA5A2e": {
     "name": "Aragon Network Token",
     "logo": "antv2.svg",
