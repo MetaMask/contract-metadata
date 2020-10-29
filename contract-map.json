@@ -1,4 +1,18 @@
 {
+  "0xF433089366899D83a9f26A773D59ec7eCF30355e": {
+    "name": "Metal",
+    "logo": "mtl.svg",
+    "erc20": true,
+    "symbol": "MTL",
+    "decimals": 8
+  },
+  "0xD7EFB00d12C2c13131FD319336Fdf952525dA2af": {
+    "name": "Proton",
+    "logo": "proton.svg",
+    "erc20": true,
+    "symbol": "XPR",
+    "decimals": 4
+  },
   "0x178c820f862B14f316509ec36b13123DA19A6054": {
     "name": "Energy Web Token Bridged",
     "logo": "ewtb.svg",
