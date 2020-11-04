@@ -14,6 +14,13 @@
     "symbol": "MTL",
     "decimals": 8
   },
+  "0x8dAEBADE922dF735c38C80C7eBD708Af50815fAa": {
+    "name": "tBTC",
+    "logo": "tbtc.svg",
+    "erc20": true,
+    "symbol": "TBTC",
+    "decimals": 18
+  },
   "0xD7EFB00d12C2c13131FD319336Fdf952525dA2af": {
     "name": "Proton",
     "logo": "proton.svg",
