@@ -1864,5 +1864,12 @@
     "erc20": true,
     "symbol": "ANT",
     "decimals": 18
+  },
+  "0x6e0dade58d2d89ebbe7afc384e3e4f15b70b14d8": {
+    "name": "QuiverX",
+    "logo": "quiverx.svg",
+    "erc20": true,
+    "symbol": "QRX",
+    "decimals": 18
   }
 }
