@@ -1726,10 +1726,17 @@
     "decimals": 18
   },
   "0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85": {
-    "name": "FET",
-    "logo": "fetch.png",
+    "name": "Fetch",
+    "logo": "fetch.svg",
     "erc20": true,
     "symbol": "FET",
+    "decimals": 18
+  },
+  "0x2e1E15C44Ffe4Df6a0cb7371CD00d5028e571d14": {
+    "name": "Mettalex",
+    "logo": "mettalex.svg",
+    "erc20": true,
+    "symbol": "MTLX",
     "decimals": 18
   },
   "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984": {
