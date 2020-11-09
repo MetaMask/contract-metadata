@@ -621,7 +621,7 @@
     "erc20": true,
     "symbol": "C10",
     "decimals": 18
-  },  
+  },
   "0x26E75307Fc0C021472fEb8F727839531F112f317": {
     "name": "Crypto20",
     "logo": "c20.svg",
@@ -1786,7 +1786,7 @@
     "logo": "zcrt.svg",
     "erc20": true,
     "symbol": "ZCRT",
-    "decimals": 18    
+    "decimals": 18
   },
   "0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6": {
     "name": "Dentacoin Token",
@@ -1865,11 +1865,18 @@
     "symbol": "ANT",
     "decimals": 18
   },
+  "0xDecade1c6Bf2cD9fb89aFad73e4a519C867adcF5": {
+    "name": "Experty Wisdom Token",
+    "logo": "wisdom-token.svg",
+    "erc20": true,
+    "symbol": "WIS",
+    "decimals": 18
+  },
   "0x6e0daDE58D2d89eBBe7aFc384e3E4f15b70b14D8": {
     "name": "QuiverX",
     "logo": "quiverx.svg",
     "erc20": true,
     "symbol": "QRX",
-    "decimals": 18
+    "decimals":18
   }
 }
