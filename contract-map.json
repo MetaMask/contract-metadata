@@ -1867,7 +1867,7 @@
   },
   "0xDecade1c6Bf2cD9fb89aFad73e4a519C867adcF5": {
     "name": "Experty Wisdom Token",
-    "logo": "wisdom-token.png",
+    "logo": "wisdom-token.svg",
     "erc20": true,
     "symbol": "WIS",
     "decimals": 18
