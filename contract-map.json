@@ -1,4 +1,67 @@
 {
+  "0x63f88A2298a5c4AEE3c216Aa6D926B184a4b2437": {
+    "name": "GAME Credits",
+    "logo": "GAMECreditsLogo.svg",
+    "erc20": true,
+    "symbol": "GAME",
+      "decimals": 18
+  },
+  "0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419": {
+    "name": "DIAdata",
+    "logo": "dia.svg",
+    "erc20": true,
+    "symbol": "DIA",
+    "decimals": 18
+  },
+  "0xF433089366899D83a9f26A773D59ec7eCF30355e": {
+    "name": "Metal",
+    "logo": "mtl.svg",
+    "erc20": true,
+    "symbol": "MTL",
+    "decimals": 8
+  },
+  "0x8dAEBADE922dF735c38C80C7eBD708Af50815fAa": {
+    "name": "tBTC",
+    "logo": "tbtc.svg",
+    "erc20": true,
+    "symbol": "TBTC",
+    "decimals": 18
+  },
+  "0xD7EFB00d12C2c13131FD319336Fdf952525dA2af": {
+    "name": "Proton",
+    "logo": "proton.svg",
+    "erc20": true,
+    "symbol": "XPR",
+    "decimals": 4
+  },
+  "0x178c820f862B14f316509ec36b13123DA19A6054": {
+    "name": "Energy Web Token Bridged",
+    "logo": "ewtb.svg",
+    "erc20": true,
+    "symbol": "EWTB",
+    "decimals": 18
+  },
+  "0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39": {
+    "name": "HEX",
+    "logo": "hex.svg",
+    "erc20": true,
+    "symbol": "HEX",
+    "decimals": 8
+  },
+  "0xFca59Cd816aB1eaD66534D82bc21E7515cE441CF": {
+    "name": "Rarible",
+    "logo": "rari.svg",
+    "erc20": true,
+    "symbol": "RARI",
+    "decimals": 18
+  },
+  "0x7865af71cf0b288b4E7F654f4F7851EB46a2B7F8": {
+    "name": "Sentivate",
+    "logo": "sentivate.svg",
+    "erc20": true,
+    "symbol": "SNTVT",
+    "decimals": 18
+  },
   "0xa3d58c4E56fedCae3a7c43A725aeE9A71F0ece4e": {
     "name": "Metronome",
     "logo": "metronome.svg",
@@ -558,7 +621,7 @@
     "erc20": true,
     "symbol": "C10",
     "decimals": 18
-  },  
+  },
   "0x26E75307Fc0C021472fEb8F727839531F112f317": {
     "name": "Crypto20",
     "logo": "c20.svg",
@@ -595,13 +658,6 @@
     "symbol": "MLN",
     "decimals": 18
   },
-  "0xCed1A8529125D1bD06B54a7B01210df357D00885": {
-    "name": "Too Real Badge",
-    "logo": "too-real.jpg",
-    "erc20": true,
-    "symbol": "TRL",
-    "decimals": 0
-  },
   "0xba2184520A1cC49a6159c57e61E1844E085615B6": {
     "name": "HelloGold Token",
     "logo": "hgt.png",
@@ -628,13 +684,6 @@
     "logo": "indorseLogo.jpg",
     "erc20": true,
     "symbol": "IND",
-    "decimals": 18
-  },
-  "0xC596bD09d652827b0106292D3e378D5938df4B12": {
-    "name": "Teleport Token",
-    "logo": "tpt.png",
-    "erc20": true,
-    "symbol": "TPT",
     "decimals": 18
   },
   "0xA54ddC7B3CcE7FC8b1E3Fa0256D0DB80D2c10970": {
@@ -792,10 +841,10 @@
     "decimals": 6
   },
   "0x960b236A07cf122663c4303350609A66A7B288C0": {
-    "name": "Aragon Network Token",
-    "logo": "aragon_isotype.svg",
+    "name": "Aragon Network Token v1",
+    "logo": "antv1.svg",
     "erc20": true,
-    "symbol": "ANT",
+    "symbol": "ANTv1",
     "decimals": 18
   },
   "0x667088b212ce3d06a1b553a7221E1fD19000d9aF": {
@@ -966,10 +1015,6 @@
     "symbol": "SIG",
     "decimals": 18
   },
-  "0xC526560cf6Ab1755a457248CB9E8669ec7F4B78C": {
-    "name": "Spectiv Crowdsale",
-    "logo": "spectiv.svg"
-  },
   "0x617b3f8050a0BD94b6b1da02B4384eE5B4DF13F4": {
     "name": "MetaMark",
     "logo": "metamark.svg",
@@ -1024,23 +1069,11 @@
     "decimals": 18
   },
   "0x056017c55aE7AE32d12AeF7C679dF83A85ca75Ff": {
-    "name": "WyvernToken",
+    "name": "Project Wyvern Token",
     "logo": "wyvern-logo.svg",
     "erc20": true,
     "symbol": "WYV",
     "decimals": 18
-  },
-  "0x17F68886d00845867C154C912b4cCc506EC92Fc7": {
-    "name": "WyvernDAO",
-    "logo": "wyvern-logo.svg"
-  },
-  "0xf14f06e227C015b398b8069314F4B8d1d7022c9e": {
-    "name": "WyvernExchange",
-    "logo": "wyvern-logo.svg"
-  },
-  "0xa4306692b00795f97010ec7237980141d08c6D56": {
-    "name": "WyvernProxyRegistry",
-    "logo": "wyvern-logo.svg"
   },
   "0xfec0cF7fE078a500abf15F1284958F22049c2C7e": {
     "name": "Maecenas ART Token",
@@ -1636,13 +1669,6 @@
     "symbol": "SU",
     "decimals": 0
   },
-  "0xD0a4b8946Cb52f0661273bfbC6fD0E0C75Fc6433": {
-    "name": "Storm Token",
-    "logo": "storm.svg",
-    "erc20": true,
-    "symbol": "STORM",
-    "decimals": 18
-  },
   "0xbE9375C6a420D2eEB258962efB95551A5b722803": {
     "name": "StormX Token",
     "logo": "stormx.svg",
@@ -1767,7 +1793,7 @@
     "logo": "zcrt.svg",
     "erc20": true,
     "symbol": "ZCRT",
-    "decimals": 18    
+    "decimals": 18
   },
   "0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6": {
     "name": "Dentacoin Token",
@@ -1830,6 +1856,27 @@
     "logo": "block-chain.svg",
     "erc20": true,
     "symbol": "BC",
+    "decimals": 18
+  },
+  "0x38e4adB44ef08F22F5B5b76A8f0c2d0dCbE7DcA1": {
+    "name": "Concentrated Voting Power",
+    "logo": "PowerPool.svg",
+    "erc20": true,
+    "symbol": "CVP",
+    "decimals": 18
+  },
+  "0xa117000000f279D81A1D3cc75430fAA017FA5A2e": {
+    "name": "Aragon Network Token",
+    "logo": "antv2.svg",
+    "erc20": true,
+    "symbol": "ANT",
+    "decimals": 18
+  },
+  "0xDecade1c6Bf2cD9fb89aFad73e4a519C867adcF5": {
+    "name": "Experty Wisdom Token",
+    "logo": "wisdom-token.svg",
+    "erc20": true,
+    "symbol": "WIS",
     "decimals": 18
   }
 }
