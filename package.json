@@ -1,8 +1,12 @@
 {
-  "name": "eth-contract-metadata",
+  "name": "@metamask/contract-metadata",
   "version": "1.17.0",
   "description": "A mapping of ethereum contract addresses to broadly accepted icons for those addresses.",
   "main": "index.js",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
   "scripts": {
     "test": "node test"
   },
