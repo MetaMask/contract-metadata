@@ -1,4 +1,11 @@
 {
+  "0xff56Cc6b1E6dEd347aA0B7676C85AB0B3D08B0FA": {
+    "name": "Orbs",
+    "logo": "orbs.svg",
+    "erc20": true,
+    "symbol": "ORBS",
+    "decimals": 18
+  },
   "0x63f88A2298a5c4AEE3c216Aa6D926B184a4b2437": {
     "name": "GAME Credits",
     "logo": "GAMECreditsLogo.svg",
