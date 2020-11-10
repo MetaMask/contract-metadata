@@ -1878,5 +1878,12 @@
     "erc20": true,
     "symbol": "WIS",
     "decimals": 18
+  },
+  "0xbaA70614C7AAfB568a93E62a98D55696bcc85DFE": {
+    "name": "UniCap.finance",
+    "logo": "unicap.svg",
+    "erc20": true,
+    "symbol": "UCAP",
+    "decimals": 18
   }
 }
