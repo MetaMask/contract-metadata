@@ -1,7 +1,7 @@
 { 
   "0x7240aC91f01233BaAf8b064248E80feaA5912BA3": {
     "name": "OctoFi",
-    "logo": "OctoFi.png",
+    "logo": "octo.svg",
     "erc20": true,
     "symbol": "OCTO",
     "decimals": 18
