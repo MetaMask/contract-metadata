@@ -1885,5 +1885,12 @@
     "erc20": true,
     "symbol": "WIS",
     "decimals": 18
+  },
+  "0xf21661D0D1d76d3ECb8e1B9F1c923DBfffAe4097": {
+    "name": "Realio Network",
+    "logo": "rio.svg",
+    "erc20": true,
+    "symbol": "RIO",
+    "decimals": 18
   }
 }
