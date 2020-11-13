@@ -1746,6 +1746,13 @@
     "symbol": "MTLX",
     "decimals": 18
   },
+  "0xf21661D0D1d76d3ECb8e1B9F1c923DBfffAe4097": {
+    "name": "Realio Network",
+    "logo": "rio.svg",
+    "erc20": true,
+    "symbol": "RIO",
+    "decimals": 18
+  },
   "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984": {
     "name": "Uniswap",
     "logo": "uni.svg",
@@ -1884,13 +1891,6 @@
     "logo": "wisdom-token.svg",
     "erc20": true,
     "symbol": "WIS",
-    "decimals": 18
-  },
-  "0xf21661D0D1d76d3ECb8e1B9F1c923DBfffAe4097": {
-    "name": "Realio Network",
-    "logo": "rio.svg",
-    "erc20": true,
-    "symbol": "RIO",
     "decimals": 18
   }
 }
