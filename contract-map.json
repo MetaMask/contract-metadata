@@ -573,19 +573,19 @@
     "decimals": 18,
     "symbol": "APPC"
   },
-  "0x69bbc3f8787d573f1bbdd0a5f40c7ba0aee9bcc9": {
-    "name": "YUP Token",
-    "logo": "yup-logo.png",
-    "erc20": true,
-    "symbol": "YUP",
-    "decimals": 18
-  },
   "0xdB25f211AB05b1c97D595516F45794528a807ad8": {
     "name": "STASIS EURS Token",
     "logo": "stasis-eurs.svg",
     "erc20": true,
     "decimals": 2,
     "symbol": "EURS"
+  },
+    "0x69bBC3F8787d573F1BBDd0a5f40C7bA0Aee9BCC9": {
+    "name": "Yup Token",
+    "logo": "yup-logo.svg",
+    "erc20": true,
+    "decimals": 18,
+    "symbol": "YUP"
   },
   "0xCA0e7269600d353F70b14Ad118A49575455C0f2f" :{
     "name": "AMLT",
