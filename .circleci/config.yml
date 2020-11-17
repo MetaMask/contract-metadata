@@ -4,7 +4,7 @@ aliases:
         npm install
 
 defaults: &defaults
-  working_directory: ~/eth-contract-metadata
+  working_directory: ~/contract-metadata
 
 version: 2
 jobs:

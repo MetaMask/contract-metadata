@@ -1,8 +1,6 @@
-# Ethereum Contract Metadata [![CircleCI](https://circleci.com/gh/MetaMask/eth-contract-metadata.svg?style=svg)](https://circleci.com/gh/MetaMask/eth-contract-metadata)
+# @metamask/contract-metadata
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/MetaMask/eth-contract-metadata.svg)](https://greenkeeper.io/)
-
-A mapping of checksummed ethereum addresses to metadata, like names, and images of those addresses' logos.
+A mapping of checksummed Ethereum contract addresses to metadata, like names, and images of their logos.
 
 All address keys follow the [EIP 55 address checksum format](https://github.com/ethereum/EIPs/issues/55).
 
@@ -10,10 +8,10 @@ This repository is effectively frozen. We recommend that developers of new token
 
 ## Usage
 
-You can install from npm with `npm install eth-contract-metadata` and use it in your code like this:
+You can install from npm with `npm install @metamask/contract-metadata` and use it in your code like this:
 
 ```javascript
-import contractMap from 'eth-contract-metadata'
+import contractMap from '@metamask/contract-metadata'
 import ethJSUtil from 'ethereumjs-util'
 const { toChecksumAddress } = ethJSUtil
 
