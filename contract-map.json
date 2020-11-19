@@ -4,6 +4,7 @@
     "logo": "octo.svg",
     "erc20": true,
     "symbol": "OCTO",
+    "decimals": 18
   },
   "0xff56Cc6b1E6dEd347aA0B7676C85AB0B3D08B0FA": {
     "name": "Orbs",
