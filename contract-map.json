@@ -1535,8 +1535,8 @@
     "decimals": 18
   },
     "0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c": {
-    "name": "EnjinCoin",
-    "logo": "enjin.png",
+    "name": "Enjin Coin",
+    "logo": "enj.svg",
     "erc20": true,
     "symbol": "ENJ",
     "decimals": 18
