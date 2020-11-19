@@ -1009,7 +1009,7 @@
     "decimals": 18
   },
   "0x408e41876cCCDC0F92210600ef50372656052a38": {
-    "name": "Republic Protocol",
+    "name": "Republic Token",
     "logo": "ren.svg",
     "erc20": true,
     "symbol": "REN",
