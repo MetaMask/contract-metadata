@@ -1,4 +1,11 @@
 { 
+  "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9": {
+    "name": "Aave",
+    "logo": "aave.svg",
+    "erc20": true,
+    "symbol": "AAVE",
+    "decimals": 18
+  },
   "0x7240aC91f01233BaAf8b064248E80feaA5912BA3": {
     "name": "OctoFi",
     "logo": "octo.svg",
