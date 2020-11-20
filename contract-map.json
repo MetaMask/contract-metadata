@@ -1902,7 +1902,7 @@
   },
   "0x7D85e23014F84E6E21d5663aCD8751bEF3562352": {
     "name": "Axion",
-    "logo": "axion.png",
+    "logo": "axion.svg",
     "erc20": true,
     "symbol": "AXN",
     "decimals": 18
