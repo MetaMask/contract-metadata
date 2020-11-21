@@ -1,4 +1,11 @@
-{ 
+{
+  "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9": {
+    "name": "Aave",
+    "logo": "aave.svg",
+    "erc20": true,
+    "symbol": "AAVE",
+    "decimals": 18
+  },
   "0x7DD9c5Cba05E151C895FDe1CF355C9A1D5DA6429": {
     "name": "Golem Network Token",
     "logo": "glm.svg",
