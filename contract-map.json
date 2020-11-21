@@ -1,4 +1,11 @@
 {
+  "0x557B933a7C2c45672B610F8954A3deB39a51A8Ca": {
+    "name": "REVV",
+    "logo": "revv.svg",
+    "erc20": true,
+    "symbol": "REVV",
+    "decimals": 18
+  },
   "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9": {
     "name": "Aave",
     "logo": "aave.svg",
