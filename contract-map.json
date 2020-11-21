@@ -1499,13 +1499,6 @@
     "symbol": "STAR",
     "decimals": 18
   },
-  "0xC17195bde49D70CefCF8A9F2ee1759FFC27BF0B1": {
-    "name": "Groocoin",
-    "logo": "groo.png",
-    "erc20": true,
-    "symbol": "GROO",
-    "decimals": 18
-  },
   "0x7C5A0CE9267ED19B22F8cae653F198e3E8daf098": {
     "name": "Santiment",
     "logo": "santiment.svg",
