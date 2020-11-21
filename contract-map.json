@@ -1,4 +1,11 @@
 {
+  "0x4E15361FD6b4BB609Fa63C81A2be19d873717870": {
+    "name": "Fantom",
+    "logo": "ftm.svg",
+    "erc20": true,
+    "symbol": "FTM",
+    "decimals": 18
+  },
   "0x557B933a7C2c45672B610F8954A3deB39a51A8Ca": {
     "name": "REVV",
     "logo": "revv.svg",
