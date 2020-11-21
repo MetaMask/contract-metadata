@@ -1654,13 +1654,6 @@
     "symbol": "OGO",
     "decimals": 18
   },
-  "0x7848ae8F19671Dc05966dafBeFbBbb0308BDfAbD": {
-    "name": "WednesdayCoin",
-    "logo": "wed.png",
-    "erc20": true,
-    "symbol": "WED",
-    "decimals": 18
-  },
   "0x0cB8D0B37C7487b11d57F1f33dEfA2B1d3cFccfE": {
     "name": "DANKToken",
     "logo": "dank-logo.svg",
