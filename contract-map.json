@@ -1029,13 +1029,6 @@
     "symbol": "SIG",
     "decimals": 18
   },
-  "0x617b3f8050a0BD94b6b1da02B4384eE5B4DF13F4": {
-    "name": "MetaMark",
-    "logo": "metamark.svg",
-    "erc20": true,
-    "decimals": 18,
-    "symbol": "META"
-  },
   "0x9a642d6b3368ddc662CA244bAdf32cDA716005BC": {
     "name": "Qtum",
     "logo": "qtum_28.png",
