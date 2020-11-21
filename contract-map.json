@@ -1429,7 +1429,7 @@
     "symbol": "BUSD",
     "decimals": 18
   },
-  "0x23Ccc43365D9dD3882eab88F43d515208f832430": {
+  "g": {
     "name": "MidasProtocol",
     "logo": "MAS.png",
     "erc20": true,
@@ -1652,13 +1652,6 @@
     "logo": "origo.svg",
     "erc20": true,
     "symbol": "OGO",
-    "decimals": 18
-  },
-  "0x7848ae8F19671Dc05966dafBeFbBbb0308BDfAbD": {
-    "name": "WednesdayCoin",
-    "logo": "wed.png",
-    "erc20": true,
-    "symbol": "WED",
     "decimals": 18
   },
   "0x0cB8D0B37C7487b11d57F1f33dEfA2B1d3cFccfE": {
