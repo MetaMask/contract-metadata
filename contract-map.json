@@ -169,7 +169,7 @@
   },
   "0xdAC17F958D2ee523a2206206994597C13D831ec7": {
     "name": "Tether USD",
-    "logo": "tether_usd.png",
+    "logo": "usdt.svg",
     "erc20": true,
     "symbol": "USDT",
     "decimals": 6
