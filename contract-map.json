@@ -1711,6 +1711,13 @@
     "symbol": "LGO",
     "decimals": 8
   },
+  "0xc8Cac7672f4669685817cF332a33Eb249F085475": {
+    "name": "LivenCoin",
+    "logo": "LVN.svg",
+    "erc20": true,
+    "symbol": "LVN",
+    "decimals": 18
+  },
   "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD": {
     "name": "Loopring",
     "logo": "LRC.svg",
