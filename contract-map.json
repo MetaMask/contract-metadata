@@ -1429,7 +1429,7 @@
     "symbol": "BUSD",
     "decimals": 18
   },
-  "g": {
+  "0x23Ccc43365D9dD3882eab88F43d515208f832430": {
     "name": "MidasProtocol",
     "logo": "MAS.png",
     "erc20": true,
