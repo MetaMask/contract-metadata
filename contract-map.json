@@ -1277,7 +1277,7 @@
   },
   "0xD850942eF8811f2A866692A623011bDE52a462C1": {
     "name": "VeChain",
-    "logo": "vechain.png",
+    "logo": "ven.svg",
     "erc20": true,
     "symbol": "VEN",
     "decimals": 18
