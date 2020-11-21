@@ -1,4 +1,32 @@
-{ 
+{
+  "0x4E15361FD6b4BB609Fa63C81A2be19d873717870": {
+    "name": "Fantom",
+    "logo": "ftm.svg",
+    "erc20": true,
+    "symbol": "FTM",
+    "decimals": 18
+  },
+  "0x557B933a7C2c45672B610F8954A3deB39a51A8Ca": {
+    "name": "REVV",
+    "logo": "revv.svg",
+    "erc20": true,
+    "symbol": "REVV",
+    "decimals": 18
+  },
+  "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9": {
+    "name": "Aave",
+    "logo": "aave.svg",
+    "erc20": true,
+    "symbol": "AAVE",
+    "decimals": 18
+  },
+  "0x7DD9c5Cba05E151C895FDe1CF355C9A1D5DA6429": {
+    "name": "Golem Network Token",
+    "logo": "glm.svg",
+    "erc20": true,
+    "symbol": "GLM",
+    "decimals": 18
+  },
   "0x7240aC91f01233BaAf8b064248E80feaA5912BA3": {
     "name": "OctoFi",
     "logo": "octo.svg",
@@ -113,7 +141,7 @@
   },
   "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e": {
     "name": "yearn.finance",
-    "logo": "yearn.svg",
+    "logo": "yfi.svg",
     "erc20": true,
     "symbol": "YFI",
     "decimals": 18
@@ -162,7 +190,7 @@
   },
   "0xdAC17F958D2ee523a2206206994597C13D831ec7": {
     "name": "Tether USD",
-    "logo": "tether_usd.png",
+    "logo": "usdt.svg",
     "erc20": true,
     "symbol": "USDT",
     "decimals": 6
@@ -519,7 +547,7 @@
   },
   "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942": {
     "name": "Decentraland",
-    "logo": "decentraland.png",
+    "logo": "mana.svg",
     "erc20": true,
     "symbol": "MANA",
     "decimals": 18
@@ -554,7 +582,7 @@
   },
   "0xE41d2489571d322189246DaFA5ebDe1F4699F498": {
     "name": "0x",
-    "logo": "0x.svg",
+    "logo": "zrx.svg",
     "erc20": true,
     "symbol": "ZRX",
     "decimals": 18
@@ -735,26 +763,12 @@
     "symbol": "CELR",
     "decimals": 18
   },
-  "0xD0b3462481C33F63a288cd1923e2A261EE65b4FF": {
-    "name": "EGO Badge",
-    "logo": "ego_badge.png",
-    "erc20": true,
-    "symbol": "EGO",
-    "decimals": 0
-  },
   "0x71D01dB8d6a2fBEa7f8d434599C237980C234e4C": {
     "name": "Gladius",
     "logo": "gladius.svg",
     "erc20": true,
     "symbol": "GLA",
     "decimals": 8
-  },
-  "0x86Fa049857E0209aa7D9e616F7eb3b3B78ECfdb0": {
-    "name": "EOS",
-    "logo": "eos-logo.jpeg",
-    "erc20": true,
-    "symbol": "EOS",
-    "decimals": 18
   },
   "0xdd974D5C2e2928deA5F71b9825b8b646686BD200": {
     "name": "Kyber Network Crystal",
@@ -912,7 +926,7 @@
   },
   "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2": {
     "name": "Maker",
-    "logo": "logo-maker-4.svg",
+    "logo": "mkr.svg",
     "erc20": true,
     "symbol": "MKR",
     "decimals": 18
@@ -947,7 +961,7 @@
   },
   "0x0D8775F648430679A709E98d2b0Cb6250d2887EF": {
     "name": "Basic Attention Token",
-    "logo": "BAT_icon.svg",
+    "logo": "bat.svg",
     "erc20": true,
     "symbol": "BAT",
     "decimals": 18
@@ -981,10 +995,17 @@
     "decimals": 18
   },
   "0x1985365e9f78359a9B6AD760e32412f4a445E862": {
-    "name": "Reputation",
-    "logo": "augur_logo.png",
+    "name": "Reputation Old",
+    "logo": "rep.svg",
     "erc20": true,
     "symbol": "REP",
+    "decimals": 18
+  },
+  "0x221657776846890989a759BA2973e427DfF5C9bB": {
+    "name": "Reputation",
+    "logo": "repv2.svg",
+    "erc20": true,
+    "symbol": "REPv2",
     "decimals": 18
   },
   "0xd0929d411954c47438dc1d871dd6081F5C5e149c": {
@@ -1009,7 +1030,7 @@
     "decimals": 18
   },
   "0x408e41876cCCDC0F92210600ef50372656052a38": {
-    "name": "Republic Protocol",
+    "name": "Republic Token",
     "logo": "ren.svg",
     "erc20": true,
     "symbol": "REN",
@@ -1028,13 +1049,6 @@
     "erc20": true,
     "symbol": "SIG",
     "decimals": 18
-  },
-  "0x617b3f8050a0BD94b6b1da02B4384eE5B4DF13F4": {
-    "name": "MetaMark",
-    "logo": "metamark.svg",
-    "erc20": true,
-    "decimals": 18,
-    "symbol": "META"
   },
   "0x9a642d6b3368ddc662CA244bAdf32cDA716005BC": {
     "name": "Qtum",
@@ -1074,13 +1088,6 @@
     "erc20": true,
     "decimals": 18,
     "symbol": "RVT"
-  },
-  "0x13f11C9905A08ca76e3e853bE63D4f0944326C72": {
-    "name": "Divi Exchange Token",
-    "logo": "divi.svg",
-    "erc20": true,
-    "symbol": "DIVX",
-    "decimals": 18
   },
   "0x056017c55aE7AE32d12AeF7C679dF83A85ca75Ff": {
     "name": "Project Wyvern Token",
@@ -1347,7 +1354,7 @@
   },
   "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48": {
     "name": "USD Coin",
-    "logo": "usdc.png",
+    "logo": "usdc.svg",
     "erc20": true,
     "symbol": "USDC",
     "decimals": 6
@@ -1410,7 +1417,7 @@
   },
   "0x0000000000085d4780B73119b644AE5ecd22b376": {
     "name": "TrueUSD",
-    "logo": "tusd.png",
+    "logo": "tusd.svg",
     "erc20": true,
     "symbol": "TUSD",
     "decimals": 18
@@ -1499,13 +1506,6 @@
     "symbol": "STAR",
     "decimals": 18
   },
-  "0xC17195bde49D70CefCF8A9F2ee1759FFC27BF0B1": {
-    "name": "Groocoin",
-    "logo": "groo.png",
-    "erc20": true,
-    "symbol": "GROO",
-    "decimals": 18
-  },
   "0x7C5A0CE9267ED19B22F8cae653F198e3E8daf098": {
     "name": "Santiment",
     "logo": "santiment.svg",
@@ -1535,8 +1535,8 @@
     "decimals": 18
   },
     "0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c": {
-    "name": "EnjinCoin",
-    "logo": "enjin.png",
+    "name": "Enjin Coin",
+    "logo": "enj.svg",
     "erc20": true,
     "symbol": "ENJ",
     "decimals": 18
@@ -1710,6 +1710,13 @@
     "erc20": true,
     "symbol": "LGO",
     "decimals": 8
+  },
+  "0xc8Cac7672f4669685817cF332a33Eb249F085475": {
+    "name": "LivenCoin",
+    "logo": "LVN.svg",
+    "erc20": true,
+    "symbol": "LVN",
+    "decimals": 18
   },
   "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD": {
     "name": "Loopring",
@@ -1898,6 +1905,13 @@
     "logo": "wisdom-token.svg",
     "erc20": true,
     "symbol": "WIS",
+    "decimals": 18
+  },
+  "0x7D85e23014F84E6E21d5663aCD8751bEF3562352": {
+    "name": "Axion",
+    "logo": "axion.svg",
+    "erc20": true,
+    "symbol": "AXN",
     "decimals": 18
   }
 }
