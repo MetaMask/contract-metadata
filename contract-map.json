@@ -1,4 +1,11 @@
 {
+  "0x82A77710495A35549D2aDD797412b4a4497D33eF": {
+    "name": "DOGZ",
+    "logo": "dogz.svg",
+    "erc20": true,
+    "symbol": "DOGZ",
+    "decimals": 18
+  },
   "0x4E15361FD6b4BB609Fa63C81A2be19d873717870": {
     "name": "Fantom",
     "logo": "ftm.svg",
