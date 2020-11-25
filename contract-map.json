@@ -1036,6 +1036,27 @@
     "symbol": "REN",
     "decimals": 18
   },
+  "0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D": {
+    "name": "renBTC",
+    "logo": "renBTC.svg",
+    "erc20": true,
+    "symbol": "renBTC",
+    "decimals": 8
+  },
+  "0x1C5db575E2Ff833E46a2E9864C22F4B22E0B37C2": {
+    "name": "renZEC",
+    "logo": "renZEC.svg",
+    "erc20": true,
+    "symbol": "renZEC",
+    "decimals": 8
+  },
+  "0x459086F2376525BdCebA5bDDA135e4E9d3FeF5bf": {
+    "name": "renBCH",
+    "logo": "renBCH.svg",
+    "erc20": true,
+    "symbol": "renBCH",
+    "decimals": 8
+  },
   "0xa74476443119A942dE498590Fe1f2454d7D4aC0d": {
     "name": "Golem Network Token",
     "logo": "golem.svg",
