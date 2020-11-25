@@ -1,10 +1,18 @@
 {
+
   "0x82A77710495A35549D2aDD797412b4a4497D33eF": {
     "name": "DOGZ",
     "logo": "dogz.svg",
     "erc20": true,
     "symbol": "DOGZ",
-      "decimals": 18
+    "decimals": 18
+    },
+  "0x998FFE1E43fAcffb941dc337dD0468d52bA5b48A": {
+    "name": "Rupiah Token",
+    "logo": "idrt.svg",
+    "erc20": true,
+    "symbol": "IDRT",
+    "decimals": 2
   },
   "0x4E15361FD6b4BB609Fa63C81A2be19d873717870": {
     "name": "Fantom",
@@ -1042,6 +1050,27 @@
     "erc20": true,
     "symbol": "REN",
     "decimals": 18
+  },
+  "0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D": {
+    "name": "renBTC",
+    "logo": "renBTC.svg",
+    "erc20": true,
+    "symbol": "renBTC",
+    "decimals": 8
+  },
+  "0x1C5db575E2Ff833E46a2E9864C22F4B22E0B37C2": {
+    "name": "renZEC",
+    "logo": "renZEC.svg",
+    "erc20": true,
+    "symbol": "renZEC",
+    "decimals": 8
+  },
+  "0x459086F2376525BdCebA5bDDA135e4E9d3FeF5bf": {
+    "name": "renBCH",
+    "logo": "renBCH.svg",
+    "erc20": true,
+    "symbol": "renBCH",
+    "decimals": 8
   },
   "0xa74476443119A942dE498590Fe1f2454d7D4aC0d": {
     "name": "Golem Network Token",
