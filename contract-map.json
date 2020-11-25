@@ -4,6 +4,13 @@
     "logo": "dogz.svg",
     "erc20": true,
     "symbol": "DOGZ",
+      "decimals": 18
+  },
+  "0x4E15361FD6b4BB609Fa63C81A2be19d873717870": {
+    "name": "Fantom",
+    "logo": "ftm.svg",
+    "erc20": true,
+    "symbol": "FTM",
     "decimals": 18
   },
   "0x557B933a7C2c45672B610F8954A3deB39a51A8Ca": {
@@ -414,7 +421,7 @@
   },
   "0xDDD460bBD9F79847ea08681563e8A9696867210C": {
     "name": "Spendcoin",
-    "logo": "SpendCoin.png",
+    "logo": "spnd.png",
     "erc20": true,
     "symbol": "SPND",
     "decimals": 18
@@ -762,13 +769,6 @@
     "erc20": true,
     "symbol": "CELR",
     "decimals": 18
-  },
-  "0xD0b3462481C33F63a288cd1923e2A261EE65b4FF": {
-    "name": "EGO Badge",
-    "logo": "ego_badge.png",
-    "erc20": true,
-    "symbol": "EGO",
-    "decimals": 0
   },
   "0x71D01dB8d6a2fBEa7f8d434599C237980C234e4C": {
     "name": "Gladius",
@@ -1284,7 +1284,7 @@
   },
   "0xD850942eF8811f2A866692A623011bDE52a462C1": {
     "name": "VeChain",
-    "logo": "vechain.png",
+    "logo": "ven.svg",
     "erc20": true,
     "symbol": "VEN",
     "decimals": 18
@@ -1661,13 +1661,6 @@
     "symbol": "OGO",
     "decimals": 18
   },
-  "0x7848ae8F19671Dc05966dafBeFbBbb0308BDfAbD": {
-    "name": "WednesdayCoin",
-    "logo": "wed.png",
-    "erc20": true,
-    "symbol": "WED",
-    "decimals": 18
-  },
   "0x0cB8D0B37C7487b11d57F1f33dEfA2B1d3cFccfE": {
     "name": "DANKToken",
     "logo": "dank-logo.svg",
@@ -1717,6 +1710,13 @@
     "erc20": true,
     "symbol": "LGO",
     "decimals": 8
+  },
+  "0xc8Cac7672f4669685817cF332a33Eb249F085475": {
+    "name": "LivenCoin",
+    "logo": "LVN.svg",
+    "erc20": true,
+    "symbol": "LVN",
+    "decimals": 18
   },
   "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD": {
     "name": "Loopring",
