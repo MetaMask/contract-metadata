@@ -1,4 +1,11 @@
 {
+  "0xE5CAeF4Af8780E59Df925470b050Fb23C43CA68C": {
+    "name": "Ferrum Network Token",
+    "logo": "frm.svg",
+    "erc20": true,
+    "symbol": "FRM",
+    "decimals": 6
+  },
   "0x557B933a7C2c45672B610F8954A3deB39a51A8Ca": {
     "name": "REVV",
     "logo": "revv.svg",
