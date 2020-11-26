@@ -1,12 +1,18 @@
 {
-
   "0x82A77710495A35549D2aDD797412b4a4497D33eF": {
     "name": "DOGZ",
     "logo": "dogz.svg",
     "erc20": true,
     "symbol": "DOGZ",
     "decimals": 18
-    },
+  },
+  "0xE5CAeF4Af8780E59Df925470b050Fb23C43CA68C": {
+    "name": "Ferrum Network Token",
+    "logo": "frm.svg",
+    "erc20": true,
+    "symbol": "FRM",
+    "decimals": 6
+  },
   "0x998FFE1E43fAcffb941dc337dD0468d52bA5b48A": {
     "name": "Rupiah Token",
     "logo": "idrt.svg",
