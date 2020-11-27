@@ -1,4 +1,11 @@
 {
+  "0x82A77710495A35549D2aDD797412b4a4497D33eF": {
+    "name": "DOGZ",
+    "logo": "dogz.svg",
+    "erc20": true,
+    "symbol": "DOGZ",
+    "decimals": 18
+  },
   "0x674C6Ad92Fd080e4004b2312b45f796a192D27a0": {
     "name": "Neutrino USD",
     "logo": "usdn.svg",
