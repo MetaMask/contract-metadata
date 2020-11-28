@@ -1477,7 +1477,7 @@
   },
   "0x66fD97a78d8854fEc445cd1C80a07896B0b4851f": {
     "name": "Lunch Money",
-    "logo": "LMY.png",
+    "logo": "LMY.svg",
     "erc20": true,
     "symbol": "LMY",
     "decimals": 18
