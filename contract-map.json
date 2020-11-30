@@ -1,4 +1,11 @@
 {
+  "0x310052769de50103600981a02bba373f0e812a0d": {
+    "name": "Defi DigitalNote",
+    "logo": "2XDN.svg",
+    "erc20": true,
+    "symbol": "2XDN",
+    "decimals": 8
+  },  
   "0x674C6Ad92Fd080e4004b2312b45f796a192D27a0": {
     "name": "Neutrino USD",
     "logo": "usdn.svg",
