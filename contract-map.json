@@ -1,4 +1,11 @@
 {
+  "0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7": {
+    "name": "SKALE",
+    "logo": "skl.svg",
+    "erc20": true,
+    "symbol": "SKL",
+    "decimals": 18
+  },
   "0x674C6Ad92Fd080e4004b2312b45f796a192D27a0": {
     "name": "Neutrino USD",
     "logo": "usdn.svg",
