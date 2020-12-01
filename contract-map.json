@@ -1767,6 +1767,13 @@
     "symbol": "RDN",
     "decimals": 18
   },
+  "0x66fD97a78d8854fEc445cd1C80a07896B0b4851f": {
+    "name": "Lunch Money",
+    "logo": "LMY.svg",
+    "erc20": true,
+    "symbol": "LMY",
+    "decimals": 18
+  },
   "0x679131F591B4f369acB8cd8c51E68596806c3916": {
     "name": "Trustlines Network Token",
     "logo": "TLN128.png",
