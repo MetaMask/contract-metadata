@@ -6,6 +6,13 @@
     "symbol": "2XDN",
     "decimals": 8
   },  
+  "0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7": {
+    "name": "SKALE",
+    "logo": "skl.svg",
+    "erc20": true,
+    "symbol": "SKL",
+    "decimals": 18
+  },
   "0x674C6Ad92Fd080e4004b2312b45f796a192D27a0": {
     "name": "Neutrino USD",
     "logo": "usdn.svg",
@@ -1085,6 +1092,13 @@
     "symbol": "renBCH",
     "decimals": 8
   },
+  "0xD5147bc8e386d91Cc5DBE72099DAC6C9b99276F5": {
+    "name": "renFIL",
+    "logo": "renFIL.svg",
+    "erc20": true,
+    "symbol": "renFIL",
+    "decimals": 18
+  },
   "0xa74476443119A942dE498590Fe1f2454d7D4aC0d": {
     "name": "Golem Network Token",
     "logo": "golem.svg",
@@ -1772,6 +1786,13 @@
     "logo": "raiden.svg",
     "erc20": true,
     "symbol": "RDN",
+    "decimals": 18
+  },
+  "0x66fD97a78d8854fEc445cd1C80a07896B0b4851f": {
+    "name": "Lunch Money",
+    "logo": "LMY.svg",
+    "erc20": true,
+    "symbol": "LMY",
     "decimals": 18
   },
   "0x679131F591B4f369acB8cd8c51E68596806c3916": {
