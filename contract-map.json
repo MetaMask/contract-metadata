@@ -1,4 +1,12 @@
 {
+  "0x6781a0f84c7e9e846dcb84a9a5bd49333067b104": {
+    "name": "ZAP TOKEN",
+    "logo": "zaplogo.png",
+    "erc20": true,
+    "symbol": "ZAP",
+    "decimals": 18
+  },
+  
   "0xff56Cc6b1E6dEd347aA0B7676C85AB0B3D08B0FA": {
     "name": "Orbs",
     "logo": "orbs.svg",
