@@ -1,4 +1,32 @@
 {
+  "0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7": {
+    "name": "SKALE",
+    "logo": "skl.svg",
+    "erc20": true,
+    "symbol": "SKL",
+    "decimals": 18
+  },
+  "0x674C6Ad92Fd080e4004b2312b45f796a192D27a0": {
+    "name": "Neutrino USD",
+    "logo": "usdn.svg",
+    "erc20": true,
+    "symbol": "USDN",
+    "decimals": 18
+  },
+  "0xE5CAeF4Af8780E59Df925470b050Fb23C43CA68C": {
+    "name": "Ferrum Network Token",
+    "logo": "frm.svg",
+    "erc20": true,
+    "symbol": "FRM",
+    "decimals": 6
+  },
+  "0x998FFE1E43fAcffb941dc337dD0468d52bA5b48A": {
+    "name": "Rupiah Token",
+    "logo": "idrt.svg",
+    "erc20": true,
+    "symbol": "IDRT",
+    "decimals": 2
+  },
   "0x4E15361FD6b4BB609Fa63C81A2be19d873717870": {
     "name": "Fantom",
     "logo": "ftm.svg",
@@ -1036,6 +1064,34 @@
     "symbol": "REN",
     "decimals": 18
   },
+  "0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D": {
+    "name": "renBTC",
+    "logo": "renBTC.svg",
+    "erc20": true,
+    "symbol": "renBTC",
+    "decimals": 8
+  },
+  "0x1C5db575E2Ff833E46a2E9864C22F4B22E0B37C2": {
+    "name": "renZEC",
+    "logo": "renZEC.svg",
+    "erc20": true,
+    "symbol": "renZEC",
+    "decimals": 8
+  },
+  "0x459086F2376525BdCebA5bDDA135e4E9d3FeF5bf": {
+    "name": "renBCH",
+    "logo": "renBCH.svg",
+    "erc20": true,
+    "symbol": "renBCH",
+    "decimals": 8
+  },
+  "0xD5147bc8e386d91Cc5DBE72099DAC6C9b99276F5": {
+    "name": "renFIL",
+    "logo": "renFIL.svg",
+    "erc20": true,
+    "symbol": "renFIL",
+    "decimals": 18
+  },
   "0xa74476443119A942dE498590Fe1f2454d7D4aC0d": {
     "name": "Golem Network Token",
     "logo": "golem.svg",
@@ -1725,6 +1781,13 @@
     "symbol": "RDN",
     "decimals": 18
   },
+  "0x66fD97a78d8854fEc445cd1C80a07896B0b4851f": {
+    "name": "Lunch Money",
+    "logo": "LMY.svg",
+    "erc20": true,
+    "symbol": "LMY",
+    "decimals": 18
+  },
   "0x679131F591B4f369acB8cd8c51E68596806c3916": {
     "name": "Trustlines Network Token",
     "logo": "TLN128.png",
@@ -1905,6 +1968,13 @@
     "logo": "axion.svg",
     "erc20": true,
     "symbol": "AXN",
+    "decimals": 18
+  },
+  "0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206": {
+    "name": "NEXO",
+    "logo": "NEXO.svg",
+    "erc20": true,
+    "symbol": "NEXO",
     "decimals": 18
   },
   "0x6e0daDE58D2d89eBBe7aFc384e3E4f15b70b14D8": {
