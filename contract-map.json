@@ -1976,5 +1976,12 @@
     "erc20": true,
     "symbol": "NEXO",
     "decimals": 18
+  },
+  "0xE9E73E1aE76D17A16cC53E3e87a9a7dA78834d37": {
+    "name": "Camp",
+    "logo": "Camp.svg",
+    "erc20": true,
+    "symbol": "CAMP",
+    "decimals": 18
   }
 }
