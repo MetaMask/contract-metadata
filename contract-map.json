@@ -20,13 +20,6 @@
     "symbol": "USDe",
     "decimals": 18
   },
-  "0xc642549743a93674cf38d6431f75d6443f88e3e2": {
-    "name": "Monerium ISK emoney",
-    "logo": "iske.svg",
-    "erc20": true,
-    "symbol": "ISKe",
-    "decimals": 18
-  },
   "0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7": {
     "name": "SKALE",
     "logo": "skl.svg",
