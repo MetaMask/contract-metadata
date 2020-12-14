@@ -42,143 +42,143 @@
       "decimals": 18
     },
     "0xFFC97d72E13E01096502Cb8Eb52dEe56f74DAD7B": {
-        "name": "aAave",
+        "name": "Aave AAVE",
         "logo": "aAAVE.png",
         "erc20": true,
-        "symbol": "AAAVE",
+        "symbol": "aAAVE",
         "decimals": 18
       },
     "0x05Ec93c0365baAeAbF7AefFb0972ea7ECdD39CF1": {
-        "name": "aBAT",
+        "name": "Aave BAT",
         "logo": "aBAT.png",
         "erc20": true,
-        "symbol": "ABAT",
+        "symbol": "aBAT",
         "decimals": 18
       },
     "0xA361718326c15715591c299427c62086F69923D9": {
-        "name": "aBUSD",
+        "name": "Aave BUSD",
         "logo": "aBUSD.png",
         "erc20": true,
-        "symbol": "ABUSD",
+        "symbol": "aBUSD",
         "decimals": 18
       },
     "0x028171bCA77440897B824Ca71D1c56caC55b68A3": {
-        "name": "aDAI",
+        "name": "Aave DAI",
         "logo": "aDAI.png",
         "erc20": true,
-        "symbol": "ADAI",
+        "symbol": "aDAI",
         "decimals": 18
       },
     "0xaC6Df26a590F08dcC95D5a4705ae8abbc88509Ef": {
-        "name": "aENJ",
+        "name": "Aave ENJ",
         "logo": "aENJ.png",
         "erc20": true,
-        "symbol": "AENJ",
+        "symbol": "aENJ",
         "decimals": 18
       },
     "0x39C6b3e42d6A679d7D776778Fe880BC9487C2EDA": {
-        "name": "aKNC",
+        "name": "Aave KNC",
         "logo": "aKNC.png",
         "erc20": true,
-        "symbol": "AKNC",
+        "symbol": "aKNC",
         "decimals": 18
       },
     "0xa06bC25B5805d5F8d82847D191Cb4Af5A3e873E0": {
-        "name": "aLINK",
+        "name": "Aave LINK",
         "logo": "aLINK.png",
         "erc20": true,
-        "symbol": "ALINK",
+        "symbol": "aLINK",
         "decimals": 18
       },
     "0xa685a61171bb30d4072B338c80Cb7b2c865c873E": {
-        "name": "aMANA",
+        "name": "Aave MANA",
         "logo": "aMANA.png",
         "erc20": true,
-        "symbol": "AMANA",
+        "symbol": "aMANA",
         "decimals": 18
       },
     "0xc713e5E149D5D0715DcD1c156a020976e7E56B88": {
-        "name": "aMKR",
+        "name": "Aave MKR",
         "logo": "aMKR.png",
         "erc20": true,
-        "symbol": "AMKR",
+        "symbol": "aMKR",
         "decimals": 18
       },
     "0xCC12AbE4ff81c9378D670De1b57F8e0Dd228D77a": {
-        "name": "aREN",
+        "name": "Aave REN",
         "logo": "aREN.png",
         "erc20": true,
-        "symbol": "AREN",
+        "symbol": "aREN",
         "decimals": 18
       },
     "0x35f6B052C598d933D69A4EEC4D04c73A191fE6c2": {
-        "name": "aSNX",
+        "name": "Aave SNX",
         "logo": "aSNX.png",
         "erc20": true,
-        "symbol": "ASNX",
+        "symbol": "aSNX",
         "decimals": 18
       },
     "0x6C5024Cd4F8A59110119C56f8933403A539555EB": {
-        "name": "aSUSD",
+        "name": "Aave SUSD",
         "logo": "aSUSD.png",
         "erc20": true,
-        "symbol": "ASUSD",
+        "symbol": "aSUSD",
         "decimals": 18
       },
     "0x101cc05f4A51C0319f570d5E146a8C625198e636": {
-        "name": "aTUSD",
+        "name": "Aave TUSD",
         "logo": "aTUSD.png",
         "erc20": true,
-        "symbol": "ATUSD",
+        "symbol": "aTUSD",
         "decimals": 18
       },
     "0xB9D7CB55f463405CDfBe4E90a6D2Df01C2B92BF1": {
-        "name": "aUNI",
+        "name": "Aave UNI",
         "logo": "aUNI.png",
         "erc20": true,
-        "symbol": "AUNI",
+        "symbol": "aUNI",
         "decimals": 18
       },
     "0xBcca60bB61934080951369a648Fb03DF4F96263C": {
-        "name": "aUSDC",
+        "name": "Aave USDC",
         "logo": "aUSDC.png",
         "erc20": true,
-        "symbol": "AUSDC",
-        "decimals": 18
+        "symbol": "aUSDC",
+        "decimals": 6
       },
     "0x3Ed3B47Dd13EC9a98b44e6204A523E766B225811": {
-        "name": "aUSDT",
+        "name": "Aave USDT",
         "logo": "aUSDT.png",
         "erc20": true,
-        "symbol": "AUSDT",
+        "symbol": "aUSDT",
         "decimals": 6
       },
     "0x9ff58f4fFB29fA2266Ab25e75e2A8b3503311656": {
-        "name": "aWBTC",
+        "name": "Aave WBTC",
         "logo": "aWBTC.png",
         "erc20": true,
-        "symbol": "AWBTC",
+        "symbol": "aWBTC",
         "decimals": 8
       },
     "0x030bA81f1c18d280636F32af80b9AAd02Cf0854e": {
-        "name": "aWETH",
+        "name": "Aave WETH",
         "logo": "aWETH.png",
         "erc20": true,
-        "symbol": "AWETH",
+        "symbol": "aWETH",
         "decimals": 18
       },
     "0x5165d24277cD063F5ac44Efd447B27025e888f37": {
-        "name": "aYFI",
+        "name": "Aave YFI",
         "logo": "aYFI.png",
         "erc20": true,
-        "symbol": "AYFI",
+        "symbol": "aYFI",
         "decimals": 18
       },
     "0xDf7FF54aAcAcbFf42dfe29DD6144A69b629f8C9e": {
-        "name": "aZRX",
+        "name": "Aave ZRX",
         "logo": "aZRX.png",
         "erc20": true,
-        "symbol": "AZRX",
+        "symbol": "aZRX",
         "decimals": 18
       },
     "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9": {
@@ -192,7 +192,7 @@
         "name": "Staked Aave",
         "logo": "StkAave.png",
         "erc20": true,
-        "symbol": "STKAAVE",
+        "symbol": "stkAAVE",
         "decimals": 18
       },
     "0x7DD9c5Cba05E151C895FDe1CF355C9A1D5DA6429": {
