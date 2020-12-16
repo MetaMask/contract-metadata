@@ -1,7 +1,7 @@
 { 
 "0x6781a0F84c7E9e846DCb84A9a5bd49333067b104": {
     "name": "ZAP TOKEN",
-    "logo": "zaplogo.svg",
+    "logo": "zapicon.svg",
     "erc20": true,
     "symbol": "ZAP",
   },
