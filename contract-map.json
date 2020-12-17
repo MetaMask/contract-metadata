@@ -517,6 +517,13 @@
     "symbol": "GOLD",
     "decimals": 18
   },
+  "0x82f4dED9Cec9B5750FBFf5C2185AEe35AfC16587": {
+    "name": "DreamTeam Token",
+    "logo": "dream.svg",
+    "erc20": true,
+    "symbol": "DREAM",
+    "decimals": 6
+  },
   "0x5d60d8d7eF6d37E16EBABc324de3bE57f135e0BC": {
     "name": "MyBit",
     "logo": "MYB.svg",
