@@ -2137,5 +2137,12 @@
     "erc20": true,
     "symbol": "CAMP",
     "decimals": 18
+   },
+  "0xdacD69347dE42baBfAEcD09dC88958378780FB62": {
+    "name": "Atari Token",
+    "logo": "atrilast.svg",
+    "erc20": true,
+    "symbol": "ATRI",
+    "decimals": 0
   }
 }
