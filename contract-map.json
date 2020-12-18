@@ -1,5 +1,12 @@
 { 
-"0x6781a0F84c7E9e846DCb84A9a5bd49333067b104": {
+  "0x433d86336dB759855A66cCAbe4338313a8A7fc77": {
+    "name": "INDA",
+    "logo": "INDA.svg",
+    "erc20": true,
+    "symbol": "INDA",
+    "decimals": 2
+  },
+  "0x6781a0F84c7E9e846DCb84A9a5bd49333067b104": {
     "name": "ZAP TOKEN",
     "logo": "zapicon.svg",
     "erc20": true,
