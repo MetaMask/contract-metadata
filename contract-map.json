@@ -1,4 +1,11 @@
-{
+{ 
+"0x6781a0F84c7E9e846DCb84A9a5bd49333067b104": {
+    "name": "ZAP TOKEN",
+    "logo": "zapicon.svg",
+    "erc20": true,
+    "symbol": "ZAP",
+    "decimals": 18
+  },
   "0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7": {
     "name": "SKALE",
     "logo": "skl.svg",
