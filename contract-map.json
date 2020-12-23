@@ -1,5 +1,12 @@
-{ 
-"0x6781a0F84c7E9e846DCb84A9a5bd49333067b104": {
+{
+  "0x44197A4c44D6A059297cAf6be4F7e172BD56Caaf": {
+    "name": "ELTCOIN",
+    "logo": "ELTCOIN.svg",
+    "erc20": true,
+    "symbol": "ELT",
+    "decimals": 8
+  }, 
+  "0x6781a0F84c7E9e846DCb84A9a5bd49333067b104": {
     "name": "ZAP TOKEN",
     "logo": "zapicon.svg",
     "erc20": true,
