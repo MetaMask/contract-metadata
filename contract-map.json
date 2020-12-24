@@ -1,4 +1,12 @@
 { 
+  {
+  "0x44197A4c44D6A059297cAf6be4F7e172BD56Caaf": {
+    "name": "ELTCOIN",
+    "logo": "ELTCOIN.svg",
+    "erc20": true,
+    "symbol": "ELT",
+    "decimals": 8
+  },
   "0x433d86336dB759855A66cCAbe4338313a8A7fc77": {
     "name": "INDA",
     "logo": "INDA.svg",
