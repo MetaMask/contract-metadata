@@ -5,8 +5,7 @@
     "erc20": true,
     "symbol": "PLOT",
     "decimals": 18
-  }, 
-{
+  },
   "0x44197A4c44D6A059297cAf6be4F7e172BD56Caaf": {
     "name": "ELTCOIN",
     "logo": "ELTCOIN.svg",
