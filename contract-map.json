@@ -2142,7 +2142,7 @@
     "name": "Axion Old",
     "logo": "axion-old.svg",
     "erc20": true,
-    "symbol": "AXN",
+    "symbol": "AXNv1",
     "decimals": 18
   },
   "0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206": {
