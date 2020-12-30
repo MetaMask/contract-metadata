@@ -2146,10 +2146,10 @@
     "decimals": 18
   },
   "0x7D85e23014F84E6E21d5663aCD8751bEF3562352": {
-    "name": "Axion",
-    "logo": "axion.svg",
+    "name": "Axion Old",
+    "logo": "obsolete.svg",
     "erc20": true,
-    "symbol": "AXN",
+    "symbol": "AXNv1",
     "decimals": 18
   },
   "0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206": {
@@ -2172,5 +2172,12 @@
     "erc20": true,
     "symbol": "ATRI",
     "decimals": 0
+  },
+  "0x71F85B2E46976bD21302B64329868fd15eb0D127": {
+    "name": "Axion",
+    "logo": "axion.svg",
+    "erc20": true,
+    "symbol": "AXN",
+    "decimals": 18
   }
 }
