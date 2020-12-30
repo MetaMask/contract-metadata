@@ -258,6 +258,13 @@
     "symbol": "MTL",
     "decimals": 8
   },
+  "0x85Eee30c52B0b379b046Fb0F85F4f3Dc3009aFEC": {
+    "name": "KEEP",
+    "logo": "keep.svg",
+    "erc20": true,
+    "symbol": "KEEP",
+    "decimals": 18
+  },
   "0x8dAEBADE922dF735c38C80C7eBD708Af50815fAa": {
     "name": "tBTC",
     "logo": "tbtc.svg",
