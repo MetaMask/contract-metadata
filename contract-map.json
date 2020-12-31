@@ -1,4 +1,11 @@
 {
+  "0xFbEEa1C75E4c4465CB2FCCc9c6d6afe984558E20": {
+    "name": "DuckDaoDime",
+    "logo": "ddim.svg",
+    "erc20": true,
+    "symbol": "DDIM",
+    "decimals": 18
+  },
   "0x72F020f8f3E8fd9382705723Cd26380f8D0c66Bb": {
     "name": "PlotX",
     "logo": "plotx.svg",
