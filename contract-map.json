@@ -1,4 +1,11 @@
 {
+    "0xa1afffe3f4d611d252010e3eaf6f4d77088b0cd7": {
+    "name": "Reflect Finance",
+    "logo": "RFI.png",
+    "erc20": true,
+    "symbol": "RFI",
+    "decimals": 9
+  },
   "0x72F020f8f3E8fd9382705723Cd26380f8D0c66Bb": {
     "name": "PlotX",
     "logo": "plotx.svg",
