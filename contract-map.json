@@ -27,6 +27,27 @@
     "symbol": "ISKe",
     "decimals": 18
   },
+  "0x66a0f676479Cee1d7373f3DC2e2952778BfF5bd6": {
+    "name": "WISE Token",
+    "logo": "wise.svg",
+    "erc20": true,
+    "symbol": "WISE",
+    "decimals": 18
+  },
+  "0x72F020f8f3E8fd9382705723Cd26380f8D0c66Bb": {
+    "name": "PlotX",
+    "logo": "plotx.svg",
+    "erc20": true,
+    "symbol": "PLOT",
+    "decimals": 18
+  },
+  "0x44197A4c44D6A059297cAf6be4F7e172BD56Caaf": {
+    "name": "ELTCOIN",
+    "logo": "ELTCOIN.svg",
+    "erc20": true,
+    "symbol": "ELT",
+    "decimals": 8
+  }, 
   "0x6781a0F84c7E9e846DCb84A9a5bd49333067b104": {
     "name": "ZAP TOKEN",
     "logo": "zapicon.svg",
@@ -278,6 +299,13 @@
     "erc20": true,
     "symbol": "MTL",
     "decimals": 8
+  },
+  "0x85Eee30c52B0b379b046Fb0F85F4f3Dc3009aFEC": {
+    "name": "KEEP",
+    "logo": "keep.svg",
+    "erc20": true,
+    "symbol": "KEEP",
+    "decimals": 18
   },
   "0x8dAEBADE922dF735c38C80C7eBD708Af50815fAa": {
     "name": "tBTC",
@@ -2160,10 +2188,10 @@
     "decimals": 18
   },
   "0x7D85e23014F84E6E21d5663aCD8751bEF3562352": {
-    "name": "Axion",
-    "logo": "axion.svg",
+    "name": "Axion Old",
+    "logo": "obsolete.svg",
     "erc20": true,
-    "symbol": "AXN",
+    "symbol": "AXNv1",
     "decimals": 18
   },
   "0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206": {
@@ -2186,5 +2214,12 @@
     "erc20": true,
     "symbol": "ATRI",
     "decimals": 0
+  },
+  "0x71F85B2E46976bD21302B64329868fd15eb0D127": {
+    "name": "Axion",
+    "logo": "axion.svg",
+    "erc20": true,
+    "symbol": "AXN",
+    "decimals": 18
   }
 }
