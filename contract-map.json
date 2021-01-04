@@ -1,4 +1,11 @@
 {
+  "0x66a0f676479Cee1d7373f3DC2e2952778BfF5bd6": {
+    "name": "WISE Token",
+    "logo": "wise.svg",
+    "erc20": true,
+    "symbol": "WISE",
+    "decimals": 18
+  },
   "0x72F020f8f3E8fd9382705723Cd26380f8D0c66Bb": {
     "name": "PlotX",
     "logo": "plotx.svg",
