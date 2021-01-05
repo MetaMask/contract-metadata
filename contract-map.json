@@ -1,4 +1,32 @@
 {
+  "0x3231Cb76718CDeF2155FC47b5286d82e6eDA273f": {
+    "name": "Monerium EUR",
+    "logo": "EURe.svg",
+    "erc20": true,
+    "symbol": "EURe",
+    "decimals": 18
+  },
+  "0x7ba92741Bf2A568abC6f1D3413c58c6e0244F8fD": {
+    "name": "Monerium GBP",
+    "logo": "GBPe.svg",
+    "erc20": true,
+    "symbol": "GBPe",
+    "decimals": 18
+  },
+  "0xBc5142e0CC5eB16b47c63B0f033d4c2480853a52": {
+    "name": "Monerium USD",
+    "logo": "USDe.svg",
+    "erc20": true,
+    "symbol": "USDe",
+    "decimals": 18
+  },
+  "0xC642549743A93674cf38D6431f75d6443F88E3E2": {
+    "name": "Monerium ISK",
+    "logo": "ISKe.svg",
+    "erc20": true,
+    "symbol": "ISKe",
+    "decimals": 18
+  },
   "0x66a0f676479Cee1d7373f3DC2e2952778BfF5bd6": {
     "name": "WISE Token",
     "logo": "wise.svg",
