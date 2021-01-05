@@ -1,4 +1,18 @@
 {
+  "0xC0bA369c8Db6eB3924965e5c4FD0b4C1B91e305F": {
+    "name": "DLP Duck Token",
+    "logo": "dlpducktoken.svg",
+    "erc20": true,
+    "symbol": "DUCK",
+    "decimals": 18
+  },
+  "0xFbEEa1C75E4c4465CB2FCCc9c6d6afe984558E20": {
+    "name": "DuckDaoDime",
+    "logo": "ddim.svg",
+    "erc20": true,
+    "symbol": "DDIM",
+    "decimals": 18
+  },
   "0x3231Cb76718CDeF2155FC47b5286d82e6eDA273f": {
     "name": "Monerium EUR",
     "logo": "EURe.svg",
