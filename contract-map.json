@@ -1,4 +1,11 @@
 {
+  "0x3fa400483487A489EC9b1dB29C4129063EEC4654": {
+    "name": "Cryptokek.com",
+    "logo": "cryptokek.svg",
+    "erc20": true,
+    "symbol": "KEK",
+    "decimals": 18
+  },
   "0xC0bA369c8Db6eB3924965e5c4FD0b4C1B91e305F": {
     "name": "DLP Duck Token",
     "logo": "dlpducktoken.svg",
