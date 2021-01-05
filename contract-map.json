@@ -2193,5 +2193,12 @@
     "erc20": true,
     "symbol": "AXN",
     "decimals": 18
+  },
+  "0xc944E90C64B2c07662A292be6244BDf05Cda44a7": {
+    "name": "Graph Token",
+    "logo": "graphToken.svg",
+    "erc20": true,
+    "symbol": "GRT",
+    "decimals": 18
   }
 }
