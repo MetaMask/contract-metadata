@@ -1,4 +1,11 @@
 {
+  "0xA1AFFfE3F4D611d252010E3EAf6f4D77088b0cd7": {
+    "name": "Reflect Finance",
+    "logo": "RFI.svg",
+    "erc20": true,
+    "symbol": "RFI",
+    "decimals": 9
+  },
   "0xC0bA369c8Db6eB3924965e5c4FD0b4C1B91e305F": {
     "name": "DLP Duck Token",
     "logo": "dlpducktoken.svg",
