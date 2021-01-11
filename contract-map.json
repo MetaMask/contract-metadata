@@ -1862,7 +1862,7 @@
   },
   "0x4Cf89ca06ad997bC732Dc876ed2A7F26a9E7f361": {
     "name": "Mysterium",
-    "logo": "myst.png",
+    "logo": "myst.svg",
     "erc20": true,
     "symbol": "MYST",
     "decimals": 18
