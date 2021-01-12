@@ -405,6 +405,13 @@
     "symbol": "PLUSDC",
     "decimals": 6
   },
+  "0x28cb7e841ee97947a86B06fA4090C8451f64c0be": {
+    "name": "YF Link",
+    "logo": "YFL.svg",
+    "erc20": true,
+    "symbol": "YFL",
+    "decimals": 18
+  },
   "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e": {
     "name": "yearn.finance",
     "logo": "yfi.svg",
