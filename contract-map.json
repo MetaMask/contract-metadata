@@ -2257,6 +2257,20 @@
     "symbol": "GRT",
     "decimals": 18
   },
+  "0x43Dfc4159D86F3A37A5A4B3D4580b888ad7d4DDd": {
+    "name": "DODO bird",
+    "logo": "DODO.svg",
+    "erc20": true,
+    "symbol": "DODO",
+    "decimals": 18
+  },
+  "0x111111111117dC0aa78b770fA6A738034120C302": {
+    "name": "1INCH Token",
+    "logo": "1inch.svg",
+    "erc20": true,
+    "symbol": "1INCH",
+    "decimals": 18
+  },
   "0x6e0daDE58D2d89eBBe7aFc384e3E4f15b70b14D8": {
     "name": "QuiverX",
     "logo": "quiverx.svg",
