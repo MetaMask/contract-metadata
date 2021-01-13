@@ -2256,5 +2256,12 @@
     "erc20": true,
     "symbol": "GRT",
     "decimals": 18
+  },
+  "0x43Dfc4159D86F3A37A5A4B3D4580b888ad7d4DDd": {
+    "name": "DODO bird",
+    "logo": "DODO.svg",
+    "erc20": true,
+    "symbol": "DODO",
+    "decimals": 18
   }
 }
