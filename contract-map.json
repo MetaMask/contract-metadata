@@ -1984,6 +1984,13 @@
     "symbol": "SU",
     "decimals": 0
   },
+  "0xfA5047c9c78B8877af97BDcb85Db743fD7313d4a": {
+    "name": "ROOK",
+    "logo": "Rook.svg",
+    "erc20": true,
+    "symbol": "ROOK",
+    "decimals": 18
+  },
   "0xbE9375C6a420D2eEB258962efB95551A5b722803": {
     "name": "StormX Token",
     "logo": "stormx.svg",
