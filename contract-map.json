@@ -2277,5 +2277,12 @@
     "erc20": true,
     "symbol": "1INCH",
     "decimals": 18
+  },
+  "0x32a7C02e79c4ea1008dD6564b35F131428673c41": {
+    "name": "CRUST",
+    "logo": "crust.svg",
+    "erc20": true,
+    "symbol": "CRU",
+    "decimals": 18
   }
 }
