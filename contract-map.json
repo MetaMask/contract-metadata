@@ -2263,5 +2263,12 @@
     "erc20": true,
     "symbol": "DODO",
     "decimals": 18
+  },
+  "0x111111111117dC0aa78b770fA6A738034120C302": {
+    "name": "1INCH Token",
+    "logo": "1inch.svg",
+    "erc20": true,
+    "symbol": "1INCH",
+    "decimals": 18
   }
 }
