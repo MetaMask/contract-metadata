@@ -2277,5 +2277,12 @@
     "erc20": true,
     "symbol": "1INCH",
     "decimals": 18
+  },
+  "0x27702a26126e0b3702af63ee09ac4d1a084ef628": {
+    "name": "Aleph.im Token",
+    "logo": "aleph.svg",
+    "erc20": true,
+    "symbol": "ALEPH",
+    "decimals": 18
   }
 }
