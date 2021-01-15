@@ -1984,6 +1984,13 @@
     "symbol": "SU",
     "decimals": 0
   },
+  "0xfA5047c9c78B8877af97BDcb85Db743fD7313d4a": {
+    "name": "ROOK",
+    "logo": "Rook.svg",
+    "erc20": true,
+    "symbol": "ROOK",
+    "decimals": 18
+  },
   "0xbE9375C6a420D2eEB258962efB95551A5b722803": {
     "name": "StormX Token",
     "logo": "stormx.svg",
@@ -2269,6 +2276,13 @@
     "logo": "1inch.svg",
     "erc20": true,
     "symbol": "1INCH",
+    "decimals": 18
+  },
+  "0x32a7C02e79c4ea1008dD6564b35F131428673c41": {
+    "name": "CRUST",
+    "logo": "crust.svg",
+    "erc20": true,
+    "symbol": "CRU",
     "decimals": 18
   },
   "0x6e0daDE58D2d89eBBe7aFc384e3E4f15b70b14D8": {
