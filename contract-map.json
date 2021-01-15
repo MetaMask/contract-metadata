@@ -2284,5 +2284,12 @@
     "erc20": true,
     "symbol": "CRU",
     "decimals": 18
+  },
+  "0x968F6f898a6Df937fC1859b323aC2F14643e3fED": {
+    "name": "Newscrypto",
+    "logo": "NWC.svg",
+    "erc20": true,
+    "symbol": "NWC",
+    "decimals": 18
   }
 }
