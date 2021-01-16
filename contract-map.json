@@ -2278,6 +2278,13 @@
     "symbol": "1INCH",
     "decimals": 18
   },
+  "0x27702a26126e0B3702af63Ee09aC4d1A084EF628": {
+    "name": "Aleph.im Token",
+    "logo": "aleph.svg",
+    "erc20": true,
+    "symbol": "ALEPH",
+    "decimals": 18
+  },
   "0x32a7C02e79c4ea1008dD6564b35F131428673c41": {
     "name": "CRUST",
     "logo": "crust.svg",
