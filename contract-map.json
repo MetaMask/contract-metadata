@@ -2305,5 +2305,12 @@
     "erc20": true,
     "symbol": "CRU",
     "decimals": 18
+  },
+  "0xdcb01cc464238396e213a6fdd933e36796eaff9f": {
+    "name": "Yield",
+    "logo": "yield-logo.svg",
+    "erc20": true,
+    "symbol": "YLD",
+    "decimals": 18
   }
 }
