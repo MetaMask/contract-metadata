@@ -2306,7 +2306,7 @@
     "symbol": "CRU",
     "decimals": 18
   },
-  "0xdcb01cc464238396e213a6fdd933e36796eaff9f": {
+  "0xDcB01cc464238396E213a6fDd933E36796eAfF9f": {
     "name": "Yield",
     "logo": "yield-logo.svg",
     "erc20": true,
