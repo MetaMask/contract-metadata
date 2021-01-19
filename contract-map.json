@@ -503,6 +503,13 @@
     "symbol": "UPX",
     "decimals": 18
   },
+  "0xb1CD6e4153B2a390Cf00A6556b0fC1458C4A5533": {
+    "name": "ETHBNT Liquidity Pool",
+    "logo": "ETHBNT.svg",
+    "erc20": true,
+    "symbol": "ETHBNT",
+    "decimals": 18
+  },
   "0xf0Ee6b27b759C9893Ce4f094b49ad28fd15A23e4": {
     "name": "Enigma",
     "logo": "enigma.svg",
