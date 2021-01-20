@@ -414,7 +414,7 @@
   },
    "0x69A95185ee2a045CDC4bCd1b1Df10710395e4e23": {
     "name": "$Poolz Finance",
-    "logo": "Poolz.svg",
+    "logo": "Poolz.png",
     "erc20": true,
     "symbol": "POOLZ",
     "decimals": 18
