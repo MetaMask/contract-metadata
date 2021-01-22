@@ -1,4 +1,11 @@
-{
+{ 
+  "0xbC396689893D065F41bc2C6EcbeE5e0085233447":{
+    "name": "Perpetual",
+    "logo": "PERP.svg",
+    "erc20": true,
+    "symbol": "PERP",
+    "decimals": 18
+  },
   "0xA1AFFfE3F4D611d252010E3EAf6f4D77088b0cd7": {
     "name": "Reflect Finance",
     "logo": "RFI.svg",
