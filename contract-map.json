@@ -2340,5 +2340,12 @@
     "erc20": true,
     "symbol": "USDx",
     "decimals": 18
+  },
+  "0x43044f861ec040db59a7e324c40507addb673142": {
+    "name": "CAP",
+    "logo": "CAP.svg",
+    "erc20": true,
+    "symbol": "CAP",
+    "decimals": 18
   }
 }
