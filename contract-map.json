@@ -860,6 +860,13 @@
     "symbol": "STORJ",
     "decimals": 8
   },
+  "0xD8E3FB3b08eBA982F2754988d70D57eDc0055ae6": {
+    "name": "Zoracles",
+    "logo": "ZORA.svg",
+    "erc20": true,
+    "symbol": "ZORA",
+    "decimals": 9
+  },
   "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942": {
     "name": "Decentraland",
     "logo": "mana.svg",
