@@ -1,4 +1,11 @@
-{
+{ 
+  "0xbC396689893D065F41bc2C6EcbeE5e0085233447":{
+    "name": "Perpetual",
+    "logo": "PERP.svg",
+    "erc20": true,
+    "symbol": "PERP",
+    "decimals": 18
+  },
   "0xA1AFFfE3F4D611d252010E3EAf6f4D77088b0cd7": {
     "name": "Reflect Finance",
     "logo": "RFI.svg",
@@ -279,13 +286,6 @@
     "symbol": "stAAVE",
     "decimals": 18
   },
-  "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03": {
-    "name": "Aave (old)",
-    "logo": "lend.svg",
-    "erc20": true,
-    "symbol": "LEND",
-    "decimals": 18
-  },
   "0xba9d4199faB4f26eFE3551D490E3821486f135Ba": {
     "name": "SwissBorg",
     "logo": "chsb.svg",
@@ -419,6 +419,13 @@
     "symbol": "PLUSDC",
     "decimals": 6
   },
+   "0x69A95185ee2a045CDC4bCd1b1Df10710395e4e23": {
+    "name": "$Poolz Finance",
+    "logo": "Poolz.svg",
+    "erc20": true,
+    "symbol": "POOLZ",
+    "decimals": 18
+  },
   "0x28cb7e841ee97947a86B06fA4090C8451f64c0be": {
     "name": "YF Link",
     "logo": "YFL.svg",
@@ -501,6 +508,13 @@
     "logo": "UPX.svg",
     "erc20": true,
     "symbol": "UPX",
+    "decimals": 18
+  },
+  "0xb1CD6e4153B2a390Cf00A6556b0fC1458C4A5533": {
+    "name": "ETHBNT Liquidity Pool",
+    "logo": "ETHBNT.svg",
+    "erc20": true,
+    "symbol": "ETHBNT",
     "decimals": 18
   },
   "0xf0Ee6b27b759C9893Ce4f094b49ad28fd15A23e4": {
@@ -600,6 +614,13 @@
     "erc20": true,
     "symbol": "ADX",
     "decimals": 18
+  },
+  "0xDc5864eDe28BD4405aa04d93E05A0531797D9D59": {
+    "name": "Falcon",
+    "logo": "fnt.svg",
+    "erc20": true,
+    "symbol": "FNT",
+    "decimals": 6
   },
   "0x1966d718A565566e8E202792658D7b5Ff4ECe469": {
     "name": "nDEX",
@@ -1905,6 +1926,13 @@
     "symbol": "OGN",
     "decimals": 18
   },
+  "0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86": {
+    "name": "Origin Dollar",
+    "logo": "ousd.svg",
+    "erc20": true,
+    "symbol": "OUSD",
+    "decimals": 18
+  },
   "0x8f8221aFbB33998d8584A2B05749bA73c37a938a": {
     "name": "Request",
     "logo": "request.svg",
@@ -2311,6 +2339,13 @@
     "logo": "yield-logo.svg",
     "erc20": true,
     "symbol": "YLD",
+    "decimals": 18
+  },
+  "0xeb269732ab75A6fD61Ea60b06fE994cD32a83549": {
+    "name": "dForce USDx",
+    "logo": "USDx.svg",
+    "erc20": true,
+    "symbol": "USDx",
     "decimals": 18
   }
 }
