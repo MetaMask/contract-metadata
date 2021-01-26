@@ -2305,13 +2305,12 @@
     "erc20": true,
     "symbol": "CRU",
     "decimals": 18
-  }
-  
+  },
    "0x6652048fa5e66ed63a0225ffd7c82e106b0aa18b": {
     "name": "Yetucoin",
     "logo": "YETU.svg",
     "erc20": true,
     "symbol": "YETU",
     "decimals": 18
-  } 
+  }, 
 }
