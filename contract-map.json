@@ -6,6 +6,13 @@
     "symbol": "PERP",
     "decimals": 18
   },
+  "0xeca82185adCE47f39c684352B0439f030f860318":{
+    "name": "Perlin",
+    "logo": "PERL.svg",
+    "erc20": true,
+    "symbol": "PERL",
+    "decimals": 18
+  },
   "0xA1AFFfE3F4D611d252010E3EAf6f4D77088b0cd7": {
     "name": "Reflect Finance",
     "logo": "RFI.svg",
