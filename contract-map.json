@@ -1,4 +1,12 @@
 { 
+  "0xcdeee767bed58c5325f68500115d4b722b3724ee":{
+    "name": "Carnin",
+    "logo": "PERP.svg",
+    "erc20": true,
+    "symbol": "PERP",
+    "decimals": 18
+  },
+{ 
   "0xbC396689893D065F41bc2C6EcbeE5e0085233447":{
     "name": "Perpetual",
     "logo": "PERP.svg",
@@ -469,10 +477,10 @@
     "decimals": 12
   },
   "0x4575f41308EC1483f3d399aa9a2826d74Da13Deb": {
-    "name": "Orchid",
-    "logo": "OXT.svg",
+    "name": "Carbon",
+    "logo": "crbn.svg",
     "erc20": true,
-    "symbol": "OXT",
+    "symbol": "CRBN",
     "decimals": 18
   },
   "0x4CC19356f2D37338b9802aa8E8fc58B0373296E7": {
