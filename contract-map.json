@@ -96,7 +96,7 @@
     "erc20": true,
     "symbol": "ELT",
     "decimals": 8
-  }, 
+  },
   "0x6781a0F84c7E9e846DCb84A9a5bd49333067b104": {
     "name": "ZAP TOKEN",
     "logo": "zapicon.svg",
@@ -2325,6 +2325,13 @@
     "logo": "graphToken.svg",
     "erc20": true,
     "symbol": "GRT",
+    "decimals": 18
+  },
+  "0xFE3E6a25e6b192A42a44ecDDCd13796471735ACf": {
+    "name": "Reef Finance",
+    "logo": "reef.svg",
+    "erc20": true,
+    "symbol": "REEF",
     "decimals": 18
   },
   "0x43Dfc4159D86F3A37A5A4B3D4580b888ad7d4DDd": {
