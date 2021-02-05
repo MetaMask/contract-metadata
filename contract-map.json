@@ -447,6 +447,34 @@
     "symbol": "YFL",
     "decimals": 18
   },
+  "0x75D1aA733920b14fC74c9F6e6faB7ac1EcE8482E": {
+    "name": "YFLink Staking Share",
+    "logo": "YFL.svg",
+    "erc20": true,
+    "symbol": "yYFL",
+    "decimals": 18
+  },
+  "0x7b760D06E401f85545F3B50c44bf5B05308b7b62": {
+    "name": "YFLink USD",
+    "logo": "YFLUSD.svg",
+    "erc20": true,
+    "symbol": "YFLUSD",
+    "decimals": 18
+  },
+  "0x8282df223AC402d04B2097d16f758Af4F70e7Db0": {
+    "name": "YFLink Synthetic",
+    "logo": "sYFL.svg",
+    "erc20": true,
+    "symbol": "sYFL",
+    "decimals": 18
+  },
+  "0x008377EB0C62cE8e0BA3D7Bb4A5638591f21588E": {
+    "name": "YFLink Bond",
+    "logo": "bYFL.svg",
+    "erc20": true,
+    "symbol": "bYFL",
+    "decimals": 18
+  },
   "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e": {
     "name": "yearn.finance",
     "logo": "yfi.svg",
