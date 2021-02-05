@@ -1429,8 +1429,8 @@
     "symbol": "CAT"
   },
   "0x7d4b8Cce0591C9044a22ee543533b72E976E36C3": {
-    "name": "Change Coin",
-    "logo": "change.png",
+    "name": "Change",
+    "logo": "change.svg",
     "erc20": true,
     "decimals": 18,
     "symbol": "CAG"
