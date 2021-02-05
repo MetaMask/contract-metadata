@@ -5,7 +5,8 @@
     "erc20": true,
     "symbol": "DDX",
     "decimals": 18
-{ 
+  },
+  { 
   "0xbC396689893D065F41bc2C6EcbeE5e0085233447":{
     "name": "Perpetual",
     "logo": "PERP.svg",
