@@ -2362,6 +2362,13 @@
     "symbol": "CRU",
     "decimals": 18
   },
+  "0xDcB01cc464238396E213a6fDd933E36796eAfF9f": {
+    "name": "Yield",
+    "logo": "yield-logo.svg",
+    "erc20": true,
+    "symbol": "YLD",
+    "decimals": 18
+  },
   "0xeb269732ab75A6fD61Ea60b06fE994cD32a83549": {
     "name": "dForce USDx",
     "logo": "USDx.svg",
