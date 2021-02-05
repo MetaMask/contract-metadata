@@ -1,4 +1,11 @@
-{ 
+{
+  "0x3A880652F47bFaa771908C07Dd8673A787dAEd3A": {
+    "name": "DerivaDAO",
+    "logo": "DDX.svg",
+    "erc20": true,
+    "symbol": "DDX",
+    "decimals": 18
+  },
   "0xbC396689893D065F41bc2C6EcbeE5e0085233447":{
     "name": "Perpetual",
     "logo": "PERP.svg",
