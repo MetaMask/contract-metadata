@@ -1716,6 +1716,13 @@
     "symbol": "GUSD",
     "decimals": 2
   },
+  "0xA4Bdb11dc0a2bEC88d24A3aa1E6Bb17201112eBe": {
+    "name": "StableUSD",
+    "logo": "usds.svg",
+    "erc20": true,
+    "symbol": "USDS",
+    "decimals": 6
+  },
   "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48": {
     "name": "USD Coin",
     "logo": "usdc.svg",
