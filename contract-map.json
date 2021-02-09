@@ -1,4 +1,11 @@
 {
+  "0xA4EED63db85311E22dF4473f87CcfC3DaDCFA3E3": {
+    "name": "Rubic",
+    "logo": "Rubic.svg",
+    "erc20": true,
+    "symbol": "RBC",
+    "decimals": 18
+  },
   "0x3A880652F47bFaa771908C07Dd8673A787dAEd3A": {
     "name": "DerivaDAO",
     "logo": "DDX.svg",
