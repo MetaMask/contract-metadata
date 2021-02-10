@@ -129,7 +129,9 @@
     "name": "Wrapped Mirror VIXY Token",
     "logo": "mVIXY.svg",
     "erc20": true,
-    "symbol": "mVIXY",
+    "symbol": "mVIXY"
+    "decimals": 18
+  },
   "0xA4EED63db85311E22dF4473f87CcfC3DaDCFA3E3": {
     "name": "Rubic",
     "logo": "Rubic.svg",
