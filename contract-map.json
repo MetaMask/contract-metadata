@@ -85,7 +85,7 @@
   },
   "0x41BbEDd7286dAab5910a1f15d12CBda839852BD7": {
     "name": "Wrapped Mirror MSFT Token",
-    "logo": "DDX.svg",
+    "logo": "mMSFT.svg",
     "erc20": true,
     "symbol": "mMSFT",
     "decimals": 18
@@ -106,14 +106,14 @@
   },
   "0x1d350417d9787E000cc1b95d70E9536DcD91F373": {
     "name": "Wrapped Mirror IAU Token",
-    "logo": "DDX.svg",
+    "logo": "mIAU.svg",
     "erc20": true,
     "symbol": "mIAU",
     "decimals": 18
   },
   "0x9d1555d8cB3C846Bb4f7D5B1B1080872c3166676": {
     "name": "Wrapped Mirror SLV Token",
-    "logo": "DDX.svg",
+    "logo": "mSLV.svg",
     "erc20": true,
     "symbol": "mSLV",
     "decimals": 18
