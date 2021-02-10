@@ -6,19 +6,19 @@
 "symbol": "LUNA",
 "decimals": 18
   },
-"0xa47c8bf37f92aBed4A126BDA807A7b7498661acD": {
-    "name": "Wrapped UST Token",
-    "logo": "UST.svg",
-    "erc20": true,
-    "symbol": "UST",
-    "decimals": 18
+  "0xa47c8bf37f92aBed4A126BDA807A7b7498661acD": {
+      "name": "Wrapped UST Token",
+      "logo": "UST.svg",
+      "erc20": true,
+      "symbol": "UST",
+      "decimals": 18
   },
-"0xcAAfF72A8CbBfc5Cf343BA4e26f65a257065bFF1": {
-    "name": "Wrapped KRT Token",
-    "logo": "KRT.svg",
-    "erc20": true,
-    "symbol": "KRT",
-    "decimals": 18
+  "0xcAAfF72A8CbBfc5Cf343BA4e26f65a257065bFF1": {
+      "name": "Wrapped KRT Token",
+      "logo": "KRT.svg",
+      "erc20": true,
+      "symbol": "KRT",
+      "decimals": 18
   },
   "0x676Ad1b33ae6423c6618C1AEcf53BAa29cf39EE5": {
     "name": "Wrapped SDT Token",
