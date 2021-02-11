@@ -1,4 +1,11 @@
 {
+  "0xcdeee767bed58c5325f68500115d4b722b3724ee": {
+    "name": "Carbon",
+    "logo": "CRBN.svg",
+    "erc20": true,
+    "symbol": "CRBN",
+    "decimals": 18
+  },
   "0xA4EED63db85311E22dF4473f87CcfC3DaDCFA3E3": {
     "name": "Rubic",
     "logo": "Rubic.svg",
