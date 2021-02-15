@@ -1,4 +1,32 @@
 {
+  "0xA4EED63db85311E22dF4473f87CcfC3DaDCFA3E3": {
+    "name": "Rubic",
+    "logo": "Rubic.svg",
+    "erc20": true,
+    "symbol": "RBC",
+    "decimals": 18
+  },
+  "0x3A880652F47bFaa771908C07Dd8673A787dAEd3A": {
+    "name": "DerivaDAO",
+    "logo": "DDX.svg",
+    "erc20": true,
+    "symbol": "DDX",
+    "decimals": 18
+  },
+  "0xbC396689893D065F41bc2C6EcbeE5e0085233447":{
+    "name": "Perpetual",
+    "logo": "PERP.svg",
+    "erc20": true,
+    "symbol": "PERP",
+    "decimals": 18
+  },
+  "0xeca82185adCE47f39c684352B0439f030f860318":{
+    "name": "Perlin",
+    "logo": "PERL.svg",
+    "erc20": true,
+    "symbol": "PERL",
+    "decimals": 18
+  },
   "0xA1AFFfE3F4D611d252010E3EAf6f4D77088b0cd7": {
     "name": "Reflect Finance",
     "logo": "RFI.svg",
@@ -75,7 +103,7 @@
     "erc20": true,
     "symbol": "ELT",
     "decimals": 8
-  }, 
+  },
   "0x6781a0F84c7E9e846DCb84A9a5bd49333067b104": {
     "name": "ZAP TOKEN",
     "logo": "zapicon.svg",
@@ -412,11 +440,46 @@
     "symbol": "PLUSDC",
     "decimals": 6
   },
+   "0x69A95185ee2a045CDC4bCd1b1Df10710395e4e23": {
+    "name": "$Poolz Finance",
+    "logo": "Poolz.svg",
+    "erc20": true,
+    "symbol": "POOLZ",
+    "decimals": 18
+  },
   "0x28cb7e841ee97947a86B06fA4090C8451f64c0be": {
     "name": "YF Link",
     "logo": "YFL.svg",
     "erc20": true,
     "symbol": "YFL",
+    "decimals": 18
+  },
+  "0x75D1aA733920b14fC74c9F6e6faB7ac1EcE8482E": {
+    "name": "YFLink Staking Share",
+    "logo": "YFL.svg",
+    "erc20": true,
+    "symbol": "yYFL",
+    "decimals": 18
+  },
+  "0x7b760D06E401f85545F3B50c44bf5B05308b7b62": {
+    "name": "YFLink USD",
+    "logo": "YFLUSD.svg",
+    "erc20": true,
+    "symbol": "YFLUSD",
+    "decimals": 18
+  },
+  "0x8282df223AC402d04B2097d16f758Af4F70e7Db0": {
+    "name": "YFLink Synthetic",
+    "logo": "sYFL.svg",
+    "erc20": true,
+    "symbol": "sYFL",
+    "decimals": 18
+  },
+  "0x008377EB0C62cE8e0BA3D7Bb4A5638591f21588E": {
+    "name": "YFLink Bond",
+    "logo": "bYFL.svg",
+    "erc20": true,
+    "symbol": "bYFL",
     "decimals": 18
   },
   "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e": {
@@ -845,6 +908,13 @@
     "erc20": true,
     "symbol": "STORJ",
     "decimals": 8
+  },
+  "0xD8E3FB3b08eBA982F2754988d70D57eDc0055ae6": {
+    "name": "Zoracles",
+    "logo": "ZORA.svg",
+    "erc20": true,
+    "symbol": "ZORA",
+    "decimals": 9
   },
   "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942": {
     "name": "Decentraland",
@@ -1394,8 +1464,8 @@
     "symbol": "CAT"
   },
   "0x7d4b8Cce0591C9044a22ee543533b72E976E36C3": {
-    "name": "Change Coin",
-    "logo": "change.png",
+    "name": "Change",
+    "logo": "change.svg",
     "erc20": true,
     "decimals": 18,
     "symbol": "CAG"
@@ -1680,6 +1750,13 @@
     "erc20": true,
     "symbol": "GUSD",
     "decimals": 2
+  },
+  "0xA4Bdb11dc0a2bEC88d24A3aa1E6Bb17201112eBe": {
+    "name": "StableUSD",
+    "logo": "usds.svg",
+    "erc20": true,
+    "symbol": "USDS",
+    "decimals": 6
   },
   "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48": {
     "name": "USD Coin",
@@ -2292,6 +2369,13 @@
     "symbol": "GRT",
     "decimals": 18
   },
+  "0xFE3E6a25e6b192A42a44ecDDCd13796471735ACf": {
+    "name": "Reef Finance",
+    "logo": "reef.svg",
+    "erc20": true,
+    "symbol": "REEF",
+    "decimals": 18
+  },
   "0x43Dfc4159D86F3A37A5A4B3D4580b888ad7d4DDd": {
     "name": "DODO bird",
     "logo": "DODO.svg",
@@ -2320,12 +2404,12 @@
     "symbol": "CRU",
     "decimals": 18
   },
-  "0x6e0daDE58D2d89eBBe7aFc384e3E4f15b70b14D8": {
-    "name": "QuiverX",
-    "logo": "quiverx.svg",
+  "0xDcB01cc464238396E213a6fDd933E36796eAfF9f": {
+    "name": "Yield",
+    "logo": "yield-logo.svg",
     "erc20": true,
-    "symbol": "QRX",
-    "decimals":18
+    "symbol": "YLD",
+    "decimals": 18
   },
   "0xeb269732ab75A6fD61Ea60b06fE994cD32a83549": {
     "name": "dForce USDx",
@@ -2333,5 +2417,12 @@
     "erc20": true,
     "symbol": "USDx",
     "decimals": 18
+  },
+  "0x6e0daDE58D2d89eBBe7aFc384e3E4f15b70b14D8": {
+    "name": "QuiverX",
+    "logo": "quiverx.svg",
+    "erc20": true,
+    "symbol": "QRX",
+    "decimals":18
   }
 }
