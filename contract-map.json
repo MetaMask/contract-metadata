@@ -2347,7 +2347,7 @@
     "erc20": true,
     "symbol": "CAMP",
     "decimals": 18
-   },
+  },
   "0xdacD69347dE42baBfAEcD09dC88958378780FB62": {
     "name": "Atari Token",
     "logo": "atrilast.svg",
@@ -2417,5 +2417,12 @@
     "erc20": true,
     "symbol": "USDx",
     "decimals": 18
+  },
+  "0x6e0daDE58D2d89eBBe7aFc384e3E4f15b70b14D8": {
+    "name": "QuiverX",
+    "logo": "quiverx.svg",
+    "erc20": true,
+    "symbol": "QRX",
+    "decimals":18
   }
 }
