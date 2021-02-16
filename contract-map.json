@@ -2350,7 +2350,7 @@
     },
     "0xC980be019F2ac10A1C96F964b971A5F44551D318": {
         "name": "Bitfarmings",
-        "logo": "BFI.png",
+        "logo": "BFI.svg",
         "erc20": true,
         "symbol": "BFI",
         "decimals": 18
