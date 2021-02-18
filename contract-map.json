@@ -1,4 +1,11 @@
 {
+  "0x6d52dfefb16bb9cdc78bfca09061e44574886626": {
+    "name": "CPUcoin",
+    "logo": "CPUcoin.png",
+    "erc20": true,
+    "symbol": "CPU",
+    "decimals": 18
+  },
   "0xA4EED63db85311E22dF4473f87CcfC3DaDCFA3E3": {
     "name": "Rubic",
     "logo": "Rubic.svg",
