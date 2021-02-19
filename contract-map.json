@@ -132,6 +132,13 @@
     "symbol": "mVIXY",
     "decimals": 18
   },
+   "0xCdeee767beD58c5325f68500115d4B722b3724EE": {
+    "name": "Carbon",
+    "logo": "CRBN.svg",
+    "erc20": true,
+    "symbol": "CRBN",
+    "decimals": 18
+  }, 
   "0xA4EED63db85311E22dF4473f87CcfC3DaDCFA3E3": {
     "name": "Rubic",
     "logo": "Rubic.svg",
@@ -2480,7 +2487,7 @@
     "erc20": true,
     "symbol": "CAMP",
     "decimals": 18
-   },
+  },
   "0xdacD69347dE42baBfAEcD09dC88958378780FB62": {
     "name": "Atari Token",
     "logo": "atrilast.svg",
@@ -2550,5 +2557,12 @@
     "erc20": true,
     "symbol": "USDx",
     "decimals": 18
+  },
+  "0x6e0daDE58D2d89eBBe7aFc384e3E4f15b70b14D8": {
+    "name": "QuiverX",
+    "logo": "quiverx.svg",
+    "erc20": true,
+    "symbol": "QRX",
+    "decimals":18
   }
 }
