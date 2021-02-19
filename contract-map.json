@@ -1,7 +1,7 @@
 {
 "0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9": {
 "name": "Wrapped LUNA Token",
-"logo": "Luna.png",
+"logo": "Luna.svg",
 "erc20": true,
 "symbol": "LUNA",
 "decimals": 18
