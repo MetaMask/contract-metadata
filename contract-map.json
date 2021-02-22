@@ -2431,5 +2431,12 @@
     "erc20": true,
     "symbol": "QRX",
     "decimals":18
+  },
+  "0xcE593a29905951E8Fc579bC092ecA72577dA575c": {
+    "name": "GROM",
+    "logo": "GROM.png",
+    "erc20": true,
+    "symbol": "GR",
+    "decimals":6
   }
 }
