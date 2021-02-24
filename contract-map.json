@@ -2431,5 +2431,12 @@
     "erc20": true,
     "symbol": "QRX",
     "decimals":18
+  },
+  "0x0beAD9a1bcc1b84D06E3f2df67E3549Fd55aB054": {
+    "name": "EURxb",
+    "logo": "eurxb.svg",
+    "erc20": true,
+    "symbol": "EURxb",
+    "decimals": 18
   }
 }
