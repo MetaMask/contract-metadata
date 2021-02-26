@@ -1,0 +1,28 @@
+const tokenAddress = '0xC980be019F2ac10A1C96F964b971A5F44551D318';
+const tokenSymbol = 'BFI';
+const tokenDecimals = 18;
+const tokenImage = ' https://bitfarmings.com/logo256x256.png?v=1 ';
+
+try {
+// wasAdded là một boolean. Giống như bất kỳ phương pháp RPC nào, có thể xảy ra lỗi.
+const wasAdded = await ethereum.request ({
+method: 'wallet_watchAsset',
+params: {
+type: 'ERC20', // Ban đầu chỉ hỗ trợ ERC20, nhưng cuối cùng nhiều hơn!
+options: {
+address: tokenAddress, // Địa chỉ mà mã thông báo là tại.
+ký hiệu: tokenSymbol, // Biểu tượng mã hoặc viết tắt, tối đa 5 ký tự.
+thập phân: tokenDecimals, // Số lượng thập phân trong
+hình ảnh mã thông báo : tokenImage, // Url chuỗi của biểu trưng mã thông báo
+},
+},
+} );
+
+if (wasAdded) {
+console.log ('Cảm ơn bạn đã quan tâm!');
+} else {
+console.log ('Tổn thất của bạn!');
+}
+} catch (error) {
+console.log (error);
+}
