@@ -1,11 +1,18 @@
 {
-   "0xCdeee767beD58c5325f68500115d4B722b3724EE": {
+   "0x947AEb02304391f8fbE5B25D7D98D649b57b1788": {
+    "name": "Mandala Exchange Token",
+    "logo": "mandala.svg",
+    "erc20": true,
+    "symbol": "MDX",
+    "decimals": 18
+  }, 
+  "0xCdeee767beD58c5325f68500115d4B722b3724EE": {
     "name": "Carbon",
     "logo": "CRBN.svg",
     "erc20": true,
     "symbol": "CRBN",
     "decimals": 18
-  }, 
+  },
   "0xA4EED63db85311E22dF4473f87CcfC3DaDCFA3E3": {
     "name": "Rubic",
     "logo": "Rubic.svg",
