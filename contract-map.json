@@ -2438,5 +2438,12 @@
     "erc20": true,
     "symbol": "QRX",
     "decimals":18
+  },
+  "0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4": {
+    "name": "Route",
+    "logo": "route.svg",
+    "erc20": true,
+    "symbol": "ROUTE",
+    "decimals":18
   }
 }
