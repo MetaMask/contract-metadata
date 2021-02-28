@@ -2438,5 +2438,12 @@
     "erc20": true,
     "symbol": "QRX",
     "decimals":18
+  },
+  "0x6Ef5febbD2A56FAb23f18a69d3fB9F4E2A70440B": {
+    "name": "Intercoin",
+    "logo": "intercoin.svg",
+	"erc20": true,
+	"symbol": "ITR",
+	"decimals": 18
   }
 }
