@@ -1,4 +1,11 @@
 {
+  "0x07bac35846e5ed502aa91adf6a9e7aa210f2dcbe": {
+    "name": "Sifchain Token",
+    "logo": "sifchain.svg",
+    "erc20": true,
+    "symbol": "erowan",
+    "decimals": 18
+  },
    "0x947AEb02304391f8fbE5B25D7D98D649b57b1788": {
     "name": "Mandala Exchange Token",
     "logo": "mandala.svg",
