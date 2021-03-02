@@ -2445,5 +2445,12 @@
     "erc20": true,
     "symbol": "ROUTE",
     "decimals":18
+  },
+  "0x0563dce613d559a47877ffd1593549fb9d3510d6": {
+    "name": "SuperBid",
+    "logo": "SUPERBID.svg",
+    "erc20": true,
+    "symbol": "SUPERBID",
+    "decimals":18
   }
 }
