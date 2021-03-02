@@ -1,5 +1,19 @@
 {
-   "0x947AEb02304391f8fbE5B25D7D98D649b57b1788": {
+  "0x40FD72257597aA14C7231A7B1aaa29Fce868F677": {
+    "name": "Sora Token",
+    "logo": "xor.svg",
+    "erc20": true,
+    "symbol": "XOR",
+    "decimals": 18
+  },
+  "0xe88f8313e61a97cec1871ee37fbbe2a8bf3ed1e4": {
+    "name": "Sora Validator Token",
+    "logo": "val.svg",
+    "erc20": true,
+    "symbol": "VAL",
+    "decimals": 18
+  },
+  "0x947AEb02304391f8fbE5B25D7D98D649b57b1788": {
     "name": "Mandala Exchange Token",
     "logo": "mandala.svg",
     "erc20": true,
