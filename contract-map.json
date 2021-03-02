@@ -6,14 +6,14 @@
     "symbol": "XOR",
     "decimals": 18
   },
-  "0xe88f8313e61a97cec1871ee37fbbe2a8bf3ed1e4": {
+  "0xe88f8313e61A97cEc1871EE37fBbe2a8bf3ed1E4": {
     "name": "Sora Validator Token",
     "logo": "val.svg",
     "erc20": true,
     "symbol": "VAL",
     "decimals": 18
   },
-  "0x947AEb02304391f8fbE5B25D7D98D649b57b1788": {
+   "0x947AEb02304391f8fbE5B25D7D98D649b57b1788": {
     "name": "Mandala Exchange Token",
     "logo": "mandala.svg",
     "erc20": true,
