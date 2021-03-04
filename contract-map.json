@@ -133,12 +133,28 @@
     "decimals": 18
   },
    "0xCdeee767beD58c5325f68500115d4B722b3724EE": {
+{ 
+  "0x7420B4b9a0110cdC71fB720908340C03F9Bc03EC":{
+    "name": "JasmyCoin",
+    "logo": "JASMY.svg",
+    "erc20": true,
+    "symbol": "JASMY",
+    "decimals": 18
+  },
+   "0x947AEb02304391f8fbE5B25D7D98D649b57b1788": {
+    "name": "Mandala Exchange Token",
+    "logo": "mandala.svg",
+    "erc20": true,
+    "symbol": "MDX",
+    "decimals": 18
+  }, 
+  "0xCdeee767beD58c5325f68500115d4B722b3724EE": {
     "name": "Carbon",
     "logo": "CRBN.svg",
     "erc20": true,
     "symbol": "CRBN",
     "decimals": 18
-  }, 
+  },
   "0xA4EED63db85311E22dF4473f87CcfC3DaDCFA3E3": {
     "name": "Rubic",
     "logo": "Rubic.svg",
@@ -2563,6 +2579,13 @@
     "logo": "quiverx.svg",
     "erc20": true,
     "symbol": "QRX",
+    "decimals":18
+  },
+  "0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4": {
+    "name": "Route",
+    "logo": "route.svg",
+    "erc20": true,
+    "symbol": "ROUTE",
     "decimals":18
   }
 }
