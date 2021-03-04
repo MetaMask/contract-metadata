@@ -1,4 +1,11 @@
-{
+{ 
+  "0x7420B4b9a0110cdC71fB720908340C03F9Bc03EC":{
+    "name": "JasmyCoin",
+    "logo": "JASMY.svg",
+    "erc20": true,
+    "symbol": "JASMY",
+    "decimals": 18
+  },
    "0x947AEb02304391f8fbE5B25D7D98D649b57b1788": {
     "name": "Mandala Exchange Token",
     "logo": "mandala.svg",
