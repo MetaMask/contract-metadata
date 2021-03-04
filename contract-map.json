@@ -6,6 +6,35 @@
     "symbol": "JASMY",
     "decimals": 18
   },
+  {
+   "0x947AEb02304391f8fbE5B25D7D98D649b57b1788": {
+    "name": "Mandala Exchange Token",
+    "logo": "mandala.svg",
+    "erc20": true,
+    "symbol": "MDX",
+    "decimals": 18
+  }, 
+  "0xCdeee767beD58c5325f68500115d4B722b3724EE": {
+    "name": "Carbon",
+    "logo": "CRBN.svg",
+    "erc20": true,
+    "symbol": "CRBN",
+    "decimals": 18
+  },
+  "0xA4EED63db85311E22dF4473f87CcfC3DaDCFA3E3": {
+    "name": "Rubic",
+    "logo": "Rubic.svg",
+    "erc20": true,
+    "symbol": "RBC",
+    "decimals": 18
+  },
+  "0x3A880652F47bFaa771908C07Dd8673A787dAEd3A": {
+    "name": "DerivaDAO",
+    "logo": "DDX.svg",
+    "erc20": true,
+    "symbol": "DDX",
+    "decimals": 18
+  },
   "0xbC396689893D065F41bc2C6EcbeE5e0085233447":{
     "name": "Perpetual",
     "logo": "PERP.svg",
@@ -96,7 +125,7 @@
     "erc20": true,
     "symbol": "ELT",
     "decimals": 8
-  }, 
+  },
   "0x6781a0F84c7E9e846DCb84A9a5bd49333067b104": {
     "name": "ZAP TOKEN",
     "logo": "zapicon.svg",
@@ -445,6 +474,34 @@
     "logo": "YFL.svg",
     "erc20": true,
     "symbol": "YFL",
+    "decimals": 18
+  },
+  "0x75D1aA733920b14fC74c9F6e6faB7ac1EcE8482E": {
+    "name": "YFLink Staking Share",
+    "logo": "YFL.svg",
+    "erc20": true,
+    "symbol": "yYFL",
+    "decimals": 18
+  },
+  "0x7b760D06E401f85545F3B50c44bf5B05308b7b62": {
+    "name": "YFLink USD",
+    "logo": "YFLUSD.svg",
+    "erc20": true,
+    "symbol": "YFLUSD",
+    "decimals": 18
+  },
+  "0x8282df223AC402d04B2097d16f758Af4F70e7Db0": {
+    "name": "YFLink Synthetic",
+    "logo": "sYFL.svg",
+    "erc20": true,
+    "symbol": "sYFL",
+    "decimals": 18
+  },
+  "0x008377EB0C62cE8e0BA3D7Bb4A5638591f21588E": {
+    "name": "YFLink Bond",
+    "logo": "bYFL.svg",
+    "erc20": true,
+    "symbol": "bYFL",
     "decimals": 18
   },
   "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e": {
@@ -1429,8 +1486,8 @@
     "symbol": "CAT"
   },
   "0x7d4b8Cce0591C9044a22ee543533b72E976E36C3": {
-    "name": "Change Coin",
-    "logo": "change.png",
+    "name": "Change",
+    "logo": "change.svg",
     "erc20": true,
     "decimals": 18,
     "symbol": "CAG"
@@ -1715,6 +1772,13 @@
     "erc20": true,
     "symbol": "GUSD",
     "decimals": 2
+  },
+  "0xA4Bdb11dc0a2bEC88d24A3aa1E6Bb17201112eBe": {
+    "name": "StableUSD",
+    "logo": "usds.svg",
+    "erc20": true,
+    "symbol": "USDS",
+    "decimals": 6
   },
   "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48": {
     "name": "USD Coin",
@@ -2305,7 +2369,7 @@
     "erc20": true,
     "symbol": "CAMP",
     "decimals": 18
-   },
+  },
   "0xdacD69347dE42baBfAEcD09dC88958378780FB62": {
     "name": "Atari Token",
     "logo": "atrilast.svg",
@@ -2325,6 +2389,13 @@
     "logo": "graphToken.svg",
     "erc20": true,
     "symbol": "GRT",
+    "decimals": 18
+  },
+  "0xFE3E6a25e6b192A42a44ecDDCd13796471735ACf": {
+    "name": "Reef Finance",
+    "logo": "reef.svg",
+    "erc20": true,
+    "symbol": "REEF",
     "decimals": 18
   },
   "0x43Dfc4159D86F3A37A5A4B3D4580b888ad7d4DDd": {
@@ -2355,11 +2426,32 @@
     "symbol": "CRU",
     "decimals": 18
   },
+  "0xDcB01cc464238396E213a6fDd933E36796eAfF9f": {
+    "name": "Yield",
+    "logo": "yield-logo.svg",
+    "erc20": true,
+    "symbol": "YLD",
+    "decimals": 18
+  },
   "0xeb269732ab75A6fD61Ea60b06fE994cD32a83549": {
     "name": "dForce USDx",
     "logo": "USDx.svg",
     "erc20": true,
     "symbol": "USDx",
     "decimals": 18
+  },
+  "0x6e0daDE58D2d89eBBe7aFc384e3E4f15b70b14D8": {
+    "name": "QuiverX",
+    "logo": "quiverx.svg",
+    "erc20": true,
+    "symbol": "QRX",
+    "decimals":18
+  },
+  "0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4": {
+    "name": "Route",
+    "logo": "route.svg",
+    "erc20": true,
+    "symbol": "ROUTE",
+    "decimals":18
   }
 }
