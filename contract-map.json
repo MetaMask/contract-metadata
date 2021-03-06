@@ -1,4 +1,4 @@
-{ 
+{
   "0x7420B4b9a0110cdC71fB720908340C03F9Bc03EC":{
     "name": "JasmyCoin",
     "logo": "JASMY.svg",
@@ -12,7 +12,7 @@
     "erc20": true,
     "symbol": "MDX",
     "decimals": 18
-  }, 
+  },
   "0xCdeee767beD58c5325f68500115d4B722b3724EE": {
     "name": "Carbon",
     "logo": "CRBN.svg",
@@ -368,6 +368,13 @@
     "logo": "dia.svg",
     "erc20": true,
     "symbol": "DIA",
+    "decimals": 18
+  },
+  "0xb78b3320493a4efaa1028130c5ba26f0b6085ef8": {
+    "name": "Dracula",
+    "logo": "dracula.png",
+    "erc20": true,
+    "symbol": "DRC",
     "decimals": 18
   },
   "0xF433089366899D83a9f26A773D59ec7eCF30355e": {
