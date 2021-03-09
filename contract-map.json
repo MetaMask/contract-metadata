@@ -1014,6 +1014,13 @@
     "decimals": 2,
     "symbol": "EURS"
   },
+    "0x69bBC3F8787d573F1BBDd0a5f40C7bA0Aee9BCC9": {
+    "name": "Yup Token",
+    "logo": "yup-logo.svg",
+    "erc20": true,
+    "decimals": 18,
+    "symbol": "YUP"
+  },
   "0xCA0e7269600d353F70b14Ad118A49575455C0f2f" :{
     "name": "AMLT",
     "logo": "amlt.png",
