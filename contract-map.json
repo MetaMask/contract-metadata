@@ -151,6 +151,7 @@
     "logo": "RFUEL.svg",
     "erc20": true,
     "symbol": "RFUEL",
+    "decimals": 18
   },
   "0x7420B4b9a0110cdC71fB720908340C03F9Bc03EC":{
     "name": "JasmyCoin",
