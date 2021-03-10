@@ -1269,7 +1269,7 @@
   },
   "0x16484d73Ac08d2355F466d448D2b79D2039F6EBB": {
     "name": "KnoxsterCoin",
-    "logo": "FortKnoxster.png",
+    "logo": "FortKnoxster.svg",
     "erc20": true,
     "symbol": "FKX",
     "decimals": 18
