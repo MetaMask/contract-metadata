@@ -391,6 +391,13 @@
     "symbol": "DIA",
     "decimals": 18
   },
+    "0xb78B3320493a4EFaa1028130C5Ba26f0B6085Ef8": {
+    "name": "Dracula",
+    "logo": "dracula.svg",
+    "erc20": true,
+    "symbol": "DRC",
+    "decimals": 18
+ },
   "0xF433089366899D83a9f26A773D59ec7eCF30355e": {
     "name": "Metal",
     "logo": "mtl.svg",
