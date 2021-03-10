@@ -1,4 +1,4 @@
-{ 
+{
   "0x40FD72257597aA14C7231A7B1aaa29Fce868F677": {
     "name": "Sora Token",
     "logo": "xor.svg",
@@ -33,7 +33,7 @@
     "erc20": true,
     "symbol": "MDX",
     "decimals": 18
-  }, 
+  },
   "0xCdeee767beD58c5325f68500115d4B722b3724EE": {
     "name": "Carbon",
     "logo": "CRBN.svg",
@@ -2374,6 +2374,13 @@
     "logo": "obsolete.svg",
     "erc20": true,
     "symbol": "AXNv1",
+    "decimals": 18
+  },
+  "0x358AA737e033F34df7c54306960a38d09AaBd523": {
+    "name": "Ares Token",
+    "logo": "ares.svg",
+    "erc20": true,
+    "symbol": "ARES",
     "decimals": 18
   },
   "0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206": {
