@@ -392,6 +392,13 @@
     "symbol": "DIA",
     "decimals": 18
   },
+    "0xb78B3320493a4EFaa1028130C5Ba26f0B6085Ef8": {
+    "name": "Dracula",
+    "logo": "dracula.svg",
+    "erc20": true,
+    "symbol": "DRC",
+    "decimals": 18
+ },
   "0xF433089366899D83a9f26A773D59ec7eCF30355e": {
     "name": "Metal",
     "logo": "mtl.svg",
@@ -2337,150 +2344,143 @@
         "decimals": 18
     },
     "0xdF574c24545E5FfEcb9a659c229253D4111d87e1": {
-        "name": "HUSD",
-        "logo": "HUSD.svg",
-        "erc20": true,
-        "symbol": "HUSD",
-        "decimals": 8
-    },
-    "0x2ecB13A8c458c379c4d9a7259e202De03c8F3D19": {
-        "name": "Block-Chain.com Token",
-        "logo": "block-chain.svg",
-        "erc20": true,
-        "symbol": "BC",
-        "decimals": 18
-    },
-    "0x38e4adB44ef08F22F5B5b76A8f0c2d0dCbE7DcA1": {
-        "name": "Concentrated Voting Power",
-        "logo": "PowerPool.svg",
-        "erc20": true,
-        "symbol": "CVP",
-        "decimals": 18
-    },
-    "0xa117000000f279D81A1D3cc75430fAA017FA5A2e": {
-        "name": "Aragon Network Token",
-        "logo": "antv2.svg",
-        "erc20": true,
-        "symbol": "ANT",
-        "decimals": 18
-    },
-    "0xDecade1c6Bf2cD9fb89aFad73e4a519C867adcF5": {
-        "name": "Experty Wisdom Token",
-        "logo": "wisdom-token.svg",
-        "erc20": true,
-        "symbol": "WIS",
-        "decimals": 18
-    },
-    "0x7D85e23014F84E6E21d5663aCD8751bEF3562352": {
-        "name": "Axion Old",
-        "logo": "obsolete.svg",
-        "erc20": true,
-        "symbol": "AXNv1",
-        "decimals": 18
-    },
-    "0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206": {
-        "name": "NEXO",
-        "logo": "NEXO.svg",
-        "erc20": true,
-        "symbol": "NEXO",
-        "decimals": 18
-    },
-    "0xE9E73E1aE76D17A16cC53E3e87a9a7dA78834d37": {
-        "name": "Camp",
-        "logo": "Camp.svg",
-        "erc20": true,
-        "symbol": "CAMP",
-        "decimals": 18
-    },
-    "0xdacD69347dE42baBfAEcD09dC88958378780FB62": {
-        "name": "Atari Token",
-        "logo": "atrilast.svg",
-        "erc20": true,
-        "symbol": "ATRI",
-        "decimals": 0
-    },
-    "0x71F85B2E46976bD21302B64329868fd15eb0D127": {
-        "name": "Axion",
-        "logo": "axion.svg",
-        "erc20": true,
-        "symbol": "AXN",
-        "decimals": 18
-    },
-    "0xc944E90C64B2c07662A292be6244BDf05Cda44a7": {
-        "name": "Graph Token",
-        "logo": "graphToken.svg",
-        "erc20": true,
-        "symbol": "GRT",
-        "decimals": 18
-    },
-    "0xFE3E6a25e6b192A42a44ecDDCd13796471735ACf": {
-        "name": "Reef Finance",
-        "logo": "reef.svg",
-        "erc20": true,
-        "symbol": "REEF",
-        "decimals": 18
-    },
-    "0x43Dfc4159D86F3A37A5A4B3D4580b888ad7d4DDd": {
-        "name": "DODO bird",
-        "logo": "DODO.svg",
-        "erc20": true,
-        "symbol": "DODO",
-        "decimals": 18
-    },
-    "0x111111111117dC0aa78b770fA6A738034120C302": {
-        "name": "1INCH Token",
-        "logo": "1inch.svg",
-        "erc20": true,
-        "symbol": "1INCH",
-        "decimals": 18
-    },
-    "0x27702a26126e0B3702af63Ee09aC4d1A084EF628": {
-        "name": "Aleph.im Token",
-        "logo": "aleph.svg",
-        "erc20": true,
-        "symbol": "ALEPH",
-        "decimals": 18
-    },
-    "0x32a7C02e79c4ea1008dD6564b35F131428673c41": {
-        "name": "CRUST",
-        "logo": "crust.svg",
-        "erc20": true,
-        "symbol": "CRU",
-        "decimals": 18
-    },
-    "0xDcB01cc464238396E213a6fDd933E36796eAfF9f": {
-        "name": "Yield",
-        "logo": "yield-logo.svg",
-        "erc20": true,
-        "symbol": "YLD",
-        "decimals": 18
-    },
-    "0xeb269732ab75A6fD61Ea60b06fE994cD32a83549": {
-        "name": "dForce USDx",
-        "logo": "USDx.svg",
-        "erc20": true,
-        "symbol": "USDx",
-        "decimals": 18
-    },
-    "0x6e0daDE58D2d89eBBe7aFc384e3E4f15b70b14D8": {
-        "name": "QuiverX",
-        "logo": "quiverx.svg",
-        "erc20": true,
-        "symbol": "QRX",
-        "decimals": 18
-    },
-    "0xC980be019F2ac10A1C96F964b971A5F44551D318": {
-        "name": "Bitfarmings",
-        "logo": "BFI.svg",
-        "erc20": true,
-        "symbol": "BFI",
-        "decimals": 18
-    },
-    "0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4": {
-        "name": "Route",
-        "logo": "route.svg",
-        "erc20": true,
-        "symbol": "ROUTE",
-        "decimals": 18
-    }
+    "name": "HUSD",
+    "logo": "HUSD.svg",
+    "erc20": true,
+    "symbol": "HUSD",
+    "decimals": 8
+  },
+  "0x2ecB13A8c458c379c4d9a7259e202De03c8F3D19": {
+    "name": "Block-Chain.com Token",
+    "logo": "block-chain.svg",
+    "erc20": true,
+    "symbol": "BC",
+    "decimals": 18
+  },
+  "0x38e4adB44ef08F22F5B5b76A8f0c2d0dCbE7DcA1": {
+    "name": "Concentrated Voting Power",
+    "logo": "PowerPool.svg",
+    "erc20": true,
+    "symbol": "CVP",
+    "decimals": 18
+  },
+  "0xa117000000f279D81A1D3cc75430fAA017FA5A2e": {
+    "name": "Aragon Network Token",
+    "logo": "antv2.svg",
+    "erc20": true,
+    "symbol": "ANT",
+    "decimals": 18
+  },
+  "0xDecade1c6Bf2cD9fb89aFad73e4a519C867adcF5": {
+    "name": "Experty Wisdom Token",
+    "logo": "wisdom-token.svg",
+    "erc20": true,
+    "symbol": "WIS",
+    "decimals": 18
+  },
+  "0x7D85e23014F84E6E21d5663aCD8751bEF3562352": {
+    "name": "Axion Old",
+    "logo": "obsolete.svg",
+    "erc20": true,
+    "symbol": "AXNv1",
+    "decimals": 18
+  },
+  "0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206": {
+    "name": "NEXO",
+    "logo": "NEXO.svg",
+    "erc20": true,
+    "symbol": "NEXO",
+    "decimals": 18
+  },
+  "0xE9E73E1aE76D17A16cC53E3e87a9a7dA78834d37": {
+    "name": "Camp",
+    "logo": "Camp.svg",
+    "erc20": true,
+    "symbol": "CAMP",
+    "decimals": 18
+  },
+  "0xdacD69347dE42baBfAEcD09dC88958378780FB62": {
+    "name": "Atari Token",
+    "logo": "atrilast.svg",
+    "erc20": true,
+    "symbol": "ATRI",
+    "decimals": 0
+  },
+  "0x71F85B2E46976bD21302B64329868fd15eb0D127": {
+    "name": "Axion",
+    "logo": "axion.svg",
+    "erc20": true,
+    "symbol": "AXN",
+    "decimals": 18
+  },
+  "0xc944E90C64B2c07662A292be6244BDf05Cda44a7": {
+    "name": "Graph Token",
+    "logo": "graphToken.svg",
+    "erc20": true,
+    "symbol": "GRT",
+    "decimals": 18
+  },
+  "0xFE3E6a25e6b192A42a44ecDDCd13796471735ACf": {
+    "name": "Reef Finance",
+    "logo": "reef.svg",
+    "erc20": true,
+    "symbol": "REEF",
+    "decimals": 18
+  },
+  "0x43Dfc4159D86F3A37A5A4B3D4580b888ad7d4DDd": {
+    "name": "DODO bird",
+    "logo": "DODO.svg",
+    "erc20": true,
+    "symbol": "DODO",
+    "decimals": 18
+  },
+  "0x111111111117dC0aa78b770fA6A738034120C302": {
+    "name": "1INCH Token",
+    "logo": "1inch.svg",
+    "erc20": true,
+    "symbol": "1INCH",
+    "decimals": 18
+  },
+  "0x27702a26126e0B3702af63Ee09aC4d1A084EF628": {
+    "name": "Aleph.im Token",
+    "logo": "aleph.svg",
+    "erc20": true,
+    "symbol": "ALEPH",
+    "decimals": 18
+  },
+  "0x32a7C02e79c4ea1008dD6564b35F131428673c41": {
+    "name": "CRUST",
+    "logo": "crust.svg",
+    "erc20": true,
+    "symbol": "CRU",
+    "decimals": 18
+  },
+  "0xDcB01cc464238396E213a6fDd933E36796eAfF9f": {
+    "name": "Yield",
+    "logo": "yield-logo.svg",
+    "erc20": true,
+    "symbol": "YLD",
+    "decimals": 18
+  },
+  "0xeb269732ab75A6fD61Ea60b06fE994cD32a83549": {
+    "name": "dForce USDx",
+    "logo": "USDx.svg",
+    "erc20": true,
+    "symbol": "USDx",
+    "decimals": 18
+  },
+  "0x6e0daDE58D2d89eBBe7aFc384e3E4f15b70b14D8": {
+    "name": "QuiverX",
+    "logo": "quiverx.svg",
+    "erc20": true,
+    "symbol": "QRX",
+    "decimals":18
+  },
+  "0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4": {
+    "name": "Route",
+    "logo": "route.svg",
+    "erc20": true,
+    "symbol": "ROUTE",
+    "decimals":18
+  }
 }
