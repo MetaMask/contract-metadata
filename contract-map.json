@@ -33,7 +33,7 @@
     "erc20": true,
     "symbol": "MDX",
     "decimals": 18
-  }, 
+  },
   "0xCdeee767beD58c5325f68500115d4B722b3724EE": {
     "name": "Carbon",
     "logo": "CRBN.svg",
@@ -55,14 +55,14 @@
     "symbol": "DDX",
     "decimals": 18
   },
-  "0xbC396689893D065F41bc2C6EcbeE5e0085233447":{
+  "0xbC396689893D065F41bc2C6EcbeE5e0085233447": {
     "name": "Perpetual",
     "logo": "PERP.svg",
     "erc20": true,
     "symbol": "PERP",
     "decimals": 18
   },
-  "0xeca82185adCE47f39c684352B0439f030f860318":{
+  "0xeca82185adCE47f39c684352B0439f030f860318": {
     "name": "Perlin",
     "logo": "PERL.svg",
     "erc20": true,
@@ -382,7 +382,7 @@
     "logo": "GAMECreditsLogo.svg",
     "erc20": true,
     "symbol": "GAME",
-      "decimals": 18
+    "decimals": 18
   },
   "0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419": {
     "name": "DIAdata",
@@ -475,7 +475,7 @@
     "symbol": "PLSAI",
     "decimals": 18
   },
-   "0x5732046A883704404F284Ce41FfADd5b007FD668": {
+  "0x5732046A883704404F284Ce41FfADd5b007FD668": {
     "name": "Bluzelle Token",
     "logo": "Bluzelle.svg",
     "erc20": true,
@@ -489,7 +489,7 @@
     "symbol": "PLUSDC",
     "decimals": 6
   },
-   "0x69A95185ee2a045CDC4bCd1b1Df10710395e4e23": {
+  "0x69A95185ee2a045CDC4bCd1b1Df10710395e4e23": {
     "name": "$Poolz Finance",
     "logo": "Poolz.svg",
     "erc20": true,
@@ -573,7 +573,7 @@
     "symbol": "KEY",
     "decimals": 18
   },
-    "0x92A5B04D0ED5D94D7a193d1d334D3D16996f4E13": {
+  "0x92A5B04D0ED5D94D7a193d1d334D3D16996f4E13": {
     "name": "Eristica",
     "logo": "Eristica.svg",
     "erc20": true,
@@ -1035,7 +1035,7 @@
     "decimals": 2,
     "symbol": "EURS"
   },
-  "0xCA0e7269600d353F70b14Ad118A49575455C0f2f" :{
+  "0xCA0e7269600d353F70b14Ad118A49575455C0f2f": {
     "name": "AMLT",
     "logo": "amlt.png",
     "erc20": true,
@@ -1302,9 +1302,9 @@
     "symbol": "WINGS",
     "decimals": 18
   },
-  "0x009e864923b49263c7F10D19B7f8Ab7a9A5AAd33": {
-    "name": "Knoxstertoken",
-    "logo": "FortKnoxster.png",
+  "0x16484d73Ac08d2355F466d448D2b79D2039F6EBB": {
+    "name": "KnoxsterCoin",
+    "logo": "FortKnoxster.svg",
     "erc20": true,
     "symbol": "FKX",
     "decimals": 18
@@ -1587,63 +1587,63 @@
     "name": "Compound Basic Attention Token",
     "logo": "ctoken-bat.svg",
     "erc20": true,
-    "symbol":"cBAT",
+    "symbol": "cBAT",
     "decimals": 8
   },
   "0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643": {
     "name": "Compound Dai",
     "logo": "ctoken-dai.svg",
     "erc20": true,
-    "symbol":"cDAI",
+    "symbol": "cDAI",
     "decimals": 8
   },
   "0xF5DCe57282A584D2746FaF1593d3121Fcac444dC": {
     "name": "Compound Sai (Legacy Dai)",
     "logo": "ctoken-sai.svg",
     "erc20": true,
-    "symbol":"cSAI",
+    "symbol": "cSAI",
     "decimals": 8
   },
   "0x4Ddc2D193948926D02f9B1fE9e1daa0718270ED5": {
     "name": "Compound Ether",
     "logo": "ctoken-eth.svg",
     "erc20": true,
-    "symbol":"cETH",
+    "symbol": "cETH",
     "decimals": 8
   },
   "0x158079Ee67Fce2f58472A96584A73C7Ab9AC95c1": {
     "name": "Compound Augur",
     "logo": "ctoken-rep.svg",
     "erc20": true,
-    "symbol":"cREP",
+    "symbol": "cREP",
     "decimals": 8
   },
   "0x39AA39c021dfbaE8faC545936693aC917d5E7563": {
     "name": "Compound USD Coin",
     "logo": "ctoken-usdc.svg",
     "erc20": true,
-    "symbol":"cUSDC",
+    "symbol": "cUSDC",
     "decimals": 8
   },
   "0xf650C3d88D12dB855b8bf7D11Be6C55A4e07dCC9": {
     "name": "Compound Tether",
     "logo": "ctoken-usdt.svg",
     "erc20": true,
-    "symbol":"cUSDT",
+    "symbol": "cUSDT",
     "decimals": 8
   },
   "0xC11b1268C1A384e55C48c2391d8d480264A3A7F4": {
     "name": "Compound Wrapped BTC",
     "logo": "ctoken-wbtc.svg",
     "erc20": true,
-    "symbol":"cWBTC",
+    "symbol": "cWBTC",
     "decimals": 8
   },
   "0xB3319f5D18Bc0D84dD1b4825Dcde5d5f7266d407": {
     "name": "Compound 0x",
     "logo": "ctoken-zrx.svg",
     "erc20": true,
-    "symbol":"cZRX",
+    "symbol": "cZRX",
     "decimals": 8
   },
   "0xc00e94Cb662C3520282E6f5717214004A7f26888": {
@@ -1968,49 +1968,49 @@
     "symbol": "SAN",
     "decimals": 18
   },
-    "0x58b6A8A3302369DAEc383334672404Ee733aB239": {
+  "0x58b6A8A3302369DAEc383334672404Ee733aB239": {
     "name": "Livepeer",
     "logo": "livepeer.png",
     "erc20": true,
     "symbol": "LPT",
     "decimals": 18
   },
-    "0x6fe56C0bcdD471359019FcBC48863d6c3e9d4F41": {
+  "0x6fe56C0bcdD471359019FcBC48863d6c3e9d4F41": {
     "name": "Props",
     "logo": "props.png",
     "erc20": true,
     "symbol": "PROPS",
     "decimals": 18
   },
-    "0x6c6EE5e31d828De241282B9606C8e98Ea48526E2": {
+  "0x6c6EE5e31d828De241282B9606C8e98Ea48526E2": {
     "name": "HoloToken",
     "logo": "holotoken.png",
     "erc20": true,
     "symbol": "HOT",
     "decimals": 18
   },
-    "0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c": {
+  "0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c": {
     "name": "Enjin Coin",
     "logo": "enj.svg",
     "erc20": true,
     "symbol": "ENJ",
     "decimals": 18
   },
-    "0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e": {
+  "0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e": {
     "name": "AELF",
     "logo": "aelf.png",
     "erc20": true,
     "symbol": "ELF",
     "decimals": 18
   },
-    "0x39Bb259F66E1C59d5ABEF88375979b4D20D98022": {
+  "0x39Bb259F66E1C59d5ABEF88375979b4D20D98022": {
     "name": "Wax",
     "logo": "wax.png",
     "erc20": true,
     "symbol": "WAX",
     "decimals": 8
   },
-    "0x595832F8FC6BF59c85C527fEC3740A1b7a361269": {
+  "0x595832F8FC6BF59c85C527fEC3740A1b7a361269": {
     "name": "PowerLedger",
     "logo": "power.png",
     "erc20": true,
@@ -2340,8 +2340,8 @@
     "erc20": true,
     "symbol": "AUC",
     "decimals": 18
-   },
-    "0xdF574c24545E5FfEcb9a659c229253D4111d87e1": {
+  },
+  "0xdF574c24545E5FfEcb9a659c229253D4111d87e1": {
     "name": "HUSD",
     "logo": "HUSD.svg",
     "erc20": true,
@@ -2472,13 +2472,13 @@
     "logo": "quiverx.svg",
     "erc20": true,
     "symbol": "QRX",
-    "decimals":18
+    "decimals": 18
   },
   "0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4": {
     "name": "Route",
     "logo": "route.svg",
     "erc20": true,
     "symbol": "ROUTE",
-    "decimals":18
+    "decimals": 18
   }
 }
