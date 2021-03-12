@@ -1,4 +1,4 @@
-{ 
+{
   "0x40FD72257597aA14C7231A7B1aaa29Fce868F677": {
     "name": "Sora Token",
     "logo": "xor.svg",
@@ -1170,7 +1170,7 @@
     "decimals": 6
   },
   "0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0": {
-    "name": "Loom Network Token",
+    "name": "Old Loom Network Token",
     "logo": "loom.svg",
     "erc20": true,
     "symbol": "LOOM",
@@ -2479,6 +2479,13 @@
     "logo": "route.svg",
     "erc20": true,
     "symbol": "ROUTE",
+    "decimals": 18
+  },
+  "0x42476F744292107e34519F9c357927074Ea3F75D": {
+    "name": "Loom Network Token",
+    "logo": "loom.svg",
+    "erc20": true,
+    "symbol": "LOOM",
     "decimals": 18
   }
 }
