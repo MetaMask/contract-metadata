@@ -1,4 +1,11 @@
 { 
+  "0x4691937a7508860F876c9c0a2a617E7d9E945D4B": {
+    "name": "Wootrade Network",
+    "logo": "wootrade.svg",
+    "erc20": true,
+    "symbol": "WOO",
+    "decimals": 18
+  },
   "0x40FD72257597aA14C7231A7B1aaa29Fce868F677": {
     "name": "Sora Token",
     "logo": "xor.svg",
