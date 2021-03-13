@@ -1,9 +1,72 @@
 { 
-  "0xbC396689893D065F41bc2C6EcbeE5e0085233447":{
+  "0x40FD72257597aA14C7231A7B1aaa29Fce868F677": {
+    "name": "Sora Token",
+    "logo": "xor.svg",
+    "erc20": true,
+    "symbol": "XOR",
+    "decimals": 18
+  },
+  "0xe88f8313e61A97cEc1871EE37fBbe2a8bf3ed1E4": {
+    "name": "Sora Validator Token",
+    "logo": "val.svg",
+    "erc20": true,
+    "symbol": "VAL",
+    "decimals": 18
+  },
+  "0xaf9f549774ecEDbD0966C52f250aCc548D3F36E5":{
+    "name": "RFUEL",
+    "logo": "RFUEL.svg",
+    "erc20": true,
+    "symbol": "RFUEL",
+    "decimals": 18
+  },
+  "0x7420B4b9a0110cdC71fB720908340C03F9Bc03EC":{
+    "name": "JasmyCoin",
+    "logo": "JASMY.svg",
+    "erc20": true,
+    "symbol": "JASMY",
+    "decimals": 18
+  },
+   "0x947AEb02304391f8fbE5B25D7D98D649b57b1788": {
+    "name": "Mandala Exchange Token",
+    "logo": "mandala.svg",
+    "erc20": true,
+    "symbol": "MDX",
+    "decimals": 18
+  },
+  "0xCdeee767beD58c5325f68500115d4B722b3724EE": {
+    "name": "Carbon",
+    "logo": "CRBN.svg",
+    "erc20": true,
+    "symbol": "CRBN",
+    "decimals": 18
+  },
+  "0xA4EED63db85311E22dF4473f87CcfC3DaDCFA3E3": {
+    "name": "Rubic",
+    "logo": "Rubic.svg",
+    "erc20": true,
+    "symbol": "RBC",
+    "decimals": 18
+  },
+  "0x3A880652F47bFaa771908C07Dd8673A787dAEd3A": {
+    "name": "DerivaDAO",
+    "logo": "DDX.svg",
+    "erc20": true,
+    "symbol": "DDX",
+    "decimals": 18
+  },
+  "0xbC396689893D065F41bc2C6EcbeE5e0085233447": {
     "name": "Perpetual",
     "logo": "PERP.svg",
     "erc20": true,
     "symbol": "PERP",
+    "decimals": 18
+  },
+  "0xeca82185adCE47f39c684352B0439f030f860318": {
+    "name": "Perlin",
+    "logo": "PERL.svg",
+    "erc20": true,
+    "symbol": "PERL",
     "decimals": 18
   },
   "0xA1AFFfE3F4D611d252010E3EAf6f4D77088b0cd7": {
@@ -82,7 +145,7 @@
     "erc20": true,
     "symbol": "ELT",
     "decimals": 8
-  }, 
+  },
   "0x6781a0F84c7E9e846DCb84A9a5bd49333067b104": {
     "name": "ZAP TOKEN",
     "logo": "zapicon.svg",
@@ -319,7 +382,7 @@
     "logo": "GAMECreditsLogo.svg",
     "erc20": true,
     "symbol": "GAME",
-      "decimals": 18
+    "decimals": 18
   },
   "0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419": {
     "name": "DIAdata",
@@ -328,6 +391,13 @@
     "symbol": "DIA",
     "decimals": 18
   },
+    "0xb78B3320493a4EFaa1028130C5Ba26f0B6085Ef8": {
+    "name": "Dracula",
+    "logo": "dracula.svg",
+    "erc20": true,
+    "symbol": "DRC",
+    "decimals": 18
+ },
   "0xF433089366899D83a9f26A773D59ec7eCF30355e": {
     "name": "Metal",
     "logo": "mtl.svg",
@@ -405,7 +475,7 @@
     "symbol": "PLSAI",
     "decimals": 18
   },
-   "0x5732046A883704404F284Ce41FfADd5b007FD668": {
+  "0x5732046A883704404F284Ce41FfADd5b007FD668": {
     "name": "Bluzelle Token",
     "logo": "Bluzelle.svg",
     "erc20": true,
@@ -419,7 +489,7 @@
     "symbol": "PLUSDC",
     "decimals": 6
   },
-   "0x69A95185ee2a045CDC4bCd1b1Df10710395e4e23": {
+  "0x69A95185ee2a045CDC4bCd1b1Df10710395e4e23": {
     "name": "$Poolz Finance",
     "logo": "Poolz.svg",
     "erc20": true,
@@ -431,6 +501,34 @@
     "logo": "YFL.svg",
     "erc20": true,
     "symbol": "YFL",
+    "decimals": 18
+  },
+  "0x75D1aA733920b14fC74c9F6e6faB7ac1EcE8482E": {
+    "name": "YFLink Staking Share",
+    "logo": "YFL.svg",
+    "erc20": true,
+    "symbol": "yYFL",
+    "decimals": 18
+  },
+  "0x7b760D06E401f85545F3B50c44bf5B05308b7b62": {
+    "name": "YFLink USD",
+    "logo": "YFLUSD.svg",
+    "erc20": true,
+    "symbol": "YFLUSD",
+    "decimals": 18
+  },
+  "0x8282df223AC402d04B2097d16f758Af4F70e7Db0": {
+    "name": "YFLink Synthetic",
+    "logo": "sYFL.svg",
+    "erc20": true,
+    "symbol": "sYFL",
+    "decimals": 18
+  },
+  "0x008377EB0C62cE8e0BA3D7Bb4A5638591f21588E": {
+    "name": "YFLink Bond",
+    "logo": "bYFL.svg",
+    "erc20": true,
+    "symbol": "bYFL",
     "decimals": 18
   },
   "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e": {
@@ -475,7 +573,7 @@
     "symbol": "KEY",
     "decimals": 18
   },
-    "0x92A5B04D0ED5D94D7a193d1d334D3D16996f4E13": {
+  "0x92A5B04D0ED5D94D7a193d1d334D3D16996f4E13": {
     "name": "Eristica",
     "logo": "Eristica.svg",
     "erc20": true,
@@ -860,6 +958,13 @@
     "symbol": "STORJ",
     "decimals": 8
   },
+  "0xD8E3FB3b08eBA982F2754988d70D57eDc0055ae6": {
+    "name": "Zoracles",
+    "logo": "ZORA.svg",
+    "erc20": true,
+    "symbol": "ZORA",
+    "decimals": 9
+  },
   "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942": {
     "name": "Decentraland",
     "logo": "mana.svg",
@@ -930,7 +1035,7 @@
     "decimals": 2,
     "symbol": "EURS"
   },
-  "0xCA0e7269600d353F70b14Ad118A49575455C0f2f" :{
+  "0xCA0e7269600d353F70b14Ad118A49575455C0f2f": {
     "name": "AMLT",
     "logo": "amlt.png",
     "erc20": true,
@@ -1197,9 +1302,9 @@
     "symbol": "WINGS",
     "decimals": 18
   },
-  "0x009e864923b49263c7F10D19B7f8Ab7a9A5AAd33": {
-    "name": "Knoxstertoken",
-    "logo": "FortKnoxster.png",
+  "0x16484d73Ac08d2355F466d448D2b79D2039F6EBB": {
+    "name": "KnoxsterCoin",
+    "logo": "FortKnoxster.svg",
     "erc20": true,
     "symbol": "FKX",
     "decimals": 18
@@ -1408,8 +1513,8 @@
     "symbol": "CAT"
   },
   "0x7d4b8Cce0591C9044a22ee543533b72E976E36C3": {
-    "name": "Change Coin",
-    "logo": "change.png",
+    "name": "Change",
+    "logo": "change.svg",
     "erc20": true,
     "decimals": 18,
     "symbol": "CAG"
@@ -1482,63 +1587,63 @@
     "name": "Compound Basic Attention Token",
     "logo": "ctoken-bat.svg",
     "erc20": true,
-    "symbol":"cBAT",
+    "symbol": "cBAT",
     "decimals": 8
   },
   "0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643": {
     "name": "Compound Dai",
     "logo": "ctoken-dai.svg",
     "erc20": true,
-    "symbol":"cDAI",
+    "symbol": "cDAI",
     "decimals": 8
   },
   "0xF5DCe57282A584D2746FaF1593d3121Fcac444dC": {
     "name": "Compound Sai (Legacy Dai)",
     "logo": "ctoken-sai.svg",
     "erc20": true,
-    "symbol":"cSAI",
+    "symbol": "cSAI",
     "decimals": 8
   },
   "0x4Ddc2D193948926D02f9B1fE9e1daa0718270ED5": {
     "name": "Compound Ether",
     "logo": "ctoken-eth.svg",
     "erc20": true,
-    "symbol":"cETH",
+    "symbol": "cETH",
     "decimals": 8
   },
   "0x158079Ee67Fce2f58472A96584A73C7Ab9AC95c1": {
     "name": "Compound Augur",
     "logo": "ctoken-rep.svg",
     "erc20": true,
-    "symbol":"cREP",
+    "symbol": "cREP",
     "decimals": 8
   },
   "0x39AA39c021dfbaE8faC545936693aC917d5E7563": {
     "name": "Compound USD Coin",
     "logo": "ctoken-usdc.svg",
     "erc20": true,
-    "symbol":"cUSDC",
+    "symbol": "cUSDC",
     "decimals": 8
   },
   "0xf650C3d88D12dB855b8bf7D11Be6C55A4e07dCC9": {
     "name": "Compound Tether",
     "logo": "ctoken-usdt.svg",
     "erc20": true,
-    "symbol":"cUSDT",
+    "symbol": "cUSDT",
     "decimals": 8
   },
   "0xC11b1268C1A384e55C48c2391d8d480264A3A7F4": {
     "name": "Compound Wrapped BTC",
     "logo": "ctoken-wbtc.svg",
     "erc20": true,
-    "symbol":"cWBTC",
+    "symbol": "cWBTC",
     "decimals": 8
   },
   "0xB3319f5D18Bc0D84dD1b4825Dcde5d5f7266d407": {
     "name": "Compound 0x",
     "logo": "ctoken-zrx.svg",
     "erc20": true,
-    "symbol":"cZRX",
+    "symbol": "cZRX",
     "decimals": 8
   },
   "0xc00e94Cb662C3520282E6f5717214004A7f26888": {
@@ -1694,6 +1799,13 @@
     "erc20": true,
     "symbol": "GUSD",
     "decimals": 2
+  },
+  "0xA4Bdb11dc0a2bEC88d24A3aa1E6Bb17201112eBe": {
+    "name": "StableUSD",
+    "logo": "usds.svg",
+    "erc20": true,
+    "symbol": "USDS",
+    "decimals": 6
   },
   "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48": {
     "name": "USD Coin",
@@ -1856,49 +1968,49 @@
     "symbol": "SAN",
     "decimals": 18
   },
-    "0x58b6A8A3302369DAEc383334672404Ee733aB239": {
+  "0x58b6A8A3302369DAEc383334672404Ee733aB239": {
     "name": "Livepeer",
     "logo": "livepeer.png",
     "erc20": true,
     "symbol": "LPT",
     "decimals": 18
   },
-    "0x6fe56C0bcdD471359019FcBC48863d6c3e9d4F41": {
+  "0x6fe56C0bcdD471359019FcBC48863d6c3e9d4F41": {
     "name": "Props",
     "logo": "props.png",
     "erc20": true,
     "symbol": "PROPS",
     "decimals": 18
   },
-    "0x6c6EE5e31d828De241282B9606C8e98Ea48526E2": {
+  "0x6c6EE5e31d828De241282B9606C8e98Ea48526E2": {
     "name": "HoloToken",
     "logo": "holotoken.png",
     "erc20": true,
     "symbol": "HOT",
     "decimals": 18
   },
-    "0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c": {
+  "0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c": {
     "name": "Enjin Coin",
     "logo": "enj.svg",
     "erc20": true,
     "symbol": "ENJ",
     "decimals": 18
   },
-    "0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e": {
+  "0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e": {
     "name": "AELF",
     "logo": "aelf.png",
     "erc20": true,
     "symbol": "ELF",
     "decimals": 18
   },
-    "0x39Bb259F66E1C59d5ABEF88375979b4D20D98022": {
+  "0x39Bb259F66E1C59d5ABEF88375979b4D20D98022": {
     "name": "Wax",
     "logo": "wax.png",
     "erc20": true,
     "symbol": "WAX",
     "decimals": 8
   },
-    "0x595832F8FC6BF59c85C527fEC3740A1b7a361269": {
+  "0x595832F8FC6BF59c85C527fEC3740A1b7a361269": {
     "name": "PowerLedger",
     "logo": "power.png",
     "erc20": true,
@@ -2228,8 +2340,8 @@
     "erc20": true,
     "symbol": "AUC",
     "decimals": 18
-   },
-    "0xdF574c24545E5FfEcb9a659c229253D4111d87e1": {
+  },
+  "0xdF574c24545E5FfEcb9a659c229253D4111d87e1": {
     "name": "HUSD",
     "logo": "HUSD.svg",
     "erc20": true,
@@ -2284,7 +2396,7 @@
     "erc20": true,
     "symbol": "CAMP",
     "decimals": 18
-   },
+  },
   "0xdacD69347dE42baBfAEcD09dC88958378780FB62": {
     "name": "Atari Token",
     "logo": "atrilast.svg",
@@ -2304,6 +2416,13 @@
     "logo": "graphToken.svg",
     "erc20": true,
     "symbol": "GRT",
+    "decimals": 18
+  },
+  "0xFE3E6a25e6b192A42a44ecDDCd13796471735ACf": {
+    "name": "Reef Finance",
+    "logo": "reef.svg",
+    "erc20": true,
+    "symbol": "REEF",
     "decimals": 18
   },
   "0x43Dfc4159D86F3A37A5A4B3D4580b888ad7d4DDd": {
@@ -2334,6 +2453,13 @@
     "symbol": "CRU",
     "decimals": 18
   },
+  "0xDcB01cc464238396E213a6fDd933E36796eAfF9f": {
+    "name": "Yield",
+    "logo": "yield-logo.svg",
+    "erc20": true,
+    "symbol": "YLD",
+    "decimals": 18
+  },
   "0x968F6f898a6Df937fC1859b323aC2F14643e3fED": {
     "name": "Newscrypto",
     "logo": "NWC.svg",
@@ -2346,6 +2472,20 @@
     "logo": "USDx.svg",
     "erc20": true,
     "symbol": "USDx",
+    "decimals": 18
+  },
+  "0x6e0daDE58D2d89eBBe7aFc384e3E4f15b70b14D8": {
+    "name": "QuiverX",
+    "logo": "quiverx.svg",
+    "erc20": true,
+    "symbol": "QRX",
+    "decimals": 18
+  },
+  "0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4": {
+    "name": "Route",
+    "logo": "route.svg",
+    "erc20": true,
+    "symbol": "ROUTE",
     "decimals": 18
   }
 }
