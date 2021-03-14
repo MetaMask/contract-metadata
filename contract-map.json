@@ -1,4 +1,11 @@
 { 
+  "0xaBcbC2a058D9Ff74E0a9d9D5c480453F76FaDc30": {
+    "name": "BNIX Token",
+    "logo": "Bnix.svg",
+    "erc20": true,
+    "symbol": "BNIX",
+    "decimals": 18
+  },
   "0x40FD72257597aA14C7231A7B1aaa29Fce868F677": {
     "name": "Sora Token",
     "logo": "xor.svg",
