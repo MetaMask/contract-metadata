@@ -2501,5 +2501,12 @@
     "erc20": true,
     "symbol": "ROUTE",
     "decimals": 18
-  }
+  },
+  "0x8b39b70e39aa811b69365398e0aace9bee238aeb": {
+    "name": "PolkaFoundry",
+    "logo": "polka_foundry.svg",
+    "erc20": true,
+    "symbol": "PKF",
+    "decimals": 18
+  },
 }
