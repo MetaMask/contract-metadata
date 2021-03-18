@@ -1,4 +1,11 @@
 { 
+  "0x21BfBDa47A0B4B5b1248c767Ee49F7caA9B23697": {
+    "name": "OVR",
+    "logo": "OVR.svg",
+    "erc20": true,
+    "symbol": "OVR",
+    "decimals": 18
+  },
   "0x4691937a7508860F876c9c0a2a617E7d9E945D4B": {
     "name": "Wootrade Network",
     "logo": "wootrade.svg",
