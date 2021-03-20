@@ -2614,6 +2614,13 @@
     "symbol": "CRU",
     "decimals": 18
   },
+  "0x3472A5A71965499acd81997a54BBA8D852C6E53d": {
+    "name": "BADGER",
+    "logo": "badger.svg",
+    "erc20": true,
+    "symbol": "BADGER",
+    "decimals": 18
+  },
   "0xDcB01cc464238396E213a6fDd933E36796eAfF9f": {
     "name": "Yield",
     "logo": "yield-logo.svg",
