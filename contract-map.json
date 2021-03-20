@@ -2655,5 +2655,12 @@
     "erc20": true,
     "symbol": "FWB",
     "decimals": 18
+  },
+  "0xd10b90125c4118300a1b235690d9356da33ee204": {
+    "name": "Friends With Benefits Classic",
+    "logo": "FWBC.png",
+    "erc20": true,
+    "symbol": "FWBc",
+    "decimals": 4
   }
 }
