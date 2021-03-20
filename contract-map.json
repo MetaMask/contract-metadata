@@ -2649,8 +2649,8 @@
     "symbol": "ROUTE",
     "decimals": 18
   },
-  "0x35bd01fc9d6d5d81ca9e055db88dc49aa2c699a8": {
-    "name": "Friends With Benefits Pro",
+  "0x35bD01FC9d6D5D81CA9E055Db88Dc49aa2c699A8": {
+    "name": "FWB Pro",
     "logo": "FWB.png",
     "erc20": true,
     "symbol": "FWB",
