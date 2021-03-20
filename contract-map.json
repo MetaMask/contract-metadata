@@ -2648,5 +2648,12 @@
     "erc20": true,
     "symbol": "ROUTE",
     "decimals": 18
+  },
+  "0x35bd01fc9d6d5d81ca9e055db88dc49aa2c699a8": {
+    "name": "Friends With Benefits Pro",
+    "logo": "FWB.png",
+    "erc20": true,
+    "symbol": "FWB",
+    "decimals": 18
   }
 }
