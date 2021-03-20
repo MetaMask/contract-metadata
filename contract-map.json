@@ -2655,12 +2655,5 @@
     "erc20": true,
     "symbol": "FWB",
     "decimals": 18
-  },
-  "0x7d91e637589EC3Bb54D8213a9e92Dc6E8D12da91": {
-    "name": "FWB Classic",
-    "logo": "FWBc.svg",
-    "erc20": true,
-    "symbol": "FWBc",
-    "decimals": 4
   }
 }
