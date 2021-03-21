@@ -2648,5 +2648,12 @@
     "erc20": true,
     "symbol": "ROUTE",
     "decimals": 18
+  },
+  "0xF938424F7210f31dF2Aee3011291b658f872e91e": {
+    "name": "Visor",
+    "logo": "VISR.png",
+    "erc20": true,
+    "symbol": "VISR",
+    "decimals": 18
   }
 }
