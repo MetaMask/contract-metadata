@@ -2642,6 +2642,13 @@
     "symbol": "QRX",
     "decimals": 18
   },
+  "0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24": {
+    "name": "GraphLinq",
+    "logo": "glq.svg",
+    "erc20": true,
+    "symbol": "GLQ",
+    "decimals": 18
+  },
   "0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4": {
     "name": "Route",
     "logo": "route.svg",
