@@ -131,7 +131,7 @@
     "erc20": true,
     "symbol": "mVIXY",
     "decimals":18
-  }, 
+  },
   "0x21BfBDa47A0B4B5b1248c767Ee49F7caA9B23697": {
     "name": "OVR",
     "logo": "OVR.svg",
@@ -2542,6 +2542,13 @@
     "logo": "obsolete.svg",
     "erc20": true,
     "symbol": "AXNv1",
+    "decimals": 18
+  },
+  "0x358AA737e033F34df7c54306960a38d09AaBd523": {
+    "name": "Ares Token",
+    "logo": "ares.svg",
+    "erc20": true,
+    "symbol": "ARES",
     "decimals": 18
   },
   "0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206": {
