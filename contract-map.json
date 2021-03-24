@@ -2676,5 +2676,12 @@
     "erc20": true,
     "symbol": "ROUTE",
     "decimals": 18
+  },
+  "0x75739d5944534115d7C54ee8C73F186D793BAE02": {
+    "name": "Collective",
+    "logo": "CO2.svg",
+    "erc20": true,
+    "symbol": "CO2",
+    "decimals": 18
   }
 }
