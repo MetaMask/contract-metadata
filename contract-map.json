@@ -2670,6 +2670,13 @@
     "symbol": "GLQ",
     "decimals": 18
   },
+  "0xEB58343b36C7528F23CAAe63a150240241310049": {
+    "name": "NBU",
+    "logo": "NBU.svg",
+    "erc20": true,
+    "symbol": "NBU",
+    "decimals": 18
+  },
   "0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4": {
     "name": "Route",
     "logo": "route.svg",
