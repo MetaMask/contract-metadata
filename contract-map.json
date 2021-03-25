@@ -1,4 +1,11 @@
 {
+  "0xf293d23BF2CDc05411Ca0edDD588eb1977e8dcd4": {
+    "name": "Sylo",
+    "logo": "SYLO.svg",
+    "erc20": true,
+    "symbol": "SYLO",
+    "decimals": 18
+  },
   "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84": {
     "name": "Liquid staked Ether 2.0",
     "logo": "stETH.svg",
