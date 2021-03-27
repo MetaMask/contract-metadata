@@ -2697,5 +2697,12 @@
     "erc20": true,
     "symbol": "MATTER",
     "decimals": 18
+  },
+  "0x6De037ef9aD2725EB40118Bb1702EBb27e4Aeb24": {
+    "name": "Render Token",
+    "logo": "RNDR.png",
+    "erc20": true,
+    "symbol": "RNDR",
+    "decimals": 18
   }
 }
