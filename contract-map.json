@@ -1,4 +1,11 @@
 {
+    "0x083D41d6DD21EE938f0c055CA4fb12268DF0EfaC": {
+    "name": "GogolCoin",
+    "logo": "GOL.png",
+    "erc20": true,
+    "symbol": "GOL",
+    "decimals": 3
+  },  
   "0xBCf9dBf8B14eD096B2BA08b7269356197fDd1b5D": {
     "name": "Avaluse",
     "logo": "avaluse.svg",
