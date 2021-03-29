@@ -6,6 +6,13 @@
     "symbol": "AVAL",
     "decimals": 18
   },
+  "0x9AF4f26941677C706cfEcf6D3379FF01bB85D5Ab": {
+    "name": "DomRaiderToken",
+    "logo": "drt.svg",
+    "erc20": true,
+    "symbol": "DRT",
+    "decimals": 8
+  },
   "0x06B179e292f080871825beD5D722162fD96B4c95": {
     "name": "10x.gg",
     "logo": "xgg.svg",
