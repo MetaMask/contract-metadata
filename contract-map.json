@@ -4,7 +4,7 @@
     "logo": "GOL.png",
     "erc20": true,
     "symbol": "GOL",
-    "decimals": 3
+    "decimals": 4
   },  
   "0xBCf9dBf8B14eD096B2BA08b7269356197fDd1b5D": {
     "name": "Avaluse",
