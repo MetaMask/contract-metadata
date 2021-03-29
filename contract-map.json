@@ -1,4 +1,25 @@
 {
+  "0xBCf9dBf8B14eD096B2BA08b7269356197fDd1b5D": {
+    "name": "Avaluse",
+    "logo": "avaluse.svg",
+    "erc20": true,
+    "symbol": "AVAL",
+    "decimals": 18
+  },
+  "0x06B179e292f080871825beD5D722162fD96B4c95": {
+    "name": "10x.gg",
+    "logo": "xgg.svg",
+    "erc20": true,
+    "symbol": "XGG",
+    "decimals": 18
+  },
+  "0xF29992D7b589A0A6bD2de7Be29a97A6EB73EaF85": {
+    "name": "DMScript",
+    "logo": "dmst.svg",
+    "erc20": true,
+    "symbol": "DMST",
+    "decimals": 18
+  }, 
   "0xf293d23BF2CDc05411Ca0edDD588eb1977e8dcd4": {
     "name": "Sylo",
     "logo": "SYLO.svg",
