@@ -26,7 +26,7 @@
     "erc20": true,
     "symbol": "DMST",
     "decimals": 18
-  }, 
+  },
   "0xf293d23BF2CDc05411Ca0edDD588eb1977e8dcd4": {
     "name": "Sylo",
     "logo": "SYLO.svg",
@@ -187,7 +187,7 @@
     "erc20": true,
     "symbol": "mVIXY",
     "decimals":18
-  }, 
+  },
   "0x21BfBDa47A0B4B5b1248c767Ee49F7caA9B23697": {
     "name": "OVR",
     "logo": "OVR.svg",
@@ -230,7 +230,7 @@
     "symbol": "JASMY",
     "decimals": 18
   },
-   "0x947AEb02304391f8fbE5B25D7D98D649b57b1788": {
+  "0x947AEb02304391f8fbE5B25D7D98D649b57b1788": {
     "name": "Mandala Exchange Token",
     "logo": "mandala.svg",
     "erc20": true,
@@ -600,7 +600,7 @@
     "erc20": true,
     "symbol": "DRC",
     "decimals": 18
- },
+  },
   "0xF433089366899D83a9f26A773D59ec7eCF30355e": {
     "name": "Metal",
     "logo": "mtl.svg",
@@ -2731,6 +2731,13 @@
     "logo": "RNDR.svg",
     "erc20": true,
     "symbol": "RNDR",
+    "decimals": 18
+  },
+  "0x431ad2ff6a9C365805eBaD47Ee021148d6f7DBe0": {
+    "name": "dForce",
+    "logo": "DF.svg",
+    "erc20": true,
+    "symbol": "DF",
     "decimals": 18
   }
 }
