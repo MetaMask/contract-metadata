@@ -2732,5 +2732,12 @@
     "erc20": true,
     "symbol": "RNDR",
     "decimals": 18
+  },
+    "0xdf49c9f599a0a9049d97cff34d0c30e468987389": {
+    "name": "SaTT",
+    "logo": "SaTT.svg",
+    "erc20": true,
+    "symbol": "SATT",
+    "decimals": 18
   }
 }
