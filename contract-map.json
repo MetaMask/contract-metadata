@@ -2746,5 +2746,12 @@
     "erc20": true,
     "symbol": "DF",
     "decimals": 18
+  },
+  "0x2781246fe707bb15cee3e5ea354e2154a2877b16": {
+    "name": "Elysia",
+    "logo": "el.png",
+    "erc20": true,
+    "symbol": "EL",
+    "decimals": 18
   }
 }
