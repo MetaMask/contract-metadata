@@ -1,4 +1,11 @@
 {
+  "0x9318105460626e7fa58308fa4bce40e4616f3565": {
+    "name": "PixieDust",
+    "logo": "PIXIE.svg"
+    "erc20": true,
+    "symbol": "PIXIE",
+    "decimals": 18
+  },
   "0xBCf9dBf8B14eD096B2BA08b7269356197fDd1b5D": {
     "name": "Avaluse",
     "logo": "avaluse.svg",
