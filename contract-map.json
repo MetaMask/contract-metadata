@@ -1,7 +1,7 @@
 {
   "0x9318105460626e7fa58308fa4bce40e4616f3565": {
     "name": "PixieDust",
-    "logo": "PIXIE.svg"
+    "logo": "PIXIE.svg",
     "erc20": true,
     "symbol": "PIXIE",
     "decimals": 18
