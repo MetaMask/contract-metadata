@@ -1,4 +1,12 @@
 {
+ "0xf67164e920419f806813103ec44272Ef45615c66": {
+    "name": "Spades Coin",
+    "logo": "spadecoin.png",
+    "erc20": true,
+    "symbol": "SPADE",
+    "decimals": 18
+},
+{
   "0xBCf9dBf8B14eD096B2BA08b7269356197fDd1b5D": {
     "name": "Avaluse",
     "logo": "avaluse.svg",
