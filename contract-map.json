@@ -2740,6 +2740,20 @@
     "symbol": "SATT",
     "decimals": 18
   },
+  "0x652594082f97392a1703D80985Ab575085f34a4e": {
+    "name": "SilverToken",
+    "logo": "SilverToken.svg",
+    "erc20": true,
+    "symbol": "SLVT",
+    "decimals": 8
+  },
+  "0xdBA8e8021FE321af91FC3A08e223EF15908cB2bB": {
+    "name": "SilverDollar",
+    "logo": "SilverDollar.svg",
+    "erc20": true,
+    "symbol": "SLVD",
+    "decimals": 8
+  },
   "0x431ad2ff6a9C365805eBaD47Ee021148d6f7DBe0": {
     "name": "dForce",
     "logo": "DF.svg",
