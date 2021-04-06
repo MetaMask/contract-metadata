@@ -2558,6 +2558,13 @@
     "symbol": "GET",
     "decimals": 18
   },
+  "0x2781246fe707bB15CeE3e5ea354e2154a2877B16": {
+    "name": "Elysia",
+    "logo": "el.svg",
+    "erc20": true,
+    "symbol": "EL",
+    "decimals": 18
+  },
   "0xc12d099be31567add4e4e4d0D45691C3F58f5663": {
     "name": "Auctus",
     "logo": "auc.svg",
