@@ -2719,6 +2719,13 @@
     "symbol": "ROUTE",
     "decimals": 18
   },
+  "0x35bD01FC9d6D5D81CA9E055Db88Dc49aa2c699A8": {
+    "name": "FWB Pro",
+    "logo": "FWB.svg",
+    "erc20": true,
+    "symbol": "FWB",
+    "decimals": 18
+  },
   "0x1C9491865a1DE77C5b6e19d2E6a5F1D7a6F2b25F": {
     "name": "Antimatter",
     "logo": "antimatter.svg",
