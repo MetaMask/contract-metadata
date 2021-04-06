@@ -1,4 +1,11 @@
 {
+  "0x53C8395465A84955c95159814461466053DedEDE": {
+    "name": "DeGate Token",
+    "logo": "DG.svg",
+    "erc20": true,
+    "symbol": "DG",
+    "decimals": 18
+  },
   "0xBCf9dBf8B14eD096B2BA08b7269356197fDd1b5D": {
     "name": "Avaluse",
     "logo": "avaluse.svg",
