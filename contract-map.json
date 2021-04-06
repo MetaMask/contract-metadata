@@ -1,4 +1,60 @@
 {
+  "0xBCf9dBf8B14eD096B2BA08b7269356197fDd1b5D": {
+    "name": "Avaluse",
+    "logo": "avaluse.svg",
+    "erc20": true,
+    "symbol": "AVAL",
+    "decimals": 18
+  },
+  "0x9AF4f26941677C706cfEcf6D3379FF01bB85D5Ab": {
+    "name": "DomRaiderToken",
+    "logo": "drt.svg",
+    "erc20": true,
+    "symbol": "DRT",
+    "decimals": 8
+  },
+  "0x06B179e292f080871825beD5D722162fD96B4c95": {
+    "name": "10x.gg",
+    "logo": "xgg.svg",
+    "erc20": true,
+    "symbol": "XGG",
+    "decimals": 18
+  },
+  "0xF29992D7b589A0A6bD2de7Be29a97A6EB73EaF85": {
+    "name": "DMScript",
+    "logo": "dmst.svg",
+    "erc20": true,
+    "symbol": "DMST",
+    "decimals": 18
+  },
+  "0xf293d23BF2CDc05411Ca0edDD588eb1977e8dcd4": {
+    "name": "Sylo",
+    "logo": "SYLO.svg",
+    "erc20": true,
+    "symbol": "SYLO",
+    "decimals": 18
+  },
+  "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84": {
+    "name": "Liquid staked Ether 2.0",
+    "logo": "stETH.svg",
+    "erc20": true,
+    "symbol": "stETH",
+    "decimals": 18
+  },
+  "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0": {
+    "name": "Wrapped liquid staked Ether 2.0",
+    "logo": "wstETH.svg",
+    "erc20": true,
+    "symbol": "wstETH",
+    "decimals": 18
+  },
+  "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32": {
+    "name": "Lido DAO Token",
+    "logo": "LDO.svg",
+    "erc20": true,
+    "symbol": "LDO",
+    "decimals": 18
+  },
   "0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9": {
       "name": "Wrapped LUNA Token",
       "logo": "Luna.svg",
@@ -131,7 +187,7 @@
     "erc20": true,
     "symbol": "mVIXY",
     "decimals":18
-  }, 
+  },
   "0x21BfBDa47A0B4B5b1248c767Ee49F7caA9B23697": {
     "name": "OVR",
     "logo": "OVR.svg",
@@ -174,7 +230,7 @@
     "symbol": "JASMY",
     "decimals": 18
   },
-   "0x947AEb02304391f8fbE5B25D7D98D649b57b1788": {
+  "0x947AEb02304391f8fbE5B25D7D98D649b57b1788": {
     "name": "Mandala Exchange Token",
     "logo": "mandala.svg",
     "erc20": true,
@@ -544,7 +600,7 @@
     "erc20": true,
     "symbol": "DRC",
     "decimals": 18
- },
+  },
   "0xF433089366899D83a9f26A773D59ec7eCF30355e": {
     "name": "Metal",
     "logo": "mtl.svg",
@@ -2642,6 +2698,20 @@
     "symbol": "QRX",
     "decimals": 18
   },
+  "0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24": {
+    "name": "GraphLinq",
+    "logo": "glq.svg",
+    "erc20": true,
+    "symbol": "GLQ",
+    "decimals": 18
+  },
+  "0xEB58343b36C7528F23CAAe63a150240241310049": {
+    "name": "NBU",
+    "logo": "NBU.svg",
+    "erc20": true,
+    "symbol": "NBU",
+    "decimals": 18
+  },
   "0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4": {
     "name": "Route",
     "logo": "route.svg",
@@ -2654,6 +2724,34 @@
     "logo": "FWB.svg",
     "erc20": true,
     "symbol": "FWB",
+    "decimals": 18
+  },
+  "0x1C9491865a1DE77C5b6e19d2E6a5F1D7a6F2b25F": {
+    "name": "Antimatter",
+    "logo": "antimatter.svg",
+    "erc20": true,
+    "symbol": "MATTER",
+    "decimals": 18
+  },
+  "0x6De037ef9aD2725EB40118Bb1702EBb27e4Aeb24": {
+    "name": "Render Token",
+    "logo": "RNDR.svg",
+    "erc20": true,
+    "symbol": "RNDR",
+    "decimals": 18
+  },
+  "0xDf49C9f599A0A9049D97CFF34D0C30E468987389": {
+    "name": "SaTT",
+    "logo": "SaTT.svg",
+    "erc20": true,
+    "symbol": "SATT",
+    "decimals": 18
+  },
+  "0x431ad2ff6a9C365805eBaD47Ee021148d6f7DBe0": {
+    "name": "dForce",
+    "logo": "DF.svg",
+    "erc20": true,
+    "symbol": "DF",
     "decimals": 18
   }
 }
