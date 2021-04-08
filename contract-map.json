@@ -2767,5 +2767,12 @@
     "erc20": true,
     "symbol": "DF",
     "decimals": 18
+  },
+ "0x1b40183EFB4Dd766f11bDa7A7c3AD8982e998421": {
+    "name": "Vesper",
+    "logo": "Vesper-VSP-Token.svg",
+    "erc20": true,
+    "symbol": "VSP",
+    "decimals": 18    
   }
 }
