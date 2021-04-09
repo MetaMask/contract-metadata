@@ -1,19 +1,18 @@
 {
   "0x6d52dfefb16bb9cdc78bfca09061e44574886626": {
     "name": "CPUcoin",
-    "logo": "CPUcoin.png",
+    "logo": "CPUcoin.svg",
     "erc20": true,
     "symbol": "CPU",
     "decimals": 18
   },
-   "0xCdeee767beD58c5325f68500115d4B722b3724EE": {
-   "0x947AEb02304391f8fbE5B25D7D98D649b57b1788": {
+  "0x947AEb02304391f8fbE5B25D7D98D649b57b1788": {
     "name": "Mandala Exchange Token",
     "logo": "mandala.svg",
     "erc20": true,
     "symbol": "MDX",
     "decimals": 18
-  }, 
+  },
   "0xCdeee767beD58c5325f68500115d4B722b3724EE": {
     "name": "Carbon",
     "logo": "CRBN.svg",
