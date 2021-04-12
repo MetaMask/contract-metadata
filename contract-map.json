@@ -1,11 +1,25 @@
 {
     "0x083D41d6DD21EE938f0c055CA4fb12268DF0EfaC": {
     "name": "GogolCoin",
-    "logo": "GOL.png",
+    "logo": "GOL.svg",
     "erc20": true,
     "symbol": "GOL",
     "decimals": 4
   },  
+  "0xF25c91C87e0B1fd9B4064Af0F427157AaB0193A7": {
+    "name": "BASIC Token",
+    "logo": "basic.svg",
+    "erc20": true,
+    "symbol": "BASIC",
+    "decimals": 18    
+  },
+  "0x53C8395465A84955c95159814461466053DedEDE": {
+    "name": "DeGate Token",
+    "logo": "DG.svg",
+    "erc20": true,
+    "symbol": "DG",
+    "decimals": 18
+  },
   "0xBCf9dBf8B14eD096B2BA08b7269356197fDd1b5D": {
     "name": "Avaluse",
     "logo": "avaluse.svg",
@@ -33,7 +47,7 @@
     "erc20": true,
     "symbol": "DMST",
     "decimals": 18
-  }, 
+  },
   "0xf293d23BF2CDc05411Ca0edDD588eb1977e8dcd4": {
     "name": "Sylo",
     "logo": "SYLO.svg",
@@ -194,7 +208,7 @@
     "erc20": true,
     "symbol": "mVIXY",
     "decimals":18
-  }, 
+  },
   "0x21BfBDa47A0B4B5b1248c767Ee49F7caA9B23697": {
     "name": "OVR",
     "logo": "OVR.svg",
@@ -237,7 +251,7 @@
     "symbol": "JASMY",
     "decimals": 18
   },
-   "0x947AEb02304391f8fbE5B25D7D98D649b57b1788": {
+  "0x947AEb02304391f8fbE5B25D7D98D649b57b1788": {
     "name": "Mandala Exchange Token",
     "logo": "mandala.svg",
     "erc20": true,
@@ -607,7 +621,7 @@
     "erc20": true,
     "symbol": "DRC",
     "decimals": 18
- },
+  },
   "0xF433089366899D83a9f26A773D59ec7eCF30355e": {
     "name": "Metal",
     "logo": "mtl.svg",
@@ -2558,6 +2572,13 @@
     "symbol": "GET",
     "decimals": 18
   },
+  "0x2781246fe707bB15CeE3e5ea354e2154a2877B16": {
+    "name": "Elysia",
+    "logo": "el.svg",
+    "erc20": true,
+    "symbol": "EL",
+    "decimals": 18
+  },
   "0xc12d099be31567add4e4e4d0D45691C3F58f5663": {
     "name": "Auctus",
     "logo": "auc.svg",
@@ -2726,6 +2747,13 @@
     "symbol": "ROUTE",
     "decimals": 18
   },
+  "0x35bD01FC9d6D5D81CA9E055Db88Dc49aa2c699A8": {
+    "name": "FWB Pro",
+    "logo": "FWB.svg",
+    "erc20": true,
+    "symbol": "FWB",
+    "decimals": 18
+  },
   "0x1C9491865a1DE77C5b6e19d2E6a5F1D7a6F2b25F": {
     "name": "Antimatter",
     "logo": "antimatter.svg",
@@ -2739,5 +2767,26 @@
     "erc20": true,
     "symbol": "RNDR",
     "decimals": 18
+  },
+  "0xDf49C9f599A0A9049D97CFF34D0C30E468987389": {
+    "name": "SaTT",
+    "logo": "SaTT.svg",
+    "erc20": true,
+    "symbol": "SATT",
+    "decimals": 18
+  },
+  "0x431ad2ff6a9C365805eBaD47Ee021148d6f7DBe0": {
+    "name": "dForce",
+    "logo": "DF.svg",
+    "erc20": true,
+    "symbol": "DF",
+    "decimals": 18
+  },
+ "0x1b40183EFB4Dd766f11bDa7A7c3AD8982e998421": {
+    "name": "Vesper",
+    "logo": "Vesper-VSP-Token.svg",
+    "erc20": true,
+    "symbol": "VSP",
+    "decimals": 18    
   }
 }
