@@ -1,4 +1,11 @@
 {
+  "0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919": {
+    "name": "Rai Reflex Index",
+    "logo": "rai.svg",
+    "erc20": true,
+    "symbol": "RAI",
+    "decimals": 18    
+  },
   "0xF25c91C87e0B1fd9B4064Af0F427157AaB0193A7": {
     "name": "BASIC Token",
     "logo": "basic.svg",
