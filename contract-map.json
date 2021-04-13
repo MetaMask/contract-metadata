@@ -48,6 +48,13 @@
     "symbol": "DMST",
     "decimals": 18
   },
+  "0xDd1Ad9A21Ce722C151A836373baBe42c868cE9a4": {
+    "name": "Universal Basic Income",
+    "logo": "ubi.svg",
+    "erc20": true,
+    "symbol": "UBI",
+    "decimals": 18
+  },
   "0xf293d23BF2CDc05411Ca0edDD588eb1977e8dcd4": {
     "name": "Sylo",
     "logo": "SYLO.svg",
