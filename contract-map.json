@@ -2795,5 +2795,12 @@
     "erc20": true,
     "symbol": "VSP",
     "decimals": 18    
+  },
+  "0xb63a911ae7dc40510e7bb552b7fcb94c198bbe2d": {
+    "name": "Arrano Dex",
+    "logo": "ANDX.svg",
+    "erc20": true,
+    "symbol": "ANDX",
+    "decimals": 18 
   }
 }
