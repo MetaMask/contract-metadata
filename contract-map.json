@@ -1,12 +1,4 @@
 {
-  
-  "0x6243d8CEA23066d098a15582d81a598b4e8391F4": {
-    "name": "Reflexer Ungovernance Token",
-    "logo": "flx.svg",
-    "erc20": true,
-    "symbol": "FLX",
-    "decimals": 18    
-  }
   "0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919": {
     "name": "Rai Reflex Index",
     "logo": "rai.svg",
@@ -54,6 +46,13 @@
     "logo": "dmst.svg",
     "erc20": true,
     "symbol": "DMST",
+    "decimals": 18
+  },
+  "0xDd1Ad9A21Ce722C151A836373baBe42c868cE9a4": {
+    "name": "Universal Basic Income",
+    "logo": "ubi.svg",
+    "erc20": true,
+    "symbol": "UBI",
     "decimals": 18
   },
   "0xf293d23BF2CDc05411Ca0edDD588eb1977e8dcd4": {
