@@ -1,4 +1,11 @@
 {
+  "0x8E3BCC334657560253B83f08331d85267316e08a": {
+    "name": "Rubic",
+    "logo": "brbc.svg",
+    "erc20": true,
+    "symbol": "BRBC",
+    "decimals": 18    
+  },
   "0x6243d8CEA23066d098a15582d81a598b4e8391F4": {
     "name": "Reflexer Ungovernance Token",
     "logo": "flx.svg",
