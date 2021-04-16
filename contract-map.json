@@ -1,4 +1,11 @@
 {
+  "0x18aAA7115705e8be94bfFEBDE57Af9BFc265B998": {
+    "name": "Audius",
+    "logo": "audius.svg",
+    "erc20": true,
+    "symbol": "AUDIO",
+    "decimals": 18
+  },
   "0x8E3BCC334657560253B83f08331d85267316e08a": {
     "name": "Rubic",
     "logo": "brbc.svg",
