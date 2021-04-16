@@ -1,4 +1,11 @@
 {
+  "0x6243d8CEA23066d098a15582d81a598b4e8391F4": {
+    "name": "Reflexer Ungovernance Token",
+    "logo": "flx.svg",
+    "erc20": true,
+    "symbol": "FLX",
+    "decimals": 18    
+  },
   "0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919": {
     "name": "Rai Reflex Index",
     "logo": "rai.svg",
