@@ -20,7 +20,7 @@
     "symbol": "RAI",
     "decimals": 18    
   },
-  "0x964291d2d0a7e3477a8a06ee745f3cd8e3d0b375": {
+  "0x964291d2D0a7e3477a8a06ee745F3cD8E3d0B375": {
     "name": "Intelligent Mining Token",
     "logo": "iM.svg",
     "erc20": true,
