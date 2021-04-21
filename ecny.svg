@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+	<defs>
+		<image  width="600" height="600" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAJYAQMAAACEqAqfAAAAAXNSR0IB2cksfwAAAANQTFRF////p8QbyAAAAENJREFUeJztwQENAAAAwqD3T20ON6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAL4NsiAAAfkdBQsAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #230a09;stroke: #f31e3b;paint-order:stroke fill markers;stroke-width: 44 } 
+		.shp1 { fill: #f31e3b } 
+	</style>
+	<use id="Background" href="#img1" x="1" y="0" />
+	<path id="Shape 1" class="shp0" d="M300 558C157.33 558 42 442.67 42 300C42 157.33 157.33 42 300 42C442.67 42 558 157.33 558 300C558 442.67 442.67 558 300 558Z" />
+	<path id="Y " fill="#f31e3b" aria-label="Y"  d="M275.66 276.22L152.11 121.39L202.89 121.39L299.76 242.96L395.94 121.39L446.72 121.39L323.16 276.22L323.16 417L275.66 417L275.66 276.22Z" />
+	<path id="Shape 2" class="shp1" d="M205 300L394 300L394 348L205 348L205 300Z" />
+	<path id="Shape 2 copy" class="shp1" d="M205 361L394 361L394 409L205 409L205 361Z" />
+	<path id="Shape 2 copy 2" class="shp1" d="M205 421L394 421L394 469L205 469L205 421Z" />
+	<path id="Shape 3" class="shp1" d="M276 386L323 386L323 506L276 506L276 386Z" />
+</svg>
