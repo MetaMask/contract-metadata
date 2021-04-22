@@ -1,4 +1,11 @@
 {
+  "0x62A6738d887F47e297676FaB05b902709B106C64": {
+    "name": "ArCoin",
+    "logo": "ArCoin.svg",
+    "erc20": true,
+    "symbol": "ARCA",
+    "decimals": 18
+  },
   "0x18aAA7115705e8be94bfFEBDE57Af9BFc265B998": {
     "name": "Audius",
     "logo": "audius.svg",
