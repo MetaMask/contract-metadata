@@ -1,4 +1,11 @@
 {
+  "0x05fe7535d46481ce9cb1944fc403a74230dfecbf": {
+    "name": "Wall Street Bets Token",
+    "logo": "WSBT.svg",
+    "erc20": true,
+    "symbol": "WSBT",
+    "decimals": 8
+  },
   "0x18aAA7115705e8be94bfFEBDE57Af9BFc265B998": {
     "name": "Audius",
     "logo": "audius.svg",
