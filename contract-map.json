@@ -650,6 +650,13 @@
     "symbol": "GAME",
     "decimals": 18
   },
+  "0x5150956E082C748Ca837a5dFa0a7C10CA4697f9c": {
+    "name": "Zeedex",
+    "logo": "zdex.svg",
+    "erc20": true,
+    "symbol": "ZDEX",
+      "decimals": 18
+  },
   "0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419": {
     "name": "DIAdata",
     "logo": "dia.svg",
