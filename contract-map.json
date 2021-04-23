@@ -1,4 +1,11 @@
 {
+  "0x1cF4592ebfFd730c7dc92c1bdFFDfc3B9EfCf29a": {
+    "name": "WAVES",
+    "logo": "waves.svg",
+    "erc20": true,
+    "symbol": "WAVES",
+    "decimals": 18
+  },
   "0x62A6738d887F47e297676FaB05b902709B106C64": {
     "name": "ArCoin",
     "logo": "ArCoin.svg",
