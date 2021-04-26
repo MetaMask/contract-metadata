@@ -6,6 +6,20 @@
     "symbol": "GOL",
     "decimals": 4
   },  
+  "0x1cF4592ebfFd730c7dc92c1bdFFDfc3B9EfCf29a": {
+    "name": "WAVES",
+    "logo": "waves.svg",
+    "erc20": true,
+    "symbol": "WAVES",
+    "decimals": 18
+  },
+  "0x62A6738d887F47e297676FaB05b902709B106C64": {
+    "name": "ArCoin",
+    "logo": "ArCoin.svg",
+    "erc20": true,
+    "symbol": "ARCA",
+    "decimals": 18
+  },
   "0x18aAA7115705e8be94bfFEBDE57Af9BFc265B998": {
     "name": "Audius",
     "logo": "audius.svg",
@@ -642,6 +656,13 @@
     "erc20": true,
     "symbol": "GAME",
     "decimals": 18
+  },
+  "0x5150956E082C748Ca837a5dFa0a7C10CA4697f9c": {
+    "name": "Zeedex",
+    "logo": "zdex.svg",
+    "erc20": true,
+    "symbol": "ZDEX",
+      "decimals": 18
   },
   "0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419": {
     "name": "DIAdata",
