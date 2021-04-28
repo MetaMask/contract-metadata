@@ -2844,5 +2844,12 @@
     "erc20": true,
     "symbol": "VSP",
     "decimals": 18    
+  },
+  "0x6839aC5Ea8082688B706C773D5d2aFd7d503FDD4": {
+    "name": "Next Level",
+    "logo": "NXL.svg",
+    "erc20": true,
+    "symbol": "NXL",
+    "decimals": 0
   }
 }
