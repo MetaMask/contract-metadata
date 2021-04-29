@@ -2852,6 +2852,13 @@
     "symbol": "wCELO",
     "decimals": 18
   },
+  "0x4A64515E5E1d1073e83f30cB97BEd20400b66E10": {
+    "name": "Wrapped ZEC",
+    "logo": "WZEC.svg",
+    "erc20": true,
+    "symbol": "WZEC",
+    "decimals": 18
+  },
  "0x1b40183EFB4Dd766f11bDa7A7c3AD8982e998421": {
     "name": "Vesper",
     "logo": "Vesper-VSP-Token.svg",
