@@ -2866,6 +2866,13 @@
     "symbol": "WXTZ",
     "decimals": 18
   },
+  "0x53c4871322Bb47e7A24136fce291a6dcC832a294": {
+    "name": "Wrapped Litecoin",
+    "logo": "WLTC.svg",
+    "erc20": true,
+    "symbol": "WLTC",
+    "decimals": 18
+  },
  "0x1b40183EFB4Dd766f11bDa7A7c3AD8982e998421": {
     "name": "Vesper",
     "logo": "Vesper-VSP-Token.svg",
