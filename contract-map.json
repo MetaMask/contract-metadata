@@ -2873,6 +2873,13 @@
     "symbol": "WLTC",
     "decimals": 18
   },
+  "0xad3e3fc59dff318beceaab7d00eb4f68b1ecf195": {
+    "name": "Wrapped Celo USD",
+    "logo": "WCUSD.svg",
+    "erc20": true,
+    "symbol": "wCUSD",
+    "decimals": 18
+  },
  "0x1b40183EFB4Dd766f11bDa7A7c3AD8982e998421": {
     "name": "Vesper",
     "logo": "Vesper-VSP-Token.svg",
