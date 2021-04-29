@@ -2838,6 +2838,13 @@
     "symbol": "DF",
     "decimals": 18
   },
+  "0x6e1A19F235bE7ED8E3369eF73b196C07257494DE": {
+    "name": "Wrapped Filecoin",
+    "logo": "WFIL.svg",
+    "erc20": true,
+    "symbol": "WFIL",
+    "decimals": 18
+  },
  "0x1b40183EFB4Dd766f11bDa7A7c3AD8982e998421": {
     "name": "Vesper",
     "logo": "Vesper-VSP-Token.svg",
