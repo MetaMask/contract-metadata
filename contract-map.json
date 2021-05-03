@@ -2858,5 +2858,12 @@
     "erc20": true,
     "symbol": "VSP",
     "decimals": 18    
+  },
+ "0x3B73c1B2ea59835cbfcADade5462b6aB630D9890": {
+    "name": "ChainSwap.com Governance Token",
+    "logo": "chainswap.svg",
+    "erc20": true,
+    "symbol": "TOKEN",
+    "decimals": 18    
   }
 }
