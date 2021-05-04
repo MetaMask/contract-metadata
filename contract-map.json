@@ -2859,6 +2859,13 @@
     "symbol": "VSP",
     "decimals": 18    
   },
+  "0x544c42fBB96B39B21DF61cf322b5EDC285EE7429": {
+    "name": "InsurAce",
+    "logo": "INSUR.svg",
+    "erc20": true,
+    "symbol": "INSUR",
+    "decimals": 18
+  },
  "0x3B73c1B2ea59835cbfcADade5462b6aB630D9890": {
     "name": "ChainSwap.com Governance Token",
     "logo": "chainswap.svg",
