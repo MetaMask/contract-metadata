@@ -2872,5 +2872,12 @@
     "erc20": true,
     "symbol": "TOKEN",
     "decimals": 18    
+  },
+  "0x182F4c4C97cd1c24E1Df8FC4c053E5C47bf53Bef": {
+    "name": "keyTango Token",
+    "logo": "keyTango.svg",
+    "erc20": true,
+    "symbol": "TANGO",
+    "decimals": 18
   }
 }
