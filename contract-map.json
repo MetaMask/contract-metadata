@@ -2879,5 +2879,12 @@
     "erc20": true,
     "symbol": "TANGO",
     "decimals": 18
+     },
+  "0xFfCf5f9feb7e14833331B6687755d1622399316C": {
+    "name": "ICICB Coin",
+    "logo": "icicb1.png",
+    "erc20": true,
+    "symbol": "ICICB",
+    "decimals": 0
   }
 }
