@@ -2,7 +2,7 @@
   "0x27ae27110350b98d564b9a3eed31baebc82d878d": {
     "name": "CumRocket",
     "logo": "CUMMIES.png",
-    "erc20": true,
+    "erc20": false,
     "symbol": "CUMMIES",
     "decimals": 18
   },
