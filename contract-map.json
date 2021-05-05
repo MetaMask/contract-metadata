@@ -1,4 +1,11 @@
 {
+  "0x27ae27110350b98d564b9a3eed31baebc82d878d": {
+    "name": "CumRocket",
+    "logo": "CUMMIES.png",
+    "erc20": true,
+    "symbol": "CUMMIES",
+    "decimals": 18
+  },
   "0x1cF4592ebfFd730c7dc92c1bdFFDfc3B9EfCf29a": {
     "name": "WAVES",
     "logo": "waves.svg",
