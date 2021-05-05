@@ -2831,6 +2831,13 @@
     "symbol": "ROUTE",
     "decimals": 18
   },
+  "0x75739d5944534115d7C54ee8C73F186D793BAE02": {
+    "name": "Collective",
+    "logo": "CO2.svg",
+    "erc20": true,
+    "symbol": "CO2",
+    "decimals": 18
+  },
   "0x35bD01FC9d6D5D81CA9E055Db88Dc49aa2c699A8": {
     "name": "FWB Pro",
     "logo": "FWB.svg",
