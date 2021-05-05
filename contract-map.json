@@ -853,6 +853,13 @@
     "symbol": "GRID",
     "decimals": 12
   },
+  "0xDb05EA0877A2622883941b939f0bb11d1ac7c400": {
+    "name": "Opacity",
+    "logo": "opct.svg",
+    "erc20": true,
+    "symbol": "OPCT",
+    "decimals": 18
+  },
   "0x4575f41308EC1483f3d399aa9a2826d74Da13Deb": {
     "name": "Orchid",
     "logo": "OXT.svg",
