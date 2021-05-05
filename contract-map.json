@@ -62,6 +62,13 @@
     "symbol": "AVAL",
     "decimals": 18
   },
+  "0x6E765D26388A17A6e86c49A8E41DF3F58aBcd337": {
+    "name": "Kangal",
+    "logo": "kangal.svg",
+    "erc20": true,
+    "symbol": "KANGAL",
+    "decimals": 18
+  },  
   "0x9AF4f26941677C706cfEcf6D3379FF01bB85D5Ab": {
     "name": "DomRaiderToken",
     "logo": "drt.svg",
