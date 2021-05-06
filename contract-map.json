@@ -1,4 +1,18 @@
 {
+  "0x196f4727526eA7FB1e17b2071B3d8eAA38486988": {
+    "name": "Reserve",
+    "logo": "rsv.svg",
+    "erc20": true,
+    "symbol": "RSV",
+    "decimals": 18
+  },
+  "0x8762db106b2c2a0bccb3a80d1ed41273552616e8": {
+    "name": "Reserve Rights",
+    "logo": "rsr.svg",
+    "erc20": true,
+    "symbol": "RSR",
+    "decimals": 18
+  },
   "0x1cF4592ebfFd730c7dc92c1bdFFDfc3B9EfCf29a": {
     "name": "WAVES",
     "logo": "waves.svg",
