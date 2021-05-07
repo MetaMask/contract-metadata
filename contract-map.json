@@ -6,6 +6,20 @@
     "symbol": "MAI",
     "decimals": 18
   },
+  "0x196f4727526eA7FB1e17b2071B3d8eAA38486988": {
+    "name": "Reserve",
+    "logo": "rsv.svg",
+    "erc20": true,
+    "symbol": "RSV",
+    "decimals": 18
+  },
+  "0x8762db106B2c2A0bccB3A80d1Ed41273552616E8": {
+    "name": "Reserve Rights",
+    "logo": "rsr.svg",
+    "erc20": true,
+    "symbol": "RSR",
+    "decimals": 18
+  },
   "0x1cF4592ebfFd730c7dc92c1bdFFDfc3B9EfCf29a": {
     "name": "WAVES",
     "logo": "waves.svg",
@@ -69,6 +83,13 @@
     "symbol": "AVAL",
     "decimals": 18
   },
+  "0x6E765D26388A17A6e86c49A8E41DF3F58aBcd337": {
+    "name": "Kangal",
+    "logo": "kangal.svg",
+    "erc20": true,
+    "symbol": "KANGAL",
+    "decimals": 18
+  },  
   "0x9AF4f26941677C706cfEcf6D3379FF01bB85D5Ab": {
     "name": "DomRaiderToken",
     "logo": "drt.svg",
@@ -859,6 +880,13 @@
     "erc20": true,
     "symbol": "GRID",
     "decimals": 12
+  },
+  "0xDb05EA0877A2622883941b939f0bb11d1ac7c400": {
+    "name": "Opacity",
+    "logo": "opct.svg",
+    "erc20": true,
+    "symbol": "OPCT",
+    "decimals": 18
   },
   "0x4575f41308EC1483f3d399aa9a2826d74Da13Deb": {
     "name": "Orchid",
@@ -2822,6 +2850,13 @@
     "logo": "route.svg",
     "erc20": true,
     "symbol": "ROUTE",
+    "decimals": 18
+  },
+  "0x75739d5944534115d7C54ee8C73F186D793BAE02": {
+    "name": "Collective",
+    "logo": "CO2.svg",
+    "erc20": true,
+    "symbol": "CO2",
     "decimals": 18
   },
   "0x35bD01FC9d6D5D81CA9E055Db88Dc49aa2c699A8": {
