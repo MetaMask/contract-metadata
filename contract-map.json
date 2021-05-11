@@ -1,4 +1,11 @@
 {
+  "0xDad0D778e39aF7b16b74aaB36bf112d10E7262A8": {
+    "name": "Shopperoo",
+    "logo": "SRO.svg",
+    "erc20": true,
+    "symbol": "SRO",
+    "decimals": 9
+  },
   "0x898BAD2774EB97cF6b94605677F43b41871410B1": {
     "name": "vEth2",
     "logo": "vEth2.svg",
