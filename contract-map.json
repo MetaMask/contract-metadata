@@ -2796,6 +2796,13 @@
     "symbol": "DODO",
     "decimals": 18
   },
+  "0x4a615bB7166210CCe20E6642a6f8Fb5d4D044496":{
+    "name": "NAOS Finance",
+    "logo": "naos.svg",
+    "erc20": true,
+    "symbol": "NAOS",
+    "decimals": 18
+  },
   "0x111111111117dC0aa78b770fA6A738034120C302": {
     "name": "1INCH Token",
     "logo": "1inch.svg",
