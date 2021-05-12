@@ -2880,7 +2880,21 @@
     "symbol": "wCUSD",
     "decimals": 18
   },
- "0x1b40183EFB4Dd766f11bDa7A7c3AD8982e998421": {
+  "0x62A6738d887F47e297676FaB05b902709B106C64": {
+    "name": "ARCA",
+    "logo": "ARCA.svg",
+    "erc20": true,
+    "symbol": "ARCA",
+    "decimals": 18
+  },
+  "0xBBC7f7A6AADAc103769C66CBC69AB720f7F9Eae3": {
+    "name": "INX Token",
+    "logo": "INX.svg",
+    "erc20": true,
+    "symbol": "INX",
+    "decimals": 18
+  },
+  "0x1b40183EFB4Dd766f11bDa7A7c3AD8982e998421": {
     "name": "Vesper",
     "logo": "Vesper-VSP-Token.svg",
     "erc20": true,
