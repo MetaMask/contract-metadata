@@ -2845,7 +2845,7 @@
     "symbol": "WFIL",
     "decimals": 18
   },
-  "0xe452e6ea2ddeb012e20db73bf5d3863a3ac8d77a": {
+  "0xE452E6Ea2dDeB012e20dB73bf5d3863A3Ac8d77a": {
     "name": "Wrapped Celo",
     "logo": "WCELO.svg",
     "erc20": true,
@@ -2873,7 +2873,7 @@
     "symbol": "WLTC",
     "decimals": 18
   },
-  "0xad3e3fc59dff318beceaab7d00eb4f68b1ecf195": {
+  "0xad3E3Fc59dff318BecEaAb7D00EB4F68b1EcF195": {
     "name": "Wrapped Celo USD",
     "logo": "WCUSD.svg",
     "erc20": true,
