@@ -2798,7 +2798,7 @@
   },
   "0x4a615bB7166210CCe20E6642a6f8Fb5d4D044496":{
     "name": "NAOS Finance",
-    "logo": "naos.png",
+    "logo": "naos.svg",
     "erc20": true,
     "symbol": "NAOS",
     "decimals": 18
