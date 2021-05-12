@@ -2915,7 +2915,63 @@
     "symbol": "DF",
     "decimals": 18
   },
- "0x1b40183EFB4Dd766f11bDa7A7c3AD8982e998421": {
+  "0x6e1A19F235bE7ED8E3369eF73b196C07257494DE": {
+    "name": "Wrapped Filecoin",
+    "logo": "WFIL.svg",
+    "erc20": true,
+    "symbol": "WFIL",
+    "decimals": 18
+  },
+  "0xE452E6Ea2dDeB012e20dB73bf5d3863A3Ac8d77a": {
+    "name": "Wrapped Celo",
+    "logo": "WCELO.svg",
+    "erc20": true,
+    "symbol": "wCELO",
+    "decimals": 18
+  },
+  "0x4A64515E5E1d1073e83f30cB97BEd20400b66E10": {
+    "name": "Wrapped ZEC",
+    "logo": "WZEC.svg",
+    "erc20": true,
+    "symbol": "WZEC",
+    "decimals": 18
+  },
+  "0xA3865E64121537b5b59B5e239Db4aCBe6F36aa74": {
+    "name": "Wrapped Tezos",
+    "logo": "WXTZ.svg",
+    "erc20": true,
+    "symbol": "WXTZ",
+    "decimals": 18
+  },
+  "0x53c4871322Bb47e7A24136fce291a6dcC832a294": {
+    "name": "Wrapped Litecoin",
+    "logo": "WLTC.svg",
+    "erc20": true,
+    "symbol": "WLTC",
+    "decimals": 18
+  },
+  "0xad3E3Fc59dff318BecEaAb7D00EB4F68b1EcF195": {
+    "name": "Wrapped Celo USD",
+    "logo": "WCUSD.svg",
+    "erc20": true,
+    "symbol": "wCUSD",
+    "decimals": 18
+  },
+  "0x62A6738d887F47e297676FaB05b902709B106C64": {
+    "name": "ARCA",
+    "logo": "ARCA.svg",
+    "erc20": true,
+    "symbol": "ARCA",
+    "decimals": 18
+  },
+  "0xBBC7f7A6AADAc103769C66CBC69AB720f7F9Eae3": {
+    "name": "INX Token",
+    "logo": "INX.svg",
+    "erc20": true,
+    "symbol": "INX",
+    "decimals": 18
+  },
+  "0x1b40183EFB4Dd766f11bDa7A7c3AD8982e998421": {
     "name": "Vesper",
     "logo": "Vesper-VSP-Token.svg",
     "erc20": true,
