@@ -2959,98 +2959,98 @@
   },
   "0xB983E01458529665007fF7E0CDdeCDB74B967Eb6": {
     "name": "Fulcrum ETH iToken (iETH)",
-    "logo": "ic_token_ieth.svg",
+    "logo": "itoken_circle_ETH.svg",
     "erc20": true,
     "symbol": "iETH",
     "decimals": 18
   },
   "0x32E4c68B3A4a813b710595AebA7f6B7604Ab9c15": {
     "name": "Fulcrum USDC iToken (iUSDC)",
-    "logo": "ic_token_usdc.svg",
+    "logo": "itoken_circle_USDC.svg",
     "erc20": true,
     "symbol": "iUSDC",
     "decimals": 6
   },
   "0x2ffa85f655752fB2aCB210287c60b9ef335f5b6E": {
     "name": "Fulcrum WBTC iToken (iWBTC)",
-    "logo": "ic_token_ibtc.svg",
+    "logo": "itoken_circle_WBTC.svg",
     "erc20": true,
     "symbol": "iWBTC",
     "decimals": 8
   },
   "0x687642347a9282Be8FD809d8309910A3f984Ac5a": {
     "name": "Fulcrum KNC iToken (iKNC)",
-    "logo": "ic_token_knc.svg",
+    "logo": "itoken_circle_KNC.svg",
     "erc20": true,
     "symbol": "iKNC",
     "decimals": 18
   },
   "0x463538705E7d22aA7f03Ebf8ab09B067e1001B54": {
     "name": "Fulcrum LINK iToken (iLINK)",
-    "logo": "ic_token_ilink.svg",
+    "logo": "itoken_circle_LINK.svg",
     "erc20": true,
     "symbol": "iLINK",
     "decimals": 18
   },
   "0x6b093998D36f2C7F0cc359441FBB24CC629D5FF0": {
     "name": "Fulcrum DAI iToken (iDAI)",
-    "logo": "ic_token_dai.svg",
+    "logo": "itoken_circle_DAI.svg",
     "erc20": true,
     "symbol": "iDAI",
     "decimals": 18
   },
   "0x7e9997a38A439b2be7ed9c9C4628391d3e055D48": {
     "name": "Fulcrum USDT iToken (iUSDT)",
-    "logo": "ic_token_iusdt.svg",
+    "logo": "itoken_circle_USDT.svg",
     "erc20": true,
     "symbol": "iUSDT",
     "decimals": 6
   },
   "0x9189c499727f88F8eCC7dC4EEA22c828E6AaC015": {
     "name": "Fulcrum MKR iToken (iMKR)",
-    "logo": "ic_token_mkr.svg",
+    "logo": "itoken_circle_MKR.svg",
     "erc20": true,
     "symbol": "iMKR",
     "decimals": 18
   },
   "0x18240BD9C07fA6156Ce3F3f61921cC82b2619157": {
     "name": "Fulcrum BZRX iToken (iBZRX)",
-    "logo": "ic_token_ibzrx.svg",
+    "logo": "itoken_circle_BZRX.svg",
     "erc20": true,
     "symbol": "iBZRX",
     "decimals": 18
   },
   "0x7F3Fe9D492A9a60aEBb06d82cBa23c6F32CAd10b": {
     "name": "Fulcrum YFI iToken (iYFI)",
-    "logo": "ic_token_yfi.svg",
+    "logo": "itoken_circle_YFI.svg",
     "erc20": true,
     "symbol": "iYFI",
     "decimals": 18
   },
   "0x0a625FceC657053Fe2D9FFFdeb1DBb4e412Cf8A8": {
     "name": "Fulcrum UNI iToken (iUNI)",
-    "logo": "ic_token_uni.svg",
+    "logo": "itoken_circle_UNI.svg",
     "erc20": true,
     "symbol": "iUNI",
     "decimals": 18
   },
   "0x0cae8d91E0b1b7Bd00D906E990C3625b2c220db1": {
     "name": "Fulcrum AAVE iToken (iAAVE)",
-    "logo": "ic_token_aave.svg",
+    "logo": "itoken_circle_AAVE.svg",
     "erc20": true,
     "symbol": "iAAVE",
     "decimals": 18
   },
   "0x3dA0e01472Dee3746b4D324a65D7EdFaECa9Aa4f": {
     "name": "Fulcrum LRC iToken (iLRC)",
-    "logo": "ic_token_lrc.svg",
+    "logo": "itoken_circle_LRC.svg",
     "erc20": true,
     "symbol": "iLRC",
     "decimals": 18
   },
   "0x6d29903BC2c4318b59B35d97Ab98ab9eC08Ed70D": {
     "name": "Fulcrum COMP iToken (iCOMP)",
-    "logo": "ic_token_comp.svg",
+    "logo": "itoken_circle_COMP.svg",
     "erc20": true,
     "symbol": "iCOMP",
     "decimals": 18
