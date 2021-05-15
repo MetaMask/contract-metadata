@@ -6,14 +6,14 @@
     "symbol": "vEth2",
     "decimals": 18
   },
-  "0x321c2fe4446c7c963dc41dd58879af648838f98d": {
+  "0x321C2fE4446C7c963dc41Dd58879AF648838f98D": {
     "name": "Cryptex Finance",
     "logo": "ctx.svg",
     "erc20": true,
     "symbol": "CTX",
     "decimals": 18
   },
-  "0x16c52ceece2ed57dad87319d91b5e3637d50afa4": {
+  "0x16c52CeeCE2ed57dAd87319D91B5e3637d50aFa4": {
     "name": "Total Crypto Market Cap",
     "logo": "tcap.svg",
     "erc20": true,
