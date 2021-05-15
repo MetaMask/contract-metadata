@@ -6,6 +6,20 @@
     "symbol": "vEth2",
     "decimals": 18
   },
+  "0x321c2fe4446c7c963dc41dd58879af648838f98d": {
+    "name": "Cryptex Finance",
+    "logo": "ctx.svg",
+    "erc20": true,
+    "symbol": "CTX",
+    "decimals": 18
+  },
+  "0x16c52ceece2ed57dad87319d91b5e3637d50afa4": {
+    "name": "Total Crypto Market Cap",
+    "logo": "tcap.svg",
+    "erc20": true,
+    "symbol": "TCAP",
+    "decimals": 18
+  },
   "0x84810bcF08744d5862B8181f12d17bfd57d3b078": {
     "name": "SharedStake",
     "logo": "sharedstake.svg",
