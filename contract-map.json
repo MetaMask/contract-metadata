@@ -2998,5 +2998,12 @@
     "erc20": true,
     "symbol": "TANGO",
     "decimals": 18
+  },
+  "0xc55c2175e90a46602fd42e931f62b3acc1a013ca": {
+    "name": "Mogul Productions",
+    "logo": "mogulStars.png",
+    "erc20": true,
+    "symbol": "STARS",
+    "decimals": 18
   }
 }
