@@ -1,4 +1,11 @@
 {
+  "0xCacEf23C1ea3c72777f9615B0A4ced1982aF9EEF": {
+    "name": "RYZE",
+    "logo": "ARYZE.svg",
+    "erc20": true,
+    "symbol": "RYZE",
+    "decimals": 18
+  },
   "0x898BAD2774EB97cF6b94605677F43b41871410B1": {
     "name": "vEth2",
     "logo": "vEth2.svg",
