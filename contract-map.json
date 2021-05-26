@@ -2998,5 +2998,12 @@
     "erc20": true,
     "symbol": "TANGO",
     "decimals": 18
+   },
+  "0xDe30da39c46104798bB5aA3fe8B9e0e1F348163F": {
+    "name": "Gitcoin",
+    "logo": "gtc256.png",
+    "erc20": true,
+    "symbol": "GTC",
+    "decimals": 18
   }
 }
