@@ -2998,5 +2998,12 @@
     "erc20": true,
     "symbol": "TANGO",
     "decimals": 18
+  },
+  "0x17d1823bd5e96e76e822ab42b61d348302e072d5": {
+    "name": "ROSA",
+    "logo": "rosa.svg",
+    "erc20": true,
+    "symbol": "ROSA",
+    "decimals": 18
   }
 }
