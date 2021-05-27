@@ -1,4 +1,11 @@
 {
+  "0x85F17Cf997934a597031b2E18a9aB6ebD4B9f6a4": {
+    "name": "NEAR",
+    "logo": "NEAR.svg",
+    "erc20": true,
+    "symbol": "NEAR",
+    "decimals": 24
+  },
   "0x898BAD2774EB97cF6b94605677F43b41871410B1": {
     "name": "vEth2",
     "logo": "vEth2.svg",
