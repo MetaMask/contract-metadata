@@ -3005,5 +3005,12 @@
     "erc20": true,
     "symbol": "GTC",
     "decimals": 18
+  },
+ "0x1796ae0b0fa4862485106a0de9b654eFE301D0b2": {
+    "name": "Polkamon",
+    "logo": "PMON.svg",
+    "erc20": true,
+    "symbol": "PMON",
+    "decimals": 18
   }
 }
