@@ -3006,6 +3006,13 @@
     "symbol": "GTC",
     "decimals": 18
   },
+ "0x1796ae0b0fa4862485106a0de9b654eFE301D0b2": {
+    "name": "Polkamon",
+    "logo": "PMON.svg",
+    "erc20": true,
+    "symbol": "PMON",
+    "decimals": 18
+  },
   "0x56d811088235F11C8920698a204A5010a788f4b3": {
     "name": "bZx Protocol Token (BZRX)",
     "logo": "ic_token_bzrx.svg",
