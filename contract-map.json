@@ -3006,7 +3006,7 @@
     "symbol": "GTC",
     "decimals": 18
   },
- "0x1796ae0b0fa4862485106a0de9b654efe301d0b2": {
+ "0x1796ae0b0fa4862485106a0de9b654eFE301D0b2": {
     "name": "Polkamon",
     "logo": "PMON.svg",
     "erc20": true,
