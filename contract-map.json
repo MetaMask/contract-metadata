@@ -2999,6 +2999,13 @@
     "symbol": "TANGO",
     "decimals": 18
   },
+  "0xDe30da39c46104798bB5aA3fe8B9e0e1F348163F": {
+    "name": "Gitcoin",
+    "logo": "gtc.svg",
+    "erc20": true,
+    "symbol": "GTC",
+    "decimals": 18
+  },
   "0x56d811088235F11C8920698a204A5010a788f4b3": {
     "name": "bZx Protocol Token (BZRX)",
     "logo": "ic_token_bzrx.svg",
