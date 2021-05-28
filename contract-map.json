@@ -3005,5 +3005,12 @@
     "erc20": true,
     "symbol": "GTC",
     "decimals": 18
+  },
+  "0x29502fE4d233EF0b45C3647101Fa1252cE0634BD": {
+    "name": "Froge Finance",
+    "logo": "Froge.png",
+    "erc20": true,
+    "symbol": "FROGE",
+    "decimals": 9
   }
 }
