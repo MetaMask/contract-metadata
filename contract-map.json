@@ -5,6 +5,55 @@
     "erc20": true,
     "symbol": "CPU"
   },
+  "0x898BAD2774EB97cF6b94605677F43b41871410B1": {
+    "name": "vEth2",
+    "logo": "vEth2.svg",
+    "erc20": true,
+    "symbol": "vEth2",
+    "decimals": 18
+  },
+  "0x84810bcF08744d5862B8181f12d17bfd57d3b078": {
+    "name": "SharedStake",
+    "logo": "sharedstake.svg",
+    "erc20": true,
+    "symbol": "SGT",
+    "decimals": 18
+  },
+  "0x75387e1287Dd85482aB66102DA9f6577E027f609": {
+    "name": "MindsyncAI",
+    "logo": "MAI.svg",
+    "erc20": true,
+    "symbol": "MAI",
+    "decimals": 18
+  },
+  "0x196f4727526eA7FB1e17b2071B3d8eAA38486988": {
+    "name": "Reserve",
+    "logo": "rsv.svg",
+    "erc20": true,
+    "symbol": "RSV",
+    "decimals": 18
+  },
+  "0x8762db106B2c2A0bccB3A80d1Ed41273552616E8": {
+    "name": "Reserve Rights",
+    "logo": "rsr.svg",
+    "erc20": true,
+    "symbol": "RSR",
+    "decimals": 18
+  },
+  "0x1cF4592ebfFd730c7dc92c1bdFFDfc3B9EfCf29a": {
+    "name": "WAVES",
+    "logo": "waves.svg",
+    "erc20": true,
+    "symbol": "WAVES",
+    "decimals": 18
+  },
+  "0x62A6738d887F47e297676FaB05b902709B106C64": {
+    "name": "ArCoin",
+    "logo": "ArCoin.svg",
+    "erc20": true,
+    "symbol": "ARCA",
+    "decimals": 18
+  },
   "0x18aAA7115705e8be94bfFEBDE57Af9BFc265B998": {
     "name": "Audius",
     "logo": "audius.svg",
@@ -54,6 +103,13 @@
     "symbol": "AVAL",
     "decimals": 18
   },
+  "0x6E765D26388A17A6e86c49A8E41DF3F58aBcd337": {
+    "name": "Kangal",
+    "logo": "kangal.svg",
+    "erc20": true,
+    "symbol": "KANGAL",
+    "decimals": 18
+  },  
   "0x9AF4f26941677C706cfEcf6D3379FF01bB85D5Ab": {
     "name": "DomRaiderToken",
     "logo": "drt.svg",
@@ -600,6 +656,13 @@
     "symbol": "AAVE",
     "decimals": 18
   },
+  "0x1Da87b114f35E1DC91F72bF57fc07A768Ad40Bb0": {
+    "name": "Equalizer",
+    "logo": "EQZ.svg",
+    "erc20": true,
+    "symbol": "EQZ",
+    "decimals": 18
+  },
   "0x4da27a545c0c5B758a6BA100e3a049001de870f5": {
     "name": "Staked Aave",
     "logo": "stkAAVE.svg",
@@ -641,6 +704,13 @@
     "erc20": true,
     "symbol": "GAME",
     "decimals": 18
+  },
+  "0x5150956E082C748Ca837a5dFa0a7C10CA4697f9c": {
+    "name": "Zeedex",
+    "logo": "zdex.svg",
+    "erc20": true,
+    "symbol": "ZDEX",
+      "decimals": 18
   },
   "0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419": {
     "name": "DIAdata",
@@ -830,6 +900,13 @@
     "erc20": true,
     "symbol": "GRID",
     "decimals": 12
+  },
+  "0xDb05EA0877A2622883941b939f0bb11d1ac7c400": {
+    "name": "Opacity",
+    "logo": "opct.svg",
+    "erc20": true,
+    "symbol": "OPCT",
+    "decimals": 18
   },
   "0x4575f41308EC1483f3d399aa9a2826d74Da13Deb": {
     "name": "Orchid",
@@ -2529,6 +2606,13 @@
     "symbol": "2KEY",
     "decimals": 18
   },
+  "0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d": {
+    "name": "Fuse Token",
+    "logo": "fuse.svg",
+    "erc20": true,
+    "symbol": "FUSE",
+    "decimals": 18
+  },
   "0x0Ae055097C6d159879521C384F1D2123D1f195e6": {
     "name": "STAKE Token",
     "logo": "stake.png",
@@ -2662,6 +2746,13 @@
     "symbol": "AXNv1",
     "decimals": 18
   },
+  "0x358AA737e033F34df7c54306960a38d09AaBd523": {
+    "name": "Ares Token",
+    "logo": "ares.svg",
+    "erc20": true,
+    "symbol": "ARES",
+    "decimals": 18
+  },
   "0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206": {
     "name": "NEXO",
     "logo": "NEXO.svg",
@@ -2709,6 +2800,13 @@
     "logo": "DODO.svg",
     "erc20": true,
     "symbol": "DODO",
+    "decimals": 18
+  },
+  "0x4a615bB7166210CCe20E6642a6f8Fb5d4D044496":{
+    "name": "NAOS Finance",
+    "logo": "naos.svg",
+    "erc20": true,
+    "symbol": "NAOS",
     "decimals": 18
   },
   "0x111111111117dC0aa78b770fA6A738034120C302": {
@@ -2781,6 +2879,13 @@
     "symbol": "ROUTE",
     "decimals": 18
   },
+  "0x75739d5944534115d7C54ee8C73F186D793BAE02": {
+    "name": "Collective",
+    "logo": "CO2.svg",
+    "erc20": true,
+    "symbol": "CO2",
+    "decimals": 18
+  },
   "0x35bD01FC9d6D5D81CA9E055Db88Dc49aa2c699A8": {
     "name": "FWB Pro",
     "logo": "FWB.svg",
@@ -2816,12 +2921,102 @@
     "symbol": "DF",
     "decimals": 18
   },
+  "0x6e1A19F235bE7ED8E3369eF73b196C07257494DE": {
+    "name": "Wrapped Filecoin",
+    "logo": "WFIL.svg",
+    "erc20": true,
+    "symbol": "WFIL",
+    "decimals": 18
+  },
+  "0xE452E6Ea2dDeB012e20dB73bf5d3863A3Ac8d77a": {
+    "name": "Wrapped Celo",
+    "logo": "WCELO.svg",
+    "erc20": true,
+    "symbol": "wCELO",
+    "decimals": 18
+  },
+  "0x4A64515E5E1d1073e83f30cB97BEd20400b66E10": {
+    "name": "Wrapped ZEC",
+    "logo": "WZEC.svg",
+    "erc20": true,
+    "symbol": "WZEC",
+    "decimals": 18
+  },
+  "0xA3865E64121537b5b59B5e239Db4aCBe6F36aa74": {
+    "name": "Wrapped Tezos",
+    "logo": "WXTZ.svg",
+    "erc20": true,
+    "symbol": "WXTZ",
+    "decimals": 18
+  },
+  "0x53c4871322Bb47e7A24136fce291a6dcC832a294": {
+    "name": "Wrapped Litecoin",
+    "logo": "WLTC.svg",
+    "erc20": true,
+    "symbol": "WLTC",
+    "decimals": 18
+  },
+  "0xad3E3Fc59dff318BecEaAb7D00EB4F68b1EcF195": {
+    "name": "Wrapped Celo USD",
+    "logo": "WCUSD.svg",
+    "erc20": true,
+    "symbol": "wCUSD",
+    "decimals": 18
+  },
+  "0x62A6738d887F47e297676FaB05b902709B106C64": {
+    "name": "ARCA",
+    "logo": "ARCA.svg",
+    "erc20": true,
+    "symbol": "ARCA",
+    "decimals": 18
+  },
+  "0xBBC7f7A6AADAc103769C66CBC69AB720f7F9Eae3": {
+    "name": "INX Token",
+    "logo": "INX.svg",
+    "erc20": true,
+    "symbol": "INX",
+    "decimals": 18
+  },
   "0x1b40183EFB4Dd766f11bDa7A7c3AD8982e998421": {
     "name": "Vesper",
     "logo": "Vesper-VSP-Token.svg",
     "erc20": true,
     "symbol": "VSP",
     "decimals": 18    
+  },
+  "0x544c42fBB96B39B21DF61cf322b5EDC285EE7429": {
+    "name": "InsurAce",
+    "logo": "INSUR.svg",
+    "erc20": true,
+    "symbol": "INSUR",
+    "decimals": 18
+  },
+ "0x3B73c1B2ea59835cbfcADade5462b6aB630D9890": {
+    "name": "ChainSwap.com Governance Token",
+    "logo": "chainswap.svg",
+    "erc20": true,
+    "symbol": "TOKEN",
+    "decimals": 18    
+  },
+  "0x182F4c4C97cd1c24E1Df8FC4c053E5C47bf53Bef": {
+    "name": "keyTango Token",
+    "logo": "keyTango.svg",
+    "erc20": true,
+    "symbol": "TANGO",
+    "decimals": 18
+  },
+  "0xDe30da39c46104798bB5aA3fe8B9e0e1F348163F": {
+    "name": "Gitcoin",
+    "logo": "gtc.svg",
+    "erc20": true,
+    "symbol": "GTC",
+    "decimals": 18
+  },
+ "0x1796ae0b0fa4862485106a0de9b654eFE301D0b2": {
+    "name": "Polkamon",
+    "logo": "PMON.svg",
+    "erc20": true,
+    "symbol": "PMON",
+    "decimals": 18
   }
 }
-    
