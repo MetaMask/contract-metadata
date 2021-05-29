@@ -3012,5 +3012,12 @@
     "erc20": true,
     "symbol": "PMON",
     "decimals": 18
+  },
+  "0x1C7ede23b1361acC098A1e357C9085D131b34a01": {
+    "name": "Shine",
+    "logo": "Shine.svg",
+    "erc20": true,
+    "symbol": "SHN",
+    "decimals": 18
   }
 }
