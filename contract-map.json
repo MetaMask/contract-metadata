@@ -3012,5 +3012,12 @@
     "erc20": true,
     "symbol": "PMON",
     "decimals": 18
+  },
+  "0x71afF23750db1f4edbE32C942157a478349035b2": {
+    "name": "PRIVATEUM INITIATIVE",
+    "logo": "PVM.svg",
+    "erc20": true,
+    "symbol": "PVM",
+    "decimals": 18
   }
 }
