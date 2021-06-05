@@ -1,4 +1,11 @@
 {
+    "0x3f5df2f90df67e10974fbcb1729c00d3f87c0eb4": {
+    "name": "ShinCoin",
+    "logo": "SCOIN.png",
+    "erc20": true,
+    "symbol": "SCOIN",
+    "decimals": 6
+  },
   "0x898BAD2774EB97cF6b94605677F43b41871410B1": {
     "name": "vEth2",
     "logo": "vEth2.svg",
