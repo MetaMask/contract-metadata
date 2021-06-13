@@ -3012,5 +3012,12 @@
     "erc20": true,
     "symbol": "PMON",
     "decimals": 18
-  }
+  },
+ "0x3845badade8e6dff049820680d1f14bd3903a5d0": {
+    "name": "Sand",
+    "logo": "SAND.svg",
+    "erc20": true,
+    "symbol": "SAND",
+    "decimals": 18
+  },
 }
