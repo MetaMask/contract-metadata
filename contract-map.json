@@ -1,4 +1,11 @@
 {
+  "0x10633216E7E8281e33c86F02Bf8e565a635D9770": {
+    "name": "Dvision Network",
+    "logo": "dvision.svg",
+    "erc20": true,
+    "symbol": "DVI",
+  "decimals": 18
+  },
   "0x898BAD2774EB97cF6b94605677F43b41871410B1": {
     "name": "vEth2",
     "logo": "vEth2.svg",
