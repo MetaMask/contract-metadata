@@ -2957,13 +2957,6 @@
     "symbol": "wCUSD",
     "decimals": 18
   },
-  "0x62A6738d887F47e297676FaB05b902709B106C64": {
-    "name": "ARCA",
-    "logo": "ARCA.svg",
-    "erc20": true,
-    "symbol": "ARCA",
-    "decimals": 18
-  },
   "0xBBC7f7A6AADAc103769C66CBC69AB720f7F9Eae3": {
     "name": "INX Token",
     "logo": "INX.svg",
