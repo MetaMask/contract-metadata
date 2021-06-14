@@ -818,6 +818,13 @@
     "symbol": "POOLZ",
     "decimals": 18
   },
+  "0x0adA190c81b814548ddC2F6AdC4a689ce7C1FE73": {
+    "name": "yAxis",
+    "logo": "yaxis.svg",
+    "erc20": true,
+    "symbol": "YAXIS",
+    "decimals": 18
+  },
   "0xb1dC9124c395c1e97773ab855d66E879f053A289": {
     "name": "yAxis",
     "logo": "yaxis.svg",
