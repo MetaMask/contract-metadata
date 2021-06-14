@@ -3013,7 +3013,7 @@
     "symbol": "PMON",
     "decimals": 18
   },
-  "0x5218e472cfcfe0b64a064f055b43b4cdc9efd3a6": {
+  "0x5218E472cFCFE0b64A064F055B43b4cdC9EfD3A6": {
      "name": "unFederalReserve Token",
      "logo": "eRSDL.svg",
      "erc20": true,
@@ -3069,7 +3069,7 @@
     "symbol": "unAAVE",
     "decimals": 8
   },
- "0x9e29ce9cd25f4141df6bb85b27ef6933a16a5824": {
+ "0x9e29Ce9cD25F4141dF6BB85b27Ef6933a16A5824": {
     "name": "unFederal YFI",
     "logo": "unYFI.svg",
     "erc20": true,
