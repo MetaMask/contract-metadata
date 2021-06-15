@@ -1,4 +1,11 @@
 {
+  "0x10633216E7E8281e33c86F02Bf8e565a635D9770": {
+    "name": "Dvision Network",
+    "logo": "dvision.svg",
+    "erc20": true,
+    "symbol": "DVI",
+  "decimals": 18
+  },
   "0x898BAD2774EB97cF6b94605677F43b41871410B1": {
     "name": "vEth2",
     "logo": "vEth2.svg",
@@ -809,6 +816,13 @@
     "logo": "Poolz.svg",
     "erc20": true,
     "symbol": "POOLZ",
+    "decimals": 18
+  },
+  "0x0adA190c81b814548ddC2F6AdC4a689ce7C1FE73": {
+    "name": "yAxis",
+    "logo": "yaxis.svg",
+    "erc20": true,
+    "symbol": "YAXIS",
     "decimals": 18
   },
   "0xb1dC9124c395c1e97773ab855d66E879f053A289": {
@@ -2950,13 +2964,6 @@
     "symbol": "wCUSD",
     "decimals": 18
   },
-  "0x62A6738d887F47e297676FaB05b902709B106C64": {
-    "name": "ARCA",
-    "logo": "ARCA.svg",
-    "erc20": true,
-    "symbol": "ARCA",
-    "decimals": 18
-  },
   "0xBBC7f7A6AADAc103769C66CBC69AB720f7F9Eae3": {
     "name": "INX Token",
     "logo": "INX.svg",
@@ -2999,8 +3006,8 @@
     "symbol": "GTC",
     "decimals": 18
   },
-  "0x1796ae0b0fa4862485106a0de9b654eFE301D0b2": {
-    "name": "Polkamon",
+ "0x1796ae0b0fa4862485106a0de9b654eFE301D0b2": {
+    "name": "Polychain Monsters",
     "logo": "PMON.svg",
     "erc20": true,
     "symbol": "PMON",
@@ -3012,5 +3019,20 @@
     "erc20": true,
     "symbol": "ARDX",
     "decimals": 2
+  },
+  "0x3845badAde8e6dFF049820680d1F14bD3903a5d0": {
+    "name": "SAND",
+    "logo": "SAND.svg",
+    "erc20": true,
+    "symbol": "SAND",
+    "decimals": 18
+  },
+  "0x50f5474724e0Ee42D9a4e711ccFB275809Fd6d4a": {
+    "name": "Sandbox's LANDs",
+    "logo": "SAND.svg",
+    "erc20": false,
+    "erc721": true,
+    "symbol": "LAND",
+    "decimals": 0
   }
 }
