@@ -3019,5 +3019,20 @@
     "erc20": true,
     "symbol": "PMON",
     "decimals": 18
+  },
+  "0x3845badAde8e6dFF049820680d1F14bD3903a5d0": {
+    "name": "SAND",
+    "logo": "SAND.svg",
+    "erc20": true,
+    "symbol": "SAND",
+    "decimals": 18
+  },
+  "0x50f5474724e0Ee42D9a4e711ccFB275809Fd6d4a": {
+    "name": "Sandbox's LANDs",
+    "logo": "SAND.svg",
+    "erc20": false,
+    "erc721": true,
+    "symbol": "LAND",
+    "decimals": 0
   }
 }
