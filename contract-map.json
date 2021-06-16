@@ -67,28 +67,28 @@
     "logo": "brbc.svg",
     "erc20": true,
     "symbol": "BRBC",
-    "decimals": 18    
+    "decimals": 18
   },
   "0x6243d8CEA23066d098a15582d81a598b4e8391F4": {
     "name": "Reflexer Ungovernance Token",
     "logo": "flx.svg",
     "erc20": true,
     "symbol": "FLX",
-    "decimals": 18    
+    "decimals": 18
   },
   "0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919": {
     "name": "Rai Reflex Index",
     "logo": "rai.svg",
     "erc20": true,
     "symbol": "RAI",
-    "decimals": 18    
+    "decimals": 18
   },
   "0xF25c91C87e0B1fd9B4064Af0F427157AaB0193A7": {
     "name": "BASIC Token",
     "logo": "basic.svg",
     "erc20": true,
     "symbol": "BASIC",
-    "decimals": 18    
+    "decimals": 18
   },
   "0x53C8395465A84955c95159814461466053DedEDE": {
     "name": "DeGate Token",
@@ -110,7 +110,7 @@
     "erc20": true,
     "symbol": "KANGAL",
     "decimals": 18
-  },  
+  },
   "0x9AF4f26941677C706cfEcf6D3379FF01bB85D5Ab": {
     "name": "DomRaiderToken",
     "logo": "drt.svg",
@@ -168,25 +168,25 @@
     "decimals": 18
   },
   "0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9": {
-      "name": "Wrapped LUNA Token",
-      "logo": "Luna.svg",
-      "erc20": true,
-      "symbol": "LUNA",
-      "decimals": 18
+    "name": "Wrapped LUNA Token",
+    "logo": "Luna.svg",
+    "erc20": true,
+    "symbol": "LUNA",
+    "decimals": 18
   },
   "0xa47c8bf37f92aBed4A126BDA807A7b7498661acD": {
-      "name": "Wrapped UST Token",
-      "logo": "UST.svg",
-      "erc20": true,
-      "symbol": "UST",
-      "decimals": 18
+    "name": "Wrapped UST Token",
+    "logo": "UST.svg",
+    "erc20": true,
+    "symbol": "UST",
+    "decimals": 18
   },
   "0xcAAfF72A8CbBfc5Cf343BA4e26f65a257065bFF1": {
-      "name": "Wrapped KRT Token",
-      "logo": "KRT.svg",
-      "erc20": true,
-      "symbol": "KRT",
-      "decimals": 18
+    "name": "Wrapped KRT Token",
+    "logo": "KRT.svg",
+    "erc20": true,
+    "symbol": "KRT",
+    "decimals": 18
   },
   "0x676Ad1b33ae6423c6618C1AEcf53BAa29cf39EE5": {
     "name": "Wrapped SDT Token",
@@ -298,7 +298,7 @@
     "logo": "mVIXY.svg",
     "erc20": true,
     "symbol": "mVIXY",
-    "decimals":18
+    "decimals": 18
   },
   "0x21BfBDa47A0B4B5b1248c767Ee49F7caA9B23697": {
     "name": "OVR",
@@ -328,14 +328,14 @@
     "symbol": "VAL",
     "decimals": 18
   },
-  "0xaf9f549774ecEDbD0966C52f250aCc548D3F36E5":{
+  "0xaf9f549774ecEDbD0966C52f250aCc548D3F36E5": {
     "name": "RFUEL",
     "logo": "RFUEL.svg",
     "erc20": true,
     "symbol": "RFUEL",
     "decimals": 18
   },
-  "0x7420B4b9a0110cdC71fB720908340C03F9Bc03EC":{
+  "0x7420B4b9a0110cdC71fB720908340C03F9Bc03EC": {
     "name": "JasmyCoin",
     "logo": "JASMY.svg",
     "erc20": true,
@@ -711,7 +711,7 @@
     "logo": "zdex.svg",
     "erc20": true,
     "symbol": "ZDEX",
-      "decimals": 18
+    "decimals": 18
   },
   "0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419": {
     "name": "DIAdata",
@@ -720,7 +720,7 @@
     "symbol": "DIA",
     "decimals": 18
   },
-    "0xb78B3320493a4EFaa1028130C5Ba26f0B6085Ef8": {
+  "0xb78B3320493a4EFaa1028130C5Ba26f0B6085Ef8": {
     "name": "Dracula",
     "logo": "dracula.svg",
     "erc20": true,
@@ -2810,7 +2810,7 @@
     "symbol": "DODO",
     "decimals": 18
   },
-  "0x4a615bB7166210CCe20E6642a6f8Fb5d4D044496":{
+  "0x4a615bB7166210CCe20E6642a6f8Fb5d4D044496": {
     "name": "NAOS Finance",
     "logo": "naos.svg",
     "erc20": true,
@@ -2983,7 +2983,7 @@
     "logo": "Vesper-VSP-Token.svg",
     "erc20": true,
     "symbol": "VSP",
-    "decimals": 18    
+    "decimals": 18
   },
   "0x544c42fBB96B39B21DF61cf322b5EDC285EE7429": {
     "name": "InsurAce",
@@ -2992,12 +2992,12 @@
     "symbol": "INSUR",
     "decimals": 18
   },
- "0x3B73c1B2ea59835cbfcADade5462b6aB630D9890": {
+  "0x3B73c1B2ea59835cbfcADade5462b6aB630D9890": {
     "name": "ChainSwap.com Governance Token",
     "logo": "chainswap.svg",
     "erc20": true,
     "symbol": "TOKEN",
-    "decimals": 18    
+    "decimals": 18
   },
   "0x182F4c4C97cd1c24E1Df8FC4c053E5C47bf53Bef": {
     "name": "keyTango Token",
@@ -3019,6 +3019,13 @@
     "erc20": true,
     "symbol": "PMON",
     "decimals": 18
+  },
+  "0xB8E2e2101eD11e9138803cd3e06e16dd19910647": {
+    "name": "ArdCoin",
+    "logo": "ardcoin.svg",
+    "erc20": true,
+    "symbol": "ARDX",
+    "decimals": 2
   },
   "0x3845badAde8e6dFF049820680d1F14bD3903a5d0": {
     "name": "SAND",
