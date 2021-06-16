@@ -3020,7 +3020,7 @@
     "symbol": "PMON",
     "decimals": 18
   },
-  "0xb8e2e2101ed11e9138803cd3e06e16dd19910647": {
+  "0xB8E2e2101eD11e9138803cd3e06e16dd19910647": {
     "name": "ArdCoin",
     "logo": "ardcoin.svg",
     "erc20": true,
