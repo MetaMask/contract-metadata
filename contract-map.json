@@ -3027,6 +3027,13 @@
     "symbol": "ARDX",
     "decimals": 2
   },
+  "0x6D0F5149c502faf215C89ab306ec3E50b15e2892": {
+    "name": "Portion Token",
+    "logo": "PRT.svg",
+    "erc20": true,
+    "symbol": "PRT",
+    "decimals": 18
+  },
   "0x3845badAde8e6dFF049820680d1F14bD3903a5d0": {
     "name": "SAND",
     "logo": "SAND.svg",
