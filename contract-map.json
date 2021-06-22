@@ -20,6 +20,13 @@
     "symbol": "SGT",
     "decimals": 18
   },
+  "0x8f48e457b4b0708c999a1e088c005e977cfdd707": {
+    "name": "Studyum Token",
+    "logo": "stud.svg",
+    "erc20": true,
+    "symbol": "STUD",
+    "decimals": 18
+  },
   "0x75387e1287Dd85482aB66102DA9f6577E027f609": {
     "name": "MindsyncAI",
     "logo": "MAI.svg",
