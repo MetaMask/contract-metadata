@@ -4,7 +4,7 @@
     "logo": "dvision.svg",
     "erc20": true,
     "symbol": "DVI",
-  "decimals": 18
+    "decimals": 18
   },
   "0x898BAD2774EB97cF6b94605677F43b41871410B1": {
     "name": "vEth2",
@@ -3013,7 +3013,7 @@
     "symbol": "GTC",
     "decimals": 18
   },
- "0x1796ae0b0fa4862485106a0de9b654eFE301D0b2": {
+  "0x1796ae0b0fa4862485106a0de9b654eFE301D0b2": {
     "name": "Polychain Monsters",
     "logo": "PMON.svg",
     "erc20": true,
@@ -3047,6 +3047,14 @@
     "erc20": false,
     "erc721": true,
     "symbol": "LAND",
+    "decimals": 0
+  },
+  "0x5ab21Ec0bfa0B29545230395e3Adaca7d552C948": {
+    "name": "PUNKS Comic",
+    "logo": "punks-comic.svg",
+    "erc20": false,
+    "erc721": true,
+    "symbol": "COMIC",
     "decimals": 0
   }
 }
