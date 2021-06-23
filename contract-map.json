@@ -4,7 +4,7 @@
     "logo": "dvision.svg",
     "erc20": true,
     "symbol": "DVI",
-  "decimals": 18
+    "decimals": 18
   },
   "0x898BAD2774EB97cF6b94605677F43b41871410B1": {
     "name": "vEth2",
@@ -3013,7 +3013,7 @@
     "symbol": "GTC",
     "decimals": 18
   },
- "0x1796ae0b0fa4862485106a0de9b654eFE301D0b2": {
+  "0x1796ae0b0fa4862485106a0de9b654eFE301D0b2": {
     "name": "Polychain Monsters",
     "logo": "PMON.svg",
     "erc20": true,
@@ -3048,5 +3048,12 @@
     "erc721": true,
     "symbol": "LAND",
     "decimals": 0
+  },
+  "0x21381e026Ad6d8266244f2A583b35F9E4413FA2a": {
+    "name": "Formation Finance",
+    "logo": "form.svg",
+    "erc20": true,
+    "symbol": "FORM",
+    "decimals": 18
   }
 }
