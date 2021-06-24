@@ -1,11 +1,4 @@
 {
-  "0x362bc847A3a9637d3af6624EeC853618a43ed7D2": {
-    "name": "PARSIQ",
-    "logo": "parsiq.svg",
-    "erc20": true,
-    "symbol": "PRQ",
-  "decimals": 18
-  },
     "0x10633216E7E8281e33c86F02Bf8e565a635D9770": {
     "name": "Dvision Network",
     "logo": "dvision.svg",
@@ -3132,5 +3125,12 @@
     "erc721": true,
     "symbol": "LAND",
     "decimals": 0
+  },
+  "0x362bc847A3a9637d3af6624EeC853618a43ed7D2": {
+    "name": "PARSIQ",
+    "logo": "parsiq.svg",
+    "erc20": true,
+    "symbol": "PRQ",
+    "decimals": 18
   }
 }
