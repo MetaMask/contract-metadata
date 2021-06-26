@@ -3118,6 +3118,13 @@
     "symbol": "SAND",
     "decimals": 18
   },
+    "0xcc7ab8d78dBA187dC95bF3bB86e65E0C26d0041f": {
+    "name": "Spacelens",
+    "logo": "SPACE.svg",
+    "erc20": true,
+    "symbol": "SPACE",
+    "decimals": 18
+  },
   "0x50f5474724e0Ee42D9a4e711ccFB275809Fd6d4a": {
     "name": "Sandbox's LANDs",
     "logo": "SAND.svg",
