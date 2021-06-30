@@ -3133,6 +3133,13 @@
     "symbol": "LAND",
     "decimals": 0
   },
+  "0x21381e026Ad6d8266244f2A583b35F9E4413FA2a": {
+    "name": "Formation Finance",
+    "logo": "form.svg",
+    "erc20": true,
+    "symbol": "FORM",
+    "decimals": 18
+  },
   "0x46576e20EC5F25586A6Fa2E0d6B6058354B72E72": {
     "name": "Cryptomind",
     "logo": "CR.svg",
