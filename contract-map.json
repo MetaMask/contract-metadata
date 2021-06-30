@@ -3132,5 +3132,13 @@
     "erc721": true,
     "symbol": "LAND",
     "decimals": 0
+  },
+  "0x46576e20EC5F25586A6Fa2E0d6B6058354B72E72": {
+    "name": "Cryptomind",
+    "logo": "CR.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "CR",
+    "decimals": 8
   }
 }
