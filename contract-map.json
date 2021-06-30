@@ -1729,6 +1729,13 @@
     "symbol": "DAI",
     "decimals": 18
   },
+  "0xC477D038d5420C6A9e0b031712f61c5120090de9": {
+    "name": "Boson Token",
+    "logo": "boson.svg",
+    "erc20": true,
+    "symbol": "BOSON",
+    "decimals": 18
+  },
   "0xD46bA6D942050d489DBd938a2C909A5d5039A161": {
     "name": "Ampleforth",
     "logo": "ampl.svg",
