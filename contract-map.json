@@ -3132,5 +3132,13 @@
     "erc721": true,
     "symbol": "LAND",
     "decimals": 0
+  },
+  "0xAC9ce326e95f51B5005e9fE1DD8085a01F18450c": {
+    "name": "VeriSafe",
+    "logo": "verisafe.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "VSF",
+    "decimals": 18
   }
 }
