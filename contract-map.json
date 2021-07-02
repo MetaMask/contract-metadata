@@ -2166,7 +2166,7 @@
   },
   "0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd": {
     "name": "Gemini Dollar",
-    "logo": "gemini_28.png",
+    "logo": "gusd.svg",
     "erc20": true,
     "symbol": "GUSD",
     "decimals": 2
