@@ -545,6 +545,13 @@
     "symbol": "aENJ",
     "decimals": 18
   },
+  "0xD37EE7e4f452C6638c96536e68090De8cBcdb583": {
+    "name": "Aave GUSD",
+    "logo": "aGUSD.svg",
+    "erc20": true,
+    "symbol": "aGUSD",
+    "decimals": 2
+  },
   "0x39C6b3e42d6A679d7D776778Fe880BC9487C2EDA": {
     "name": "Aave KNC",
     "logo": "aKNC.svg",
@@ -2166,7 +2173,7 @@
   },
   "0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd": {
     "name": "Gemini Dollar",
-    "logo": "gemini_28.png",
+    "logo": "gusd.svg",
     "erc20": true,
     "symbol": "GUSD",
     "decimals": 2
