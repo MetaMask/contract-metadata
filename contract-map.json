@@ -545,6 +545,13 @@
     "symbol": "aENJ",
     "decimals": 18
   },
+  "0xD37EE7e4f452C6638c96536e68090De8cBcdb583": {
+    "name": "Aave GUSD",
+    "logo": "aGUSD.svg",
+    "erc20": true,
+    "symbol": "aGUSD",
+    "decimals": 2
+  },
   "0x39C6b3e42d6A679d7D776778Fe880BC9487C2EDA": {
     "name": "Aave KNC",
     "logo": "aKNC.svg",
@@ -1729,6 +1736,13 @@
     "symbol": "DAI",
     "decimals": 18
   },
+  "0xC477D038d5420C6A9e0b031712f61c5120090de9": {
+    "name": "Boson Token",
+    "logo": "boson.svg",
+    "erc20": true,
+    "symbol": "BOSON",
+    "decimals": 18
+  },
   "0xD46bA6D942050d489DBd938a2C909A5d5039A161": {
     "name": "Ampleforth",
     "logo": "ampl.svg",
@@ -2159,7 +2173,7 @@
   },
   "0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd": {
     "name": "Gemini Dollar",
-    "logo": "gemini_28.png",
+    "logo": "gusd.svg",
     "erc20": true,
     "symbol": "GUSD",
     "decimals": 2
@@ -3118,6 +3132,13 @@
     "symbol": "SAND",
     "decimals": 18
   },
+    "0xcc7ab8d78dBA187dC95bF3bB86e65E0C26d0041f": {
+    "name": "Spacelens",
+    "logo": "SPACE.svg",
+    "erc20": true,
+    "symbol": "SPACE",
+    "decimals": 18
+  },
   "0x50f5474724e0Ee42D9a4e711ccFB275809Fd6d4a": {
     "name": "Sandbox's LANDs",
     "logo": "SAND.svg",
@@ -3132,5 +3153,20 @@
     "erc20": true,
     "symbol": "PRQ",
     "decimals": 18
+  },
+  "0x21381e026Ad6d8266244f2A583b35F9E4413FA2a": {
+    "name": "Formation Finance",
+    "logo": "form.svg",
+    "erc20": true,
+    "symbol": "FORM",
+    "decimals": 18
+  },
+  "0x46576e20EC5F25586A6Fa2E0d6B6058354B72E72": {
+    "name": "Cryptomind",
+    "logo": "CR.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "CR",
+    "decimals": 8
   }
 }
