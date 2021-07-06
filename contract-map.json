@@ -3147,6 +3147,13 @@
     "symbol": "LAND",
     "decimals": 0
   },
+  "0x362bc847A3a9637d3af6624EeC853618a43ed7D2": {
+    "name": "PARSIQ",
+    "logo": "parsiq.svg",
+    "erc20": true,
+    "symbol": "PRQ",
+    "decimals": 18
+  },
   "0x21381e026Ad6d8266244f2A583b35F9E4413FA2a": {
     "name": "Formation Finance",
     "logo": "form.svg",
