@@ -650,6 +650,13 @@
     "symbol": "aYFI",
     "decimals": 18
   },
+  "0xdef1fac7Bf08f173D286BbBDcBeeADe695129840": {
+    "name": "Defi Factory Token",
+    "logo": "DEFT.svg",
+    "erc20": true,
+    "symbol": "DEFT",
+    "decimals": 18
+  },
   "0xDf7FF54aAcAcbFf42dfe29DD6144A69b629f8C9e": {
     "name": "Aave ZRX",
     "logo": "aZRX.svg",
