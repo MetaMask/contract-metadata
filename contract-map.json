@@ -160,6 +160,13 @@
     "symbol": "stETH",
     "decimals": 18
   },
+  "0xcAd2d4C4469fF09aB24d02A63BCeDfCD44bE0645": {
+    "name": "Crypto Accept",
+    "logo": "acpt.svg",
+    "erc20": true,
+    "symbol": "ACPT",
+    "decimals": 18
+  },
   "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0": {
     "name": "Wrapped liquid staked Ether 2.0",
     "logo": "wstETH.svg",
