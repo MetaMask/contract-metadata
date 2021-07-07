@@ -1512,6 +1512,13 @@
     "symbol": "HGT",
     "decimals": 8
   },
+  "0xba358B6f5b4c0215650444B8C30D870B55050D2D": {
+    "name": "Hub Token",
+    "logo": "hub.svg",
+    "erc20": true,
+    "symbol": "HUB",
+    "decimals": 18
+  },
   "0xeAb43193CF0623073Ca89DB9B712796356FA7414": {
     "name": "GOLDX",
     "logo": "goldx.png",
