@@ -1,0 +1,9 @@
+{
+  "0xfd3305e1c7cb5d269fb6ced8eb8240255a50e7a4": {
+    "name": "Cloudbit Token",
+    "logo": "logo.svg",
+    "erc20": true,
+    "symbol": CDB,
+    "decimals": 8
+  }
+}
