@@ -1,4 +1,11 @@
 {
+    "0x083D41d6DD21EE938f0c055CA4fb12268DF0EfaC": {
+    "name": "GogolCoin",
+    "logo": "GOL.svg",
+    "erc20": true,
+    "symbol": "GOL",
+    "decimals": 4
+  },  
   "0x10633216E7E8281e33c86F02Bf8e565a635D9770": {
     "name": "Dvision Network",
     "logo": "dvision.svg",
