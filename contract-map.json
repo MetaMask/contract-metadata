@@ -3161,6 +3161,13 @@
     "symbol": "LAND",
     "decimals": 0
   },
+  "0xd20D1DfA460125eF62C30263721d6588fEa33811": {
+    "name": "Dinar StableCoin",
+    "logo": "rsdc.png",
+    "erc20": true,
+    "symbol": "RSDC",
+    "decimals": 2
+  },
   "0x362bc847A3a9637d3af6624EeC853618a43ed7D2": {
     "name": "PARSIQ",
     "logo": "parsiq.svg",
