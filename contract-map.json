@@ -4,7 +4,7 @@
     "logo": "dvision.svg",
     "erc20": true,
     "symbol": "DVI",
-  "decimals": 18
+    "decimals": 18
   },
   "0x898BAD2774EB97cF6b94605677F43b41871410B1": {
     "name": "vEth2",
@@ -3048,7 +3048,7 @@
     "symbol": "GTC",
     "decimals": 18
   },
- "0x1796ae0b0fa4862485106a0de9b654eFE301D0b2": {
+  "0x1796ae0b0fa4862485106a0de9b654eFE301D0b2": {
     "name": "Polychain Monsters",
     "logo": "PMON.svg",
     "erc20": true,
@@ -3056,69 +3056,69 @@
     "decimals": 18
   },
   "0x5218E472cFCFE0b64A064F055B43b4cdC9EfD3A6": {
-     "name": "unFederalReserve Token",
-     "logo": "eRSDL.svg",
-     "erc20": true,
-     "symbol": "eRSDL",
-     "decimals": 18
-   },
- "0xE4cC5A22B39fFB0A56d67F94f9300db20D786a5F": {
+    "name": "unFederalReserve Token",
+    "logo": "eRSDL.svg",
+    "erc20": true,
+    "symbol": "eRSDL",
+    "decimals": 18
+  },
+  "0xE4cC5A22B39fFB0A56d67F94f9300db20D786a5F": {
     "name": "unFederal eRSDL",
     "logo": "uneRSDL.svg",
     "erc20": true,
     "symbol": "uneRSDL",
     "decimals": 8
   },
- "0x2dbA05B51eF5A7DE3E7c3327201CA2F8a25C2414": {
+  "0x2dbA05B51eF5A7DE3E7c3327201CA2F8a25C2414": {
     "name": "unFederal DAI",
     "logo": "unDAI.svg",
     "erc20": true,
     "symbol": "unDAI",
     "decimals": 8
   },
- "0xFaCecE87e14B50eafc85C44C01702F5f485CA460": {
+  "0xFaCecE87e14B50eafc85C44C01702F5f485CA460": {
     "name": "unFederal ETH",
     "logo": "unETH.svg",
     "erc20": true,
     "symbol": "unETH",
     "decimals": 8
   },
- "0x6b576972de33BebDe3A703BfF52a091e79f8c87A": {
+  "0x6b576972de33BebDe3A703BfF52a091e79f8c87A": {
     "name": "unFederal USDC",
     "logo": "unUSDC.svg",
     "erc20": true,
     "symbol": "unUSDC",
     "decimals": 8
   },
- "0x6e2aA5bB90ac37D9006685AFc651ef067E1c7b44": {
+  "0x6e2aA5bB90ac37D9006685AFc651ef067E1c7b44": {
     "name": "unFederal USDT",
     "logo": "unUSDT.svg",
     "erc20": true,
     "symbol": "unUSDT",
     "decimals": 8
   },
- "0x5D446FC8DBd10EBAcfE9A427aB5402586af98cD4": {
+  "0x5D446FC8DBd10EBAcfE9A427aB5402586af98cD4": {
     "name": "unFederal WBTC",
     "logo": "unWBTC.svg",
     "erc20": true,
     "symbol": "unWBTC",
     "decimals": 8
   },
- "0xD837eCa6C91c67D98461A411BA2f00bdA9960a9D": {
+  "0xD837eCa6C91c67D98461A411BA2f00bdA9960a9D": {
     "name": "unFederal AAVE",
     "logo": "unAAVE.svg",
     "erc20": true,
     "symbol": "unAAVE",
     "decimals": 8
   },
- "0x9e29Ce9cD25F4141dF6BB85b27Ef6933a16A5824": {
+  "0x9e29Ce9cD25F4141dF6BB85b27Ef6933a16A5824": {
     "name": "unFederal YFI",
     "logo": "unYFI.svg",
     "erc20": true,
     "symbol": "unYFI",
     "decimals": 8
   },
- "0x031002d15B0D0Cd7c9129d6F644446368deaE391": {
+  "0x031002d15B0D0Cd7c9129d6F644446368deaE391": {
     "name": "unFederal LINK",
     "logo": "unLINK.svg",
     "erc20": true,
@@ -3146,7 +3146,7 @@
     "symbol": "SAND",
     "decimals": 18
   },
-    "0xcc7ab8d78dBA187dC95bF3bB86e65E0C26d0041f": {
+  "0xcc7ab8d78dBA187dC95bF3bB86e65E0C26d0041f": {
     "name": "Spacelens",
     "logo": "SPACE.svg",
     "erc20": true,
@@ -3189,5 +3189,13 @@
     "erc721": false,
     "symbol": "CR",
     "decimals": 8
+  },
+  "0x5ab21Ec0bfa0B29545230395e3Adaca7d552C948": {
+    "name": "PUNKS Comic",
+    "logo": "punks-comic.svg",
+    "erc20": false,
+    "erc721": true,
+    "symbol": "COMIC",
+    "decimals": 0
   }
 }
