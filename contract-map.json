@@ -3175,6 +3175,13 @@
     "symbol": "FORM",
     "decimals": 18
   },
+  "0x2ba592F78dB6436527729929AAf6c908497cB200": {
+    "name": "Cream",
+    "logo": "cream.svg",
+    "erc20": true,
+    "symbol": "CREAM",
+    "decimals": 18
+  },
   "0x46576e20EC5F25586A6Fa2E0d6B6058354B72E72": {
     "name": "Cryptomind",
     "logo": "CR.svg",
