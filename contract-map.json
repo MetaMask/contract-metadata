@@ -1982,6 +1982,13 @@
     "symbol": "cBAT",
     "decimals": 8
   },
+  "0x70e36f6BF80a52b3B46b3aF8e106CC0ed743E8e4": {
+    "name": "Compound Collateral",
+    "logo": "ctoken-comp.svg",
+    "erc20": true,
+    "symbol": "cCOMP",
+    "decimals": 8
+  },
   "0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643": {
     "name": "Compound Dai",
     "logo": "ctoken-dai.svg",
