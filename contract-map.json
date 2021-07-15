@@ -20,6 +20,13 @@
     "symbol": "SGT",
     "decimals": 18
   },
+  "0xe6327ca27686d5231a4E8CD821e338df67D7C731": {
+    "name": "SMART BITCOIN",
+    "logo": "SBTC.png",
+    "erc20": true,
+    "symbol": "SBTC",
+    "decimals": 18
+  },
   "0x75387e1287Dd85482aB66102DA9f6577E027f609": {
     "name": "MindsyncAI",
     "logo": "MAI.svg",
