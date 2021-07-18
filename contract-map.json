@@ -3197,6 +3197,14 @@
     "symbol": "CR",
     "decimals": 8
   },
+  "0xf94b5c5651c888d928439ab6514b93944eee6f48": {
+    "name": "YIELD App",
+    "logo": "yield-app-symbol.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "YLD",
+    "decimals": 18
+  },
   "0x5ab21Ec0bfa0B29545230395e3Adaca7d552C948": {
     "name": "PUNKS Comic",
     "logo": "punks-comic.svg",
