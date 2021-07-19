@@ -3204,5 +3204,12 @@
     "erc721": true,
     "symbol": "COMIC",
     "decimals": 0
+  },
+  "0x9C2dc0c3CC2BADdE84B0025Cf4df1c5aF288D835": {
+    "name": "Coreto",
+    "logo": "coreto.svg",
+    "erc20": true,
+    "symbol": "COR",
+    "decimals": 18
   }
 }
