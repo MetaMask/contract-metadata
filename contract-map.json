@@ -2271,7 +2271,7 @@
   },
   "0x0000000000085d4780B73119b644AE5ecd22b376": {
     "name": "TrueUSD",
-    "logo": "tusd.svg",
+    "logo": "TUSD.svg",
     "erc20": true,
     "symbol": "TUSD",
     "decimals": 18
