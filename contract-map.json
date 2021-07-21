@@ -3232,5 +3232,12 @@
     "erc20": true,
     "symbol": "TRX",
     "decimals": 6
+  },
+  "0xE83CCCfABD4eD148903Bf36d4283eE7C8b3494D1": {
+    "name": "BitTorrent",
+    "logo": "BTT.svg",
+    "erc20": true,
+    "symbol": "BTT",
+    "decimals": 6
   }
 }
