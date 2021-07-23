@@ -1,6 +1,7 @@
 const test = require('tape')
 const contractMap = require('../')
 const permittedFields = require('../permitted-fields.json')
+const generatedModules = require('../generated/test.json');
 
 const util = require('ethereumjs-util')
 const fs = require('fs')
@@ -104,5 +105,13 @@ test('symbols should not overlap', function (t) {
   
   const msg = duplicateSymbol ? `found overlapping symbol ${duplicateSymbol}` : 'symbols should not overlap'
   t.notOk(duplicateSymbol, msg)
+  t.end()
+})
+
+test('generated modules file should match contract json', function (t) {
+  Object.values(contractMap).forEach(({logo, name}) => {
+    t.ok(!!generatedModules[logo], `logo module exists for: "${name}"`)
+  })
+  t.ok(Object.keys(contractMap).length >= Object.keys(generatedModules).length, `logo modules count doesn't exceed contract map`)
   t.end()
 })
