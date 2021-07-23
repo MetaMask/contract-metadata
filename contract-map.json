@@ -1,4 +1,12 @@
-{
+{ 
+"0x5B9dbeBbad94b8C6467Af9e8A851Bb120F9601c6": {
+    "name": "SLOTHI",
+    "logo": "SLOTHI.svg",
+    "erc20": false,
+    "BSC": true,
+    "symbol": "SLTH",
+  "decimals": 9
+  },
   "0x10633216E7E8281e33c86F02Bf8e565a635D9770": {
     "name": "Dvision Network",
     "logo": "dvision.svg",
