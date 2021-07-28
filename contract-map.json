@@ -3225,5 +3225,12 @@
     "erc20": true,
     "symbol": "COR",
     "decimals": 18
+  },
+  "0x30c084890FC07D78F3499ffc818B3225bC8812EA": {
+    "name": "PUNKS",
+    "logo": "punks-comic.svg",
+    "erc20": true,
+    "symbol": "PUNKS",
+    "decimals": 18
   }
 }
