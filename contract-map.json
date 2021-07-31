@@ -3232,5 +3232,13 @@
     "erc20": true,
     "symbol": "PUNKS",
     "decimals": 18
+  },
+  "0xd0A07a76746707f6D6d36D9d5897B14a8e9ED493": {
+    "name": "Pixel Vault Founder's DAO",
+    "logo": "punks-comic.svg",
+    "erc20": false,
+    "erc721": true,
+    "symbol": "PVFD",
+    "decimals": 0
   }
 }
