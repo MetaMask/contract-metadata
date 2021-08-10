@@ -1,11 +1,4 @@
 {
-  "0x4612021C75809160Be60DB21fBc9D6adD0B32deF": {
-    "name": "BCP Coin",
-    "logo": "BCP.svg",
-    "erc20": true,
-    "symbol": "BCP",
-    "decimals": 18
-  },
   "0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7": {
     "name": "SKALE",
     "logo": "skl.svg",
@@ -1989,6 +1982,13 @@
     "logo": "Camp.svg",
     "erc20": true,
     "symbol": "CAMP",
+    "decimals": 18
+  },
+    "0x4612021C75809160Be60DB21fBc9D6adD0B32deF": {
+    "name": "BCP Coin",
+    "logo": "BCP.svg",
+    "erc20": true,
+    "symbol": "BCP",
     "decimals": 18
   }
 }
