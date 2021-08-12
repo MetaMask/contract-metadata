@@ -1,4 +1,11 @@
 {
+  "0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e": {
+    "name": "Unibright",
+    "logo": "ubt.svg",
+    "erc20": true,
+    "symbol": "UBT",
+    "decimals": 8
+  },
   "0x10633216E7E8281e33c86F02Bf8e565a635D9770": {
     "name": "Dvision Network",
     "logo": "dvision.svg",
