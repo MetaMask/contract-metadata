@@ -1,4 +1,11 @@
 {
+  "0xfad45e47083e4607302aa43c65fb3106f1cd7607": {
+    "name": "Hoge Finance",
+    "logo": "HogeFinanceLogo.svg",
+    "erc20": true,
+    "symbol": "HOGE",
+    "decimals": 9
+  },
   "0x10633216E7E8281e33c86F02Bf8e565a635D9770": {
     "name": "Dvision Network",
     "logo": "dvision.svg",
