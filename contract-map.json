@@ -3232,5 +3232,12 @@
     "erc20": true,
     "symbol": "COR",
     "decimals": 18
+  },
+  "0xe28b3B32B6c345A34Ff64674606124Dd5Aceca30": {
+    "name": "Injective",
+    "logo": "inj.svg",
+    "erc20": true,
+    "symbol": "INJ",
+    "decimals": 18
   }
 }
