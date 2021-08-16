@@ -1,4 +1,12 @@
 {
+  "0x62Dc4817588d53a056cBbD18231d91ffCcd34b2A": {
+    "name": "DeHive",
+    "logo": "dehive-simple.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "DHV",
+    "decimals": 18
+  },
   "0xf293d23BF2CDc05411Ca0edDD588eb1977e8dcd4": {
     "name": "Sylo",
     "logo": "SYLO.svg",
