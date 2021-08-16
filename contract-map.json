@@ -13,6 +13,13 @@
     "symbol": "vEth2",
     "decimals": 18
   },
+  "0xe7aE6D0C56CACaf007b7e4d312f9af686a9E9a04": {
+    "name": "Vabble",
+    "logo": "VAB.svg",
+    "erc20": true,
+    "symbol": "VAB",
+    "decimals": 18
+  },
   "0x853d955aCEf822Db058eb8505911ED77F175b99e": {
     "name": "Frax",
     "logo": "frax.svg",
