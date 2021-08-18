@@ -6,6 +6,20 @@
     "symbol": "HOGE",
     "decimals": 9
   },
+  "0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b": {
+	  "name": "Axie Infinity Shard",
+	  "logo": "AXS.svg",
+	  "erc20": true,
+	  "symbol": "AXS",
+	  "decimals": 18
+ },
+ "0xCC8Fa225D80b9c7D42F96e9570156c65D6cAAa25": {
+	  "name": "Smooth Love Potion",
+	  "logo": "SLP.svg",
+	  "erc20": true,
+	  "symbol": "SLP",
+	  "decimals": 0
+  },
   "0x10633216E7E8281e33c86F02Bf8e565a635D9770": {
     "name": "Dvision Network",
     "logo": "dvision.svg",
@@ -18,6 +32,13 @@
     "logo": "vEth2.svg",
     "erc20": true,
     "symbol": "vEth2",
+    "decimals": 18
+  },
+  "0xe7aE6D0C56CACaf007b7e4d312f9af686a9E9a04": {
+    "name": "Vabble",
+    "logo": "VAB.svg",
+    "erc20": true,
+    "symbol": "VAB",
     "decimals": 18
   },
   "0x853d955aCEf822Db058eb8505911ED77F175b99e": {
@@ -3231,6 +3252,13 @@
     "logo": "coreto.svg",
     "erc20": true,
     "symbol": "COR",
+    "decimals": 18
+  },
+  "0xe28b3B32B6c345A34Ff64674606124Dd5Aceca30": {
+    "name": "Injective",
+    "logo": "inj.svg",
+    "erc20": true,
+    "symbol": "INJ",
     "decimals": 18
   }
 }
