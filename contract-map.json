@@ -1,4 +1,12 @@
 {
+  "0x62Dc4817588d53a056cBbD18231d91ffCcd34b2A": {
+    "name": "DeHive",
+    "logo": "dehive-simple.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "DHV",
+    "decimals": 18
+  },
   "0xfAd45E47083e4607302aa43c65fB3106F1cd7607": {
     "name": "Hoge Finance",
     "logo": "HogeFinanceLogo.svg",
