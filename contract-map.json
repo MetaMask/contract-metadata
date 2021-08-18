@@ -1,4 +1,11 @@
 {
+  "0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e": {
+    "name": "Unibright",
+    "logo": "ubt.svg",
+    "erc20": true,
+    "symbol": "UBT",
+    "decimals": 8
+  },
   "0xfAd45E47083e4607302aa43c65fB3106F1cd7607": {
     "name": "Hoge Finance",
     "logo": "HogeFinanceLogo.svg",
