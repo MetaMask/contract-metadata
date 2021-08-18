@@ -3261,20 +3261,6 @@
     "symbol": "vBZRX",
     "decimals": 18
   },
-  "0xe26A220a341EAca116bDa64cF9D5638A935ae629": {
-    "name": "Balancer Pool Token (ETH/BZRX 20/80)",
-    "logo": "ic_token_bpt.svg",
-    "erc20": true,
-    "symbol": "BPT",
-    "decimals": 18
-  },
-  "0xa30911e072A0C88D55B5D0A0984B66b0D04569d0": {
-    "name": "Sushi Pool Token (ETH/BZRX 50/50)",
-    "logo": "ic_token_slp.svg",
-    "erc20": true,
-    "symbol": "SLPT",
-    "decimals": 18
-  },
   "0xB983E01458529665007fF7E0CDdeCDB74B967Eb6": {
     "name": "Fulcrum ETH iToken (iETH)",
     "logo": "ic_token_ieth.svg",
