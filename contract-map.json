@@ -1,11 +1,18 @@
 {
+  "0xfAd45E47083e4607302aa43c65fB3106F1cd7607": {
+    "name": "Hoge Finance",
+    "logo": "HogeFinanceLogo.svg",
+    "erc20": true,
+    "symbol": "HOGE",
+    "decimals": 9
+  },
   "0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b": {
 	  "name": "Axie Infinity Shard",
 	  "logo": "AXS.svg",
 	  "erc20": true,
 	  "symbol": "AXS",
 	  "decimals": 18
-  },
+ },
  "0xCC8Fa225D80b9c7D42F96e9570156c65D6cAAa25": {
 	  "name": "Smooth Love Potion",
 	  "logo": "SLP.svg",
