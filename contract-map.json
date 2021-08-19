@@ -1,4 +1,11 @@
 {
+  "0x09e6d500d14d13e0528d2c0fff24e5fff68237b4": {
+    "name": "Dohrnii",
+    "logo": "dohrnii.svg",
+    "erc20": true,
+    "symbol": "DHN",
+    "decimals": 18
+  },
   "0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e": {
     "name": "Unibright",
     "logo": "ubt.svg",
