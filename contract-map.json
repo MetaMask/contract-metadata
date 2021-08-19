@@ -14,18 +14,18 @@
     "decimals": 9
   },
   "0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b": {
-	  "name": "Axie Infinity Shard",
-	  "logo": "AXS.svg",
-	  "erc20": true,
-	  "symbol": "AXS",
-	  "decimals": 18
- },
- "0xCC8Fa225D80b9c7D42F96e9570156c65D6cAAa25": {
-	  "name": "Smooth Love Potion",
-	  "logo": "SLP.svg",
-	  "erc20": true,
-	  "symbol": "SLP",
-	  "decimals": 0
+    "name": "Axie Infinity Shard",
+    "logo": "AXS.svg",
+    "erc20": true,
+    "symbol": "AXS",
+    "decimals": 18
+  },
+  "0xCC8Fa225D80b9c7D42F96e9570156c65D6cAAa25": {
+    "name": "Smooth Love Potion",
+    "logo": "SLP.svg",
+    "erc20": true,
+    "symbol": "SLP",
+    "decimals": 0
   },
   "0x10633216E7E8281e33c86F02Bf8e565a635D9770": {
     "name": "Dvision Network",
@@ -2470,6 +2470,14 @@
     "logo": "blitzpredict.svg",
     "erc20": true,
     "symbol": "XBP",
+    "decimals": 18
+  },
+  "0x33349B282065b0284d756F0577FB39c158F935e6": {
+    "name": "Maple Finance",
+    "logo": "maple-finance.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "MPL",
     "decimals": 18
   },
   "0xFBeef911Dc5821886e1dda71586d90eD28174B7d": {
