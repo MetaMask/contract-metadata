@@ -2477,7 +2477,7 @@
     "logo": "maple-finance.svg",
     "erc20": true,
     "erc721": false,
-    "sybmol": "MPL",
+    "symbol": "MPL",
     "decimals": 18
   },
   "0xFBeef911Dc5821886e1dda71586d90eD28174B7d": {
