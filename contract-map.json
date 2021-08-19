@@ -2859,6 +2859,13 @@
     "symbol": "NEXO",
     "decimals": 18
   },
+  "0x4612021C75809160Be60DB21fBc9D6adD0B32deF": {
+    "name": "BCP Coin",
+    "logo": "BCP.svg",
+    "erc20": true,
+    "symbol": "BCP",
+    "decimals": 18
+  },
   "0xE9E73E1aE76D17A16cC53E3e87a9a7dA78834d37": {
     "name": "Camp",
     "logo": "Camp.svg",
