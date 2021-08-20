@@ -3098,11 +3098,11 @@
     "symbol": "INSUR",
     "decimals": 18
   },
-  "0x3B73c1B2ea59835cbfcADade5462b6aB630D9890": {
+  "0xcC665390b03c5D324D8fAF81C15eCee29A73bCB4": {
     "name": "ChainSwap.com Governance Token",
     "logo": "chainswap.svg",
     "erc20": true,
-    "symbol": "TOKEN",
+    "symbol": "ASAP",
     "decimals": 18
   },
   "0x182F4c4C97cd1c24E1Df8FC4c053E5C47bf53Bef": {
