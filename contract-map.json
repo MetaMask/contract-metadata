@@ -3050,7 +3050,7 @@
   },
   "0xcC665390b03c5D324D8fAF81C15eCee29A73bCB4": {
     "name": "ChainSwap.com Governance Token",
-    "logo": "chainswap_new.svg",
+    "logo": "chainswap.svg",
     "erc20": true,
     "symbol": "ASAP",
     "decimals": 18
