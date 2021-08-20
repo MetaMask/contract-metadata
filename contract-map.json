@@ -2959,7 +2959,7 @@
   },
   "0x9B99CcA871Be05119B2012fd4474731dd653FEBe": {
     "name": "Antimatter",
-    "logo": "antimatter_new.svg",
+    "logo": "antimatter.svg",
     "erc20": true,
     "symbol": "MATTER",
     "decimals": 18
