@@ -1,4 +1,32 @@
 {
+  "0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e": {
+    "name": "Unibright",
+    "logo": "ubt.svg",
+    "erc20": true,
+    "symbol": "UBT",
+    "decimals": 8
+  },
+  "0xfAd45E47083e4607302aa43c65fB3106F1cd7607": {
+    "name": "Hoge Finance",
+    "logo": "HogeFinanceLogo.svg",
+    "erc20": true,
+    "symbol": "HOGE",
+    "decimals": 9
+  },
+  "0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b": {
+    "name": "Axie Infinity Shard",
+    "logo": "AXS.svg",
+    "erc20": true,
+    "symbol": "AXS",
+    "decimals": 18
+  },
+  "0xCC8Fa225D80b9c7D42F96e9570156c65D6cAAa25": {
+    "name": "Smooth Love Potion",
+    "logo": "SLP.svg",
+    "erc20": true,
+    "symbol": "SLP",
+    "decimals": 0
+  },
   "0x10633216E7E8281e33c86F02Bf8e565a635D9770": {
     "name": "Dvision Network",
     "logo": "dvision.svg",
@@ -25,6 +53,11 @@
     "logo": "halodao-xrnbw.svg",
     "erc20": true,
     "symbol": "xRNBW",
+  "0xe7aE6D0C56CACaf007b7e4d312f9af686a9E9a04": {
+    "name": "Vabble",
+    "logo": "VAB.svg",
+    "erc20": true,
+    "symbol": "VAB",
     "decimals": 18
   },
   "0x853d955aCEf822Db058eb8505911ED77F175b99e": {
@@ -2451,6 +2484,14 @@
     "symbol": "XBP",
     "decimals": 18
   },
+  "0x33349B282065b0284d756F0577FB39c158F935e6": {
+    "name": "Maple Finance",
+    "logo": "maple-finance.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "MPL",
+    "decimals": 18
+  },
   "0xFBeef911Dc5821886e1dda71586d90eD28174B7d": {
     "name": "KnownOrigin",
     "logo": "knownorigin.svg",
@@ -2836,6 +2877,13 @@
     "logo": "NEXO.svg",
     "erc20": true,
     "symbol": "NEXO",
+    "decimals": 18
+  },
+  "0x4612021C75809160Be60DB21fBc9D6adD0B32deF": {
+    "name": "BCP Coin",
+    "logo": "BCP.svg",
+    "erc20": true,
+    "symbol": "BCP",
     "decimals": 18
   },
   "0xE9E73E1aE76D17A16cC53E3e87a9a7dA78834d37": {
@@ -3238,6 +3286,13 @@
     "logo": "coreto.svg",
     "erc20": true,
     "symbol": "COR",
+    "decimals": 18
+  },
+  "0xe28b3B32B6c345A34Ff64674606124Dd5Aceca30": {
+    "name": "Injective",
+    "logo": "inj.svg",
+    "erc20": true,
+    "symbol": "INJ",
     "decimals": 18
   }
 }
