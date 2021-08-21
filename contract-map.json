@@ -41,6 +41,20 @@
     "symbol": "vEth2",
     "decimals": 18
   },
+  "0xE94B97b6b43639E238c851A7e693F50033EfD75C": {
+    "name": "Rainbow Token",
+    "logo": "halodao-rnbw.svg",
+    "erc20": true,
+    "symbol": "RNBW",
+    "decimals": 18
+  },
+  "0x47BE779De87de6580d0548cde80710a93c502405": {
+    "name": "Rainbow Pool",
+    "logo": "halodao-xrnbw.svg",
+    "erc20": true,
+    "symbol": "xRNBW",
+    "decimals": 18
+  },
   "0xe7aE6D0C56CACaf007b7e4d312f9af686a9E9a04": {
     "name": "Vabble",
     "logo": "VAB.svg",
