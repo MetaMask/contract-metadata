@@ -1,4 +1,12 @@
 {
+  "0x62Dc4817588d53a056cBbD18231d91ffCcd34b2A": {
+    "name": "DeHive",
+    "logo": "dehive.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "DHV",
+    "decimals": 18
+  },
   "0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e": {
     "name": "Unibright",
     "logo": "ubt.svg",
@@ -3021,7 +3029,7 @@
     "symbol": "FWB",
     "decimals": 18
   },
-  "0x9B99CcA871Be05119B2012fd4474731dd653FEBe": {
+  "0x1C9491865a1DE77C5b6e19d2E6a5F1D7a6F2b25F": {
     "name": "Antimatter",
     "logo": "antimatter.svg",
     "erc20": true,
