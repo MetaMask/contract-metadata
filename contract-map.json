@@ -3430,5 +3430,12 @@
     "erc20": true,
     "symbol": "PDOG",
     "decimals": 18
+  },
+  "0x507BDe03A87a6aA134d16634545E3D79c11c137D": {
+    "name": " UniArts Network Token",
+    "logo": "UART.svg",
+    "erc20": true,
+    "symbol": "UART",
+    "decimals": 12
   }
 }
