@@ -1,4 +1,12 @@
 {
+  "0x4Cf89ca06ad997bC732Dc876ed2A7F26a9E7f361": {
+    "name": "Mysterium",
+    "logo": "MYST.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "MYST",
+    "decimals": 18
+  },
   "0x62Dc4817588d53a056cBbD18231d91ffCcd34b2A": {
     "name": "DeHive",
     "logo": "dehive.svg",
