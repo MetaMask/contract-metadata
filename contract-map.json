@@ -7,6 +7,13 @@
     "symbol": "MYST",
     "decimals": 18
   },
+  "0x697eF32B4a3F5a4C39dE1cB7563f24CA7BfC5947": {
+    "name": "Insula Token",
+    "logo": "Insula.svg",
+    "erc20": true,
+    "symbol": "ISLA",
+    "decimals": 18
+  },
   "0x62Dc4817588d53a056cBbD18231d91ffCcd34b2A": {
     "name": "DeHive",
     "logo": "dehive.svg",
