@@ -3333,6 +3333,13 @@
     "symbol": "COR",
     "decimals": 18
   },
+  "0x6B4c7A5e3f0B99FCD83e9c089BDDD6c7FCe5c611": {
+    "name": "Million",
+    "logo": "million.svg",
+    "erc20": true,
+    "symbol": "MM",
+    "decimals": 18
+  },
   "0x56d811088235F11C8920698a204A5010a788f4b3": {
     "name": "bZx Protocol Token (BZRX)",
     "logo": "ic_token_bzrx.svg",
