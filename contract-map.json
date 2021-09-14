@@ -1,4 +1,4 @@
-{
+{  
   "0x3fa400483487A489EC9b1dB29C4129063EEC4654": {
     "name": "Cryptokek.com",
     "logo": "cryptokek.svg",
@@ -140,12 +140,12 @@
     "symbol": "WAVES",
     "decimals": 18
   },
-  "0x62A6738d887F47e297676FaB05b902709B106C64": {
+  "0x252739487C1fa66eaeaE7CED41d6358aB2a6bCa9": {
     "name": "ArCoin",
     "logo": "ArCoin.svg",
     "erc20": true,
-    "symbol": "ARCA",
-    "decimals": 18
+    "symbol": "RCOIN",
+    "decimals": 8
   },
   "0x18aAA7115705e8be94bfFEBDE57Af9BFc265B998": {
     "name": "Audius",
