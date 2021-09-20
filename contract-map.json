@@ -2431,11 +2431,18 @@
     "symbol": "NEU",
     "decimals": 18
   },
-  "0x0Cf0Ee63788A0849fE5297F3407f701E122cC023": {
+  "0x8f693ca8D21b157107184d29D398A8D082b38b76": {
     "name": "Streamr",
     "logo": "streamr.svg",
     "erc20": true,
     "symbol": "DATA",
+    "decimals": 18
+  },
+  "0x0Cf0Ee63788A0849fE5297F3407f701E122cC023": {
+    "name": "Streamr (old)",
+    "logo": "streamr_old.svg",
+    "erc20": true,
+    "symbol": "XDATA",
     "decimals": 18
   },
   "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b": {
