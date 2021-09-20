@@ -3459,6 +3459,15 @@
     "symbol": "iCOMP",
     "decimals": 18
   },
+  {
+  "0x240eb70aafe740f753066a413ddad73b7c72b4e2": {
+    "name": "BankRoll",
+    "logo": "bankroll.svg",
+    "erc2-": true,
+    "symbol": "BaNkr",
+    "decimals": 18
+  }
+}
   "0xe28b3B32B6c345A34Ff64674606124Dd5Aceca30": {
     "name": "Injective",
     "logo": "inj.svg",
