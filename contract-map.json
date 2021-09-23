@@ -3452,7 +3452,7 @@
     "symbol": "iCOMP",
     "decimals": 18
   },
-  "0x08c32b0726c5684024ea6e141c50ade9690bbdcc": {
+  "0x08c32b0726C5684024ea6e141C50aDe9690bBdcc": {
     "name": "Stratos Token",
     "logo": "stos.svg",
     "erc20": true,
