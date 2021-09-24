@@ -3473,6 +3473,13 @@
     "symbol": "INJ",
     "decimals": 18
   },
+  "0xe516D78d784C77D479977BE58905B3f2b1111126": {
+    "name": "Bitspawn",
+    "logo": "spwn.svg",
+    "erc20": true,
+    "symbol": "SPWN",
+    "decimals": 18
+  },
   "0xB16e967ff83DE3F1e9FCeAfbc2C28c1c5c56eF91": {
     "name": "Polkadog",
     "logo": "polkadog.svg",
