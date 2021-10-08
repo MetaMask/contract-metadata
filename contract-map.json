@@ -6,6 +6,13 @@
     "symbol": "KEK",
     "decimals": 18
   },
+  "0xd084944d3c05CD115C09d072B9F44bA3E0E45921": {
+    "name": "Manifold Finance",
+    "logo": "Manifold.svg",
+    "erc20": true,
+    "symbol": "FOLD",
+    "decimals": 18
+  },
   "0x9a0242b7a33DAcbe40eDb927834F96eB39f8fBCB": {
     "name": "BABB",
     "logo": "bax.svg",
