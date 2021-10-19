@@ -210,6 +210,27 @@
     "symbol": "DG",
     "decimals": 18
   },
+  "0x2451287d7bd2FAD463095235ac706dFda2Bcd69D": {
+    "name": "DeCash CHFD Token",
+    "logo": "DeCashCHFD.svg",
+    "erc20": true,
+    "symbol": "CHFD",
+    "decimals": 2
+  },
+  "0x12d77E5599435103011Ab6FdB1DD8514C16cb9EC": {
+    "name": "DeCash EURD Token",
+    "logo": "DeCashEURD.svg",
+    "erc20": true,
+    "symbol": "EURD",
+    "decimals": 2
+  },
+  "0x67E1047187d72e164F98BA644883bFE6F3C080Ab": {
+    "name": "DeCash USDD Token",
+    "logo": "DeCashUSDD.svg",
+    "erc20": true,
+    "symbol": "USDD",
+    "decimals": 2
+  },
   "0xBCf9dBf8B14eD096B2BA08b7269356197fDd1b5D": {
     "name": "Avaluse",
     "logo": "avaluse.svg",
