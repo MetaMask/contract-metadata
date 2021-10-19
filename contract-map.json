@@ -3500,5 +3500,12 @@
     "erc20": true,
     "symbol": "PDOG",
     "decimals": 18
-  }
+  },
+  "0xc7e9d03b6f13d7215c2e2b1854a2b0bdbebe6fb9": {
+     "name": "BitMarket",
+     "logo": "BMK.svg",
+     "erc20": true,
+     "symbol": "BMK",
+     "decimals": 18
+   }  
 }
