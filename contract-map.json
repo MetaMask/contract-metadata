@@ -3494,6 +3494,14 @@
     "symbol": "SPWN",
     "decimals": 18
   },
+    "0x9c3D00cBd1B4467424D4F1F27fB4A0f2dfcDd2f2": {
+    "name": "Shaka Token",
+    "logo": "ShakaToken.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "Shaka",
+    "decimals": 18
+  },
   "0xB16e967ff83DE3F1e9FCeAfbc2C28c1c5c56eF91": {
     "name": "Polkadog",
     "logo": "polkadog.svg",
