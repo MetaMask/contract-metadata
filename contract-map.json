@@ -3148,6 +3148,13 @@
     "symbol": "wCUSD",
     "decimals": 18
   },
+  "0x6a614ba5c1b7f88198f472ab8742c22eaffebcf7": {
+    "name": "Wrapped Kadena",
+    "logo": "WKDA.svg",
+    "erc20": true,
+    "symbol": "wKDA",
+    "decimals": 12
+  },
   "0xBBC7f7A6AADAc103769C66CBC69AB720f7F9Eae3": {
     "name": "INX Token",
     "logo": "INX.svg",
