@@ -3500,5 +3500,12 @@
     "erc20": true,
     "symbol": "PDOG",
     "decimals": 18
+  },
+  "0x8E8123e286437B281cAa8abbF3A7f0CDf72b0aE6": {
+    "name": "JokerManor",
+    "logo": "JKT.svg",
+    "erc20": true,
+    "symbol": "JKT",
+    "decimals": 18
   }
 }
