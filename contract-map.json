@@ -3148,12 +3148,12 @@
     "symbol": "wCUSD",
     "decimals": 18
   },
-  "0x6A614bA5c1b7f88198F472Ab8742c22eaFFEBcF7": {
+  "0x85D7bdfc9c3426b33A684241eEEE70385Bc42820": {
     "name": "Wrapped Kadena",
     "logo": "WKDA.svg",
     "erc20": true,
     "symbol": "WKDA",
-    "decimals": 12
+    "decimals": 18
   },
   "0x39fBBABf11738317a448031930706cd3e612e1B9": {
     "name": "Wrapped XRP",
