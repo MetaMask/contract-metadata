@@ -1,4 +1,4 @@
-{  
+{
   "0x3fa400483487A489EC9b1dB29C4129063EEC4654": {
     "name": "Cryptokek.com",
     "logo": "cryptokek.svg",
@@ -2411,6 +2411,13 @@
     "decimals": 18
   },
   "0x3DB6Ba6ab6F95efed1a6E794caD492fAAabF294D": {
+    "name": "LTO Network Token (old)",
+    "logo": "LTO.svg",
+    "erc20": true,
+    "symbol": "LTO",
+    "decimals": 8
+  },
+  "0xd01409314acb3b245cea9500ece3f6fd4d70ea30": {
     "name": "LTO Network Token",
     "logo": "LTO.svg",
     "erc20": true,
