@@ -1,9 +1,16 @@
-{  
+{
   "0x3fa400483487A489EC9b1dB29C4129063EEC4654": {
     "name": "Cryptokek.com",
     "logo": "cryptokek.svg",
     "erc20": true,
     "symbol": "KEK",
+    "decimals": 18
+  },
+  "0xb753428af26E81097e7fD17f40c88aaA3E04902c": {
+    "name": "Spice",
+    "logo": "sfi.svg",
+    "erc20": true,
+    "symbol": "SFI",
     "decimals": 18
   },
   "0xd084944d3c05CD115C09d072B9F44bA3E0E45921": {
