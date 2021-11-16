@@ -3218,6 +3218,13 @@
     "symbol": "PMON",
     "decimals": 18
   },
+  "0x8eEF5a82E6Aa222a60F009ac18c24EE12dBf4b41": {
+    "name": "Tixl",
+    "logo": "TXL.svg",
+    "erc20": true,
+    "symbol": "TXL",
+    "decimals": 18
+  },
   "0x5218E472cFCFE0b64A064F055B43b4cdC9EfD3A6": {
     "name": "unFederalReserve Token",
     "logo": "eRSDL.svg",
