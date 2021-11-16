@@ -791,6 +791,13 @@
     "symbol": "AAVE",
     "decimals": 18
   },
+  "0x44e2deC86B9F0e0266E9AA66e10323A2bd69CF9A": {
+    "name": "Attrace",
+    "logo": "attr.svg",
+    "erc20": true,
+    "symbol": "ATTR",
+    "decimals": 18
+  },
   "0x1Da87b114f35E1DC91F72bF57fc07A768Ad40Bb0": {
     "name": "Equalizer",
     "logo": "EQZ.svg",
