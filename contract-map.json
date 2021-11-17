@@ -1,9 +1,23 @@
 {
+  "0x32E6C34Cd57087aBBD59B5A4AECC4cB495924356": {
+    "name": "BitBase",
+    "logo": "BTBS.svg",
+    "erc20": true,
+    "symbol": "BTBS",
+    "decimals": 18
+  },
   "0x3fa400483487A489EC9b1dB29C4129063EEC4654": {
     "name": "Cryptokek.com",
     "logo": "cryptokek.svg",
     "erc20": true,
     "symbol": "KEK",
+    "decimals": 18
+  },
+  "0xb753428af26E81097e7fD17f40c88aaA3E04902c": {
+    "name": "Spice",
+    "logo": "sfi.svg",
+    "erc20": true,
+    "symbol": "SFI",
     "decimals": 18
   },
   "0xd084944d3c05CD115C09d072B9F44bA3E0E45921": {
@@ -782,6 +796,13 @@
     "logo": "AAVE.svg",
     "erc20": true,
     "symbol": "AAVE",
+    "decimals": 18
+  },
+  "0x44e2deC86B9F0e0266E9AA66e10323A2bd69CF9A": {
+    "name": "Attrace",
+    "logo": "attr.svg",
+    "erc20": true,
+    "symbol": "ATTR",
     "decimals": 18
   },
   "0x1Da87b114f35E1DC91F72bF57fc07A768Ad40Bb0": {
@@ -3048,6 +3069,13 @@
     "logo": "quiverx.svg",
     "erc20": true,
     "symbol": "QRX",
+    "decimals":18
+  },
+  "0x0beAD9a1bcc1b84D06E3f2df67E3549Fd55aB054": {
+    "name": "EURxb",
+    "logo": "eurxb.svg",
+    "erc20": true,
+    "symbol": "EURxb",
     "decimals": 18
   },
   "0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24": {
@@ -3209,6 +3237,13 @@
     "logo": "PMON.svg",
     "erc20": true,
     "symbol": "PMON",
+    "decimals": 18
+  },
+  "0x8eEF5a82E6Aa222a60F009ac18c24EE12dBf4b41": {
+    "name": "Tixl",
+    "logo": "TXL.svg",
+    "erc20": true,
+    "symbol": "TXL",
     "decimals": 18
   },
   "0x5218E472cFCFE0b64A064F055B43b4cdC9EfD3A6": {
