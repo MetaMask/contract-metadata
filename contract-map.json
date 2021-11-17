@@ -2045,9 +2045,12 @@
     "decimals": 6,
     "symbol": "CAN"
   },
-  "0x6090A6e47849629b7245Dfa1Ca21D94cd15878Ef": {
-    "name": "ENS Registrar",
-    "logo": "ens.svg"
+  "0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72": {
+    "name": "Ethereum Name Service",
+    "logo": "ens.svg",
+    "erc20": true,
+    "decimals": 18,
+    "symbol": "ENS"
   },
   "0x3d1BA9be9f66B8ee101911bC36D3fB562eaC2244": {
     "name": "Rivetz",
