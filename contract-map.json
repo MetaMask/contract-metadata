@@ -2435,7 +2435,7 @@
     "name": "LTO Network Token (old)",
     "logo": "LTO.svg",
     "erc20": true,
-    "symbol": "XLTO",
+    "symbol": "LTOOLD",
     "decimals": 8
   },
   "0xd01409314acb3b245cea9500ece3f6fd4d70ea30": {
