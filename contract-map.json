@@ -2435,6 +2435,13 @@
     "decimals": 18
   },
   "0x3DB6Ba6ab6F95efed1a6E794caD492fAAabF294D": {
+    "name": "LTO Network Token (old)",
+    "logo": "LTO.svg",
+    "erc20": true,
+    "symbol": "LTOOLD",
+    "decimals": 8
+  },
+  "0xd01409314aCb3b245CEa9500eCE3F6Fd4d70ea30": {
     "name": "LTO Network Token",
     "logo": "LTO.svg",
     "erc20": true,
