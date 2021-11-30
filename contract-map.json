@@ -3539,6 +3539,13 @@
     "symbol": "SPWN",
     "decimals": 18
   },
+  "0xbBa6C7c7d673c48d90069ad2e9d2fE587fcB6bc3": {
+    "name": "Lepasa",
+    "logo": "lepasa.svg",
+    "erc20": true,
+    "symbol": "LEPA",
+    "decimals": 18
+  },
   "0xB16e967ff83DE3F1e9FCeAfbc2C28c1c5c56eF91": {
     "name": "Polkadog",
     "logo": "polkadog.svg",
