@@ -1,4 +1,11 @@
 {
+  "0x7A58c0Be72BE218B41C608b7Fe7C5bB630736C71": {
+    "name": "ConstitutionDAO",
+    "logo": "PEOPLE.svg",
+    "erc20": true,
+    "symbol": "PEOPLE",
+    "decimals": 18
+  },
   "0x32E6C34Cd57087aBBD59B5A4AECC4cB495924356": {
     "name": "BitBase",
     "logo": "BTBS.svg",
