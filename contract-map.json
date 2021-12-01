@@ -1,6 +1,6 @@
 {
   "0x7A58c0Be72BE218B41C608b7Fe7C5bB630736C71": {
-    "name": "BiConstitutionDAOtBase",
+    "name": "ConstitutionDAO",
     "logo": "PEOPLE.svg",
     "erc20": true,
     "symbol": "PEOPLE",
