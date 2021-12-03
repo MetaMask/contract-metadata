@@ -1146,7 +1146,7 @@
     "logo": "enigma.svg",
     "erc20": true,
     "symbol": "ENG",
-    "decimals": 18
+    "decimals": 8
   },
   "0xaaAEBE6Fe48E54f431b0C390CfaF0b017d09D42d": {
     "name": "Celsius",
