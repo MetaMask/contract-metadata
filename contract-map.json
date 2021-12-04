@@ -3566,5 +3566,12 @@
     "erc20": true,
     "symbol": "PDOG",
     "decimals": 18
-  }
+  },
+  "0x3af33bef05c2dcb3c7288b77fe1c8d2aeba4d789": {
+    "name": "Kromatika",
+    "logo": "krom.png",
+    "erc20": true,
+    "symbol": "KROM",
+    "decimals": 18
+}
 }
