@@ -3566,5 +3566,12 @@
     "erc20": true,
     "symbol": "PDOG",
     "decimals": 18
-  }
+  },
+  "0x86440bcfc74d851b406604d5439592615ccaeb97 ": {
+    "name": "signin",
+    "logo": "signin.png,
+    "erc20": true,
+    "symbol": "SIGNIN",
+    "decimals": 18
 }
+
