@@ -3567,7 +3567,7 @@
     "symbol": "PDOG",
     "decimals": 18
   },
-  "0x3af33bef05c2dcb3c7288b77fe1c8d2aeba4d789": {
+  "0x3af33bEF05C2dCb3C7288b77fe1C8d2AeBA4d789": {
     "name": "Kromatika",
     "logo": "krom.png",
     "erc20": true,
