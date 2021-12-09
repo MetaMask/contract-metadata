@@ -1,4 +1,11 @@
 {
+  "0x875773784Af8135eA0ef43b5a374AaD105c5D39e": {
+    "name": "Idle DAO Token",
+    "logo": "idle.svg",
+    "erc20": true,
+    "symbol": "IDLE",
+    "decimals": 18
+  },
   "0xc7D9c108D4E1dD1484D3e2568d7f74bfD763d356": {
     "name": "SORA Synthetic USD",
     "logo": "sora-xstusd.svg",
