@@ -6,6 +6,13 @@
     "symbol": "TPSC",
     "decimals": 18
   },
+  "0x4730fB1463A6F1F44AEB45F6c5c422427f37F4D0": {
+    "name": "The 4th Pillar Token",
+    "logo": "four.svg",
+    "erc20": true,
+    "symbol": "FOUR",
+    "decimals": 18
+  },
   "0x875773784Af8135eA0ef43b5a374AaD105c5D39e": {
     "name": "Idle DAO Token",
     "logo": "idle.svg",
