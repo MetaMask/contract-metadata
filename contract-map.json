@@ -3580,5 +3580,12 @@
     "erc20": true,
     "symbol": "PDOG",
     "decimals": 18
+  },
+  "0xA130E3a33a4d84b04c3918c4E5762223Ae252F80": {
+    "name": "Swash Token",
+    "logo": "swash.svg",
+    "erc20": true,
+    "symbol": "SWASH",
+    "decimals": 18
   }
 }
