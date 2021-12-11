@@ -3546,6 +3546,20 @@
     "symbol": "LEPA",
     "decimals": 18
   },
+  "0xF9a4BBAa7fA1DD2352F1A47d6d3fcfF259A6D05F": {
+    "name": "Lepasa",
+    "logo": "lepasa.svg",
+    "erc20": true,
+    "symbol": "LEPA",
+    "decimals": 18
+  },
+"0xA4050Aa9b76CcDAe1A6a8b2F3e8627Cdc1546d86": {
+    "name": "Lepasa",
+    "logo": "lepasa.svg",
+    "erc20": true,
+    "symbol": "LEPA",
+    "decimals": 18
+  }, 
   "0xB16e967ff83DE3F1e9FCeAfbc2C28c1c5c56eF91": {
     "name": "Polkadog",
     "logo": "polkadog.svg",
