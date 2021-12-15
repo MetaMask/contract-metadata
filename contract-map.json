@@ -1,4 +1,11 @@
 {
+  "0xeDF6568618A00C6F0908Bf7758A16F76B6E04aF9":{
+    "name": "Arianee",
+    "logo": "aria20.svg",
+    "erc20": true,
+    "symbol": "ARIA20",
+    "decimals": 18
+  },
   "0x88D8DA2A8D0fA5b1f4E38030AC486aDE0AFA2798": {
     "name": "Terrapass Coin",
     "logo": "tpsc.svg",
