@@ -3225,5 +3225,13 @@
     "erc20": true,
     "symbol": "COR",
     "decimals": 18
+  },
+
+  "0x0De05F6447ab4D22c8827449EE4bA2D5C288379B": {
+    "name": "OOKI",
+    "logo": "ooki.svg",
+    "erc20": true,
+    "symbol": "OOKI",
+    "decimals": 18
   }
 }
