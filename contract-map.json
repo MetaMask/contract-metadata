@@ -3462,13 +3462,6 @@
     "symbol": "OOKI",
     "decimals": 18
   },
-  "0xcd150b1f528f326f5194c012f32eb30135c7c2c9": {
-    "name": "OOKI",
-    "logo": "ooki.svg",
-    "erc20": true,
-    "symbol": "OOKI",
-    "decimals": 18
-  },
   "0x6B4c7A5e3f0B99FCD83e9c089BDDD6c7FCe5c611": {
     "name": "Million",
     "logo": "million.svg",
