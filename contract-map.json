@@ -1,4 +1,11 @@
 {
+  "0x65BB569FAaDD324a00883FdE4c46346cc96D5c0A": {
+    "name": "Provide",
+    "logo": "prvd.svg",
+    "erc20": true,
+    "symbol": "PRVD",
+    "decimals": 8
+  },
   "0x5aFE3855358E112B5647B952709E6165e1c1eEEe": {
     "name": "Safe Token",
     "logo": "safe-white-token.svg",
