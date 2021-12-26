@@ -1,4 +1,11 @@
 {
+  "0x65BB569FAaDD324a00883FdE4c46346cc96D5c0A": {
+    "name": "Provide",
+    "logo": "prvd.svg",
+    "erc20": true,
+    "symbol": "PRVD",
+    "decimals": 8
+  },
   "0xB4272071eCAdd69d933AdcD19cA99fe80664fc08": {
     "name": "CryptoFranc",
     "logo": "XCHF.svg",
