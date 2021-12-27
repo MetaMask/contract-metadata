@@ -11,6 +11,13 @@
     "logo": "tpsc.svg",
     "erc20": true,
     "symbol": "TPSC",
+    "decimals": 18 
+  },
+   "0x6BeA7CFEF803D1e3d5f7C0103f7ded065644e197": {
+    "name": "Gamma",
+    "logo": "Gamma.svg",
+    "erc20": true,
+    "symbol": "GAMMA",
     "decimals": 18
   },
   "0x4730fB1463A6F1F44AEB45F6c5c422427f37F4D0": {
