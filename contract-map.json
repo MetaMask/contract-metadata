@@ -27,6 +27,13 @@
     "symbol": "IDLE",
     "decimals": 18
   },
+  "0x6BeA7CFEF803D1e3d5f7C0103f7ded065644e197": {
+    "name": "Gamma",
+    "logo": "Gamma.svg",
+    "erc20": true,
+    "symbol": "GAMMA",
+    "decimals": 18
+  },
   "0xc7D9c108D4E1dD1484D3e2568d7f74bfD763d356": {
     "name": "SORA Synthetic USD",
     "logo": "sora-xstusd.svg",
