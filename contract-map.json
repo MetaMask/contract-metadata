@@ -3622,5 +3622,12 @@
     "erc20": true,
     "symbol": "SWASH",
     "decimals": 18
+   },
+  "0x64AE88A79f79A2Cf3bF032ff6b687966b09645d9": {
+    "name": "Community Vote Power",
+    "logo": "svpmeta.png",
+    "erc20": true,
+    "symbol": "CVP",
+    "decimals": 9
   }
 }
