@@ -1,0 +1,21 @@
+{
+  "name": "GRODY",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\"  exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+
+{
+    "0x23F24E81994764ba838c0B1d53993d3c79A6fDFD":{
+      "name": "GetRichOrDieFinance",
+      "logo": "GRODY.svg",
+      "erc20": true,
+      "symbol": "GRODY",
+      "decimals": 18
+    },
