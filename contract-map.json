@@ -329,6 +329,13 @@
     "symbol": "DMST",
     "decimals": 18
   },
+  "0x64aa3364F17a4D01c6f1751Fd97C2BD3D7e7f1D5": {
+    "name": "Olympus",
+    "logo": "OHM.svg",
+    "erc20": true,
+    "symbol": "OHM",
+    "decimals": 9
+  },
   "0xDd1Ad9A21Ce722C151A836373baBe42c868cE9a4": {
     "name": "Universal Basic Income",
     "logo": "ubi.svg",
