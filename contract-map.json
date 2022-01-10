@@ -329,7 +329,7 @@
     "symbol": "DMST",
     "decimals": 18
   },
-  "0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5": {
+  "0x64aa3364F17a4D01c6f1751Fd97C2BD3D7e7f1D5": {
     "name": "Olympus",
     "logo": "OHM.svg",
     "erc20": true,
