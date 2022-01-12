@@ -3116,6 +3116,13 @@
     "symbol": "BADGER",
     "decimals": 18
   },
+  "0x65Def5029A0e7591e46B38742bFEdd1Fb7b24436": {
+    "name": "Kanpeki",
+    "logo": "kanpeki-green.svg",
+    "erc20": true,
+    "symbol": "KAE",
+    "decimals": 18
+  },
   "0xDcB01cc464238396E213a6fDd933E36796eAfF9f": {
     "name": "Yield",
     "logo": "yield-logo.svg",
