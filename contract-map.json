@@ -336,6 +336,13 @@
     "symbol": "OHM",
     "decimals": 9
   },
+  "0x0ab87046fBb341D058F17CBC4c1133F25a20a52f": {
+    "name": "Governance OHM",
+    "logo": "gOHM.svg",
+    "erc20": true,
+    "symbol": "gOHM",
+    "decimals": 18
+  },
   "0xDd1Ad9A21Ce722C151A836373baBe42c868cE9a4": {
     "name": "Universal Basic Income",
     "logo": "ubi.svg",
