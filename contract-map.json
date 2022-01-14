@@ -3630,6 +3630,13 @@
     "symbol": "PDOG",
     "decimals": 18
   },
+  "0xF4d861575ecC9493420A3f5a14F85B13f0b50EB3": {
+    "name": "Fractal Protocol",
+    "logo": "fractal.svg",
+    "erc20": true,
+    "symbol": "FCL",
+    "decimals": 18
+  },  
   "0x3af33bEF05C2dCb3C7288b77fe1C8d2AeBA4d789": {
     "name": "Kromatika",
     "logo": "krom.svg",
