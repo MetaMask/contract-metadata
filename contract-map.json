@@ -336,6 +336,20 @@
     "symbol": "DMST",
     "decimals": 18
   },
+  "0x64aa3364F17a4D01c6f1751Fd97C2BD3D7e7f1D5": {
+    "name": "Olympus",
+    "logo": "OHM.svg",
+    "erc20": true,
+    "symbol": "OHM",
+    "decimals": 9
+  },
+  "0x0ab87046fBb341D058F17CBC4c1133F25a20a52f": {
+    "name": "Governance OHM",
+    "logo": "gOHM.svg",
+    "erc20": true,
+    "symbol": "gOHM",
+    "decimals": 18
+  },
   "0xDd1Ad9A21Ce722C151A836373baBe42c868cE9a4": {
     "name": "Universal Basic Income",
     "logo": "ubi.svg",
@@ -3116,6 +3130,13 @@
     "symbol": "BADGER",
     "decimals": 18
   },
+  "0x65Def5029A0e7591e46B38742bFEdd1Fb7b24436": {
+    "name": "Kanpeki",
+    "logo": "kanpeki-green.svg",
+    "erc20": true,
+    "symbol": "KAE",
+    "decimals": 18
+  },
   "0xDcB01cc464238396E213a6fDd933E36796eAfF9f": {
     "name": "Yield",
     "logo": "yield-logo.svg",
@@ -3616,6 +3637,13 @@
     "symbol": "PDOG",
     "decimals": 18
   },
+  "0xF4d861575ecC9493420A3f5a14F85B13f0b50EB3": {
+    "name": "Fractal Protocol",
+    "logo": "fractal.svg",
+    "erc20": true,
+    "symbol": "FCL",
+    "decimals": 18
+  },  
   "0x3af33bEF05C2dCb3C7288b77fe1C8d2AeBA4d789": {
     "name": "Kromatika",
     "logo": "krom.svg",
