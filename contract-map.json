@@ -34,6 +34,13 @@
     "symbol": "GAMMA",
     "decimals": 18
   },
+  "0x26805021988F1a45dC708B5FB75Fc75F21747D8c": {
+    "name": "xGamma",
+    "logo": "xGamma.svg",
+    "erc20": true,
+    "symbol": "xGAMMA",
+    "decimals": 18
+  },
   "0xc7D9c108D4E1dD1484D3e2568d7f74bfD763d356": {
     "name": "SORA Synthetic USD",
     "logo": "sora-xstusd.svg",
