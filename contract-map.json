@@ -1,5 +1,5 @@
 {
-  "0xeDF6568618A00C6F0908Bf7758A16F76B6E04aF9":{
+  "0xeDF6568618A00C6F0908Bf7758A16F76B6E04aF9": {
     "name": "Arianee",
     "logo": "aria20.svg",
     "erc20": true,
@@ -224,7 +224,7 @@
     "symbol": "RSV",
     "decimals": 18
   },
-  "0x8762db106B2c2A0bccB3A80d1Ed41273552616E8": {
+  "0x320623b8E4fF03373931769A31Fc52A4E78B5d70": {
     "name": "Reserve Rights",
     "logo": "rsr.svg",
     "erc20": true,
@@ -3156,7 +3156,7 @@
     "logo": "quiverx.svg",
     "erc20": true,
     "symbol": "QRX",
-    "decimals":18
+    "decimals": 18
   },
   "0x0beAD9a1bcc1b84D06E3f2df67E3549Fd55aB054": {
     "name": "EURxb",
@@ -3636,7 +3636,7 @@
     "erc20": true,
     "symbol": "FCL",
     "decimals": 18
-  },  
+  },
   "0x3af33bEF05C2dCb3C7288b77fe1C8d2AeBA4d789": {
     "name": "Kromatika",
     "logo": "krom.svg",
