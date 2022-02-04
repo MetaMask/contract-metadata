@@ -3657,5 +3657,12 @@
     "erc20": true,
     "symbol": "PAD",
     "decimals": 18
+  },
+  "0x87C22615435998D69ACA34889D03155B694a94fc": {
+    "name": "DiemLibre",
+    "logo": "DLB.svg",
+    "erc20": true,
+    "symbol": "DLB",
+    "decimals": 18
   }
 }
