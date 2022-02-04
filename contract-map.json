@@ -1568,9 +1568,9 @@
     "erc20": true,
     "decimals": 18
   },
-  "0xEBBdf302c940c6bfd49C6b165f457fdb324649bc": {
-    "name": "Hydro",
-    "logo": "hydro.png",
+  "0x946112efaB61C3636CBD52DE2E1392D7A75A6f01": {
+    "name": "HYDRO TOKEN",
+    "logo": "hydro.svg",
     "erc20": true,
     "symbol": "HYDRO",
     "decimals": 18
