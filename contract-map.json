@@ -3664,5 +3664,12 @@
     "erc20": true,
     "symbol": "DLB",
     "decimals": 18
+  },
+  "0x399E279c814a3100065fceaB8CbA1aB114805344": {
+    "name": "sRIBBITS",
+    "logo": "sRIBBITS.png",
+    "erc20": true,
+    "symbol": "SRIBBITS",
+    "decimals": 18
   }
 }
