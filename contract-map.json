@@ -3504,6 +3504,13 @@
     "symbol": "vBZRX",
     "decimals": 18
   },
+  "0x3085154623F51b00Dedfc6Ceeb5197277A66B17B": {
+    "name": "NIFTY",
+    "logo": "nfty.svg",
+    "erc20": true,
+    "symbol": "NFTY",
+    "decimals": 18
+  },
   "0xB983E01458529665007fF7E0CDdeCDB74B967Eb6": {
     "name": "Fulcrum ETH iToken (iETH)",
     "logo": "ic_token_ieth.svg",
