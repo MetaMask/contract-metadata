@@ -378,6 +378,21 @@
     "symbol": "LDO",
     "decimals": 18
   },
+  "0xbd31ea8212119f94a611fa969881cba3ea06fa3d": {
+    "name": "LUNA Token (Wormhole)",
+    "logo": "Luna.svg",
+    "erc20": true,
+    "symbol": "LUNA",
+    "decimals": 6
+  },
+  "0xa693b19d2931d498c5b318df961919bb4aee87a5": {
+    "name": "UST Token (Wormhole)",
+    "logo": "UST.svg",
+    "erc20": true,
+    "symbol": "UST",
+    "decimals": 6
+  },
+
   "0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9": {
     "name": "Wrapped LUNA Token",
     "logo": "Luna.svg",
