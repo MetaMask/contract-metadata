@@ -3671,5 +3671,12 @@
     "erc20": true,
     "symbol": "DLB",
     "decimals": 18
+  },
+  "0xcd1faff6e578fa5cac469d2418c95671ba1a62fe": {
+    "name": "Torum Token",
+    "logo": "torum.svg",
+    "erc20": true,
+    "symbol": "XTM",
+    "decimals": 18
   }
 }
