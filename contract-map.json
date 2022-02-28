@@ -1,4 +1,11 @@
 {
+  "0xEd04915c23f00A313a544955524EB7DBD823143d": {
+    "name": "Alchemy Pay",
+    "logo": "ACH.svg",
+    "erc20": true,
+    "symbol": "ACH",
+    "decimals": 8
+  },
   "0xeDF6568618A00C6F0908Bf7758A16F76B6E04aF9": {
     "name": "Arianee",
     "logo": "aria20.svg",
