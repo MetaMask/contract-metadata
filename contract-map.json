@@ -1,6 +1,6 @@
 {
   "0xEd04915c23f00A313a544955524EB7DBD823143d": {
-    "name": "AlchemyPay",
+    "name": "Alchemy Pay",
     "logo": "ACH.svg",
     "erc20": true,
     "symbol": "ACH",
@@ -1884,6 +1884,13 @@
     "symbol": "TRST",
     "decimals": 6
   },
+  "0xCB56b52316041A62B6b5D0583DcE4A8AE7a3C629": {
+    "name": "Cigarettes",
+    "logo": "cig.svg",
+    "erc20": true,
+    "symbol": "CIG",
+    "decimals": 18
+  },
   "0x960b236A07cf122663c4303350609A66A7B288C0": {
     "name": "Aragon Network Token v1",
     "logo": "antv1.svg",
@@ -3677,6 +3684,13 @@
     "logo": "DLB.svg",
     "erc20": true,
     "symbol": "DLB",
+    "decimals": 18
+  },
+  "0xCd1fAFf6e578Fa5cAC469d2418C95671bA1a62Fe": {
+    "name": "Torum Token",
+    "logo": "torum.svg",
+    "erc20": true,
+    "symbol": "XTM",
     "decimals": 18
   }
 }
