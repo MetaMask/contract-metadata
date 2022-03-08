@@ -1,4 +1,11 @@
 {
+  "0x4ad7a056191F4c9519fAcd6D75FA94CA26003aCE": {
+    "name": "GoldPesa Option",
+    "logo": "GPO.svg",
+    "erc20": true,
+    "symbol": "GPO",
+    "decimals": 16
+  },
   "0xEd04915c23f00A313a544955524EB7DBD823143d": {
     "name": "Alchemy Pay",
     "logo": "ACH.svg",
