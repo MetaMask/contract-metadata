@@ -3504,6 +3504,13 @@
     "symbol": "COR",
     "decimals": 18
   },
+  "0x0De05F6447ab4D22c8827449EE4bA2D5C288379B": {
+    "name": "OOKI",
+    "logo": "ooki.svg",
+    "erc20": true,
+    "symbol": "OOKI",
+    "decimals": 18
+  },
   "0x6B4c7A5e3f0B99FCD83e9c089BDDD6c7FCe5c611": {
     "name": "Million",
     "logo": "million.svg",
