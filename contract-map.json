@@ -3291,6 +3291,20 @@
     "symbol": "wCUSD",
     "decimals": 18
   },
+  "0x85D7bdfc9c3426b33A684241eEEE70385Bc42820": {
+    "name": "Wrapped Kadena",
+    "logo": "WKDA.svg",
+    "erc20": true,
+    "symbol": "WKDA",
+    "decimals": 18
+  },
+  "0x39fBBABf11738317a448031930706cd3e612e1B9": {
+    "name": "Wrapped XRP",
+    "logo": "WXRP.svg",
+    "erc20": true,
+    "symbol": "WXRP",
+    "decimals": 18
+  },
   "0xBBC7f7A6AADAc103769C66CBC69AB720f7F9Eae3": {
     "name": "INX Token",
     "logo": "INX.svg",
