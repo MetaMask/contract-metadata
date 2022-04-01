@@ -382,14 +382,14 @@
     "name": "LUNA Token (Wormhole)",
     "logo": "Luna.svg",
     "erc20": true,
-    "symbol": "LUNA",
+    "symbol": "wLUNA",
     "decimals": 6
   },
   "0xa693b19d2931d498c5b318df961919bb4aee87a5": {
     "name": "UST Token (Wormhole)",
     "logo": "UST.svg",
     "erc20": true,
-    "symbol": "UST",
+    "symbol": "wUST",
     "decimals": 6
   },
 
