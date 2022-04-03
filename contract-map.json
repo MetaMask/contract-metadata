@@ -3721,6 +3721,13 @@
     "symbol": "APE",
     "decimals": 18
   },
+  "0x712b05710bcFe9C9B1DF08D0f846f42c3D457F3E": {
+    "name": "SmartNodes Finance",
+    "logo": "SMRT.png",
+    "erc20": true,
+    "symbol": "SMRT",
+    "decimals": 18
+   },    
   "0xCd1fAFf6e578Fa5cAC469d2418C95671bA1a62Fe": {
     "name": "Torum Token",
     "logo": "torum.svg",
