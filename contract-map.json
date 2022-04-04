@@ -1,14 +1,14 @@
 {
   "0xc20C9C13E853fc64d054b73fF21d3636B2d97eaB": {
     "name": "CoW Protocol Virtual Token",
-    "logo": "vCOW.png",
+    "logo": "vCOW.svg",
     "erc20": true,
     "symbol": "vCOW",
     "decimals": 18
   },
   "0xD057B63f5E69CF1B929b356b579Cba08D7688048": {
     "name": "CoW Protocol Virtual Token",
-    "logo": "vCOW.png",
+    "logo": "vCOW.svg",
     "erc20": true,
     "symbol": "vCOW",
     "decimals": 18
