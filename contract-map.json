@@ -3723,7 +3723,7 @@
   },
   "0x712b05710bcFe9C9B1DF08D0f846f42c3D457F3E": {
     "name": "SmartNodes Finance",
-    "logo": "SMRT.png",
+    "logo": "SMRT.svg",
     "erc20": true,
     "symbol": "SMRT",
     "decimals": 18
