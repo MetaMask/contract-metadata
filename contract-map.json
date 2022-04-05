@@ -1,4 +1,18 @@
 {
+  "0xD057B63f5E69CF1B929b356b579Cba08D7688048": {
+    "name": "CoW Protocol Virtual Token",
+    "logo": "vCOW.svg",
+    "erc20": true,
+    "symbol": "vCOW",
+    "decimals": 18
+  },
+  "0xDEf1CA1fb7FBcDC777520aa7f396b4E015F497aB": {
+    "name": "CoW Protocol Token",
+    "logo": "COW.svg",
+    "erc20": true,
+    "symbol": "COW",
+    "decimals": 18
+  },
   "0xEd04915c23f00A313a544955524EB7DBD823143d": {
     "name": "Alchemy Pay",
     "logo": "ACH.svg",
