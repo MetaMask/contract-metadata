@@ -1,4 +1,11 @@
 {
+  "0xBBc2AE13b23d715c30720F079fcd9B4a74093505": {
+    "name": "Ethernity Chain Token",
+    "logo": "ERN.svg",
+    "erc20": true,
+    "symbol": "ERN",
+    "decimals": 18
+  },  
   "0xD057B63f5E69CF1B929b356b579Cba08D7688048": {
     "name": "CoW Protocol Virtual Token",
     "logo": "vCOW.svg",
