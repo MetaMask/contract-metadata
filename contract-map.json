@@ -3762,5 +3762,12 @@
     "erc20": true,
     "symbol": "FLOKI",
     "decimals": 9
+  },
+  "0x6710c63432A2De02954fc0f851db07146a6c0312": {
+    "name": "MFG",
+    "logo": "mfg.svg",
+    "erc20": true,
+    "symbol": "MFG",
+    "decimals": 18
   }
 }
