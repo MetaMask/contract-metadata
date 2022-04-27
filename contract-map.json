@@ -1,4 +1,11 @@
 {
+    "0x5aFE3855358E112B5647B952709E6165e1c1eEEe": {
+    "name": "Safe Token",
+    "logo": "safe-white-token.svg",
+    "erc20": true,
+    "symbol": "SAFE",
+    "decimals": 18
+  },
   "0xBBc2AE13b23d715c30720F079fcd9B4a74093505": {
     "name": "Ethernity Chain Token",
     "logo": "ERN.svg",
