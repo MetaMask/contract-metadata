@@ -1,4 +1,18 @@
 {
+    "0x5aFE3855358E112B5647B952709E6165e1c1eEEe": {
+    "name": "Safe Token",
+    "logo": "safe-white-token.svg",
+    "erc20": true,
+    "symbol": "SAFE",
+    "decimals": 18
+  },
+  "0xBBc2AE13b23d715c30720F079fcd9B4a74093505": {
+    "name": "Ethernity Chain Token",
+    "logo": "ERN.svg",
+    "erc20": true,
+    "symbol": "ERN",
+    "decimals": 18
+  },  
   "0xD057B63f5E69CF1B929b356b579Cba08D7688048": {
     "name": "CoW Protocol Virtual Token",
     "logo": "vCOW.svg",
@@ -2217,6 +2231,13 @@
     "symbol": "WETH",
     "decimals": 18
   },
+  "0xba5BDe662c17e2aDFF1075610382B9B691296350": {
+    "name": "SuperRare Token",
+    "logo": "rare.svg",
+    "erc20": true,
+    "symbol": "RARE",
+    "decimals": 18
+  },
   "0x6C8c6b02E7b2BE14d4fA6022Dfd6d75921D90E4E": {
     "name": "Compound Basic Attention Token",
     "logo": "ctoken-bat.svg",
@@ -3749,11 +3770,18 @@
     "symbol": "FLOKI",
     "decimals": 9
   },
+  "0x6710c63432A2De02954fc0f851db07146a6c0312": {
+    "name": "MFG",
+    "logo": "mfg.svg",
+    "erc20": true,
+    "symbol": "MFG",
+    "decimals": 18
+  },
   "0xD33526068D116cE69F19A9ee46F0bd304F21A51f": {
     "name": "Rocket Pool",
     "logo": "rpl.svg",
     "erc20": true,
     "symbol": "RPL",
-    "decimals": 18
+	"decimals": 18
   }
 }
