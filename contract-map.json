@@ -1,5 +1,5 @@
 {
-    "0x5aFE3855358E112B5647B952709E6165e1c1eEEe": {
+  "0x5aFE3855358E112B5647B952709E6165e1c1eEEe": {
     "name": "Safe Token",
     "logo": "safe-white-token.svg",
     "erc20": true,
@@ -12,7 +12,7 @@
     "erc20": true,
     "symbol": "ERN",
     "decimals": 18
-  },  
+  },
   "0xD057B63f5E69CF1B929b356b579Cba08D7688048": {
     "name": "CoW Protocol Virtual Token",
     "logo": "vCOW.svg",
@@ -3737,7 +3737,7 @@
   },
   "0xea7Cc765eBC94C4805e3BFf28D7E4aE48D06468A": {
     "name": "NearPad Token",
-    "logo": "nearpad.svg",
+    "logo": "nearpad.png",
     "erc20": true,
     "symbol": "PAD",
     "decimals": 18
@@ -3763,7 +3763,7 @@
     "symbol": "XTM",
     "decimals": 18
   },
-    "0xcf0C122c6b73ff809C693DB761e7BaeBe62b6a2E": {
+  "0xcf0C122c6b73ff809C693DB761e7BaeBe62b6a2E": {
     "name": "FLOKI",
     "logo": "floki.svg",
     "erc20": true,
