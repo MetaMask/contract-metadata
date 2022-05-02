@@ -3737,7 +3737,7 @@
   },
   "0xea7Cc765eBC94C4805e3BFf28D7E4aE48D06468A": {
     "name": "NearPad Token",
-    "logo": "nearpad.png",
+    "logo": "nearpad.svg",
     "erc20": true,
     "symbol": "PAD",
     "decimals": 18
