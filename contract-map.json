@@ -3770,6 +3770,13 @@
     "symbol": "FLOKI",
     "decimals": 9
   },
+    "0xe831F96A7a1DcE1aa2EB760b1e296c6A74CaA9d5": {
+    "name": "Nexum Coin",
+    "logo": "nexum.svg",
+    "erc20": true,
+    "symbol": "Nexm",
+    "decimals": 8
+  },
   "0x6710c63432A2De02954fc0f851db07146a6c0312": {
     "name": "MFG",
     "logo": "mfg.svg",
