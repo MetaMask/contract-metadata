@@ -1,4 +1,11 @@
 {
+ "0xc17829f3345900243e8Fa3970dDDE8Ab33F44Ba2": {
+    "name": "Zelenskyy DAO",
+    "logo": "ZELEN.svg",
+    "erc20": true,
+    "symbol": "ZELEN",
+    "decimals": 18
+  },
   "0x5aFE3855358E112B5647B952709E6165e1c1eEEe": {
     "name": "Safe Token",
     "logo": "safe-white-token.svg",
