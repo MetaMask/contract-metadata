@@ -1,5 +1,5 @@
 {
-    "0x5aFE3855358E112B5647B952709E6165e1c1eEEe": {
+  "0x5aFE3855358E112B5647B952709E6165e1c1eEEe": {
     "name": "Safe Token",
     "logo": "safe-white-token.svg",
     "erc20": true,
@@ -12,7 +12,7 @@
     "erc20": true,
     "symbol": "ERN",
     "decimals": 18
-  },  
+  },
   "0xD057B63f5E69CF1B929b356b579Cba08D7688048": {
     "name": "CoW Protocol Virtual Token",
     "logo": "vCOW.svg",
@@ -420,137 +420,152 @@
     "symbol": "LDO",
     "decimals": 18
   },
-  "0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9": {
-    "name": "Wrapped LUNA Token",
+  "0xbd31EA8212119f94A611FA969881CBa3EA06Fa3d": {
+    "name": "LUNA Token",
     "logo": "Luna.svg",
     "erc20": true,
     "symbol": "LUNA",
-    "decimals": 18
+    "decimals": 6
   },
-  "0xa47c8bf37f92aBed4A126BDA807A7b7498661acD": {
-    "name": "Wrapped UST Token",
+  "0xa693B19d2931d498c5B318dF961919BB4aee87a5": {
+    "name": "UST Token",
     "logo": "UST.svg",
     "erc20": true,
     "symbol": "UST",
+    "decimals": 6
+  },
+
+  "0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9": {
+    "name": "LUNA Token - Shuttle",
+    "logo": "shuttleLUNA.svg",
+    "erc20": true,
+    "symbol": "LUNA-S",
+    "decimals": 18
+  },
+  "0xa47c8bf37f92aBed4A126BDA807A7b7498661acD": {
+    "name": "UST Token - Shuttle",
+    "logo": "shuttleUST.svg",
+    "erc20": true,
+    "symbol": "UST-S",
     "decimals": 18
   },
   "0xcAAfF72A8CbBfc5Cf343BA4e26f65a257065bFF1": {
-    "name": "Wrapped KRT Token",
+    "name": "KRT Token - Shuttle",
     "logo": "KRT.svg",
     "erc20": true,
-    "symbol": "KRT",
+    "symbol": "KRT-S",
     "decimals": 18
   },
   "0x676Ad1b33ae6423c6618C1AEcf53BAa29cf39EE5": {
-    "name": "Wrapped SDT Token",
+    "name": "SDT Token - Shuttle",
     "logo": "SDT.svg",
     "erc20": true,
-    "symbol": "SDT",
+    "symbol": "SDT-S",
     "decimals": 18
   },
   "0x156B36ec68FdBF84a925230BA96cb1Ca4c4bdE45": {
-    "name": "Wrapped MNT Token",
+    "name": "MNT Token - Shuttle",
     "logo": "MNT.svg",
     "erc20": true,
-    "symbol": "MNT",
+    "symbol": "MNT-S",
     "decimals": 18
   },
   "0x09a3EcAFa817268f77BE1283176B946C4ff2E608": {
-    "name": "Wrapped MIR Token",
+    "name": "MIR Token - Shuttle",
     "logo": "MIR.svg",
     "erc20": true,
-    "symbol": "MIR",
+    "symbol": "MIR-S",
     "decimals": 18
   },
   "0xd36932143F6eBDEDD872D5Fb0651f4B72Fd15a84": {
-    "name": "Wrapped Mirror AAPL Token",
+    "name": "Mirror AAPL Token - Shuttle",
     "logo": "mAAPL.svg",
     "erc20": true,
-    "symbol": "mAAPL",
+    "symbol": "mAAPL-S",
     "decimals": 18
   },
   "0x59A921Db27Dd6d4d974745B7FfC5c33932653442": {
-    "name": "Wrapped Mirror GOOGL Token",
+    "name": "Mirror GOOGL Token - Shuttle",
     "logo": "mGOOGL.svg",
     "erc20": true,
-    "symbol": "mGOOGL",
+    "symbol": "mGOGL-S",
     "decimals": 18
   },
   "0x21cA39943E91d704678F5D00b6616650F066fD63": {
-    "name": "Wrapped Mirror TSLA Token",
+    "name": "Mirror TSLA Token - Shuttle",
     "logo": "mTSLA.svg",
     "erc20": true,
-    "symbol": "mTSLA",
+    "symbol": "mTSLA-S",
     "decimals": 18
   },
   "0xC8d674114bac90148d11D3C1d33C61835a0F9DCD": {
-    "name": "Wrapped Mirror NFLX Token",
+    "name": "Mirror NFLX Token - Shuttle",
     "logo": "mNFLX.svg",
     "erc20": true,
-    "symbol": "mNFLX",
+    "symbol": "mNFLX-S",
     "decimals": 18
   },
   "0x13B02c8dE71680e71F0820c996E4bE43c2F57d15": {
-    "name": "Wrapped Mirror QQQ Token",
+    "name": "Mirror QQQ Token - Shuttle",
     "logo": "mQQQ.svg",
     "erc20": true,
-    "symbol": "mQQQ",
+    "symbol": "mQQQ-S",
     "decimals": 18
   },
   "0xEdb0414627E6f1e3F082DE65cD4F9C693D78CCA9": {
-    "name": "Wrapped Mirror TWTR Token",
+    "name": "Mirror TWTR Token - Shuttle",
     "logo": "mTWTR.svg",
     "erc20": true,
-    "symbol": "mTWTR",
+    "symbol": "mTWTR-S",
     "decimals": 18
   },
   "0x41BbEDd7286dAab5910a1f15d12CBda839852BD7": {
-    "name": "Wrapped Mirror MSFT Token",
+    "name": "Mirror MSFT Token - Shuttle",
     "logo": "mMSFT.svg",
     "erc20": true,
-    "symbol": "mMSFT",
+    "symbol": "mMSFT-S",
     "decimals": 18
   },
   "0x0cae9e4d663793c2a2A0b211c1Cf4bBca2B9cAa7": {
-    "name": "Wrapped Mirror AMZN Token",
+    "name": "Mirror AMZN Token - Shuttle",
     "logo": "mAMZN.svg",
     "erc20": true,
-    "symbol": "mAMZN",
+    "symbol": "mAMZN-S",
     "decimals": 18
   },
   "0x56aA298a19C93c6801FDde870fA63EF75Cc0aF72": {
-    "name": "Wrapped Mirror BABA Token",
+    "name": "Mirror BABA Token - Shuttle",
     "logo": "mBABA.svg",
     "erc20": true,
-    "symbol": "mBABA",
+    "symbol": "mBABA-S",
     "decimals": 18
   },
   "0x1d350417d9787E000cc1b95d70E9536DcD91F373": {
-    "name": "Wrapped Mirror IAU Token",
+    "name": "Mirror IAU Token - Shuttle",
     "logo": "mIAU.svg",
     "erc20": true,
-    "symbol": "mIAU",
+    "symbol": "mIAU-S",
     "decimals": 18
   },
   "0x9d1555d8cB3C846Bb4f7D5B1B1080872c3166676": {
-    "name": "Wrapped Mirror SLV Token",
+    "name": "Mirror SLV Token - Shuttle",
     "logo": "mSLV.svg",
     "erc20": true,
-    "symbol": "mSLV",
+    "symbol": "mSLV-S",
     "decimals": 18
   },
   "0x31c63146a635EB7465e5853020b39713AC356991": {
-    "name": "Wrapped Mirror USO Token",
+    "name": "Mirror USO Token - Shuttle",
     "logo": "mUSO.svg",
     "erc20": true,
-    "symbol": "mUSO",
+    "symbol": "mUSO-S",
     "decimals": 18
   },
   "0xf72FCd9DCF0190923Fadd44811E240Ef4533fc86": {
-    "name": "Wrapped Mirror VIXY Token",
+    "name": "Mirror VIXY Token - Shuttle",
     "logo": "mVIXY.svg",
     "erc20": true,
-    "symbol": "mVIXY",
+    "symbol": "mVIXY-S",
     "decimals": 18
   },
   "0x21BfBDa47A0B4B5b1248c767Ee49F7caA9B23697": {
@@ -3763,12 +3778,19 @@
     "symbol": "XTM",
     "decimals": 18
   },
-    "0xcf0C122c6b73ff809C693DB761e7BaeBe62b6a2E": {
+  "0xcf0C122c6b73ff809C693DB761e7BaeBe62b6a2E": {
     "name": "FLOKI",
     "logo": "floki.svg",
     "erc20": true,
     "symbol": "FLOKI",
     "decimals": 9
+  },
+    "0xe831F96A7a1DcE1aa2EB760b1e296c6A74CaA9d5": {
+    "name": "Nexum Coin",
+    "logo": "nexum.svg",
+    "erc20": true,
+    "symbol": "Nexm",
+    "decimals": 8
   },
   "0x6710c63432A2De02954fc0f851db07146a6c0312": {
     "name": "MFG",
@@ -3777,6 +3799,13 @@
     "symbol": "MFG",
     "decimals": 18
   },
+  "0xae78736Cd615f374D3085123A210448E74Fc6393": {
+    "name": "Rocket Pool ETH",
+    "logo": "rETH.svg",
+    "erc20": true,
+    "symbol": "rETH",
+	"decimals": 18
+  },
   "0xD33526068D116cE69F19A9ee46F0bd304F21A51f": {
     "name": "Rocket Pool",
     "logo": "rpl.svg",
@@ -3784,4 +3813,5 @@
     "symbol": "RPL",
 	"decimals": 18
   }
+	
 }
