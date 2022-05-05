@@ -3798,5 +3798,13 @@
     "erc20": true,
     "symbol": "MFG",
     "decimals": 18
+  },
+  "0xae78736Cd615f374D3085123A210448E74Fc6393": {
+    "name": "Rocket Pool ETH",
+    "logo": "rETH.svg",
+    "erc20": true,
+    "symbol": "rETH",
+	"decimals": 18
   }
+	
 }
