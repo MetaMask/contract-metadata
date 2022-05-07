@@ -3805,6 +3805,13 @@
     "erc20": true,
     "symbol": "rETH",
 	"decimals": 18
+  },
+  {
+    "name": "Quid Ika",
+    "logo": "quidika.png",
+    "erc20": true,
+    "symbol": "QUID",
+    "decimals": 9
   }
 	
 }
