@@ -3805,6 +3805,13 @@
     "erc20": true,
     "symbol": "rETH",
 	"decimals": 18
+  },
+  "0xD33526068D116cE69F19A9ee46F0bd304F21A51f": {
+    "name": "Rocket Pool",
+    "logo": "rpl.svg",
+    "erc20": true,
+    "symbol": "RPL",
+	"decimals": 18
   }
 	
 }
