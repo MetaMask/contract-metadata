@@ -3806,6 +3806,13 @@
     "symbol": "rETH",
 	"decimals": 18
   },
+  "0xD33526068D116cE69F19A9ee46F0bd304F21A51f": {
+    "name": "Rocket Pool",
+    "logo": "rpl.svg",
+    "erc20": true,
+    "symbol": "RPL",
+	"decimals": 18
+  },
   "0x9d38F670D15C14716BE1F109a4F453E966A2B6D4": {
     "name": "Quid Ika",
     "logo": "quidika.png",
