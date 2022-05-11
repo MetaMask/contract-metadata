@@ -1,4 +1,11 @@
 {
+  "0x9d29f93e0A4C0bC5AC1E13d5B72038F35C81F325": {
+    "name": "ForgivenetToken",
+    "logo": "frgvn-symbol.png",
+    "erc20": true,
+    "symbol": "FRGVN",
+    "decimals": 18
+  },
   "0x5aFE3855358E112B5647B952709E6165e1c1eEEe": {
     "name": "Safe Token",
     "logo": "safe-white-token.svg",
