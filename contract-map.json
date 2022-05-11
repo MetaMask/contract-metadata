@@ -1,4 +1,11 @@
 {
+   "0xC7aDb7a340F6a9bfcEdEa0D1AECa81584E394913": {
+    "name": "CNFT",
+    "logo": "colournft.svg",
+    "erc20": true,
+    "symbol": "CNFT",
+    "decimals": 18
+  },
   "0x5aFE3855358E112B5647B952709E6165e1c1eEEe": {
     "name": "Safe Token",
     "logo": "safe-white-token.svg",
