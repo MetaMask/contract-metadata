@@ -1,4 +1,11 @@
 {
+  "0x887D9c01FFf04022da9c6D64a65a481a9e5D1FCa": {
+    "name": "Education(LEDU) Token",
+    "logo": "LEDU.svg",
+    "BEP20": true,
+    "symbol": "LEDU",
+    "decimals": 8
+  },
   "0x5aFE3855358E112B5647B952709E6165e1c1eEEe": {
     "name": "Safe Token",
     "logo": "safe-white-token.svg",
