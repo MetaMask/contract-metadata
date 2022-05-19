@@ -41,6 +41,7 @@ Maintaining this list is a considerable chore, and it is not our highest priorit
 Criteria:
 
 - The icon should be small, square, but high resolution, ideally a vector/svg.
+- The address should be in checksum format or it will not be accepted.
 - Do not add your entry to the end of the JSON map, messing with the trailing comma. Your pull request should only be an addition of lines, and any line removals should be deliberate deprecations of those logos.
 - PR should include link to official project website referencing the suggested address.
 - Project website should include explanation of project.
