@@ -1,7 +1,7 @@
 {
   "0x9d29f93e0A4C0bC5AC1E13d5B72038F35C81F325": {
     "name": "ForgivenetToken",
-    "logo": "frgvn-symbol.png",
+    "logo": "1frgvn.svg",
     "erc20": true,
     "symbol": "FRGVN",
     "decimals": 18
