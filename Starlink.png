@@ -1,9 +1,11 @@
 
   },
-  "0x8e6cd950ad6ba651f6dd608dc70e5886b1aa6b24": {
-    "name": "Starlink",
-    "logo": "Starlink.png",
+  "0xa4Ff1bfA01d4Bb13f24Cc026BEE40119Baf8fe1C": {
+    "name": "Central Infinite",
+    "logo": "hWRW_IIH_400x400.jpg",
     "erc20": true,
-    "symbol": "STARL",
+    "symbol": "CENI",
     "decimals": 18
   },
+  
+  
