@@ -6,6 +6,86 @@
     "symbol": "SAFE",
     "decimals": 18
   },
+  "0x9C8fF314C9Bc7F6e59A9d9225Fb22946427eDC03": {
+    "name": "Nouns",
+    "erc20": false,
+    "erc721": true,
+    "symbol": "NOUN",
+    "decimals": 0,
+    "logo": "nouns.svg"
+  },
+  "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D": {
+    "name": "BoredApeYachtClub",
+    "erc20": false,
+    "erc721": true,
+    "symbol": "BAYC",
+    "decimals": 0,
+    "logo": "bayc.svg"
+  },
+  "0x08D7C0242953446436F34b4C78Fe9da38c73668d": {
+    "name": "PROOF Collective",
+    "erc20": false,
+    "erc721": true,
+    "symbol": "PROOF",
+    "decimals": 0,
+    "logo": "proof.svg"
+  },
+  "0x23581767a106ae21c074b2276D25e5C3e136a68b": {
+    "name": "Moonbirds",
+    "erc20": false,
+    "erc721": true,
+    "symbol": "MOONBIRD",
+    "decimals": 0,
+    "logo": "moonbirds.svg"
+  },
+  "0x60E4d786628Fea6478F785A6d7e704777c86a7c6": {
+    "name": "MutantApeYachtClub",
+    "erc20": false,
+    "erc721": true,
+    "symbol": "MAYC",
+    "decimals": 0,
+    "logo": "mayc.svg"
+  },
+  "0x49cF6f5d44E70224e2E23fDcdd2C053F30aDA28B": {
+    "name": "CloneX",
+    "erc20": false,
+    "erc721": true,
+    "symbol": "CloneX",
+    "decimals": 0,
+    "logo": "clonex.svg"
+  },
+  "0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e": {
+    "name": "Doodles",
+    "erc20": false,
+    "erc721": true,
+    "symbol": "DOODLE",
+    "decimals": 0,
+    "logo": "doodles.svg"
+  },
+  "0xED5AF388653567Af2F388E6224dC7C4b3241C544": {
+    "name": "Azuki",
+    "erc20": false,
+    "erc721": true,
+    "symbol": "AZUKI",
+    "decimals": 0,
+    "logo": "azuki.svg"
+  },
+  "0xa3AEe8BcE55BEeA1951EF834b99f3Ac60d1ABeeB": {
+    "name": "VeeFriends",
+    "erc20": false,
+    "erc721": true,
+    "symbol": "VFT",
+    "decimals": 0,
+    "logo": "veefriends.svg"
+  },
+  "0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258": {
+    "name": "Otherdeed",
+    "erc20": false,
+    "erc721": true,
+    "symbol": "OTHR",
+    "decimals": 0,
+    "logo": "otherdeed.svg"
+  },
   "0xBBc2AE13b23d715c30720F079fcd9B4a74093505": {
     "name": "Ethernity Chain Token",
     "logo": "ERN.svg",
@@ -3785,7 +3865,7 @@
     "symbol": "FLOKI",
     "decimals": 9
   },
-    "0xe831F96A7a1DcE1aa2EB760b1e296c6A74CaA9d5": {
+  "0xe831F96A7a1DcE1aa2EB760b1e296c6A74CaA9d5": {
     "name": "Nexum Coin",
     "logo": "nexum.svg",
     "erc20": true,
@@ -3804,14 +3884,13 @@
     "logo": "rETH.svg",
     "erc20": true,
     "symbol": "rETH",
-	"decimals": 18
+    "decimals": 18
   },
   "0xD33526068D116cE69F19A9ee46F0bd304F21A51f": {
     "name": "Rocket Pool",
     "logo": "rpl.svg",
     "erc20": true,
     "symbol": "RPL",
-	"decimals": 18
+    "decimals": 18
   }
-	
 }
