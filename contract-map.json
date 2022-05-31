@@ -3892,5 +3892,12 @@
     "erc20": true,
     "symbol": "RPL",
     "decimals": 18
+  },
+  "0xD3c625F54dec647DB8780dBBe0E880eF21BA4329": {
+    "name": "HollaEx Token",
+    "logo": "xht.svg",
+    "erc20": true,
+    "symbol": "XHT",
+    "decimals": 18
   }
 }
