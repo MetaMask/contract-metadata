@@ -14,6 +14,20 @@
     "decimals": 0,
     "logo": "nouns.svg"
   },
+  "0x85FA00f55492B0437b3925381fAaf0E024747627": {
+    "name": "Wrapped Candle",
+    "erc20": true,
+    "symbol": "WCNDL",
+    "decimals": 18,
+    "logo": "candle.png"
+  },
+  "0x3D97EdB1c1D87C0cBf098a0D2230d7380d4b1432": {
+    "name": "Candle",
+    "erc20": true,
+    "symbol": "CNDL",
+    "decimals": 18,
+    "logo": "candle.png"
+  },
   "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D": {
     "name": "BoredApeYachtClub",
     "erc20": false,
