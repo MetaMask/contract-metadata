@@ -26,14 +26,14 @@
     "erc20": true,
     "symbol": "WCNDL",
     "decimals": 18,
-    "logo": "candle.png"
+    "logo": "candle.svg"
   },
   "0x3D97EdB1c1D87C0cBf098a0D2230d7380d4b1432": {
     "name": "Candle",
     "erc20": true,
     "symbol": "CNDL",
     "decimals": 18,
-    "logo": "candle.png"
+    "logo": "candle.svg"
   },
   "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D": {
     "name": "BoredApeYachtClub",
