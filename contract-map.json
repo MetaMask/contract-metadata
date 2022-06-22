@@ -3899,5 +3899,19 @@
     "erc20": true,
     "symbol": "RPL",
     "decimals": 18
+  },
+  "0x01e0E2e61f554eCAaeC0cC933E739Ad90f24a86d": {
+    "name": "GTON",
+    "logo": "gton.svg",
+    "erc20": true,
+    "symbol": "GTON",
+    "decimals": 18
+  },
+  "0xeFF66B4A84C8a6b69b99EB1C5e39aF8fc35d13db": {
+    "name": "sGTON",
+    "logo": "sgton.svg",
+    "erc20": true,
+    "symbol": "sGTON",
+    "decimals": 18
   }
 }
