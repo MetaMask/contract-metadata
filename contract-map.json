@@ -1,4 +1,11 @@
 {
+  "0xB4272071eCAdd69d933AdcD19cA99fe80664fc08": {
+    "name": "CryptoFranc",
+    "logo": "XCHF.svg",
+    "erc20": true,
+    "symbol": "XCHF",
+    "decimals": 18
+  },
   "0x5aFE3855358E112B5647B952709E6165e1c1eEEe": {
     "name": "Safe Token",
     "logo": "safe-white-token.svg",
