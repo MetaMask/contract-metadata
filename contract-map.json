@@ -13,6 +13,13 @@
     "symbol": "SAFE",
     "decimals": 18
   },
+  "0x85FA00f55492B0437b3925381fAaf0E024747627": {
+    "name": "Wrapped Candle",
+    "erc20": true,
+    "symbol": "WCNDL",
+    "decimals": 18,
+    "logo": "candle.svg"
+  },
   "0x9C8fF314C9Bc7F6e59A9d9225Fb22946427eDC03": {
     "name": "Nouns",
     "erc20": false,
