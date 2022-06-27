@@ -1,4 +1,25 @@
 {
+  "0x2Ec3275f7aCe4044e499823F511cd58250be8E3d": {
+    "name": "Privilege",
+    "logo": "prvg.svg",
+    "erc20": true,
+    "symbol": "PRVG",
+    "decimals": 8
+  },
+  "0x65BB569FAaDD324a00883FdE4c46346cc96D5c0A": {
+    "name": "Provide",
+    "logo": "prvd.svg",
+    "erc20": true,
+    "symbol": "PRVD",
+    "decimals": 8
+  },
+  "0xB4272071eCAdd69d933AdcD19cA99fe80664fc08": {
+    "name": "CryptoFranc",
+    "logo": "XCHF.svg",
+    "erc20": true,
+    "symbol": "XCHF",
+    "decimals": 18
+  },
   "0x5aFE3855358E112B5647B952709E6165e1c1eEEe": {
     "name": "Safe Token",
     "logo": "safe-white-token.svg",
@@ -3898,6 +3919,20 @@
     "logo": "rpl.svg",
     "erc20": true,
     "symbol": "RPL",
+    "decimals": 18
+  },
+  "0x01e0E2e61f554eCAaeC0cC933E739Ad90f24a86d": {
+    "name": "GTON",
+    "logo": "gton.svg",
+    "erc20": true,
+    "symbol": "GTON",
+    "decimals": 18
+  },
+  "0xeFF66B4A84C8a6b69b99EB1C5e39aF8fc35d13db": {
+    "name": "sGTON",
+    "logo": "sgton.svg",
+    "erc20": true,
+    "symbol": "sGTON",
     "decimals": 18
   }
 }
