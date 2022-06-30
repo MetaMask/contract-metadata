@@ -1,4 +1,12 @@
 {
+ "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2": {
+    "name": "SushiSwap",
+    "logo": "sushi.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "SUSHI",
+    "decimals": 18
+  },
   "0x2Ec3275f7aCe4044e499823F511cd58250be8E3d": {
     "name": "Privilege",
     "logo": "prvg.svg",
