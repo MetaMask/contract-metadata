@@ -2831,7 +2831,7 @@
     "symbol": "OGV",
     "decimals": 18
   },
-  "0xFdb16A6900Ce90Cb27Afec95dc274D27E0d61b87": {
+  "0x0C4576Ca1c365868E162554AF8e385dc3e7C66D9": {
     "name": "Vote Escrowed Origin Dollar Governance",
     "logo": "veogv.svg",
     "erc20": true,
