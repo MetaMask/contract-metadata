@@ -2838,13 +2838,6 @@
     "symbol": "veOGV",
     "decimals": 18
   },
-  "0xD2af830E8CBdFed6CC11Bab697bB25496ed6FA62": {
-    "name": "Wrapped OUSD",
-    "logo": "wousd.svg",
-    "erc20": true,
-    "symbol": "WOUSD",
-    "decimals": 18
-  },
   "0x8f8221aFbB33998d8584A2B05749bA73c37a938a": {
     "name": "Request",
     "logo": "request.svg",
