@@ -3908,6 +3908,13 @@
     "symbol": "MFG",
     "decimals": 18
   },
+  "0x746053C640481c27ffe70682e5d5b6B807E97004": {
+    "name": "Mammoth Token",
+    "logo": "mmt.svg",
+    "erc20": true,
+    "symbol": "MMT",
+    "decimals": 18
+  },
   "0xae78736Cd615f374D3085123A210448E74Fc6393": {
     "name": "Rocket Pool ETH",
     "logo": "rETH.svg",
