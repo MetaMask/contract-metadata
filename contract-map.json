@@ -206,6 +206,14 @@
     "symbol": "XOR",
     "decimals": 18
   },
+  "0x909E34d3f6124C324ac83DccA84b74398a6fa173": {
+    "name": "$ZKP Token",
+    "logo": "ZKP.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "$ZKP",
+    "decimals": 18
+  },
   "0xe88f8313e61A97cEc1871EE37fBbe2a8bf3ed1E4": {
     "name": "SORA Validator",
     "logo": "sora-val.svg",
