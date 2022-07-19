@@ -2861,6 +2861,20 @@
     "symbol": "OUSD",
     "decimals": 18
   },
+  "0x9c354503C38481a7A7a51629142963F98eCC12D0": {
+    "name": "Origin Dollar Governance",
+    "logo": "ogv.svg",
+    "erc20": true,
+    "symbol": "OGV",
+    "decimals": 18
+  },
+  "0x0C4576Ca1c365868E162554AF8e385dc3e7C66D9": {
+    "name": "Vote Escrowed Origin Dollar Governance",
+    "logo": "veogv.svg",
+    "erc20": true,
+    "symbol": "veOGV",
+    "decimals": 18
+  },
   "0x8f8221aFbB33998d8584A2B05749bA73c37a938a": {
     "name": "Request",
     "logo": "request.svg",
