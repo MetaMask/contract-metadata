@@ -3971,5 +3971,26 @@
     "erc20": true,
     "symbol": "XCAD",
     "decimals": 18
+  },
+  "0x431e0cD023a32532BF3969CddFc002c00E98429d": {
+    "name": "XCAD Token",
+    "logo": "xcad.svg",
+    "erc20": true,
+    "symbol": "XCAD",
+    "decimals": 18
+  },
+  "0xA55870278d6389ec5B524553D03C04F5677c061E": {
+    "name": "XCAD Token",
+    "logo": "xcad.svg",
+    "erc20": true,
+    "symbol": "XCAD",
+    "decimals": 18
+  },
+  "0x66673f0a3b5d99524bA76A558B93A9ca1386f4Cd": {
+    "name": "XCAD Token",
+    "logo": "xcad.svg",
+    "erc20": true,
+    "symbol": "XCAD",
+    "decimals": 18
   }
 }
