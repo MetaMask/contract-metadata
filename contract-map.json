@@ -3944,6 +3944,13 @@
     "symbol": "RPL",
     "decimals": 18
   },
+  "0x9d38F670D15C14716BE1F109a4F453E966A2B6D4": {
+    "name": "Quid Ika",
+    "logo": "QuidIka.svg",
+    "erc20": true,
+    "symbol": "QUID",
+    "decimals": 18
+  },
   "0xD3c625F54dec647DB8780dBBe0E880eF21BA4329": {
     "name": "HollaEx Token",
     "logo": "xht.svg",
