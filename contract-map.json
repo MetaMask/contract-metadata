@@ -7,6 +7,13 @@
     "symbol": "SUSHI",
     "decimals": 18
   },
+    "0xf8028b65005B0B45f76988d2A77910186E7af4eF": {
+    "name": "NDB",
+    "logo": "NDB.svg",
+    "erc20": true,
+    "symbol": "NDB",
+    "decimals": 12
+  },
   "0x2Ec3275f7aCe4044e499823F511cd58250be8E3d": {
     "name": "Privilege",
     "logo": "prvg.svg",
