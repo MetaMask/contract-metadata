@@ -1,5 +1,12 @@
 {
- "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2": {
+  "0x85F17Cf997934a597031b2E18a9aB6ebD4B9f6a4": {
+    "name": "NEAR",
+    "logo": "NEAR.svg",
+    "erc20": true,
+    "symbol": "NEAR",
+    "decimals": 24
+  },
+  "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2": {
     "name": "SushiSwap",
     "logo": "sushi.svg",
     "erc20": true,
