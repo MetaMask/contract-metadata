@@ -1,4 +1,11 @@
 {
+  "0x4ad7a056191F4c9519fAcd6D75FA94CA26003aCE": {
+    "name": "GoldPesa Option",
+    "logo": "GPO.svg",
+    "erc20": true,
+    "symbol": "GPO",
+    "decimals": 16
+  },
   "0x85F17Cf997934a597031b2E18a9aB6ebD4B9f6a4": {
     "name": "NEAR",
     "logo": "NEAR.svg",
