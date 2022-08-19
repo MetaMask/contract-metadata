@@ -5,8 +5,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
-
-## [1.36.2]
 ### Changed
 - **BREAKING:** Removed support for Node v12 in favor of v14 ([#137](https://github.com/MetaMask/eth-json-rpc-middleware/pull/137))
 
@@ -25,6 +23,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Adding top nfts contracts on opensea by floor price ([#1052](https://github.com/MetaMask/contract-metadata/pull/1052))
 - New release ([#1045](https://github.com/MetaMask/contract-metadata/pull/1045))
 
-[Unreleased]: https://github.com/MetaMask/contract-metadata/compare/v1.36.1...HEAD
-[1.36.1]: https://github.com/MetaMask/contract-metadata/releases/tag/v1.36.0...v1.36.1
+[Unreleased]: https://github.com/MetaMask/contract-metadata/compare/v1.36.0...HEAD
 [1.36.0]: https://github.com/MetaMask/contract-metadata/releases/tag/v1.36.0
