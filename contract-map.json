@@ -317,35 +317,35 @@
     "name": "Hoge Finance",
     "logo": "HogeLogo.svg",
     "erc20": true,
-    "symbol": "HOGE",
+    "symbol": "HOGE(FTM)",
     "decimals": 9
   },
   "0x9873795F5DAb11e1c0342C4a58904c59827ede0c": {
     "name": "Hoge Finance",
     "logo": "HogeLogo.svg",
     "erc20": true,
-    "symbol": "HOGE",
+    "symbol": "HOGE(OKC)",
     "decimals": 9
   },
   "0x58c1BBb508e96CfEC1787Acf6Afe1C7008A5B064": {
     "name": "Hoge Finance",
     "logo": "HogeLogo.svg",
     "erc20": true,
-    "symbol": "HOGE",
+    "symbol": "HOGE(POLYGON)",
     "decimals": 9
   },
   "0xa4FFfc757e8c4F24E7b209C033c123D20983Ad40": {
     "name": "Hoge Finance",
     "logo": "HogeLogo.svg",
     "erc20": true,
-    "symbol": "HOGE",
+    "symbol": "HOGE(BSC)",
     "decimals": 9
   },
   "0xDfF7fcF6a86F7Dc86E7facECA502851f82a349A6": {
     "name": "Hoge Finance",
     "logo": "HogeLogo.svg",
     "erc20": true,
-    "symbol": "HOGE",
+    "symbol": "HOGE(XDAI)",
     "decimals": 9
   },
   "0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b": {
