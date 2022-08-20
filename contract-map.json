@@ -331,7 +331,7 @@
     "name": "Hoge Finance",
     "logo": "HogeLogo.svg",
     "erc20": true,
-    "symbol": "HOGE(POLYGON)",
+    "symbol": "HOGE(MATIC)",
     "decimals": 9
   },
   "0xa4FFfc757e8c4F24E7b209C033c123D20983Ad40": {
