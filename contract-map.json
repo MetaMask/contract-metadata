@@ -21,6 +21,14 @@
     "symbol": "SUSHI",
     "decimals": 18
   },
+  "0x881Ba05de1E78f549cC63a8f6Cabb1d4AD32250D": {
+    "name": "00",
+    "logo": "00.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "00",
+    "decimals": 18
+  },
   "0x2Ec3275f7aCe4044e499823F511cd58250be8E3d": {
     "name": "Privilege",
     "logo": "prvg.svg",
