@@ -3993,5 +3993,12 @@
     "erc20": true,
     "symbol": "sGTON",
     "decimals": 18
+  },
+  "0x7659CE147D0e714454073a5dd7003544234b6Aa0": {
+    "name": "XCAD Token",
+    "logo": "xcad.svg",
+    "erc20": true,
+    "symbol": "XCAD",
+    "decimals": 18
   }
 }
