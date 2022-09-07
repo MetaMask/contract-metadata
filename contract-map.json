@@ -1,4 +1,11 @@
 {
+  "0x6a731582f6189477c379A8da7d26Dcec3F0a0919": {
+    "name": "King of Legends",
+    "logo": "KOL.svg",
+    "erc20": true,
+    "symbol": "KOL",
+    "decimals": 18
+  },
   "0x4ad7a056191F4c9519fAcd6D75FA94CA26003aCE": {
     "name": "GoldPesa Option",
     "logo": "GPO.svg",
