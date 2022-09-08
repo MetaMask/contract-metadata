@@ -4000,5 +4000,12 @@
     "erc20": true,
     "symbol": "XCAD",
     "decimals": 18
-  }
+  },
+  "0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0": {
+    "name": "Tellor Tributes",
+    "logo": "TRB.svg",
+    "erc20": true,
+    "symbol": "TRB",
+    "decimals": 18
+  },
 }
