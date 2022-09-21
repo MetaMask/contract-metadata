@@ -6,6 +6,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.0.0]
+
 ## [1.37.0]
 ### Uncategorized
 - Add Safe Token Logo  ([#1089](https://github.com/MetaMask/contract-metadata/pull/1089))
@@ -40,6 +42,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Adding top nfts contracts on opensea by floor price ([#1052](https://github.com/MetaMask/contract-metadata/pull/1052))
 - New release ([#1045](https://github.com/MetaMask/contract-metadata/pull/1045))
 
-[Unreleased]: https://github.com/MetaMask/contract-metadata/compare/v1.37.0...HEAD
+[Unreleased]: https://github.com/MetaMask/contract-metadata/compare/v2.0.0...HEAD
+[2.0.0]: https://github.com/MetaMask/contract-metadata/compare/v1.37.0...v2.0.0
 [1.37.0]: https://github.com/MetaMask/contract-metadata/compare/v1.36.0...v1.37.0
 [1.36.0]: https://github.com/MetaMask/contract-metadata/releases/tag/v1.36.0
