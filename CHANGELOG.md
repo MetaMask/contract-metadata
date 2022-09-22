@@ -20,8 +20,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Updated FKX logo & details ([#1088](https://github.com/MetaMask/contract-metadata/pull/1088))
 - Updating the 00.svg icon ([#1080](https://github.com/MetaMask/contract-metadata/pull/1080))
 - Update `is-release` filter ([#1075](https://github.com/MetaMask/contract-metadata/pull/1075))
-
-### Changed
 - **BREAKING:** Removed support for Node v12 in favor of v14 ([#137](https://github.com/MetaMask/eth-json-rpc-middleware/pull/137))
 
 ## [1.36.0]
