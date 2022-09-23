@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ## [2.0.0]
-### Additions
+### Added
 - Add Safe Token Logo  ([#1089](https://github.com/MetaMask/contract-metadata/pull/1089))
 - Add TRB token ([#1087](https://github.com/MetaMask/contract-metadata/pull/1087))
 - Add XCAD Network Token (XCAD) logo  ([#1070](https://github.com/MetaMask/contract-metadata/pull/1070))
@@ -16,7 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add NEAR Erc20 token. ([#859](https://github.com/MetaMask/contract-metadata/pull/859))
 - Add Quid Ika Token ([#1043](https://github.com/MetaMask/contract-metadata/pull/1043))
 
-### Changes
+### Changed
 - Updated FKX logo & details ([#1088](https://github.com/MetaMask/contract-metadata/pull/1088))
 - Updating the 00.svg icon ([#1080](https://github.com/MetaMask/contract-metadata/pull/1080))
 - Update `is-release` filter ([#1075](https://github.com/MetaMask/contract-metadata/pull/1075))
@@ -38,6 +38,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - New release ([#1045](https://github.com/MetaMask/contract-metadata/pull/1045))
 
 [Unreleased]: https://github.com/MetaMask/contract-metadata/compare/v2.0.0...HEAD
-[2.0.0]: https://github.com/MetaMask/contract-metadata/compare/v1.37.0...v2.0.0
-[1.37.0]: https://github.com/MetaMask/contract-metadata/compare/v1.36.0...v1.37.0
+[2.0.0]: https://github.com/MetaMask/contract-metadata/compare/v1.36.0...v2.0.0
 [1.36.0]: https://github.com/MetaMask/contract-metadata/releases/tag/v1.36.0
