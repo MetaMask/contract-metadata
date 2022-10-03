@@ -4007,5 +4007,14 @@
     "erc20": true,
     "symbol": "TRB",
     "decimals": 18
+  },
+  "0x8d96b4ab6c741a4c8679ae323a100d74f085ba8f": {
+    "name": "Bazaars",
+    "logo": "BZR.svg",
+    "erc20": true,
+    "symbol": "BZR",
+    "decimals": 18  
+    
+    
   }
 }
