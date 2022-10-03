@@ -38,11 +38,11 @@
     "decimals": 18
   },
   "0x86f2A193b116d1f9C53Ed26d97F77cDC8BcF4c2b": {
-    "name": "ETHAGA",
-    "logo": "ETHAGA.svg",
+    "name": "EHTAGA",
+    "logo": "EHTAGA.svg",
     "erc20": true,
     "erc721": false,
-    "symbol": "ETHAGA",
+    "symbol": "EHTAGA",
     "decimals": 18
   },
   "0x54b79A15b2e2c55c736A66bb0A978fb840407aC8": {
