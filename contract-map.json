@@ -52,7 +52,7 @@
   },
   "0x5aFE3855358E112B5647B952709E6165e1c1eEEe": {
     "name": "Safe Token",
-    "logo": "safe-white-token.svg",
+    "logo": "safe-green-token.svg",
     "erc20": true,
     "symbol": "SAFE",
     "decimals": 18
@@ -2095,7 +2095,7 @@
     "decimals": 18
   },
   "0x16484d73Ac08d2355F466d448D2b79D2039F6EBB": {
-    "name": "KnoxsterCoin",
+    "name": "FortKnoxster",
     "logo": "FortKnoxster.svg",
     "erc20": true,
     "symbol": "FKX",
@@ -3992,6 +3992,20 @@
     "logo": "sgton.svg",
     "erc20": true,
     "symbol": "sGTON",
+    "decimals": 18
+  },
+  "0x7659CE147D0e714454073a5dd7003544234b6Aa0": {
+    "name": "XCAD Token",
+    "logo": "xcad.svg",
+    "erc20": true,
+    "symbol": "XCAD",
+    "decimals": 18
+  },
+  "0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0": {
+    "name": "Tellor Tributes",
+    "logo": "TRB.svg",
+    "erc20": true,
+    "symbol": "TRB",
     "decimals": 18
   }
 }
