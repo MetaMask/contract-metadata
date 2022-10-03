@@ -29,6 +29,94 @@
     "symbol": "00",
     "decimals": 18
   },
+  "0xC211477cb4098aC22a98432781f5f26a1E07a4d4": {
+    "name": "CULTURED",
+    "logo": "CULTURED.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "CULTURED",
+    "decimals": 18
+  },
+  "0x86f2A193b116d1f9C53Ed26d97F77cDC8BcF4c2b": {
+    "name": "ETHAGA",
+    "logo": "ETHAGA.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "ETHAGA",
+    "decimals": 18
+  },
+  "0x54b79A15b2e2c55c736A66bb0A978fb840407aC8": {
+    "name": "FEVER",
+    "logo": "FEVER.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "FEVER",
+    "decimals": 18
+  },
+  "0x677c9fE4396D3D13A0F9013a8118eAE386C843A5": {
+    "name": "IAM",
+    "logo": "IAM.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "IAM",
+    "decimals": 18
+  },
+  "0xf63c65E855020E4B74f0Ad842D9537dA0E6162eC": {
+    "name": "ISH",
+    "logo": "ISH.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "ISH",
+    "decimals": 18
+  },
+  "0xc105fA46510F32c0444CCdB4e51065da95caA1B4": {
+    "name": "LITA",
+    "logo": "LITA.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "LITA",
+    "decimals": 18
+  },
+  "0x5401F949cDfa3E5aF32538167c0314230769209C": {
+    "name": "MAHCOIN",
+    "logo": "MAHCOIN.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "MAHCOIN",
+    "decimals": 18
+  },
+  "0x711D2C47aFf84B96AD0F36983b1c41Be2C509e18": {
+    "name": "NIKITA",
+    "logo": "NIKITA.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "NIKITA",
+    "decimals": 18
+  },
+  "0x3C44aEc33993b6830e5C2a705ea879b9C9ba0f7c": {
+    "name": "NYELA",
+    "logo": "NYELA.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "NYELA",
+    "decimals": 18
+  },
+  "0xfa9096c99e687ea8E0064C23DAaCFE87cc99E4Ba": {
+    "name": "RON",
+    "logo": "RON.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "RON",
+    "decimals": 18
+  },
+  "0x287a7C95aD00bBDd48599Ad2919567fD09281f07": {
+    "name": "STEELO",
+    "logo": "STEELO.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "STEELO",
+    "decimals": 18
+  },
   "0x2Ec3275f7aCe4044e499823F511cd58250be8E3d": {
     "name": "Privilege",
     "logo": "prvg.svg",
