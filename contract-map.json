@@ -3959,6 +3959,13 @@
     "symbol": "rETH",
     "decimals": 18
   },
+  "0x0C10bF8FcB7Bf5412187A595ab97a3609160b5c6": {
+    "name": "Decentralized USD",
+    "logo": "USDD.svg",
+    "erc20": true,
+    "symbol": "USDD",
+    "decimals": 18
+  },
   "0xD33526068D116cE69F19A9ee46F0bd304F21A51f": {
     "name": "Rocket Pool",
     "logo": "rpl.svg",
