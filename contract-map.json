@@ -4047,6 +4047,13 @@
     "symbol": "rETH",
     "decimals": 18
   },
+  "0x0C10bF8FcB7Bf5412187A595ab97a3609160b5c6": {
+    "name": "Decentralized USD",
+    "logo": "USDD.svg",
+    "erc20": true,
+    "symbol": "USDD",
+    "decimals": 18
+  },
   "0xD33526068D116cE69F19A9ee46F0bd304F21A51f": {
     "name": "Rocket Pool",
     "logo": "rpl.svg",
@@ -4095,5 +4102,12 @@
     "erc20": true,
     "symbol": "TRB",
     "decimals": 18
+  },
+  "0x8d96B4ab6C741a4C8679AE323a100d74f085BA8F": {
+    "name": "Bazaars",
+    "logo": "BZR.svg",
+    "erc20": true,
+    "symbol": "BZR",
+    "decimals": 18 
   }
 }
