@@ -4015,6 +4015,13 @@
     "symbol": "TRB",
     "decimals": 18
   },
+  "0x8d96B4ab6C741a4C8679AE323a100d74f085BA8F": {
+    "name": "Bazaars",
+    "logo": "BZR.svg",
+    "erc20": true,
+    "symbol": "BZR",
+    "decimals": 18 
+  },
   "0x9ee91F9f426fA633d227f7a9b000E28b9dfd8599": {
     "name": "Liquid staked MATIC",
     "logo": "stMATIC.svg",
