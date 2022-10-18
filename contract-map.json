@@ -4021,5 +4021,12 @@
     "erc20": true,
     "symbol": "BZR",
     "decimals": 18 
+  },
+  "0x83451A4E3585FdA74FEb348Ad929f2C4cA189660": {
+    "name": "Hunter Token",
+    "logo": "hntr.svg",
+    "erc20": true,
+    "symbol": "HNTR",
+    "decimals": 18 
   }
 }
