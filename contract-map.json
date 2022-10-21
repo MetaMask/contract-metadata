@@ -1,4 +1,11 @@
 {
+  "0x34862060EFF6DA2AF04D382C209a433279377d16": {
+    "name": "SoulPower",
+    "logo": "SOUL.png",
+    "erc20": true,
+    "symbol": "SOUL",
+    "decimals": 18
+  },
   "0x4ad7a056191F4c9519fAcd6D75FA94CA26003aCE": {
     "name": "GoldPesa Option",
     "logo": "GPO.svg",
