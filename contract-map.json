@@ -4028,5 +4028,12 @@
     "erc20": true,
     "symbol": "stMATIC",
     "decimals": 18
+  },
+  "0x0d02755a5700414B26FF040e1dE35D337DF56218": {
+    "name": "Bend Token",
+    "logo": "BendDAO.svg",
+    "erc20": true,
+    "symbol": "BEND",
+    "decimals": 18
   }
 }
