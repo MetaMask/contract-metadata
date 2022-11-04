@@ -3295,6 +3295,13 @@
     "symbol": "EL",
     "decimals": 18
   },
+  "0x4dA34f8264CB33A5c9F17081B9EF5Ff6091116f4": {
+    "name": "Elyfi",
+    "logo": "elyfi.svg",
+    "erc20": true,
+    "symbol": "ELFI",
+    "decimals": 18
+  },
   "0xc12d099be31567add4e4e4d0D45691C3F58f5663": {
     "name": "Auctus",
     "logo": "auc.svg",
