@@ -352,6 +352,13 @@
     "symbol": "KEK",
     "decimals": 18
   },
+  "0xEd3D4e446A96dC3b181B64B75c3c70dA41dC3CBe": {
+    "name": "Vodra",
+    "logo": "Vodra.svg",
+    "erc20": true,
+    "symbol": "VDR",
+    "decimals": 18
+  },
   "0xb753428af26E81097e7fD17f40c88aaA3E04902c": {
     "name": "Spice",
     "logo": "sfi.svg",
