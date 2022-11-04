@@ -4108,7 +4108,7 @@
     "logo": "BZR.svg",
     "erc20": true,
     "symbol": "BZR",
-    "decimals": 18 
+    "decimals": 18
   },
   "0x9ee91F9f426fA633d227f7a9b000E28b9dfd8599": {
     "name": "Liquid staked MATIC",
@@ -4122,6 +4122,14 @@
     "logo": "BendDAO.svg",
     "erc20": true,
     "symbol": "BEND",
+    "decimals": 18
+  },
+  "0x1A4b46696b2bB4794Eb3D4c26f1c55F9170fa4C5": {
+    "name": "BitDAO",
+    "logo": "BitDAO.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "BIT",
     "decimals": 18
   }
 }
