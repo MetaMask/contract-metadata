@@ -4146,4 +4146,13 @@
     "symbol": "BIT",
     "decimals": 18
   }
+},
+  "0x02a655942Dbb886c77bb22B270060c561300B0E2": {
+    "name": "KodexPay",
+    "logo": "KodexPay.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "KXP",
+    "decimals": 18
+  }
 }
