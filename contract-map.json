@@ -4145,5 +4145,13 @@
     "erc721": false,
     "symbol": "BIT",
     "decimals": 18
+  },
+  "0x0000000000000000000000000000000000000103": {
+    "name": "Palette Token",
+    "logo": "plt.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "PLT",
+    "decimals": 18
   }
 }
