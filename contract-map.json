@@ -1,4 +1,12 @@
 {
+  "0x4FC15c91a9c4A9efB404174464687E8e128730C2": {
+    "name": "STAT",
+    "logo": "STAT.png",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "STAT",
+    "decimals": 18
+  },
   "0x4ad7a056191F4c9519fAcd6D75FA94CA26003aCE": {
     "name": "GoldPesa Option",
     "logo": "GPO.svg",
