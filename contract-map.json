@@ -4153,5 +4153,21 @@
     "erc721": false,
     "symbol": "PLT",
     "decimals": 18
+  },
+  "0xb8919522331C59f5C16bDfAA6A121a6E03A91F62": {
+    "name": "Home",
+    "logo": "home.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "HOME",
+    "decimals": 6
+  },
+  "0xa54d2EBfD977ad836203c85F18db2F0a0cF88854": {
+    "name": "Bacon",
+    "logo": "bacon.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "BACON",
+    "decimals": 18
   }
 }
