@@ -1,7 +1,7 @@
 {
   "0x4FC15c91a9c4A9efB404174464687E8e128730C2": {
     "name": "STAT",
-    "logo": "STAT.png",
+    "logo": "STAT.svg",
     "erc20": true,
     "erc721": false,
     "symbol": "STAT",
