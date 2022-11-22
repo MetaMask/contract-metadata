@@ -6,6 +6,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.1.0]
+### Uncategorized
+- Add TrueGBP, TrueAUD, TrueCAD and TrueHKD ([#1116](https://github.com/MetaMask/contract-metadata/pull/1116))
+- Add STAT ([#1114](https://github.com/MetaMask/contract-metadata/pull/1114))
+- Add Realio Network RIO token ([#624](https://github.com/MetaMask/contract-metadata/pull/624))
+- Add HOME and BACON ([#1115](https://github.com/MetaMask/contract-metadata/pull/1115))
+- Add Elyfi ([#952](https://github.com/MetaMask/contract-metadata/pull/952))
+- Add Vodra ERC-20 Token ([#960](https://github.com/MetaMask/contract-metadata/pull/960))
+- New BitDAO logo ([#1110](https://github.com/MetaMask/contract-metadata/pull/1110))
+- Adding several Creator Tokens from the P00LS ecosystem ([#1095](https://github.com/MetaMask/contract-metadata/pull/1095))
+- add Bend Token to metamask ([#1108](https://github.com/MetaMask/contract-metadata/pull/1108))
+- Add stMATIC ([#1105](https://github.com/MetaMask/contract-metadata/pull/1105))
+- Adding BZR token info and logo to Metamask ([#1102](https://github.com/MetaMask/contract-metadata/pull/1102))
+- add usdd logo to metamask ([#1051](https://github.com/MetaMask/contract-metadata/pull/1051))
+
 ## [2.0.0]
 ### Added
 - Add Safe Token Logo  ([#1089](https://github.com/MetaMask/contract-metadata/pull/1089))
@@ -37,6 +52,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Adding top nfts contracts on opensea by floor price ([#1052](https://github.com/MetaMask/contract-metadata/pull/1052))
 - New release ([#1045](https://github.com/MetaMask/contract-metadata/pull/1045))
 
-[Unreleased]: https://github.com/MetaMask/contract-metadata/compare/v2.0.0...HEAD
+[Unreleased]: https://github.com/MetaMask/contract-metadata/compare/v2.1.0...HEAD
+[2.1.0]: https://github.com/MetaMask/contract-metadata/compare/v2.0.0...v2.1.0
 [2.0.0]: https://github.com/MetaMask/contract-metadata/compare/v1.36.0...v2.0.0
 [1.36.0]: https://github.com/MetaMask/contract-metadata/releases/tag/v1.36.0
