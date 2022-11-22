@@ -2796,6 +2796,34 @@
     "symbol": "TUSD",
     "decimals": 18
   },
+  "0x00000000441378008EA67F4284A57932B1c000a5": {
+    "name": "TrueGBP",
+    "logo": "TGBP.svg",
+    "erc20": true,
+    "symbol": "TGBP",
+    "decimals": 18
+  },
+  "0x00006100F7090010005F1bd7aE6122c3C2CF0090": {
+    "name": "TrueAUD",
+    "logo": "TAUD.svg",
+    "erc20": true,
+    "symbol": "TAUD",
+    "decimals": 18
+  },
+  "0x00000100F2A2bd000715001920eB70D229700085": {
+    "name": "TrueCAD",
+    "logo": "TCAD.svg",
+    "erc20": true,
+    "symbol": "TCAD",
+    "decimals": 18
+  },
+  "0x0000852600CEB001E08e00bC008be620d60031F2": {
+    "name": "TrueHKD",
+    "logo": "THKD.svg",
+    "erc20": true,
+    "symbol": "THKD",
+    "decimals": 18
+  },
   "0x4Fabb145d64652a948d72533023f6E7A623C7C53": {
     "name": "Binance USD",
     "logo": "busd.svg",
