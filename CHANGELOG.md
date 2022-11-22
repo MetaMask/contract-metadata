@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ## [2.1.0]
-### Uncategorized
+### Added
 - Add TrueGBP, TrueAUD, TrueCAD and TrueHKD ([#1116](https://github.com/MetaMask/contract-metadata/pull/1116))
 - Add STAT ([#1114](https://github.com/MetaMask/contract-metadata/pull/1114))
 - Add Realio Network RIO token ([#624](https://github.com/MetaMask/contract-metadata/pull/624))
@@ -15,10 +15,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add Elyfi ([#952](https://github.com/MetaMask/contract-metadata/pull/952))
 - Add Vodra ERC-20 Token ([#960](https://github.com/MetaMask/contract-metadata/pull/960))
 - New BitDAO logo ([#1110](https://github.com/MetaMask/contract-metadata/pull/1110))
-- Adding several Creator Tokens from the P00LS ecosystem ([#1095](https://github.com/MetaMask/contract-metadata/pull/1095))
+- Add several Creator Tokens from the P00LS ecosystem ([#1095](https://github.com/MetaMask/contract-metadata/pull/1095))
 - add Bend Token to metamask ([#1108](https://github.com/MetaMask/contract-metadata/pull/1108))
 - Add stMATIC ([#1105](https://github.com/MetaMask/contract-metadata/pull/1105))
-- Adding BZR token info and logo to Metamask ([#1102](https://github.com/MetaMask/contract-metadata/pull/1102))
+- Add BZR token info and logo to Metamask ([#1102](https://github.com/MetaMask/contract-metadata/pull/1102))
 - add usdd logo to metamask ([#1051](https://github.com/MetaMask/contract-metadata/pull/1051))
 
 ## [2.0.0]
