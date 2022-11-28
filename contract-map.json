@@ -1,4 +1,12 @@
 {
+  "0x562Df594BFD9C8DDC894571bBB211DaC7888eaF6": {
+    "name": "Cracker",
+    "logo": "crk.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "CRK",
+    "decimals": 18
+  },
   "0x4FC15c91a9c4A9efB404174464687E8e128730C2": {
     "name": "STAT",
     "logo": "STAT.svg",
