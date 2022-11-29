@@ -1708,7 +1708,7 @@
   },
   "0x27054b13b1B798B345b591a4d22e6562d47eA75a": {
     "name": "AirSwap Token",
-    "logo": "AST.png",
+    "logo": "AirSwapLogo.png",
     "erc20": true,
     "symbol": "AST",
     "decimals": 4
