@@ -3129,7 +3129,7 @@
     "decimals": 18
   },
   "0xa62cc35625B0C8dc1fAEA39d33625Bb4C15bD71C": {
-    "name": "StormX Token",
+    "name": "StormX",
     "logo": "stormx.svg",
     "erc20": true,
     "symbol": "STMX",
