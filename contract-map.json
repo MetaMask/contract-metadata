@@ -3128,8 +3128,8 @@
     "symbol": "ROOK",
     "decimals": 18
   },
-  "0xbE9375C6a420D2eEB258962efB95551A5b722803": {
-    "name": "StormX Token",
+  "0xa62cc35625B0C8dc1fAEA39d33625Bb4C15bD71C": {
+    "name": "StormX",
     "logo": "stormx.svg",
     "erc20": true,
     "symbol": "STMX",
