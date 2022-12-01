@@ -11,7 +11,8 @@
     "node": ">=14.0.0"
   },
   "scripts": {
-    "test": "node test"
+    "test": "node test",
+    "generate": "node ./scripts/generate-assets.js"
   },
   "repository": {
     "type": "git",
