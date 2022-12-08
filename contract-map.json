@@ -1699,13 +1699,6 @@
     "symbol": "ONE",
     "decimals": 18
   },
-  "0xDDD460bBD9F79847ea08681563e8A9696867210C": {
-    "name": "Spendcoin",
-    "logo": "spnd.png",
-    "erc20": true,
-    "symbol": "SPND",
-    "decimals": 18
-  },
   "0x27054b13b1B798B345b591a4d22e6562d47eA75a": {
     "name": "AirSwap Token",
     "logo": "AirSwapLogo.svg",
@@ -1748,13 +1741,6 @@
     "symbol": "XNK",
     "decimals": 18
   },
-  "0x4CEdA7906a5Ed2179785Cd3A40A69ee8bc99C466": {
-    "name": "Aion Network",
-    "logo": "Aion.png",
-    "erc20": true,
-    "symbol": "AION",
-    "decimals": 8
-  },
   "0xa95592DCFfA3C080B4B40E459c5f5692F67DB7F8": {
     "name": "ELY Token",
     "logo": "ely.png",
@@ -1775,20 +1761,6 @@
     "erc20": true,
     "symbol": "BOX",
     "decimals": 18
-  },
-  "0x82BD526bDB718C6d4DD2291Ed013A5186cAE2DCa": {
-    "name": "dutyof.care Token",
-    "logo": "dutyof.care-square.png",
-    "erc20": true,
-    "symbol": "VDOC",
-    "decimals": 18
-  },
-  "0x168296bb09e24A88805CB9c33356536B980D3fC5": {
-    "name": "Rhoc",
-    "logo": "rchain.png",
-    "erc20": true,
-    "symbol": "RHOC",
-    "decimals": 8
   },
   "0x543Ff227F64Aa17eA132Bf9886cAb5DB55DCAddf": {
     "name": "DAOstack",
@@ -1816,13 +1788,6 @@
     "logo": "qsp.svg",
     "erc20": true,
     "symbol": "QSP",
-    "decimals": 18
-  },
-  "0x4162178B78D6985480A308B2190EE5517460406D": {
-    "name": "Colu Local Network",
-    "logo": "cln.png",
-    "erc20": true,
-    "symbol": "CLN",
     "decimals": 18
   },
   "0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC": {
@@ -1886,13 +1851,6 @@
     "logo": "zrx.svg",
     "erc20": true,
     "symbol": "ZRX",
-    "decimals": 18
-  },
-  "0xB563300A3BAc79FC09B93b6F84CE0d4465A2AC27": {
-    "name": "RedCab",
-    "logo": "redcab.png",
-    "erc20": true,
-    "symbol": "REDC",
     "decimals": 18
   },
   "0x957c30aB0426e0C93CD8241E2c60392d08c6aC8e": {
@@ -2015,13 +1973,6 @@
     "symbol": "HUB",
     "decimals": 18
   },
-  "0xeAb43193CF0623073Ca89DB9B712796356FA7414": {
-    "name": "GOLDX",
-    "logo": "goldx.png",
-    "erc20": true,
-    "symbol": "GOLDX",
-    "decimals": 18
-  },
   "0x8727c112C712c4a03371AC87a74dD6aB104Af768": {
     "name": "Jetcoin Institute Token",
     "logo": "JETCOIN28.png",
@@ -2127,13 +2078,6 @@
     "symbol": "TIME",
     "decimals": 8
   },
-  "0xE7775A6e9Bcf904eb39DA2b68c5efb4F9360e08C": {
-    "name": "Token-as-a-Service",
-    "logo": "taas-ico.png",
-    "erc20": true,
-    "symbol": "TAAS",
-    "decimals": 6
-  },
   "0xaAAf91D9b90dF800Df4F55c205fd6989c977E73a": {
     "name": "Monolith TKN",
     "logo": "tkn.svg",
@@ -2231,13 +2175,6 @@
     "erc20": true,
     "symbol": "ICN",
     "decimals": 18
-  },
-  "0xE0B7927c4aF23765Cb51314A0E0521A9645F0E2A": {
-    "name": "Digix",
-    "logo": "DGD.png",
-    "erc20": true,
-    "symbol": "DGD",
-    "decimals": 9
   },
   "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2": {
     "name": "Maker",
@@ -2470,10 +2407,6 @@
     "symbol": "BMX",
     "decimals": 18
   },
-  "0x2af47a65da8CD66729b4209C22017d6A5C2d2400": {
-    "name": "StandardBounties",
-    "logo": "StandardBounties.png"
-  },
   "0xF03f8D65BaFA598611C3495124093c56e8F638f0": {
     "name": "Viewly",
     "logo": "viewly.svg",
@@ -2647,13 +2580,6 @@
     "logo": "ven.svg",
     "erc20": true,
     "symbol": "VEN",
-    "decimals": 18
-  },
-  "0xb5A5F22694352C15B00323844aD545ABb2B11028": {
-    "name": "ICON",
-    "logo": "icon-icx-logo.png",
-    "erc20": true,
-    "symbol": "ICX",
     "decimals": 18
   },
   "0x91Af0fBB28ABA7E31403Cb457106Ce79397FD4E6": {
@@ -2909,7 +2835,7 @@
     "decimals": 18
   },
   "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b": {
-    "name": "Crypto.com Chain",
+    "name": "Cronos",
     "logo": "CRO.png",
     "erc20": true,
     "symbol": "CRO",
@@ -3070,13 +2996,6 @@
     "erc20": true,
     "symbol": "DNT",
     "decimals": 18
-  },
-  "0x0C6144c16af288948C8fdB37fD8fEc94bfF3d1d9": {
-    "name": "Neutral Dollar",
-    "logo": "neutraldollar.png",
-    "erc20": true,
-    "symbol": "NUSD",
-    "decimals": 6
   },
   "0xB26631c6dda06aD89B93C71400D25692de89c068": {
     "name": "Minds",
