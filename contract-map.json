@@ -4204,5 +4204,13 @@
     "erc721": false,
     "symbol": "BACON",
     "decimals": 18
+  },
+  "0x249cA82617eC3DfB2589c4c17ab7EC9765350a18": {
+    "name": "Verse",
+    "logo": "VERSE.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "VERSE",
+    "decimals": 18
   }
 }
