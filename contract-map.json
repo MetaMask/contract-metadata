@@ -4145,5 +4145,13 @@
     "erc721": false,
     "symbol": "VERSE",
     "decimals": 18
+  },
+    "0xfB5c6815cA3AC72Ce9F5006869AE67f18bF77006": {
+    "name": "PSTAKE",
+    "logo": "PSTAKE.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "PSTAKE",
+    "decimals": 18
   }
 }
