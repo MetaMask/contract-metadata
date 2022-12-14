@@ -3,7 +3,6 @@
 　"name": "PREMA",
 　"logo": "PREMA__token.svg",
 　"erc20": true,
-  "erc721": false,
 　"symbol": "PRMX",
 　"decimals": 18
   },
