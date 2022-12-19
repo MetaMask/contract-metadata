@@ -4145,5 +4145,12 @@
     "erc721": false,
     "symbol": "VERSE",
     "decimals": 18
+  },
+  "0x317eb4ad9cfaC6232f0046831322E895507bcBeb": {
+    "name": "Tidex Token",
+    "logo": "tidex.svg",
+    "erc20": true,
+    "symbol": "TDX",
+    "decimals": 18
   }
 }
