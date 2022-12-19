@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1020 1020">
+  <a xlink:href="21.0149019607843">
+    <circle id="fullLogo" cx="510" cy="510" r="360" style="fill: #adff00;"/>
+  </a>
+  <path id="fullLogo-2" data-name="fullLogo" d="M470,504.33v-6.61c9.8-8.79,15.98-21.53,15.98-35.73v-58c0-34.24-27.76-62-62-62h-129.98v336h152c35.35,0,64-28.65,64-64v-56c0-25.37-16.87-46.77-40-53.66Zm-128-114.33h72c13.25,0,24,10.75,24,24v48c0,13.25-10.75,24-24,24h-72v-96Zm120,216c0,13.25-10.75,24-24,24h-96v-96h96c13.25,0,24,10.75,24,24v48Zm120-264h-48v48h48v-48Zm144,96v48h-48v144h48v48h-96v-192h-48v192h-48v-240h96v-96h48v96h48Z" style="fill-rule: evenodd;"/>
+</svg>
