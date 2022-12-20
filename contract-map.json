@@ -2129,7 +2129,7 @@
   },
   "0xCb94be6f13A1182E4A4B6140cb7bf2025d28e41B": {
     "name": "Trustcoin",
-    "logo": "trustcoin.jpg",
+    "logo": "trst.svg",
     "erc20": true,
     "symbol": "TRST",
     "decimals": 6
