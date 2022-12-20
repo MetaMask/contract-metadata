@@ -2871,7 +2871,7 @@
   },
   "0x58b6A8A3302369DAEc383334672404Ee733aB239": {
     "name": "Livepeer",
-    "logo": "livepeer.png",
+    "logo": "lpt.svg",
     "erc20": true,
     "symbol": "LPT",
     "decimals": 18
