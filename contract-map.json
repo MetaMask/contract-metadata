@@ -4159,5 +4159,26 @@
     "erc20": true,
     "symbol": "SHIB",
     "decimals": 18
+  },
+  "0x3506424F91fD33084466F402d5D97f05F8e3b4AF": {
+    "name": "chiliZ",
+    "logo": "chz.svg",
+    "erc20": true,
+    "symbol": "CHZ",
+    "decimals": 18
+  },
+  "0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA": {
+    "name": "Gala",
+    "logo": "gala.svg",
+    "erc20": true,
+    "symbol": "GALA",
+    "decimals": 8
+  },
+  "0x69af81e73A73B40adF4f3d4223Cd9b1ECE623074": {
+    "name": "Mask Network",
+    "logo": "gala.svg",
+    "erc20": true,
+    "symbol": "MASK",
+    "decimals": 18
   }
 }
