@@ -2353,7 +2353,7 @@
   },
   "0x9a642d6b3368ddc662CA244bAdf32cDA716005BC": {
     "name": "Qtum",
-    "logo": "qtum_28.png",
+    "logo": "qtum.svg",
     "erc20": true,
     "decimals": 18,
     "symbol": "QTUM"
