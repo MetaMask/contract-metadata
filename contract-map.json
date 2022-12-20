@@ -1876,7 +1876,7 @@
   },
   "0x1a7a8BD9106F2B8D977E08582DC7d24c723ab0DB": {
     "name": "AppCoins",
-    "logo": "appcoins.png",
+    "logo": "appc.svg",
     "erc20": true,
     "decimals": 18,
     "symbol": "APPC"
@@ -2052,7 +2052,7 @@
   },
   "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C": {
     "name": "Bancor Network Token",
-    "logo": "bancor.png",
+    "logo": "bnt.svg",
     "erc20": true,
     "symbol": "BNT",
     "decimals": 18
