@@ -1946,7 +1946,7 @@
   },
   "0x06012c8cf97BEaD5deAe237070F9587f8E7A266d": {
     "name": "Crypto Kitties",
-    "logo": "CryptoKitties-Kitty-13733.svg",
+    "logo": "ck.svg",
     "erc20": false,
     "erc721": true,
     "symbol": "CK",
@@ -2850,7 +2850,7 @@
   },
   "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b": {
     "name": "Cronos",
-    "logo": "CRO.png",
+    "logo": "cro.svg",
     "erc20": true,
     "symbol": "CRO",
     "decimals": 8
