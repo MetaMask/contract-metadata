@@ -4187,5 +4187,12 @@
     "erc20": true,
     "symbol": "CRV",
     "decimals": 18
+  },
+  "0x92D6C1e31e14520e676a687F0a93788B716BEff5": {
+    "name": "dYdX",
+    "logo": "dydx.svg",
+    "erc20": true,
+    "symbol": "DYDX",
+    "decimals": 18
   }
 }
