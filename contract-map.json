@@ -2913,7 +2913,7 @@
   },
   "0x595832F8FC6BF59c85C527fEC3740A1b7a361269": {
     "name": "PowerLedger",
-    "logo": "power.png",
+    "logo": "powr.svg",
     "erc20": true,
     "symbol": "POWR",
     "decimals": 6
