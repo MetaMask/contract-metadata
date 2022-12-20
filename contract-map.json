@@ -4152,5 +4152,12 @@
     "erc20": true,
     "symbol": "TDX",
     "decimals": 18
+  },
+  "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE": {
+    "name": "SHIBA INU",
+    "logo": "shib.svg",
+    "erc20": true,
+    "symbol": "SHIB",
+    "decimals": 18
   }
 }
