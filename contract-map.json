@@ -2639,8 +2639,8 @@
     "decimals": 18
   },
   "0xb7cB1C96dB6B22b0D3d9536E0108d062BD488F74": {
-    "name": "Walton",
-    "logo": "waltonchain.png",
+    "name": "Walton Token",
+    "logo": "wtc.svg",
     "erc20": true,
     "symbol": "WTC",
     "decimals": 18
