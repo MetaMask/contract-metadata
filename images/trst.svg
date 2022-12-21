@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="250px" height="250px" viewBox="0 0 250 250" version="1.1">
 <g id="surface1">
@@ -6,6 +5,3 @@
 <path style=" stroke:none;fill-rule:nonzero;fill:rgb(38.82353%,77.64706%,73.333335%);fill-opacity:1;" d="M 68.175781 64.339844 L 181.824219 64.339844 L 181.824219 92.847656 L 142.109375 92.847656 L 142.109375 196.851562 L 107.582031 196.851562 L 107.582031 92.960938 L 68.175781 92.960938 Z M 68.175781 64.339844 "/>
 </g>
 </svg>
-=======
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1990.54 1990.54" width="2500" height="2500"><circle cx="995.27" cy="995.27" r="890" fill="none" stroke="#63c6bb" stroke-miterlimit="10" stroke-width="210.54"/><path d="M542.84 512.27h904.86v227h-316.21v828.08H856.57V740.16H542.84V512.27z" fill="#63c6bb"/></svg>
->>>>>>> 199b28f1764e73356bae52d18b8fe6037cc7f800

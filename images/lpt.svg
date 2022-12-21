@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="250px" height="250px" viewBox="0 0 250 250" version="1.1">
 <g id="surface1">
@@ -9,13 +8,4 @@
 <path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 0 147.058594 L 0 102.941406 L 46.875 102.941406 L 46.875 147.058594 Z M 0 147.058594 "/>
 <path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 0 44.117188 L 0 0 L 46.875 0 L 46.875 44.117188 Z M 0 44.117188 "/>
 </g>
-=======
-<svg width="640" height="680" viewBox="0 0 640 680" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="520" y="400" width="120" height="120" transform="rotate(-90 520 400)" fill="black"/>
-<rect x="260" y="260" width="120" height="120" transform="rotate(-90 260 260)" fill="black"/>
-<rect x="260" y="540" width="120" height="120" transform="rotate(-90 260 540)" fill="black"/>
-<rect y="680" width="120" height="120" transform="rotate(-90 0 680)" fill="black"/>
-<rect y="400" width="120" height="120" transform="rotate(-90 0 400)" fill="black"/>
-<rect y="120" width="120" height="120" transform="rotate(-90 0 120)" fill="black"/>
->>>>>>> 199b28f1764e73356bae52d18b8fe6037cc7f800
 </svg>
