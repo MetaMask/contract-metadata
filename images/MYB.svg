@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500 500"><defs><style>.a{fill:url(#a);}.b{fill:#fff;}</style><linearGradient id="a" x1="-8.6" y1="508.6" x2="508.6" y2="-8.6" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#273469"/><stop offset="0.18" stop-color="#283877"/><stop offset="0.51" stop-color="#2a449b"/><stop offset="0.95" stop-color="#2e56d5"/><stop offset="1" stop-color="#2e58db"/></linearGradient></defs><title>MyBit-logo-FINAL</title><rect class="a" x="-8.6" y="-8.6" width="517.2" height="517.2"/><path class="b" d="M448.95,250l-74.57,74.64h-.14a175.54,175.54,0,0,0-248.55,0h-.14L51.05,250,250,51.05Z"/><path class="b" d="M352.35,346.63,250.07,448.91l0,0L147.65,346.63A143.29,143.29,0,0,1,250,304.2h0a146,146,0,0,1,20.45,1.41A143.1,143.1,0,0,1,352.35,346.63Z"/></svg>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="250px" height="250px" viewBox="0 0 250 250" version="1.1">
+<defs>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="-8.6" y1="508.600006" x2="508.600006" y2="-8.6" gradientTransform="matrix(0.5,0,0,0.5,0,0)">
+<stop offset="0" style="stop-color:rgb(15.294118%,20.392157%,41.176471%);stop-opacity:1;"/>
+<stop offset="0.18" style="stop-color:rgb(15.686275%,21.960784%,46.666667%);stop-opacity:1;"/>
+<stop offset="0.51" style="stop-color:rgb(16.470589%,26.666668%,60.784316%);stop-opacity:1;"/>
+<stop offset="0.95" style="stop-color:rgb(18.039216%,33.725491%,83.529413%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(18.039216%,34.509805%,85.882354%);stop-opacity:1;"/>
+</linearGradient>
+</defs>
+<g id="surface1">
+<rect x="0" y="0" width="250" height="250" style="fill:url(#linear0);stroke:none;"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 224.476562 125 L 187.191406 162.320312 L 187.121094 162.320312 C 170.652344 145.8125 148.296875 136.539062 124.984375 136.539062 C 101.667969 136.539062 79.3125 145.8125 62.84375 162.320312 L 62.773438 162.320312 L 25.523438 125 L 125 25.523438 Z M 224.476562 125 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 176.175781 173.316406 L 125.035156 224.453125 L 73.824219 173.316406 C 87.347656 159.667969 105.785156 152.023438 125 152.101562 C 128.421875 152.09375 131.835938 152.332031 135.226562 152.804688 C 150.753906 154.96875 165.140625 162.175781 176.175781 173.316406 Z M 176.175781 173.316406 "/>
+</g>
+</svg>

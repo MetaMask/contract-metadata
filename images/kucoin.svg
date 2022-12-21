@@ -1,28 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Creator: CorelDRAW X7 -->
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="10in" height="10in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
-viewBox="0 0 10000 10000"
- xmlns:xlink="http://www.w3.org/1999/xlink">
- <defs>
-  <style type="text/css">
-   <![CDATA[
-    .fil0 {fill:none}
-    .fil2 {fill:white}
-    .fil1 {fill:url(#id0)}
-   ]]>
-  </style>
-  <radialGradient id="id0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.19365 -0.468752 0.468754 1.19365 -3312 1375)" cx="5000" cy="5000" r="1683.5" fx="5000" fy="5000">
-   <stop offset="0" style="stop-opacity:1; stop-color:#A0D1FE"/>
-   <stop offset="1" style="stop-opacity:1; stop-color:#3270C4"/>
-  </radialGradient>
- </defs>
- <g id="Layer_x0020_1">
-  <metadata id="CorelCorpID_0Corel-Layer"/>
-  <rect class="fil0" x="1283" y="1217" width="7500" height="7500"/>
-  <g id="_2228481400688">
-   <circle class="fil1" cx="5000" cy="5000" r="3100"/>
-   <path class="fil2" d="M4460 5000l1145 1141 723 -720c128,-127 335,-127 463,0 128,127 128,334 0,461l-954 951c-128,126 -337,125 -463,0l-1377 -1372 0 815c0,179 -147,326 -327,326 -180,0 -327,-146 -327,-326l0 -2552c0,-180 147,-326 327,-326 181,0 327,146 327,326l0 815 1377 -1372c126,-125 335,-126 463,0l954 951c128,127 128,334 0,461 -128,127 -335,127 -463,0l-723 -720 -1145 1141zm1146 -326c181,0 327,146 327,326 0,180 -146,326 -327,326 -181,0 -328,-146 -328,-326 0,-180 147,-326 328,-326l0 0z"/>
-  </g>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="250px" height="250px" viewBox="0 0 250 250" version="1.1">
+<defs>
+<radialGradient id="radial0" gradientUnits="userSpaceOnUse" cx="5000" cy="5000" fx="5000" fy="5000" r="1683.5" gradientTransform="matrix(0.0298413,-0.0117188,0.0117188,0.0298413,-82.8,34.375)">
+<stop offset="0" style="stop-color:rgb(62.7451%,81.960785%,99.607843%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(19.607843%,43.921569%,76.862746%);stop-opacity:1;"/>
+</radialGradient>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:evenodd;fill:url(#radial0);" d="M 202.5 125 C 202.5 167.800781 167.800781 202.5 125 202.5 C 82.199219 202.5 47.5 167.800781 47.5 125 C 47.5 82.199219 82.199219 47.5 125 47.5 C 167.800781 47.5 202.5 82.199219 202.5 125 Z M 202.5 125 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 111.5 125 L 140.125 153.523438 L 158.199219 135.523438 C 161.398438 132.351562 166.574219 132.351562 169.773438 135.523438 C 172.976562 138.699219 172.976562 143.875 169.773438 147.050781 L 145.925781 170.824219 C 142.726562 173.976562 137.5 173.949219 134.351562 170.824219 L 99.925781 136.523438 L 99.925781 156.898438 C 99.925781 161.375 96.25 165.050781 91.75 165.050781 C 87.25 165.050781 83.574219 161.398438 83.574219 156.898438 L 83.574219 93.101562 C 83.574219 88.601562 87.25 84.949219 91.75 84.949219 C 96.273438 84.949219 99.925781 88.601562 99.925781 93.101562 L 99.925781 113.476562 L 134.351562 79.175781 C 137.5 76.050781 142.726562 76.023438 145.925781 79.175781 L 169.773438 102.949219 C 172.976562 106.125 172.976562 111.300781 169.773438 114.476562 C 166.574219 117.648438 161.398438 117.648438 158.199219 114.476562 L 140.125 96.476562 Z M 140.148438 116.851562 C 144.675781 116.851562 148.324219 120.5 148.324219 125 C 148.324219 129.5 144.675781 133.148438 140.148438 133.148438 C 135.625 133.148438 131.949219 129.5 131.949219 125 C 131.949219 120.5 135.625 116.851562 140.148438 116.851562 Z M 140.148438 116.851562 "/>
+</g>
 </svg>

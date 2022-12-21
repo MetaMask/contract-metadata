@@ -1,16 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 25.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
-<circle style="fill:#FFFFFF;" cx="64" cy="64" r="64"/>
-<g>
-	<polygon style="fill:#2A5BDB;" points="59.8,39.4 44.6,32 29.9,40.1 29.9,65.6 43.6,60.7 43.5,48.1 	"/>
-	<polygon style="fill:#2A5BDB;" points="94.9,21.8 86.4,24.8 89.5,34.4 64.1,21.3 48.8,29.7 83.9,46.7 74.1,50.3 77.2,59.2 
-		104.3,49.5 	"/>
-</g>
-<g>
-	<polygon style="fill:#2A5BDB;" points="79.4,98.6 44.4,81.7 54.2,78 51.1,69.1 24,78.8 33.4,106.5 41.9,103.6 38.8,93.9 64.1,107 	
-		"/>
-	<polygon style="fill:#2A5BDB;" points="84.7,67.6 84.8,80.3 68.4,88.9 83.6,96.3 98.4,88.2 98.4,62.8 	"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="250px" height="250px" viewBox="0 0 250 250" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 250 125 C 250 194.035156 194.035156 250 125 250 C 55.964844 250 0 194.035156 0 125 C 0 55.964844 55.964844 0 125 0 C 194.035156 0 250 55.964844 250 125 Z M 250 125 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(16.470589%,35.686275%,85.882354%);fill-opacity:1;" d="M 116.796875 76.953125 L 87.109375 62.5 L 58.398438 78.320312 L 58.398438 128.125 L 85.15625 118.554688 L 84.960938 93.945312 Z M 116.796875 76.953125 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(16.470589%,35.686275%,85.882354%);fill-opacity:1;" d="M 185.351562 42.578125 L 168.75 48.4375 L 174.804688 67.1875 L 125.195312 41.601562 L 95.3125 58.007812 L 163.867188 91.210938 L 144.726562 98.242188 L 150.78125 115.625 L 203.710938 96.679688 Z M 185.351562 42.578125 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(16.470589%,35.686275%,85.882354%);fill-opacity:1;" d="M 155.078125 192.578125 L 86.71875 159.570312 L 105.859375 152.34375 L 99.804688 134.960938 L 46.875 153.90625 L 65.234375 208.007812 L 81.835938 202.34375 L 75.78125 183.398438 L 125.195312 208.984375 Z M 155.078125 192.578125 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(16.470589%,35.686275%,85.882354%);fill-opacity:1;" d="M 165.429688 132.03125 L 165.625 156.835938 L 133.59375 173.632812 L 163.28125 188.085938 L 192.1875 172.265625 L 192.1875 122.65625 Z M 165.429688 132.03125 "/>
 </g>
 </svg>

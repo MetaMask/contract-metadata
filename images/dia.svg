@@ -1,40 +1,28 @@
-<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 24.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 283.5 283.5" style="enable-background:new 0 0 283.5 283.5;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:url(#Pfad_1813_1_);}
-	.st1{fill:url(#Pfad_1814_1_);}
-	.st2{fill:url(#Pfad_1815_1_);}
-</style>
-<g id="Gruppe_813" transform="translate(1340.238 2649.555)">
-	
-		<linearGradient id="Pfad_1813_1_" gradientUnits="userSpaceOnUse" x1="-1336.9631" y1="-2368.2788" x2="-1335.9631" y2="-2368.2788" gradientTransform="matrix(79.7424 0 0 -139.049 105364.2656 -331822.75)">
-		<stop  offset="0" style="stop-color:#665AFE"/>
-		<stop  offset="1" style="stop-color:#F1B184"/>
-	</linearGradient>
-	<path id="Pfad_1813" class="st0" d="M-1248.4-2571.2l21.8-14.4v115.4c21.4-1.3,53.5-7.5,56.8-39.1c0,0,5,19.4-6.5,34.9
-		c-12.3,16.6-40.8,27.8-72.2,27.8V-2571.2z"/>
-	
-		<linearGradient id="Pfad_1814_1_" gradientUnits="userSpaceOnUse" x1="-1336.7031" y1="-2368.2288" x2="-1337.274" y2="-2368.9438" gradientTransform="matrix(104.668 0 0 -123.933 138745.5938 -296038.0938)">
-		<stop  offset="0" style="stop-color:#5C3598"/>
-		<stop  offset="0.995" style="stop-color:#CCE0F4"/>
-	</linearGradient>
-	<path id="Pfad_1814" class="st1" d="M-1204.5-2558.6v19.2c8.9,2.4,29.4,10.3,34.9,30.3c0,0,0.1,0.3,0.2,0.9c0,0.2,0.1,0.3,0.1,0.5
-		c0.9,4.6,2.9,20.2-6.8,33.4c-11.9,16.4-41.2,27.8-72.2,27.8l27,11.8c0,0,57.5-0.8,75-51.4c1.6-4.4,2.5-9,2.7-13.7
-		C-1145.3-2535.6-1174.6-2555.4-1204.5-2558.6z"/>
-	
-		<linearGradient id="Pfad_1815_1_" gradientUnits="userSpaceOnUse" x1="-1337.4852" y1="-2368.8633" x2="-1336.1892" y2="-2368.5193" gradientTransform="matrix(84.071 0 0 -115.37 111183.2188 -275808.7812)">
-		<stop  offset="0" style="stop-color:#B7FEA8"/>
-		<stop  offset="0.16" style="stop-color:#B5F9AA"/>
-		<stop  offset="0.321" style="stop-color:#B0EDB0"/>
-		<stop  offset="0.481" style="stop-color:#A7D9BC"/>
-		<stop  offset="0.642" style="stop-color:#9CBDCB"/>
-		<stop  offset="0.803" style="stop-color:#8D99E0"/>
-		<stop  offset="0.962" style="stop-color:#7A6DF8"/>
-		<stop  offset="1" style="stop-color:#7662FF"/>
-	</linearGradient>
-	<path id="Pfad_1815" class="st2" d="M-1156.2-2556.9c-12.3-16.1-39.6-28.7-70.3-28.7v115.4c3.9-0.2,8.2-0.6,12.7-1.3
-		c2.1-0.3,4.2-0.7,6.3-1.2c1-0.2,2.1-0.5,3-0.7v-85.2c29.9,3.2,59.5,23.1,60.8,59C-1143.7-2499.6-1136.6-2531.1-1156.2-2556.9z"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="250px" height="250px" viewBox="0 0 250 250" version="1.1">
+<defs>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="-1336.963135" y1="-2368.278809" x2="-1335.963135" y2="-2368.278809" gradientTransform="matrix(70.319578,0,0,-122.618162,94095.682242,-290276.186127)">
+<stop offset="0" style="stop-color:rgb(40.000001%,35.294119%,99.607843%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(94.509804%,69.411767%,51.764709%);stop-opacity:1;"/>
+</linearGradient>
+<linearGradient id="linear1" gradientUnits="userSpaceOnUse" x1="-1336.703125" y1="-2368.22876" x2="-1337.274048" y2="-2368.943848" gradientTransform="matrix(92.299823,0,0,-109.288359,123532.47953,-258720.051868)">
+<stop offset="0" style="stop-color:rgb(36.078432%,20.784314%,59.607846%);stop-opacity:1;"/>
+<stop offset="0.995" style="stop-color:rgb(80.000001%,87.843138%,95.686275%);stop-opacity:1;"/>
+</linearGradient>
+<linearGradient id="linear2" gradientUnits="userSpaceOnUse" x1="-1337.485229" y1="-2368.863281" x2="-1336.189209" y2="-2368.519287" gradientTransform="matrix(74.136684,0,0,-101.737216,99227.034204,-240881.151956)">
+<stop offset="0" style="stop-color:rgb(71.764708%,99.607843%,65.882355%);stop-opacity:1;"/>
+<stop offset="0.16" style="stop-color:rgb(70.980394%,97.647059%,66.666669%);stop-opacity:1;"/>
+<stop offset="0.321" style="stop-color:rgb(69.01961%,92.941177%,69.01961%);stop-opacity:1;"/>
+<stop offset="0.481" style="stop-color:rgb(65.490198%,85.09804%,73.725492%);stop-opacity:1;"/>
+<stop offset="0.642" style="stop-color:rgb(61.176473%,74.117649%,79.607844%);stop-opacity:1;"/>
+<stop offset="0.803" style="stop-color:rgb(55.29412%,60.000002%,87.843138%);stop-opacity:1;"/>
+<stop offset="0.962" style="stop-color:rgb(47.843137%,42.745098%,97.254902%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(46.27451%,38.431373%,100%);stop-opacity:1;"/>
+</linearGradient>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 80.984375 69.097656 L 100.210938 56.398438 L 100.210938 158.160156 C 119.082031 157.015625 147.386719 151.546875 150.296875 123.679688 C 150.296875 123.679688 154.707031 140.789062 144.566406 154.457031 C 133.71875 169.097656 108.585938 178.972656 80.898438 178.972656 L 80.898438 69.097656 Z M 80.984375 69.097656 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear1);" d="M 119.699219 80.207031 L 119.699219 97.136719 C 127.546875 99.253906 145.625 106.222656 150.472656 123.859375 C 150.472656 123.859375 150.5625 124.121094 150.652344 124.652344 C 150.652344 124.828125 150.738281 124.917969 150.738281 125.09375 C 151.53125 129.148438 153.296875 142.90625 144.742188 154.546875 C 134.25 169.007812 108.410156 179.0625 81.074219 179.0625 L 104.882812 189.464844 C 104.882812 189.464844 155.589844 188.761719 171.019531 144.140625 C 172.433594 140.261719 173.226562 136.203125 173.402344 132.058594 C 171.902344 100.488281 146.066406 83.027344 119.699219 80.207031 Z M 119.699219 80.207031 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear2);" d="M 162.292969 81.707031 C 151.445312 67.507812 127.371094 56.398438 100.296875 56.398438 L 100.296875 158.160156 C 103.738281 157.984375 107.527344 157.632812 111.496094 157.015625 C 113.347656 156.75 115.199219 156.398438 117.054688 155.957031 C 117.933594 155.78125 118.90625 155.515625 119.699219 155.339844 L 119.699219 80.207031 C 146.066406 83.027344 172.167969 100.578125 173.3125 132.234375 C 173.3125 132.234375 179.574219 104.457031 162.292969 81.707031 Z M 162.292969 81.707031 "/>
 </g>
 </svg>

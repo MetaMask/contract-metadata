@@ -1,6 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-  <g fill="none" fill-rule="evenodd">
-    <circle cx="16" cy="16" r="16" fill="#1abc9c"/>
-    <path fill="#fff" fill-rule="nonzero" d="M7.838 12.056V22.5H6v-14l9.708 7.027V22.5H13.87v-6.077zm10.292 4.367V22.5h-1.838v-6.973L26 8.5v14h-1.838V12.056z"/>
-  </g>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="250px" height="250px" viewBox="0 0 250 250" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(10.196079%,73.725492%,61.176473%);fill-opacity:1;" d="M 250 125 C 250 194.035156 194.035156 250 125 250 C 55.964844 250 0 194.035156 0 125 C 0 55.964844 55.964844 0 125 0 C 194.035156 0 250 55.964844 250 125 Z M 250 125 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 61.234375 94.1875 L 61.234375 175.78125 L 46.875 175.78125 L 46.875 66.40625 L 122.71875 121.304688 L 122.71875 175.78125 L 108.359375 175.78125 L 108.359375 128.304688 Z M 141.640625 128.304688 L 141.640625 175.78125 L 127.28125 175.78125 L 127.28125 121.304688 L 203.125 66.40625 L 203.125 175.78125 L 188.765625 175.78125 L 188.765625 94.1875 Z M 141.640625 128.304688 "/>
+</g>
 </svg>

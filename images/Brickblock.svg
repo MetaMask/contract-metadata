@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg viewBox="0 0 183 183" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <circle fill="#3866ff" cx="91" cy="91" r="87"></circle>
-  <g transform="translate(50.000000, 45.000000)" fill-rule="nonzero" fill="#FFFFFF">
-    <polygon points="41.0157175 91.5907586 80.697039 71.6402414 80.697039 22.5540115 41.0157175 42.4931609"></polygon>
-    <polygon points="0 19.9391494 38.1546818 0 79.3513344 19.9391494 39.6813214 39.8896667"></polygon>
-  </g>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="250px" height="250px" viewBox="0 0 250 250" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(21.960784%,40.000001%,100%);fill-opacity:1;" d="M 243.167969 124.316406 C 243.167969 189.957031 189.957031 243.167969 124.316406 243.167969 C 58.675781 243.167969 5.464844 189.957031 5.464844 124.316406 C 5.464844 58.675781 58.675781 5.464844 124.316406 5.464844 C 189.957031 5.464844 243.167969 58.675781 243.167969 124.316406 Z M 243.167969 124.316406 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 124.339844 186.597656 L 178.546875 159.34375 L 178.546875 92.285156 L 124.339844 119.527344 Z M 124.339844 186.597656 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 68.304688 88.714844 L 120.429688 61.476562 L 176.710938 88.714844 L 122.515625 115.96875 Z M 68.304688 88.714844 "/>
+</g>
 </svg>

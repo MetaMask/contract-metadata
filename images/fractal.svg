@@ -1,55 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   cursor="pointer"
-   id="Layer_1"
-   data-name="Layer 1"
-   viewBox="0 0 150 150.00001"
-   version="1.1"
-   sodipodi:docname="fractal.svg"
-   width="150"
-   height="150"
-   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview61"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     showgrid="false"
-     fit-margin-top="20"
-     fit-margin-left="20"
-     fit-margin-right="20"
-     fit-margin-bottom="20"
-     inkscape:zoom="2.6211811"
-     inkscape:cx="10.109946"
-     inkscape:cy="90.608008"
-     inkscape:window-width="1312"
-     inkscape:window-height="969"
-     inkscape:window-x="0"
-     inkscape:window-y="44"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="Layer_1" />
-  <defs
-     id="defs54">
-    <style
-       id="style52">.cls-1{fill:#ff671d;}.cls-2{fill:#4d4d4d;}</style>
-  </defs>
-  <g
-     id="g184"
-     transform="translate(7.717553,13.475273)">
-    <path
-       class="cls-1"
-       d="m 106.5548,20.543941 c 0,0 -19.809996,5.470002 -27.329986,7.57 -7.51999,2.099998 -12.15,18.17 -12.2,18.31 l -22,6.17 c 0,0 -8,1.59 -8,9.86 0,7.85 8,4.9 8,4.9 0,0 3.83,-1 11.31,-3.15 7.48,-2.15 10.68,-17.63 10.7,-17.77 l 39.529996,-11 c 0,0 8,-1.71 8,-10 0.03,-7.839997 -8.01001,-4.89 -8.01001,-4.89"
-       id="path56" />
-    <path
-       class="cls-1"
-       d="m 28.010084,102.50394 28.82,-8.129999 c 7.45,-2.12 10.66,-17.63 10.7,-17.78 l 22,-6.17 c 0,0 8.05,-1.59 8.05,-9.86 0,-7.84 -8.06,-5.06 -8.06,-5.06 0,0 -3.82,1 -11.3,3.15 -7.48,2.15 -10.67,17.8 -10.7,17.94 l -39.52,11 c 0,0 -8,1.72 -8,10 -0.03,7.869999 8.01,4.909999 8.01,4.909999"
-       id="path58" />
-  </g>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="250px" height="250px" viewBox="0 0 250 250" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,40.392157%,11.372549%);fill-opacity:1;" d="M 190.453125 56.699219 C 190.453125 56.699219 157.4375 65.816406 144.902344 69.316406 C 132.371094 72.816406 124.652344 99.597656 124.570312 99.832031 L 87.902344 110.117188 C 87.902344 110.117188 74.570312 112.765625 74.570312 126.546875 C 74.570312 139.632812 87.902344 134.714844 87.902344 134.714844 C 87.902344 134.714844 94.289062 133.046875 106.753906 129.464844 C 119.21875 125.882812 124.554688 100.082031 124.585938 99.847656 L 190.46875 81.515625 C 190.46875 81.515625 203.804688 78.664062 203.804688 64.847656 C 203.855469 51.78125 190.453125 56.699219 190.453125 56.699219 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,40.392157%,11.372549%);fill-opacity:1;" d="M 59.546875 193.296875 L 107.578125 179.75 C 119.996094 176.214844 125.347656 150.367188 125.414062 150.117188 L 162.078125 139.832031 C 162.078125 139.832031 175.496094 137.183594 175.496094 123.398438 C 175.496094 110.332031 162.0625 114.964844 162.0625 114.964844 C 162.0625 114.964844 155.695312 116.632812 143.230469 120.214844 C 130.761719 123.796875 125.445312 149.882812 125.394531 150.117188 L 59.53125 168.449219 C 59.53125 168.449219 46.195312 171.316406 46.195312 185.117188 C 46.144531 198.230469 59.546875 193.296875 59.546875 193.296875 "/>
+</g>
 </svg>

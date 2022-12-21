@@ -1,15 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 25.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 1200 1200" style="enable-background:new 0 0 1200 1200;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#4138AC;}
-	.st1{fill:#FFFFFF;}
-</style>
-<g>
-	<path class="st0" d="M600,1C269.2,1,1,269.2,1,600s268.2,599,599,599c330.7-0.4,598.6-268.4,599-599C1199,269.2,930.8,1,600,1z"/>
-	<ellipse id="Ellipse_16_22_" class="st0" cx="600" cy="600" rx="599" ry="599"/>
-	<path id="Path_12_27_" class="st1" d="M782.7,336.5L642,771.1L501.2,336.5H234.6l41.5,117.6h123.6l178.4,505.1h127.8l219.9-622.7
-		H782.7z"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="250px" height="250px" viewBox="0 0 250 250" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(25.490198%,21.960784%,67.450982%);fill-opacity:1;" d="M 125 0.207031 C 56.082031 0.207031 0.207031 56.082031 0.207031 125 C 0.207031 193.917969 56.082031 249.792969 125 249.792969 C 193.894531 249.707031 249.707031 193.875 249.792969 125 C 249.792969 56.082031 193.917969 0.207031 125 0.207031 Z M 125 0.207031 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(25.490198%,21.960784%,67.450982%);fill-opacity:1;" d="M 249.792969 125 C 249.792969 193.921875 193.921875 249.792969 125 249.792969 C 56.078125 249.792969 0.207031 193.921875 0.207031 125 C 0.207031 56.078125 56.078125 0.207031 125 0.207031 C 193.921875 0.207031 249.792969 56.078125 249.792969 125 Z M 249.792969 125 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 163.0625 70.105469 L 133.75 160.644531 L 104.417969 70.105469 L 48.875 70.105469 L 57.519531 94.605469 L 83.269531 94.605469 L 120.4375 199.832031 L 147.0625 199.832031 L 192.875 70.105469 Z M 163.0625 70.105469 "/>
 </g>
 </svg>

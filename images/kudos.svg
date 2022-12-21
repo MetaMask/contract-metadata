@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="19px" height="21px" viewBox="0 0 19 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
-    <title>Fill-1</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M4.62,2.61 L1.77635684e-15,10.5301389 L4.62,18.45 L13.8601404,18.45 L18.48,10.5301389 L13.8601404,2.61 L4.62,2.61 Z M0.162147133,10.530139 L4.70114376,2.74894737 L13.7789966,2.74894737 L18.3179933,10.530139 L13.7789966,18.3110526 L4.70114376,18.3110526 L0.162147133,10.530139 Z" id="Fill-1" stroke="#0ECF7C" stroke-width="2" transform="translate(9.240000, 10.530000) rotate(90.000000) translate(-9.240000, -10.530000) "></path>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="250px" height="250px" viewBox="0 0 250 250" version="1.1">
+<g id="surface1">
+<path style="fill:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(5.490196%,81.176472%,48.627451%);stroke-opacity:1;stroke-miterlimit:4;" d="M 4.619859 2.610031 L -0.000140587 10.530062 L 4.619859 18.450093 L 13.860188 18.450093 L 18.479859 10.530062 L 13.860188 2.610031 Z M 0.162281 10.530062 L 4.701234 2.748968 L 13.779141 2.748968 L 18.318094 10.530062 L 13.779141 18.311156 L 4.701234 18.311156 Z M 0.162281 10.530062 " transform="matrix(0.000000000000000806,11.904762,-13.157895,0.000000000000000729,260.131572,15.357142)"/>
+</g>
 </svg>

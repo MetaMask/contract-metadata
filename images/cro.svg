@@ -1,25 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 26.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 2167.7 2502.5" style="enable-background:new 0 0 2167.7 2502.5;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:url(#SVGID_1_);}
-	.st1{fill:url(#SVGID_00000016760000628848746960000000291323288447655331_);}
-	.st2{fill:#FFFFFF;}
-</style>
-<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="795.8919" y1="1699.9476" x2="795.8919" y2="1608.7477" gradientTransform="matrix(27.4398 0 0 -27.4398 -20755.2402 46646.2188)">
-	<stop  offset="0" style="stop-color:#25376C"/>
-	<stop  offset="1" style="stop-color:#1F1F49"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="250px" height="250px" viewBox="0 0 250 250" version="1.1">
+<defs>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="795.891907" y1="1699.947632" x2="795.891907" y2="1608.747681" gradientTransform="matrix(3.164622,0,0,-2.741071,-2393.693858,4659.683603)">
+<stop offset="0" style="stop-color:rgb(14.509805%,21.568628%,42.352942%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(12.156863%,12.156863%,28.627452%);stop-opacity:1;"/>
 </linearGradient>
-<path class="st0" d="M1083.9,0L0,625.6v1251.3l1083.9,625.6l1083.9-625.6V625.6L1083.9,0z"/>
-<linearGradient id="SVGID_00000007418222533405911760000015435408293652292017_" gradientUnits="userSpaceOnUse" x1="776.1419" y1="1608.7477" x2="776.1419" y2="1699.9476" gradientTransform="matrix(27.4398 0 0 -27.4398 -20755.2402 46646.2188)">
-	<stop  offset="0" style="stop-color:#25376C"/>
-	<stop  offset="1" style="stop-color:#1F1F49"/>
+<linearGradient id="linear1" gradientUnits="userSpaceOnUse" x1="776.141907" y1="1608.747681" x2="776.141907" y2="1699.947632" gradientTransform="matrix(3.164622,0,0,-2.741071,-2393.693858,4659.683603)">
+<stop offset="0" style="stop-color:rgb(14.509805%,21.568628%,42.352942%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(12.156863%,12.156863%,28.627452%);stop-opacity:1;"/>
 </linearGradient>
-<path style="fill:url(#SVGID_00000007418222533405911760000015435408293652292017_);" d="M1083.9,0L0,625.6v1251.3l1083.9,625.6V0z"
-	/>
-<path class="st2" d="M1506.4,540.6H655.8L557,974.1h1053.7L1506.4,540.6z M806.7,1569.6v-288.1l-252.4-159.2l-285.4,211.3
-	l389.6,677.8H815l183.8-172.9v-85.1L806.7,1569.6z"/>
-<path class="st2" d="M1358.3,1040H809.5l90.6,241.5l-27.4,271.7h422.6l-27.4-271.7L1358.3,1040z"/>
-<path class="st2" d="M1610.7,1119.5L1361,1281.4v288.1l-189.3,183.8v85.1l183.8,170.1h153.7l386.9-675L1610.7,1119.5z"/>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 125.003906 0.0078125 L 0 62.5 L 0 187.5 L 125.003906 249.992188 L 250.011719 187.5 L 250.011719 62.5 Z M 125.003906 0.0078125 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear1);" d="M 125.003906 0.0078125 L 0 62.5 L 0 187.5 L 125.003906 249.992188 Z M 125.003906 0.0078125 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 173.734375 54.011719 L 75.632812 54.011719 L 64.238281 97.3125 L 185.761719 97.3125 Z M 93.035156 156.800781 L 93.035156 128.023438 L 63.925781 112.117188 L 31.011719 133.226562 L 75.945312 200.933594 L 93.992188 200.933594 L 115.191406 183.664062 L 115.191406 175.160156 Z M 93.035156 156.800781 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 156.652344 103.898438 L 93.359375 103.898438 L 103.808594 128.023438 L 100.648438 155.164062 L 149.386719 155.164062 L 146.226562 128.023438 Z M 156.652344 103.898438 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 185.761719 111.839844 L 156.964844 128.011719 L 156.964844 156.792969 L 135.132812 175.152344 L 135.132812 183.652344 L 156.328125 200.644531 L 174.054688 200.644531 L 218.675781 133.214844 Z M 185.761719 111.839844 "/>
+</g>
 </svg>

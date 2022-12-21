@@ -1,110 +1,22 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="67.73333mm"
-   height="67.73333mm"
-   viewBox="0 0 67.73333 67.73333"
-   version="1.1"
-   id="svg8"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="Vodra Logo Purple.svg">
-  <defs
-     id="defs2">
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath1031-9-4">
-      <rect
-         style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:2.28425;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         id="rect1033-5-7"
-         width="170.58513"
-         height="102.28931"
-         x="166.53574"
-         y="382.01422" />
-    </clipPath>
-  </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-380.57142"
-     inkscape:cy="250.85714"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:window-width="1267"
-     inkscape:window-height="967"
-     inkscape:window-x="61"
-     inkscape:window-y="61"
-     inkscape:window-maximized="0" />
-  <metadata
-     id="metadata5">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-206.52619,-81.794048)">
-    <circle
-       style="opacity:1;fill:#8600ce;fill-opacity:1;stroke:none;stroke-width:2.68544;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       id="path1533"
-       cx="240.39285"
-       cy="115.66071"
-       r="33.866665"
-       inkscape:export-filename="C:\Users\conne\Desktop\Vodra\VodraGraphics\Vodra Logo\VodraIconPurpleToken.png"
-       inkscape:export-xdpi="95.599998"
-       inkscape:export-ydpi="95.599998" />
-    <circle
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.48653;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       id="path1533-9"
-       cx="240.39285"
-       cy="115.66071"
-       r="31.358025"
-       inkscape:export-filename="C:\Users\conne\Desktop\Vodra\VodraGraphics\Vodra Logo\VodraIconPurpleToken.png"
-       inkscape:export-xdpi="95.599998"
-       inkscape:export-ydpi="95.599998" />
-    <circle
-       style="opacity:1;fill:#8600ce;fill-opacity:1;stroke:none;stroke-width:2.32422;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       id="path1533-9-4"
-       cx="240.39285"
-       cy="115.66071"
-       r="29.311245"
-       inkscape:export-filename="C:\Users\conne\Desktop\Vodra\VodraGraphics\Vodra Logo\VodraIconPurpleToken.png"
-       inkscape:export-xdpi="95.599998"
-       inkscape:export-ydpi="95.599998" />
-    <path
-       sodipodi:nodetypes="ccccccccsccccccccscccc"
-       inkscape:connector-curvature="0"
-       id="path1141-1"
-       d="m 219.06705,388.64871 c 0.0145,3.16249 0.0291,6.44474 3e-5,9.607 12.70969,0.11523 26.86727,0.0448 39.57744,0 5.49645,-9.5034 0.061,-0.10265 5.57379,-9.60698 -13.92622,0.006 -31.23421,-0.0548 -45.15124,0 z m 36.86922,21.63143 c -5.2705,-8.35144 -0.13406,-0.17715 -5.35427,-8.46601 -2.36512,0.008 -7.88543,0.0166 -11.67256,0.017 -0.0701,1e-5 10.83407,18.179 10.80077,18.24074 -1.9245,3.31351 -0.0233,0.0195 -1.95297,3.36741 l -12.95346,-21.59815 c -5.15938,-0.047 -10.57731,0.0668 -15.73669,0.0204 -0.0426,2.68177 -0.094,6.90701 -0.009,9.58655 l 9.16125,-0.0277 c 20.18989,33.2353 -0.67149,-1.00427 19.5271,32.40858 27.34026,-45.37756 0.13604,-0.18549 27.44904,-45.56652 5.62746,-0.007 5.62532,-0.0116 5.62532,-0.0116 l 4.3255,-9.60211 c -16.22517,0.009 0,0 -16.22699,4e-5 -20.8116,34.70022 0,0 -12.98274,21.63141 z"
-       style="opacity:0.999;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.06469;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       clip-path="url(#clipPath1031-9-4)"
-       transform="matrix(0.63194221,0,0,0.63194221,82.777132,-142.50657)"
-       inkscape:export-filename="C:\Users\conne\Desktop\Vodra\VodraGraphics\Vodra Logo\VodraIconPurpleToken.png"
-       inkscape:export-xdpi="95.599998"
-       inkscape:export-ydpi="95.599998" />
-  </g>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="250px" height="250px" viewBox="0 0 250 250" version="1.1">
+<defs>
+<clipPath id="clip1">
+  <path d="M 0 63.152344 L 250 63.152344 L 250 250 L 0 250 Z M 0 63.152344 "/>
+</clipPath>
+<clipPath id="clip2">
+  <rect x="0" y="0" width="251" height="251"/>
+</clipPath>
+<g id="surface5" clip-path="url(#clip2)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 54.214844 78.628906 C 54.25 86.003906 54.28125 93.660156 54.214844 101.035156 C 83.859375 101.304688 116.882812 101.140625 146.527344 101.035156 C 159.347656 78.871094 146.671875 100.796875 159.527344 78.628906 C 127.046875 78.640625 86.675781 78.5 54.214844 78.628906 Z M 140.210938 129.082031 C 127.917969 109.601562 139.898438 128.667969 127.722656 109.335938 C 122.207031 109.355469 109.328125 109.375 100.496094 109.375 C 100.332031 109.375 125.765625 151.777344 125.6875 151.921875 C 121.199219 159.648438 125.636719 151.964844 121.132812 159.777344 L 90.921875 109.398438 C 78.886719 109.289062 66.25 109.554688 54.214844 109.445312 C 54.117188 115.703125 53.996094 125.554688 54.195312 131.804688 L 75.5625 131.742188 C 122.65625 209.261719 73.996094 129.398438 121.109375 207.332031 C 184.878906 101.492188 121.425781 206.902344 185.132812 101.050781 C 198.257812 101.035156 198.253906 101.023438 198.253906 101.023438 L 208.34375 78.628906 C 170.496094 78.648438 208.34375 78.628906 170.492188 78.628906 C 121.953125 159.566406 170.492188 78.628906 140.210938 129.082031 Z M 140.210938 129.082031 "/>
+</g>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(52.549022%,0%,80.784315%);fill-opacity:1;" d="M 250 125 C 250 194.035156 194.035156 250 125 250 C 55.964844 250 0 194.035156 0 125 C 0 55.964844 55.964844 0 125 0 C 194.035156 0 250 55.964844 250 125 Z M 250 125 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 240.742188 125 C 240.742188 188.921875 188.921875 240.742188 125 240.742188 C 61.078125 240.742188 9.257812 188.921875 9.257812 125 C 9.257812 61.078125 61.078125 9.257812 125 9.257812 C 188.921875 9.257812 240.742188 61.078125 240.742188 125 Z M 240.742188 125 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(52.549022%,0%,80.784315%);fill-opacity:1;" d="M 233.1875 125 C 233.1875 184.75 184.75 233.1875 125 233.1875 C 65.25 233.1875 16.8125 184.75 16.8125 125 C 16.8125 65.25 65.25 16.8125 125 16.8125 C 184.75 16.8125 233.1875 65.25 233.1875 125 Z M 233.1875 125 "/>
+<g clip-path="url(#clip1)" clip-rule="nonzero">
+<use xlink:href="#surface5"/>
+</g>
+</g>
 </svg>

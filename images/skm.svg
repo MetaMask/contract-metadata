@@ -1,1 +1,9 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 121.97 140.84"><defs><style>.cls-1{fill:#fff;}</style></defs><title>Artboard 1</title><polygon points="121.97 105.63 121.97 35.21 60.98 0 0 35.21 0 105.63 60.98 140.84 121.97 105.63"/><polygon class="cls-1" points="60.98 48.79 89.7 70.4 89.7 56.06 60.98 34.45 60.98 48.79"/><polygon class="cls-1" points="32.27 56.06 89.7 99.12 89.7 84.78 32.27 41.72 32.27 56.06"/><polygon class="cls-1" points="32.27 84.78 60.98 106.38 60.98 91.85 32.27 70.44 32.27 84.78"/></svg>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="250px" height="250px" viewBox="0 0 250 250" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 250 187.445312 L 250 62.554688 L 124.988281 0.109375 L 0 62.554688 L 0 187.445312 L 124.988281 249.890625 Z M 250 187.445312 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 124.988281 86.640625 L 183.855469 124.964844 L 183.855469 99.53125 L 124.988281 61.207031 Z M 124.988281 86.640625 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 66.144531 99.53125 L 183.855469 175.898438 L 183.855469 150.46875 L 66.144531 74.101562 Z M 66.144531 99.53125 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 66.144531 150.46875 L 124.988281 188.773438 L 124.988281 163.003906 L 66.144531 125.035156 Z M 66.144531 150.46875 "/>
+</g>
+</svg>
