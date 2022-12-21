@@ -1,13 +1,1 @@
-<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="250px" height="250px" viewBox="0 0 250 250" version="1.1">
-<defs>
-<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="25.214399" y1="1024.822266" x2="25.8374" y2="1024.119263" gradientTransform="matrix(250,0,0,-250,-6250,256250)">
-<stop offset="0" style="stop-color:rgb(0%,67.843139%,93.725491%);stop-opacity:1;"/>
-<stop offset="1" style="stop-color:rgb(0%,51.764709%,100%);stop-opacity:1;"/>
-</linearGradient>
-</defs>
-<g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 250 125 C 250 194.035156 194.035156 250 125 250 C 55.964844 250 0 194.035156 0 125 C 0 55.964844 55.964844 0 125 0 C 194.035156 0 250 55.964844 250 125 Z M 250 125 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 83 59 L 69.5 72.5 L 69.5 126 L 83 139.5 L 136.5 139.5 L 136.5 166.5 L 110 166.5 L 110 153 L 69.5 153 L 69.5 180 L 83 193.5 L 163.5 193.5 L 177 180 L 177 126 L 163.5 112.5 L 110 112.5 L 110 85.5 L 137 85.5 L 137 99 L 177.5 99 L 177.5 72 L 164 58.5 L 83 58.5 Z M 83 59 "/>
-</g>
-</svg>
+<svg height="250" viewBox="0 0 250 250" width="250" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><linearGradient id="a" gradientTransform="matrix(250 0 0 -250 -6250 256250)" gradientUnits="userSpaceOnUse" x1="25.214399" x2="25.8374" y1="1024.822266" y2="1024.119263"><stop offset="0" stop-color="#00adef"/><stop offset="1" stop-color="#0084ff"/></linearGradient><path d="m250 125c0 69.035156-55.964844 125-125 125s-125-55.964844-125-125 55.964844-125 125-125 125 55.964844 125 125zm0 0" fill="url(#a)"/><path d="m83 59-13.5 13.5v53.5l13.5 13.5h53.5v27h-26.5v-13.5h-40.5v27l13.5 13.5h80.5l13.5-13.5v-54l-13.5-13.5h-53.5v-27h27v13.5h40.5v-27l-13.5-13.5h-81zm0 0" fill="#fff"/></svg>

@@ -1,12 +1,1 @@
-<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="250px" height="250px" viewBox="0 0 250 250" version="1.1">
-<defs>
-<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="250" y1="418.873505" x2="250" y2="81.126404" gradientTransform="matrix(0.5,0,0,0.5,0,0)">
-<stop offset="0" style="stop-color:rgb(40.784314%,34.509805%,65.098041%);stop-opacity:1;"/>
-<stop offset="1" style="stop-color:rgb(85.09804%,13.333334%,19.215687%);stop-opacity:1;"/>
-</linearGradient>
-</defs>
-<g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 199.300781 109.949219 C 199.300781 71.648438 168.25 40.601562 129.949219 40.601562 L 50.699219 40.601562 L 50.699219 108.949219 C 64.351562 98.949219 84.101562 92.25 106.601562 92.25 L 106.601562 77.800781 L 155.398438 110 L 106.601562 142.199219 L 106.601562 128.648438 C 90.101562 131.101562 75.25 140.050781 68.101562 157.648438 C 61.5 173.800781 64.648438 197.648438 75.800781 209.5 L 198.800781 209.5 L 178.398438 159.550781 C 191.300781 146.898438 199.300781 129.351562 199.300781 109.949219 Z M 199.300781 109.949219 "/>
-</g>
-</svg>
+<svg height="250" viewBox="0 0 250 250" width="250" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><linearGradient id="a" gradientUnits="userSpaceOnUse" x1="125" x2="125" y1="209.4367525" y2="40.563202"><stop offset="0" stop-color="#6858a6"/><stop offset="1" stop-color="#d92231"/></linearGradient><path d="m199.300781 109.949219c0-38.300781-31.050781-69.347657-69.351562-69.347657h-79.25v68.347657c13.652343-10 33.402343-16.699219 55.902343-16.699219v-14.449219l48.796876 32.199219-48.796876 32.199219v-13.550781c-16.5 2.453124-31.351562 11.402343-38.5 29-6.601562 16.152343-3.453124 40 7.699219 51.851562h123l-20.402343-49.949219c12.902343-12.652343 20.902343-30.199219 20.902343-49.601562zm0 0" fill="url(#a)"/></svg>
