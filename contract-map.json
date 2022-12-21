@@ -1813,7 +1813,7 @@
   },
   "0xD8E3FB3b08eBA982F2754988d70D57eDc0055ae6": {
     "name": "Zoracles",
-    "logo": "ZORA.svg",
+    "logo": "zora.svg",
     "erc20": true,
     "symbol": "ZORA",
     "decimals": 9
