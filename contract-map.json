@@ -13,6 +13,14 @@
     "symbol": "NRG",
     "decimals": 18
   },
+
+  "0x0d88eD6E74bbFD96B831231638b66C05571e824F": {
+    "name": "Aventus",
+    "logo": "aventus.svg",
+    "erc20": true,
+    "symbol": "AVT",
+    "decimals": 18
+  },
   "0x4FC15c91a9c4A9efB404174464687E8e128730C2": {
     "name": "STAT",
     "logo": "STAT.svg",
