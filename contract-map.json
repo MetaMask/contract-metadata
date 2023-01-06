@@ -1,4 +1,13 @@
 {
+  {
+  "0xdb8E35a4a2824cB1d36a67Cf43f03C0ACf51dD72": {
+    "name": "Socialudo",
+    "logo": "socialudo.svg",
+    "erc20": true,
+    "symbol": "LUDO",
+    "decimals": 18
+  },
+  {
   "0xe4dae00bc1c46ea2F44ae71B1BEb8b171C15d812": {
     "name": "PREMA",
     "logo": "PREMA.svg",
