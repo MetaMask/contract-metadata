@@ -937,14 +937,14 @@
     "symbol": "DDIM",
     "decimals": 18
   },
-  "0x745407c86df8db893011912d3ab28e68b62e49b0": {
+  "0x745407c86DF8DB893011912d3aB28e68B62E49B0": {
     "name": "MahaDAO",
     "logo": "MAHA.svg",
     "erc20": true,
     "symbol": "MAHA",
     "decimals": 18
   },
-  "0x8cc0f052fff7ead7f2edcccac895502e884a8a71": {
+  "0x8CC0F052fff7eaD7f2EdCCcaC895502E884a8a71": {
     "name": "ARTH Valuecoin",
     "logo": "ARTH.svg",
     "erc20": true,
