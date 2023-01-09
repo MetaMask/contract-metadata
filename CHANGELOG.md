@@ -7,21 +7,23 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ## [2.2.0]
-### Uncategorized
-- add METAOASIS Token ([#1139](https://github.com/MetaMask/contract-metadata/pull/1139))
+### Added
+- Add METAOASIS Token ([#1139](https://github.com/MetaMask/contract-metadata/pull/1139))
 - Updated the contract address for $MAHA and added $ARTH logo ([#1137](https://github.com/MetaMask/contract-metadata/pull/1137))
 - Add Aventus ([#1133](https://github.com/MetaMask/contract-metadata/pull/1133))
 - Add VIDT DAO ([#1093](https://github.com/MetaMask/contract-metadata/pull/1093))
-- Optimize SVG icons ([#1132](https://github.com/MetaMask/contract-metadata/pull/1132))
-- Add SHIB, CHZ, GALA, MASK, CRV, DYDX, HIFI and update some logotypes ([#1131](https://github.com/MetaMask/contract-metadata/pull/1131))
-- added CTX and TCAP tokens ([#850](https://github.com/MetaMask/contract-metadata/pull/850))
-- Added Tidex Token ([#1130](https://github.com/MetaMask/contract-metadata/pull/1130))
-- PREMA ([#1127](https://github.com/MetaMask/contract-metadata/pull/1127))
-- Remove not used tokens with .png logos ([#1126](https://github.com/MetaMask/contract-metadata/pull/1126))
-- Add energi token ([#627](https://github.com/MetaMask/contract-metadata/pull/627))
-- Add Verse Token (ERC20) ([#1125](https://github.com/MetaMask/contract-metadata/pull/1125))
-- changed ooki logo ([#1124](https://github.com/MetaMask/contract-metadata/pull/1124))
+- Add SHIB, CHZ, GALA, MASK, CRV, DYDX, HIFI ([#1131](https://github.com/MetaMask/contract-metadata/pull/1131))
+- Add CTX, TCAP tokens ([#850](https://github.com/MetaMask/contract-metadata/pull/850))
+- Add Tidex Token ([#1130](https://github.com/MetaMask/contract-metadata/pull/1130))
+- Add PREMA ([#1127](https://github.com/MetaMask/contract-metadata/pull/1127))
+- Add Energi token ([#627](https://github.com/MetaMask/contract-metadata/pull/627))
+- Add Verse Token ([#1125](https://github.com/MetaMask/contract-metadata/pull/1125))
+- Changed Ooki logo ([#1124](https://github.com/MetaMask/contract-metadata/pull/1124))
 - Updated StormX to the new address ([#1123](https://github.com/MetaMask/contract-metadata/pull/1123))
+
+### Changed
+- Optimize SVG icons ([#1132](https://github.com/MetaMask/contract-metadata/pull/1132))
+- Remove not used tokens with .png logos ([#1126](https://github.com/MetaMask/contract-metadata/pull/1126))
 - Updated logo extension to using .svg ([#1122](https://github.com/MetaMask/contract-metadata/pull/1122))
 - Updated AirSwap logo ([#1120](https://github.com/MetaMask/contract-metadata/pull/1120))
 
