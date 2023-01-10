@@ -1,4 +1,11 @@
 {
+  "0x9B6B9d2468E165a02FEf69E61B6D3D6CBC0Ac409": {
+    "name": "OASISLIFE",
+    "logo": "OFE.svg",
+    "erc20": true,
+    "symbol": "OFE",
+    "decimals": 18
+  },
   "0xdf0162A6B3e9fDf0302c1e949739DeeaFafd8F89": {
     "name": "METAOASIS",
     "logo": "MOA.svg",
