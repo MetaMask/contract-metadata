@@ -4,6 +4,13 @@
     "logo": "ftn.svg",
     "erc20": true,
     "symbol": "FTN",
+  "0xBa3335588D9403515223F109EdC4eB7269a9Ab5D": {
+    "name": "Gearbox",
+    "logo": "gear.svg",
+    "erc20": true,
+    "symbol": "GEAR",
+    "decimals": 18
+  },
   "0x9B6B9d2468E165a02FEf69E61B6D3D6CBC0Ac409": {
     "name": "OASISLIFE",
     "logo": "OFE.svg",
