@@ -1,4 +1,11 @@
 {
+  "0xaE0585a259A3BCAB258D6EE02FB583f7B33C2a12": {
+    "name": "TemDAO",
+    "logo": "TempleCoin.svg",
+    "erc20": true,
+    "symbol": "TEM",
+    "decimals": 18
+  },
   "0xBa3335588D9403515223F109EdC4eB7269a9Ab5D": {
     "name": "Gearbox",
     "logo": "gear.svg",
