@@ -4251,5 +4251,12 @@
     "erc20": true,
     "symbol": "DYDX",
     "decimals": 18
+  },
+  "0xEDc1004886d010751f74ec0Ad223819F9F3b1910": {
+    "name": "Agrinode",
+    "logo": "agrinode_agn.svg",
+    "erc20": true,
+    "symbol": "AGN",
+    "decimals": 18
   }
 }
