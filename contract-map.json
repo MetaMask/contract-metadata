@@ -4251,5 +4251,12 @@
     "erc20": true,
     "symbol": "DYDX",
     "decimals": 18
+  },
+  "0x60bE1e1fE41c1370ADaF5d8e66f07Cf1C2Df2268": {
+    "name": "Perion Credits",
+    "logo": "perc.svg",
+    "erc20": true,
+    "symbol": "PERC",
+    "decimals": 18
   }
 }
