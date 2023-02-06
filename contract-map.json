@@ -1,4 +1,11 @@
 {
+  "0x1e2C4fb7eDE391d116E6B41cD0608260e8801D59": {
+    "name": "Backed CSPX Core S&P 500",
+    "logo": "backed-fi.svg",
+    "erc20": true,
+    "symbol": "bCSPX",
+    "decimals": 18
+  },
   "0xBa3335588D9403515223F109EdC4eB7269a9Ab5D": {
     "name": "Gearbox",
     "logo": "gear.svg",
