@@ -4258,5 +4258,12 @@
     "erc20": true,
     "symbol": "PERC",
     "decimals": 18
+  },
+  "0x3e49E9C890Cd5B015A18ed76E7A4093f569f1A04": {
+    "name": "xGET",
+    "logo": "xGET.svg",
+    "erc20": true,
+    "symbol": "xGET",
+    "decimals": 18
   }
 }
