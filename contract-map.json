@@ -4,6 +4,8 @@
     "logo": "ftn.svg",
     "erc20": true,
     "symbol": "FTN",
+    "decimals": 18
+  },
   "0xBa3335588D9403515223F109EdC4eB7269a9Ab5D": {
     "name": "Gearbox",
     "logo": "gear.svg",
