@@ -1,4 +1,11 @@
 {
+  "0xaeDf386B755465871fF874E3E37Af5976E247064": {
+    "name": "Fasttoken",
+    "logo": "ftn.svg",
+    "erc20": true,
+    "symbol": "FTN",
+    "decimals": 18
+  },
   "0xBa3335588D9403515223F109EdC4eB7269a9Ab5D": {
     "name": "Gearbox",
     "logo": "gear.svg",
@@ -4264,6 +4271,14 @@
     "logo": "xGET.svg",
     "erc20": true,
     "symbol": "xGET",
+    "decimals": 18
+  },
+  "0x65514b352d1d4a17DE97f95C7faB177C625Bd6ff": {
+    "name": "KIBBLE Token",
+    "logo": "kibble.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "KBLE",
     "decimals": 18
   }
 }
