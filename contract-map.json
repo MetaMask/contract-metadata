@@ -1,4 +1,11 @@
 {
+  "0x0eDe75B5f548E0D37F494368F4FA4982b6d0630a": {
+    "name": "Meg4minttoken",
+    "logo": "MEG.svg",
+    "erc20": true,
+    "symbol": "MEG",
+    "decimals": 18
+  },
   "0xaeDf386B755465871fF874E3E37Af5976E247064": {
     "name": "Fasttoken",
     "logo": "ftn.svg",
