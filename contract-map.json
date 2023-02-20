@@ -4280,5 +4280,13 @@
     "erc721": false,
     "symbol": "KBLE",
     "decimals": 18
+  },
+  "0xd9Fcd98c322942075A5C3860693e9f4f03AAE07b": {
+    "name": "Euler",
+    "logo": "eul.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "EUL",
+    "decimals": 18
   }
 }
