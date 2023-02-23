@@ -289,6 +289,13 @@
     "erc20": true,
     "symbol": "ERN",
     "decimals": 18
+  },  
+  "0x243cACb4D5fF6814AD668C3e225246efA886AD5a": {
+    "name": "Shina Inu",
+    "logo": "shina.svg",
+    "erc20": true,
+    "symbol": "SHI",
+    "decimals": 18
   },
   "0xD057B63f5E69CF1B929b356b579Cba08D7688048": {
     "name": "CoW Protocol Virtual Token",
