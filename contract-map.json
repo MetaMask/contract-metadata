@@ -4288,5 +4288,13 @@
     "erc721": false,
     "symbol": "EUL",
     "decimals": 18
+  },
+  "0x8B21e9b7dAF2c4325bf3D18c1BeB79A347fE902A": {
+    "name": "Collab.Land",
+    "logo": "COLLAB.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "COLLAB",
+    "decimals": 18
   }
 }
