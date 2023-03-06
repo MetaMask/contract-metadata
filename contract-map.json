@@ -6,6 +6,13 @@
     "symbol": "FTN",
     "decimals": 18
   },
+  "0x7BEF710a5759d197EC0Bf621c3Df802C2D60D848": {
+    "name": "SHOPX",
+    "logo": "SHOPX.svg",
+    "erc20": true,
+    "symbol": "SHOPX",
+    "decimals": 18
+  },
   "0xBa3335588D9403515223F109EdC4eB7269a9Ab5D": {
     "name": "Gearbox",
     "logo": "gear.svg",
@@ -289,7 +296,7 @@
     "erc20": true,
     "symbol": "ERN",
     "decimals": 18
-  },  
+  },
   "0x243cACb4D5fF6814AD668C3e225246efA886AD5a": {
     "name": "Shina Inu",
     "logo": "shina.svg",
