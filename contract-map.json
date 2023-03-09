@@ -297,6 +297,13 @@
     "symbol": "SHI",
     "decimals": 18
   },
+  "0x530824DA86689C9C17CdC2871Ff29B058345b44a": {
+    "name": "Short-term Treasury Bill Token",
+    "logo": "STBT.svg",
+    "erc20": true,
+    "symbol": "STBT",
+    "decimals": 18
+  },
   "0xD057B63f5E69CF1B929b356b579Cba08D7688048": {
     "name": "CoW Protocol Virtual Token",
     "logo": "vCOW.svg",
