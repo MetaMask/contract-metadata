@@ -64,6 +64,14 @@
     "symbol": "GPO",
     "decimals": 16
   },
+  "0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E": {
+    "name": "Illuvium",
+    "logo": "illuvium.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "ILV",
+    "decimals": 18
+  },
   "0x85F17Cf997934a597031b2E18a9aB6ebD4B9f6a4": {
     "name": "NEAR",
     "logo": "NEAR.svg",
