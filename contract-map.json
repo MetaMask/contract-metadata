@@ -4295,5 +4295,12 @@
     "erc721": false,
     "symbol": "EUL",
     "decimals": 18
+  },
+  "0x777fD20c983d6658c1D50b3958B3A1733d1cd1E1": {
+    "name": "PUBLISH",
+    "logo": "publish.svg",
+    "erc20": true,
+    "symbol": "NEWS",
+    "decimals": 9
   }
 }
