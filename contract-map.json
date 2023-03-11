@@ -4317,5 +4317,12 @@
     "erc20": true,
     "symbol": "NEWS",
     "decimals": 9
+  },
+  "0x19062190B1925b5b6689D7073fDfC8c2976EF8Cb": {
+    "name": "Swarm",
+    "logo": "ethswarm.svg",
+    "erc20": true,
+    "symbol": "BZZ",
+    "decimals": 16
   }
 }
