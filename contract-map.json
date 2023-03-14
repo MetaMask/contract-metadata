@@ -1,4 +1,11 @@
 {
+  "0x71B223c6387c48CFeB1756C0919401Bf2c30EACe": {
+    "name": "Tipboxcoin",
+    "logo": "tpbx.svg",
+    "erc20": true,
+    "symbol": "TPBX",
+    "decimals": 18
+  },
   "0xaeDf386B755465871fF874E3E37Af5976E247064": {
     "name": "Fasttoken",
     "logo": "ftn.svg",
