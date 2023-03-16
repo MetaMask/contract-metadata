@@ -4,7 +4,22 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
+## [2.3.0]
+### Added
+- Add Ethereum Swarm ([#1166](https://github.com/MetaMask/contract-metadata/pull/1166))
+- Add Illuvium token ([#1164](https://github.com/MetaMask/contract-metadata/pull/1164))
+- Add PUBLISH Token ([#1163](https://github.com/MetaMask/contract-metadata/pull/1163))
+- Add Shina Inu (SHI) token and logo ([#1033](https://github.com/MetaMask/contract-metadata/pull/1033))
+- Add EUL token ([#1154](https://github.com/MetaMask/contract-metadata/pull/1154))
+- Add LAMB icon and info ([#1153](https://github.com/MetaMask/contract-metadata/pull/1153))
+- Add kibble token ([#1150](https://github.com/MetaMask/contract-metadata/pull/1150))
+- Add Fasttoken ([#1129](https://github.com/MetaMask/contract-metadata/pull/1129))
+- add perion credits ([#1149](https://github.com/MetaMask/contract-metadata/pull/1149))
+- Add Gearbox Protocol (GEAR) ([#1145](https://github.com/MetaMask/contract-metadata/pull/1145))
+
+### Changed
+- Update BZR.svg ([#1168](https://github.com/MetaMask/contract-metadata/pull/1168))
+- Update CoW Protocol Tokens Logos ([#1148](https://github.com/MetaMask/contract-metadata/pull/1148))
 
 ## [2.2.0]
 ### Added
@@ -73,7 +88,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Adding top nfts contracts on opensea by floor price ([#1052](https://github.com/MetaMask/contract-metadata/pull/1052))
 - New release ([#1045](https://github.com/MetaMask/contract-metadata/pull/1045))
 
-[Unreleased]: https://github.com/MetaMask/contract-metadata/compare/v2.2.0...HEAD
+[Unreleased]: https://github.com/MetaMask/contract-metadata/compare/v2.3.0...HEAD
+[2.3.0]: https://github.com/MetaMask/contract-metadata/compare/v2.2.0...v2.3.0
 [2.2.0]: https://github.com/MetaMask/contract-metadata/compare/v2.1.0...v2.2.0
 [2.1.0]: https://github.com/MetaMask/contract-metadata/compare/v2.0.0...v2.1.0
 [2.0.0]: https://github.com/MetaMask/contract-metadata/compare/v1.36.0...v2.0.0
