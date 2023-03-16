@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ## [2.3.1]
+### Changed
+- This release fixes an error that prevented the publishing of v2.3.0. No functional changes.
+
+## [2.3.0]
 ### Added
 - Add Ethereum Swarm ([#1166](https://github.com/MetaMask/contract-metadata/pull/1166))
 - Add Illuvium token ([#1164](https://github.com/MetaMask/contract-metadata/pull/1164))
