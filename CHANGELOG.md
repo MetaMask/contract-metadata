@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.3.1]
+### Uncategorized
+- Release/2.3.0 ([#1172](https://github.com/MetaMask/contract-metadata/pull/1172))
+- Release/2.3.0 ([#1171](https://github.com/MetaMask/contract-metadata/pull/1171))
+- Release/2.3.0 ([#1170](https://github.com/MetaMask/contract-metadata/pull/1170))
+- 2.3.0 ([#1169](https://github.com/MetaMask/contract-metadata/pull/1169))
+
 ## [2.3.0]
 ### Added
 - Add Ethereum Swarm ([#1166](https://github.com/MetaMask/contract-metadata/pull/1166))
@@ -90,7 +97,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Adding top nfts contracts on opensea by floor price ([#1052](https://github.com/MetaMask/contract-metadata/pull/1052))
 - New release ([#1045](https://github.com/MetaMask/contract-metadata/pull/1045))
 
-[Unreleased]: https://github.com/MetaMask/contract-metadata/compare/v2.3.0...HEAD
+[Unreleased]: https://github.com/MetaMask/contract-metadata/compare/v2.3.1...HEAD
+[2.3.1]: https://github.com/MetaMask/contract-metadata/compare/v2.3.0...v2.3.1
 [2.3.0]: https://github.com/MetaMask/contract-metadata/compare/v2.2.0...v2.3.0
 [2.2.0]: https://github.com/MetaMask/contract-metadata/compare/v2.1.0...v2.2.0
 [2.1.0]: https://github.com/MetaMask/contract-metadata/compare/v2.0.0...v2.1.0
