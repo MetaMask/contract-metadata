@@ -21,6 +21,23 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update BZR.svg ([#1168](https://github.com/MetaMask/contract-metadata/pull/1168))
 - Update CoW Protocol Tokens Logos ([#1148](https://github.com/MetaMask/contract-metadata/pull/1148))
 
+## [2.3.0]
+### Added
+- Add Ethereum Swarm ([#1166](https://github.com/MetaMask/contract-metadata/pull/1166))
+- Add Illuvium token ([#1164](https://github.com/MetaMask/contract-metadata/pull/1164))
+- Add PUBLISH Token ([#1163](https://github.com/MetaMask/contract-metadata/pull/1163))
+- Add Shina Inu (SHI) token and logo ([#1033](https://github.com/MetaMask/contract-metadata/pull/1033))
+- Add EUL token ([#1154](https://github.com/MetaMask/contract-metadata/pull/1154))
+- Add LAMB icon and info ([#1153](https://github.com/MetaMask/contract-metadata/pull/1153))
+- Add kibble token ([#1150](https://github.com/MetaMask/contract-metadata/pull/1150))
+- Add Fasttoken ([#1129](https://github.com/MetaMask/contract-metadata/pull/1129))
+- add perion credits ([#1149](https://github.com/MetaMask/contract-metadata/pull/1149))
+- Add Gearbox Protocol (GEAR) ([#1145](https://github.com/MetaMask/contract-metadata/pull/1145))
+
+### Changed
+- Update BZR.svg ([#1168](https://github.com/MetaMask/contract-metadata/pull/1168))
+- Update CoW Protocol Tokens Logos ([#1148](https://github.com/MetaMask/contract-metadata/pull/1148))
+
 ## [2.2.0]
 ### Added
 - Add METAOASIS Token ([#1139](https://github.com/MetaMask/contract-metadata/pull/1139))
