@@ -69,7 +69,7 @@
     "logo": "GPO.svg",
     "erc20": true,
     "symbol": "GPO",
-    "decimals": 16
+    "decimals": 18
   },
   "0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E": {
     "name": "Illuvium",
@@ -4142,7 +4142,7 @@
     "logo": "QuidIka.svg",
     "erc20": true,
     "symbol": "QUID",
-    "decimals": 18
+    "decimals": 9
   },
   "0xD3c625F54dec647DB8780dBBe0E880eF21BA4329": {
     "name": "HollaEx Token",
