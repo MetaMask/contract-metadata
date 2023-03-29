@@ -1,9 +1,23 @@
-  },
+{
   "0xaE0585a259A3BCAB258D6EE02FB583f7B33C2a12": {
-    "name": "TemDAO",
+    "name": "TempleCoin",
     "logo": "TempleCoin.svg",
     "erc20": true,
     "symbol": "TEM",
+    "decimals": 18
+  },
+  "0xaeDf386B755465871fF874E3E37Af5976E247064": {
+    "name": "Fasttoken",
+    "logo": "ftn.svg",
+    "erc20": true,
+    "symbol": "FTN",
+    "decimals": 18
+  },
+  "0x7BEF710a5759d197EC0Bf621c3Df802C2D60D848": {
+    "name": "SHOPX",
+    "logo": "SHOPX.svg",
+    "erc20": true,
+    "symbol": "SHOPX",
     "decimals": 18
   },
   "0xBa3335588D9403515223F109EdC4eB7269a9Ab5D": {
@@ -62,7 +76,15 @@
     "logo": "GPO.svg",
     "erc20": true,
     "symbol": "GPO",
-    "decimals": 16
+    "decimals": 18
+  },
+  "0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E": {
+    "name": "Illuvium",
+    "logo": "illuvium.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "ILV",
+    "decimals": 18
   },
   "0x85F17Cf997934a597031b2E18a9aB6ebD4B9f6a4": {
     "name": "NEAR",
@@ -288,6 +310,13 @@
     "logo": "ERN.svg",
     "erc20": true,
     "symbol": "ERN",
+    "decimals": 18
+  },  
+  "0x243cACb4D5fF6814AD668C3e225246efA886AD5a": {
+    "name": "Shina Inu",
+    "logo": "shina.svg",
+    "erc20": true,
+    "symbol": "SHI",
     "decimals": 18
   },
   "0xD057B63f5E69CF1B929b356b579Cba08D7688048": {
@@ -4120,7 +4149,7 @@
     "logo": "QuidIka.svg",
     "erc20": true,
     "symbol": "QUID",
-    "decimals": 18
+    "decimals": 9
   },
   "0xD3c625F54dec647DB8780dBBe0E880eF21BA4329": {
     "name": "HollaEx Token",
@@ -4258,5 +4287,49 @@
     "erc20": true,
     "symbol": "DYDX",
     "decimals": 18
+  },
+  "0x60bE1e1fE41c1370ADaF5d8e66f07Cf1C2Df2268": {
+    "name": "Perion Credits",
+    "logo": "perc.svg",
+    "erc20": true,
+    "symbol": "PERC",
+    "decimals": 18
+  },
+   "0x8971f9fd7196e5cEE2C1032B50F656855af7Dd26": {
+    "name": "Lambda",
+    "logo": "LAMB.svg",
+    "erc20": true,
+    "symbol": "LAMB",
+    "decimals": 18
+  },
+  "0x65514b352d1d4a17DE97f95C7faB177C625Bd6ff": {
+    "name": "KIBBLE Token",
+    "logo": "kibble.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "KBLE",
+    "decimals": 18
+  },
+  "0xd9Fcd98c322942075A5C3860693e9f4f03AAE07b": {
+    "name": "Euler",
+    "logo": "eul.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "EUL",
+    "decimals": 18
+  },
+  "0x777fD20c983d6658c1D50b3958B3A1733d1cd1E1": {
+    "name": "PUBLISH",
+    "logo": "publish.svg",
+    "erc20": true,
+    "symbol": "NEWS",
+    "decimals": 9
+  },
+  "0x19062190B1925b5b6689D7073fDfC8c2976EF8Cb": {
+    "name": "Swarm",
+    "logo": "ethswarm.svg",
+    "erc20": true,
+    "symbol": "BZZ",
+    "decimals": 16
   }
 }
