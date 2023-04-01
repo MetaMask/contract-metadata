@@ -6,6 +6,13 @@
     "symbol": "GENIE",
     "decimals": 18
   },
+  "0xaE0585a259A3BCAB258D6EE02FB583f7B33C2a12": {
+    "name": "TempleCoin",
+    "logo": "tem.svg",
+    "erc20": true,
+    "symbol": "TEM",
+    "decimals": 18
+  },
   "0xaeDf386B755465871fF874E3E37Af5976E247064": {
     "name": "Fasttoken",
     "logo": "ftn.svg",
