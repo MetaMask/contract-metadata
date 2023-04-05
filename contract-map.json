@@ -1,4 +1,11 @@
 {
+  "0x09E6d500D14D13e0528d2c0fff24E5ffF68237B4": {
+    "name": "Dohrnii",
+    "logo": "dhn.svg",
+    "erc20": true,
+    "symbol": "DHN",
+    "decimals": 18
+  },
   "0xaE0585a259A3BCAB258D6EE02FB583f7B33C2a12": {
     "name": "TempleCoin",
     "logo": "tem.svg",
