@@ -4053,6 +4053,13 @@
     "symbol": "PDOG",
     "decimals": 18
   },
+  "0x07c52c2537D84e532a9F15d32E152C8B94D2b232": {
+    "name": "ZkTube",
+    "logo": "ZKT.svg",
+    "erc20": true,
+    "symbol": "ZKT",
+    "decimals": 18
+  },
   "0xF4d861575ecC9493420A3f5a14F85B13f0b50EB3": {
     "name": "Fractal Protocol",
     "logo": "fractal.svg",
