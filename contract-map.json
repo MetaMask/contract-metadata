@@ -3,7 +3,27 @@
     "name": "MMRL Loyalty Token",
     "logo": "MMRL.svg",
     "erc20": true,
-    "symbol": "MMRL",
+    "symbol": "MMRL"
+  },
+  "0x665F77fbA5975ab40Ce61c90F28007fb5b09D7B1": {
+    "name": "Genieswap",
+    "logo": "Genieswap.svg",
+    "erc20": true,
+    "symbol": "GENIE",
+    "decimals": 18
+  },
+  "0x09E6d500D14D13e0528d2c0fff24E5ffF68237B4": {
+    "name": "Dohrnii",
+    "logo": "dhn.svg",
+    "erc20": true,
+    "symbol": "DHN",
+    "decimals": 18
+  },
+  "0xaE0585a259A3BCAB258D6EE02FB583f7B33C2a12": {
+    "name": "TempleCoin",
+    "logo": "tem.svg",
+    "erc20": true,
+    "symbol": "TEM",
     "decimals": 18
   },
   "0xaeDf386B755465871fF874E3E37Af5976E247064": {
@@ -11,6 +31,13 @@
     "logo": "ftn.svg",
     "erc20": true,
     "symbol": "FTN",
+    "decimals": 18
+  },
+  "0x7BEF710a5759d197EC0Bf621c3Df802C2D60D848": {
+    "name": "SHOPX",
+    "logo": "SHOPX.svg",
+    "erc20": true,
+    "symbol": "SHOPX",
     "decimals": 18
   },
   "0xBa3335588D9403515223F109EdC4eB7269a9Ab5D": {
@@ -69,7 +96,7 @@
     "logo": "GPO.svg",
     "erc20": true,
     "symbol": "GPO",
-    "decimals": 16
+    "decimals": 18
   },
   "0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E": {
     "name": "Illuvium",
@@ -4046,6 +4073,13 @@
     "symbol": "PDOG",
     "decimals": 18
   },
+  "0x07c52c2537D84e532a9F15d32E152C8B94D2b232": {
+    "name": "ZkTube",
+    "logo": "ZKT.svg",
+    "erc20": true,
+    "symbol": "ZKT",
+    "decimals": 18
+  },
   "0xF4d861575ecC9493420A3f5a14F85B13f0b50EB3": {
     "name": "Fractal Protocol",
     "logo": "fractal.svg",
@@ -4142,7 +4176,7 @@
     "logo": "QuidIka.svg",
     "erc20": true,
     "symbol": "QUID",
-    "decimals": 18
+    "decimals": 9
   },
   "0xD3c625F54dec647DB8780dBBe0E880eF21BA4329": {
     "name": "HollaEx Token",
