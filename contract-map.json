@@ -6,6 +6,13 @@
     "symbol": "GENIE",
     "decimals": 18
   },
+  "0x09E6d500D14D13e0528d2c0fff24E5ffF68237B4": {
+    "name": "Dohrnii",
+    "logo": "dhn.svg",
+    "erc20": true,
+    "symbol": "DHN",
+    "decimals": 18
+  },
   "0xaE0585a259A3BCAB258D6EE02FB583f7B33C2a12": {
     "name": "TempleCoin",
     "logo": "tem.svg",
@@ -4058,6 +4065,13 @@
     "logo": "polkadog.svg",
     "erc20": true,
     "symbol": "PDOG",
+    "decimals": 18
+  },
+  "0x07c52c2537D84e532a9F15d32E152C8B94D2b232": {
+    "name": "ZkTube",
+    "logo": "ZKT.svg",
+    "erc20": true,
+    "symbol": "ZKT",
     "decimals": 18
   },
   "0xF4d861575ecC9493420A3f5a14F85B13f0b50EB3": {
