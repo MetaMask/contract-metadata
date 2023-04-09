@@ -4352,5 +4352,12 @@
     "erc20": true,
     "symbol": "BZZ",
     "decimals": 16
-  }
+  },
+  "0x19062190B1925b5b6689D7073fDfC8c2976EF8Cb": {
+    "name": "Real World Asset",
+    "logo": "rwa.svg",
+    "erc20": true,
+    "symbol": "RWA",
+    "decimals": 18
+  }  
 }
