@@ -3061,6 +3061,13 @@
     "symbol": "OUSD",
     "decimals": 18
   },
+  "0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3": {
+    "name": "Origin Ether",
+    "logo": "oeth.svg",
+    "erc20": true,
+    "symbol": "OETH",
+    "decimals": 18
+  },
   "0x9c354503C38481a7A7a51629142963F98eCC12D0": {
     "name": "Origin Dollar Governance",
     "logo": "ogv.svg",
