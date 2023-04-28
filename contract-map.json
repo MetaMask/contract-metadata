@@ -4352,5 +4352,12 @@
     "erc20": true,
     "symbol": "BZZ",
     "decimals": 16
+  },
+  "0xf1706c93319bba76c0c7736c01067c2cb72d8c4b": {
+    "name": "LiteCORE",
+    "logo": "lcore_logo.svg",
+    "erc20": true,
+    "symbol": "LCORE",
+    "decimals": 18
   }
 }
