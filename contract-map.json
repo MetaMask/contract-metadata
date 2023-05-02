@@ -4,7 +4,7 @@
     "logo": "axelar.svg",
     "erc20": true,
     "symbol": "AXL",
-    "decimals": 18
+    "decimals": 6
   },
   "0x665F77fbA5975ab40Ce61c90F28007fb5b09D7B1": {
     "name": "Genieswap",
