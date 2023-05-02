@@ -1,4 +1,11 @@
 {
+  "0x467719aD09025FcC6cF6F8311755809d45a5E5f3": {
+    "name": "Axelar",
+    "logo": "axelar.svg",
+    "erc20": true,
+    "symbol": "AXL",
+    "decimals": 18
+  },
   "0x665F77fbA5975ab40Ce61c90F28007fb5b09D7B1": {
     "name": "Genieswap",
     "logo": "Genieswap.svg",
@@ -325,7 +332,7 @@
     "erc20": true,
     "symbol": "ERN",
     "decimals": 18
-  },  
+  },
   "0x243cACb4D5fF6814AD668C3e225246efA886AD5a": {
     "name": "Shina Inu",
     "logo": "shina.svg",
