@@ -4330,7 +4330,7 @@
     "symbol": "PERC",
     "decimals": 18
   },
-   "0x8971f9fd7196e5cEE2C1032B50F656855af7Dd26": {
+  "0x8971f9fd7196e5cEE2C1032B50F656855af7Dd26": {
     "name": "Lambda",
     "logo": "LAMB.svg",
     "erc20": true,
@@ -4366,5 +4366,12 @@
     "erc20": true,
     "symbol": "BZZ",
     "decimals": 16
+  },
+  "0xD8E163967FED76806Df0097B704bA721B9b37656": {
+    "name": "Cope",
+    "logo": "cope.png",
+    "erc20": true,
+    "symbol": "COPE",
+    "decimals": 18
   }
 }
