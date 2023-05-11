@@ -1,4 +1,5 @@
 {
+
 "0x5662ac531A2737C3dB8901E982B43327a2fDe2ae":{
   "name":"Cairofinance",
   "logo":"Cairofinance.svg",
@@ -6,6 +7,15 @@
   "symbol":"CAF",
   "decimals":18
 },
+
+  "0x467719aD09025FcC6cF6F8311755809d45a5E5f3": {
+    "name": "Axelar",
+    "logo": "axelar.svg",
+    "erc20": true,
+    "symbol": "AXL",
+    "decimals": 6
+  },
+
   "0x665F77fbA5975ab40Ce61c90F28007fb5b09D7B1": {
     "name": "Genieswap",
     "logo": "Genieswap.svg",
@@ -332,7 +342,7 @@
     "erc20": true,
     "symbol": "ERN",
     "decimals": 18
-  },  
+  },
   "0x243cACb4D5fF6814AD668C3e225246efA886AD5a": {
     "name": "Shina Inu",
     "logo": "shina.svg",
@@ -3068,15 +3078,22 @@
     "symbol": "OUSD",
     "decimals": 18
   },
+  "0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3": {
+    "name": "Origin Ether",
+    "logo": "oeth.svg",
+    "erc20": true,
+    "symbol": "OETH",
+    "decimals": 18
+  },
   "0x9c354503C38481a7A7a51629142963F98eCC12D0": {
-    "name": "Origin Dollar Governance",
+    "name": "Origin DeFi Governance",
     "logo": "ogv.svg",
     "erc20": true,
     "symbol": "OGV",
     "decimals": 18
   },
   "0x0C4576Ca1c365868E162554AF8e385dc3e7C66D9": {
-    "name": "Vote Escrowed Origin Dollar Governance",
+    "name": "Vote Escrowed Origin DeFi Governance",
     "logo": "veogv.svg",
     "erc20": true,
     "symbol": "veOGV",
