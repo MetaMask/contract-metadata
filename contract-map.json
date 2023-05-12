@@ -4366,5 +4366,12 @@
     "erc20": true,
     "symbol": "BZZ",
     "decimals": 16
+  },
+  "0xde16Ce60804a881e9F8c4eBB3824646EDecd478D": {
+    "name": "MagicCraft",
+    "logo": "magiccraft.svg",
+    "erc20": true,
+    "symbol": "MCRT",
+    "decimals": 9
   }
 }
