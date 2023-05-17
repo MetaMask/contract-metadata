@@ -1,3 +1,15 @@
+
+{
+
+"0x5662ac531A2737C3dB8901E982B43327a2fDe2ae":{
+  "name":"Cairofinance",
+  "logo":"Cairofinance.svg",
+  "erc20":true,
+  "symbol":"CAF",
+  "decimals":18
+},
+
+
 {  
   "0xCEBA2a8F6Ec221AEB5f3a7bcd15Cbc7e6a387bfb": {
   "name": "Peter Pan",
@@ -6,6 +18,7 @@
   "symbol": "PAN",
   "decimals": 18
 },
+
   "0x467719aD09025FcC6cF6F8311755809d45a5E5f3": {
     "name": "Axelar",
     "logo": "axelar.svg",
@@ -13,6 +26,7 @@
     "symbol": "AXL",
     "decimals": 6
   },
+
   "0x665F77fbA5975ab40Ce61c90F28007fb5b09D7B1": {
     "name": "Genieswap",
     "logo": "Genieswap.svg",
