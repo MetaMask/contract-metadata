@@ -4381,6 +4381,13 @@
     "symbol": "MCRT",
     "decimals": 9
   },
+  "0x7163436b8EfFfB469F6BB81cc908b1661d4795e6": {
+    "name": "Esco coin",
+    "logo": "escocoin.svg",
+    "erc20": true,
+    "symbol": "ESCO",
+    "decimals": 18
+  },
   "0xD8E163967FED76806Df0097B704bA721B9b37656": {
     "name": "Cope",
     "logo": "cope.svg",
