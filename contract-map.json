@@ -1,11 +1,18 @@
-{  
+{ 
+  "0x99cFB8cBA9c821B4a343c6a1Fc630465C9708DF5": {
+    "name": "Pepe Inu",
+    "logo": "PepeInu.svg",
+    "erc20": true,
+    "symbol": "$PEPEINU",
+    "decimals": 18
+  }, 
   "0xCEBA2a8F6Ec221AEB5f3a7bcd15Cbc7e6a387bfb": {
   "name": "Peter Pan",
   "logo": "PeterPan.svg",
   "erc20": true,
   "symbol": "PAN",
   "decimals": 18
-},
+  },
   "0x467719aD09025FcC6cF6F8311755809d45a5E5f3": {
     "name": "Axelar",
     "logo": "axelar.svg",
