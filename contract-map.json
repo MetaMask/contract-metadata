@@ -4404,7 +4404,7 @@
   },
   "0xB2D271455A5011f3c39d179a77E9678EE4E1A1f8" : {
     "name" : "Wani",
-     "logo": "wani.svg",
+     "logo": "wanicoin.svg",
     "erc20": true,
     "symbol": "WANI",
     "decimals": 18
