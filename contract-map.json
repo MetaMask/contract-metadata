@@ -4401,5 +4401,12 @@
     "erc20": true,
     "symbol": "COPE",
     "decimals": 18
+  },
+  "0xB2D271455A5011f3c39d179a77E9678EE4E1A1f8" : {
+    "name" : "Wani",
+     "logo": "wani.svg",
+    "erc20": true,
+    "symbol": "WANI",
+    "decimals": 18
   }
 }
