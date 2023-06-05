@@ -1,4 +1,25 @@
-{
+{ 
+  "0x99cFB8cBA9c821B4a343c6a1Fc630465C9708DF5": {
+    "name": "Pepe Inu",
+    "logo": "PepeInu.svg",
+    "erc20": true,
+    "symbol": "$PEPEINU",
+    "decimals": 18
+  }, 
+  "0xCEBA2a8F6Ec221AEB5f3a7bcd15Cbc7e6a387bfb": {
+  "name": "Peter Pan",
+  "logo": "PeterPan.svg",
+  "erc20": true,
+  "symbol": "PAN",
+  "decimals": 18
+  },
+  "0x467719aD09025FcC6cF6F8311755809d45a5E5f3": {
+    "name": "Axelar",
+    "logo": "axelar.svg",
+    "erc20": true,
+    "symbol": "AXL",
+    "decimals": 6
+  },
   "0x665F77fbA5975ab40Ce61c90F28007fb5b09D7B1": {
     "name": "Genieswap",
     "logo": "Genieswap.svg",
@@ -325,7 +346,7 @@
     "erc20": true,
     "symbol": "ERN",
     "decimals": 18
-  },  
+  },
   "0x243cACb4D5fF6814AD668C3e225246efA886AD5a": {
     "name": "Shina Inu",
     "logo": "shina.svg",
@@ -3061,15 +3082,22 @@
     "symbol": "OUSD",
     "decimals": 18
   },
+  "0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3": {
+    "name": "Origin Ether",
+    "logo": "oeth.svg",
+    "erc20": true,
+    "symbol": "OETH",
+    "decimals": 18
+  },
   "0x9c354503C38481a7A7a51629142963F98eCC12D0": {
-    "name": "Origin Dollar Governance",
+    "name": "Origin DeFi Governance",
     "logo": "ogv.svg",
     "erc20": true,
     "symbol": "OGV",
     "decimals": 18
   },
   "0x0C4576Ca1c365868E162554AF8e385dc3e7C66D9": {
-    "name": "Vote Escrowed Origin Dollar Governance",
+    "name": "Vote Escrowed Origin DeFi Governance",
     "logo": "veogv.svg",
     "erc20": true,
     "symbol": "veOGV",
@@ -4316,7 +4344,7 @@
     "symbol": "PERC",
     "decimals": 18
   },
-   "0x8971f9fd7196e5cEE2C1032B50F656855af7Dd26": {
+  "0x8971f9fd7196e5cEE2C1032B50F656855af7Dd26": {
     "name": "Lambda",
     "logo": "LAMB.svg",
     "erc20": true,
@@ -4359,5 +4387,26 @@
     "erc20": true,
     "symbol": "RWA",
     "decimals": 18
-  }  
+  },
+  "0xde16Ce60804a881e9F8c4eBB3824646EDecd478D": {
+    "name": "MagicCraft",
+    "logo": "magiccraft.svg",
+    "erc20": true,
+    "symbol": "MCRT",
+    "decimals": 9
+  },
+  "0x7163436b8EfFfB469F6BB81cc908b1661d4795e6": {
+    "name": "Esco coin",
+    "logo": "escocoin.svg",
+    "erc20": true,
+    "symbol": "ESCO",
+    "decimals": 18
+  },
+  "0xD8E163967FED76806Df0097B704bA721B9b37656": {
+    "name": "Cope",
+    "logo": "cope.svg",
+    "erc20": true,
+    "symbol": "COPE",
+    "decimals": 18
+  }
 }
