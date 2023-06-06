@@ -4381,6 +4381,13 @@
     "symbol": "BZZ",
     "decimals": 16
   },
+  "0x6aA030a9710CAD6E719A4EC0a85260Eb3F4F86c1": {
+    "name": "Real World Asset",
+    "logo": "rwa.svg",
+    "erc20": true,
+    "symbol": "RWA",
+    "decimals": 18
+  },
   "0xde16Ce60804a881e9F8c4eBB3824646EDecd478D": {
     "name": "MagicCraft",
     "logo": "magiccraft.svg",
