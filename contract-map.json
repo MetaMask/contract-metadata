@@ -1,4 +1,11 @@
 { 
+  "0xC7a2572fA8FDB0f7E81d6D3c4e3CCF78FB0DC374": {
+    "name": "Bens Finale",
+    "logo": "BensFinale.svg",
+    "erc20": true,
+    "symbol": "FINALE",
+    "decimals": 18
+  },
   "0x99cFB8cBA9c821B4a343c6a1Fc630465C9708DF5": {
     "name": "Pepe Inu",
     "logo": "PepeInu.svg",
