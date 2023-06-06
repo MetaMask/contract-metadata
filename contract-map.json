@@ -1,4 +1,11 @@
 { 
+  "0x8b385Ca3592A5EFc34E0C9fE663de56897F1751F": {
+    "name": "INFibit",
+    "logo": "INFibit.svg",
+    "erc20": true,
+    "symbol": "IBIT",
+    "decimals": 18
+  },
   "0xC7a2572fA8FDB0f7E81d6D3c4e3CCF78FB0DC374": {
     "name": "Bens Finale",
     "logo": "BensFinale.svg",
