@@ -4422,5 +4422,12 @@
     "erc20": true,
     "symbol": "COPE",
     "decimals": 18
+  },
+  "0x0A10bc202A937875eC3c81FBD737DC2b4a6d7995": {
+    "name": "Pancho",
+    "logo": "pancho.svg",
+    "erc20": true,
+    "symbol": "PANCHO",
+    "decimals": 18
   }
 }
