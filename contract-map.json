@@ -6,6 +6,13 @@
     "symbol": "IBIT",
     "decimals": 18
   },
+    "0x9bf1D7D63dD7a4ce167CF4866388226EEefa702E": {
+    "name": "Ben Coin",
+    "logo": "BEN.svg",
+    "erc20": true,
+    "symbol": "BEN",
+    "decimals": 18
+  },
   "0xC7a2572fA8FDB0f7E81d6D3c4e3CCF78FB0DC374": {
     "name": "Bens Finale",
     "logo": "BensFinale.svg",
