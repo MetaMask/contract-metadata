@@ -3889,6 +3889,13 @@
     "symbol": "PRT",
     "decimals": 18
   },
+  "0xcc7ab8d78dBA187dC95bF3bB86e65E0C26d0041f": {
+    "name": "3SPACE ART",
+    "logo": "3SPACE.svg",
+    "erc20": true,
+    "symbol": "PACE",
+    "decimals": 18
+  },
   "0x3845badAde8e6dFF049820680d1F14bD3903a5d0": {
     "name": "SAND",
     "logo": "SAND.svg",
