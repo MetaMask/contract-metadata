@@ -1,4 +1,67 @@
-{
+{ 
+  "0x8b385Ca3592A5EFc34E0C9fE663de56897F1751F": {
+    "name": "INFibit",
+    "logo": "INFibit.svg",
+    "erc20": true,
+    "symbol": "IBIT",
+    "decimals": 18
+  },
+    "0x9bf1D7D63dD7a4ce167CF4866388226EEefa702E": {
+    "name": "Ben Coin",
+    "logo": "BEN.svg",
+    "erc20": true,
+    "symbol": "BEN",
+    "decimals": 18
+  },
+  "0xC7a2572fA8FDB0f7E81d6D3c4e3CCF78FB0DC374": {
+    "name": "Bens Finale",
+    "logo": "BensFinale.svg",
+    "erc20": true,
+    "symbol": "FINALE",
+    "decimals": 18
+  },
+  "0x99cFB8cBA9c821B4a343c6a1Fc630465C9708DF5": {
+    "name": "Pepe Inu",
+    "logo": "PepeInu.svg",
+    "erc20": true,
+    "symbol": "$PEPEINU",
+    "decimals": 18
+  }, 
+  "0xCEBA2a8F6Ec221AEB5f3a7bcd15Cbc7e6a387bfb": {
+  "name": "Peter Pan",
+  "logo": "PeterPan.svg",
+  "erc20": true,
+  "symbol": "PAN",
+  "decimals": 18
+  },
+  "0x467719aD09025FcC6cF6F8311755809d45a5E5f3": {
+    "name": "Axelar",
+    "logo": "axelar.svg",
+    "erc20": true,
+    "symbol": "AXL",
+    "decimals": 6
+  },
+  "0x665F77fbA5975ab40Ce61c90F28007fb5b09D7B1": {
+    "name": "Genieswap",
+    "logo": "Genieswap.svg",
+    "erc20": true,
+    "symbol": "GENIE",
+    "decimals": 18
+  },
+  "0x09E6d500D14D13e0528d2c0fff24E5ffF68237B4": {
+    "name": "Dohrnii",
+    "logo": "dhn.svg",
+    "erc20": true,
+    "symbol": "DHN",
+    "decimals": 18
+  },
+  "0xaE0585a259A3BCAB258D6EE02FB583f7B33C2a12": {
+    "name": "TempleCoin",
+    "logo": "tem.svg",
+    "erc20": true,
+    "symbol": "TEM",
+    "decimals": 18
+  },
   "0xaeDf386B755465871fF874E3E37Af5976E247064": {
     "name": "Fasttoken",
     "logo": "ftn.svg",
@@ -69,7 +132,7 @@
     "logo": "GPO.svg",
     "erc20": true,
     "symbol": "GPO",
-    "decimals": 16
+    "decimals": 18
   },
   "0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E": {
     "name": "Illuvium",
@@ -304,7 +367,7 @@
     "erc20": true,
     "symbol": "ERN",
     "decimals": 18
-  },  
+  },
   "0x243cACb4D5fF6814AD668C3e225246efA886AD5a": {
     "name": "Shina Inu",
     "logo": "shina.svg",
@@ -3040,15 +3103,22 @@
     "symbol": "OUSD",
     "decimals": 18
   },
+  "0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3": {
+    "name": "Origin Ether",
+    "logo": "oeth.svg",
+    "erc20": true,
+    "symbol": "OETH",
+    "decimals": 18
+  },
   "0x9c354503C38481a7A7a51629142963F98eCC12D0": {
-    "name": "Origin Dollar Governance",
+    "name": "Origin DeFi Governance",
     "logo": "ogv.svg",
     "erc20": true,
     "symbol": "OGV",
     "decimals": 18
   },
   "0x0C4576Ca1c365868E162554AF8e385dc3e7C66D9": {
-    "name": "Vote Escrowed Origin Dollar Governance",
+    "name": "Vote Escrowed Origin DeFi Governance",
     "logo": "veogv.svg",
     "erc20": true,
     "symbol": "veOGV",
@@ -3156,7 +3226,7 @@
   },
   "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0": {
     "name": "Matic Network Token",
-    "logo": "matic-network-logo.svg",
+    "logo": "matic.svg",
     "erc20": true,
     "symbol": "MATIC",
     "decimals": 18
@@ -4046,6 +4116,13 @@
     "symbol": "PDOG",
     "decimals": 18
   },
+  "0x07c52c2537D84e532a9F15d32E152C8B94D2b232": {
+    "name": "ZkTube",
+    "logo": "ZKT.svg",
+    "erc20": true,
+    "symbol": "ZKT",
+    "decimals": 18
+  },
   "0xF4d861575ecC9493420A3f5a14F85B13f0b50EB3": {
     "name": "Fractal Protocol",
     "logo": "fractal.svg",
@@ -4142,7 +4219,7 @@
     "logo": "QuidIka.svg",
     "erc20": true,
     "symbol": "QUID",
-    "decimals": 18
+    "decimals": 9
   },
   "0xD3c625F54dec647DB8780dBBe0E880eF21BA4329": {
     "name": "HollaEx Token",
@@ -4288,7 +4365,7 @@
     "symbol": "PERC",
     "decimals": 18
   },
-   "0x8971f9fd7196e5cEE2C1032B50F656855af7Dd26": {
+  "0x8971f9fd7196e5cEE2C1032B50F656855af7Dd26": {
     "name": "Lambda",
     "logo": "LAMB.svg",
     "erc20": true,
@@ -4325,6 +4402,34 @@
     "symbol": "BZZ",
     "decimals": 16
   },
+  "0x6aA030a9710CAD6E719A4EC0a85260Eb3F4F86c1": {
+    "name": "Real World Asset",
+    "logo": "rwa.svg",
+    "erc20": true,
+    "symbol": "RWA",
+    "decimals": 18
+  },
+  "0xde16Ce60804a881e9F8c4eBB3824646EDecd478D": {
+    "name": "MagicCraft",
+    "logo": "magiccraft.svg",
+    "erc20": true,
+    "symbol": "MCRT",
+    "decimals": 9
+  },
+  "0x7163436b8EfFfB469F6BB81cc908b1661d4795e6": {
+    "name": "Esco coin",
+    "logo": "escocoin.svg",
+    "erc20": true,
+    "symbol": "ESCO",
+    "decimals": 18
+  },
+  "0xD8E163967FED76806Df0097B704bA721B9b37656": {
+    "name": "Cope",
+    "logo": "cope.svg",
+    "erc20": true,
+    "symbol": "COPE",
+    "decimals": 18
+  },
   "0x3Fa52142B7836468aEd78753e6325b2aEE7dDafe": {
     "name": "ShieldTokenCoin",
     "logo": "shieldtokencoin.svg",
@@ -4332,5 +4437,4 @@
     "symbol": "0STC",
     "decimals": 18
   }
-  
 }
