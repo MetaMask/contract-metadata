@@ -1,4 +1,18 @@
 { 
+  "0x6d03885B26a71522F9D27235B2a3dAbdb2635912": {
+    "name": "Infected",
+    "logo": "INFC.png",
+    "erc20": true,
+    "symbol": "INFC",
+    "decimals": 18
+  },
+  "0x6D7C761f1Fe326E2A2a76cdB4B109C14354Dbc86": {
+    "name": "Plague",
+    "logo": "PLG.png",
+    "erc20": true,
+    "symbol": "PLG",
+    "decimals": 18
+  },
   "0x8b385Ca3592A5EFc34E0C9fE663de56897F1751F": {
     "name": "INFibit",
     "logo": "INFibit.svg",
