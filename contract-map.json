@@ -4437,6 +4437,13 @@
     "symbol": "ESCO",
     "decimals": 18
   },
+  "0x9625ce7753ace1fa1865a47aae2c5c2ce4418569": {
+    "name": "KAP Games",
+    "logo": "kap-games.svg",
+    "erc20": true,
+    "symbol": "KAP",
+    "decimals": 18
+  },
   "0xD8E163967FED76806Df0097B704bA721B9b37656": {
     "name": "Cope",
     "logo": "cope.svg",
