@@ -7,9 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ## [2.4.0]
-### Uncategorized
+### Changed
 - Adding PayPal USD (PYUSD) ([#1214](https://github.com/MetaMask/contract-metadata/pull/1214))
-- chore(CODEOWNERS): update CODEOWNERS to use engineering instead of devs ([#1211](https://github.com/MetaMask/contract-metadata/pull/1211))
 - Add 3space ([#1202](https://github.com/MetaMask/contract-metadata/pull/1202))
 - Add MATIC logo ([#1200](https://github.com/MetaMask/contract-metadata/pull/1200))
 - Added img and meta for $BEN Coin ([#1198](https://github.com/MetaMask/contract-metadata/pull/1198))
