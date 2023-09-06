@@ -1,4 +1,11 @@
-{ 
+{
+  "0x536381a8628dbcc8c70ac9a30a7258442eab4c92": {
+    "name": "Pantos Token ",
+    "logo": "pantos.svg",
+    "erc20": true,
+    "symbol": "PAN",
+    "decimals": 8
+  },
   "0x6c3ea9036406852006290770BEdFcAbA0e23A0e8": {
     "name": "PayPal USD",
     "logo": "pyusd.svg",
