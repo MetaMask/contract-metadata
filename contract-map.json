@@ -2172,7 +2172,14 @@
     "decimals": 6
   },
   "0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0": {
-    "name": "Loom Network Token",
+    "name": "Loom Token",
+    "logo": "loom.svg",
+    "erc20": true,
+    "symbol": "LOOM",
+    "decimals": 18
+  },
+  "0x42476F744292107e34519F9c357927074Ea3F75D": {
+    "name": "Loom",
     "logo": "loom.svg",
     "erc20": true,
     "symbol": "LOOM",
