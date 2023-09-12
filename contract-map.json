@@ -4457,5 +4457,12 @@
     "erc20": true,
     "symbol": "COPE",
     "decimals": 18
+  },
+  "0x3Fa52142B7836468aEd78753e6325b2aEE7dDafe": {
+    "name": "ShieldTokenCoin",
+    "logo": "shieldtokencoin.svg",
+    "erc20": true,
+    "symbol": "0STC",
+    "decimals": 18
   }
 }
