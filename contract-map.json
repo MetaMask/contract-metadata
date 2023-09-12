@@ -4450,5 +4450,12 @@
     "erc20": true,
     "symbol": "COPE",
     "decimals": 18
+  },
+  "0x083D41d6DD21EE938f0c055CA4fb12268DF0EfaC": {
+    "name": "GogolCoin",
+    "logo": "GOL.svg",
+    "erc20": true,
+    "symbol": "GOL",
+    "decimals": 4
   }
 }
