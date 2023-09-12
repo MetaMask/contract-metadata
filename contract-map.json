@@ -4450,5 +4450,12 @@
     "erc20": true,
     "symbol": "COPE",
     "decimals": 18
+  },
+  "0x8B39B70E39Aa811b69365398e0aACe9bee238AEb": {
+    "name": "PolkaFoundry",
+    "logo": "pkf.svg",
+    "erc20": true,
+    "symbol": "PKF",
+    "decimals": 18
   }
 }
