@@ -4457,5 +4457,12 @@
     "erc20": true,
     "symbol": "COPE",
     "decimals": 18
+  },
+  "0x735D674297A61FeF972aC2de90bCCA41D97e7de2": {
+    "name": "Pharmatech Token",
+    "logo": "PMT.svg",
+    "erc20": true,
+    "symbol": "PMT",
+    "decimals": 18
   }
 }
