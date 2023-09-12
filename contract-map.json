@@ -835,16 +835,16 @@
 
   "0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9": {
     "name": "LUNA Token - Shuttle",
-    "logo": "shuttleLUNA.svg",
+    "logo": "lunc.svg",
     "erc20": true,
-    "symbol": "LUNA-S",
+    "symbol": "LUNC",
     "decimals": 18
   },
   "0xa47c8bf37f92aBed4A126BDA807A7b7498661acD": {
     "name": "UST Token - Shuttle",
-    "logo": "shuttleUST.svg",
+    "logo": "ustc.svg",
     "erc20": true,
-    "symbol": "UST-S",
+    "symbol": "USTC",
     "decimals": 18
   },
   "0xcAAfF72A8CbBfc5Cf343BA4e26f65a257065bFF1": {
