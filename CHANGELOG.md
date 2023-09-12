@@ -6,6 +6,35 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.4.0]
+### Added
+- Add PayPal USD (PYUSD) ([#1214](https://github.com/MetaMask/contract-metadata/pull/1214))
+- Add 3space ([#1202](https://github.com/MetaMask/contract-metadata/pull/1202))
+- Add MATIC logo ([#1200](https://github.com/MetaMask/contract-metadata/pull/1200))
+- Add INFibit Token ([#1197](https://github.com/MetaMask/contract-metadata/pull/1197))
+- Add Bens Finale Token ([#1196](https://github.com/MetaMask/contract-metadata/pull/1196))
+- Add RWA Token ([#1177](https://github.com/MetaMask/contract-metadata/pull/1177))
+- Add PepeInu Token ([#1193](https://github.com/MetaMask/contract-metadata/pull/1193))
+- Add EscoCoin Token (#1190) ([#1190](https://github.com/MetaMask/contract-metadata/pull/1190))
+- Add PeterPan Token Logo ([#1192](https://github.com/MetaMask/contract-metadata/pull/1192))
+- Add Cope Token ([#1189](https://github.com/MetaMask/contract-metadata/pull/1189))
+- Add MagicCraft Token ([#1188](https://github.com/MetaMask/contract-metadata/pull/1188))
+- Add Axelar token ([#1182](https://github.com/MetaMask/contract-metadata/pull/1182))
+- Add Origin Ether (OETH) ([#1178](https://github.com/MetaMask/contract-metadata/pull/1178))
+- Add Genieswap.com (GENIE) ([#1176](https://github.com/MetaMask/contract-metadata/pull/1176))
+- Add DHN ([#928](https://github.com/MetaMask/contract-metadata/pull/928))
+- Add ZKT token ([#942](https://github.com/MetaMask/contract-metadata/pull/942))
+- Add TEMPLE ([#1147](https://github.com/MetaMask/contract-metadata/pull/1147))
+
+### Changed
+- Update $BEN Coin ([#1198](https://github.com/MetaMask/contract-metadata/pull/1198))
+- Update DIA logo after rebranding ([#1180](https://github.com/MetaMask/contract-metadata/pull/1180))
+- Update CIG token logo to add missing pixel ([#1179](https://github.com/MetaMask/contract-metadata/pull/1179))
+
+### Fixed
+- Fix stretched UMA logo ([#1185](https://github.com/MetaMask/contract-metadata/pull/1185))
+- Fix decimals for QUID and GPO ([#1175](https://github.com/MetaMask/contract-metadata/pull/1175))
+
 ## [2.3.1]
 ### Changed
 - This release fixes an error that prevented the publishing of v2.3.0. No functional changes.
@@ -94,7 +123,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Adding top nfts contracts on opensea by floor price ([#1052](https://github.com/MetaMask/contract-metadata/pull/1052))
 - New release ([#1045](https://github.com/MetaMask/contract-metadata/pull/1045))
 
-[Unreleased]: https://github.com/MetaMask/contract-metadata/compare/v2.3.1...HEAD
+[Unreleased]: https://github.com/MetaMask/contract-metadata/compare/v2.4.0...HEAD
+[2.4.0]: https://github.com/MetaMask/contract-metadata/compare/v2.3.1...v2.4.0
 [2.3.1]: https://github.com/MetaMask/contract-metadata/compare/v2.3.0...v2.3.1
 [2.3.0]: https://github.com/MetaMask/contract-metadata/compare/v2.2.0...v2.3.0
 [2.2.0]: https://github.com/MetaMask/contract-metadata/compare/v2.1.0...v2.2.0
