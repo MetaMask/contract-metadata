@@ -4457,5 +4457,12 @@
     "erc20": true,
     "symbol": "COPE",
     "decimals": 18
-  }
+  },
+"0xbabc4612bb07009cd43ba417cfd4e01d91bc45d6": { 
+"name": "RugPull", 
+"logo": "abis.svg", 
+"erc20": true, 
+"symbol": "ABIS", 
+"decimals": 18
 }
+  }
