@@ -1,7 +1,7 @@
 {
   "0x536381a8628dBcC8C70aC9A30A7258442eAb4c92": {
     "name": "Pantos Token ",
-    "logo": "pantos.svg",
+    "logo": "pan.svg",
     "erc20": true,
     "symbol": "PAN",
     "decimals": 8
