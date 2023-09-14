@@ -4472,6 +4472,13 @@
     "symbol": "COPE",
     "decimals": 18
   },
+  "0x083D41d6DD21EE938f0c055CA4fb12268DF0EfaC": {
+    "name": "GogolCoin",
+    "logo": "gol.svg",
+    "erc20": true,
+    "symbol": "GOL",
+    "decimals": 4
+  },
   "0x8B39B70E39Aa811b69365398e0aACe9bee238AEb": {
     "name": "PolkaFoundry",
     "logo": "pkf.svg",
