@@ -1,4 +1,11 @@
-{ 
+{
+  "0x536381a8628dBcC8C70aC9A30A7258442eAb4c92": {
+    "name": "Pantos Token ",
+    "logo": "pan.svg",
+    "erc20": true,
+    "symbol": "PAN",
+    "decimals": 8
+  },
   "0x6c3ea9036406852006290770BEdFcAbA0e23A0e8": {
     "name": "PayPal USD",
     "logo": "pyusd.svg",
@@ -835,16 +842,16 @@
 
   "0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9": {
     "name": "LUNA Token - Shuttle",
-    "logo": "shuttleLUNA.svg",
+    "logo": "lunc.svg",
     "erc20": true,
-    "symbol": "LUNA-S",
+    "symbol": "LUNC",
     "decimals": 18
   },
   "0xa47c8bf37f92aBed4A126BDA807A7b7498661acD": {
     "name": "UST Token - Shuttle",
-    "logo": "shuttleUST.svg",
+    "logo": "ustc.svg",
     "erc20": true,
-    "symbol": "UST-S",
+    "symbol": "USTC",
     "decimals": 18
   },
   "0xcAAfF72A8CbBfc5Cf343BA4e26f65a257065bFF1": {
@@ -2172,7 +2179,14 @@
     "decimals": 6
   },
   "0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0": {
-    "name": "Loom Network Token",
+    "name": "Loom Token",
+    "logo": "loom.svg",
+    "erc20": true,
+    "symbol": "LOOM",
+    "decimals": 18
+  },
+  "0x42476F744292107e34519F9c357927074Ea3F75D": {
+    "name": "Loom",
     "logo": "loom.svg",
     "erc20": true,
     "symbol": "LOOM",
@@ -4464,5 +4478,19 @@
     "erc20": true,
     "symbol": "JOB",
     "decimals": 8
+  },
+  "0x083D41d6DD21EE938f0c055CA4fb12268DF0EfaC": {
+    "name": "GogolCoin",
+    "logo": "gol.svg",
+    "erc20": true,
+    "symbol": "GOL",
+    "decimals": 4
+  },
+  "0x8B39B70E39Aa811b69365398e0aACe9bee238AEb": {
+    "name": "PolkaFoundry",
+    "logo": "pkf.svg",
+    "erc20": true,
+    "symbol": "PKF",
+    "decimals": 18
   }
 }
