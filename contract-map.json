@@ -4472,6 +4472,13 @@
     "symbol": "COPE",
     "decimals": 18
   },
+  "0xdfbc9050F5B01DF53512DCC39B4f2B2BBaCD517A": {
+    "name": "Jobchain",
+    "logo": "job.svg",
+    "erc20": true,
+    "symbol": "JOB",
+    "decimals": 8
+  },
   "0x083D41d6DD21EE938f0c055CA4fb12268DF0EfaC": {
     "name": "GogolCoin",
     "logo": "gol.svg",
