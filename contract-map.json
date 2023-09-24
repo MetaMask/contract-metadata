@@ -2830,10 +2830,17 @@
     "decimals": 6
   },
   "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48": {
-    "name": "USD Coin",
+    "name": "USDC",
     "logo": "usdc.svg",
     "erc20": true,
     "symbol": "USDC",
+    "decimals": 6
+  },
+  "0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c": {
+    "name": "EURC",
+    "logo": "eurc.svg",
+    "erc20": true,
+    "symbol": "EURC",
     "decimals": 6
   },
   "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d": {
