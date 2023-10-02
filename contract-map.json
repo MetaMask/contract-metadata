@@ -20,7 +20,7 @@
     "symbol": "IBIT",
     "decimals": 18
   },
-  "0x9bf1D7D63dD7a4ce167CF4866388226EEefa702E": {
+    "0x9bf1D7D63dD7a4ce167CF4866388226EEefa702E": {
     "name": "Ben Coin",
     "logo": "BEN.svg",
     "erc20": true,
@@ -40,13 +40,13 @@
     "erc20": true,
     "symbol": "$PEPEINU",
     "decimals": 18
-  },
+  }, 
   "0xCEBA2a8F6Ec221AEB5f3a7bcd15Cbc7e6a387bfb": {
-    "name": "Peter Pan",
-    "logo": "PeterPan.svg",
-    "erc20": true,
-    "symbol": "PAN",
-    "decimals": 18
+  "name": "Peter Pan",
+  "logo": "PeterPan.svg",
+  "erc20": true,
+  "symbol": "PAN",
+  "decimals": 18
   },
   "0x467719aD09025FcC6cF6F8311755809d45a5E5f3": {
     "name": "Axelar",
