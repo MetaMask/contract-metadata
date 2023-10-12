@@ -4506,5 +4506,12 @@
     "erc20": true,
     "symbol": "PKF",
     "decimals": 18
+  },
+  "0x0a77eF9bf662D62Fbf9BA4cf861EaA83F9CC4FEC": {
+    "name": "X World Games",
+    "logo": "XWG.svg",
+    "erc20": true,
+    "symbol": "XWG",
+    "decimals": 18
   }
 }
