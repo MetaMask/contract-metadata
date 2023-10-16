@@ -4508,7 +4508,7 @@
     "decimals": 18
   },
   "0xec38621e72d86775a89c7422746de1f52bba5320": {
-    "name": "Davos Protocol",
+    "name": "DUSD stablecoin",
     "logo": "dusd.svg",
     "erc20": true,
     "symbol": "DUSD",
