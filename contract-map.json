@@ -4506,5 +4506,12 @@
     "erc20": true,
     "symbol": "PKF",
     "decimals": 18
+  },
+  "0xec38621e72d86775a89c7422746de1f52bba5320": {
+    "name": "Davos Protocol",
+    "logo": "dusd.svg",
+    "erc20": true,
+    "symbol": "DUSD",
+    "decimals": 18
   }
 }
