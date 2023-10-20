@@ -6,8 +6,6 @@
     "symbol": "PAN",
     "decimals": 8
   },
-<<<<<<< Updated upstream
-=======
   "0x456F931298065B1852647De005dd27227146d8B9": {
     "name": "Valeria",
     "logo": "val_polygon.svg",
@@ -15,7 +13,6 @@
     "symbol": "VAL",
     "decimals": 18
   },
->>>>>>> Stashed changes
   "0x6c3ea9036406852006290770BEdFcAbA0e23A0e8": {
     "name": "PayPal USD",
     "logo": "pyusd.svg",
