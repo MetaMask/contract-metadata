@@ -6,6 +6,13 @@
     "symbol": "PAN",
     "decimals": 8
   },
+  "0x011e128ec62840186f4a07e85e3ace28858c5606": {
+    "name": "Valeria",
+    "logo": "val.svg",
+    "erc20": true,
+    "symbol": "VAL",
+    "decimals": 18
+  },
   "0x6c3ea9036406852006290770BEdFcAbA0e23A0e8": {
     "name": "PayPal USD",
     "logo": "pyusd.svg",
