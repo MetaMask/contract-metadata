@@ -4507,6 +4507,13 @@
     "symbol": "GOL",
     "decimals": 4
   },
+  "0x9B4a69dE6CA0deFDD02c0c4ce6Cb84de5202944E": {
+    "name": "PROOF Platform",
+    "erc20": true,
+    "symbol": "PROOF",
+    "decimals": 9,
+    "logo": "proof-platform.svg"
+  },
   "0x8B39B70E39Aa811b69365398e0aACe9bee238AEb": {
     "name": "PolkaFoundry",
     "logo": "pkf.svg",
