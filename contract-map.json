@@ -4514,6 +4514,13 @@
     "symbol": "GOL",
     "decimals": 4
   },
+   "0x4507cEf57C46789eF8d1a19EA45f4216bae2B528": {
+    "name": "TokenFi",
+    "logo": "tokenfi.svg",
+    "erc20": true,
+    "symbol": "TOKEN",
+    "decimals": 9
+  },
   "0x8B39B70E39Aa811b69365398e0aACe9bee238AEb": {
     "name": "PolkaFoundry",
     "logo": "pkf.svg",
