@@ -4514,6 +4514,20 @@
     "symbol": "GOL",
     "decimals": 4
   },
+  "0x5F790ffA0695967A2d711872EcB4c7553e24794D": {
+    "name": "GEM",
+    "logo": "gem.svg",
+    "erc20": true,
+    "symbol": "GEM",
+    "decimals": 18
+  },
+  "0x2caCCa1266653bB090D3Fb511456EBCA33150562": {
+    "name": "MANA",
+    "logo": "mbmana.svg",
+    "erc20": true,
+    "symbol": "MANA",
+    "decimals": 18
+  },
   "0x8B39B70E39Aa811b69365398e0aACe9bee238AEb": {
     "name": "PolkaFoundry",
     "logo": "pkf.svg",
