@@ -4530,7 +4530,7 @@
   },
   "0x06325440D014e39736583c165C2963BA99fAf14E": {
     "name": "Curve.fi",
-    "logo": "curve.svg",
+    "logo": "steCRV.png",
     "erc20": true,
     "symbol": "steCRV",
     "decimals": 18
