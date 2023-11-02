@@ -34,7 +34,7 @@
     "symbol": "IBIT",
     "decimals": 18
   },
-    "0x9bf1D7D63dD7a4ce167CF4866388226EEefa702E": {
+  "0x9bf1D7D63dD7a4ce167CF4866388226EEefa702E": {
     "name": "Ben Coin",
     "logo": "BEN.svg",
     "erc20": true,
@@ -54,13 +54,13 @@
     "erc20": true,
     "symbol": "$PEPEINU",
     "decimals": 18
-  }, 
+  },
   "0xCEBA2a8F6Ec221AEB5f3a7bcd15Cbc7e6a387bfb": {
-  "name": "Peter Pan",
-  "logo": "PeterPan.svg",
-  "erc20": true,
-  "symbol": "PAN",
-  "decimals": 18
+    "name": "Peter Pan",
+    "logo": "PeterPan.svg",
+    "erc20": true,
+    "symbol": "PAN",
+    "decimals": 18
   },
   "0x467719aD09025FcC6cF6F8311755809d45a5E5f3": {
     "name": "Axelar",
@@ -139,7 +139,6 @@
     "symbol": "NRG",
     "decimals": 18
   },
-
   "0x0d88eD6E74bbFD96B831231638b66C05571e824F": {
     "name": "Aventus",
     "logo": "aventus.svg",
@@ -853,7 +852,6 @@
     "symbol": "UST",
     "decimals": 6
   },
-
   "0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9": {
     "name": "LUNA Token - Shuttle",
     "logo": "lunc.svg",
@@ -4526,6 +4524,13 @@
     "logo": "pkf.svg",
     "erc20": true,
     "symbol": "PKF",
+    "decimals": 18
+  },
+  "0x58b121e0f6b7c3aaa656fab68a9ac3f76effe5dc": {
+    "name": "ETSAcoin",
+    "logo": "ETSAcoin.svg",
+    "erc20": true,
+    "symbol": "ETSA",
     "decimals": 18
   }
 }
