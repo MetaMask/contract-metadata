@@ -1,4 +1,11 @@
 {
+  "0x40D16FC0246aD3160Ccc09B8D0D3A2cD28aE6C2f": {
+    "name": "Gho Token",
+    "logo": "GHO.svg",
+    "erc20": true,
+    "symbol": "GHO",
+    "decimals": 18
+  },
   "0x536381a8628dBcC8C70aC9A30A7258442eAb4c92": {
     "name": "Pantos Token ",
     "logo": "pan.svg",
@@ -4513,6 +4520,13 @@
     "symbol": "PROOF",
     "decimals": 9,
     "logo": "proof-platform.svg"
+  },
+   "0x4507cEf57C46789eF8d1a19EA45f4216bae2B528": {
+    "name": "TokenFi",
+    "logo": "tokenfi.svg",
+    "erc20": true,
+    "symbol": "TOKEN",
+    "decimals": 9
   },
   "0x8B39B70E39Aa811b69365398e0aACe9bee238AEb": {
     "name": "PolkaFoundry",
