@@ -1,0 +1,24 @@
+<svg width="338" height="338" viewBox="0 0 338 338" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_3385_61599)">
+<rect width="338" height="338" rx="169" fill="white"/>
+<circle cx="170.509" cy="168.509" r="170.509" fill="white"/>
+<path d="M-58.251 425V11H182.072C268.189 11 338 80.8113 338 166.928V174.118C338 256.263 271.408 322.856 189.262 322.856V322.856H-90" stroke="url(#paint0_angular_3385_61599)" stroke-width="104.276"/>
+<path d="M36.9151 62.5L36.9151 390H183.5C303.07 390 400 293.07 400 173.5V173.5C400 53.9304 303.07 -43 183.5 -43H-22" stroke="url(#paint1_angular_3385_61599)" stroke-width="75"/>
+<path d="M186.901 256.749L157.852 256.749L157.852 237.245C124.861 233.718 106.602 217.533 106.602 189.107L106.602 187.862L137.726 187.862L137.726 191.597C137.726 204.462 144.158 209.649 172.377 209.649C197.275 209.649 203.085 205.914 203.085 196.577C203.085 188.07 198.313 184.958 183.996 182.468L144.988 176.865C120.089 172.923 105.357 160.474 105.357 137.857C105.357 118.768 119.674 98.6417 157.852 95.3219L157.852 76.2328L186.901 76.2328L186.901 96.1518C217.402 101.132 231.719 118.976 231.719 143.875L231.719 145.119L200.388 145.119L200.388 142.215C200.388 128.935 193.541 123.333 165.944 123.333C143.536 123.333 136.688 127.69 136.688 136.612C136.688 144.704 141.253 147.609 152.873 149.684L191.881 155.909C223.004 160.889 234.209 176.035 234.209 195.125C234.209 215.044 220.514 233.303 186.901 237.245L186.901 256.749Z" fill="#E94C70"/>
+</g>
+<defs>
+<radialGradient id="paint0_angular_3385_61599" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(139.875 218) rotate(90) scale(207 198.125)">
+<stop offset="0.145706" stop-color="#B51F41"/>
+<stop offset="0.404355" stop-color="#E94C70"/>
+<stop offset="0.785988" stop-color="#E94C70"/>
+</radialGradient>
+<radialGradient id="paint1_angular_3385_61599" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(183.297 118.027) rotate(87.2561) scale(272.285 319.42)">
+<stop offset="0.090419" stop-color="#E94C70"/>
+<stop offset="0.33142" stop-color="#B72143"/>
+<stop offset="0.762325" stop-color="#E94C70"/>
+</radialGradient>
+<clipPath id="clip0_3385_61599">
+<rect width="338" height="338" rx="169" fill="white"/>
+</clipPath>
+</defs>
+</svg>
