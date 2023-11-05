@@ -34,7 +34,7 @@
     "symbol": "IBIT",
     "decimals": 18
   },
-    "0x9bf1D7D63dD7a4ce167CF4866388226EEefa702E": {
+  "0x9bf1D7D63dD7a4ce167CF4866388226EEefa702E": {
     "name": "Ben Coin",
     "logo": "BEN.svg",
     "erc20": true,
@@ -54,13 +54,13 @@
     "erc20": true,
     "symbol": "$PEPEINU",
     "decimals": 18
-  }, 
+  },
   "0xCEBA2a8F6Ec221AEB5f3a7bcd15Cbc7e6a387bfb": {
-  "name": "Peter Pan",
-  "logo": "PeterPan.svg",
-  "erc20": true,
-  "symbol": "PAN",
-  "decimals": 18
+    "name": "Peter Pan",
+    "logo": "PeterPan.svg",
+    "erc20": true,
+    "symbol": "PAN",
+    "decimals": 18
   },
   "0x467719aD09025FcC6cF6F8311755809d45a5E5f3": {
     "name": "Axelar",
@@ -4521,7 +4521,7 @@
     "decimals": 9,
     "logo": "proof-platform.svg"
   },
-   "0x4507cEf57C46789eF8d1a19EA45f4216bae2B528": {
+  "0x4507cEf57C46789eF8d1a19EA45f4216bae2B528": {
     "name": "TokenFi",
     "logo": "tokenfi.svg",
     "erc20": true,
@@ -4533,6 +4533,13 @@
     "logo": "pkf.svg",
     "erc20": true,
     "symbol": "PKF",
+    "decimals": 18
+  },
+  "0x06325440D014e39736583c165C2963BA99fAf14E": {
+    "name": "Curve.fi",
+    "logo": "steCRV.png",
+    "erc20": true,
+    "symbol": "steCRV",
     "decimals": 18
   }
 }
