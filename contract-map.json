@@ -4514,6 +4514,13 @@
     "symbol": "GOL",
     "decimals": 4
   },
+  "0x9B4a69dE6CA0deFDD02c0c4ce6Cb84de5202944E": {
+    "name": "PROOF Platform",
+    "erc20": true,
+    "symbol": "PROOF",
+    "decimals": 9,
+    "logo": "proof-platform.svg"
+  },
   "0x4507cEf57C46789eF8d1a19EA45f4216bae2B528": {
     "name": "TokenFi",
     "logo": "tokenfi.svg",
