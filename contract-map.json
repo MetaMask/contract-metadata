@@ -1,4 +1,11 @@
 {
+"0x487d62468282Bd04ddf976631C23128A425555EE": {
+    "name": "UPCX",
+    "logo": "UPC.svg",
+    "erc20": true,
+    "symbol": "UPC",
+    "decimals": 5
+  },  
   "0x40D16FC0246aD3160Ccc09B8D0D3A2cD28aE6C2f": {
     "name": "Gho Token",
     "logo": "GHO.svg",
