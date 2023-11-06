@@ -1,10 +1,24 @@
 {
+  "0x40D16FC0246aD3160Ccc09B8D0D3A2cD28aE6C2f": {
+    "name": "Gho Token",
+    "logo": "GHO.svg",
+    "erc20": true,
+    "symbol": "GHO",
+    "decimals": 18
+  },
   "0x536381a8628dBcC8C70aC9A30A7258442eAb4c92": {
     "name": "Pantos Token ",
     "logo": "pan.svg",
     "erc20": true,
     "symbol": "PAN",
     "decimals": 8
+  },
+  "0x011E128Ec62840186F4A07E85E3ACe28858c5606": {
+    "name": "Valeria",
+    "logo": "val.svg",
+    "erc20": true,
+    "symbol": "VAL",
+    "decimals": 18
   },
   "0x6c3ea9036406852006290770BEdFcAbA0e23A0e8": {
     "name": "PayPal USD",
@@ -20,7 +34,7 @@
     "symbol": "IBIT",
     "decimals": 18
   },
-    "0x9bf1D7D63dD7a4ce167CF4866388226EEefa702E": {
+  "0x9bf1D7D63dD7a4ce167CF4866388226EEefa702E": {
     "name": "Ben Coin",
     "logo": "BEN.svg",
     "erc20": true,
@@ -40,13 +54,13 @@
     "erc20": true,
     "symbol": "$PEPEINU",
     "decimals": 18
-  }, 
+  },
   "0xCEBA2a8F6Ec221AEB5f3a7bcd15Cbc7e6a387bfb": {
-  "name": "Peter Pan",
-  "logo": "PeterPan.svg",
-  "erc20": true,
-  "symbol": "PAN",
-  "decimals": 18
+    "name": "Peter Pan",
+    "logo": "PeterPan.svg",
+    "erc20": true,
+    "symbol": "PAN",
+    "decimals": 18
   },
   "0x467719aD09025FcC6cF6F8311755809d45a5E5f3": {
     "name": "Axelar",
@@ -842,16 +856,16 @@
 
   "0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9": {
     "name": "LUNA Token - Shuttle",
-    "logo": "shuttleLUNA.svg",
+    "logo": "lunc.svg",
     "erc20": true,
-    "symbol": "LUNA-S",
+    "symbol": "LUNC",
     "decimals": 18
   },
   "0xa47c8bf37f92aBed4A126BDA807A7b7498661acD": {
     "name": "UST Token - Shuttle",
-    "logo": "shuttleUST.svg",
+    "logo": "ustc.svg",
     "erc20": true,
-    "symbol": "UST-S",
+    "symbol": "USTC",
     "decimals": 18
   },
   "0xcAAfF72A8CbBfc5Cf343BA4e26f65a257065bFF1": {
@@ -2179,7 +2193,14 @@
     "decimals": 6
   },
   "0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0": {
-    "name": "Loom Network Token",
+    "name": "Loom Token",
+    "logo": "loom.svg",
+    "erc20": true,
+    "symbol": "LOOM",
+    "decimals": 18
+  },
+  "0x42476F744292107e34519F9c357927074Ea3F75D": {
+    "name": "Loom",
     "logo": "loom.svg",
     "erc20": true,
     "symbol": "LOOM",
@@ -2823,10 +2844,17 @@
     "decimals": 6
   },
   "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48": {
-    "name": "USD Coin",
+    "name": "USDC",
     "logo": "usdc.svg",
     "erc20": true,
     "symbol": "USDC",
+    "decimals": 6
+  },
+  "0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c": {
+    "name": "EURC",
+    "logo": "eurc.svg",
+    "erc20": true,
+    "symbol": "EURC",
     "decimals": 6
   },
   "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d": {
@@ -3600,6 +3628,13 @@
     "logo": "kanpeki-green.svg",
     "erc20": true,
     "symbol": "KAE",
+    "decimals": 18
+  },
+  "0xF94b5C5651c888d928439aB6514B93944eEE6F48": {
+    "name": "Yield App",
+    "logo": "yield-app.svg",
+    "erc20": true,
+    "symbol": "YLD",
     "decimals": 18
   },
   "0xDcB01cc464238396E213a6fDd933E36796eAfF9f": {
@@ -4463,6 +4498,55 @@
     "logo": "cope.svg",
     "erc20": true,
     "symbol": "COPE",
+    "decimals": 18
+  },
+  "0xdfbc9050F5B01DF53512DCC39B4f2B2BBaCD517A": {
+    "name": "Jobchain",
+    "logo": "job.svg",
+    "erc20": true,
+    "symbol": "JOB",
+    "decimals": 8
+  },
+  "0x083D41d6DD21EE938f0c055CA4fb12268DF0EfaC": {
+    "name": "GogolCoin",
+    "logo": "gol.svg",
+    "erc20": true,
+    "symbol": "GOL",
+    "decimals": 4
+  },
+  "0x9B4a69dE6CA0deFDD02c0c4ce6Cb84de5202944E": {
+    "name": "PROOF Platform",
+    "erc20": true,
+    "symbol": "PROOF",
+    "decimals": 9,
+    "logo": "proof-platform.svg"
+  },
+  "0x4507cEf57C46789eF8d1a19EA45f4216bae2B528": {
+    "name": "TokenFi",
+    "logo": "tokenfi.svg",
+    "erc20": true,
+    "symbol": "TOKEN",
+    "decimals": 9
+  },
+  "0x8B39B70E39Aa811b69365398e0aACe9bee238AEb": {
+    "name": "PolkaFoundry",
+    "logo": "pkf.svg",
+    "erc20": true,
+    "symbol": "PKF",
+    "decimals": 18
+  },
+  "0x2c95D751DA37A5C1d9c5a7Fd465c1d50F3d96160": {
+    "name": "WASSIE",
+    "logo": "wassie.svg",
+    "erc20": true,
+    "symbol": "WASSIE",
+    "decimals": 18
+  },
+  "0x06325440D014e39736583c165C2963BA99fAf14E": {
+    "name": "Curve.fi",
+    "logo": "steCRV.png",
+    "erc20": true,
+    "symbol": "steCRV",
     "decimals": 18
   }
 }
