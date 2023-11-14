@@ -1,4 +1,13 @@
+
 {
+  "0xb1bd538b45C3e6DAa7830058E3a13AcA828e56a2": {
+    "name": "Bitago",
+    "logo": "Bitago.svg",
+    "erc20": true,
+    "symbol": "XBIT",
+    "decimals": 18
+  },
+  {
   "0x40D16FC0246aD3160Ccc09B8D0D3A2cD28aE6C2f": {
     "name": "Gho Token",
     "logo": "GHO.svg",
