@@ -4548,5 +4548,12 @@
     "erc20": true,
     "symbol": "steCRV",
     "decimals": 18
+  },
+  "0xE83AEc74E8d224AB912c9d634c746d1B828dC385": {
+    "name": "VRC_NETWORK",
+    "logo": "vrc.png",
+    "erc20": true,
+    "symbol": "VRC",
+    "decimals": 18
   }
 }
