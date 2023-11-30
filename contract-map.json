@@ -1,4 +1,11 @@
 {
+  "0x83e6f1E41cdd28eAcEB20Cb649155049Fac3D5Aa": {
+    "name": "PolkastarterToken",
+    "logo": "pols.svg",
+    "erc20": true,
+    "symbol": "POLS",
+    "decimals": 18
+  },
   "0x08d967bb0134F2d07f7cfb6E246680c53927DD30": {
     "name": "MATH Token",
     "logo": "math.svg",
