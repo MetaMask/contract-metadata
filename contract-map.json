@@ -1,4 +1,11 @@
 {
+  "0xccC8cb5229B0ac8069C51fd58367Fd1e622aFD97": {
+    "name": "Gods Unchained",
+    "logo": "gods.svg",
+    "erc20": true,
+    "symbol": "GODS",
+    "decimals": 18
+  },
   "0xF57e7e7C23978C3cAEC3C3548E3D615c346e79fF": {
     "name": "Immutable X",
     "logo": "imx.svg",
