@@ -1,4 +1,11 @@
 {
+  "0x8b79656FC38a04044E495e22fAD747126ca305C4": {
+    "name": "AgaveCoin",
+    "logo": "agvc.svg",
+    "erc20": true,
+    "symbol": "AGVC",
+    "decimals": 18
+  },
   "0x967da4048cD07aB37855c090aAF366e4ce1b9F48": {
     "name": "Ocean Token",
     "logo": "ocean.svg",
