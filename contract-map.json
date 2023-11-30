@@ -1,4 +1,11 @@
 {
+  "0x08d967bb0134F2d07f7cfb6E246680c53927DD30": {
+    "name": "MATH Token",
+    "logo": "math.svg",
+    "erc20": true,
+    "symbol": "MATH",
+    "decimals": 18
+  },
   "0xccC8cb5229B0ac8069C51fd58367Fd1e622aFD97": {
     "name": "Gods Unchained",
     "logo": "gods.svg",
@@ -3289,7 +3296,7 @@
   },
   "0x9992eC3cF6A55b00978cdDF2b27BC6882d88D1eC": {
     "name": "Polymath",
-    "logo": "polymath_logo.svg",
+    "logo": "poly.svg",
     "erc20": true,
     "symbol": "POLY",
     "decimals": 18
