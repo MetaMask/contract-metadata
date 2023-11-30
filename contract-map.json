@@ -1,4 +1,11 @@
 {
+  "0xB8BAa0e4287890a5F79863aB62b7F175ceCbD433": {
+    "name": "Swerve DAO Token",
+    "logo": "swrv.svg",
+    "erc20": true,
+    "symbol": "SWRV",
+    "decimals": 18
+  },
   "0x8b79656FC38a04044E495e22fAD747126ca305C4": {
     "name": "AgaveCoin",
     "logo": "agvc.svg",
