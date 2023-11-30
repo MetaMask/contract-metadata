@@ -1,4 +1,11 @@
 {
+  "0x967da4048cD07aB37855c090aAF366e4ce1b9F48": {
+    "name": "Ocean Token",
+    "logo": "ocean.svg",
+    "erc20": true,
+    "symbol": "OCEAN",
+    "decimals": 18
+  },
   "0x83e6f1E41cdd28eAcEB20Cb649155049Fac3D5Aa": {
     "name": "PolkastarterToken",
     "logo": "pols.svg",
