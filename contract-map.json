@@ -1,7 +1,7 @@
 {
   "0x08d967bb0134F2d07f7cfb6E246680c53927DD30": {
     "name": "MATH Token",
-    "logo": "gods.svg",
+    "logo": "math.svg",
     "erc20": true,
     "symbol": "MATH",
     "decimals": 18
