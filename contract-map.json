@@ -1,4 +1,12 @@
 {
+  "0x49642110B712C1FD7261Bc074105E9E44676c68F": {
+    "name": "DinoLFG",
+    "logo": "DINO.svg",
+    "erc20": true,
+    "symbol": "DINO",
+    "decimals": 18
+  },
+{
   "0xB8BAa0e4287890a5F79863aB62b7F175ceCbD433": {
     "name": "Swerve DAO Token",
     "logo": "swrv.svg",
