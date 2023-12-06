@@ -1,4 +1,11 @@
 {
+  "0x7d51888C5ABb7CDfa9cdd6A50673c7F8afAccD7F": {
+    "name": "DuckDAO Token",
+    "logo": "duckdao.png",
+    "erc20": true,
+    "symbol": "DD",
+    "decimals": 18
+  },
   "0x49642110B712C1FD7261Bc074105E9E44676c68F": {
     "name": "DinoLFG",
     "logo": "DINO.svg",
