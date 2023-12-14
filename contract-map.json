@@ -1,4 +1,11 @@
 {
+  "0x06a87F6aFEc4a739c367bEF69eEfE383D27106bd": {
+    "name": "Scoobi-Doge",
+    "logo": "SCOOBI.png",
+    "erc20": true,
+    "symbol": "SCooBi",
+    "decimals": 18
+  },
   "0x7d51888C5ABb7CDfa9cdd6A50673c7F8afAccD7F": {
     "name": "DuckDAO Token",
     "logo": "duckdao.svg",
