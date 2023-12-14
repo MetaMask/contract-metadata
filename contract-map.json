@@ -4611,5 +4611,12 @@
     "erc20": true,
     "symbol": "steCRV",
     "decimals": 18
+  },
+  "0x4E241A9EC66832a16bceaeB9156E524487f061D7": {
+    "name": "ETF.Rocks",
+    "logo": "ETF.svg",
+    "erc20": true,
+    "symbol": "ETF",
+    "decimals": 18
   }
 }
