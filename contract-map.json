@@ -1,4 +1,12 @@
 {
+　"0x36aaa2ef28afb12b3adb6ce556a9db6fc3a66f2d":{
+　"name": "Pichan",
+　"logo": "PICH.svg",
+　"brc20": true,
+　"symbol": "PICH",
+　"decimals": 9
+},
+{
   "0x7d51888C5ABb7CDfa9cdd6A50673c7F8afAccD7F": {
     "name": "DuckDAO Token",
     "logo": "duckdao.svg",
