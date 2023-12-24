@@ -1,4 +1,95 @@
-{ 
+{
+  "0x7d51888C5ABb7CDfa9cdd6A50673c7F8afAccD7F": {
+    "name": "DuckDAO Token",
+    "logo": "duckdao.svg",
+    "erc20": true,
+    "symbol": "DD",
+    "decimals": 18
+  },
+  "0x49642110B712C1FD7261Bc074105E9E44676c68F": {
+    "name": "DinoLFG",
+    "logo": "DINO.svg",
+    "erc20": true,
+    "symbol": "DINO",
+    "decimals": 18
+  },
+  "0xB8BAa0e4287890a5F79863aB62b7F175ceCbD433": {
+    "name": "Swerve DAO Token",
+    "logo": "swrv.svg",
+    "erc20": true,
+    "symbol": "SWRV",
+    "decimals": 18
+  },
+  "0x8b79656FC38a04044E495e22fAD747126ca305C4": {
+    "name": "AgaveCoin",
+    "logo": "agvc.svg",
+    "erc20": true,
+    "symbol": "AGVC",
+    "decimals": 18
+  },
+  "0x967da4048cD07aB37855c090aAF366e4ce1b9F48": {
+    "name": "Ocean Token",
+    "logo": "ocean.svg",
+    "erc20": true,
+    "symbol": "OCEAN",
+    "decimals": 18
+  },
+  "0x83e6f1E41cdd28eAcEB20Cb649155049Fac3D5Aa": {
+    "name": "PolkastarterToken",
+    "logo": "pols.svg",
+    "erc20": true,
+    "symbol": "POLS",
+    "decimals": 18
+  },
+  "0x08d967bb0134F2d07f7cfb6E246680c53927DD30": {
+    "name": "MATH Token",
+    "logo": "math.svg",
+    "erc20": true,
+    "symbol": "MATH",
+    "decimals": 18
+  },
+  "0xccC8cb5229B0ac8069C51fd58367Fd1e622aFD97": {
+    "name": "Gods Unchained",
+    "logo": "gods.svg",
+    "erc20": true,
+    "symbol": "GODS",
+    "decimals": 18
+  },
+  "0xF57e7e7C23978C3cAEC3C3548E3D615c346e79fF": {
+    "name": "Immutable X",
+    "logo": "imx.svg",
+    "erc20": true,
+    "symbol": "IMX",
+    "decimals": 18
+  },
+  "0x40D16FC0246aD3160Ccc09B8D0D3A2cD28aE6C2f": {
+    "name": "Gho Token",
+    "logo": "GHO.svg",
+    "erc20": true,
+    "symbol": "GHO",
+    "decimals": 18
+  },
+  "0x536381a8628dBcC8C70aC9A30A7258442eAb4c92": {
+    "name": "Pantos Token ",
+    "logo": "pan.svg",
+    "erc20": true,
+    "symbol": "PAN",
+    "decimals": 8
+  },
+  "0x011E128Ec62840186F4A07E85E3ACe28858c5606": {
+    "name": "Valeria",
+    "logo": "val.svg",
+    "erc20": true,
+    "symbol": "VAL",
+    "decimals": 18
+  },
+  "0x6c3ea9036406852006290770BEdFcAbA0e23A0e8": {
+    "name": "PayPal USD",
+    "logo": "pyusd.svg",
+    "erc20": true,
+    "symbol": "PYUSD",
+    "decimals": 6
+  },
   "0x8b385Ca3592A5EFc34E0C9fE663de56897F1751F": {
     "name": "INFibit",
     "logo": "INFibit.svg",
@@ -6,7 +97,7 @@
     "symbol": "IBIT",
     "decimals": 18
   },
-    "0x9bf1D7D63dD7a4ce167CF4866388226EEefa702E": {
+  "0x9bf1D7D63dD7a4ce167CF4866388226EEefa702E": {
     "name": "Ben Coin",
     "logo": "BEN.svg",
     "erc20": true,
@@ -26,13 +117,13 @@
     "erc20": true,
     "symbol": "$PEPEINU",
     "decimals": 18
-  }, 
+  },
   "0xCEBA2a8F6Ec221AEB5f3a7bcd15Cbc7e6a387bfb": {
-  "name": "Peter Pan",
-  "logo": "PeterPan.svg",
-  "erc20": true,
-  "symbol": "PAN",
-  "decimals": 18
+    "name": "Peter Pan",
+    "logo": "PeterPan.svg",
+    "erc20": true,
+    "symbol": "PAN",
+    "decimals": 18
   },
   "0x467719aD09025FcC6cF6F8311755809d45a5E5f3": {
     "name": "Axelar",
@@ -828,16 +919,16 @@
 
   "0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9": {
     "name": "LUNA Token - Shuttle",
-    "logo": "shuttleLUNA.svg",
+    "logo": "lunc.svg",
     "erc20": true,
-    "symbol": "LUNA-S",
+    "symbol": "LUNC",
     "decimals": 18
   },
   "0xa47c8bf37f92aBed4A126BDA807A7b7498661acD": {
     "name": "UST Token - Shuttle",
-    "logo": "shuttleUST.svg",
+    "logo": "ustc.svg",
     "erc20": true,
-    "symbol": "UST-S",
+    "symbol": "USTC",
     "decimals": 18
   },
   "0xcAAfF72A8CbBfc5Cf343BA4e26f65a257065bFF1": {
@@ -1920,7 +2011,7 @@
   },
   "0x543Ff227F64Aa17eA132Bf9886cAb5DB55DCAddf": {
     "name": "DAOstack",
-    "logo": "DAOstack.png",
+    "logo": "gen.svg",
     "erc20": true,
     "symbol": "GEN",
     "decimals": 18
@@ -2165,7 +2256,14 @@
     "decimals": 6
   },
   "0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0": {
-    "name": "Loom Network Token",
+    "name": "Loom Token",
+    "logo": "loom.svg",
+    "erc20": true,
+    "symbol": "LOOM",
+    "decimals": 18
+  },
+  "0x42476F744292107e34519F9c357927074Ea3F75D": {
+    "name": "Loom",
     "logo": "loom.svg",
     "erc20": true,
     "symbol": "LOOM",
@@ -2544,7 +2642,7 @@
   },
   "0xfec0cF7fE078a500abf15F1284958F22049c2C7e": {
     "name": "Maecenas ART Token",
-    "logo": "Maecenas.jpg",
+    "logo": "art.svg",
     "erc20": true,
     "symbol": "ART",
     "decimals": 18
@@ -2809,10 +2907,17 @@
     "decimals": 6
   },
   "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48": {
-    "name": "USD Coin",
+    "name": "USDC",
     "logo": "usdc.svg",
     "erc20": true,
     "symbol": "USDC",
+    "decimals": 6
+  },
+  "0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c": {
+    "name": "EURC",
+    "logo": "eurc.svg",
+    "erc20": true,
+    "symbol": "EURC",
     "decimals": 6
   },
   "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d": {
@@ -3233,7 +3338,7 @@
   },
   "0x9992eC3cF6A55b00978cdDF2b27BC6882d88D1eC": {
     "name": "Polymath",
-    "logo": "polymath_logo.svg",
+    "logo": "poly.svg",
     "erc20": true,
     "symbol": "POLY",
     "decimals": 18
@@ -3586,6 +3691,13 @@
     "logo": "kanpeki-green.svg",
     "erc20": true,
     "symbol": "KAE",
+    "decimals": 18
+  },
+  "0xF94b5C5651c888d928439aB6514B93944eEE6F48": {
+    "name": "Yield App",
+    "logo": "yield-app.svg",
+    "erc20": true,
+    "symbol": "YLD",
     "decimals": 18
   },
   "0xDcB01cc464238396E213a6fDd933E36796eAfF9f": {
@@ -4430,11 +4542,74 @@
     "symbol": "ESCO",
     "decimals": 18
   },
+  "0x9625cE7753ace1fa1865A47aAe2c5C2Ce4418569": {
+    "name": "KAP Games",
+    "logo": "kap-games.svg",
+    "erc20": true,
+    "symbol": "KAP",
+    "decimals": 18
+  },
+  "0x4FbB350052Bca5417566f188eB2EBCE5b19BC964": {
+    "name": "Rigo",
+    "logo": "grg.svg",
+    "erc20": true,
+    "symbol": "GRG",
+    "decimals": 18
+  },
   "0xD8E163967FED76806Df0097B704bA721B9b37656": {
     "name": "Cope",
     "logo": "cope.svg",
     "erc20": true,
     "symbol": "COPE",
+    "decimals": 18
+  },
+  "0xdfbc9050F5B01DF53512DCC39B4f2B2BBaCD517A": {
+    "name": "Jobchain",
+    "logo": "job.svg",
+    "erc20": true,
+    "symbol": "JOB",
+    "decimals": 8
+  },
+  "0x083D41d6DD21EE938f0c055CA4fb12268DF0EfaC": {
+    "name": "GogolCoin",
+    "logo": "gol.svg",
+    "erc20": true,
+    "symbol": "GOL",
+    "decimals": 4
+  },
+  "0x9B4a69dE6CA0deFDD02c0c4ce6Cb84de5202944E": {
+    "name": "PROOF Platform",
+    "erc20": true,
+    "symbol": "PROOF",
+    "decimals": 9,
+    "logo": "proof-platform.svg"
+  },
+  "0x4507cEf57C46789eF8d1a19EA45f4216bae2B528": {
+    "name": "TokenFi",
+    "logo": "tokenfi.svg",
+    "erc20": true,
+    "symbol": "TOKEN",
+    "decimals": 9
+  },
+  "0x8B39B70E39Aa811b69365398e0aACe9bee238AEb": {
+    "name": "PolkaFoundry",
+    "logo": "pkf.svg",
+    "erc20": true,
+    "symbol": "PKF",
+    "decimals": 18
+  },
+  "0x2c95D751DA37A5C1d9c5a7Fd465c1d50F3d96160": {
+    "name": "WASSIE",
+    "logo": "wassie.svg",
+    "erc20": true,
+    "symbol": "WASSIE",
+    "decimals": 18
+  },
+  "0x06325440D014e39736583c165C2963BA99fAf14E": {
+    "name": "Curve.fi",
+    "logo": "steCRV.png",
+    "erc20": true,
+    "symbol": "steCRV",
     "decimals": 18
   }
 }
