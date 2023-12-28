@@ -4611,5 +4611,13 @@
     "erc20": true,
     "symbol": "steCRV",
     "decimals": 18
+    },
+  "0xDeFB0B264032e4e128b00D02b3FD0aA00331237b": {
+    "name": "Buddha",
+    "logo": "bud.svg",
+    "erc20": true,
+    "symbol": "Buddha",
+    "decimals": 18
+    
   }
 }
