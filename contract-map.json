@@ -1,20 +1,4 @@
-{
-  "0xD5a9D3396Da7472551561F0E872E677cA2227a6B": {
-    "name": "InstaDEX",
-    "logo": "idex.svg",
-    "erc20": true,
-    "symbol": "IDEX",
-    "decimals": 18
-  },
-{
-  "0xb1bd538b45C3e6DAa7830058E3a13AcA828e56a2": {
-    "name": "Bitago",
-    "logo": "Bitago.svg",
-    "erc20": true,
-    "symbol": "XBIT",
-    "decimals": 18
-  },
-  {
+ {
   "0x40D16FC0246aD3160Ccc09B8D0D3A2cD28aE6C2f": {
     "name": "Gho Token",
     "logo": "GHO.svg",
@@ -4564,5 +4548,13 @@
     "erc20": true,
     "symbol": "steCRV",
     "decimals": 18
-  }
+  },
+  {
+  "0xD5a9D3396Da7472551561F0E872E677cA2227a6B": {
+    "name": "InstaDEX",
+    "logo": "idex.svg",
+    "erc20": true,
+    "symbol": "IDEX",
+    "decimals": 18
+  },
 }
