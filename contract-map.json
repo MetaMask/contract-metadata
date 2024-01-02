@@ -4611,5 +4611,13 @@
     "erc20": true,
     "symbol": "steCRV",
     "decimals": 18
+  },
+  "0xab575258d37EaA5C8956EfABe71F4eE8F6397cF3": {
+    "name": "Mantle USD",
+    "logo": "mantleUSD.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "mUSD",
+    "decimals": 18
   }
 }
