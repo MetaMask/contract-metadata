@@ -4611,5 +4611,13 @@
     "erc20": true,
     "symbol": "steCRV",
     "decimals": 18
+  },
+  "0xd5F7838F5C461fefF7FE49ea5ebaF7728bB0ADfa": {
+    "name": "Mantle Staked Ether",
+    "logo": "mETH.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "mETH",
+    "decimals": 18
   }
 }
