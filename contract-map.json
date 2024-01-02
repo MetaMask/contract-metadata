@@ -1,7 +1,7 @@
 {
   "0xd3210F246Ae54C5a45A7b4A83315bf718F591bfc": {
     "name": "ArkiTech",
-    "logo": "ARKI.png",
+    "logo": "ARKI.svg",
     "erc20": true,
     "symbol": "ARKI",
     "decimals": 9
