@@ -1,8 +1,7 @@
 {
-  "0xF69eC56CFD157801BBaC47e24540782B6Db94d29": {
+  "0x68Ae2F202799be2008c89e2100257e66F77DA1f3": {
     "name": "Public Meme Token",
     "logo": "PMT.svg",
-    "erc20": true,
     "bep20": true,
     "symbol": "PMT",
     "decimals": 18
