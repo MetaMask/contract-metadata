@@ -1,4 +1,11 @@
 {
+  "0xd3210F246Ae54C5a45A7b4A83315bf718F591bfc": {
+    "name": "ArkiTech",
+    "logo": "ARKI.svg",
+    "erc20": true,
+    "symbol": "ARKI",
+    "decimals": 9
+  },
   "0x7d51888C5ABb7CDfa9cdd6A50673c7F8afAccD7F": {
     "name": "DuckDAO Token",
     "logo": "duckdao.svg",
