@@ -1,4 +1,11 @@
 {
+  "0xd3210F246Ae54C5a45A7b4A83315bf718F591bfc": {
+    "name": "ArkiTech",
+    "logo": "ARKI.svg",
+    "erc20": true,
+    "symbol": "ARKI",
+    "decimals": 9
+  },
   "0x7d51888C5ABb7CDfa9cdd6A50673c7F8afAccD7F": {
     "name": "DuckDAO Token",
     "logo": "duckdao.svg",
@@ -4617,6 +4624,14 @@
     "logo": "ETF.svg",
     "erc20": true,
     "symbol": "ETF",
+    "decimals": 18
+  },
+  "0xd5F7838F5C461fefF7FE49ea5ebaF7728bB0ADfa": {
+    "name": "Mantle Staked Ether",
+    "logo": "mETH.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "mETH",
     "decimals": 18
   }
 }
