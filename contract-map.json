@@ -1,11 +1,81 @@
 {
-"0x487d62468282Bd04ddf976631C23128A425555EE": {
+  "0x487d62468282Bd04ddf976631C23128A425555EE": {
     "name": "UPCX",
     "logo": "UPC.svg",
     "erc20": true,
     "symbol": "UPC",
     "decimals": 5
   },  
+  "0xd3210F246Ae54C5a45A7b4A83315bf718F591bfc": {
+    "name": "ArkiTech",
+    "logo": "ARKI.svg",
+    "erc20": true,
+    "symbol": "ARKI",
+    "decimals": 9
+  },
+  "0x7d51888C5ABb7CDfa9cdd6A50673c7F8afAccD7F": {
+    "name": "DuckDAO Token",
+    "logo": "duckdao.svg",
+    "erc20": true,
+    "symbol": "DD",
+    "decimals": 18
+  },
+  "0x49642110B712C1FD7261Bc074105E9E44676c68F": {
+    "name": "DinoLFG",
+    "logo": "DINO.svg",
+    "erc20": true,
+    "symbol": "DINO",
+    "decimals": 18
+  },
+  "0xB8BAa0e4287890a5F79863aB62b7F175ceCbD433": {
+    "name": "Swerve DAO Token",
+    "logo": "swrv.svg",
+    "erc20": true,
+    "symbol": "SWRV",
+    "decimals": 18
+  },
+  "0x8b79656FC38a04044E495e22fAD747126ca305C4": {
+    "name": "AgaveCoin",
+    "logo": "agvc.svg",
+    "erc20": true,
+    "symbol": "AGVC",
+    "decimals": 18
+  },
+  "0x967da4048cD07aB37855c090aAF366e4ce1b9F48": {
+    "name": "Ocean Token",
+    "logo": "ocean.svg",
+    "erc20": true,
+    "symbol": "OCEAN",
+    "decimals": 18
+  },
+  "0x83e6f1E41cdd28eAcEB20Cb649155049Fac3D5Aa": {
+    "name": "PolkastarterToken",
+    "logo": "pols.svg",
+    "erc20": true,
+    "symbol": "POLS",
+    "decimals": 18
+  },
+  "0x08d967bb0134F2d07f7cfb6E246680c53927DD30": {
+    "name": "MATH Token",
+    "logo": "math.svg",
+    "erc20": true,
+    "symbol": "MATH",
+    "decimals": 18
+  },
+  "0xccC8cb5229B0ac8069C51fd58367Fd1e622aFD97": {
+    "name": "Gods Unchained",
+    "logo": "gods.svg",
+    "erc20": true,
+    "symbol": "GODS",
+    "decimals": 18
+  },
+  "0xF57e7e7C23978C3cAEC3C3548E3D615c346e79fF": {
+    "name": "Immutable X",
+    "logo": "imx.svg",
+    "erc20": true,
+    "symbol": "IMX",
+    "decimals": 18
+  }
   "0x40D16FC0246aD3160Ccc09B8D0D3A2cD28aE6C2f": {
     "name": "Gho Token",
     "logo": "GHO.svg",
@@ -1955,7 +2025,7 @@
   },
   "0x543Ff227F64Aa17eA132Bf9886cAb5DB55DCAddf": {
     "name": "DAOstack",
-    "logo": "DAOstack.png",
+    "logo": "gen.svg",
     "erc20": true,
     "symbol": "GEN",
     "decimals": 18
@@ -2586,7 +2656,7 @@
   },
   "0xfec0cF7fE078a500abf15F1284958F22049c2C7e": {
     "name": "Maecenas ART Token",
-    "logo": "Maecenas.jpg",
+    "logo": "art.svg",
     "erc20": true,
     "symbol": "ART",
     "decimals": 18
@@ -3282,7 +3352,7 @@
   },
   "0x9992eC3cF6A55b00978cdDF2b27BC6882d88D1eC": {
     "name": "Polymath",
-    "logo": "polymath_logo.svg",
+    "logo": "poly.svg",
     "erc20": true,
     "symbol": "POLY",
     "decimals": 18
@@ -4521,6 +4591,13 @@
     "symbol": "GOL",
     "decimals": 4
   },
+  "0x9B4a69dE6CA0deFDD02c0c4ce6Cb84de5202944E": {
+    "name": "PROOF Platform",
+    "erc20": true,
+    "symbol": "PROOF",
+    "decimals": 9,
+    "logo": "proof-platform.svg"
+  },
   "0x4507cEf57C46789eF8d1a19EA45f4216bae2B528": {
     "name": "TokenFi",
     "logo": "tokenfi.svg",
@@ -4535,11 +4612,26 @@
     "symbol": "PKF",
     "decimals": 18
   },
+  "0x2c95D751DA37A5C1d9c5a7Fd465c1d50F3d96160": {
+    "name": "WASSIE",
+    "logo": "wassie.svg",
+    "erc20": true,
+    "symbol": "WASSIE",
+    "decimals": 18
+  },
   "0x06325440D014e39736583c165C2963BA99fAf14E": {
     "name": "Curve.fi",
     "logo": "steCRV.png",
     "erc20": true,
     "symbol": "steCRV",
+    "decimals": 18
+  },
+  "0xd5F7838F5C461fefF7FE49ea5ebaF7728bB0ADfa": {
+    "name": "Mantle Staked Ether",
+    "logo": "mETH.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "mETH",
     "decimals": 18
   }
 }
