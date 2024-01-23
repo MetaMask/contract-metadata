@@ -1,4 +1,11 @@
 {
+  "0x5eed99d066a8CaF10f3E4327c1b3D8b673485eED": {
+    "name": "SEED",
+    "logo": "SEED.svg",
+    "erc20": true,
+    "symbol": "SEED",
+    "decimals": 18
+  }, 
   "0x487d62468282Bd04ddf976631C23128A425555EE": {
     "name": "UPCX",
     "logo": "UPC.svg",
