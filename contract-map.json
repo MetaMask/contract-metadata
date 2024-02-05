@@ -5,7 +5,14 @@
     "erc20": true,
     "symbol": "ATOS",
     "decimals": 18
-  }, 
+  },
+  "0x57B946008913B82E4dF85f501cbAeD910e58D26C": {
+    "name": "POND",
+    "logo": "POND.svg",
+    "erc20": true,
+    "symbol": "POND",
+    "decimals": 18
+  },
   "0x5eed99d066a8CaF10f3E4327c1b3D8b673485eED": {
     "name": "SEED",
     "logo": "SEED.svg",
