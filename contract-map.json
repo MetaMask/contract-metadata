@@ -1,4 +1,11 @@
 {
+  "0x4D0528598F916Fd1D8dc80e5f54a8fEEDcFd4b18": {
+    "name": "Atoshi",
+    "logo": "ATOS.svg",
+    "erc20": true,
+    "symbol": "ATOS",
+    "decimals": 18
+  }, 
   "0x5eed99d066a8CaF10f3E4327c1b3D8b673485eED": {
     "name": "SEED",
     "logo": "SEED.svg",
