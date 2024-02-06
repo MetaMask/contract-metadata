@@ -4654,5 +4654,13 @@
     "erc721": false,
     "symbol": "mETH",
     "decimals": 18
+  },
+  "0xcDA86A272531e8640cD7F1a92c01839911B90bb0": {
+    "name": "Mantle Staked Ether",
+    "logo": "mETH.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "mETH",
+    "decimals": 18
   }
 }
