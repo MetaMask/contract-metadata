@@ -1,4 +1,11 @@
 {
+  "0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1": {
+    "name": "Arbitrum",
+    "logo": "Arb.svg",
+    "erc20": true,
+    "symbol": "ARB",
+    "decimals": 18
+  },
   "0x4D0528598F916Fd1D8dc80e5f54a8fEEDcFd4b18": {
     "name": "Atoshi",
     "logo": "ATOS.svg",
