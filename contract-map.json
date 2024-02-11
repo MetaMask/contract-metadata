@@ -4654,6 +4654,13 @@
     "symbol": "steCRV",
     "decimals": 18
   },
+    "0x68047dfe89327287332869B81d1f10fD5879bCfb": {
+    "name": "SharkCoin",
+    "logo": "SHRK.png",
+    "erc20": true,
+    "symbol": "SHRK",
+    "decimals": 18
+  },
   "0xd5F7838F5C461fefF7FE49ea5ebaF7728bB0ADfa": {
     "name": "Mantle Staked Ether",
     "logo": "mETH.svg",
