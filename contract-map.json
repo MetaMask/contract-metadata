@@ -4668,5 +4668,12 @@
     "erc721": false,
     "symbol": "mETH",
     "decimals": 18
+  },
+  "0xB54EF64B4E06a442244aa898B97AA6cD536a258b": {
+    "name": "YIN",
+    "logo": "yin.svg",
+    "erc20": true,
+    "symbol": "YIN",
+    "decimals": 18
   }
 }
