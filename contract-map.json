@@ -4654,6 +4654,13 @@
     "symbol": "steCRV",
     "decimals": 18
   },
+  "0x4E241A9EC66832a16bceaeB9156E524487f061D7": {
+    "name": "ETF Rocks",
+    "logo": "etf.svg",
+    "erc20": true,
+    "symbol": "ETF",
+    "decimals": 18
+  },
   "0xA849EaaE994fb86Afa73382e9Bd88c2B6b18Dc71": {
     "name": "Mass Vehicle Ledger",
     "logo": "mvl.svg",
