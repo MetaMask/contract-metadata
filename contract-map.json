@@ -4675,5 +4675,13 @@
     "erc721": false,
     "symbol": "mETH",
     "decimals": 18
+  },
+  "0xE2808d7298F0d4111eA1773D3320F5D80eaB83E8": {
+    "name": "WAVX",
+    "logo": "WAVX.png",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "WAVX",
+    "decimals": 18
   }
 }
