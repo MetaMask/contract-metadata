@@ -4668,6 +4668,13 @@
     "symbol": "MVL",
     "decimals": 18
   },
+  "0xc6920888988cAcEeA7ACCA0c96f2D65b05eE22Ba": {
+    "name": "Ethernity CLOUD",
+    "logo": "ECLD.svg",
+    "erc20": true,
+    "symbol": "ECLD",
+    "decimals": 18
+  },
   "0xd5F7838F5C461fefF7FE49ea5ebaF7728bB0ADfa": {
     "name": "Mantle Staked Ether",
     "logo": "mETH.svg",
