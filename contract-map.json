@@ -4675,5 +4675,12 @@
     "erc721": false,
     "symbol": "mETH",
     "decimals": 18
+  },
+  "0x7F8bcF82fA86d50f7794981DD39F8Ab7B0561fED": {
+   "name": "Peaceful Putin",
+   "logo": "peaceful_putin.svg",
+   "erc20": true,
+   "symbol": "PUTIN",
+   "decimals": 18
   }
 }
