@@ -1,4 +1,40 @@
 {
+  "0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1": {
+    "name": "Arbitrum",
+    "logo": "Arb.svg",
+    "erc20": true,
+    "symbol": "ARB",
+    "decimals": 18
+  },
+  "0x4D0528598F916Fd1D8dc80e5f54a8fEEDcFd4b18": {
+    "name": "Atoshi",
+    "logo": "ATOS.svg",
+    "erc20": true,
+    "symbol": "ATOS",
+    "decimals": 18
+  },
+  "0x57B946008913B82E4dF85f501cbAeD910e58D26C": {
+    "name": "POND",
+    "logo": "POND.svg",
+    "erc20": true,
+    "symbol": "POND",
+    "decimals": 18
+  },
+  "0x5eed99d066a8CaF10f3E4327c1b3D8b673485eED": {
+    "name": "SEED",
+    "logo": "SEED.svg",
+    "erc20": true,
+    "symbol": "SEED",
+    "decimals": 18
+  },
+  "0x487d62468282Bd04ddf976631C23128A425555EE": {
+    "name": "UPCX",
+    "logo": "UPC.svg",
+    "erc20": true,
+    "symbol": "UPC",
+    "decimals": 5
+  },
+
   "0xd3210F246Ae54C5a45A7b4A83315bf718F591bfc": {
     "name": "ArkiTech",
     "logo": "ARKI.svg",
@@ -4617,6 +4653,28 @@
     "logo": "steCRV.png",
     "erc20": true,
     "symbol": "steCRV",
+    "decimals": 18
+  },
+  "0x4E241A9EC66832a16bceaeB9156E524487f061D7": {
+    "name": "ETF Rocks",
+    "logo": "etf.svg",
+    "erc20": true,
+    "symbol": "ETF",
+    "decimals": 18
+  },
+  "0xA849EaaE994fb86Afa73382e9Bd88c2B6b18Dc71": {
+    "name": "Mass Vehicle Ledger",
+    "logo": "mvl.svg",
+    "erc20": true,
+    "symbol": "MVL",
+    "decimals": 18
+  },
+  "0xd5F7838F5C461fefF7FE49ea5ebaF7728bB0ADfa": {
+    "name": "Mantle Staked Ether",
+    "logo": "mETH.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "mETH",
     "decimals": 18
   }
 }
