@@ -1,3 +1,10 @@
+"0x29a5daf6e3fdf964def07706ea1abee7ec03d021": {
+  "name": "Trillioner",
+  "logo": "tlc.svg",
+  "erc20": true,
+  "symbol": "TLC",
+  "decimals": 18
+},
 {
   "0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1": {
     "name": "Arbitrum",
