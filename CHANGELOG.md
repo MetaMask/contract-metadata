@@ -6,6 +6,51 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.5.0]
+### Uncategorized
+- Adding NGL logo and token contract metadata ([#1289](https://github.com/MetaMask/contract-metadata/pull/1289))
+- Update MVL token logo ([#1288](https://github.com/MetaMask/contract-metadata/pull/1288))
+- Update ARKI logo ([#1287](https://github.com/MetaMask/contract-metadata/pull/1287))
+- Enabling MetaMask security code scanner ([#1280](https://github.com/MetaMask/contract-metadata/pull/1280))
+- Adding ETF Rocks logo and information ([#1256](https://github.com/MetaMask/contract-metadata/pull/1256))
+- Adding MVL(Mass Vehicle Ledger) Token ([#1281](https://github.com/MetaMask/contract-metadata/pull/1281))
+- ARB token update ([#1278](https://github.com/MetaMask/contract-metadata/pull/1278))
+- add POND ([#1276](https://github.com/MetaMask/contract-metadata/pull/1276))
+- ATOS token update ([#1274](https://github.com/MetaMask/contract-metadata/pull/1274))
+- Adding SEED token to metamask list ([#1271](https://github.com/MetaMask/contract-metadata/pull/1271))
+- Add UPC ([#1240](https://github.com/MetaMask/contract-metadata/pull/1240))
+- Add ArkiTech to the contract-map.json ([#1263](https://github.com/MetaMask/contract-metadata/pull/1263))
+- Add mETH token to contract map ([#1269](https://github.com/MetaMask/contract-metadata/pull/1269))
+- Add duckdao ([#1255](https://github.com/MetaMask/contract-metadata/pull/1255))
+- Add DINO ([#1254](https://github.com/MetaMask/contract-metadata/pull/1254))
+- Add SWRV ([#1253](https://github.com/MetaMask/contract-metadata/pull/1253))
+- Add AGVC ([#1252](https://github.com/MetaMask/contract-metadata/pull/1252))
+- Add ocean ([#1251](https://github.com/MetaMask/contract-metadata/pull/1251))
+- Add Pols ([#1250](https://github.com/MetaMask/contract-metadata/pull/1250))
+- Feature/replace gen ([#1249](https://github.com/MetaMask/contract-metadata/pull/1249))
+- Feature/add math ([#1248](https://github.com/MetaMask/contract-metadata/pull/1248))
+- Feature/add gods ([#1247](https://github.com/MetaMask/contract-metadata/pull/1247))
+- Feature/add imx ([#1246](https://github.com/MetaMask/contract-metadata/pull/1246))
+- Update ART logo ([#1241](https://github.com/MetaMask/contract-metadata/pull/1241))
+- add support for WASSIE ERC20 token icon ([#1239](https://github.com/MetaMask/contract-metadata/pull/1239))
+- Add PROOF Platform ($PROOF) token ([#1235](https://github.com/MetaMask/contract-metadata/pull/1235))
+- add steCRV ([#1238](https://github.com/MetaMask/contract-metadata/pull/1238))
+- Add TokenFi Contract and Logo ([#1236](https://github.com/MetaMask/contract-metadata/pull/1236))
+- Addition of Aave protocol Gho Token ([#1234](https://github.com/MetaMask/contract-metadata/pull/1234))
+- Update contract-map.json
+- VAL Omni fungible token (OFT) - Ethereum ([#1232](https://github.com/MetaMask/contract-metadata/pull/1232))
+- Add YLD token ([#1228](https://github.com/MetaMask/contract-metadata/pull/1228))
+- Updates to USDC and EURC branding ([#1226](https://github.com/MetaMask/contract-metadata/pull/1226))
+- Add JOB ([#1224](https://github.com/MetaMask/contract-metadata/pull/1224))
+- Add GOL ([#1223](https://github.com/MetaMask/contract-metadata/pull/1223))
+- Add LOOM ([#1222](https://github.com/MetaMask/contract-metadata/pull/1222))
+- Add PKF ([#1221](https://github.com/MetaMask/contract-metadata/pull/1221))
+- Fix LUNA token names ([#1220](https://github.com/MetaMask/contract-metadata/pull/1220))
+- Adding Pantos Token ([#1217](https://github.com/MetaMask/contract-metadata/pull/1217))
+- Add grg token ([#302](https://github.com/MetaMask/contract-metadata/pull/302))
+- remove overlaping test ([#1219](https://github.com/MetaMask/contract-metadata/pull/1219))
+- Add KAP Games to contract-map.json ([#1215](https://github.com/MetaMask/contract-metadata/pull/1215))
+
 ## [2.4.0]
 ### Added
 - Add PayPal USD (PYUSD) ([#1214](https://github.com/MetaMask/contract-metadata/pull/1214))
@@ -123,7 +168,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Adding top nfts contracts on opensea by floor price ([#1052](https://github.com/MetaMask/contract-metadata/pull/1052))
 - New release ([#1045](https://github.com/MetaMask/contract-metadata/pull/1045))
 
-[Unreleased]: https://github.com/MetaMask/contract-metadata/compare/v2.4.0...HEAD
+[Unreleased]: https://github.com/MetaMask/contract-metadata/compare/v2.5.0...HEAD
+[2.5.0]: https://github.com/MetaMask/contract-metadata/compare/v2.4.0...v2.5.0
 [2.4.0]: https://github.com/MetaMask/contract-metadata/compare/v2.3.1...v2.4.0
 [2.3.1]: https://github.com/MetaMask/contract-metadata/compare/v2.3.0...v2.3.1
 [2.3.0]: https://github.com/MetaMask/contract-metadata/compare/v2.2.0...v2.3.0
