@@ -4680,7 +4680,7 @@
     "logo": "meow.svg",
     "erc20": true,
     "symbol": "MEOW",
-    "decimals": 18
+    "decimals": 9
   },
   "0xd5F7838F5C461fefF7FE49ea5ebaF7728bB0ADfa": {
     "name": "Mantle Staked Ether",
