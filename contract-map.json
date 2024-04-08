@@ -4675,6 +4675,13 @@
     "symbol": "MVL",
     "decimals": 18
   },
+  "0x77be1ba1Cd2D7a63BFfC772D361168cc327dd8bc": {
+    "name": "Meow Meow Coin",
+    "logo": "meow.svg",
+    "erc20": true,
+    "symbol": "MEOW",
+    "decimals": 9
+  },
   "0xd5F7838F5C461fefF7FE49ea5ebaF7728bB0ADfa": {
     "name": "Mantle Staked Ether",
     "logo": "mETH.svg",
