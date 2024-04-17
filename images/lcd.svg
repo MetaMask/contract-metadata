@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1080 1080" style="enable-background:new 0 0 1080 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#2928F4;}
+</style>
+<g>
+	<radialGradient id="SVGID_1_" cx="540" cy="540" r="540" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
+		<stop  offset="0.298" style="stop-color:#FDFDFF;stop-opacity:0.298"/>
+		<stop  offset="0.4419" style="stop-color:#F5F5FE;stop-opacity:0.4419"/>
+		<stop  offset="0.5529" style="stop-color:#E8E8FE;stop-opacity:0.5529"/>
+		<stop  offset="0.647" style="stop-color:#D6D6FD;stop-opacity:0.647"/>
+		<stop  offset="0.7303" style="stop-color:#BEBEFC;stop-opacity:0.7303"/>
+		<stop  offset="0.8061" style="stop-color:#A1A0FA;stop-opacity:0.8061"/>
+		<stop  offset="0.8762" style="stop-color:#7D7DF8;stop-opacity:0.8762"/>
+		<stop  offset="0.9399" style="stop-color:#5655F6;stop-opacity:0.9399"/>
+		<stop  offset="1" style="stop-color:#2928F4"/>
+	</radialGradient>
+	<circle class="st0" cx="540" cy="540" r="540"/>
+	<g>
+		<defs>
+			<circle id="SVGID_00000005956710390124688520000001878195997782447038_" cx="540" cy="540" r="540"/>
+		</defs>
+		<clipPath id="SVGID_00000047773750817667611480000002376484510876360865_">
+			<use xlink:href="#SVGID_00000005956710390124688520000001878195997782447038_"  style="overflow:visible;"/>
+		</clipPath>
+	</g>
+	<g>
+		<defs>
+			<circle id="SVGID_00000134929430110155126450000007805671860076936632_" cx="540" cy="540" r="540"/>
+		</defs>
+		<clipPath id="SVGID_00000042002341982661934480000013873085490703763891_">
+			<use xlink:href="#SVGID_00000134929430110155126450000007805671860076936632_"  style="overflow:visible;"/>
+		</clipPath>
+	</g>
+</g>
+<g>
+	<path class="st1" d="M501.39,300.77H390.44v176.71c35.87,13.85,72.97,24.65,110.95,32.33V300.77z"/>
+	<path class="st1" d="M501.39,596.03c-37.8-6.79-74.86-16.35-110.95-28.59v211.78h311.09v-98.08H501.39V596.03z"/>
+</g>
+</svg>
