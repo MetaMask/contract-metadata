@@ -4689,5 +4689,12 @@
     "erc721": false,
     "symbol": "mETH",
     "decimals": 18
+  },
+  "0xe701c284ed9de407da905d918d06dd94f0908c3a": {
+    "name": "Lambda chain",
+    "logo": "LAMBDA.svg",
+    "erc20": true,
+    "symbol": "LAMBDA",
+    "decimals": 18
   }
 }
