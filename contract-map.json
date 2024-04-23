@@ -4689,5 +4689,13 @@
     "erc721": false,
     "symbol": "mETH",
     "decimals": 18
+  },
+  "0x4730604acf4312eba6977826456ff5365517388a": {
+    "name": "Quotes Token",
+    "logo": "quotestoken.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "QTS",
+    "decimals": 18
   }
 }
