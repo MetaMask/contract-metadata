@@ -2500,7 +2500,7 @@
     "symbol": "DAI",
     "decimals": 18
   },
-  "0x4c1f6fcbd233241bf2f4d02811e3bf8429bc27b8": {
+  "0x4C1f6fCBd233241bF2f4D02811E3bF8429BC27B8": {
     "name": "Palm DAI",
     "logo": "palm-dai.svg",
     "erc20": true,
