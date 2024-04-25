@@ -4689,5 +4689,13 @@
     "erc721": false,
     "symbol": "mETH",
     "decimals": 18
+  },
+  "0x38e382F74dfb84608F3C1F10187f6bEf5951DE93": {
+    "name": "MUBI",
+    "logo": "MUBI.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "MUBI",
+    "decimals": 18
   }
 }
