@@ -4697,5 +4697,13 @@
     "erc721": false,
     "symbol": "MUBI",
     "decimals": 18
+  },
+  "0x7d95009cC9B47548203362B98347090F70f8C7C2": {
+    "name": "Otter Space",
+    "logo": "otterspace.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "OTTERSPACE",
+    "decimals": 18
   }
 }
