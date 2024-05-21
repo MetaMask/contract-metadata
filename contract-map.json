@@ -4690,6 +4690,14 @@
     "symbol": "mETH",
     "decimals": 18
   },
+  "0xB0c7a3Ba49C7a6EaBa6cD4a96C55a1391070Ac9A": {
+    "name": "Treasure",
+    "logo": "MAGIC.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "MAGIC",
+    "decimals": 18
+  },
   "0x38e382F74dfb84608F3C1F10187f6bEf5951DE93": {
     "name": "MUBI",
     "logo": "MUBI.svg",
