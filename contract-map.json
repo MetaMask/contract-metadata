@@ -1,4 +1,11 @@
 {
+  "0x866A2BF4E572CbcF37D5071A7a58503Bfb36be1b":{
+    "name": "M by M^0",
+    "logo": "MTOKEN.svg",
+    "erc20": true,
+    "symbol": "M",
+    "decimals": 6
+  },
   "0x12652C6d93FDB6F4f37d48A8687783C782BB0d10": {
     "name": "Entangle",
     "logo": "NGL.svg",
