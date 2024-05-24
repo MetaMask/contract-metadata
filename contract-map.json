@@ -1,11 +1,4 @@
 {
-  "0x866A2BF4E572CbcF37D5071A7a58503Bfb36be1b":{
-    "name": "M by M^0",
-    "logo": "m-by-m0.svg",
-    "erc20": true,
-    "symbol": "M",
-    "decimals": 6
-  },
   "0x988567FE094570cCE1FFdA29D1f2d842B70492be":{
     "name": "Zero by M^0",
     "logo": "zero-by-m-0.svg",
