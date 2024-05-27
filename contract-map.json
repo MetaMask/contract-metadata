@@ -21,7 +21,7 @@
     "decimals": 18
   },
   "0x57B946008913B82E4dF85f501cbAeD910e58D26C": {
-    "name": "POND",
+    "name": "Marlin",
     "logo": "POND.svg",
     "erc20": true,
     "symbol": "POND",
@@ -4698,12 +4698,60 @@
     "symbol": "ynETH",
     "decimals": 18
   },
+  "0xB0c7a3Ba49C7a6EaBa6cD4a96C55a1391070Ac9A": {
+    "name": "Treasure",
+    "logo": "MAGIC.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "MAGIC",
+    "decimals": 18
+  },
   "0x38e382F74dfb84608F3C1F10187f6bEf5951DE93": {
     "name": "MUBI",
     "logo": "MUBI.svg",
     "erc20": true,
     "erc721": false,
     "symbol": "MUBI",
+    "decimals": 18
+  },
+  "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8": {
+    "name": "EURA",
+    "logo": "EURA.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "EURA",
+    "decimals": 18
+  },
+  "0x004626A008B1aCdC4c74ab51644093b155e59A23": {
+    "name": "Staked EURA",
+    "logo": "stEUR.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "stEUR",
+    "decimals": 18
+  },
+  "0x0000206329b97DB379d5E1Bf586BbDB969C63274": {
+    "name": "USDA",
+    "logo": "USDA.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "USDA",
+    "decimals": 18
+  },
+  "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
+    "name": "Staked USDA",
+    "logo": "stUSD.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "stUSD",
+    "decimals": 18
+  },
+  "0x31429d1856aD1377A8A0079410B297e1a9e214c2": {
+    "name": "ANGLE",
+    "logo": "ANGLE.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "ANGLE",
     "decimals": 18
   }
 }
