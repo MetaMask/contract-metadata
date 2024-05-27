@@ -4690,6 +4690,14 @@
     "symbol": "mETH",
     "decimals": 18
   },
+  "0x09db87A538BD693E9d08544577d5cCfAA6373A48": {
+    "name": "YieldNest Restaked ETH",
+    "logo": "ynETH.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "ynETH",
+    "decimals": 18
+  },
   "0x38e382F74dfb84608F3C1F10187f6bEf5951DE93": {
     "name": "MUBI",
     "logo": "MUBI.svg",
