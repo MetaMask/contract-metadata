@@ -4753,5 +4753,21 @@
     "erc721": false,
     "symbol": "ANGLE",
     "decimals": 18
+  },
+  "0xF5e11df1ebCf78b6b6D26E04FF19cD786a1e81dC": {
+    "name": "BounceBit BTC",
+    "logo": "BBTC.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "BBTC",
+    "decimals": 18
+  },
+  "0x77776b40C3d75cb07ce54dEA4b2Fd1D07F865222": {
+    "name": "BounceBit USD",
+    "logo": "BBUSD.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "BBUSD",
+    "decimals": 18
   }
 }
