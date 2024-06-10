@@ -4753,5 +4753,13 @@
     "erc721": false,
     "symbol": "ANGLE",
     "decimals": 18
+  },
+  "0x5165ec33b491d7b67260B3143f96Bb4aC4736398": {
+    "name": "LONG",
+    "logo": "LONG.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "LONG",
+    "decimals": 18
   }
 }
