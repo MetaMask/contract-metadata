@@ -4753,5 +4753,21 @@
     "erc721": false,
     "symbol": "ANGLE",
     "decimals": 18
+  },
+  "0xe8fC52b1bb3a40fd8889C0f8f75879676310dDf0": {
+    "name": "Mystiko Token",
+    "logo": "XZK.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "XZK",
+    "decimals": 18
+  },
+  "0x16aFFA80C65Fd7003d40B24eDb96f77b38dDC96A": {
+    "name": "Mystiko Vote Token",
+    "logo": "vXZK.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "vXZK",
+    "decimals": 18
   }
 }
