@@ -97,6 +97,13 @@
     "symbol": "MATH",
     "decimals": 18
   },
+  "0x509A38b7a1cC0dcd83Aa9d06214663D9eC7c7F4a": {
+    "name": "Blocksquare Token",
+    "logo": "BST.svg",
+    "erc20": true,
+    "symbol": "BST",
+    "decimals": 18
+  },
   "0xccC8cb5229B0ac8069C51fd58367Fd1e622aFD97": {
     "name": "Gods Unchained",
     "logo": "gods.svg",
