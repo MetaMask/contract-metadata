@@ -1,4 +1,18 @@
 {
+  "0x988567FE094570cCE1FFdA29D1f2d842B70492be":{
+    "name": "Zero by M^0",
+    "logo": "zero-by-m-0.svg",
+    "erc20": true,
+    "symbol": "ZERO",
+    "decimals": 6
+  },
+  "0x5983B89FA184f14917013B9C3062afD9434C5b03":{
+    "name": "Power by M^0",
+    "logo": "power-by-m-0.svg",
+    "erc20": true,
+    "symbol": "POWER",
+    "decimals": 0
+  },
   "0x12652C6d93FDB6F4f37d48A8687783C782BB0d10": {
     "name": "Entangle",
     "logo": "NGL.svg",
