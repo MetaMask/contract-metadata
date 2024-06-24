@@ -2507,6 +2507,13 @@
     "symbol": "DAI",
     "decimals": 18
   },
+  "0x4C1f6fCBd233241bF2f4D02811E3bF8429BC27B8": {
+    "name": "Palm DAI",
+    "logo": "palm-dai.svg",
+    "erc20": true,
+    "symbol": "DAI",
+    "decimals": 18
+  },
   "0xC477D038d5420C6A9e0b031712f61c5120090de9": {
     "name": "Boson Token",
     "logo": "boson.svg",
