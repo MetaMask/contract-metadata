@@ -4776,5 +4776,13 @@
     "erc721": false,
     "symbol": "BBUSD",
     "decimals": 18
+  },
+  "0xd2bA23dE8a19316A638dc1e7a9ADdA1d74233368": {
+    "name": "QuickSwap",
+    "logo": "QS.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "QUICK",
+    "decimals": 18
   }
 }
