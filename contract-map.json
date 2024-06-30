@@ -4785,4 +4785,12 @@
     "symbol": "QUICK",
     "decimals": 18
   }
+  "0xEd4B2eAc3df3708162780f3F9CdcC146D1596056": {
+    "name": "Talentum",
+    "logo": "TAL.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "TAL",
+    "decimals": 9
+  }
 }
