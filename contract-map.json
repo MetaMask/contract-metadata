@@ -6,6 +6,13 @@
     "symbol": "NGL",
     "decimals": 18
   },
+  "0x0e0c9756a3290cD782CF4aB73ac24D25291c9564": {
+    "name": "Anime",
+    "logo": "anime.svg",
+    "erc20": true,
+    "symbol": "ANIME",
+    "decimals": 18
+  },
   "0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1": {
     "name": "Arbitrum",
     "logo": "Arb.svg",
