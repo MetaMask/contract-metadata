@@ -4784,5 +4784,13 @@
     "erc721": false,
     "symbol": "QUICK",
     "decimals": 18
+  },
+  "0x4287105FFAC106EB98A71CaB46586906181e35ff": {
+    "name": "SWORD",
+    "logo": "SWORDBase.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "SWORD",
+    "decimals": 18
   }
 }
