@@ -111,6 +111,13 @@
     "symbol": "MATH",
     "decimals": 18
   },
+  "0x509A38b7a1cC0dcd83Aa9d06214663D9eC7c7F4a": {
+    "name": "Blocksquare Token",
+    "logo": "BST.svg",
+    "erc20": true,
+    "symbol": "BST",
+    "decimals": 18
+  },
   "0xccC8cb5229B0ac8069C51fd58367Fd1e622aFD97": {
     "name": "Gods Unchained",
     "logo": "gods.svg",
@@ -4704,6 +4711,14 @@
     "symbol": "mETH",
     "decimals": 18
   },
+  "0x09db87A538BD693E9d08544577d5cCfAA6373A48": {
+    "name": "YieldNest Restaked ETH",
+    "logo": "ynETH.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "ynETH",
+    "decimals": 18
+  },
   "0xB0c7a3Ba49C7a6EaBa6cD4a96C55a1391070Ac9A": {
     "name": "Treasure",
     "logo": "MAGIC.svg",
@@ -4758,6 +4773,30 @@
     "erc20": true,
     "erc721": false,
     "symbol": "ANGLE",
+    "decimals": 18
+  },
+  "0xF5e11df1ebCf78b6b6D26E04FF19cD786a1e81dC": {
+    "name": "BounceBit BTC",
+    "logo": "BBTC.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "BBTC",
+    "decimals": 18
+  },
+  "0x77776b40C3d75cb07ce54dEA4b2Fd1D07F865222": {
+    "name": "BounceBit USD",
+    "logo": "BBUSD.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "BBUSD",
+    "decimals": 18
+  },
+  "0xd2bA23dE8a19316A638dc1e7a9ADdA1d74233368": {
+    "name": "QuickSwap",
+    "logo": "QS.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "QUICK",
     "decimals": 18
   }
 }
