@@ -4784,5 +4784,13 @@
     "erc721": false,
     "symbol": "QUICK",
     "decimals": 18
+  },
+  "0x2B72867c32CF673F7b02d208B26889fEd353B1f8": {
+    "name": "Magic Square",
+    "logo": "SQR.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "SQR",
+    "decimals": 8
   }
 }
