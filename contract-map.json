@@ -4784,5 +4784,19 @@
     "erc721": false,
     "symbol": "QUICK",
     "decimals": 18
+  },
+  "0x2be5e8c109e2197D077D13A82dAead6a9b3433C5": {
+    "name": "Tokamak Network Token",
+    "logo": "TON.svg",
+    "erc20": true,
+    "symbol": "TON",
+    "decimals": 18
+  },
+  "0xc4A11aaf6ea915Ed7Ac194161d2fC9384F15bff2": {
+    "name": "Wrapped TON",
+    "logo": "WTON.svg",
+    "erc20": true,
+    "symbol": "WTON",
+    "decimals": 27
   }
 }
