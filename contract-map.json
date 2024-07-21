@@ -4798,5 +4798,12 @@
     "erc20": true,
     "symbol": "WTON",
     "decimals": 27
+  },
+ "0x6F24D8b3bbE98558ec8E7f55F976C9Ac6023992F": {
+    "name": "Hala Token",
+    "logo": "hlt.svg",
+    "erc20": true,
+    "symbol": "HLT",
+    "decimals": 18
   }
 }
