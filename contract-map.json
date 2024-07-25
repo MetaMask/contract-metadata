@@ -2880,7 +2880,7 @@
   },
   "0xB8c77482e45F1F44dE1745F52C74426C631bDD52": {
     "name": "Binance Coin",
-    "logo": "bnb.png",
+    "logo": "bnb.svg",
     "erc20": true,
     "symbol": "BNB",
     "decimals": 18
