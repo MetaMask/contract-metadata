@@ -97,6 +97,13 @@
     "symbol": "MATH",
     "decimals": 18
   },
+  "0x509A38b7a1cC0dcd83Aa9d06214663D9eC7c7F4a": {
+    "name": "Blocksquare Token",
+    "logo": "BST.svg",
+    "erc20": true,
+    "symbol": "BST",
+    "decimals": 18
+  },
   "0xccC8cb5229B0ac8069C51fd58367Fd1e622aFD97": {
     "name": "Gods Unchained",
     "logo": "gods.svg",
@@ -2873,7 +2880,7 @@
   },
   "0xB8c77482e45F1F44dE1745F52C74426C631bDD52": {
     "name": "Binance Coin",
-    "logo": "bnb.png",
+    "logo": "bnb.svg",
     "erc20": true,
     "symbol": "BNB",
     "decimals": 18
@@ -4769,5 +4776,43 @@
     "erc721": false,
     "symbol": "vXZK",
     "decimals": 18
+  },
+  "0xF5e11df1ebCf78b6b6D26E04FF19cD786a1e81dC": {
+    "name": "BounceBit BTC",
+    "logo": "BBTC.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "BBTC",
+    "decimals": 18
+  },
+  "0x77776b40C3d75cb07ce54dEA4b2Fd1D07F865222": {
+    "name": "BounceBit USD",
+    "logo": "BBUSD.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "BBUSD",
+    "decimals": 18
+  },
+  "0xd2bA23dE8a19316A638dc1e7a9ADdA1d74233368": {
+    "name": "QuickSwap",
+    "logo": "QS.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "QUICK",
+    "decimals": 18
+  },
+  "0x2be5e8c109e2197D077D13A82dAead6a9b3433C5": {
+    "name": "Tokamak Network Token",
+    "logo": "TON.svg",
+    "erc20": true,
+    "symbol": "TON",
+    "decimals": 18
+  },
+  "0xc4A11aaf6ea915Ed7Ac194161d2fC9384F15bff2": {
+    "name": "Wrapped TON",
+    "logo": "WTON.svg",
+    "erc20": true,
+    "symbol": "WTON",
+    "decimals": 27
   }
 }
