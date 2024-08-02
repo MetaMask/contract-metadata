@@ -4808,6 +4808,13 @@
     "symbol": "TON",
     "decimals": 18
   },
+  "0x31aaB810b51f499340FC1e1B08716d2bC92C7A56": {
+    "name": "Time Capsule",
+    "logo": "TCA.svg",
+    "erc20": true,
+    "symbol": "TCA",
+    "decimals": 18
+  },
   "0xc4A11aaf6ea915Ed7Ac194161d2fC9384F15bff2": {
     "name": "Wrapped TON",
     "logo": "WTON.svg",
