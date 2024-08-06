@@ -4808,6 +4808,13 @@
     "symbol": "TON",
     "decimals": 18
   },
+  "0x764A726d9ceD0433A8D7643335919dEb03a9a935": {
+    "name": "Pocket Network",
+    "logo": "POKT.png",
+    "erc20": true,
+    "symbol": "POKT",
+    "decimals": 6
+  },
   "0xc4A11aaf6ea915Ed7Ac194161d2fC9384F15bff2": {
     "name": "Wrapped TON",
     "logo": "WTON.svg",
