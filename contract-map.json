@@ -4333,6 +4333,13 @@
     "symbol": "DLB",
     "decimals": 18
   },
+  "0x148255a3b10666d9788ec48bc61ea3e48974bf2c": {
+    "name": "DMCCOIN",
+    "logo": "DMCC.svg",
+    "erc20": true,
+    "symbol": "DMCC",
+    "decimals": 18
+  },
   "0x4d224452801ACEd8B2F0aebE155379bb5D594381": {
     "name": "ApeCoin",
     "logo": "APE.svg",
