@@ -4814,5 +4814,12 @@
     "erc20": true,
     "symbol": "WTON",
     "decimals": 27
+  },
+    "0x148255a3b10666d9788ec48bc61ea3e48974bf2c": {
+    "name": "Decentralized Music Chain",
+    "logo": "DMCC.svg",
+    "erc20": true,
+    "symbol": "DMCC",
+    "decimals": 18
   }
 }
