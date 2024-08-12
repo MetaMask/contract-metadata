@@ -4333,6 +4333,13 @@
     "symbol": "DLB",
     "decimals": 18
   },
+  "0x148255a3b10666D9788Ec48BC61Ea3e48974bf2C": {
+    "name": "DMCCOIN",
+    "logo": "DMCC.svg",
+    "erc20": true,
+    "symbol": "DMCC",
+    "decimals": 18
+  },
   "0x4d224452801ACEd8B2F0aebE155379bb5D594381": {
     "name": "ApeCoin",
     "logo": "APE.svg",
@@ -4814,6 +4821,13 @@
     "erc20": true,
     "symbol": "TCA",
     "decimals": 18
+  },
+  "0x764A726d9ceD0433A8D7643335919dEb03a9a935": {
+    "name": "Pocket Network",
+    "logo": "POKT.svg",
+    "erc20": true,
+    "symbol": "POKT",
+    "decimals": 6
   },
   "0xc4A11aaf6ea915Ed7Ac194161d2fC9384F15bff2": {
     "name": "Wrapped TON",
