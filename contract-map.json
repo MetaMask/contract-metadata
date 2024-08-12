@@ -4810,7 +4810,7 @@
   },
   "0x764A726d9ceD0433A8D7643335919dEb03a9a935": {
     "name": "Pocket Network",
-    "logo": "POKT.png",
+    "logo": "POKT.svg",
     "erc20": true,
     "symbol": "POKT",
     "decimals": 6
