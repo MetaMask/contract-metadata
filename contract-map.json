@@ -4828,5 +4828,12 @@
     "erc20": true,
     "symbol": "WTON",
     "decimals": 27
+  },
+  "0xfF836A5821E69066c87E268bC51b849FaB94240C": {
+    "name": "Real Smurf Cat",
+    "logo": "smurflogo.png",
+    "erc20": true,
+    "symbol": "SMURFCAT",
+    "decimals": 18
   }
 }
