@@ -1,4 +1,10 @@
 {
+  "0x31b28012F61fc3600e1c076baFc9Fd997FB2DA90": {
+    "name": "Mrs Miggles",
+    "logo": "MRSMIGGLES.png",
+    "erc20": true,
+    "decimals": 18
+  },
   "0x12652C6d93FDB6F4f37d48A8687783C782BB0d10": {
     "name": "Entangle",
     "logo": "NGL.svg",
