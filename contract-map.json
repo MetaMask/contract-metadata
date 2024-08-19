@@ -4828,5 +4828,12 @@
     "erc20": true,
     "symbol": "WTON",
     "decimals": 27
+  },
+  "0xc11158c5dA9db1D553ED28f0C2BA1CbEDD42CFcb": {
+    "name": "Wrapped PAW",
+    "logo": "PAW.svg",
+    "erc20": true,
+    "symbol": "wPAW",
+    "decimals": 18
   }
 }
