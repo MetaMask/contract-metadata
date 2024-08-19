@@ -4829,11 +4829,11 @@
     "symbol": "WTON",
     "decimals": 27
   },
-  "0xC11158C5dA9db1D553Ed28F0C2Ba1Cbedd42CfCb": {
+  "0xC11158C5Da9Db1D553ED28f0C2Ba1cbEDd42CfcB": {
     "name": "Wrapped PAW",
     "logo": "PAW.svg",
     "erc20": true,
-    "symbol": "WPAW",
+    "symbol": "wPAW",
     "decimals": 18
   }
 }
