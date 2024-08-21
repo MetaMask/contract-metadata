@@ -1,7 +1,7 @@
 {
   "0x31b28012F61fc3600e1c076baFc9Fd997FB2DA90": {
     "name": "Mrs Miggles",
-    "logo": "MRSMIGGLES.png",
+    "logo": "MRSMIGGLES.svg",
     "erc20": true,
     "decimals": 18
   },
