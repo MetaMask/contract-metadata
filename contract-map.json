@@ -2880,7 +2880,7 @@
   },
   "0xB8c77482e45F1F44dE1745F52C74426C631bDD52": {
     "name": "Binance Coin",
-    "logo": "bnb.png",
+    "logo": "bnb.svg",
     "erc20": true,
     "symbol": "BNB",
     "decimals": 18
@@ -4333,6 +4333,13 @@
     "symbol": "DLB",
     "decimals": 18
   },
+  "0x148255a3b10666D9788Ec48BC61Ea3e48974bf2C": {
+    "name": "DMCCOIN",
+    "logo": "DMCC.svg",
+    "erc20": true,
+    "symbol": "DMCC",
+    "decimals": 18
+  },
   "0x4d224452801ACEd8B2F0aebE155379bb5D594381": {
     "name": "ApeCoin",
     "logo": "APE.svg",
@@ -4761,6 +4768,22 @@
     "symbol": "ANGLE",
     "decimals": 18
   },
+  "0xe8fC52b1bb3a40fd8889C0f8f75879676310dDf0": {
+    "name": "Mystiko Token",
+    "logo": "XZK.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "XZK",
+    "decimals": 18
+  },
+  "0x16aFFA80C65Fd7003d40B24eDb96f77b38dDC96A": {
+    "name": "Mystiko Vote Token",
+    "logo": "vXZK.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "vXZK",
+    "decimals": 18
+  },
   "0xF5e11df1ebCf78b6b6D26E04FF19cD786a1e81dC": {
     "name": "BounceBit BTC",
     "logo": "BBTC.svg",
@@ -4792,12 +4815,33 @@
     "symbol": "TON",
     "decimals": 18
   },
+  "0x764A726d9ceD0433A8D7643335919dEb03a9a935": {
+    "name": "Pocket Network",
+    "logo": "POKT.svg",
+    "erc20": true,
+    "symbol": "POKT",
+    "decimals": 6
+  },
   "0xc4A11aaf6ea915Ed7Ac194161d2fC9384F15bff2": {
     "name": "Wrapped TON",
     "logo": "WTON.svg",
     "erc20": true,
     "symbol": "WTON",
     "decimals": 27
+  },
+  "0xc11158c5dA9db1D553ED28f0C2BA1CbEDD42CFcb": {
+    "name": "Wrapped PAW",
+    "logo": "PAW.svg",
+    "erc20": true,
+    "symbol": "wPAW",
+    "decimals": 18
+  },
+  "0xfB5c6815cA3AC72Ce9F5006869AE67f18bF77006": {
+    "name": "pSTAKE Finance",
+    "logo": "pstake.svg",
+    "erc20": true,
+    "symbol": "PSTAKE",
+    "decimals": 18
   },
   "0x15700B564Ca08D9439C58cA5053166E8317aa138": {
     "name": "Elixir deUSD",
