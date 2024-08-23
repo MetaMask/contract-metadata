@@ -4835,5 +4835,12 @@
     "erc20": true,
     "symbol": "wPAW",
     "decimals": 18
+  },
+  "0xfB5c6815cA3AC72Ce9F5006869AE67f18bF77006": {
+    "name": "pSTAKE Finance",
+    "logo": "pstake.svg",
+    "erc20": true,
+    "symbol": "PSTAKE",
+    "decimals": 18
   }
 }
