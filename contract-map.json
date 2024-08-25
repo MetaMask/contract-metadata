@@ -4842,5 +4842,12 @@
     "erc20": true,
     "symbol": "PSTAKE",
     "decimals": 18
+  },
+  "0x15700B564Ca08D9439C58cA5053166E8317aa138": {
+    "name": "Elixir deUSD",
+    "logo": "deUSD.svg",
+    "erc20": true,
+    "symbol": "deUSD",
+    "decimals": 18
   }
 }
