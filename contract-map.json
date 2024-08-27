@@ -3392,6 +3392,13 @@
     "symbol": "MATIC",
     "decimals": 18
   },
+  "0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6": {
+    "name": "Polygon Network Token",
+    "logo": "pol.svg",
+    "erc20": true,
+    "symbol": "POL",
+    "decimals": 18
+  },
   "0x9992eC3cF6A55b00978cdDF2b27BC6882d88D1eC": {
     "name": "Polymath",
     "logo": "poly.svg",
