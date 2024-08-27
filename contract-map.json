@@ -1,12 +1,7 @@
-: {    "name": "Entangle",
-    "logo": "NGL.svg",
-    "erc20": true,
-    "symbol": "NGL",
-    "decimals": 18
-  },
-  "0x496d8C49B31ffC18c2bD9839F93BAeF771Ab1dF5": {
+},
+"0x496d8C49B31ffC18c2bD9839F93BAeF771Ab1dF5"
     "name": "Africash",
-    "logo": "a.png",
+    "logo": "Africash.svg",
     "erc20": false,
     "symbol": "Afc",
     "decimals": 18
