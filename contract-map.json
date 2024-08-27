@@ -4849,5 +4849,12 @@
     "erc20": true,
     "symbol": "deUSD",
     "decimals": 18
+  },
+  "0x6e79b51959cf968d87826592f46f819f92466615": {
+    "name": "Hoppy",
+    "logo": "hoppy.svg",
+    "erc20": true,
+    "symbol": "HOPPY",
+    "decimals": 9
   }
 }
