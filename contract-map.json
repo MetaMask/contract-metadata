@@ -3392,6 +3392,13 @@
     "symbol": "MATIC",
     "decimals": 18
   },
+  "0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6": {
+    "name": "Polygon Network Token",
+    "logo": "pol.svg",
+    "erc20": true,
+    "symbol": "POL",
+    "decimals": 18
+  },
   "0x9992eC3cF6A55b00978cdDF2b27BC6882d88D1eC": {
     "name": "Polymath",
     "logo": "poly.svg",
@@ -3764,7 +3771,7 @@
     "decimals": 18
   },
   "0x968F6f898a6Df937fC1859b323aC2F14643e3fED": {
-    "name": "Newscrypto",
+    "name": "Numerico",
     "logo": "NWC.svg",
     "erc20": true,
     "symbol": "NWC",
@@ -4842,5 +4849,25 @@
     "erc20": true,
     "symbol": "XPRT",
     "decimals": 6
+  "0xfB5c6815cA3AC72Ce9F5006869AE67f18bF77006": {
+    "name": "pSTAKE Finance",
+    "logo": "pstake.svg",
+    "erc20": true,
+    "symbol": "PSTAKE",
+    "decimals": 18
+  },
+  "0x15700B564Ca08D9439C58cA5053166E8317aa138": {
+    "name": "Elixir deUSD",
+    "logo": "deUSD.svg",
+    "erc20": true,
+    "symbol": "deUSD",
+    "decimals": 18
+  },
+  "0x6E79B51959CF968d87826592f46f819F92466615": {
+    "name": "Hoppy",
+    "logo": "hoppy.svg",
+    "erc20": true,
+    "symbol": "HOPPY",
+    "decimals": 9
   }
 }
