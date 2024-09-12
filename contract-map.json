@@ -4857,6 +4857,13 @@
     "symbol": "deUSD",
     "decimals": 18
   },
+  "0xFd54E565e6de7509B07CDBa5769178045F212530": {
+    "name": "Mao",
+    "logo": "MAO.svg",
+    "erc20": true,
+    "symbol": "MAO",
+    "decimals": 18
+  },
   "0x6E79B51959CF968d87826592f46f819F92466615": {
     "name": "Hoppy",
     "logo": "hoppy.svg",
