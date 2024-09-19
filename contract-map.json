@@ -4863,5 +4863,12 @@
     "erc20": true,
     "symbol": "HOPPY",
     "decimals": 9
+  },
+  "0x6255095166459BC3C20b785529bC04e5084e5e02": {
+    "name": "Shiba San",
+    "logo": "images/SHIBA.svg",
+    "erc20": true,
+    "symbol": "SHIBA",
+    "decimals": 18
   }
 }
