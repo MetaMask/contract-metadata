@@ -2507,6 +2507,27 @@
     "symbol": "DAI",
     "decimals": 18
   },
+  "0xdC035D45d973E3EC169d2276DDab16f1e407384F": {
+    "name": "Sky Dollar",
+    "logo": "usds-logo.svg",
+    "erc20": true,
+    "symbol": "USDS",
+    "decimals": 18
+  },
+"0x56072C95FAA701256059aa122697B133aDEd9279": {
+    "name": "Sky Ecosystem",
+    "logo": "sky-logo.svg",
+    "erc20": true,
+    "symbol": "SKY",
+    "decimals": 18
+  },
+"0xa3931d71877C0E7a3148CB7Eb4463524FEc27fbD": {
+    "name": "Savings USDS",
+    "logo": "susds-logo.svg",
+    "erc20": true,
+    "symbol": "sUSDS",
+    "decimals": 18
+  },
   "0xC477D038d5420C6A9e0b031712f61c5120090de9": {
     "name": "Boson Token",
     "logo": "boson.svg",
