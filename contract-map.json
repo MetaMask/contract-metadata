@@ -1393,6 +1393,13 @@
     "symbol": "aREN",
     "decimals": 18
   },
+  "0x35fA164735182de50811E8e2E824cFb9B6118ac2": {
+    "name": "ether.fi Staked ETH",
+    "logo": "eeth.svg",
+    "erc20": true,
+    "symbol": "eETH",
+    "decimals": 18
+  },
   "0x35f6B052C598d933D69A4EEC4D04c73A191fE6c2": {
     "name": "Aave SNX",
     "logo": "aSNX.svg",
