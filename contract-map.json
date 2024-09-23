@@ -4396,6 +4396,13 @@
     "symbol": "XTM",
     "decimals": 18
   },
+  "0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee": {
+    "name": "Wrapped eETH",
+    "logo": "weeth.svg",
+    "erc20": true,
+    "symbol": "weETH",
+    "decimals": 18
+  },
   "0xcf0C122c6b73ff809C693DB761e7BaeBe62b6a2E": {
     "name": "FLOKI",
     "logo": "floki.svg",
