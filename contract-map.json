@@ -4892,6 +4892,13 @@
     "symbol": "wPAW",
     "decimals": 18
   },
+  "0x808688c820AB080A6Ff1019F03E5EC227D9b522B":{
+    "name": "BAG",
+    "logo": "BAG.svg",
+    "erc20": true,
+    "symbol": "BAG",
+    "decimals": 18
+  },
   "0xfB5c6815cA3AC72Ce9F5006869AE67f18bF77006": {
     "name": "pSTAKE Finance",
     "logo": "pstake.svg",
