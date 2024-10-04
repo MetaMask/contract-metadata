@@ -13,6 +13,13 @@
     "symbol": "ARB",
     "decimals": 18
   },
+  "0xC18B4C1e0b4d4d0F1e9627F25399F5073079Ac3D": {
+    "name": "BOOH",
+    "logo": "BOOH.svg",
+    "erc20": true,
+    "symbol": "BOOH",
+    "decimals": 18
+  },
   "0x4D0528598F916Fd1D8dc80e5f54a8fEEDcFd4b18": {
     "name": "Atoshi",
     "logo": "ATOS.svg",
