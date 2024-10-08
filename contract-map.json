@@ -1,3 +1,10 @@
+"0x29a5daf6e3fdf964def07706ea1abee7ec03d021": {
+  "name": "Trillioner",
+  "logo": "tlc.svg",
+  "erc20": true,
+  "symbol": "TLC",
+  "decimals": 18
+},
 {
   "0x12652C6d93FDB6F4f37d48A8687783C782BB0d10": {
     "name": "Entangle",
