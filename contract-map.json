@@ -4,8 +4,8 @@
     "logo": "NGL.svg",
     "erc20": true,
     "symbol": "NGL",
-    "decimals": 18
-      },
+    "decimals": 18    
+  },
   "0x14A2db256Ef18c4f7165d5E48f65a528b4155100": {
     "name": "Russian Blue Cat",
     "logo": "RBCAT.svg",
