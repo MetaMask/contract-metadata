@@ -6,13 +6,6 @@
     "symbol": "NGL",
     "decimals": 18    
   },
-  "0x14A2db256Ef18c4f7165d5E48f65a528b4155100": {
-    "name": "Russian Blue Cat",
-    "logo": "RBCAT.svg",
-    "erc20": true,
-    "symbol": "RBCAT",
-    "decimals": 18
-  },
   "0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1": {
     "name": "Arbitrum",
     "logo": "Arb.svg",
@@ -193,6 +186,13 @@
     "logo": "PeterPan.svg",
     "erc20": true,
     "symbol": "PAN",
+    "decimals": 18
+  },
+  "0x14A2db256Ef18c4f7165d5E48f65a528b4155100": {
+    "name": "Russian Blue Cat",
+    "logo": "RBCAT.svg",
+    "erc20": true,
+    "symbol": "RBCAT",
     "decimals": 18
   },
   "0x467719aD09025FcC6cF6F8311755809d45a5E5f3": {
