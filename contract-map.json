@@ -1,4 +1,12 @@
 {
+  "0xd06b9c961a6aa58a1b936239a30081f48881d708": {
+    "name": "Global Human Being",
+    "logo": "GHB-Token.svg",
+    "erc20": true,
+    "symbol": "GHB",
+    "decimals": 10
+  },
+{
   "0x12652C6d93FDB6F4f37d48A8687783C782BB0d10": {
     "name": "Entangle",
     "logo": "NGL.svg",
