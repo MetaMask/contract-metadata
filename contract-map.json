@@ -4919,5 +4919,12 @@
     "erc20": true,
     "symbol": "HOPPY",
     "decimals": 9
+  },
+  "0x91dba2CD05c8A0227B48c3e426077145d23B21df": {
+    "name": "Papu Token",
+    "logo": "papu.svg",
+    "erc20": true,
+    "symbol": "PAPU",
+    "decimals": 18
   }
 }
