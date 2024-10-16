@@ -4913,6 +4913,34 @@
     "symbol": "deUSD",
     "decimals": 18
   },
+  "0x866A2BF4E572CbcF37D5071A7a58503Bfb36be1b":{
+    "name": "M by M^0",
+    "logo": "m-by-m-0.png",
+    "erc20": true,
+    "symbol": "M",
+    "decimals": 6
+  },
+  "0x988567FE094570cCE1FFdA29D1f2d842B70492be":{
+    "name": "Zero by M^0",
+    "logo": "zero-by-m-0.png",
+    "erc20": true,
+    "symbol": "ZERO",
+    "decimals": 6
+  },
+  "0x5983B89FA184f14917013B9C3062afD9434C5b03":{
+    "name": "Power by M^0",
+    "logo": "power-by-m-0.png",
+    "erc20": true,
+    "symbol": "POWER",
+    "decimals": 0
+  },
+  "0x437cc33344a0B27A429f795ff6B469C72698B291":{
+    "name": "Smart M by M^0",
+    "logo": "smart-m-by-m-0.png",
+    "erc20": true,
+    "symbol": "MSMART",
+    "decimals": 6
+  },
   "0x6E79B51959CF968d87826592f46f819F92466615": {
     "name": "Hoppy",
     "logo": "hoppy.svg",
