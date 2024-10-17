@@ -1,4 +1,12 @@
 {
+
+  "0x4116f14b6d462B32a1C10F98049E4B1765e34FA9": {
+    "name": "Dotmoovs",
+    "logo": "MOOV.svg",
+    "erc20": true,
+    "symbol": "MOOV",
+    "decimals": 18
+  },
   "0x12652C6d93FDB6F4f37d48A8687783C782BB0d10": {
     "name": "Entangle",
     "logo": "NGL.svg",
