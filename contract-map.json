@@ -1,5 +1,11 @@
 {
-
+  "0x51AFEE9C1133fAd23f8cB675B7eE29d2F267c841": {
+    "name": "HO USD",
+    "logo": "USDH.svg",
+    "erc20": true,
+    "symbol": "USDH",
+    "decimals": 6
+  },
   "0x4116f14b6d462B32a1C10F98049E4B1765e34FA9": {
     "name": "Dotmoovs",
     "logo": "MOOV.svg",
@@ -139,7 +145,7 @@
     "erc20": true,
     "symbol": "STKGHO",
     "decimals": 18
-  },  
+  },
   "0x536381a8628dBcC8C70aC9A30A7258442eAb4c92": {
     "name": "Pantos Token ",
     "logo": "pan.svg",
