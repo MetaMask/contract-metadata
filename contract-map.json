@@ -1,5 +1,4 @@
 {
-
   "0x4116f14b6d462B32a1C10F98049E4B1765e34FA9": {
     "name": "Dotmoovs",
     "logo": "MOOV.svg",
@@ -139,7 +138,7 @@
     "erc20": true,
     "symbol": "STKGHO",
     "decimals": 18
-  },  
+  },
   "0x536381a8628dBcC8C70aC9A30A7258442eAb4c92": {
     "name": "Pantos Token ",
     "logo": "pan.svg",
@@ -2543,14 +2542,14 @@
     "symbol": "USDS",
     "decimals": 18
   },
-"0x56072C95FAA701256059aa122697B133aDEd9279": {
+  "0x56072C95FAA701256059aa122697B133aDEd9279": {
     "name": "Sky Ecosystem",
     "logo": "sky-logo.svg",
     "erc20": true,
     "symbol": "SKY",
     "decimals": 18
   },
-"0xa3931d71877C0E7a3148CB7Eb4463524FEc27fbD": {
+  "0xa3931d71877C0E7a3148CB7Eb4463524FEc27fbD": {
     "name": "Savings USDS",
     "logo": "susds-logo.svg",
     "erc20": true,
@@ -4900,7 +4899,7 @@
     "symbol": "wPAW",
     "decimals": 18
   },
-  "0x808688c820AB080A6Ff1019F03E5EC227D9b522B":{
+  "0x808688c820AB080A6Ff1019F03E5EC227D9b522B": {
     "name": "BAG",
     "logo": "BAG.svg",
     "erc20": true,
@@ -4927,5 +4926,13 @@
     "erc20": true,
     "symbol": "HOPPY",
     "decimals": 9
+  },
+  "0x9F0C013016E8656bC256f948CD4B79ab25c7b94D": {
+    "name": "COOK",
+    "logo": "COOK.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "COOK",
+    "decimals": 18
   }
 }
