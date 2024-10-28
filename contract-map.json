@@ -1058,6 +1058,13 @@
     "symbol": "mTSLA-S",
     "decimals": 18
   },
+  "0x0fc223994e0de0a0f952d775ef00b0389e60a238": {
+    "name": "Multi Table Tournament",
+    "logo": "mtt.svg",
+    "erc20": true,
+    "symbol": "MTT",
+    "decimals": 18
+  },
   "0xC8d674114bac90148d11D3C1d33C61835a0F9DCD": {
     "name": "Mirror NFLX Token - Shuttle",
     "logo": "mNFLX.svg",
