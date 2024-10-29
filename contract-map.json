@@ -139,7 +139,7 @@
     "erc20": true,
     "symbol": "STKGHO",
     "decimals": 18
-  },  
+  },
   "0x536381a8628dBcC8C70aC9A30A7258442eAb4c92": {
     "name": "Pantos Token ",
     "logo": "pan.svg",
@@ -4927,5 +4927,12 @@
     "erc20": true,
     "symbol": "HOPPY",
     "decimals": 9
+  },
+  "0xfed7A6423cdeBb4c05552DC888de5acC657444F4": {
+    "name": "TBT Token",
+    "logo": "TBT.svg",
+    "erc20": true,
+    "symbol": "TBT",
+    "decimals": 18
   }
 }
