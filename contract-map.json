@@ -1,5 +1,11 @@
 {
-
+  "0x14778860e937f509e651192a90589de711fb88a9": {
+    "name": "Cyber",
+    "logo": "cyber.svg",
+    "erc20": true,
+    "symbol": "CYBER",
+    "decimals": 18
+  },
   "0x4116f14b6d462B32a1C10F98049E4B1765e34FA9": {
     "name": "Dotmoovs",
     "logo": "MOOV.svg",
