@@ -1,4 +1,12 @@
 {
+
+  "0x4116f14b6d462B32a1C10F98049E4B1765e34FA9": {
+    "name": "Dotmoovs",
+    "logo": "MOOV.svg",
+    "erc20": true,
+    "symbol": "MOOV",
+    "decimals": 18
+  },
   "0x12652C6d93FDB6F4f37d48A8687783C782BB0d10": {
     "name": "Entangle",
     "logo": "NGL.svg",
@@ -11,6 +19,13 @@
     "logo": "Arb.svg",
     "erc20": true,
     "symbol": "ARB",
+    "decimals": 18
+  },
+  "0xC18B4C1e0b4d4d0F1e9627F25399F5073079Ac3D": {
+    "name": "BOOH",
+    "logo": "BOOH.svg",
+    "erc20": true,
+    "symbol": "BOOH",
     "decimals": 18
   },
   "0x4D0528598F916Fd1D8dc80e5f54a8fEEDcFd4b18": {
@@ -4922,9 +4937,16 @@
   },
   "0x91dba2CD05c8A0227B48c3e426077145d23B21df": {
     "name": "Papu Token",
-    "logo": "papu.svg",
+    "logo": "PAPU.svg",
     "erc20": true,
     "symbol": "PAPU",
+    "decimals": 18
+  },
+  "0x2013C72c04D3071bE73f0af6eDC909F659656bda": {
+    "name": "Shiba San",
+    "logo": "SHIBADOG.svg",
+    "erc20": true,
+    "symbol": "SHIBADOG",
     "decimals": 18
   }
 }
