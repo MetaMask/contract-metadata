@@ -4948,12 +4948,5 @@
     "erc20": true,
     "symbol": "PROS",
     "decimals": 18
-  },
-    "0xEd8c8Aa8299C10f067496BB66f8cC7Fb338A3405": {
-    "name": "Prosper",
-    "logo": "PROS.svg",
-    "erc20": true,
-    "symbol": "PROS",
-    "decimals": 18
   }
 }
