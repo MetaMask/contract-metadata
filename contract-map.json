@@ -1,5 +1,11 @@
 {
-
+  "0x2bAa369AB0D502Ef225692E0F7E8D7589C71Ffb7": {
+    "name": "USDE",
+    "logo": "USDE.svg",
+    "erc20": true,
+    "symbol": "USDE",
+    "decimals": 18
+  },
   "0x4116f14b6d462B32a1C10F98049E4B1765e34FA9": {
     "name": "Dotmoovs",
     "logo": "MOOV.svg",
