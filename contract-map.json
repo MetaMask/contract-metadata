@@ -1,6 +1,12 @@
-{
-
-  "0x4116f14b6d462B32a1C10F98049E4B1765e34FA9": {
+{  
+  "0xAE62Ca7e7Bc80C800DADc1c4b9175800033537cd": {  
+    "erc20": true,  
+    "name": "PrideToken",  
+    "symbol": "PRD",  
+    "decimals": 18,  
+    "logo": "PRD.svg"  
+  }, 
+    "0x4116f14b6d462B32a1C10F98049E4B1765e34FA9": {
     "name": "Dotmoovs",
     "logo": "MOOV.svg",
     "erc20": true,
