@@ -4948,5 +4948,12 @@
     "erc20": true,
     "symbol": "PROS",
     "decimals": 18
+  },
+    "0x516f8a1fB458EBdcFd0F544fF85c69C1c0Ebc31d": {
+    "name": "Shieldeum",
+    "logo": "SDM.svg",
+    "erc20": true,
+    "symbol": "SDM",
+    "decimals": 18
   }
 }
