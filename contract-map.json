@@ -4942,6 +4942,13 @@
     "symbol": "HOPPY",
     "decimals": 9
   },
+  "0xd5EB7E91Ae88Ea2550F9bFD04208399c95dF4dC7": {
+    "name": "DogLibre",
+    "logo": "DogLibre.svg",
+    "erc20": true,
+    "symbol": "DOGL",
+    "decimals": 18
+  },
   "0x2013C72c04D3071bE73f0af6eDC909F659656bda": {
     "name": "Shiba San",
     "logo": "SHIBADOG.svg",
