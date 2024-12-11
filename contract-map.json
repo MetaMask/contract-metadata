@@ -42,6 +42,13 @@
     "symbol": "ATOS",
     "decimals": 18
   },
+  "0x321162Cd933E2Be498Cd2267a90534A804051b11": {
+   "name": "Wrapped Bitcoin",
+   "logo": "fantom-wbtc.svg",
+   "erc20": true,
+   "symbol": "BTC",
+   "decimals": 8
+  },
   "0x57B946008913B82E4dF85f501cbAeD910e58D26C": {
     "name": "Marlin",
     "logo": "POND.svg",
