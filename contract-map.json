@@ -4955,5 +4955,12 @@
     "erc20": true,
     "symbol": "PROS",
     "decimals": 18
+  },
+  "0xeB32e776b75707487D044c5B75462a11f72B905C": {
+    "name": "IXFI",
+    "logo": "IXFI.svg",
+    "erc20": true,
+    "symbol": "IXFI",
+    "decimals": 18
   }
 }
