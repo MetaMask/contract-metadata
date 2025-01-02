@@ -21,6 +21,13 @@
     "symbol": "NGL",
     "decimals": 18
   },
+  "0x7076de6ff1d91e00be7e92458089c833de99e22e": {
+    "name": "FLEABONE",
+    "logo": "Fleabone.svg",
+    "erc20": true,
+    "symbol": "BONE",
+    "decimals": 9
+  },
   "0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1": {
     "name": "Arbitrum",
     "logo": "Arb.svg",
