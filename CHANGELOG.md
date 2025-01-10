@@ -45,7 +45,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 - Updates to USDC and EURC branding ([#1226](https://github.com/MetaMask/contract-metadata/pull/1226))
-- remove overlaping test ([#1219](https://github.com/MetaMask/contract-metadata/pull/1219))
+- remove overlapping test ([#1219](https://github.com/MetaMask/contract-metadata/pull/1219))
 - Update ART logo ([#1241](https://github.com/MetaMask/contract-metadata/pull/1241))
 - Update MVL token logo ([#1288](https://github.com/MetaMask/contract-metadata/pull/1288))
 - Update ARKI logo ([#1287](https://github.com/MetaMask/contract-metadata/pull/1287))
