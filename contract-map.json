@@ -4962,5 +4962,12 @@
     "erc20": true,
     "symbol": "PROS",
     "decimals": 18
+  },
+  "0xb551b43AF192965F74e3dfAA476C890B403caD95": {
+    "name": "Databot",
+    "logo": "databot.svg",
+    "erc20": true,
+    "symbol": "DATA",
+    "decimals": 9
   }
 }
