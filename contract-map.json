@@ -4962,5 +4962,12 @@
     "erc20": true,
     "symbol": "PROS",
     "decimals": 18
+  },
+  "0x4c40bcf189e47b6c96fa8de74a42b111174efa2d": {
+    "name": "Saya AI",
+    "logo": "saya.svg",
+    "erc20": true,
+    "symbol": "SAYA",
+    "decimals": 18
   }
 }
