@@ -1,5 +1,12 @@
 {
 
+  "0xef7f7820a001aabAc5E0979b175C9ff8Af3Dd4ec": {
+    "name": "Exeedme",
+    "logo": "XED.svg",
+    "erc20": true,
+    "symbol": "XED",
+    "decimals": 18
+  },
   "0x4116f14b6d462B32a1C10F98049E4B1765e34FA9": {
     "name": "Dotmoovs",
     "logo": "MOOV.svg",
