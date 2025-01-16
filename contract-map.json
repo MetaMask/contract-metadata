@@ -1,5 +1,12 @@
 {
   
+  "0xef7f7820a001aabAc5E0979b175C9ff8Af3Dd4ec": {
+    "name": "Exeedme",
+    "logo": "XED.svg",
+    "erc20": true,
+    "symbol": "XED",
+    "decimals": 18
+  },
   "0x14778860E937f509e651192a90589dE711Fb88a9": {
     "name": "Cyber",
     "logo": "cyber.svg",
