@@ -4975,5 +4975,12 @@
     "erc20": true,
     "symbol": "DATA",
     "decimals": 9
+  },
+  "0xb6919Ef2ee4aFC163BC954C5678e2BB570c2D103": {
+    "name": "Ubiquity Dollar",
+    "logo": "uusd.svg",
+    "erc20": true,
+    "symbol": "UUSD",
+    "decimals": 18
   }
 }
