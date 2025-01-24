@@ -4975,5 +4975,12 @@
     "erc20": true,
     "symbol": "DATA",
     "decimals": 9
+  },
+  "0x4e38D89362f7e5db0096CE44ebD021c3962aA9a0": {
+    "name": "Ubiquity Governance",
+    "logo": "ubq.svg",
+    "erc20": true,
+    "symbol": "UBQ",
+    "decimals": 18
   }
 }
