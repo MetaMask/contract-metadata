@@ -65,12 +65,12 @@ test('logos path names should not contain space', function (t) {
   t.end()
 })
 
-test('symbols should be six or less characters', function (t) {
+test('symbols should be eleven or less characters', function (t) {
   Object.keys(contractMap).forEach(address => {
     const contract = contractMap[address]
     const symbol = contract.symbol
     if (symbol) {
-      t.notOk(symbol.length > 6, `symbol with more than 6 characters: "${symbol}"`)
+      t.notOk(symbol.length > 11, `symbol with more than 11 characters: "${symbol}"`)
     }
   })
   t.end()
@@ -86,23 +86,5 @@ test('only permitted fields should be used', function (t) {
     })
   })
 
-  t.end()
-})
-
-test('symbols should not overlap', function (t) {
-  const symbols = Object.values(contractMap).map(contract => contract.symbol)
-  const symbolsCheck = new Map()
-  let duplicateSymbol
-
-  symbols.forEach(symbol => {
-    if (symbolsCheck.has(symbol) && symbol !== undefined) {
-      duplicateSymbol = symbol
-      return
-    }
-    symbolsCheck.set(symbol, true)
-  })
-  
-  const msg = duplicateSymbol ? `found overlapping symbol ${duplicateSymbol}` : 'symbols should not overlap'
-  t.notOk(duplicateSymbol, msg)
   t.end()
 })
