@@ -4127,12 +4127,12 @@
     "symbol": "unLINK",
     "decimals": 8
   },
-  "0xB8E2e2101eD11e9138803cd3e06e16dd19910647": {
+  "0x4039075fe3607f064129458299a616c8723efd97": {
     "name": "ArdCoin",
     "logo": "ardcoin.svg",
     "erc20": true,
     "symbol": "ARDX",
-    "decimals": 2
+    "decimals": 18
   },
   "0x6D0F5149c502faf215C89ab306ec3E50b15e2892": {
     "name": "Portion Token",
