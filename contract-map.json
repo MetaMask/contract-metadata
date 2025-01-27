@@ -4975,5 +4975,12 @@
     "erc20": true,
     "symbol": "DATA",
     "decimals": 9
+  },
+  "0xF3c7CECF8cBC3066F9a87b310cEBE198d00479aC": {
+    "name": "FEG Token",
+    "logo": "FEG.svg",
+    "erc20": true,
+    "symbol": "FEG",
+    "decimals": 18
   }
 }
