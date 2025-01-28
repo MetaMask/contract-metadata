@@ -776,6 +776,20 @@
     "symbol": "DVI",
     "decimals": 18
   },
+  "0xcb86c6a22cb56b6cf40cafedb06ba0df188a416e": {
+    "name": "inSure",
+    "logo": "SURE.png",
+    "erc20": true,
+    "symbol": "SURE",
+  "decimals": 18
+  },
+  "0xc1f976B91217E240885536aF8b63bc8b5269a9BE": {
+    "name": "PIN",
+    "logo": "PIN.png",
+    "erc20": true,
+    "symbol": "PIN",
+  "decimals": 18
+  },
   "0x898BAD2774EB97cF6b94605677F43b41871410B1": {
     "name": "vEth2",
     "logo": "vEth2.svg",
