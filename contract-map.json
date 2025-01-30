@@ -434,13 +434,6 @@
     "symbol": "STEELO",
     "decimals": 18
   },
-  "0x2Ec3275f7aCe4044e499823F511cd58250be8E3d": {
-    "name": "Privilege",
-    "logo": "prvg.svg",
-    "erc20": true,
-    "symbol": "PRVG",
-    "decimals": 8
-  },
   "0x657e8C867D8B37dCC18fA4Caead9C45EB088C642": {
     "name": "ether.fi Staked BTC",
     "logo": "eBTC.svg",
@@ -810,7 +803,7 @@
     "symbol": "FXS",
     "decimals": 18
   },
-  "0x24c19f7101c1731b85f1127eaa0407732e36ecdd": {
+  "0x24C19F7101c1731b85F1127EaA0407732E36EcDD": {
     "name": "Sharedstake.finance",
     "logo": "SGT.svg",
     "erc20": true,
@@ -1162,7 +1155,7 @@
   },
   "0x72F020f8f3E8fd9382705723Cd26380f8D0c66Bb": {
     "name": "PLOT",
-    "logo": "plotx.svg",
+    "logo": "PLOT.svg",
     "erc20": true,
     "symbol": "PLOT",
     "decimals": 18
@@ -1729,7 +1722,7 @@
   },
   "0xE5B826Ca2Ca02F09c1725e9bd98d9a8874C30532": {
     "name": "ZEON",
-    "logo": "ZEON.svh",
+    "logo": "ZEON.svg",
     "erc20": true,
     "symbol": "ZEON",
     "decimals": 18
@@ -1841,7 +1834,7 @@
   },
   "0xea5f88E54d982Cbb0c441cde4E79bC305e5b43Bc": {
     "name": "Pareto Network Token",
-    "logo": "PARETO.svh",
+    "logo": "PARETO.svg",
     "erc20": true,
     "symbol": "PARETO",
     "decimals": 18
