@@ -6,6 +6,13 @@
     "symbol": "CYBER",
     "decimals": 18
   },
+  "0x9Cf0ED013e67DB12cA3AF8e7506fE401aA14dAd6": {
+    "name": "Spectre AI",
+    "logo": "spectre-ai.svg",
+    "erc20": true,
+    "symbol": "SPECTRE",
+    "decimals": 18
+  },
   "0x4116f14b6d462B32a1C10F98049E4B1765e34FA9": {
     "name": "Dotmoovs",
     "logo": "MOOV.svg",
