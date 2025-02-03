@@ -4491,4 +4491,12 @@
     "symbol": "FEG",
     "decimals": 18
   }
+  ,
+  "0xa9f94f19abf3089d535b1de2cc058a365ea716c7": {
+    "name": "AITA",
+    "logo": "aita.svg",
+    "erc20": true,
+    "symbol": "AITA",
+    "decimals": 18
+  }
 }
