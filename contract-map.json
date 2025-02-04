@@ -4497,5 +4497,12 @@
     "erc20": true,
     "symbol": "AITA",
     "decimals": 18
+  },
+  "0x915424Ac489433130d92B04096F3b96c82e92a9D": {
+    "name": "Prosper",
+    "logo": "PROS.svg",
+    "erc20": true,
+    "symbol": "PROS",
+    "decimals": 18
   }
 }
