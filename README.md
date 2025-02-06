@@ -16,19 +16,21 @@ import contractMap from '@metamask/contract-metadata'
 import ethJSUtil from 'ethereumjs-util'
 const { toChecksumAddress } = ethJSUtil
 
-function imageElFor (address) {
-  const metadata = contractMap[toChecksumAddress(address)]
+function imageElForEVMToken (chainId, address) {
+  const caip19Address = `eip155:${chainId}/erc20:${toChecksumAddress(address)}`
+  const metadata = contractMap[caip19Address]
   if (metadata?.logo) {
     const fileName = metadata.logo
-    const path = `${__dirname}/images/contract/${fileName}`
+    const path = `${__dirname}/${metadata.logo}`
     const img = document.createElement('img')
     img.src = path
     img.style.width = '100%'
     return img
   }
 }
-
-imageElFor ("0x06012c8cf97BEaD5deAe237070F9587f8E7A266d")
+// to get ethereum erc20 token img el
+const ethereumNetworkChainId = 1
+imageElForEVMToken (ethereumNetworkChainId, "0x06012c8cf97BEaD5deAe237070F9587f8E7A266d")
 ```
 
 ## Submission Process
@@ -36,7 +38,7 @@ imageElFor ("0x06012c8cf97BEaD5deAe237070F9587f8E7A266d")
 Maintaining this list is a considerable chore, and it is not our highest priority. We do not guarantee inclusion in this list on any urgent timeline. We are actively looking for fair and safe ways to maintain a list like this in a decentralized way, because maintaining it is a large and security-delicate task.
 
 1. Fork this repository.
-2. Add your logo image in `.svg` file format to the `icons` folder.
+2. Add your logo image in `.svg` file format to the `icons/` folder.
 3. Add your asset metadata in a json format to a  `metadata/${caip19AssetId}.json` file with the CAIP-19 Asset ID as the key inside of the `metadata/` folder.
 
 Criteria:
@@ -47,15 +49,18 @@ Criteria:
 - Project website should include explanation of project.
 - Project should have clear signs of activity, either traffic on the network, activity on GitHub, or community buzz.
 - Nice to have a verified source code on a block explorer like Etherscan.
-- Must have a ['NEUTRAL' reputation or 'OK' reputation](https://info.etherscan.com/etherscan-token-reputation) on Etherscan.
+- Must have a ['NEUTRAL' reputation or 'OK' reputation](https://info.etherscan.com/etherscan-token-reputation) on Etherscan if it is an Ethereum-network asset. Other EVM Networks will be verified as possible.
 
 A sample submission:
 
 ```json
 {
-  "0x6090A6e47849629b7245Dfa1Ca21D94cd15878Ef": {
+  "eip:155/erc20:0x6090A6e47849629b7245Dfa1Ca21D94cd15878Ef": {
     "name": "ENS Registrar",
-    "logo": "ens.svg"
+    "decimals": 18,
+    "symbol": "ENS",
+    "erc20": true,
+    "logo": "./icons/eip:155/erc20:0x6090A6e47849629b7245Dfa1Ca21D94cd15878Ef.svg"
   }
 }
 ```
