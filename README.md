@@ -3,6 +3,7 @@
 A mapping of checksummed Ethereum contract addresses to metadata, like names, and images of their logos.
 
 All address keys follow the [EIP 55 address checksum format](https://github.com/ethereum/EIPs/issues/55).
+All file keys follow the [CAIP 19 asset id format](https://github.com/ChainAgnostic/CAIPs/blob/main/CAIPs/caip-19.md).
 
 This repository is effectively frozen. We recommend that developers of new tokens use [EIP 747](https://docs.metamask.io/guide/registering-your-token.html) to ask the user's permission to display your tokens in their wallet. This reduces the dangers of airdrop-based phishing, and reduces administrative overhead from managing this list.
 
@@ -35,14 +36,13 @@ imageElFor ("0x06012c8cf97BEaD5deAe237070F9587f8E7A266d")
 Maintaining this list is a considerable chore, and it is not our highest priority. We do not guarantee inclusion in this list on any urgent timeline. We are actively looking for fair and safe ways to maintain a list like this in a decentralized way, because maintaining it is a large and security-delicate task.
 
 1. Fork this repository.
-2. Add your logo image in a web-safe format to the `images` folder.
-3. Add an entry to the `contract-map.json` file with the specified address as the key, and the image file's name as the value.
+2. Add your logo image in `.svg` file format to the `icons` folder.
+3. Add your asset metadata in a json format to a  `metadata/${caip19AssetId}.json` file with the CAIP-19 Asset ID as the key inside of the `metadata/` folder.
 
 Criteria:
 
-- The icon should be small, square, but high resolution, ideally a vector/svg.
-- The address should be in checksum format or it will not be accepted.
-- Do not add your entry to the end of the JSON map, messing with the trailing comma. Your pull request should only be an addition of lines, and any line removals should be deliberate deprecations of those logos.
+- The icon should be small, square, but high resolution, and a vector/svg.
+- The address should be in checksum format or it will not be accepted. This is true of non-evm assets as well - since some network's addressing formats are case-sensitive.
 - PR should include link to official project website referencing the suggested address.
 - Project website should include explanation of project.
 - Project should have clear signs of activity, either traffic on the network, activity on GitHub, or community buzz.
