@@ -3,5 +3,5 @@
   "symbol": "YLD",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0xF94b5C5651c888d928439aB6514B93944eEE6F48.svg"
+  "logo": "./icons/eip155:1/erc20:0xF94b5C5651c888d928439aB6514B93944eEE6F48.svg"
 }

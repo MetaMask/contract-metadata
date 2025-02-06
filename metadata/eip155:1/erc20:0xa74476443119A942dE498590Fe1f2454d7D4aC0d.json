@@ -3,5 +3,5 @@
   "symbol": "GNT",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0xa74476443119A942dE498590Fe1f2454d7D4aC0d.svg"
+  "logo": "./icons/eip155:1/erc20:0xa74476443119A942dE498590Fe1f2454d7D4aC0d.svg"
 }

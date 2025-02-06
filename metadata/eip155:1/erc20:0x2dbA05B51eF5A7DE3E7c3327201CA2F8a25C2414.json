@@ -3,5 +3,5 @@
   "symbol": "unDAI",
   "decimals": 8,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0x2dbA05B51eF5A7DE3E7c3327201CA2F8a25C2414.svg"
+  "logo": "./icons/eip155:1/erc20:0x2dbA05B51eF5A7DE3E7c3327201CA2F8a25C2414.svg"
 }

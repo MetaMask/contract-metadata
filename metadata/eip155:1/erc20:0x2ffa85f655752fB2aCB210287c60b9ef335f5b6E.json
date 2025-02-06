@@ -3,5 +3,5 @@
   "symbol": "iWBTC",
   "decimals": 8,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0x2ffa85f655752fB2aCB210287c60b9ef335f5b6E.svg"
+  "logo": "./icons/eip155:1/erc20:0x2ffa85f655752fB2aCB210287c60b9ef335f5b6E.svg"
 }

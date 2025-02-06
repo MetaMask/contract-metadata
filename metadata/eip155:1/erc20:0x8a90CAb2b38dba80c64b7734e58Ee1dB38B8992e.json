@@ -3,5 +3,5 @@
   "symbol": "DOODLE",
   "decimals": 0,
   "erc20": false,
-  "logo": "../icons/eip155:1/erc20:0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e.svg"
+  "logo": "./icons/eip155:1/erc20:0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e.svg"
 }

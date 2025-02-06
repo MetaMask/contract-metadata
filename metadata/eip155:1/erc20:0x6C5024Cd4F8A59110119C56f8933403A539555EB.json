@@ -3,5 +3,5 @@
   "symbol": "aSUSD",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0x6C5024Cd4F8A59110119C56f8933403A539555EB.svg"
+  "logo": "./icons/eip155:1/erc20:0x6C5024Cd4F8A59110119C56f8933403A539555EB.svg"
 }

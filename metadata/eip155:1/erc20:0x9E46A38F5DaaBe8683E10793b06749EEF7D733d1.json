@@ -3,5 +3,5 @@
   "symbol": "NCT",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0x9E46A38F5DaaBe8683E10793b06749EEF7D733d1.svg"
+  "logo": "./icons/eip155:1/erc20:0x9E46A38F5DaaBe8683E10793b06749EEF7D733d1.svg"
 }

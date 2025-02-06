@@ -3,5 +3,5 @@
   "symbol": "YFL",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0x28cb7e841ee97947a86B06fA4090C8451f64c0be.svg"
+  "logo": "./icons/eip155:1/erc20:0x28cb7e841ee97947a86B06fA4090C8451f64c0be.svg"
 }

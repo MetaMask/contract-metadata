@@ -3,5 +3,5 @@
   "symbol": "COMIC",
   "decimals": 0,
   "erc20": false,
-  "logo": "../icons/eip155:1/erc20:0x5ab21Ec0bfa0B29545230395e3Adaca7d552C948.svg"
+  "logo": "./icons/eip155:1/erc20:0x5ab21Ec0bfa0B29545230395e3Adaca7d552C948.svg"
 }

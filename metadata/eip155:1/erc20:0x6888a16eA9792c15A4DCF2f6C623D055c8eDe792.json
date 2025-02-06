@@ -3,5 +3,5 @@
   "symbol": "SIG",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0x6888a16eA9792c15A4DCF2f6C623D055c8eDe792.svg"
+  "logo": "./icons/eip155:1/erc20:0x6888a16eA9792c15A4DCF2f6C623D055c8eDe792.svg"
 }

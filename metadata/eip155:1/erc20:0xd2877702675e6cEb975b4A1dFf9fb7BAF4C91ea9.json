@@ -3,5 +3,5 @@
   "symbol": "LUNC",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9.svg"
+  "logo": "./icons/eip155:1/erc20:0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9.svg"
 }

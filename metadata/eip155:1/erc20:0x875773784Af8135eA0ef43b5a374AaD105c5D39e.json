@@ -3,5 +3,5 @@
   "symbol": "IDLE",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0x875773784Af8135eA0ef43b5a374AaD105c5D39e.svg"
+  "logo": "./icons/eip155:1/erc20:0x875773784Af8135eA0ef43b5a374AaD105c5D39e.svg"
 }

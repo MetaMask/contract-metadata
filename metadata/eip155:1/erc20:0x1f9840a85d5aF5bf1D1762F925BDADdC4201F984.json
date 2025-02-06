@@ -3,5 +3,5 @@
   "symbol": "UNI",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984.svg"
+  "logo": "./icons/eip155:1/erc20:0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984.svg"
 }

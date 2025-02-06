@@ -3,5 +3,5 @@
   "symbol": "CIG",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0xCB56b52316041A62B6b5D0583DcE4A8AE7a3C629.svg"
+  "logo": "./icons/eip155:1/erc20:0xCB56b52316041A62B6b5D0583DcE4A8AE7a3C629.svg"
 }

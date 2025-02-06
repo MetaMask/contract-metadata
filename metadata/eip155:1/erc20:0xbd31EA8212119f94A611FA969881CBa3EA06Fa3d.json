@@ -3,5 +3,5 @@
   "symbol": "LUNA",
   "decimals": 6,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0xbd31EA8212119f94A611FA969881CBa3EA06Fa3d.svg"
+  "logo": "./icons/eip155:1/erc20:0xbd31EA8212119f94A611FA969881CBa3EA06Fa3d.svg"
 }

@@ -3,5 +3,5 @@
   "symbol": "SNT",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0x744d70FDBE2Ba4CF95131626614a1763DF805B9E.svg"
+  "logo": "./icons/eip155:1/erc20:0x744d70FDBE2Ba4CF95131626614a1763DF805B9E.svg"
 }

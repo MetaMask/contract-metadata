@@ -3,5 +3,5 @@
   "symbol": "aMANA",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0xa685a61171bb30d4072B338c80Cb7b2c865c873E.svg"
+  "logo": "./icons/eip155:1/erc20:0xa685a61171bb30d4072B338c80Cb7b2c865c873E.svg"
 }

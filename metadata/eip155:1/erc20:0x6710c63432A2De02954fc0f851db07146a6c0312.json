@@ -3,5 +3,5 @@
   "symbol": "MFG",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0x6710c63432A2De02954fc0f851db07146a6c0312.svg"
+  "logo": "./icons/eip155:1/erc20:0x6710c63432A2De02954fc0f851db07146a6c0312.svg"
 }

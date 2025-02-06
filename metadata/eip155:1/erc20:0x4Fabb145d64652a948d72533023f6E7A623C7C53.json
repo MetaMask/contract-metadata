@@ -3,5 +3,5 @@
   "symbol": "BUSD",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0x4Fabb145d64652a948d72533023f6E7A623C7C53.svg"
+  "logo": "./icons/eip155:1/erc20:0x4Fabb145d64652a948d72533023f6E7A623C7C53.svg"
 }

@@ -3,5 +3,5 @@
   "symbol": "QUICK",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0xd2bA23dE8a19316A638dc1e7a9ADdA1d74233368.svg"
+  "logo": "./icons/eip155:1/erc20:0xd2bA23dE8a19316A638dc1e7a9ADdA1d74233368.svg"
 }

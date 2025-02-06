@@ -3,5 +3,5 @@
   "symbol": "OHM",
   "decimals": 9,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0x64aa3364F17a4D01c6f1751Fd97C2BD3D7e7f1D5.svg"
+  "logo": "./icons/eip155:1/erc20:0x64aa3364F17a4D01c6f1751Fd97C2BD3D7e7f1D5.svg"
 }

@@ -3,5 +3,5 @@
   "symbol": "STEELO",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0x287a7C95aD00bBDd48599Ad2919567fD09281f07.svg"
+  "logo": "./icons/eip155:1/erc20:0x287a7C95aD00bBDd48599Ad2919567fD09281f07.svg"
 }

@@ -3,5 +3,5 @@
   "symbol": "RIO",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0xf21661D0D1d76d3ECb8e1B9F1c923DBfffAe4097.svg"
+  "logo": "./icons/eip155:1/erc20:0xf21661D0D1d76d3ECb8e1B9F1c923DBfffAe4097.svg"
 }

@@ -3,5 +3,5 @@
   "symbol": "HAK",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0x93a7174dafd31d13400cD9fa01f4e5B5BAa00D39.svg"
+  "logo": "./icons/eip155:1/erc20:0x93a7174dafd31d13400cD9fa01f4e5B5BAa00D39.svg"
 }

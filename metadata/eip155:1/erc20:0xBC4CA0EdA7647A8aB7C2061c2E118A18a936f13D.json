@@ -3,5 +3,5 @@
   "symbol": "BAYC",
   "decimals": 0,
   "erc20": false,
-  "logo": "../icons/eip155:1/erc20:0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D.svg"
+  "logo": "./icons/eip155:1/erc20:0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D.svg"
 }

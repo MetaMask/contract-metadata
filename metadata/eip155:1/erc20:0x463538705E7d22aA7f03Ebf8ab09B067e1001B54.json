@@ -3,5 +3,5 @@
   "symbol": "iLINK",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0x463538705E7d22aA7f03Ebf8ab09B067e1001B54.svg"
+  "logo": "./icons/eip155:1/erc20:0x463538705E7d22aA7f03Ebf8ab09B067e1001B54.svg"
 }

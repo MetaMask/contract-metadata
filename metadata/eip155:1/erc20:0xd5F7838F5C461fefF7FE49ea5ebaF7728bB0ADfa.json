@@ -3,5 +3,5 @@
   "symbol": "mETH",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0xd5F7838F5C461fefF7FE49ea5ebaF7728bB0ADfa.svg"
+  "logo": "./icons/eip155:1/erc20:0xd5F7838F5C461fefF7FE49ea5ebaF7728bB0ADfa.svg"
 }

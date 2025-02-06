@@ -1,6 +1,6 @@
 const main = () => {
   console.time("tst");
-  const contractMap = require("./index.js");
+  const contractMap = require("./buildindex.js");
   console.log(contractMap);
 
   console.timeEnd("tst");

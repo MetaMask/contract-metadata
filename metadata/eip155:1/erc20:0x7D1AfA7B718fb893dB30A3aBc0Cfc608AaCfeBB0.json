@@ -3,5 +3,5 @@
   "symbol": "MATIC",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0.svg"
+  "logo": "./icons/eip155:1/erc20:0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0.svg"
 }

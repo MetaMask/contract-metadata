@@ -3,5 +3,5 @@
   "symbol": "BBK",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0x4a6058666cf1057eaC3CD3A5a614620547559fc9.svg"
+  "logo": "./icons/eip155:1/erc20:0x4a6058666cf1057eaC3CD3A5a614620547559fc9.svg"
 }

@@ -3,5 +3,5 @@
   "symbol": "JASMY",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0x7420B4b9a0110cdC71fB720908340C03F9Bc03EC.svg"
+  "logo": "./icons/eip155:1/erc20:0x7420B4b9a0110cdC71fB720908340C03F9Bc03EC.svg"
 }

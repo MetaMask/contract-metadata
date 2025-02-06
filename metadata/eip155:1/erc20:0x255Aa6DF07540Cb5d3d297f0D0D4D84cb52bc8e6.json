@@ -3,5 +3,5 @@
   "symbol": "RDN",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0x255Aa6DF07540Cb5d3d297f0D0D4D84cb52bc8e6.svg"
+  "logo": "./icons/eip155:1/erc20:0x255Aa6DF07540Cb5d3d297f0D0D4D84cb52bc8e6.svg"
 }

@@ -3,5 +3,5 @@
   "symbol": "KODA",
   "decimals": 0,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0xFBeef911Dc5821886e1dda71586d90eD28174B7d.svg"
+  "logo": "./icons/eip155:1/erc20:0xFBeef911Dc5821886e1dda71586d90eD28174B7d.svg"
 }

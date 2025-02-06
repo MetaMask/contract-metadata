@@ -3,5 +3,5 @@
   "symbol": "VIEW",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0xF03f8D65BaFA598611C3495124093c56e8F638f0.svg"
+  "logo": "./icons/eip155:1/erc20:0xF03f8D65BaFA598611C3495124093c56e8F638f0.svg"
 }

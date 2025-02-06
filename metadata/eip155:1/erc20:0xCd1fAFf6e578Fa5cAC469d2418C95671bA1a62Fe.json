@@ -3,5 +3,5 @@
   "symbol": "XTM",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0xCd1fAFf6e578Fa5cAC469d2418C95671bA1a62Fe.svg"
+  "logo": "./icons/eip155:1/erc20:0xCd1fAFf6e578Fa5cAC469d2418C95671bA1a62Fe.svg"
 }

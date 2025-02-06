@@ -3,5 +3,5 @@
   "symbol": "ARES",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0x358AA737e033F34df7c54306960a38d09AaBd523.svg"
+  "logo": "./icons/eip155:1/erc20:0x358AA737e033F34df7c54306960a38d09AaBd523.svg"
 }

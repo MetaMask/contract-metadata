@@ -3,5 +3,5 @@
   "symbol": "PROOF",
   "decimals": 0,
   "erc20": false,
-  "logo": "../icons/eip155:1/erc20:0x08D7C0242953446436F34b4C78Fe9da38c73668d.svg"
+  "logo": "./icons/eip155:1/erc20:0x08D7C0242953446436F34b4C78Fe9da38c73668d.svg"
 }

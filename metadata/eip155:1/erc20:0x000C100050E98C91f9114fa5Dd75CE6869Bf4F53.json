@@ -3,5 +3,5 @@
   "symbol": "C10",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0x000C100050E98C91f9114fa5Dd75CE6869Bf4F53.svg"
+  "logo": "./icons/eip155:1/erc20:0x000C100050E98C91f9114fa5Dd75CE6869Bf4F53.svg"
 }

@@ -3,5 +3,5 @@
   "symbol": "HYDRO",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0x946112efaB61C3636CBD52DE2E1392D7A75A6f01.svg"
+  "logo": "./icons/eip155:1/erc20:0x946112efaB61C3636CBD52DE2E1392D7A75A6f01.svg"
 }

@@ -3,5 +3,5 @@
   "symbol": "CELR",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0x4F9254C83EB525f9FCf346490bbb3ed28a81C667.svg"
+  "logo": "./icons/eip155:1/erc20:0x4F9254C83EB525f9FCf346490bbb3ed28a81C667.svg"
 }

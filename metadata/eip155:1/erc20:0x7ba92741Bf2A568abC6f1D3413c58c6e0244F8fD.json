@@ -3,5 +3,5 @@
   "symbol": "GBPe",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0x7ba92741Bf2A568abC6f1D3413c58c6e0244F8fD.svg"
+  "logo": "./icons/eip155:1/erc20:0x7ba92741Bf2A568abC6f1D3413c58c6e0244F8fD.svg"
 }

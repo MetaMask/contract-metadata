@@ -3,5 +3,5 @@
   "symbol": "PARETO",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0xea5f88E54d982Cbb0c441cde4E79bC305e5b43Bc.svg"
+  "logo": "./icons/eip155:1/erc20:0xea5f88E54d982Cbb0c441cde4E79bC305e5b43Bc.svg"
 }
