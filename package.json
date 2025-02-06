@@ -11,7 +11,8 @@
     "node": ">=14.0.0"
   },
   "scripts": {
-    "test": "node test"
+    "test": "node test && node ./test/caip.js",
+    "test:caip": "node ./test/caip.js"
   },
   "repository": {
     "type": "git",
