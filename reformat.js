@@ -6,6 +6,10 @@ const metadataFolder = "./metadata";
 const main = async () => {
   await Promise.all(
     Object.entries(contractMap).map(async ([contractAddress, metadata]) => {
+      //if is not erc20, skip
+      if (!metadata.erc20) {
+        return;
+      }
       const caip19ID = `eip155:1/erc20:${contractAddress}`;
       const iconPath = `${iconsFolder}/${caip19ID}.svg`;
       const metadataPath = `${metadataFolder}/${caip19ID}.json`;
