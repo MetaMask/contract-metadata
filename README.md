@@ -50,7 +50,7 @@ Criteria:
 - Project should have clear signs of activity, either traffic on the network, activity on GitHub, or community buzz.
 - Nice to have a verified source code on a block explorer like Etherscan.
 - Must have a ['NEUTRAL' reputation or 'OK' reputation](https://info.etherscan.com/etherscan-token-reputation) on Etherscan if it is an Ethereum-network asset. Other EVM Networks will be verified as possible.
-- Assets must not be ERC-721s
+- Assets must not be ERC-721s or ERC-1155s.
 
 A sample submission:
 
