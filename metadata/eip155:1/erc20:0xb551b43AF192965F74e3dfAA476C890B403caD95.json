@@ -3,5 +3,5 @@
   "symbol": "DATA",
   "decimals": 9,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0xb551b43AF192965F74e3dfAA476C890B403caD95.svg"
+  "logo": "./icons/eip155:1/erc20:0xb551b43AF192965F74e3dfAA476C890B403caD95.svg"
 }

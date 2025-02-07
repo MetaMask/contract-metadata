@@ -3,5 +3,5 @@
   "symbol": "WBTC",
   "decimals": 8,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599.svg"
+  "logo": "./icons/eip155:1/erc20:0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599.svg"
 }

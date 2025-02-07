@@ -3,5 +3,5 @@
   "symbol": "FINALE",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0xC7a2572fA8FDB0f7E81d6D3c4e3CCF78FB0DC374.svg"
+  "logo": "./icons/eip155:1/erc20:0xC7a2572fA8FDB0f7E81d6D3c4e3CCF78FB0DC374.svg"
 }

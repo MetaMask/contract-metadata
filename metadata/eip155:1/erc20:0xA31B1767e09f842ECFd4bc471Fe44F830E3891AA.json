@@ -3,5 +3,5 @@
   "symbol": "ROOBEE",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0xA31B1767e09f842ECFd4bc471Fe44F830E3891AA.svg"
+  "logo": "./icons/eip155:1/erc20:0xA31B1767e09f842ECFd4bc471Fe44F830E3891AA.svg"
 }

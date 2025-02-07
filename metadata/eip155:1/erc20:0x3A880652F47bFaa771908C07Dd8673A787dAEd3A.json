@@ -3,5 +3,5 @@
   "symbol": "DDX",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0x3A880652F47bFaa771908C07Dd8673A787dAEd3A.svg"
+  "logo": "./icons/eip155:1/erc20:0x3A880652F47bFaa771908C07Dd8673A787dAEd3A.svg"
 }

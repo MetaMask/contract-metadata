@@ -3,5 +3,5 @@
   "symbol": "SLP",
   "decimals": 0,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0xCC8Fa225D80b9c7D42F96e9570156c65D6cAAa25.svg"
+  "logo": "./icons/eip155:1/erc20:0xCC8Fa225D80b9c7D42F96e9570156c65D6cAAa25.svg"
 }

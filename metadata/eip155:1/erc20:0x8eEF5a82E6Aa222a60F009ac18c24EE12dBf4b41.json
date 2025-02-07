@@ -3,5 +3,5 @@
   "symbol": "TXL",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0x8eEF5a82E6Aa222a60F009ac18c24EE12dBf4b41.svg"
+  "logo": "./icons/eip155:1/erc20:0x8eEF5a82E6Aa222a60F009ac18c24EE12dBf4b41.svg"
 }

@@ -3,5 +3,5 @@
   "symbol": "EQZ",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0x1Da87b114f35E1DC91F72bF57fc07A768Ad40Bb0.svg"
+  "logo": "./icons/eip155:1/erc20:0x1Da87b114f35E1DC91F72bF57fc07A768Ad40Bb0.svg"
 }

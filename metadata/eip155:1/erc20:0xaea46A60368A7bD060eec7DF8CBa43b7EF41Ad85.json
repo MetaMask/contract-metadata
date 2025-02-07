@@ -3,5 +3,5 @@
   "symbol": "FET",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85.svg"
+  "logo": "./icons/eip155:1/erc20:0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85.svg"
 }

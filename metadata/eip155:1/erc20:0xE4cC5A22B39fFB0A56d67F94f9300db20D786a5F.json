@@ -3,5 +3,5 @@
   "symbol": "uneRSDL",
   "decimals": 8,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0xE4cC5A22B39fFB0A56d67F94f9300db20D786a5F.svg"
+  "logo": "./icons/eip155:1/erc20:0xE4cC5A22B39fFB0A56d67F94f9300db20D786a5F.svg"
 }

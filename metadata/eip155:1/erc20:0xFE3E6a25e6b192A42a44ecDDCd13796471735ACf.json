@@ -3,5 +3,5 @@
   "symbol": "REEF",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0xFE3E6a25e6b192A42a44ecDDCd13796471735ACf.svg"
+  "logo": "./icons/eip155:1/erc20:0xFE3E6a25e6b192A42a44ecDDCd13796471735ACf.svg"
 }

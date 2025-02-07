@@ -3,5 +3,5 @@
   "symbol": "PKF",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0x8B39B70E39Aa811b69365398e0aACe9bee238AEb.svg"
+  "logo": "./icons/eip155:1/erc20:0x8B39B70E39Aa811b69365398e0aACe9bee238AEb.svg"
 }

@@ -3,5 +3,5 @@
   "symbol": "SAFE",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0x5aFE3855358E112B5647B952709E6165e1c1eEEe.svg"
+  "logo": "./icons/eip155:1/erc20:0x5aFE3855358E112B5647B952709E6165e1c1eEEe.svg"
 }

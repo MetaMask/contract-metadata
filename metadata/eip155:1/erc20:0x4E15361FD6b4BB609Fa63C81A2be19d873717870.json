@@ -3,5 +3,5 @@
   "symbol": "FTM",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0x4E15361FD6b4BB609Fa63C81A2be19d873717870.svg"
+  "logo": "./icons/eip155:1/erc20:0x4E15361FD6b4BB609Fa63C81A2be19d873717870.svg"
 }

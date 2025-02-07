@@ -3,5 +3,5 @@
   "symbol": "BZR",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0x8d96B4ab6C741a4C8679AE323a100d74f085BA8F.svg"
+  "logo": "./icons/eip155:1/erc20:0x8d96B4ab6C741a4C8679AE323a100d74f085BA8F.svg"
 }

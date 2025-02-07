@@ -3,5 +3,5 @@
   "symbol": "BCPT",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0x1c4481750daa5Ff521A2a7490d9981eD46465Dbd.svg"
+  "logo": "./icons/eip155:1/erc20:0x1c4481750daa5Ff521A2a7490d9981eD46465Dbd.svg"
 }

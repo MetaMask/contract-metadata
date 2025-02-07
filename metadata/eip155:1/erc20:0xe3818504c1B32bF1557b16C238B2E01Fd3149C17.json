@@ -3,5 +3,5 @@
   "symbol": "PLR",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0xe3818504c1B32bF1557b16C238B2E01Fd3149C17.svg"
+  "logo": "./icons/eip155:1/erc20:0xe3818504c1B32bF1557b16C238B2E01Fd3149C17.svg"
 }

@@ -3,5 +3,5 @@
   "symbol": "HOGE",
   "decimals": 9,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0xfAd45E47083e4607302aa43c65fB3106F1cd7607.svg"
+  "logo": "./icons/eip155:1/erc20:0xfAd45E47083e4607302aa43c65fB3106F1cd7607.svg"
 }

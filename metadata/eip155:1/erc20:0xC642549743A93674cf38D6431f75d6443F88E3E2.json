@@ -3,5 +3,5 @@
   "symbol": "ISKe",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0xC642549743A93674cf38D6431f75d6443F88E3E2.svg"
+  "logo": "./icons/eip155:1/erc20:0xC642549743A93674cf38D6431f75d6443F88E3E2.svg"
 }

@@ -3,5 +3,5 @@
   "symbol": "SOUL",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0xBb1f24C0c1554b9990222f036b0AaD6Ee4CAec29.svg"
+  "logo": "./icons/eip155:1/erc20:0xBb1f24C0c1554b9990222f036b0AaD6Ee4CAec29.svg"
 }

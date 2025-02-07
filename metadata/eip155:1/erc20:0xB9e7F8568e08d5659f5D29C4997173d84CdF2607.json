@@ -3,5 +3,5 @@
   "symbol": "SWT",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0xB9e7F8568e08d5659f5D29C4997173d84CdF2607.svg"
+  "logo": "./icons/eip155:1/erc20:0xB9e7F8568e08d5659f5D29C4997173d84CdF2607.svg"
 }

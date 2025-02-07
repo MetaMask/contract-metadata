@@ -3,5 +3,5 @@
   "symbol": "WXRP",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0x39fBBABf11738317a448031930706cd3e612e1B9.svg"
+  "logo": "./icons/eip155:1/erc20:0x39fBBABf11738317a448031930706cd3e612e1B9.svg"
 }

@@ -3,5 +3,5 @@
   "symbol": "unETH",
   "decimals": 8,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0xFaCecE87e14B50eafc85C44C01702F5f485CA460.svg"
+  "logo": "./icons/eip155:1/erc20:0xFaCecE87e14B50eafc85C44C01702F5f485CA460.svg"
 }

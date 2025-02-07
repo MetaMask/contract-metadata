@@ -3,5 +3,5 @@
   "symbol": "unUSDT",
   "decimals": 8,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0x6e2aA5bB90ac37D9006685AFc651ef067E1c7b44.svg"
+  "logo": "./icons/eip155:1/erc20:0x6e2aA5bB90ac37D9006685AFc651ef067E1c7b44.svg"
 }

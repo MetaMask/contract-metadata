@@ -53,7 +53,7 @@ const main = async () => {
             symbol: metadata.symbol,
             decimals: metadata.decimals,
             erc20: metadata.erc20,
-            logo: `.${iconPath}`,
+            logo: `${iconPath}`,
           },
           null,
           2,

@@ -3,5 +3,5 @@
   "symbol": "PAD",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0xea7Cc765eBC94C4805e3BFf28D7E4aE48D06468A.svg"
+  "logo": "./icons/eip155:1/erc20:0xea7Cc765eBC94C4805e3BFf28D7E4aE48D06468A.svg"
 }

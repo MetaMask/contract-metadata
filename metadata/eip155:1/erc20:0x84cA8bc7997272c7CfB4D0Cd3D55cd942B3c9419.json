@@ -3,5 +3,5 @@
   "symbol": "DIA",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419.svg"
+  "logo": "./icons/eip155:1/erc20:0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419.svg"
 }

@@ -3,5 +3,5 @@
   "symbol": "unWBTC",
   "decimals": 8,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0x5D446FC8DBd10EBAcfE9A427aB5402586af98cD4.svg"
+  "logo": "./icons/eip155:1/erc20:0x5D446FC8DBd10EBAcfE9A427aB5402586af98cD4.svg"
 }
