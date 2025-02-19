@@ -37,12 +37,15 @@ test("logos should correspond to an included web image file", function (t) {
   t.end();
 });
 
-test("logos path names should be an svg", function (t) {
+test("logos path names should be an svg or a png", function (t) {
   Object.keys(contractMap).forEach((caip19AssetId) => {
     const contract = contractMap[caip19AssetId];
     if (!contract.logo) return;
     const fileName = contract.logo;
-    t.ok(fileName.includes(".svg"), `filename is an svg: "${fileName}"`);
+    t.ok(
+      fileName.includes(".svg") || fileName.includes(".png"),
+      `filename is an svg or a png: "${fileName}"`,
+    );
   });
 
   t.end();
