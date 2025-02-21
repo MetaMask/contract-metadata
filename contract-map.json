@@ -4490,5 +4490,19 @@
     "erc20": true,
     "symbol": "FEG",
     "decimals": 18
+  },
+  "0xa9F94F19abf3089d535B1dE2Cc058A365Ea716c7": {
+    "name": "AITA",
+    "logo": "aita.svg",
+    "erc20": true,
+    "symbol": "AITA",
+    "decimals": 18
+  },
+  "0x915424Ac489433130d92B04096F3b96c82e92a9D": {
+    "name": "Prosper",
+    "logo": "PROS.svg",
+    "erc20": true,
+    "symbol": "PROS",
+    "decimals": 18
   }
 }

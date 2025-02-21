@@ -1,0 +1,7 @@
+{
+  "name": "Livepeer",
+  "symbol": "LPT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x58b6A8A3302369DAEc383334672404Ee733aB239.svg"
+}

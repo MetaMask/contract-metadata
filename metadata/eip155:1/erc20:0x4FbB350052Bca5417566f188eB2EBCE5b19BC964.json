@@ -1,0 +1,7 @@
+{
+  "name": "Rigo",
+  "symbol": "GRG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x4FbB350052Bca5417566f188eB2EBCE5b19BC964.svg"
+}

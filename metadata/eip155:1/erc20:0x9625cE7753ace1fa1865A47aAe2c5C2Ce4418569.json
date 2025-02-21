@@ -1,0 +1,7 @@
+{
+  "name": "KAP Games",
+  "symbol": "KAP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9625cE7753ace1fa1865A47aAe2c5C2Ce4418569.svg"
+}

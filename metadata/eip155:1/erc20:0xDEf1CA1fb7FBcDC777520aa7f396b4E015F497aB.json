@@ -1,0 +1,7 @@
+{
+  "name": "CoW Protocol Token",
+  "symbol": "COW",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xDEf1CA1fb7FBcDC777520aa7f396b4E015F497aB.svg"
+}

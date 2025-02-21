@@ -1,0 +1,7 @@
+{
+  "name": "Maple Finance",
+  "symbol": "MPL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x33349B282065b0284d756F0577FB39c158F935e6.svg"
+}

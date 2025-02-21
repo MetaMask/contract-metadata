@@ -1,0 +1,7 @@
+{
+  "name": "Staked EURA",
+  "symbol": "stEUR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x004626A008B1aCdC4c74ab51644093b155e59A23.svg"
+}

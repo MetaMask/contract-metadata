@@ -1,0 +1,7 @@
+{
+  "name": "WAVES",
+  "symbol": "WAVES",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1cF4592ebfFd730c7dc92c1bdFFDfc3B9EfCf29a.svg"
+}

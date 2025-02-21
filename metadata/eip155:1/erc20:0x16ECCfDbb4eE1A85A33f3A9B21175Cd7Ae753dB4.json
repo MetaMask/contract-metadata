@@ -1,0 +1,7 @@
+{
+  "name": "Route",
+  "symbol": "ROUTE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4.svg"
+}

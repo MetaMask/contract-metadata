@@ -1,0 +1,7 @@
+{
+  "name": "VIDT Datalink",
+  "symbol": "VIDT-OLD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xfeF4185594457050cC9c23980d301908FE057Bb1.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Sharedstake.finance",
+  "symbol": "SGT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x24C19F7101c1731b85F1127EaA0407732E36EcDD.svg"
+}

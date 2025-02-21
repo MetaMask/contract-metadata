@@ -1,0 +1,7 @@
+{
+  "name": "Curve.fi ETH/stETH",
+  "symbol": "steCRV",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x06325440D014e39736583c165C2963BA99fAf14E.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Rubic",
+  "symbol": "BRBC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x8E3BCC334657560253B83f08331d85267316e08a.svg"
+}

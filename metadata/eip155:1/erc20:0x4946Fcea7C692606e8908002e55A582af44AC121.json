@@ -1,0 +1,7 @@
+{
+  "name": "FOAM",
+  "symbol": "FOAM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x4946Fcea7C692606e8908002e55A582af44AC121.svg"
+}

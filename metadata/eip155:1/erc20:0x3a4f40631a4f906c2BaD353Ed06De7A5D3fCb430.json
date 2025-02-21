@@ -1,0 +1,7 @@
+{
+  "name": "PlayDapp Token",
+  "symbol": "PLA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3a4f40631a4f906c2BaD353Ed06De7A5D3fCb430.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Governance OHM",
+  "symbol": "gOHM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0ab87046fBb341D058F17CBC4c1133F25a20a52f.svg"
+}

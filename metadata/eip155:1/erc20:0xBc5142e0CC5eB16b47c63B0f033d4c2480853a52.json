@@ -1,0 +1,7 @@
+{
+  "name": "Monerium USD",
+  "symbol": "USDe",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xBc5142e0CC5eB16b47c63B0f033d4c2480853a52.svg"
+}

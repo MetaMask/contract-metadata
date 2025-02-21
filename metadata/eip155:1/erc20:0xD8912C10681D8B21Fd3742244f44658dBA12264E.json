@@ -1,0 +1,7 @@
+{
+  "name": "Pluton",
+  "symbol": "PLU",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD8912C10681D8B21Fd3742244f44658dBA12264E.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Carbon",
+  "symbol": "CRBN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xCdeee767beD58c5325f68500115d4B722b3724EE.svg"
+}

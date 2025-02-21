@@ -1,0 +1,7 @@
+{
+  "name": "chiliZ",
+  "symbol": "CHZ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3506424F91fD33084466F402d5D97f05F8e3b4AF.svg"
+}

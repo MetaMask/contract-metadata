@@ -1,0 +1,7 @@
+{
+  "name": "Mandala Exchange Token",
+  "symbol": "MDX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x947AEb02304391f8fbE5B25D7D98D649b57b1788.svg"
+}

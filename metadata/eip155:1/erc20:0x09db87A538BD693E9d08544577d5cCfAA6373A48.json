@@ -1,0 +1,7 @@
+{
+  "name": "YieldNest Restaked ETH",
+  "symbol": "ynETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x09db87A538BD693E9d08544577d5cCfAA6373A48.svg"
+}

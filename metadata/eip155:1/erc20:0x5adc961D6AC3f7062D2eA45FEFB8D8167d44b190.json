@@ -1,0 +1,7 @@
+{
+  "name": "Dether",
+  "symbol": "DTH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ZkTube",
+  "symbol": "ZKT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x07c52c2537D84e532a9F15d32E152C8B94D2b232.svg"
+}

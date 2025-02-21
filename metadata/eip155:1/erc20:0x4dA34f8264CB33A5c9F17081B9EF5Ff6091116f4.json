@@ -1,0 +1,7 @@
+{
+  "name": "Elyfi",
+  "symbol": "ELFI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x4dA34f8264CB33A5c9F17081B9EF5Ff6091116f4.svg"
+}

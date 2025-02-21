@@ -1,0 +1,7 @@
+{
+  "name": "Civil Token",
+  "symbol": "CVL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x01FA555c97D7958Fa6f771f3BbD5CCD508f81e22.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Aave YFI",
+  "symbol": "aYFI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x5165d24277cD063F5ac44Efd447B27025e888f37.svg"
+}

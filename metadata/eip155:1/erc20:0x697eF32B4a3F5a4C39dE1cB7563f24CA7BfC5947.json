@@ -1,0 +1,7 @@
+{
+  "name": "Insula Token",
+  "symbol": "ISLA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x697eF32B4a3F5a4C39dE1cB7563f24CA7BfC5947.svg"
+}

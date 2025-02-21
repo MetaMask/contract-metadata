@@ -1,0 +1,7 @@
+{
+  "name": "Decentraland",
+  "symbol": "MANA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0F5D2fB29fb7d3CFeE444a200298f468908cC942.svg"
+}

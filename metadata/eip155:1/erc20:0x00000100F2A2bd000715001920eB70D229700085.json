@@ -1,0 +1,7 @@
+{
+  "name": "TrueCAD",
+  "symbol": "TCAD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x00000100F2A2bd000715001920eB70D229700085.svg"
+}

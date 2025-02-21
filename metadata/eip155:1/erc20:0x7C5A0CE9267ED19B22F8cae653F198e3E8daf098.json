@@ -1,0 +1,7 @@
+{
+  "name": "Santiment",
+  "symbol": "SAN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x7C5A0CE9267ED19B22F8cae653F198e3E8daf098.svg"
+}

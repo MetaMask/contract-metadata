@@ -1,0 +1,7 @@
+{
+  "name": "Pepe Inu",
+  "symbol": "$PEPEINU",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x99cFB8cBA9c821B4a343c6a1Fc630465C9708DF5.svg"
+}

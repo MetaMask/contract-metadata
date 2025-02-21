@@ -1,0 +1,7 @@
+{
+  "name": "TrueHKD",
+  "symbol": "THKD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0000852600CEB001E08e00bC008be620d60031F2.svg"
+}

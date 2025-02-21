@@ -1,0 +1,7 @@
+{
+  "name": "Wootrade Network",
+  "symbol": "WOO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x4691937a7508860F876c9c0a2a617E7d9E945D4B.svg"
+}

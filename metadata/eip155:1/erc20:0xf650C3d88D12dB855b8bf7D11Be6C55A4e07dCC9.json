@@ -1,0 +1,7 @@
+{
+  "name": "Compound Tether",
+  "symbol": "cUSDT",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xf650C3d88D12dB855b8bf7D11Be6C55A4e07dCC9.svg"
+}

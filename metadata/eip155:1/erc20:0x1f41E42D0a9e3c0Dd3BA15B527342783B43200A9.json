@@ -1,0 +1,7 @@
+{
+  "name": "Blockchain Capital",
+  "symbol": "BCAP",
+  "decimals": 0,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1f41E42D0a9e3c0Dd3BA15B527342783B43200A9.svg"
+}

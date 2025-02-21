@@ -1,0 +1,7 @@
+{
+  "name": "Pinakion Token",
+  "symbol": "PNK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d.svg"
+}

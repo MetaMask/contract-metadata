@@ -1,0 +1,7 @@
+{
+  "name": "Portion Token",
+  "symbol": "PRT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x6D0F5149c502faf215C89ab306ec3E50b15e2892.svg"
+}

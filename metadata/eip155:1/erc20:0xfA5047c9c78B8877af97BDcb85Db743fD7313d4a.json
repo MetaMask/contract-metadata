@@ -1,0 +1,7 @@
+{
+  "name": "ROOK",
+  "symbol": "ROOK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xfA5047c9c78B8877af97BDcb85Db743fD7313d4a.svg"
+}

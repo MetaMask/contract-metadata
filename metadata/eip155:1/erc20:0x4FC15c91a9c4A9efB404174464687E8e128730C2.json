@@ -1,0 +1,7 @@
+{
+  "name": "STAT",
+  "symbol": "STAT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x4FC15c91a9c4A9efB404174464687E8e128730C2.svg"
+}

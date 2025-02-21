@@ -1,0 +1,7 @@
+{
+  "name": "XCAD Token",
+  "symbol": "XCAD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x7659CE147D0e714454073a5dd7003544234b6Aa0.svg"
+}

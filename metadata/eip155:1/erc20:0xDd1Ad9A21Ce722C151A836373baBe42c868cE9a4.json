@@ -1,0 +1,7 @@
+{
+  "name": "Universal Basic Income",
+  "symbol": "UBI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xDd1Ad9A21Ce722C151A836373baBe42c868cE9a4.svg"
+}

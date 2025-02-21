@@ -1,0 +1,7 @@
+{
+  "name": "MagicCraft",
+  "symbol": "MCRT",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xde16Ce60804a881e9F8c4eBB3824646EDecd478D.svg"
+}

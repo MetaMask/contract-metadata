@@ -1,0 +1,7 @@
+{
+  "name": "Kyber Network Crystal",
+  "symbol": "KNC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xdd974D5C2e2928deA5F71b9825b8b646686BD200.svg"
+}

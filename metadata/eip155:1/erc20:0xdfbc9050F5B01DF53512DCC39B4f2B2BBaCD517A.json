@@ -1,0 +1,7 @@
+{
+  "name": "Jobchain",
+  "symbol": "JOB",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xdfbc9050F5B01DF53512DCC39B4f2B2BBaCD517A.svg"
+}

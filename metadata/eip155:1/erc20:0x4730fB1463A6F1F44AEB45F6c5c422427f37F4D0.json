@@ -1,0 +1,7 @@
+{
+  "name": "The 4th Pillar Token",
+  "symbol": "FOUR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x4730fB1463A6F1F44AEB45F6c5c422427f37F4D0.svg"
+}

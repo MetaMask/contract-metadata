@@ -1,0 +1,7 @@
+{
+  "name": "FunFair",
+  "symbol": "FUN",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x419D0d8BdD9aF5e606Ae2232ed285Aff190E711b.svg"
+}

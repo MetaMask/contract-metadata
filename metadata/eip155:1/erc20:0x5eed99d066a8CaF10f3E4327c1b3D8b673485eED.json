@@ -1,0 +1,7 @@
+{
+  "name": "SEED",
+  "symbol": "SEED",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x5eed99d066a8CaF10f3E4327c1b3D8b673485eED.svg"
+}

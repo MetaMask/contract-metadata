@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped MIR Token",
+  "symbol": "MIR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x09a3EcAFa817268f77BE1283176B946C4ff2E608.svg"
+}

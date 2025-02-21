@@ -1,0 +1,7 @@
+{
+  "name": "Reflect Finance",
+  "symbol": "RFI",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA1AFFfE3F4D611d252010E3EAf6f4D77088b0cd7.svg"
+}

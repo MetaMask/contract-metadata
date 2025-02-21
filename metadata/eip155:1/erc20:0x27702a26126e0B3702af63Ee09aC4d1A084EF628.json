@@ -1,0 +1,7 @@
+{
+  "name": "Aleph.im Token",
+  "symbol": "ALEPH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x27702a26126e0B3702af63Ee09aC4d1A084EF628.svg"
+}

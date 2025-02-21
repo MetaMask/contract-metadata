@@ -1,0 +1,7 @@
+{
+  "name": "Nexum Coin",
+  "symbol": "Nexm",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xe831F96A7a1DcE1aa2EB760b1e296c6A74CaA9d5.svg"
+}

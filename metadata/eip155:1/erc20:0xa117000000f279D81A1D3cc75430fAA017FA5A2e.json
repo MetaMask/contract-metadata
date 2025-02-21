@@ -1,0 +1,7 @@
+{
+  "name": "Aragon Network Token",
+  "symbol": "ANT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xa117000000f279D81A1D3cc75430fAA017FA5A2e.svg"
+}

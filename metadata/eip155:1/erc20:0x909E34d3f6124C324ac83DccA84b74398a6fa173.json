@@ -1,0 +1,7 @@
+{
+  "name": "Panther",
+  "symbol": "$ZKP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x909E34d3f6124C324ac83DccA84b74398a6fa173.svg"
+}

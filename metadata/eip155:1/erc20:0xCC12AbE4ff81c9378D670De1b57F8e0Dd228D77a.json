@@ -1,0 +1,7 @@
+{
+  "name": "Aave REN",
+  "symbol": "aREN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xCC12AbE4ff81c9378D670De1b57F8e0Dd228D77a.svg"
+}

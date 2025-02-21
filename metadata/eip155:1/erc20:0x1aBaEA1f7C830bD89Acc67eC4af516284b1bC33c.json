@@ -1,0 +1,7 @@
+{
+  "name": "EURC",
+  "symbol": "EURC",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c.svg"
+}

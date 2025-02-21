@@ -1,0 +1,7 @@
+{
+  "name": "BitBase",
+  "symbol": "BTBS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x32E6C34Cd57087aBBD59B5A4AECC4cB495924356.svg"
+}

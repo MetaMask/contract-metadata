@@ -1,0 +1,7 @@
+{
+  "name": "Avaluse",
+  "symbol": "AVAL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xBCf9dBf8B14eD096B2BA08b7269356197fDd1b5D.svg"
+}

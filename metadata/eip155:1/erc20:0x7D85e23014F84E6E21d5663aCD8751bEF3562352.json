@@ -1,0 +1,7 @@
+{
+  "name": "Axion Old",
+  "symbol": "AXNv1",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x7D85e23014F84E6E21d5663aCD8751bEF3562352.svg"
+}

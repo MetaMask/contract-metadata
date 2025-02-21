@@ -1,0 +1,7 @@
+{
+  "name": "dForce",
+  "symbol": "DF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x431ad2ff6a9C365805eBaD47Ee021148d6f7DBe0.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Dragonereum Gold",
+  "symbol": "GOLD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x150b0b96933B75Ce27af8b92441F8fB683bF9739.svg"
+}

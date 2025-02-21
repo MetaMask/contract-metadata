@@ -1,0 +1,7 @@
+{
+  "name": "StormX",
+  "symbol": "STMX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xa62cc35625B0C8dc1fAEA39d33625Bb4C15bD71C.svg"
+}

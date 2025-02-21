@@ -1,0 +1,7 @@
+{
+  "name": "DeHive",
+  "symbol": "DHV",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x62Dc4817588d53a056cBbD18231d91ffCcd34b2A.svg"
+}

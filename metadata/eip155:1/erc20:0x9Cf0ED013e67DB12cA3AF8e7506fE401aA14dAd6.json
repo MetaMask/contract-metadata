@@ -1,0 +1,7 @@
+{
+  "name": "Spectre AI",
+  "symbol": "SPECTRE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9Cf0ED013e67DB12cA3AF8e7506fE401aA14dAd6.svg"
+}

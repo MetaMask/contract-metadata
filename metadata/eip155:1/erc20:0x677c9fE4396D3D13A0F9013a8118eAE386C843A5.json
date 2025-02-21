@@ -1,0 +1,7 @@
+{
+  "name": "IAM",
+  "symbol": "IAM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x677c9fE4396D3D13A0F9013a8118eAE386C843A5.svg"
+}

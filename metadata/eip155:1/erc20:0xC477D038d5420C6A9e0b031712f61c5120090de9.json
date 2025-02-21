@@ -1,0 +1,7 @@
+{
+  "name": "Boson Token",
+  "symbol": "BOSON",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xC477D038d5420C6A9e0b031712f61c5120090de9.svg"
+}

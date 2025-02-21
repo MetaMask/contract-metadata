@@ -1,0 +1,7 @@
+{
+  "name": "Republic Token",
+  "symbol": "REN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x408e41876cCCDC0F92210600ef50372656052a38.svg"
+}

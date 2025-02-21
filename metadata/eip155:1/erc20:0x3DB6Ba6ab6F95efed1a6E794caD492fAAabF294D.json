@@ -1,0 +1,7 @@
+{
+  "name": "LTO Network Token (old)",
+  "symbol": "LTOOLD",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3DB6Ba6ab6F95efed1a6E794caD492fAAabF294D.svg"
+}

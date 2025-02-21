@@ -1,0 +1,7 @@
+{
+  "name": "Polkadog",
+  "symbol": "PDOG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB16e967ff83DE3F1e9FCeAfbc2C28c1c5c56eF91.svg"
+}

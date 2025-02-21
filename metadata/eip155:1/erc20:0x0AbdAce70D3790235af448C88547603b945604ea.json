@@ -1,0 +1,7 @@
+{
+  "name": "district0x",
+  "symbol": "DNT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0AbdAce70D3790235af448C88547603b945604ea.svg"
+}

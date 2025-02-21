@@ -1,0 +1,7 @@
+{
+  "name": "EURxb",
+  "symbol": "EURxb",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0beAD9a1bcc1b84D06E3f2df67E3549Fd55aB054.svg"
+}

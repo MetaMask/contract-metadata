@@ -1,0 +1,7 @@
+{
+  "name": "sGTON",
+  "symbol": "sGTON",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xeFF66B4A84C8a6b69b99EB1C5e39aF8fc35d13db.svg"
+}

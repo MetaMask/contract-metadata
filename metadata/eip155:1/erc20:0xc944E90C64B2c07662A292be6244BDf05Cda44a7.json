@@ -1,0 +1,7 @@
+{
+  "name": "Graph Token",
+  "symbol": "GRT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xc944E90C64B2c07662A292be6244BDf05Cda44a7.svg"
+}

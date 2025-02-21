@@ -1,0 +1,7 @@
+{
+  "name": "ether.fi Staked ETH",
+  "symbol": "eETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x35fA164735182de50811E8e2E824cFb9B6118ac2.svg"
+}

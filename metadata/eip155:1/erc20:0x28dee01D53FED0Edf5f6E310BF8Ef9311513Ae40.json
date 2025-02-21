@@ -1,0 +1,7 @@
+{
+  "name": "BlitzPredict",
+  "symbol": "XBP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x28dee01D53FED0Edf5f6E310BF8Ef9311513Ae40.svg"
+}

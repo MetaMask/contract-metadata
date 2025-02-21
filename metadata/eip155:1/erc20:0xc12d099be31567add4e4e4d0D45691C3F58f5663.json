@@ -1,0 +1,7 @@
+{
+  "name": "Auctus",
+  "symbol": "AUC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xc12d099be31567add4e4e4d0D45691C3F58f5663.svg"
+}

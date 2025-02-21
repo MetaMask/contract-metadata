@@ -1,0 +1,7 @@
+{
+  "name": "Shiba San",
+  "symbol": "SHIBADOG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x2013C72c04D3071bE73f0af6eDC909F659656bda.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Fulcrum USDT iToken (iUSDT)",
+  "symbol": "iUSDT",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x7e9997a38A439b2be7ed9c9C4628391d3e055D48.svg"
+}

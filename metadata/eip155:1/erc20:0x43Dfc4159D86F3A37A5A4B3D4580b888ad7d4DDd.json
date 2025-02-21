@@ -1,0 +1,7 @@
+{
+  "name": "DODO bird",
+  "symbol": "DODO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x43Dfc4159D86F3A37A5A4B3D4580b888ad7d4DDd.svg"
+}

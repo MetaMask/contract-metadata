@@ -1,0 +1,7 @@
+{
+  "name": "GTON",
+  "symbol": "GTON",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x01e0E2e61f554eCAaeC0cC933E739Ad90f24a86d.svg"
+}

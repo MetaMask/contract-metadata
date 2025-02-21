@@ -1,0 +1,7 @@
+{
+  "name": "Liquid staked Ether 2.0",
+  "symbol": "stETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84.svg"
+}

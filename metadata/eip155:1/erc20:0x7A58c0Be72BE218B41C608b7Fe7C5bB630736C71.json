@@ -1,0 +1,7 @@
+{
+  "name": "ConstitutionDAO",
+  "symbol": "PEOPLE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x7A58c0Be72BE218B41C608b7Fe7C5bB630736C71.svg"
+}

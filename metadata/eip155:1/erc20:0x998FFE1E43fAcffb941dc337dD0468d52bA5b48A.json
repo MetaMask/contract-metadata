@@ -1,0 +1,7 @@
+{
+  "name": "Rupiah Token",
+  "symbol": "IDRT",
+  "decimals": 2,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x998FFE1E43fAcffb941dc337dD0468d52bA5b48A.svg"
+}

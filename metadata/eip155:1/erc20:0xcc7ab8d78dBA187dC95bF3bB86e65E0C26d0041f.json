@@ -1,0 +1,7 @@
+{
+  "name": "Spacelens",
+  "symbol": "SPACE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xcc7ab8d78dBA187dC95bF3bB86e65E0C26d0041f.svg"
+}

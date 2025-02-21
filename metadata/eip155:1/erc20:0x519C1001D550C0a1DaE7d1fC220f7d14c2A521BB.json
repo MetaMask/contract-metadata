@@ -1,0 +1,7 @@
+{
+  "name": "Polkaswap",
+  "symbol": "PSWAP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x519C1001D550C0a1DaE7d1fC220f7d14c2A521BB.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "VISOR",
+  "symbol": "VISR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF938424F7210f31dF2Aee3011291b658f872e91e.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Vesper",
+  "symbol": "VSP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1b40183EFB4Dd766f11bDa7A7c3AD8982e998421.svg"
+}

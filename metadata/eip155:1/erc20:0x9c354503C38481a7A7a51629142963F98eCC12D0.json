@@ -1,0 +1,7 @@
+{
+  "name": "Origin DeFi Governance",
+  "symbol": "OGV",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9c354503C38481a7A7a51629142963F98eCC12D0.svg"
+}

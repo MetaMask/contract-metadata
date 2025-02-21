@@ -1,0 +1,7 @@
+{
+  "name": "Aave UNI",
+  "symbol": "aUNI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB9D7CB55f463405CDfBe4E90a6D2Df01C2B92BF1.svg"
+}

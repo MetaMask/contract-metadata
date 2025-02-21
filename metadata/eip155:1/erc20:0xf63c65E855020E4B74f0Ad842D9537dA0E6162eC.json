@@ -1,0 +1,7 @@
+{
+  "name": "ISH",
+  "symbol": "ISH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xf63c65E855020E4B74f0Ad842D9537dA0E6162eC.svg"
+}

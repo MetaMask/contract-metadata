@@ -1,0 +1,7 @@
+{
+  "name": "METAOASIS",
+  "symbol": "MOA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xdf0162A6B3e9fDf0302c1e949739DeeaFafd8F89.svg"
+}
