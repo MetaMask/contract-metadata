@@ -1,0 +1,9 @@
+{
+  "name": "TetherUSDBridgedZED20",
+  "logo": "tetherusdbz.svg",
+  "erc20": true,
+  "symbol": "USDT.z",
+  "decimals": 18,
+  "address": "0x1aC8df5C63CeED06257D550Ada9F3098a6A9caec",
+  "chainId": 56
+}
