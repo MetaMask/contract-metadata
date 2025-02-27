@@ -1,0 +1,9 @@
+{
+  "eip155:1/erc20:0x1f82284C1658Ad71C576f7230E6C2DEE7901c1FA": {
+    "name": "Wrapped Backed Tesla Inc",
+    "symbol": "wbTSLA",
+    "decimals": 18,
+    "erc20": true,
+    "logo": "./icons/eip155:1/erc20:0x14A5f2872396802C3Cc8942A39Ab3E4118EE5038.svg"
+  }
+}
