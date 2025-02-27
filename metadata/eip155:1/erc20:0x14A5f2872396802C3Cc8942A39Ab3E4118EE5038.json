@@ -1,0 +1,9 @@
+{
+  "eip155:1/erc20:0x14A5f2872396802C3Cc8942A39Ab3E4118EE5038": {
+    "name": "Backed Tesla Inc",
+    "symbol": "bTSLA",
+    "decimals": 18,
+    "erc20": true,
+    "logo": "./icons/eip155:1/erc20:0x14A5f2872396802C3Cc8942A39Ab3E4118EE5038.svg"
+  }
+}
