@@ -1,0 +1,9 @@
+{
+"name": "Broccoli",
+"logo": "icons/eip155:56/XlfKcoBr_400x400.png",
+"erc20": true,
+"symbol": "BROCCOLI",
+"decimals": 18,
+"address": "0x12b4356c65340fb02cdff01293f95febb1512f3b",
+"chainId": 56
+}
