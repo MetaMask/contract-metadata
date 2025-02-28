@@ -1,10 +1,13 @@
-name: 'MetaMask Security Code Scanner'
+name: MetaMask Security Code Scanner
 
 on:
   push:
-    branches: ['master']
+    branches:
+      - master
   pull_request:
-    branches: ['master']
+    branches:
+      - master
+  workflow_dispatch:
 
 jobs:
   run-security-scan:
