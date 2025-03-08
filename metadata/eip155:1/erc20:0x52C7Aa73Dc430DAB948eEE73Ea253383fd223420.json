@@ -1,0 +1,7 @@
+{
+  "name": "Big Back Bitcoin",
+  "symbol": "BBBTC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x52C7Aa73Dc430DAB948eEE73Ea253383fd223420.png"
+}
