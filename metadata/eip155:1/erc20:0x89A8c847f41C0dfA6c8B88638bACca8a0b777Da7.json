@@ -1,0 +1,7 @@
+{
+  "name": "Elixir",
+  "logo": "./icons/eip155:1/erc20:0x89A8c847f41C0dfA6c8B88638bACca8a0b777Da7.png",
+  "erc20": true,
+  "symbol": "ELX",
+  "decimals": 18
+}
