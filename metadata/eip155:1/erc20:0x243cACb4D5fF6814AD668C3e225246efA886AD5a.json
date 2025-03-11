@@ -1,0 +1,7 @@
+{
+  "name": "Shina Inu",
+  "symbol": "SHI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x243cACb4D5fF6814AD668C3e225246efA886AD5a.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Polymath",
+  "symbol": "POLY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9992eC3cF6A55b00978cdDF2b27BC6882d88D1eC.svg"
+}

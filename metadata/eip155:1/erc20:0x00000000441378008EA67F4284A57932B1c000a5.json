@@ -1,0 +1,7 @@
+{
+  "name": "TrueGBP",
+  "symbol": "TGBP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x00000000441378008EA67F4284A57932B1c000a5.svg"
+}

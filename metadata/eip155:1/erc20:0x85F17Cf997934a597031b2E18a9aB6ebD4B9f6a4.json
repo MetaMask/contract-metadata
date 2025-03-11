@@ -1,0 +1,7 @@
+{
+  "name": "NEAR",
+  "symbol": "NEAR",
+  "decimals": 24,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x85F17Cf997934a597031b2E18a9aB6ebD4B9f6a4.svg"
+}

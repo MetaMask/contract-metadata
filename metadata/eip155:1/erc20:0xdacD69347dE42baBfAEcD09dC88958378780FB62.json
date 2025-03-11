@@ -1,0 +1,7 @@
+{
+  "name": "Atari Token",
+  "symbol": "ATRI",
+  "decimals": 0,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xdacD69347dE42baBfAEcD09dC88958378780FB62.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "00",
+  "symbol": "00",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x881Ba05de1E78f549cC63a8f6Cabb1d4AD32250D.svg"
+}

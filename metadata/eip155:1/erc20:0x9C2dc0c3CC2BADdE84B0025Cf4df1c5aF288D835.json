@@ -1,0 +1,7 @@
+{
+  "name": "Coreto",
+  "symbol": "COR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9C2dc0c3CC2BADdE84B0025Cf4df1c5aF288D835.svg"
+}

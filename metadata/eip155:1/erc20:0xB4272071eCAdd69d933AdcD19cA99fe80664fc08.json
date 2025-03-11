@@ -1,0 +1,7 @@
+{
+  "name": "CryptoFranc",
+  "symbol": "XCHF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB4272071eCAdd69d933AdcD19cA99fe80664fc08.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Kangal",
+  "symbol": "KANGAL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x6E765D26388A17A6e86c49A8E41DF3F58aBcd337.svg"
+}

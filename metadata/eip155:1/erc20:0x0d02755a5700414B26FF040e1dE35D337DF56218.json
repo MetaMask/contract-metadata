@@ -1,0 +1,7 @@
+{
+  "name": "Bend Token",
+  "symbol": "BEND",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0d02755a5700414B26FF040e1dE35D337DF56218.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Orchid",
+  "symbol": "OXT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x4575f41308EC1483f3d399aa9a2826d74Da13Deb.svg"
+}

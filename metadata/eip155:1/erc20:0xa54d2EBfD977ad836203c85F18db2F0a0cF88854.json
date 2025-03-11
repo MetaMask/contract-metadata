@@ -1,0 +1,7 @@
+{
+  "name": "Bacon",
+  "symbol": "BACON",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xa54d2EBfD977ad836203c85F18db2F0a0cF88854.svg"
+}

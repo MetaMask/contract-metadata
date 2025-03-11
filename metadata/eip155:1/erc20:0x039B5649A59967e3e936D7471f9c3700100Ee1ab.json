@@ -1,0 +1,7 @@
+{
+  "name": "Kucoin Shares",
+  "symbol": "KCS",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x039B5649A59967e3e936D7471f9c3700100Ee1ab.svg"
+}

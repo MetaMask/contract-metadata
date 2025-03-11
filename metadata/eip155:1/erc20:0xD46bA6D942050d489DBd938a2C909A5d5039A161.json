@@ -1,0 +1,7 @@
+{
+  "name": "Ampleforth",
+  "symbol": "AMPL",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD46bA6D942050d489DBd938a2C909A5d5039A161.svg"
+}

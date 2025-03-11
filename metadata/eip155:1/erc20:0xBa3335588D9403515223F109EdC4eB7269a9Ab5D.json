@@ -1,0 +1,7 @@
+{
+  "name": "Gearbox",
+  "symbol": "GEAR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xBa3335588D9403515223F109EdC4eB7269a9Ab5D.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "unFederal YFI",
+  "symbol": "unYFI",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9e29Ce9cD25F4141dF6BB85b27Ef6933a16A5824.svg"
+}

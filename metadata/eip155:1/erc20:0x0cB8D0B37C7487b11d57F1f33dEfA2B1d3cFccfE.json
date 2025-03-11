@@ -1,0 +1,7 @@
+{
+  "name": "DANKToken",
+  "symbol": "DANK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0cB8D0B37C7487b11d57F1f33dEfA2B1d3cFccfE.svg"
+}

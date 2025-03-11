@@ -1,0 +1,7 @@
+{
+  "name": "Aave BAT",
+  "symbol": "aBAT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x05Ec93c0365baAeAbF7AefFb0972ea7ECdD39CF1.svg"
+}

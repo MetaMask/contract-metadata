@@ -1,0 +1,7 @@
+{
+  "name": "DAOstack",
+  "symbol": "GEN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x543Ff227F64Aa17eA132Bf9886cAb5DB55DCAddf.svg"
+}

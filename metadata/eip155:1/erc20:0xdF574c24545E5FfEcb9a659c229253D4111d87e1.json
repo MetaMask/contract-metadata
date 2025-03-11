@@ -1,0 +1,7 @@
+{
+  "name": "HUSD",
+  "symbol": "HUSD",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xdF574c24545E5FfEcb9a659c229253D4111d87e1.svg"
+}

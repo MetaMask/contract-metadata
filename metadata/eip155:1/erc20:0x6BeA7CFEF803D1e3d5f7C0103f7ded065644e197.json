@@ -1,0 +1,7 @@
+{
+  "name": "Gamma",
+  "symbol": "GAMMA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x6BeA7CFEF803D1e3d5f7C0103f7ded065644e197.svg"
+}

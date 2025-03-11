@@ -1,0 +1,7 @@
+{
+  "name": "GogolCoin",
+  "symbol": "GOL",
+  "decimals": 4,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x083D41d6DD21EE938f0c055CA4fb12268DF0EfaC.svg"
+}

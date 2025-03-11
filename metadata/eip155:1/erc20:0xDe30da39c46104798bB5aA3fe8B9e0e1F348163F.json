@@ -1,0 +1,7 @@
+{
+  "name": "Gitcoin",
+  "symbol": "GTC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xDe30da39c46104798bB5aA3fe8B9e0e1F348163F.svg"
+}

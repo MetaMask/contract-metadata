@@ -1,0 +1,7 @@
+{
+  "name": "Aave ENJ",
+  "symbol": "aENJ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xaC6Df26a590F08dcC95D5a4705ae8abbc88509Ef.svg"
+}

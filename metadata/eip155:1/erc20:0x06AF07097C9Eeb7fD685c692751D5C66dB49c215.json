@@ -1,0 +1,7 @@
+{
+  "name": "Chai",
+  "symbol": "CHAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x06AF07097C9Eeb7fD685c692751D5C66dB49c215.svg"
+}

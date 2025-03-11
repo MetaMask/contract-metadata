@@ -1,0 +1,7 @@
+{
+  "name": "Axelar",
+  "symbol": "AXL",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x467719aD09025FcC6cF6F8311755809d45a5E5f3.svg"
+}

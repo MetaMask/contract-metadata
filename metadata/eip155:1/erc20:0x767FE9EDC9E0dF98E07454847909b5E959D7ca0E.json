@@ -1,0 +1,7 @@
+{
+  "name": "Illuvium",
+  "symbol": "ILV",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E.svg"
+}

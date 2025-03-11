@@ -1,0 +1,7 @@
+{
+  "name": "CRUST",
+  "symbol": "CRU",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x32a7C02e79c4ea1008dD6564b35F131428673c41.svg"
+}

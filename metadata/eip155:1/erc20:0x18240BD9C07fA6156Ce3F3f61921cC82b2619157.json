@@ -1,0 +1,7 @@
+{
+  "name": "Fulcrum BZRX iToken (iBZRX)",
+  "symbol": "iBZRX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x18240BD9C07fA6156Ce3F3f61921cC82b2619157.svg"
+}

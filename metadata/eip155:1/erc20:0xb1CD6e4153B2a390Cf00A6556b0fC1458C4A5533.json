@@ -1,0 +1,7 @@
+{
+  "name": "ETHBNT Liquidity Pool",
+  "symbol": "ETHBNT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xb1CD6e4153B2a390Cf00A6556b0fC1458C4A5533.svg"
+}

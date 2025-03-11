@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Dollar",
+  "symbol": "GUSD",
+  "decimals": 2,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd.svg"
+}

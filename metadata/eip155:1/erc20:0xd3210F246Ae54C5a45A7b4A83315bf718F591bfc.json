@@ -1,0 +1,7 @@
+{
+  "name": "ArkiTech",
+  "symbol": "ARKI",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xd3210F246Ae54C5a45A7b4A83315bf718F591bfc.svg"
+}

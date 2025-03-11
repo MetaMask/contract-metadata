@@ -1,0 +1,7 @@
+{
+  "name": "Sky Ecosystem",
+  "symbol": "SKY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x56072C95FAA701256059aa122697B133aDEd9279.svg"
+}

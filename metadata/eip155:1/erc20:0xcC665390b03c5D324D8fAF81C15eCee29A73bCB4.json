@@ -1,0 +1,7 @@
+{
+  "name": "ChainSwap.com Governance Token",
+  "symbol": "ASAP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xcC665390b03c5D324D8fAF81C15eCee29A73bCB4.svg"
+}

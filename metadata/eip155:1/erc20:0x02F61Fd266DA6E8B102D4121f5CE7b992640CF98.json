@@ -1,0 +1,7 @@
+{
+  "name": "LikeCoin",
+  "symbol": "LIKE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x02F61Fd266DA6E8B102D4121f5CE7b992640CF98.svg"
+}

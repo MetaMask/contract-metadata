@@ -1,0 +1,7 @@
+{
+  "name": "KEEP",
+  "symbol": "KEEP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x85Eee30c52B0b379b046Fb0F85F4f3Dc3009aFEC.svg"
+}

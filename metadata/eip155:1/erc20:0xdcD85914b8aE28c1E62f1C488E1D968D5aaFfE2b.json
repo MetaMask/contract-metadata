@@ -1,0 +1,7 @@
+{
+  "name": "TOP Network Token",
+  "symbol": "TOP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xdcD85914b8aE28c1E62f1C488E1D968D5aaFfE2b.svg"
+}

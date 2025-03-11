@@ -1,0 +1,7 @@
+{
+  "name": "Orbs",
+  "symbol": "ORBS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xff56Cc6b1E6dEd347aA0B7676C85AB0B3D08B0FA.svg"
+}

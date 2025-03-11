@@ -1,0 +1,7 @@
+{
+  "name": "Compound Basic Attention Token",
+  "symbol": "cBAT",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x6C8c6b02E7b2BE14d4fA6022Dfd6d75921D90E4E.svg"
+}

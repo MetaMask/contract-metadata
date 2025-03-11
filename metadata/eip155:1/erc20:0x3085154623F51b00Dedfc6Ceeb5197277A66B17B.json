@@ -1,0 +1,7 @@
+{
+  "name": "NIFTY",
+  "symbol": "NFTY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3085154623F51b00Dedfc6Ceeb5197277A66B17B.svg"
+}

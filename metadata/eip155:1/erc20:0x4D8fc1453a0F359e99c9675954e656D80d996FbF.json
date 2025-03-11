@@ -1,0 +1,7 @@
+{
+  "name": "BEE Token",
+  "symbol": "BEE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x4D8fc1453a0F359e99c9675954e656D80d996FbF.svg"
+}

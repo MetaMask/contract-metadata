@@ -1,0 +1,7 @@
+{
+  "name": "Loopring",
+  "symbol": "LRC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD.svg"
+}

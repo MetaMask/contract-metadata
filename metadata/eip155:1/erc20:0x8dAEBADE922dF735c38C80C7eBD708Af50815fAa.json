@@ -1,0 +1,7 @@
+{
+  "name": "tBTC",
+  "symbol": "TBTC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x8dAEBADE922dF735c38C80C7eBD708Af50815fAa.svg"
+}

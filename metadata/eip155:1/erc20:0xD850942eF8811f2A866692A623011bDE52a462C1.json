@@ -1,0 +1,7 @@
+{
+  "name": "VeChain",
+  "symbol": "VEN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD850942eF8811f2A866692A623011bDE52a462C1.svg"
+}

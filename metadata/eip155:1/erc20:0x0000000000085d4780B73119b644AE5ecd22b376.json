@@ -1,0 +1,7 @@
+{
+  "name": "TrueUSD",
+  "symbol": "TUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0000000000085d4780B73119b644AE5ecd22b376.svg"
+}

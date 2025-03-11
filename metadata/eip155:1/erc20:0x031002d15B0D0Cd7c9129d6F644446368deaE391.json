@@ -1,0 +1,7 @@
+{
+  "name": "unFederal LINK",
+  "symbol": "unLINK",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x031002d15B0D0Cd7c9129d6F644446368deaE391.svg"
+}

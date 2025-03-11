@@ -1,0 +1,7 @@
+{
+  "name": "Ferrum Network Token",
+  "symbol": "FRM",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xE5CAeF4Af8780E59Df925470b050Fb23C43CA68C.svg"
+}

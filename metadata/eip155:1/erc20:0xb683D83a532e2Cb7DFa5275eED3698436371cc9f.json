@@ -1,0 +1,7 @@
+{
+  "name": "BTU",
+  "symbol": "BTU",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xb683D83a532e2Cb7DFa5275eED3698436371cc9f.svg"
+}

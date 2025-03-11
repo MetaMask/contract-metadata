@@ -1,0 +1,7 @@
+{
+  "name": "Staked USDA",
+  "symbol": "stUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776.svg"
+}

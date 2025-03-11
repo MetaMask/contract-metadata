@@ -1,0 +1,7 @@
+{
+  "name": "AdEx Token",
+  "symbol": "ADX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xADE00C28244d5CE17D72E40330B1c318cD12B7c3.svg"
+}

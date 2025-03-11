@@ -1,0 +1,7 @@
+{
+  "name": "Synth sETH",
+  "symbol": "SETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x5e74C9036fb86BD7eCdcb084a0673EFc32eA31cb.svg"
+}

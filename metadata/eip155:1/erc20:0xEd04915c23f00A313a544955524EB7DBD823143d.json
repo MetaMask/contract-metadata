@@ -1,0 +1,7 @@
+{
+  "name": "Alchemy Pay",
+  "symbol": "ACH",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xEd04915c23f00A313a544955524EB7DBD823143d.svg"
+}

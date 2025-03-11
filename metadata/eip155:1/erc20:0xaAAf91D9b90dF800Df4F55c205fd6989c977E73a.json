@@ -1,0 +1,7 @@
+{
+  "name": "Monolith TKN",
+  "symbol": "TKN",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xaAAf91D9b90dF800Df4F55c205fd6989c977E73a.svg"
+}

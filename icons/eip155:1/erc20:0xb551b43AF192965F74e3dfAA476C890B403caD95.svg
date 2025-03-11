@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 740.21 740.21">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Dégradé_sans_nom_4);
+      }
+
+      .cls-2 {
+        fill: url(#Dégradé_sans_nom_5);
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="Dégradé_sans_nom_4" data-name="Dégradé sans nom 4" x1="601.74" y1="27.35" x2="138.08" y2="713.43" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e8d4ff"/>
+      <stop offset=".33" stop-color="#cca1f8"/>
+      <stop offset=".75" stop-color="#5742d9"/>
+      <stop offset=".95" stop-color="#1d0f63"/>
+    </linearGradient>
+    <linearGradient id="Dégradé_sans_nom_5" data-name="Dégradé sans nom 5" x1="187.32" y1="636.76" x2="563.25" y2="83.8" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e8d4ff"/>
+      <stop offset=".17" stop-color="#cca1f8"/>
+      <stop offset=".69" stop-color="#5742d9"/>
+      <stop offset=".94" stop-color="#1d0f63"/>
+    </linearGradient>
+  </defs>
+  <g id="Calque_1-2" data-name="Calque_1">
+    <g>
+      <circle class="cls-1" cx="370.11" cy="370.11" r="370.11"/>
+      <circle class="cls-2" cx="370.11" cy="367.9" r="334.29"/>
+      <path class="cls-3" d="M575.36,512.24l-182.63-68.34-17.85,111.84c-.86,5.43-8.69,5.43-9.55,0l-17.85-111.84-182.63,68.34c-5.28,1.97-9.27-4.95-4.92-8.53l150.49-123.99-87.93-71.38c-4.27-3.47-.36-10.24,4.78-8.27l105.78,40.45,32.13-192.32c.93-5.56,8.92-5.56,9.85,0l32.13,192.32,105.78-40.45c5.14-1.97,9.05,4.8,4.78,8.27l-87.93,71.37,150.49,124c4.35,3.58.36,10.5-4.92,8.53Z"/>
+    </g>
+  </g>
+</svg>

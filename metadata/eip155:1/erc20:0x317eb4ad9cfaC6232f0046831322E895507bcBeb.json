@@ -1,0 +1,7 @@
+{
+  "name": "Tidex Token",
+  "symbol": "TDX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x317eb4ad9cfaC6232f0046831322E895507bcBeb.svg"
+}

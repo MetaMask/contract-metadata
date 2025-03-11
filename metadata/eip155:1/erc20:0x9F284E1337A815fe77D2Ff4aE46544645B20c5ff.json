@@ -1,0 +1,7 @@
+{
+  "name": "Darwinia Commitment Token",
+  "symbol": "KTON",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9F284E1337A815fe77D2Ff4aE46544645B20c5ff.svg"
+}

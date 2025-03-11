@@ -1,0 +1,7 @@
+{
+  "name": "SPANK",
+  "symbol": "SPANK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x42d6622deCe394b54999Fbd73D108123806f6a18.svg"
+}

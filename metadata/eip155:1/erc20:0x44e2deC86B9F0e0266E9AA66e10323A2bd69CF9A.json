@@ -1,0 +1,7 @@
+{
+  "name": "Attrace",
+  "symbol": "ATTR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x44e2deC86B9F0e0266E9AA66e10323A2bd69CF9A.svg"
+}

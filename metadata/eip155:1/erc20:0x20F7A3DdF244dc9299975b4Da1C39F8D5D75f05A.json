@@ -1,0 +1,7 @@
+{
+  "name": "Sapien Network Token",
+  "symbol": "SPN",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x20F7A3DdF244dc9299975b4Da1C39F8D5D75f05A.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "EHTAGA",
+  "symbol": "EHTAGA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x86f2A193b116d1f9C53Ed26d97F77cDC8BcF4c2b.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dHEDGE DAO Token",
+  "symbol": "DHT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xca1207647Ff814039530D7d35df0e1Dd2e91Fa84.svg"
+}

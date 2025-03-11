@@ -1,0 +1,7 @@
+{
+  "name": "Hifi Finance",
+  "symbol": "HIFI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x4b9278b94a1112cAD404048903b8d343a810B07e.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Cronos",
+  "symbol": "CRO",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b.svg"
+}

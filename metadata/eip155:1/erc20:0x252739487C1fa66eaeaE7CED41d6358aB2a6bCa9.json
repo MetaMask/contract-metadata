@@ -1,0 +1,7 @@
+{
+  "name": "ArCoin",
+  "symbol": "RCOIN",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x252739487C1fa66eaeaE7CED41d6358aB2a6bCa9.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Gala",
+  "symbol": "GALA",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA.svg"
+}

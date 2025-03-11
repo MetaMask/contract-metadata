@@ -1,0 +1,7 @@
+{
+  "name": "Polygon Network Token",
+  "symbol": "POL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6.svg"
+}

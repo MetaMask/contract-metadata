@@ -1,0 +1,7 @@
+{
+  "name": "Mining Base Coin",
+  "symbol": "MBC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x7D28276933D6aA0Ef1513F8B5e18dC492befeFea.svg"
+}

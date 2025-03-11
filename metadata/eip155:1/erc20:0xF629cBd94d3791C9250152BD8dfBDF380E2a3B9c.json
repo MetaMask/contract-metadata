@@ -1,0 +1,7 @@
+{
+  "name": "Enjin Coin",
+  "symbol": "ENJ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c.svg"
+}

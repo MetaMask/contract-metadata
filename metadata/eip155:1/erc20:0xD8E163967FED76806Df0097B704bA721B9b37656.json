@@ -1,0 +1,7 @@
+{
+  "name": "Cope",
+  "symbol": "COPE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD8E163967FED76806Df0097B704bA721B9b37656.svg"
+}

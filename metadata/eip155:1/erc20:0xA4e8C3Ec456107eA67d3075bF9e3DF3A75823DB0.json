@@ -1,0 +1,7 @@
+{
+  "name": "Loom Token",
+  "symbol": "LOOM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0.svg"
+}

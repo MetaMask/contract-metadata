@@ -1,0 +1,7 @@
+{
+  "name": "ETF Rocks",
+  "symbol": "ETF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x4E241A9EC66832a16bceaeB9156E524487f061D7.svg"
+}

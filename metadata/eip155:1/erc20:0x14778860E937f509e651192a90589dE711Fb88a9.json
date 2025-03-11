@@ -1,0 +1,7 @@
+{
+  "name": "Cyber",
+  "symbol": "CYBER",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x14778860E937f509e651192a90589dE711Fb88a9.svg"
+}

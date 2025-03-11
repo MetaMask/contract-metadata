@@ -1,0 +1,7 @@
+{
+  "name": "UMA",
+  "symbol": "UMA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "yAxis",
+  "symbol": "YAX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xb1dC9124c395c1e97773ab855d66E879f053A289.svg"
+}

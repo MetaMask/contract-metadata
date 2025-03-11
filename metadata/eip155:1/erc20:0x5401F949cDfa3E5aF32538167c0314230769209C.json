@@ -1,0 +1,7 @@
+{
+  "name": "MAHCOIN",
+  "symbol": "MAHCOIN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x5401F949cDfa3E5aF32538167c0314230769209C.svg"
+}

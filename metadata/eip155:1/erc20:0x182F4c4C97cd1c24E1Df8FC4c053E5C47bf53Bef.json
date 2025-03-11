@@ -1,0 +1,7 @@
+{
+  "name": "keyTango Token",
+  "symbol": "TANGO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x182F4c4C97cd1c24E1Df8FC4c053E5C47bf53Bef.svg"
+}

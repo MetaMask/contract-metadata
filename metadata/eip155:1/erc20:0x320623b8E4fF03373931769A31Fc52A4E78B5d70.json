@@ -1,0 +1,7 @@
+{
+  "name": "Reserve Rights",
+  "symbol": "RSR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x320623b8E4fF03373931769A31Fc52A4E78B5d70.svg"
+}

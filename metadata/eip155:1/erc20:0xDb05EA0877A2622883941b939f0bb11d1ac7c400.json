@@ -1,0 +1,7 @@
+{
+  "name": "Opacity",
+  "symbol": "OPCT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xDb05EA0877A2622883941b939f0bb11d1ac7c400.svg"
+}

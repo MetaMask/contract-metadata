@@ -1,0 +1,7 @@
+{
+  "name": "KIBBLE Token",
+  "symbol": "KBLE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x65514b352d1d4a17DE97f95C7faB177C625Bd6ff.svg"
+}

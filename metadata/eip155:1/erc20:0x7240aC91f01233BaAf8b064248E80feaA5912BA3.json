@@ -1,0 +1,7 @@
+{
+  "name": "OctoFi",
+  "symbol": "OCTO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x7240aC91f01233BaAf8b064248E80feaA5912BA3.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "YFLink Synthetic",
+  "symbol": "sYFL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x8282df223AC402d04B2097d16f758Af4F70e7Db0.svg"
+}

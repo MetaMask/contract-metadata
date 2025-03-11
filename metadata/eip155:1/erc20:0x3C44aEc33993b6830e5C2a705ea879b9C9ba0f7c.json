@@ -1,0 +1,7 @@
+{
+  "name": "NYELA",
+  "symbol": "NYELA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3C44aEc33993b6830e5C2a705ea879b9C9ba0f7c.svg"
+}

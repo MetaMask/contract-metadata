@@ -1,0 +1,7 @@
+{
+  "name": "YFLink Staking Share",
+  "symbol": "yYFL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x75D1aA733920b14fC74c9F6e6faB7ac1EcE8482E.svg"
+}

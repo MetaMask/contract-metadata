@@ -1,0 +1,7 @@
+{
+  "name": "SWARM",
+  "symbol": "SWM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3505F494c3f0fed0B594E01Fa41Dd3967645ca39.svg"
+}

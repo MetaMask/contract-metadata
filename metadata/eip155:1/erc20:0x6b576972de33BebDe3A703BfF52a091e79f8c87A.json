@@ -1,0 +1,7 @@
+{
+  "name": "unFederal USDC",
+  "symbol": "unUSDC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x6b576972de33BebDe3A703BfF52a091e79f8c87A.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Fulcrum UNI iToken (iUNI)",
+  "symbol": "iUNI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0a625FceC657053Fe2D9FFFdeb1DBb4e412Cf8A8.svg"
+}

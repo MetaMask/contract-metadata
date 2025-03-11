@@ -1,0 +1,7 @@
+{
+  "name": "ETHLend Token",
+  "symbol": "LEND",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x80fB784B7eD66730e8b1DBd9820aFD29931aab03.svg"
+}

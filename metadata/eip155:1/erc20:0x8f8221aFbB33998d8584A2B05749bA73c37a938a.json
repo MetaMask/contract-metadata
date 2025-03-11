@@ -1,0 +1,7 @@
+{
+  "name": "Request",
+  "symbol": "REQ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x8f8221aFbB33998d8584A2B05749bA73c37a938a.svg"
+}

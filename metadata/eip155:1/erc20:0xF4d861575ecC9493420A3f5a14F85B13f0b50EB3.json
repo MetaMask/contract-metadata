@@ -1,0 +1,7 @@
+{
+  "name": "Fractal Protocol",
+  "symbol": "FCL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF4d861575ecC9493420A3f5a14F85B13f0b50EB3.svg"
+}

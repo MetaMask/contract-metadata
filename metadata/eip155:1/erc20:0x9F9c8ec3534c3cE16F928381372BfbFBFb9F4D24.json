@@ -1,0 +1,7 @@
+{
+  "name": "GraphLinq",
+  "symbol": "GLQ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24.svg"
+}

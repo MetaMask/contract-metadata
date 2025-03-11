@@ -1,0 +1,7 @@
+{
+  "name": "Liquid staked MATIC",
+  "symbol": "stMATIC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9ee91F9f426fA633d227f7a9b000E28b9dfd8599.svg"
+}

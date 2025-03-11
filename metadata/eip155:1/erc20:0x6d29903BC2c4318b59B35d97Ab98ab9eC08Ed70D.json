@@ -1,0 +1,7 @@
+{
+  "name": "Fulcrum COMP iToken (iCOMP)",
+  "symbol": "iCOMP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x6d29903BC2c4318b59B35d97Ab98ab9eC08Ed70D.svg"
+}

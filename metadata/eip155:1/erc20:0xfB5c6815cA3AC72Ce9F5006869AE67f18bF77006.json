@@ -1,0 +1,7 @@
+{
+  "name": "pSTAKE Finance",
+  "symbol": "PSTAKE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xfB5c6815cA3AC72Ce9F5006869AE67f18bF77006.svg"
+}

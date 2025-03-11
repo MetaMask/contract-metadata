@@ -1,0 +1,7 @@
+{
+  "name": "Aave ZRX",
+  "symbol": "aZRX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xDf7FF54aAcAcbFf42dfe29DD6144A69b629f8C9e.svg"
+}

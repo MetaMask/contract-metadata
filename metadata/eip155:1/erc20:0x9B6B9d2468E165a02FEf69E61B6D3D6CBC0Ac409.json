@@ -1,0 +1,7 @@
+{
+  "name": "OASISLIFE",
+  "symbol": "OFE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9B6B9d2468E165a02FEf69E61B6D3D6CBC0Ac409.svg"
+}

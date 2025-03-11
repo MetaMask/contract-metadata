@@ -1,0 +1,7 @@
+{
+  "name": "RAE Token",
+  "symbol": "RAE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xE5a3229CCb22b6484594973A03a3851dCd948756.svg"
+}

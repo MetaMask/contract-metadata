@@ -1,0 +1,7 @@
+{
+  "name": "Lido DAO Token",
+  "symbol": "LDO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32.svg"
+}
