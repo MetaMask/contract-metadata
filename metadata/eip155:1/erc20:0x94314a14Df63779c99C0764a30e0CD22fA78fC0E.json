@@ -1,0 +1,7 @@
+{
+  "name": "Epic Chain",
+  "logo": "./icons/eip155:1/erc20:0x94314a14Df63779c99C0764a30e0CD22fA78fC0E.svg",
+  "erc20": true,
+  "symbol": "EPIC",
+  "decimals": 18
+}
