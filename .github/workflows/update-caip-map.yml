@@ -19,7 +19,6 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: '16'
-          cache: 'npm'
 
       - name: Generate Uniswap standard token list
         run: node generate-multichain-uniswap-standard-list.js
