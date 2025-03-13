@@ -4,7 +4,7 @@
   "keywords": [
     "metamask"
   ],
-  "timestamp": "2025-03-13T23:55:48.620Z",
+  "timestamp": "2025-03-13T23:56:53.052Z",
   "tokens": [
     {
       "chainId": 1,
@@ -403,7 +403,7 @@
       "address": "0x0a625FceC657053Fe2D9FFFdeb1DBb4e412Cf8A8",
       "name": "Fulcrum UNI iToken (iUNI)",
       "symbol": "iUNI",
-      "decimals": 18888,
+      "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/icons/eip155:1/erc20:0x0a625FceC657053Fe2D9FFFdeb1DBb4e412Cf8A8.svg"
     },
     {
