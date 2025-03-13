@@ -2,11 +2,9 @@
   "name": "MetaMask Token List",
   "logoURI": "https://images.ctfassets.net/clixtyxoaeas/1ezuBGezqfIeifWdVtwU4c/d970d4cdf13b163efddddd5709164d2e/MetaMask-icon-Fox.svg",
   "keywords": [
-    "metamask",
-    "uniswap",
-    "tokens"
+    "metamask"
   ],
-  "timestamp": "2025-03-13T00:40:03.741Z",
+  "timestamp": "2025-03-13T01:06:39.575Z",
   "tokens": [
     {
       "chainId": 1,
@@ -5023,14 +5021,6 @@
       "symbol": "MBC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/icons/eip155:56/erc20:0x7D28276933D6aA0Ef1513F8B5e18dC492befeFea.svg"
-    },
-    {
-      "chainId": 5,
-      "address": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
-      "name": "Official Trump",
-      "symbol": "TRUMP",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN.png"
     }
   ],
   "version": {
