@@ -5,28 +5,30 @@ const contractMap = require('./buildindex.js');
 const timestamp = new Date().toISOString();
 
 function createUniswapTokenList() {
-  const tokens = Object.entries(contractMap).map(([key, data]) => {
-    // Parse the CAIP-19 ID to extract chain and address information
-    // Expected format: eip155:1/erc20:0xAddress
-    const [chainPart, addressPart] = key.split('/');
-    const chainId = parseInt(chainPart.split(':')[1], 10);
-    const address = addressPart.split(':')[1];
+  const tokens = Object.entries(contractMap)
+    .filter(([key]) => key.startsWith('eip155:'))
+    .map(([key, data]) => {
+      // Parse the CAIP-19 ID to extract chain and address information
+      // Expected format: eip155:1/erc20:0xAddress
+      const [chainPart, addressPart] = key.split('/');
+      const chainId = parseInt(chainPart.split(':')[1], 10);
+      const address = addressPart.split(':')[1];
 
-    let logoURI = '';
-    if (data.logo) {
-      const logoFileName = data.logo.split('/').pop();
-      logoURI = `https://raw.githubusercontent.com/MetaMask/contract-metadata/master/icons/${chainPart}/${addressPart}.${logoFileName.split('.').pop()}`;
-    }
+      let logoURI = '';
+      if (data.logo) {
+        const logoFileName = data.logo.split('/').pop();
+        logoURI = `https://raw.githubusercontent.com/MetaMask/contract-metadata/master/icons/${chainPart}/${addressPart}.${logoFileName.split('.').pop()}`;
+      }
 
-    return {
-      chainId,
-      address,
-      name: data.name || '',
-      symbol: data.symbol || '',
-      decimals: data.decimals || 18,
-      logoURI
-    };
-  });
+      return {
+        chainId,
+        address,
+        name: data.name || '',
+        symbol: data.symbol || '',
+        decimals: data.decimals || 18,
+        logoURI
+      };
+    });
 
   // Create the token list structure according to Uniswap standard
   const tokenList = {
