@@ -4,12 +4,12 @@
   "keywords": [
     "metamask"
   ],
-  "timestamp": "2025-03-13T23:57:08.953Z",
+  "timestamp": "2025-03-13T23:58:25.197Z",
   "tokens": [
     {
       "chainId": 1,
       "address": "0x0000000000085d4780B73119b644AE5ecd22b376",
-      "name": "TrueUSD",
+      "name": "TrueUSDDDD",
       "symbol": "TUSD",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/icons/eip155:1/erc20:0x0000000000085d4780B73119b644AE5ecd22b376.svg"
