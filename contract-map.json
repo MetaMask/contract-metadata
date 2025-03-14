@@ -4504,5 +4504,13 @@
     "erc20": true,
     "symbol": "PROS",
     "decimals": 18
-  }
+  },
+
+"0x1aC8df5C63CeED06257D550Ada9F3098a6A9caec": {
+    "name": "TetherUSDBridgedZED20",
+    "symbol": "USDT.z",
+    "decimals": 18,
+    "logo": "images/tetherusdbz.png"
+}
+
 }
