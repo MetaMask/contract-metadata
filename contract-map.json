@@ -4504,5 +4504,13 @@
     "erc20": true,
     "symbol": "PROS",
     "decimals": 18
+  },
+"0x31342bb77C71C89059f3C3933f6BCd8aaBAc9Fe7": {
+    "name": "Lookin",
+    "symbol": "L",
+    "decimals": 18,
+    "erc20": true,
+    "logo": "images/0x31342bb77C71C89059f3C3933f6BCd8aaBAc9Fe7.png"
   }
-}
+  }
+
