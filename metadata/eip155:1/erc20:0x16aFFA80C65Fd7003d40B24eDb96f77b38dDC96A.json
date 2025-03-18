@@ -1,5 +1,5 @@
 {
-  "name": "Mystiko Vote Token",
+  "name": "ExpandZK Vote Token",
   "symbol": "vXZK",
   "decimals": 18,
   "erc20": true,

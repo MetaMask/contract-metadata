@@ -173,7 +173,7 @@
     "erc20": true,
     "symbol": "STKGHO",
     "decimals": 18
-  },  
+  },
   "0x536381a8628dBcC8C70aC9A30A7258442eAb4c92": {
     "name": "Pantos Token ",
     "logo": "pan.svg",
@@ -4368,7 +4368,7 @@
     "decimals": 18
   },
   "0xe8fC52b1bb3a40fd8889C0f8f75879676310dDf0": {
-    "name": "Mystiko Token",
+    "name": "ExpandZK Token",
     "logo": "XZK.svg",
     "erc20": true,
     "erc721": false,
@@ -4376,7 +4376,7 @@
     "decimals": 18
   },
   "0x16aFFA80C65Fd7003d40B24eDb96f77b38dDC96A": {
-    "name": "Mystiko Vote Token",
+    "name": "ExpandZK Vote Token",
     "logo": "vXZK.svg",
     "erc20": true,
     "erc721": false,
