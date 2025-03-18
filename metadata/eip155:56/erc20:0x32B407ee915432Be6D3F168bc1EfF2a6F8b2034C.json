@@ -1,0 +1,7 @@
+{
+  "name": "HODL",
+  "symbol": "HODL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x32B407ee915432Be6D3F168bc1EfF2a6F8b2034C.svg"
+}
