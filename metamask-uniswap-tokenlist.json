@@ -4,7 +4,7 @@
   "keywords": [
     "metamask"
   ],
-  "timestamp": "2025-03-13T01:06:39.575Z",
+  "timestamp": "2025-03-18T15:59:20.456Z",
   "tokens": [
     {
       "chainId": 1,
@@ -601,7 +601,7 @@
     {
       "chainId": 1,
       "address": "0x16aFFA80C65Fd7003d40B24eDb96f77b38dDC96A",
-      "name": "Mystiko Vote Token",
+      "name": "ExpandZK Vote Token",
       "symbol": "vXZK",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/icons/eip155:1/erc20:0x16aFFA80C65Fd7003d40B24eDb96f77b38dDC96A.svg"
@@ -4793,7 +4793,7 @@
     {
       "chainId": 1,
       "address": "0xe8fC52b1bb3a40fd8889C0f8f75879676310dDf0",
-      "name": "Mystiko Token",
+      "name": "ExpandZK Token",
       "symbol": "XZK",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/icons/eip155:1/erc20:0xe8fC52b1bb3a40fd8889C0f8f75879676310dDf0.svg"
@@ -5013,6 +5013,14 @@
       "symbol": "BROCCOLI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/icons/eip155:56/erc20:0x12b4356c65340fb02cdff01293f95febb1512f3b.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0x32B407ee915432Be6D3F168bc1EfF2a6F8b2034C",
+      "name": "HODL",
+      "symbol": "HODL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/icons/eip155:56/erc20:0x32B407ee915432Be6D3F168bc1EfF2a6F8b2034C.svg"
     },
     {
       "chainId": 56,
