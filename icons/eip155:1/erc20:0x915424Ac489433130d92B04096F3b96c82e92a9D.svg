@@ -10,7 +10,7 @@
         fill: #080808;
       }
     </style>
-    <radialGradient id="radial-gradient" cx="170.46" cy="202.04" fx="-86.02" fy="271.44" r="265.7" gradientTransform="translate(260.2 -129.24) rotate(44.94) scale(1 1.47)" gradientUnits="userSpaceOnUse">
+    <radialGradient id="radial-gradient" cx="170.46" cy="202.04" fx="-86" fy="271.44" r="265.7" gradientTransform="translate(260.2 -129.24) rotate(44.94) scale(1 1.47)" gradientUnits="userSpaceOnUse">
       <stop offset=".21" stop-color="#ebad5e"/>
       <stop offset=".59" stop-color="#78c193"/>
       <stop offset=".71" stop-color="#93c58f"/>
