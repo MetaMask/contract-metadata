@@ -59,7 +59,7 @@
     "name": "Carboneum",
     "logo": "C8.svg",
     "erc20": true,
-    "symbol":"C8",
+    "symbol": "C8",
     "decimals": 18
   },
   "0x57B946008913B82E4dF85f501cbAeD910e58D26C": {
@@ -2275,14 +2275,14 @@
     "symbol": "USDS",
     "decimals": 18
   },
-"0x56072C95FAA701256059aa122697B133aDEd9279": {
+  "0x56072C95FAA701256059aa122697B133aDEd9279": {
     "name": "Sky Ecosystem",
     "logo": "sky-logo.svg",
     "erc20": true,
     "symbol": "SKY",
     "decimals": 18
   },
-"0xa3931d71877C0E7a3148CB7Eb4463524FEc27fbD": {
+  "0xa3931d71877C0E7a3148CB7Eb4463524FEc27fbD": {
     "name": "Savings USDS",
     "logo": "susds-logo.svg",
     "erc20": true,
@@ -4435,7 +4435,7 @@
     "symbol": "wPAW",
     "decimals": 18
   },
-  "0x808688c820AB080A6Ff1019F03E5EC227D9b522B":{
+  "0x808688c820AB080A6Ff1019F03E5EC227D9b522B": {
     "name": "BAG",
     "logo": "BAG.svg",
     "erc20": true,
@@ -4470,7 +4470,7 @@
     "symbol": "SHIBADOG",
     "decimals": 18
   },
-    "0x8642A849D0dcb7a15a974794668ADcfbe4794B56": {
+  "0x8642A849D0dcb7a15a974794668ADcfbe4794B56": {
     "name": "Prosper",
     "logo": "PROS.svg",
     "erc20": true,
@@ -4503,6 +4503,13 @@
     "logo": "PROS.svg",
     "erc20": true,
     "symbol": "PROS",
+    "decimals": 18
+  },
+  "0xB58E61C3098d85632Df34EecfB899A1Ed80921cB": {
+    "name": "Frankencoin",
+    "logo": "ZCHF.svg",
+    "erc20": true,
+    "symbol": "ZCHF",
     "decimals": 18
   }
 }
