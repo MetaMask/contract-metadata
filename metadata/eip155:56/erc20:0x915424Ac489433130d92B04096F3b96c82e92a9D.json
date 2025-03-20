@@ -1,0 +1,7 @@
+{
+  "name": "Prosper",
+  "symbol": "PROS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x915424Ac489433130d92B04096F3b96c82e92a9D.svg"
+}
