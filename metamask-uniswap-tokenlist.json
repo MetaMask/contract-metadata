@@ -4,7 +4,7 @@
   "keywords": [
     "metamask"
   ],
-  "timestamp": "2025-03-18T15:59:20.456Z",
+  "timestamp": "2025-03-24T19:15:36.230Z",
   "tokens": [
     {
       "chainId": 1,
@@ -5029,6 +5029,22 @@
       "symbol": "MBC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/icons/eip155:56/erc20:0x7D28276933D6aA0Ef1513F8B5e18dC492befeFea.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0x915424Ac489433130d92B04096F3b96c82e92a9D",
+      "name": "Prosper",
+      "symbol": "PROS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/icons/eip155:56/erc20:0x915424Ac489433130d92B04096F3b96c82e92a9D.svg"
+    },
+    {
+      "chainId": 8453,
+      "address": "0x915424Ac489433130d92B04096F3b96c82e92a9D",
+      "name": "Prosper",
+      "symbol": "PROS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/icons/eip155:8453/erc20:0x915424Ac489433130d92B04096F3b96c82e92a9D.svg"
     }
   ],
   "version": {

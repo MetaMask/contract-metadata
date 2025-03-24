@@ -1,0 +1,35 @@
+name: Generate Uniswap Token List and Upload to S3
+
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+jobs:
+  generate-uniswap-list:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      - name: Generate Uniswap standard token list
+        run: node generate-multichain-uniswap-standard-list.js
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v2
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: AWS_REGION
+
+      - name: Upload to S3
+        run: |
+          echo "Uploading tokenlist to S3..."
+          aws s3 cp metamask-uniswap-tokenlist.json s3://S3_BUCKET_NAME/S3_PATH
+          echo "Upload complete"
