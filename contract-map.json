@@ -4407,6 +4407,22 @@
     "symbol": "QUICK",
     "decimals": 18
   },
+  "0xE93C94F695F8E0cddBC3e01444a09a8F2003627e": {
+    "name": "BB Diamond Hands",
+    "logo": "BBDH.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "BBDH",
+    "decimals": 18
+  },
+  "0xc894ad32C1d774266E2ACFA401E41dc2ae8710cd": {
+    "name": "Staked BBDH",
+    "logo": "stBBDH.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "stBBDH",
+    "decimals": 18
+  },
   "0x2be5e8c109e2197D077D13A82dAead6a9b3433C5": {
     "name": "Tokamak Network Token",
     "logo": "TON.svg",
