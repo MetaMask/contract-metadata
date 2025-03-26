@@ -13,7 +13,7 @@ permissions:
 env:
   AWS_REGION: us-east-2
   S3_BUCKET_NAME: static.cx.metamask.io
-  S3_PATH: tokenlist/metamask-uniswap-tokenlist.json
+  S3_PATH: metamask-uniswap-tokenlist.json
 
 jobs:
   generate-uniswap-list:
