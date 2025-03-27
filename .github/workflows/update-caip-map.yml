@@ -18,6 +18,7 @@ env:
 jobs:
   generate-uniswap-list:
     runs-on: ubuntu-latest
+    environment: generate-uniswap-list
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -33,7 +34,7 @@ jobs:
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v4
         with:
-          role-to-assume: ${{ secrets.S3_ROLE_ARN }}
+          role-to-assume: ${{ vars.S3_ROLE_ARN }}
           aws-region: ${{ env.AWS_REGION }}
 
       - name: Upload to S3
