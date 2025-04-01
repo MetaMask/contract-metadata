@@ -4532,5 +4532,12 @@
     "erc20": true,
     "symbol": "nDEPS",
     "decimals": 18
+  },
+  "0x103747924E74708139a9400e4Ab4BEA79FFFA380": {
+    "name": "Decentralized Euro Protocol Share",
+    "logo": "DEPS.svg",
+    "erc20": true,
+    "symbol": "DEPS",
+    "decimals": 18
   }
 }
