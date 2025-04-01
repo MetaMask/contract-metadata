@@ -4518,5 +4518,12 @@
     "erc20": true,
     "symbol": "FPS",
     "decimals": 18
+  },
+  "0xbA3f535bbCcCcA2A154b573Ca6c5A49BAAE0a3ea": {
+    "name": "DecentralizedEURO",
+    "logo": "dEURO.svg",
+    "erc20": true,
+    "symbol": "dEURO",
+    "decimals": 18
   }
 }
