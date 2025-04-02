@@ -1,0 +1,7 @@
+{
+  "name": "Aave Linea USDC",
+  "symbol": "ALINUSDC",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:10143/erc20:0x374d7860c4f2f604de0191298dd393703cce84f3.png"
+}
