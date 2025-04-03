@@ -40,5 +40,5 @@ jobs:
       - name: Upload to S3
         run: |
           echo "Uploading tokenlist to S3..."
-          aws s3 cp metamask-uniswap-tokenlist.json s3://${{ env.S3_BUCKET_NAME }}/${{ env.S3_PATH }}
+          aws s3 cp metamask-uniswap-tokenlist.json s3://${{ env.S3_BUCKET_NAME }}/${{ env.S3_PATH }} --cache-control "max-age=3600"
           echo "Upload complete"
