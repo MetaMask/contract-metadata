@@ -4518,5 +4518,26 @@
     "erc20": true,
     "symbol": "FPS",
     "decimals": 18
+  },
+  "0xbA3f535bbCcCcA2A154b573Ca6c5A49BAAE0a3ea": {
+    "name": "DecentralizedEURO",
+    "logo": "dEURO.svg",
+    "erc20": true,
+    "symbol": "dEURO",
+    "decimals": 18
+  },
+  "0xc71104001A3CCDA1BEf1177d765831Bd1bfE8eE6": {
+    "name": "Native Decentralized Euro Protocol Share",
+    "logo": "nDEPS.svg",
+    "erc20": true,
+    "symbol": "nDEPS",
+    "decimals": 18
+  },
+  "0x103747924E74708139a9400e4Ab4BEA79FFFA380": {
+    "name": "Decentralized Euro Protocol Share",
+    "logo": "DEPS.svg",
+    "erc20": true,
+    "symbol": "DEPS",
+    "decimals": 18
   }
 }
