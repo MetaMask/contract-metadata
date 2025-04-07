@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped GHO Token",
+  "symbol": "WGHO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:232/erc20:0x6bDc36E20D267Ff0dd6097799f82e78907105e2F.svg"
+}
