@@ -1,0 +1,7 @@
+{
+  "name": "Nest RWA Vault",
+  "symbol": "nRWA",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:98866/erc20:0x11a8d8694b656112d9a94285223772F4aAd269fc.png"
+}
