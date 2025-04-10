@@ -353,6 +353,12 @@
     "symbol": "SUSHI",
     "decimals": 18
   },
+  "0x88611f7da1b01764d6157e2d3af34c4ed42cfa15": {
+  "name": "Axionova",
+  "symbol": "AXNV",
+  "decimals": 18,
+  "logo": "images/0x88611f7da1b01764d6157e2d3af34c4ed42cfa15.png"
+  },
   "0x881Ba05de1E78f549cC63a8f6Cabb1d4AD32250D": {
     "name": "00",
     "logo": "00.svg",
