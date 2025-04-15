@@ -1,0 +1,7 @@
+{
+  "name": "Pepei",
+  "symbol": "PEPEI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x9C367a272f8E318D10118C6367fD69DEf30e430E.png"
+}
