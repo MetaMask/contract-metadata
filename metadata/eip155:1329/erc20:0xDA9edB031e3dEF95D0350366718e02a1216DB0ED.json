@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped USDT (Wormhole from BSC)",
+  "symbol": "USDT.bsc",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0xDA9edB031e3dEF95D0350366718e02a1216DB0ED.svg"
+}
