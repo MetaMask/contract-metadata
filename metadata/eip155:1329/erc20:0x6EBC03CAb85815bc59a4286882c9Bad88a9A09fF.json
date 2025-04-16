@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped USD Coin (Wormhole from Optimism)",
+  "symbol": "USDC.op",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x6EBC03CAb85815bc59a4286882c9Bad88a9A09fF.svg"
+}
