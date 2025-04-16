@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped Tether USD (Wormhole from Ethereum)",
+  "symbol": "USDT.eth",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x3b5F977957CF3f62a9d357F302311e8B4ab8608a.svg"
+}
