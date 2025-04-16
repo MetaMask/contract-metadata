@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped Ether (Wormhole from BSC)",
+  "symbol": "WETHbs",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x9D128bE5d9C96A4A574A9bd277D7c18e331194bd.png"
+}
