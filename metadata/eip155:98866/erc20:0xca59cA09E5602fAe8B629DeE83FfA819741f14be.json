@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped Ether (Stargate)",
+  "symbol": "WETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:98866/erc20:0xca59cA09E5602fAe8B629DeE83FfA819741f14be.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Nest Institutional Core",
+  "symbol": "nELIXIR",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:98866/erc20:0x9fbC367B9Bb966a2A537989817A088AFCaFFDC4c.svg"
+}
