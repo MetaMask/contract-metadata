@@ -1,0 +1,7 @@
+{
+  "name": "Bridged USDT (Stargate)",
+  "symbol": "USDT",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:98866/erc20:0xda6087E69C51E7D31b6DBAD276a3c44703DFdCAd.svg"
+}
