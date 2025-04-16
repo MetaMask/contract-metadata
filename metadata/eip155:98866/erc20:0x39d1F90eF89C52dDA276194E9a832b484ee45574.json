@@ -1,0 +1,7 @@
+{
+  "name": "Plume ETH",
+  "symbol": "pETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:98866/erc20:0x39d1F90eF89C52dDA276194E9a832b484ee45574.svg"
+}
