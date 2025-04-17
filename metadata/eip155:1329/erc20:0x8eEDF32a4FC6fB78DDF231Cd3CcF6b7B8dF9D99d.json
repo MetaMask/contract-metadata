@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped USD Coin (Wormhole from Solana)",
+  "symbol": "USDC.sol",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x8eEDF32a4FC6fB78DDF231Cd3CcF6b7B8dF9D99d.svg"
+}

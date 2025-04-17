@@ -1,0 +1,7 @@
+{
+  "name": "SEIYAN",
+  "symbol": "SEIYAN",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x5f0E07dFeE5832Faa00c63F2D33A0D79150E8598.png"
+}

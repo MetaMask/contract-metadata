@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped USD Coin (Wormhole from Ethereum)",
+  "symbol": "USDC.eth",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0xa272ee55434655970f7226c95eF0068a22994B84.svg"
+}

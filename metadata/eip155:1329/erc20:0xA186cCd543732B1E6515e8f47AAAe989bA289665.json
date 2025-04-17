@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped USD Coin (Wormhole from Polygon)",
+  "symbol": "USDC.matic",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0xA186cCd543732B1E6515e8f47AAAe989bA289665.svg"
+}

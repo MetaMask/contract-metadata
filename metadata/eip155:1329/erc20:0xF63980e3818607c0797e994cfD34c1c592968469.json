@@ -1,0 +1,7 @@
+{
+  "name": "Burger",
+  "symbol": "SUPERSEIZ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0xF63980e3818607c0797e994cfD34c1c592968469.png"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped USD Coin (Wormhole from BSC)",
+  "symbol": "USDC.bsc",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x2a5DC09df34c1276162b95415a38E5519E345c7F.svg"
+}

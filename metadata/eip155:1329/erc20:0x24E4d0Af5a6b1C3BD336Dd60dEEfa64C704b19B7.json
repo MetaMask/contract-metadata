@@ -1,0 +1,7 @@
+{
+  "name": "PKS",
+  "symbol": "PKS",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x24E4d0Af5a6b1C3BD336Dd60dEEfa64C704b19B7.svg"
+}

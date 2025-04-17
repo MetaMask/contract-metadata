@@ -1,0 +1,7 @@
+{
+  "name": "Frax USD",
+  "symbol": "frxUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x80Eede496655FB9047dd39d9f418d5483ED600df.png"
+}
