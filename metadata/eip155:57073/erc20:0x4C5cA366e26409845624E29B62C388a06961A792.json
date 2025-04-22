@@ -1,0 +1,9 @@
+{
+  "eip155:57073/erc20:0x4C5cA366e26409845624E29B62C388a06961A792": {
+    "name": "Hamilton Lane SCOPE Securitize Tokenized Feeder Fund LP",
+    "decimals": 6,
+    "symbol": "HLSCOPE",
+    "erc20": true,
+    "logo": "./icons/eip155:57073/erc20:0x4C5cA366e26409845624E29B62C388a06961A792.png"
+  }
+}
