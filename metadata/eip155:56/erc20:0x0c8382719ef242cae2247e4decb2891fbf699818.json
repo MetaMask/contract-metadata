@@ -1,0 +1,7 @@
+{
+  "name": "BDCA Token",
+  "symbol": "BDCA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x0c8382719ef242CaE2247E4DeCb2891fBF699818.svg"
+}
