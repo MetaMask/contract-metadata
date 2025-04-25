@@ -1,0 +1,7 @@
+{
+  "name": "Nest Basis",
+  "symbol": "nBASIS",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:98866/erc20:0x11113Ff3a60C2450F4b22515cB760417259eE94B.svg"
+}
