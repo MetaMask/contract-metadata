@@ -1,9 +1,7 @@
 {
-  "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:GyWgeqpy5GueU2YbkE8xqUeVEokCMMCEeUrfbtMw6phr": {
-    "name": "BlackRock USD Institutional Digital Liquidity Fund",
-    "decimals": 6,
-    "symbol": "BUIDL",
-    "erc20": true,
-    "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:GyWgeqpy5GueU2YbkE8xqUeVEokCMMCEeUrfbtMw6phr.png"
-  }
+  "name": "BlackRock USD Institutional Digital Liquidity Fund",
+  "symbol": "BUIDL",
+  "decimals": 6,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:GyWgeqpy5GueU2YbkE8xqUeVEokCMMCEeUrfbtMw6phr.png"
 }
