@@ -1,0 +1,7 @@
+{
+  "name": "Matchain x PSG Points",
+  "symbol": "POINTS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:698/erc20:0xA88B1C28fE2994fEe38758b963E1507c817CbC71.svg"
+}
