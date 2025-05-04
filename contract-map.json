@@ -4520,3 +4520,14 @@
     "decimals": 18
   }
 }
+{
+  "0xd3CDc4e75750DC1e59F8342200742B6B29490e70": {
+    "name": "Decurian",
+	  "symbol": "ECU",
+    "erc20": true,
+    "logo": "ECU.png",
+	  "totalsupply": 50000000,
+	  "website": "www.ecucoins.com",
+	  "decimals": 3
+  }
+}
