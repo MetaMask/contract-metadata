@@ -1,0 +1,7 @@
+{
+  "name": "Business Alliance Coin",
+  "symbol": "BAC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:698/erc20:0xb49ed45d594aB849C46e01eba11C794d955A2EaD.svg"
+}

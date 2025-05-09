@@ -1,0 +1,7 @@
+{
+  "name": "TOK TOKEN",
+  "symbol": "TOX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:698/erc20:0x1F294E3B71189dAD7dce235d6FAFBC845C7CD177.svg"
+}
