@@ -3,5 +3,5 @@
   "symbol": "USDC.e",
   "decimals": 6,
   "erc20": true,
-  "logo": "./icons/eip155:747/erc20:0x7f27352d5f83db87a5a3e00f4b07cc2138d8ee52.png"
+  "logo": "./icons/eip155:747/erc20:0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52.png"
 }

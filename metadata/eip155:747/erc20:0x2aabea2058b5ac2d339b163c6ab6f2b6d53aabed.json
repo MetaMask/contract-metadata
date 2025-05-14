@@ -1,7 +1,0 @@
-{
-  "name": "USD Flow",
-  "symbol": "USDF",
-  "decimals": 6,
-  "erc20": true,
-  "logo": "./icons/eip155:747/erc20:0x2aabea2058b5ac2d339b163c6ab6f2b6d53aabed.png"
-}

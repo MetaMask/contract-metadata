@@ -3,5 +3,5 @@
   "symbol": "stgUSDT",
   "decimals": 6,
   "erc20": true,
-  "logo": "./icons/eip155:747/erc20:0x674843c06ff83502ddb4d37c2e09c01cda38cbc8.png"
+  "logo": "./icons/eip155:747/erc20:0x674843C06FF83502ddb4D37c2E09C01cdA38cbc8.png"
 }
