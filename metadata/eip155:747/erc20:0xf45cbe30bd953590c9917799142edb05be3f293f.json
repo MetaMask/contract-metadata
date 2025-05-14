@@ -1,0 +1,7 @@
+{
+  "name": "Gwendolion",
+  "symbol": "Gwendolion",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:747/erc20:0xf45cbe30bd953590c9917799142edb05be3f293f.png"
+}

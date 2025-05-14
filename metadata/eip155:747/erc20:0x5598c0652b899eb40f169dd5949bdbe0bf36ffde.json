@@ -1,0 +1,7 @@
+{
+  "name": "Liquid Staked Flow",
+  "symbol": "stFLOW",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:747/erc20:0x5598c0652b899eb40f169dd5949bdbe0bf36ffde.png"
+}

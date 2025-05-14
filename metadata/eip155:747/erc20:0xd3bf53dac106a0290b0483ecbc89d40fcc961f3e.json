@@ -1,0 +1,7 @@
+{
+  "name": "Flow",
+  "symbol": "WFLOW",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:747/erc20:0xd3bf53dac106a0290b0483ecbc89d40fcc961f3e.png"
+}

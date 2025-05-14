@@ -1,0 +1,7 @@
+{
+  "name": "Purrzival",
+  "symbol": "Purrzival",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:747/erc20:0xe8b7423b80f9af33480d365171c7ceda3586aa35.png"
+}
