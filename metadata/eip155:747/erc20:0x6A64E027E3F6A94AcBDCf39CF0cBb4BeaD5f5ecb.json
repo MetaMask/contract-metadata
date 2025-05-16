@@ -1,0 +1,7 @@
+{
+  "name": "HotCocoa",
+  "symbol": "HotCocoa",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:747/erc20:0x6A64E027E3F6A94AcBDCf39CF0cBb4BeaD5f5ecb.png"
+}

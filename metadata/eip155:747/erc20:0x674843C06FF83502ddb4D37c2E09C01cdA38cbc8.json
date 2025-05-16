@@ -1,0 +1,7 @@
+{
+  "name": "Bridged stgUSDT",
+  "symbol": "stgUSDT",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:747/erc20:0x674843C06FF83502ddb4D37c2E09C01cdA38cbc8.png"
+}
