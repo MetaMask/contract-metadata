@@ -1,11 +1,9 @@
 {
-  "eip155:56/erc20:0x0BD7241fB1F38765917C42E75eB59946fE212634": {
+  "0x0BD7241fB1F38765917C42E75eB59946fE212634": {
     "name": "PHPToken",
     "symbol": "PHPT",
     "decimals": 18,
     "erc20": true,
-    "logo": "./icons/eip155:56/erc20:0x0BD7241fB1F38765917C42E75eB59946fE212634.png",
-    "website": "https://phpt.com/",
-    "explorer": "https://bscscan.com/token/0x0BD7241fB1F38765917C42E75eB59946fE212634"
+    "logo": "./icons/eip155:56/erc20:0x0BD7241fB1F38765917C42E75eB59946fE212634.png"
   }
 }
