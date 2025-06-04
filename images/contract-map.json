@@ -1,0 +1,7 @@
+  "0xD3Af8E09894D69E937e37eeF46Df1cBF82b35C81": {
+    "name": "Nano Dogecoin",
+    "logo": "nanodogecoin.svg",
+    "erc20": true,
+    "symbol": "INDC",
+    "decimals": 9
+  },
