@@ -1,0 +1,7 @@
+{
+  "name": "SAKEINU",
+  "symbol": "SAKE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0xe85dC0CCECa105755753Fef452C091dEF5324138.png"
+}

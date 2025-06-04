@@ -1,0 +1,7 @@
+{
+  "name": "COOK",
+  "symbol": "COOK",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x69e48cE9CF965aCc1DE2aD5ad2FdbC3Bdb51509b.png"
+}

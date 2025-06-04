@@ -1,0 +1,7 @@
+{
+  "name": "WSTETH",
+  "symbol": "WSTETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0xBE574b6219C6D985d08712e90C21A88fd55f1ae8.png"
+}

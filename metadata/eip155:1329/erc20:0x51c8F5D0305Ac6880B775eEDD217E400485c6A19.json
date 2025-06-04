@@ -1,0 +1,7 @@
+{
+  "name": "NAPCAT",
+  "symbol": "NAPCAT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x51c8F5D0305Ac6880B775eEDD217E400485c6A19.png"
+}

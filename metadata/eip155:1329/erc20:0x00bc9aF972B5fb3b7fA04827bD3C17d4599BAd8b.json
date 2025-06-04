@@ -1,0 +1,7 @@
+{
+  "name": "WAIT",
+  "symbol": "WAIT",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x00bc9aF972B5fb3b7fA04827bD3C17d4599BAd8b.png"
+}

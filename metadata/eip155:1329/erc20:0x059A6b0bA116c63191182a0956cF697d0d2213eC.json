@@ -1,0 +1,7 @@
+{
+  "name": "Synnax Stablecoin",
+  "symbol": "syUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x059A6b0bA116c63191182a0956cF697d0d2213eC.png"
+}

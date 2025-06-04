@@ -1,0 +1,7 @@
+{
+  "name": "sUSDa",
+  "symbol": "sUSDa",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x6aB5d5E96aC59f66baB57450275cc16961219796.png"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Sei Less",
+  "symbol": "LESS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x8c5529ad032c48bc6413Df8e8dC83D26Dc680079.png"
+}

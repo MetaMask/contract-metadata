@@ -1,0 +1,7 @@
+{
+  "name": "ssETH",
+  "symbol": "ssETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0xA8A3A5013104e093245164eA56588DBE10a3Eb48.png"
+}
