@@ -1,0 +1,7 @@
+{
+  "name": "UnlockProtocolToken",
+  "symbol": "UP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xaC27fa800955849d6D17cC8952Ba9dD6EAA66187.png"
+}
