@@ -1,0 +1,8 @@
+{
+  "name": "Hard Frog Nick",
+  "symbol": "NICK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xAD17cd0a550ef4ECBB73789626deC1326520b96d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8f7ed4f750de280ecd5db9cec12d71e20257bbd989669d85567b8f22868de00f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

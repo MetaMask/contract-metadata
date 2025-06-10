@@ -1,0 +1,8 @@
+{
+  "name": "Tweebaa",
+  "symbol": "TWEE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x2B6FF53fc2493CCD5202d80a6c439741414c5Ff2./ipfs/qmw1guoxg942zjyl51wf1koxfiud1ewmffjtl1swhhqsjx/bcdwprwym1pf7vdsf9ypfp4oaszegjipe6c9p2ql67kwpyrwvj8tkuwcekezbkat4cla4jk767ffn6x6udoezy633e",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc8adcde69539235563f1cd8e9320bccb4d3d17c0f3a261ad8e1ac7f6a7b075f5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

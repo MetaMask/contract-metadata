@@ -1,0 +1,8 @@
+{
+  "name": "Zeus Network",
+  "symbol": "ZEUS",
+  "decimals": 6,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:ZEUS1aR7aX8DFFJf5QjWj2ftDDdNTroMNGo8YoQm3Gq.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3d6d1496daed14e485ff9c15ede678e4a1aae90bed1213b25ae9db96904f9850@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

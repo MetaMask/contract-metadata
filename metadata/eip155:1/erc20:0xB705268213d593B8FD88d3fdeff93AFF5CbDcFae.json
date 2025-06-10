@@ -1,0 +1,8 @@
+{
+  "name": "IDEX",
+  "symbol": "IDEX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB705268213d593B8FD88d3fdeff93AFF5CbDcFae./ipfs/qmtibsgsg887fswwpuwq48hoerjfggcstxzxmbdb6fmdzb/idex",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x67491de905db28364fc94ec44a5dc67a093f5c2370f99c4743b12dff1b5d9cd1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

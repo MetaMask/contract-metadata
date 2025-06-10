@@ -1,0 +1,8 @@
+{
+  "name": "BaseBros",
+  "symbol": "BROS",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x9721b1ce4ffd8AF047bbdFd87e4e20DDC544513a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6db2971ccd3be691ecabe55a4bde5c9547e2c89c75b135b437b5416a855c2a7a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

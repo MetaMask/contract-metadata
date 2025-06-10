@@ -1,0 +1,8 @@
+{
+  "name": "Altitude",
+  "symbol": "ALTD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x8929E9dbd2785E3BA16175e596cdD61520FEE0d1.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd886d5ef6c400288014e30a0f51c80e82c3620ad2adc6c1852194789e6d207de@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

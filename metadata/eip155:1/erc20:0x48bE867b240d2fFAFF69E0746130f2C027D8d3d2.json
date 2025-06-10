@@ -1,0 +1,8 @@
+{
+  "name": "Elevate",
+  "symbol": "ELE",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x48bE867b240d2fFAFF69E0746130f2C027D8d3d2./ipfs/qmqgpjkqpuxmponnj9a6zy7f4ttcp1pxwddes85sjbixoy/ele",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x236ed4ffe16458ab68dced2f455b4277112eac39120ef47d4fe0831023869cd1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Binance Wrapped FIL",
+  "symbol": "BFIL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x8E16bF47065fe843A82F4399bAf5ABAC4E0822b7./ipfs/qmshbrz8ak6wccay9t7bwgf5kp53wvdeg5z6la216wvjbm/bfil",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1a753cf9272c41f58e23ceb7263435536be7a76454fa8a1dd3ad8359a4997110@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

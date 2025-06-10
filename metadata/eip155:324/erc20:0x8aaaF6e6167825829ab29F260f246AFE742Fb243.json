@@ -1,0 +1,8 @@
+{
+  "name": "zkCULT",
+  "symbol": "zCULT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x8aaaF6e6167825829ab29F260f246AFE742Fb243.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf1a538aff76bd226569350f8853b33b50bcbebc1f6cd2e1c16314b61b13cbc9f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

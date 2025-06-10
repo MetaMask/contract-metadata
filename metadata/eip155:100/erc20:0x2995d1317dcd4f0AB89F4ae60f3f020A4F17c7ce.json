@@ -1,0 +1,8 @@
+{
+  "name": "Sushi",
+  "symbol": "SUSHI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:100/erc20:0x2995d1317dcd4f0AB89F4ae60f3f020A4F17c7ce.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9dd3f8650ca4ee1b99cc98c2d65cd2238343938b322a8208f0a87fe2b20bfdcc@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

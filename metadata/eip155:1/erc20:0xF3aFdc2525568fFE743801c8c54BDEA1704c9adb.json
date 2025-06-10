@@ -1,0 +1,8 @@
+{
+  "name": "Turtle",
+  "symbol": "TURTLE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF3aFdc2525568fFE743801c8c54BDEA1704c9adb./ipfs/qmnpc8qlpexmerrt1noqphwb9tzfp3uy269u84olhvdxpu/turtle",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x830e1a257a020a3253ed54556912c65b8b367ea4c91701345d590bfaaf3d4f9c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

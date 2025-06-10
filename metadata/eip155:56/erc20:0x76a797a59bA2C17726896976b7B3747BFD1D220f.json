@@ -1,0 +1,8 @@
+{
+  "name": "Wrapped TON Coin",
+  "symbol": "TONCOIN",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x76a797a59bA2C17726896976b7B3747BFD1D220f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x64a348e6cff6c0eccd929ace7f107bbbbd3e1211b4b297a9eec652dbfae97aaf@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "0x Leverage",
+  "symbol": "0XL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x8536668d683f4EC7E39573d7af04DBDE77b11814.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7fb0d8fd44988e16e281f73ea325790b21653a13c5581a94ebd11d06bf4d12d5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

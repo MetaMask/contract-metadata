@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Inverse Centralised Exchange Index",
+  "symbol": "iCEX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x336213e1ddfC69F4701Fc3f86f4ef4A160C1159d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf411c6cfa0d7ec43d7d1bce07d2f74c2f2ceeec8b1bb85b3229d625d7ad3b747@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

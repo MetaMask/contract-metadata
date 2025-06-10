@@ -1,0 +1,8 @@
+{
+  "name": "Bully Inu",
+  "symbol": "BINU",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x55D1d16fb42fCE47B899010c996A3A31F6Db8Fd6./ipfs/qmvnignkkjarfewconvspck1jxqw9ujfb7bub3umarwx4l/binu",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf49fe0ca86ffa96385441d3f60b9adf117a320e58b704fd32e160d60011a98f0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

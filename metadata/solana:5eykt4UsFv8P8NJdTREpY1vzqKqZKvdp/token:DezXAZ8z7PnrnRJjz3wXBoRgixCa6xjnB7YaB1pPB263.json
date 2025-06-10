@@ -1,0 +1,8 @@
+{
+  "name": "Bonk",
+  "symbol": "Bonk",
+  "decimals": 5,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x45f3b615f44fe5f9123a5fc9d86376c3a75cd13493279349bbdc26340f48bd33@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

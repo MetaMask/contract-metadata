@@ -1,0 +1,8 @@
+{
+  "name": "Eidoo",
+  "symbol": "EDO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xCED4E93198734DDAFF8492d525Bd258D49Eb388e./ipfs/qmab5sjwyxk6fjvmxjcxwjdqucu2oo5ilq6fpawf4czues/bccz9ukh4qqkudwbkxv2xgufzyr7bpbfddbbdx2usdxbmupyx8hsyxqqukkgrxfxcdwo6muuxuhx1fjy2yw7maewhf",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x507695f6a36da11cbf198e4c9c1e8b3df4042c5f36d3493d3efc73f56942b217@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

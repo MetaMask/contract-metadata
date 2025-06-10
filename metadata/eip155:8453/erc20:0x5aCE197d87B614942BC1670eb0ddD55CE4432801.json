@@ -1,0 +1,8 @@
+{
+  "name": "QUACK",
+  "symbol": "QUACK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x5aCE197d87B614942BC1670eb0ddD55CE4432801.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x44843525cfdef4669e1fd6634fd933d15c3c0de5ed0b92b78492ab621f5c156b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

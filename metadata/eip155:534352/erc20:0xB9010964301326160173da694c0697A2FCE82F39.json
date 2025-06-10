@@ -1,0 +1,8 @@
+{
+  "name": "Dackie OFT",
+  "symbol": "DACKIE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:534352/erc20:0xB9010964301326160173da694c0697A2FCE82F39.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3c1e8934838a3067d41cdf13648e90388fd00a20352fe088426a74aadc67782e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

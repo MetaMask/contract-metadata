@@ -1,0 +1,8 @@
+{
+  "name": "Apollo Name Service",
+  "symbol": "ANS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xA8C2E771288585229EEa8dbe072eDfA7BCb388bb.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5c907ac90ac835bd48c7a16ce0373240de2c1fe4ff0834c75e602980e26e76b3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

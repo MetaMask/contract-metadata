@@ -1,0 +1,8 @@
+{
+  "name": "BONE SHIBASWAP",
+  "symbol": "BONE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9813037ee2218799597D83d4a5B6f3B6778218d9./ipfs/qmv6gadz9dnluizb3duupcotajr6dkjtt6gpumhueegesh/bone",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xab190023f4658753e68914c16cea5bc058ee0be51c34e45272c1c83b68fbd7f7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

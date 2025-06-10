@@ -1,0 +1,8 @@
+{
+  "name": "Drift Staked SOL",
+  "symbol": "dSOL",
+  "decimals": 9,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:Dso1bDeDjCQxTrWHqUUi63oBvV7Mdm6WaobLbQ7gnPQ.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2c195bb6d1a9be803a375d12b34b80e9c04e0503151f2e741889c18ebaf610d1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

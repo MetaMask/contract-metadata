@@ -1,0 +1,8 @@
+{
+  "name": "PieDAO Yearn Ecosystem Pie",
+  "symbol": "YPIE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x17525e4f4Af59fBC29551bc4ece6AB60ED49ce31./ipfs/qmduue58siujud6n55kauc13q2mv1tz4tsgkyyh4orhgeh/ypie",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x73958e041ace1ce66305d9fc20c62a023583931f57babbb6aee40dc0872d1269@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

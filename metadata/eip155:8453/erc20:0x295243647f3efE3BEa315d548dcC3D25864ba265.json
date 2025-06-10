@@ -1,0 +1,8 @@
+{
+  "name": "Tochi Base ",
+  "symbol": "TOCHI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x295243647f3efE3BEa315d548dcC3D25864ba265.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0b63c272e51bbf712c0dd42cfe7cb27a01ef8e640e7aae1330ce7bcb4a3aef19@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Polkamarkets",
+  "symbol": "POLK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD478161c952357F05F0292b56012CD8457F1cFbf./ipfs/qmydkpe5cupiutpgcm883srq1qdxjisr4jssmhcxyqrg1m/polk",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbb1201942d6125177e744a62a3674b69fbf6715e02f7bd5d7518a05b2b314a0d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

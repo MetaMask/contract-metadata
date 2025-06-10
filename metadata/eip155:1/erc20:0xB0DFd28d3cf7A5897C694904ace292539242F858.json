@@ -1,0 +1,8 @@
+{
+  "name": "Lotto",
+  "symbol": "LOTTO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB0DFd28d3cf7A5897C694904ace292539242F858./ipfs/qmy9jwfnxbzxrgktoagnbdksewun7unsk8gjpgtchkk2js/lotto",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1295221e62f9156e91e90fa2c65765593435279922973c51758e1a62191360ea@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

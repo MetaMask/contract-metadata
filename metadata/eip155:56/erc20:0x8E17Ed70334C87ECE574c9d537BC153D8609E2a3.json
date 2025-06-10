@@ -1,0 +1,8 @@
+{
+  "name": "WazirX",
+  "symbol": "WRX",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x8E17Ed70334C87ECE574c9d537BC153D8609E2a3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf1a7f61b2e50ab84f7d794564c714d6a1c7ff75e7f7334b8d5852faa2220f2e4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

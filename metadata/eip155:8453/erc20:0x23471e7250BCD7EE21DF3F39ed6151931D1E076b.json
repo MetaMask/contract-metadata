@@ -1,0 +1,8 @@
+{
+  "name": "AI Waifu",
+  "symbol": "WAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x23471e7250BCD7EE21DF3F39ed6151931D1E076b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6eee0b48e1f3f0f852ac5256bd7c7685e3909d6c1b36d2bb79bf99d0f23fc1ca@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

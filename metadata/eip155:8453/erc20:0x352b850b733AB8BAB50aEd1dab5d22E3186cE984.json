@@ -1,0 +1,8 @@
+{
+  "name": "1000x by Virtuals",
+  "symbol": "1000X",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x352b850b733AB8BAB50aEd1dab5d22E3186cE984.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe8da8593fd69a008d38b167af6da71307c90e3fd68eba9990fd180812b86d92f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Mdex",
+  "symbol": "MDX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x9C65ab58d8d978DB963E63f2bfB7121627E3a739.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x65aa9488f55ef73ec354a8f5b43be606fc7ab30bbd7fe380a0d5293b2d9b4291@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

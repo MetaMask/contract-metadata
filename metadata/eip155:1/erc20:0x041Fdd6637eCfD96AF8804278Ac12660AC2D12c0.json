@@ -1,0 +1,8 @@
+{
+  "name": "SwapDEX",
+  "symbol": "SDX",
+  "decimals": 7,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x041Fdd6637eCfD96AF8804278Ac12660AC2D12c0./ipfs/qme4b81eg1mczmica2i1zwgt8ge3zppvlyzgvmf8lt6hz9/sdx",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe58d73078a54ef096f8464c69e3c6c3b455ef15dc9b6c26070851e4496ac4698@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

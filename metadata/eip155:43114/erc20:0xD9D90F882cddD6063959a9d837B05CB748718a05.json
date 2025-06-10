@@ -1,0 +1,8 @@
+{
+  "name": "More",
+  "symbol": "MORE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xD9D90F882cddD6063959a9d837B05CB748718a05.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xddad1eaae465b801ddb39db2492a0dfd1beb31728f3a1187d4d989e2eca4094c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

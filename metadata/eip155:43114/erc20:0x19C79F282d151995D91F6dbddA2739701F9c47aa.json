@@ -1,0 +1,8 @@
+{
+  "name": "Bear",
+  "symbol": "BEAR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x19C79F282d151995D91F6dbddA2739701F9c47aa.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x467e6438435fc378881d28c76630ae836cad629ac99c7db4c6134229f5a6c690@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

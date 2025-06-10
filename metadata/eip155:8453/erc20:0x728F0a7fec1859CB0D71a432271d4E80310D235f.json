@@ -1,0 +1,8 @@
+{
+  "name": "PogCoin",
+  "symbol": "POGS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x728F0a7fec1859CB0D71a432271d4E80310D235f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe35d5aca9e5ebe38da24b1de6ec04abd5fae54bec19874b96aae8a6907cff24d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Ubex",
+  "symbol": "UBEX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x6704b673c70de9BF74C8Fba4b4Bd748F0E2190e1./ipfs/qmrvvcyx6d7zileadojfwjh4pkcxzgdm2kpbu9e7rbtmu9/bcdwppakgsxzzwkwj3dvzjzyq1zumtxfx1sglfewzpntitr9l6ylq96xezbepughwjaxtmgncmnswt1spjkyguvnys",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x21531a01e616594b630341d2e6361c75ec74ad2e7915967c895932ab4216a4ce@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

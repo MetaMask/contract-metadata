@@ -1,0 +1,8 @@
+{
+  "name": "Xfinance",
+  "symbol": "XFI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x5BEFbb272290DD5B8521d4a938f6C4757742c430./ipfs/qmza61rs2bw1uzpruglzfzzlfxlavbgqbhyzqk377jvw1r/bcd6a6mqsm867ikv4zxfrcogwk7nzbvr1dinrnjghqxfsxfytpdte6fm45nak7mxsx4x9id5sekstbdovlhhwwhldo",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x063200e2a808dbb9ee090536dbd8ba5c8c93d92d84ddf345224ec5c568cde01a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

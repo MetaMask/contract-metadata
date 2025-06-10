@@ -1,0 +1,8 @@
+{
+  "name": "The Sandbox",
+  "symbol": "SAND",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0xBBba073c31Bf03B8ACF7c28ef0738DECF3695683.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8d477286a95ec0d54ee93352ce0a861fa9f8ef8b4fc92ff418e202fdc0ab339d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

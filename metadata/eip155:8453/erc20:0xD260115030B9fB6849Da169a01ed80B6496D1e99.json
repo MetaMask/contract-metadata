@@ -1,0 +1,8 @@
+{
+  "name": "BasedRate.io RATE",
+  "symbol": "BRATE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xD260115030B9fB6849Da169a01ed80B6496D1e99.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdf8244a0b790708ca7c9c3ace75510f6bd5953ba080c386f82a446d803fb38b5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

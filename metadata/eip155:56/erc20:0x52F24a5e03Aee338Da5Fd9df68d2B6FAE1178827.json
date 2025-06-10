@@ -1,0 +1,8 @@
+{
+  "name": "Ankr Staked BNB",
+  "symbol": "ankrBNB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x52F24a5e03Aee338Da5Fd9df68d2B6FAE1178827.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf3d2f03b257cd0b70833b17adeed2d5630e2369e1d4351b9433a154661147f39@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

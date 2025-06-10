@@ -1,0 +1,8 @@
+{
+  "name": "Pragma",
+  "symbol": "PRAGMA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:250/erc20:0x449F45deb9c57350130732733bd96AAD7203342a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x56bdcb9f77b996451ff47a2d9fe11f4aa5ec6eaa09825c1224c7947a04817cf4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

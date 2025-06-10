@@ -1,0 +1,8 @@
+{
+  "name": "Frencoin",
+  "symbol": "FREN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xA7E4509dcb46A67E73C18Fe0d11dD9A337E52ac0.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x68ffb961f79c2405039ffac3c2f9050233c049b8d30daf83912ca429407514cb@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

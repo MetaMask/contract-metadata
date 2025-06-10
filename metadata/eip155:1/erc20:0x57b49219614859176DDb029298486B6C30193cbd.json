@@ -1,0 +1,8 @@
+{
+  "name": "Oracle AI",
+  "symbol": "ORACLE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x57b49219614859176DDb029298486B6C30193cbd.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3a8dd77d9a59908aff3d5bc53fe08af4b97fd189c756271a73a4e8e8b617b21e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

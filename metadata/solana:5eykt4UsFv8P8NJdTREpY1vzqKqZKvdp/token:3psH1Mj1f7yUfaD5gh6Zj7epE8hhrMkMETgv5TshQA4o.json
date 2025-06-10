@@ -1,0 +1,8 @@
+{
+  "name": "jeo boden",
+  "symbol": "boden",
+  "decimals": 9,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:3psH1Mj1f7yUfaD5gh6Zj7epE8hhrMkMETgv5TshQA4o.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x27a4f38e117a0d8157cf2201c219d145638ab60291a4344abbb3c8072f2ffd14@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

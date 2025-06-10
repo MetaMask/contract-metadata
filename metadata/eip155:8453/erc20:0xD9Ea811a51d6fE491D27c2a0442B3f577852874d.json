@@ -1,0 +1,8 @@
+{
+  "name": "Breakout Bro by Virtuals",
+  "symbol": "BOB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xD9Ea811a51d6fE491D27c2a0442B3f577852874d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdebc686d4cd6f3373d19d75b9938116c21660a9baad72cbc975fcea1c940469b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

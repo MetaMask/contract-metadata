@@ -1,0 +1,8 @@
+{
+  "name": "Aave LEND",
+  "symbol": "aLEND",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x7D2D3688df45CE7C552E19c27e007673Da9204b8./ipfs/qmytygdfqug1n6vn7vulr5imapmlmhb64thx4bllre1tqt/alend",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x349c2f38c4b43afcfd435fe2d2e19083ba85a955d6164563447176e11aa36554@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

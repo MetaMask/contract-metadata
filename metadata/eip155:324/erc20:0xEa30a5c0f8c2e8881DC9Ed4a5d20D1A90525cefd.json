@@ -1,0 +1,8 @@
+{
+  "name": "SHIB2",
+  "symbol": "SHIB2",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xEa30a5c0f8c2e8881DC9Ed4a5d20D1A90525cefd.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa7531fffcb6c8921a2c7d5e914d490a7cfc78b97dc370679d54113f476df0f29@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

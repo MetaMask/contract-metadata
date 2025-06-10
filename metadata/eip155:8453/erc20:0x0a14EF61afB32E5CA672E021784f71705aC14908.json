@@ -1,0 +1,8 @@
+{
+  "name": "Null",
+  "symbol": "NULL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x0a14EF61afB32E5CA672E021784f71705aC14908.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x881aea91656336bc34de12474a7d41a066d62a518968698bdedf0a34b2b30163@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

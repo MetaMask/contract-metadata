@@ -1,0 +1,8 @@
+{
+  "name": "CryptoBlades",
+  "symbol": "SKILL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x154a9F9cbd3449AD22FDae23044319D6EF2a1Fab.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xecdda3749578a4db7fd62c3e1a83364eee977a7e4c973746f886c0ddd44b38c4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

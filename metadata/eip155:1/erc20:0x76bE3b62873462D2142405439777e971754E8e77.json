@@ -1,0 +1,8 @@
+{
+  "name": "Parallel Alpha",
+  "symbol": "LL",
+  "decimals": 0,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x76bE3b62873462D2142405439777e971754E8e77.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x42e3bb6a89a36a199855bfd2037f47a7ceb23a7096783ebda2e2ba7a7bd15233@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

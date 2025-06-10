@@ -1,0 +1,8 @@
+{
+  "name": "Frax Share",
+  "symbol": "FXS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0x9D2F299715d94D8A7E6F5eaa8e654E8C74a988a7.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x32601d1e42f75317916004599bf5b8c1a6ebdc297f78ebf9fe2778feb5d0620e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

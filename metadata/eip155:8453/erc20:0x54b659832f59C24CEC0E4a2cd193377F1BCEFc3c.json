@@ -1,0 +1,8 @@
+{
+  "name": "Akashalife",
+  "symbol": "AK1111",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x54b659832f59C24CEC0E4a2cd193377F1BCEFc3c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1a4606e8dc20b10fd6d293d798b304bfa53c2275468c173f0603626456b6f7f2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

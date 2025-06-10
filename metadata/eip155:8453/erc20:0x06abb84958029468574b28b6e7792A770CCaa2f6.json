@@ -1,0 +1,8 @@
+{
+  "name": "0xMonk by Virtuals",
+  "symbol": "MONK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x06abb84958029468574b28b6e7792A770CCaa2f6.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc3ee4854e1274a6e0cb3709cd2f278fbc4e748fbe3f1db64121be56a6a305dc9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

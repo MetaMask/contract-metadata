@@ -1,0 +1,8 @@
+{
+  "name": "Nuklai",
+  "symbol": "NAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x5aC34c53a04B9AAA0BF047e7291fB4E8A48F2a18.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd30984f55a2e818344d81a672fe559d1fa073fa13392997279cd1766e6aa294b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

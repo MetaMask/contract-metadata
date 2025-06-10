@@ -1,0 +1,8 @@
+{
+  "name": "TiUSD",
+  "symbol": "TiUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xFE869143883382FE75277Fcac9914D2B8Fb8Feb7.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe355a355f4b92ca1b242ce391fedcbf4fef650530600117254f277a374ce3b01@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

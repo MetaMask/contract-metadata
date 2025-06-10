@@ -1,0 +1,8 @@
+{
+  "name": "Navigate",
+  "symbol": "NVG8",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x5D6cae0422A950DBD7918d1e74434A35156b3ba4.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x52f8591bf10ca80467cada9ce9426e03b72a74dbfe40052141676cf74cf4f257@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

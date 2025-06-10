@@ -1,0 +1,8 @@
+{
+  "name": "Rain by Virtuals",
+  "symbol": "RAIN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x1aCa6687a9665fB84DEb7e3801e8e7ECBa6Ec6de.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4fd2840c1c7361fecebd48add642e898817b0336ff65e66167151aa4e9ee14d2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

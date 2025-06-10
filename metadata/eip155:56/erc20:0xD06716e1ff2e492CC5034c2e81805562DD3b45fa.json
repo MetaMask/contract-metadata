@@ -1,0 +1,8 @@
+{
+  "name": "Magpie",
+  "symbol": "MGP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xD06716e1ff2e492CC5034c2e81805562DD3b45fa.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x85849dfb57b1bc5a3f212cf098ad723a722f8c50f360d0f4466eda1c6964a374@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

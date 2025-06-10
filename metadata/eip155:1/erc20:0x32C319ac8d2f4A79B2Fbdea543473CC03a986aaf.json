@@ -1,0 +1,8 @@
+{
+  "name": "AVENGER",
+  "symbol": "AVENGER",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x32C319ac8d2f4A79B2Fbdea543473CC03a986aaf./ipfs/qmdfpfyccept3krsiiq6bg7lsdst1swu3w9a3yfa36peyc/avenger",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc46c020139c69be1f442fef5bfdf3d10f27f0faa31bcaf51e3f146b7a37667ff@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

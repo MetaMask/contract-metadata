@@ -1,0 +1,8 @@
+{
+  "name": "IDRX",
+  "symbol": "IDRX",
+  "decimals": 2,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x18bc5bcc660Cf2B9CE3cd51a404AfE1A0CbD3c22.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3b2c4ebbe2a6d31adb7b471481d1c49e83e9356e605287cc338163392b0a3880@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

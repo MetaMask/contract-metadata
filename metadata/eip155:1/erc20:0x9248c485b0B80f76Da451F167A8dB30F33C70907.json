@@ -1,0 +1,8 @@
+{
+  "name": "Debase",
+  "symbol": "DEBASE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9248c485b0B80f76Da451F167A8dB30F33C70907./ipfs/qmuujdraykbueldqjizjpaab9rfunf36pbnr8a6q8trmrk/debase",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4f9777beb6f47c048eb0a69ade6410c74003349ed36cc204c6465a5cf0d8d330@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

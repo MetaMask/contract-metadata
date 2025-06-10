@@ -1,0 +1,8 @@
+{
+  "name": "eCash",
+  "symbol": "XEC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x0EF2E7602Add1733BFDb17ac3094D0421B502ca3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1cac44b56233d17d351c823a621bcfbc0f6ee7ed1e31b7387953c50a5c681625@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

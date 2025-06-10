@@ -1,0 +1,8 @@
+{
+  "name": "Stack",
+  "symbol": "STACK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x80a62e8a45f6467B499EE7edad3fD7BEF0C83026.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x587465bfbb054b63cc9b70d75f0de94ba65b32f59dde9b7c753e8700b7b05c15@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

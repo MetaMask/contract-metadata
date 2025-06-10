@@ -1,0 +1,8 @@
+{
+  "name": "PEPERA",
+  "symbol": "PEPERA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x60143F39b54A731AC790708c8719211878E638c3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x12abca1840bed7bf2e5f84d34178f4ab488b3da5aeb40883fd90652c9fdc889f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

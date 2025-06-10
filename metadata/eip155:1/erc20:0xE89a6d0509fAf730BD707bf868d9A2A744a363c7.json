@@ -1,0 +1,8 @@
+{
+  "name": "Cream Uniswap",
+  "symbol": "crUNI",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xE89a6d0509fAf730BD707bf868d9A2A744a363c7./ipfs/qmpgic5bramrvewmap3j1z38w6uucmr2mckdppvmmn3kue/cruni",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa606b3309ecc6e475bd14beff94750214375c1fdbab237c14073ef89a903bfe7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "RMPL",
+  "symbol": "RMPL",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xE17F017475A709DE58E976081eB916081FF4c9d5./ipfs/qmqpvmjqfngu5vgkppctrjxchnfj4pqnbjzp9hcn3zbyvh/bcd8u96pbjpfs7srwhmxdh2rnx3savxttnyj8r99tgfz2uemjf1ltftq6j8tsu2qcjezo3hxfmwywecvd2hsuk1sgk",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x67eccd53532abe1ac90ac8932801059eb8b163d5a671851533f0c9ee142b1f46@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "savedroid",
+  "symbol": "SVD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xBDEb4b83251fB146687Fa19d1c660f99411EEFe3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdb920561a7d89293f66696bb629af2848f7e63c4f346e415fa3b9451bf3e1d6b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

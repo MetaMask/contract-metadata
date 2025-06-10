@@ -1,0 +1,8 @@
+{
+  "name": "CoinMerge OS",
+  "symbol": "CMOS",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x87869a9789291A6CEC99F3c3ef2ff71FCEb12a8e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1de6f6aa4e48f7e7aa0d62bd9a45cce8e0e30d7ea2e61a12d38e412893b651dc@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

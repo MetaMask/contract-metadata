@@ -1,0 +1,8 @@
+{
+  "name": "renDGB",
+  "symbol": "renDGB",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xE3Cb486f3f5C639E98Ccbaf57d95369375687F80./ipfs/qmc3ewdlqyehh1d6xgubybl4gwag6jsskc2dywzu7mspyg/rendgb",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x195cc9a84de05e676c6cac4b720e55b18447775ff09726d191170441a68138ff@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

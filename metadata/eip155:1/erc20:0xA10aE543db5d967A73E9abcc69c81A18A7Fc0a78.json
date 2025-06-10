@@ -1,0 +1,8 @@
+{
+  "name": "BLOCKCLOUT",
+  "symbol": "CLOUT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA10aE543db5d967A73E9abcc69c81A18A7Fc0a78./ipfs/qmbpix4uaos2skr3t16dufaqdpcduduhf4ngizonqhxxdw/bcdwolnojarfcdp3mmr2btmv3xpun7w53bjvydb4vweq9ec93prczuzkkisvftpqwirv9ssbwc3hzczcfh8kk9ygx7",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x29ced37b0de720c6c8f8a7abb8dffa9eeec86b8ce0cd05d45af69be7c6b941c2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

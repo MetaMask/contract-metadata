@@ -1,0 +1,8 @@
+{
+  "name": "Ruff",
+  "symbol": "RUFF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF278c1ca969095FFDDDEd020290Cf8B5C424ace2./ipfs/qmy8s1tpbeyfer9vuiroycgt15ilhkzs3wvdvlgjrnkboi/bcdybr9nxtyoztdpimbfuttmcdynmugipx4n5r21gkwrjh1fhqpa4nyby875i8tqje5aum5tjtq7ghkegtsofnjgac",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xcb55d8bc70ad130e84486ac855a085b93c6a5a46888c0251c6e75ba2562823a8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

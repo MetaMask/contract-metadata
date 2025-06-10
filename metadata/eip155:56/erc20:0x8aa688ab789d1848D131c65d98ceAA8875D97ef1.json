@@ -1,0 +1,8 @@
+{
+  "name": "MultiVAC",
+  "symbol": "MTV",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x8aa688ab789d1848D131c65d98ceAA8875D97ef1.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf2383f6f8d155ca845d5c0ca74cd8c3e958f43a59f997696152b29b62aa1c8c2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

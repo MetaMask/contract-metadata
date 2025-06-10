@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic yearn.finance",
+  "symbol": "sYFI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x992058b7db08f9734D84485bfbc243C4EE6954a7./ipfs/qmqmw8czvs9js4azv4gzl4zg5edaimsnhcxjsnyr166ywz/syfi",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4b24a827c6af5748dfabde4408f8e014d6df1002fa00e7db1edb41256d075086@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

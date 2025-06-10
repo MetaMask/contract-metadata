@@ -1,0 +1,8 @@
+{
+  "name": "Axie Infinity",
+  "symbol": "AXS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x715D400f88c167884Bbcc41c5feA407ED4D2F8a0.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x18b8d0d58e5999b95e3e5d6619f024af1623459484a697f77714fb723569f060@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

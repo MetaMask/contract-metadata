@@ -1,0 +1,8 @@
+{
+  "name": "bCurve",
+  "symbol": "bCrv",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3B3ac5386837DC563660Fb6a0937DfAA5924333b./ipfs/qmxgaajotovozdeg1w4isbpkxcpbe52ndhwapzwjrnqbv1/bcd2sfxd5qbpygsyhig69dmc72juwkmzxdmqhz9iyncoov1z1noqx3er6dm9p8pn9pg97izufbhpwjatv9lxuxplhn",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc35fcf0935d02950500d1e7c8f5f6c5db66e0b573e6c90e20d36f21f576eaa7a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

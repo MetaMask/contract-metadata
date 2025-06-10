@@ -1,0 +1,8 @@
+{
+  "name": "Bitget",
+  "symbol": "BGB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x19DE6b897ed14A376DDa0Fe53A5420D2AC828a28.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0ec468251048edb623ca0e32fe2e7526b6c6b219b5e0b113a3cf601c42718cbf@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

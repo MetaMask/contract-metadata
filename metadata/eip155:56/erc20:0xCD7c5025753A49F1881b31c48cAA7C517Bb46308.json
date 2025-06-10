@@ -1,0 +1,8 @@
+{
+  "name": "Raven Protocol",
+  "symbol": "RAVEN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xCD7c5025753A49F1881b31c48cAA7C517Bb46308.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3713dc0f181201a07ae3716313f6becfe07319e555ee7837b0120bdaf804d399@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "MPAA",
+  "symbol": "MPAA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x4194F4e29d652656B6Dc84f10363482C5aC101b5.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xcd6308750e7904ede6288dd6046f3a0686c71a785dc1023cd91616f6ad6ded4b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

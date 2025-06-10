@@ -1,0 +1,8 @@
+{
+  "name": "Wrapped Celo",
+  "symbol": "WCELO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xE452E6ea2ddeB012E20Db73bf5d3863A3aC8d77a./ipfs/qmuncvmzk5xyxboxwkqxhjuqat3egwgxw6hcvhqdr4jhmb/wcelo",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbd5d13ca092edf931a44c165edc5a0ba234cf757ae3ad31d44e07dc3701a5433@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

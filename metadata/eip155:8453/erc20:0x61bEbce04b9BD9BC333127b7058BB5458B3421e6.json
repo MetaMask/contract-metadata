@@ -1,0 +1,8 @@
+{
+  "name": "PILOT3 by Virtuals",
+  "symbol": "PTAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x61bEbce04b9BD9BC333127b7058BB5458B3421e6.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc2ffd048cb663f08dca827ae57057fd12cd398c28a82ee50b554846651e7d3e5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

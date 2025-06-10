@@ -1,0 +1,8 @@
+{
+  "name": "Based Peaches",
+  "symbol": "PEACH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x8319767a7b602f88E376368dcA1B92D38869b9b4.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x06a6f98da41429a1be561e650c4eb7a8121922a7eff6d2e1899b6a6c1f1a23e4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

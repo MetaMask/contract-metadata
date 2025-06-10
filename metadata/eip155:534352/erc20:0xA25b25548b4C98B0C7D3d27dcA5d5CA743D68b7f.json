@@ -1,0 +1,8 @@
+{
+  "name": "Wrapped rsETH",
+  "symbol": "wrsETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:534352/erc20:0xA25b25548b4C98B0C7D3d27dcA5d5CA743D68b7f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xaa9325df969a4e2bfe6c37b8449699a482e731f733b798a5330ce41df5eabcaa@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

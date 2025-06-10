@@ -1,0 +1,8 @@
+{
+  "name": "GMX",
+  "symbol": "GMX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0xFC5a1a6eb076A2C7AD06Ed22c90d7E710E35ad0a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa1cf0bea5870db51ae31182f331893466819091de84411842150abebedb98534@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

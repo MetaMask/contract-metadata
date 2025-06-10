@@ -1,0 +1,8 @@
+{
+  "name": "Neurahub",
+  "symbol": "NEURA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3D1c949a761C11E4CC50c3ae6bdB0f24FD7a39da.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x07ccf2a6dd7e298e48a70c54e3b44ffdfb3a3132204f7493d466ccb079ed7da7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Syncus",
+  "symbol": "SYNC",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x2D20b8891f2f9ED0EBF1b179b2279f936DEc9282.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4b0b1ce2746bb8294e57eddb4936a16fb30e17cf438d9901a74f869a69b4d4cb@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

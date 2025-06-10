@@ -1,0 +1,8 @@
+{
+  "name": "Carbon Browser",
+  "symbol": "CSIX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x04756126f044634C9a0F0e985e60C88A51acc206.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc779a79528c127b04fd35ecdc52a8d89a2225ab59b55ebb19eb2a417918df948@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

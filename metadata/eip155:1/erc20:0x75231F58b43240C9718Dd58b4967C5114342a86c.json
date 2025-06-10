@@ -1,0 +1,8 @@
+{
+  "name": "OKB",
+  "symbol": "OKB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x75231F58b43240C9718Dd58b4967C5114342a86c./ipfs/qmvvkrssmvrzk1szto8d3kwfzkbkyiabzqnfrtjkcli4ry/bce1ja5hcqguddjrggbokedmohtbye4hph2bjc86bnlmnfjbdnsetgsuznrrfk3zkgqkrrfqvs8bbbhnwgujk9kmnf",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5eef122b2b7fd17f0585348f47cf992c05a63ee5296dbc1342f719791ae489c6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

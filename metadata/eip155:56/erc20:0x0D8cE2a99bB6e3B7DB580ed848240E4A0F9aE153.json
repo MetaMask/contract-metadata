@@ -1,0 +1,8 @@
+{
+  "name": "Filecoin",
+  "symbol": "FIL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x0D8cE2a99bB6e3B7DB580ed848240E4A0F9aE153.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x15da2d4e5b222dc2177c2bac1ac2ee18462258bdb73c5e2910c5295a09c9f355@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

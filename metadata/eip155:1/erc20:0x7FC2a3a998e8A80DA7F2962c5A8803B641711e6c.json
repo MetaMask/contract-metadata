@@ -1,0 +1,8 @@
+{
+  "name": "Paralism-EPARA",
+  "symbol": "EPARA",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x7FC2a3a998e8A80DA7F2962c5A8803B641711e6c./ipfs/qmyca78vxxyv6sgd7m4tegryvrpsezoq2hr4mdr8wtmkdw/epara",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbe57ad268283d901d5cd9a071a294978846042cb1786f992063c78c865257841@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

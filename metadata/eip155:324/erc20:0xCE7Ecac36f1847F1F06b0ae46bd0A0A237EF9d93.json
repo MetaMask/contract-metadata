@@ -1,0 +1,8 @@
+{
+  "name": "Ondo",
+  "symbol": "ONDO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xCE7Ecac36f1847F1F06b0ae46bd0A0A237EF9d93.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8f59dcb307694294c049496722d18fa84158990e65a992c78df125c2f503d816@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Insolar",
+  "symbol": "INS",
+  "decimals": 10,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x5B2E4a700dfBC560061E957edec8f6EEEB74a320./ipfs/qmcsgmsyntqpxrsn8sfvc8v46erpme2zqnwzkvy2jhkyuj/bcd2gucbmsxu7gi5x1rhelkgcpkmnqd5pfdjbu4hvmdjr5nfwxfjxxh2nurt76xb9pfy5thbbkfs1pntxcqm77vbv4",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfefbdb9139d773843b6de5a8da0f26d754ac5af598a192b3ba3cc15bef32a351@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Golem",
+  "symbol": "GLM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0x0B220b82f3eA3B7F6D9a1d8ab58930C064a2b5bf.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x771a8f26b2db8ca983d6bb6a41f58d9e15b22313b919398c0c1ecef1d27f1b9a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

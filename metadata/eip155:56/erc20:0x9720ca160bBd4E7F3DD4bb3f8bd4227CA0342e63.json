@@ -1,0 +1,8 @@
+{
+  "name": "GamesPad",
+  "symbol": "GMPD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x9720ca160bBd4E7F3DD4bb3f8bd4227CA0342e63.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5277fc8e28daf6304414d7a02845281f68e6d2252c5cff13c93c190d7bc2976f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

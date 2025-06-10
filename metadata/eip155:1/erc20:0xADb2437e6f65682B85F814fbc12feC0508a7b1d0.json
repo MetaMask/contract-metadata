@@ -1,0 +1,8 @@
+{
+  "name": "UniCrypt",
+  "symbol": "UNCX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xADb2437e6f65682B85F814fbc12feC0508a7b1d0./ipfs/qmaszndhzeewehwvqtcpm8yg8eddxrsqw2rqbrgrzvgqg8/uncx",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x235cdd7d1f011d66763fdd0471f801a90eb028fe5b5f24938f7ebb71bfb4ff1c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

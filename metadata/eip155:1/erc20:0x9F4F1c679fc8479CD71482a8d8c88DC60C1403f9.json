@@ -1,0 +1,8 @@
+{
+  "name": "Double Ace",
+  "symbol": "DAA",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9F4F1c679fc8479CD71482a8d8c88DC60C1403f9.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbaeb61ac9c2b0f49f577bd1c384d64649a72ea34c99c3b26312566b2551ed993@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

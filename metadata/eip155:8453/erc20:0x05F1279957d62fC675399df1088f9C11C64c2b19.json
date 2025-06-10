@@ -1,0 +1,8 @@
+{
+  "name": "Riddle by Virtuals",
+  "symbol": "RIDDLE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x05F1279957d62fC675399df1088f9C11C64c2b19.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x24e4a9de5abd9d8938185e9dda0af9ec0e937690a1cb29403f20de93d44fae9f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

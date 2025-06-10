@@ -1,0 +1,8 @@
+{
+  "name": "ArchAI",
+  "symbol": "archai",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xD3b0b58ec9516E4B875a075328e2CB059D4D54db.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe71953fd4c8bd37f6fa2c8f0f28f80518b42d01d17e3a575fd7364e90cf5c5f8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "NIKITA by Virtuals",
+  "symbol": "NIKITA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x698b49063c14D2753D23064ff891A876CFFa6Fb5.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5085d0626c2223e27e3d6046f35a848748f9f7e91624fae2b50b4f70658cb4e7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

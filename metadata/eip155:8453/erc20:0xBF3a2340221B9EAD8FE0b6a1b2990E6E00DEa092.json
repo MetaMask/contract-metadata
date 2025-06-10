@@ -1,0 +1,8 @@
+{
+  "name": "DYOR",
+  "symbol": "DYOR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xBF3a2340221B9EAD8FE0b6a1b2990E6E00DEa092.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdf76f250984521a34332f78c5b4402cef01ca08c718f01f90ec315a43930e92c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

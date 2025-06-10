@@ -1,0 +1,8 @@
+{
+  "name": "Subava",
+  "symbol": "SUBAVA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xA2CDE628d7617956EaF4780e32f68DF19CC13d62.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfecbb8ab621b2a830235b2fdb83c0c56fdec69d2347e14ebb88803584330fa79@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

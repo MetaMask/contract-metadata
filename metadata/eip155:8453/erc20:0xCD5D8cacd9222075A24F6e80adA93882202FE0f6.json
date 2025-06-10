@@ -1,0 +1,8 @@
+{
+  "name": "Agent 2025",
+  "symbol": "AGENT2025",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xCD5D8cacd9222075A24F6e80adA93882202FE0f6.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6631626c49dca81cbd1c30b3c65166bf7fe770d7d16404fe4a3a6976be0b8789@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

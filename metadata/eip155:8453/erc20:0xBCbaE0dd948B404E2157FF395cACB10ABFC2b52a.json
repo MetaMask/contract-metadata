@@ -1,0 +1,8 @@
+{
+  "name": "Insane Technology Index",
+  "symbol": "ITX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xBCbaE0dd948B404E2157FF395cACB10ABFC2b52a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x899f9c61f8ad6d7d8c71a4f930de1644176d6e658496009005ecffb75d92db52@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

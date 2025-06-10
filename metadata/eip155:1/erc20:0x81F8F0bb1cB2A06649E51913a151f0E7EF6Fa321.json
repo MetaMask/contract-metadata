@@ -1,0 +1,8 @@
+{
+  "name": "VitaDAO",
+  "symbol": "VITA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x81F8F0bb1cB2A06649E51913a151f0E7EF6Fa321./ipfs/qmwlmqw2fdqr5zde7hk5j28ta6wvcw1wmt9gblfq8ye35z/vita",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x00a9d2045808e91e1ac2948eb3feb3a06706ca7c810b96b25c03eadcaf34e76c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

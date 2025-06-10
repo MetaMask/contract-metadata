@@ -1,0 +1,8 @@
+{
+  "name": "BOOSHI",
+  "symbol": "BOOSHI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x0D1Fc046900628879D579364789273FD552Ec582.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x09fae595cc3c8c7e6f412b78ff758f9a18b1d24ce3ad204c15e96f58a4d674d6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Penguin Finance",
+  "symbol": "PEFI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xE896cdeaac9615145C0ca09c8cd5C25BCED6384c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x152cf2b624102dcc692fd92dcf4161ff3b6a2e4145f95f15240ba9a4479d54b9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

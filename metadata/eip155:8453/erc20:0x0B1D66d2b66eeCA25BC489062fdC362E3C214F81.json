@@ -1,0 +1,8 @@
+{
+  "name": "nAIncy by Virtuals",
+  "symbol": "NAINCY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x0B1D66d2b66eeCA25BC489062fdC362E3C214F81.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x15e23dfd7936f86cb8850085879f869d19004e70ef126080e86d6ad7781d3554@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Benchmark Protocol",
+  "symbol": "MARK",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x67C597624b17B16FB77959217360B7CD18284253./ipfs/qmtmjry8syhgl6rkgsb3yzk65b6e8cun73p95ekxwcsnav/mark",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb4d6007c489e4f44f64dba626eb8f25f8c7e582f8cfff368125fce29c9f6b1f7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

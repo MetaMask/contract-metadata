@@ -1,0 +1,8 @@
+{
+  "name": "Alchemix",
+  "symbol": "ALCX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xDBDb4d16edA451D0503b854cf79d55697F90c8df./ipfs/qmwqudpcjk7lnhawddbcdrt84n43hezvjbivbqisecdrju/alcx",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0356e9af98b4e27485929e8992e643f00e157daeefd87ebfcfc91dc4c7599930@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

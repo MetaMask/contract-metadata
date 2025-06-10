@@ -1,0 +1,8 @@
+{
+  "name": "Curve sBTC Pool yVault",
+  "symbol": "yvCurve-sBTC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x8414db07a7f743DEBaFb402070AB01A4E0D2E45e./ipfs/qmvisfnhz5t6zrnsgng9c2fh67pvtbrj6p9qqxb1kvktan/yvcurve-sbtc",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc2b899367432dee907e43e69f160d7d439f53a656d84cc5dc31fc23e23a40dcd@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

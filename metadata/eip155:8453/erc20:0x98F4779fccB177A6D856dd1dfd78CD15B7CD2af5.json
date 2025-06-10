@@ -1,0 +1,8 @@
+{
+  "name": "Misato by Virtuals",
+  "symbol": "MISATO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x98F4779fccB177A6D856dd1dfd78CD15B7CD2af5.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf872a655d484dd47b6618857ad79f9b0a57c2e78beea4971004b5e38d0c1c154@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "aixbt",
+  "symbol": "AIXBT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x4F9Fd6be4A90f2620860d680c0d4D5FB53D1a825.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5b3e94704a798fd6a9689c1d12013bfc960bf042b73fa422522b3d8dade84dc5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

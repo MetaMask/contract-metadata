@@ -1,0 +1,8 @@
+{
+  "name": "Leoono",
+  "symbol": "LEO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xC8Db98437bed9943F11c5b31b645B07C0EFc17e0.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x58fc45d5089c4b380c2fc6bdf40f71b7cd374b36a4c6e84931ed5eb332e51c10@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

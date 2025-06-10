@@ -1,0 +1,8 @@
+{
+  "name": "SparkPoint",
+  "symbol": "SRK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0488401c3f535193Fa8DF029d9ffe615A06E74e6./ipfs/qmzrfwtzit54t3jxxf4kfz5qpwj6cpkcmfqywahdb7msec/bcd2upbf5kcsy9svzyhbvxpyh5brw3fhcr8w4jhbrwsmb6tng9w1a6mp7jwnhjsotc2zx8sb7yzr97g2j8o9sqks1n",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xafc305d38fd73ca9d024bc522ef19164abbf2d90f5d6b5a028ef557e3267a69b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

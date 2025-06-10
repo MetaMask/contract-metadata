@@ -1,0 +1,8 @@
+{
+  "name": "AiRealm Tech",
+  "symbol": "AIRM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x1848aF51aAA28fD20E5ca0b25A5e0905553D7870.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x39743d6fa7aa53a973c0c2ea10a844fd823cea7cfb63a0f82b0ac7a447326fe3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

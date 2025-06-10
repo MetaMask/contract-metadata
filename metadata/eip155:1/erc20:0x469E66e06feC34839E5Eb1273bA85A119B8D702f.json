@@ -1,0 +1,8 @@
+{
+  "name": "Degov",
+  "symbol": "DEGOV",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x469E66e06feC34839E5Eb1273bA85A119B8D702f./ipfs/qmpg3xey6fgxhmrahfvyxtgrdwqk7yxysy28uwhpyncnul/degov",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x903b8e279aefb228f45fc589c9ce91b4ca4f64304cbe5f119731bc8d344b101a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

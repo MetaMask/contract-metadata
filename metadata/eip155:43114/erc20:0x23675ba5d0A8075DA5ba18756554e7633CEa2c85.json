@@ -1,0 +1,8 @@
+{
+  "name": "Raini Studios Token",
+  "symbol": "RST",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x23675ba5d0A8075DA5ba18756554e7633CEa2c85.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdcce2acb31da0aa0fcb1bc4565d66aaad145076b29fa854b813c45f1267c887e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

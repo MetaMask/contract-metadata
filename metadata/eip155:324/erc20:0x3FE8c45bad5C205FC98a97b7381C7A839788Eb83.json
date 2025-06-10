@@ -1,0 +1,8 @@
+{
+  "name": "Calvaria: Duels of Eternity",
+  "symbol": "RIA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x3FE8c45bad5C205FC98a97b7381C7A839788Eb83.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdef1cfcf6c2ba5d21d53a7157dbb546effc6253c3fd1f2ada2e601f0faf23113@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

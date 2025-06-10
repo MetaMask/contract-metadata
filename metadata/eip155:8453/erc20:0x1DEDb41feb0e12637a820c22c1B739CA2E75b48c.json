@@ -1,0 +1,8 @@
+{
+  "name": "BASE BOOK",
+  "symbol": "BBOOK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x1DEDb41feb0e12637a820c22c1B739CA2E75b48c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x706f1e1e4b04e28b63ec4b929cab2c8af52e57804f5dd0de9d0b7a6ee015acfa@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

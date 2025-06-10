@@ -1,0 +1,8 @@
+{
+  "name": "Venus USDT",
+  "symbol": "vUSDT",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xFD5840cd36d94D7229439859c0112A4185bc0255.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9c6499f5cf2f2410998cc9f157c45299a726327ac362d902a80bbb9541d6043d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

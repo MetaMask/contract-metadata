@@ -1,0 +1,8 @@
+{
+  "name": "Venus SXP",
+  "symbol": "vSXP",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x2FF3d0f6990A40261C66E1ff2017ACBC282Eb6d0.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe47c984cf19a189a92d9b6c245fb05c1c3fe73d8df1a1c4b253365f4afe75a55@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

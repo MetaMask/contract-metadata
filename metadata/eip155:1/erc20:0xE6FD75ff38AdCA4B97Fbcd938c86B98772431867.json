@@ -1,0 +1,8 @@
+{
+  "name": "ELA on Ethereum",
+  "symbol": "ELA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xE6FD75ff38AdCA4B97Fbcd938c86B98772431867./ipfs/qmxpwnptpgx7exvsc5aw3mqwugl9oeukifvgkzunwo9cc2/ela",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xad7276263f3320bcc0f974e1cfec04ffad84b2f6ffa0d25e25760a75441467ca@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

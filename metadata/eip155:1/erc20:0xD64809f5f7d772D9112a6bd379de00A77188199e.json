@@ -1,0 +1,8 @@
+{
+  "name": "Lyfe Silver",
+  "symbol": "LSILVER",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD64809f5f7d772D9112a6bd379de00A77188199e./ipfs/qmnzhautqjn4rs6tevdzcbcs9fxtkdprbky49onf4bspab/lsilver",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb00d6f4eb5bfd677a60385d87828a3eb183798aaf8cedaa1d798ded70ff0dc39@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

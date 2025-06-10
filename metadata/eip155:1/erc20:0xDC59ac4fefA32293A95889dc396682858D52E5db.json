@@ -1,0 +1,8 @@
+{
+  "name": "Bean",
+  "symbol": "BEAN",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xDC59ac4fefA32293A95889dc396682858D52E5db./ipfs/qmss3uqu2mhbcxcyezelgmvwshsekyar98f5che46afjuo/bean",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x13dc392ddbd326ccb618ef3634147edf145611c38004665dfefccf4932ab94c0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

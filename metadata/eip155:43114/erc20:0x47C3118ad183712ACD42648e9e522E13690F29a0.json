@@ -1,0 +1,8 @@
+{
+  "name": "Meat",
+  "symbol": "MEAT",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x47C3118ad183712ACD42648e9e522E13690F29a0.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xed780ac8db9626275b2768cc2ed356503f5b646f10a1265f36af33684e78b0c6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

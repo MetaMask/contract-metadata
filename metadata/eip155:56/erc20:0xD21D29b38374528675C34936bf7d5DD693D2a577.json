@@ -1,0 +1,8 @@
+{
+  "name": "Parsiq",
+  "symbol": "PRQ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xD21D29b38374528675C34936bf7d5DD693D2a577.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x876f5a6414a4f18c2b2e60d46049cfdeacaef9b583f7e3bf5b03f77bd3fd792f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

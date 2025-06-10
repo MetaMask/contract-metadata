@@ -1,0 +1,8 @@
+{
+  "name": "Liquidity Dividends Protocol",
+  "symbol": "LID",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0417912b3A7Af768051765040A55BB0925D4ddcf./ipfs/qmenkl5ntpvzfmsr5phb2pckr7tusjq7zhjcqhnxym2un4/bcdvrxbzddvmq6lcfim1nqcy2obzzqucuty5wwpwrlsqud27887mpfb1c16k38vy4d4tjtzvcetyxxzni7p3b5s3s9",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xeadb398e73e3d83b1a14c42290f71a7d5b9e34a4dc268786e1405dd32a3ac644@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

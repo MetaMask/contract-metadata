@@ -1,0 +1,8 @@
+{
+  "name": "PRIA",
+  "symbol": "PRIA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB9871cb10738eADA636432e86fc0CB920DC3de24./ipfs/qmtzahmtktgees5st8e2yqrtv43ndeknvwmtxd3jmfn5v6/bcczm5atyjev2urdmw2mhfc5qk7enizmsqzubzuxy96as9h4jzs5r9cja6fqvscdaryjqekcf9fmabcuwsemo5eiuy",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa945d6f87e8230d07497a9c7c4696eedb7ff0f3ea96548755793c9e89fb6b75d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

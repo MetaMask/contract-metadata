@@ -1,0 +1,8 @@
+{
+  "name": "GENZAI by Virtuals",
+  "symbol": "GENZAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xBF10dce9775eD5EAE22789638dA56C33B6C34633.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x82d4e7c2bd50c72099740cc72628327faafaa319b33bbcc5c3ee00924c723727@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

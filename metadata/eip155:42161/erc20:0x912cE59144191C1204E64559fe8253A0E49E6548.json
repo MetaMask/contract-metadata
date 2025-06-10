@@ -1,0 +1,8 @@
+{
+  "name": "Arbitrum",
+  "symbol": "ARB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0x912cE59144191C1204E64559fe8253A0E49E6548.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x89d4c221e89236dae37bd54163e7f1ff22643558a3aa33e87ac4bb428990ad22@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

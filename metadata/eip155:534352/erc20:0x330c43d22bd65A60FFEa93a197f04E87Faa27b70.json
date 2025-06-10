@@ -1,0 +1,8 @@
+{
+  "name": "abcNURI",
+  "symbol": "abcNURI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:534352/erc20:0x330c43d22bd65A60FFEa93a197f04E87Faa27b70.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8b0ea8a0ea2d33fdb11752e7e5835a67ccc1e431409410aa6d004429d47c32aa@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

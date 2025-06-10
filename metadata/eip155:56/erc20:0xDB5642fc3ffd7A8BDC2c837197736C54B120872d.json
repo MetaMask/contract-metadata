@@ -1,0 +1,8 @@
+{
+  "name": "Payslink",
+  "symbol": "PAYS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xDB5642fc3ffd7A8BDC2c837197736C54B120872d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x35c4b67075a3b78f3f2c8087bdfbe6e0ea5857e6c60338a784c38dcbc0063c96@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Swapfolio",
+  "symbol": "SWFL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xBa21EF4c9f433EDE00badefcc2754B8E74bD538a./ipfs/qmxonz9ngjs4uejhfnayrjtdzsbpwg4g3oieiapquqryny/bcd51a4rcwwcysgghn95y3dau3qvvubs5rpqprpoekuevrjavfqwmrcxmjfjfzyyqvzfrn3kh7vvwqsb3meyunyne3",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf83b6b4cee8d533cd47dfe20c5a22d91738f03102dfd48e0f04119176aa7c49f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

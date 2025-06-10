@@ -1,0 +1,8 @@
+{
+  "name": "Vidya",
+  "symbol": "VIDYA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3D3D35bb9beC23B06Ca00Fe472B50E7A4C692c30./ipfs/qmndpvtt7fvxtw4yhnrf8zyknrsuwlzx4iduhwchga5pjx/bccxyd8dquahevkiz33lxyekexnun7bhtr8p7v3xj2eh1zkl6vceodrryaw5kcb33n2atq9qo8mvbdrlvsvvtzb7vy",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa1154ef4e231a9887ce6c13640ddc8188e2a8f655675d87284783f8c82ffbd95@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

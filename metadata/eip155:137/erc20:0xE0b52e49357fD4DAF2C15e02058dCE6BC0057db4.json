@@ -1,0 +1,8 @@
+{
+  "name": "agEUR",
+  "symbol": "agEUR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0xE0b52e49357fD4DAF2C15e02058dCE6BC0057db4.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x01f9a3744c09ee82d87d347eb9f786ab264dd6dba78539940985788ed6d278e8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "LinqAI",
+  "symbol": "LNQ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD4F4d0a10bcAe123BB6655e8fe93A30D01EEbd04.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3cdb864ce28730b3a74d5195b4bad4baa434a94332c4132aa118aa3b0e7f1a59@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Eclipse Fi",
+  "symbol": "ECLIP",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0x93Ca0d85837ff83158CD14d65b169CDB223b1921.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x12e8a69742080abd96642b70a50bf05e12ba181bddb4dbed28d4a297fcdb7546@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

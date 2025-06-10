@@ -1,0 +1,8 @@
+{
+  "name": "Origin Sport",
+  "symbol": "ORS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xEB9a4b185816C354DB92db09cc3B50BE60b901b6./ipfs/qmqctq4wpydscghcplgrfbfjmxorxpl7g5dhyj2z3kwmmi/bcczaxdrbb1ehlpbqgbk34eyynbpf3lskry3zz8czqeuyqwux8fykv5tn2f7acxsdi41dylqwaxzb5mc4o3utqh68x",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x165e6248608af8bf0ceaad99ba8cb19a8eadc37956d0808131a64100f79dc422@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

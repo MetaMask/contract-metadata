@@ -1,0 +1,8 @@
+{
+  "name": "Celo Dollar",
+  "symbol": "cUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42220/erc20:0x765DE816845861E75a25Fca122BB6898B8b1282a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x62a7686241531e9462a17d4f41ead361d043e4f411cfb89a840c9bf5838fe2b7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

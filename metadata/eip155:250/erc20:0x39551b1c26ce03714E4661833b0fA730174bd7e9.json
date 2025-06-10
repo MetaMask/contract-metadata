@@ -1,0 +1,8 @@
+{
+  "name": "Plus.Bet",
+  "symbol": "PLUS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:250/erc20:0x39551b1c26ce03714E4661833b0fA730174bd7e9.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe53a0900c33e28b9fb13c02998ac184024e1325b01de751fcfdca169dfa2e481@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

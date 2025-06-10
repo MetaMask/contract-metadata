@@ -1,0 +1,8 @@
+{
+  "name": "1World",
+  "symbol": "1WO",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xFDbc1adc26f0f8F8606a5d63b7d3A3CD21C22b23./ipfs/qmuxfgfwhcri4xhfmiqiih7tp3ywh82kiddk3slg6vuwpv/bcd5we7mbdcxaxfmncs2n8tpnt8wu1mwley6m1gnefnhyr4cwkwcs2lpwgz85t96dhaw7s1tsrxbfyr8wn43npyvgs",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xad9b13cf58be8bcd17a694530a5dc5927cab2ee5b13c2448e92ea366c5d0c34d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

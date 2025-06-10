@@ -1,0 +1,8 @@
+{
+  "name": "Bloktopia",
+  "symbol": "BLOK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0x9DCE8e754913D928EB39bc4fc3cf047E364F7F2c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1edbf52e400e4f92c405bc361018ccfceee9fff67d5c08dae35d272b2c960d01@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

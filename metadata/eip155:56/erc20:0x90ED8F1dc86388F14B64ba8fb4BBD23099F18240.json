@@ -1,0 +1,8 @@
+{
+  "name": "SingularityDAO",
+  "symbol": "SDAO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x90ED8F1dc86388F14B64ba8fb4BBD23099F18240.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xcc624e1d2f4f058cd08a31b0926663d40b8f9000beb70e1b38a3bfc65df5921e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

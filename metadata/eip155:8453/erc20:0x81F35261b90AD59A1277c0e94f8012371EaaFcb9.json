@@ -1,0 +1,8 @@
+{
+  "name": "LadyLuck",
+  "symbol": "LUCKY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x81F35261b90AD59A1277c0e94f8012371EaaFcb9.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfecc3182d71005f29fa41477e190e2f759be516f1f1790c8ec2136b0248c42ba@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

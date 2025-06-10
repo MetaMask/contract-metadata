@@ -1,0 +1,8 @@
+{
+  "name": "Unistake",
+  "symbol": "UNISTAKE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9ED8E7c9604790F7EC589F99b94361D8Aab64e5e./ipfs/qmx8sppwh1s8pj9pauksb1zv6mhtjvctar8uc2lczwpyfy/bcd8tpwqnr71d5pxxagi6rxmf2casged1xzhqnhxo6vn6sfbysm1cvfwke8ktlhc41unhmftez7uzi6agjyznmlrtm",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5c5f855f82e2bc3eb375d88bd0be78b963b34eb02c8ed2ce36f708266019a023@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

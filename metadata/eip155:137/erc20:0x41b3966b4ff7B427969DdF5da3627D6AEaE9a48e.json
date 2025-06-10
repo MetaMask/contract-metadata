@@ -1,0 +1,8 @@
+{
+  "name": "Nexo",
+  "symbol": "NEXO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0x41b3966b4ff7B427969DdF5da3627D6AEaE9a48e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4516ae04cc30abcfc25b42e396d90aeeb766cd0092d3175bea3343ba4f53a093@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

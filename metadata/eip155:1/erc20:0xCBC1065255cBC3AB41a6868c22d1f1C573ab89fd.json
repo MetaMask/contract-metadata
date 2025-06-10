@@ -1,0 +1,8 @@
+{
+  "name": "Cream ETH 2",
+  "symbol": "CRETH2",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xCBC1065255cBC3AB41a6868c22d1f1C573ab89fd./ipfs/qmrdtfb1zpqgtdvrdahb6vfw85ftcy8z2fhqp6jkyhnstf/creth2",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc4f03dc8c8ccaf6ca1893eb4df30a0f1153af4cda0fe43be6f83a365f24dbbed@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

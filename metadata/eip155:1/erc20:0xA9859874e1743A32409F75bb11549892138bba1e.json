@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Inverse Ether",
+  "symbol": "iETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA9859874e1743A32409F75bb11549892138bba1e./ipfs/qmypbxq2mbtmluyv7jwtcryz5nh6hkejjqkrvmppe3ou5g/ieth",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5f6e8ce1239e4b38dc477c837278386b9e001200e3bd66acc106a1f6952c4c07@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

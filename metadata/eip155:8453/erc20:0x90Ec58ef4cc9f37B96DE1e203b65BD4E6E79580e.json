@@ -1,0 +1,8 @@
+{
+  "name": "Alpha City",
+  "symbol": "AMETA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x90Ec58ef4cc9f37B96DE1e203b65BD4E6E79580e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe004599ae78db4d3275dbddb3af73c2c660677434179aa20a4b5dd460705b84f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

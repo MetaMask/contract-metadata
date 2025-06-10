@@ -1,0 +1,8 @@
+{
+  "name": "Popcat",
+  "symbol": "POPCAT",
+  "decimals": 9,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7262c2f6b7342c2d2d92b0fd2a7a5081c9819df79e1e4cc5f06858892950ce18@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

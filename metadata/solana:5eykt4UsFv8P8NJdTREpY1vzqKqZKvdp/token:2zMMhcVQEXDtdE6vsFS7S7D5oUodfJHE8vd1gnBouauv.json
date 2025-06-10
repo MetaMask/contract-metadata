@@ -1,0 +1,8 @@
+{
+  "name": "Pudgy Penguins",
+  "symbol": "PENGU",
+  "decimals": 6,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x270ec9c7824ea08a9fdfd0fa363184f55a39f850f9825223c043942b92abc494@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

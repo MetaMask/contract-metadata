@@ -1,0 +1,8 @@
+{
+  "name": "Tether",
+  "symbol": "USDT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x55D398326f99059FF775485246999027B3197955.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0fe7743978b8a6f832b50183f171f775da526a89ba08b7e25be6116d911d3fb1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

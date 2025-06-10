@@ -1,0 +1,8 @@
+{
+  "name": "EverGrow",
+  "symbol": "EGC",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xC001bbe2b87079294C63Ece98bdd0A88D761434e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc4293b91e0d2036ffd78254b86361dfeafc32681b1cd0a3ed94b0745aaae85b2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

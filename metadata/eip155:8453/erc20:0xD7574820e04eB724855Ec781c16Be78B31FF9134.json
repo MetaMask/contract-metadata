@@ -1,0 +1,8 @@
+{
+  "name": "SOX",
+  "symbol": "SOX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xD7574820e04eB724855Ec781c16Be78B31FF9134.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x28e325dbea92c9a0548a006feae3fa4447ca7fb2f6e928ecc8b8ccc0b84033ec@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

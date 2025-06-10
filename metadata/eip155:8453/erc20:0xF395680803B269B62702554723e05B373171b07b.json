@@ -1,0 +1,8 @@
+{
+  "name": "Son of Brett",
+  "symbol": "BRATT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xF395680803B269B62702554723e05B373171b07b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0f7ec53438818c00a8fa78d491e39dfa07690288699c3baaf6a4f7736b77657a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

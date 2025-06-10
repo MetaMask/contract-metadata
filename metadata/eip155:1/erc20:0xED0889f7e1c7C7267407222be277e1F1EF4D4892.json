@@ -1,0 +1,8 @@
+{
+  "name": "Melalie",
+  "symbol": "MEL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xED0889f7e1c7C7267407222be277e1F1EF4D4892./ipfs/qme2najuuhwiiwu7bqvc3zozahupfrkflcues1xafyhzwr/mel",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1cfbe7ec2ae4e87b3a95ebb721ad6ef6e7ab1c973f0184bd218a63d7cb6cc036@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

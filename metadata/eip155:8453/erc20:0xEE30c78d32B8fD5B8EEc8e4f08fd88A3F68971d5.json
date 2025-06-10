@@ -1,0 +1,8 @@
+{
+  "name": "Astro Fuel",
+  "symbol": "ASTRO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xEE30c78d32B8fD5B8EEc8e4f08fd88A3F68971d5.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6b582e100139695156a9674a81e96f266213de92a43360725d048b9020b19b41@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

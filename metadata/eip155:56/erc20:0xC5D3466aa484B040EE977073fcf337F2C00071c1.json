@@ -1,0 +1,8 @@
+{
+  "name": "Venus TRX",
+  "symbol": "vTRX",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xC5D3466aa484B040EE977073fcf337F2C00071c1.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x492e566ea127cd2db7e2e9f61f2eb12d9f3bd34af424493c7238c22c4ba1da8b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

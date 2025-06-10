@@ -1,0 +1,8 @@
+{
+  "name": "TYBENG",
+  "symbol": "TYBENG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x029a3b0532871735809a51e8653d6017EF04b6fa.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x030349d893165dd755be196b1797df08bfa1e8e7ab3bd40f3f34c4b8e82db9b3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Lugh",
+  "symbol": "EURL",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA967dd943b336680540011536e7d8C3D33333515./ipfs/qmracdyqx3vj53pmlndj7yqednpr3ceepclcsahph5jqtg/eurl",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7f8335b6ab1fbf8428fc3ab53f292f9b4b2113826131adec2e80d67dffab8adf@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

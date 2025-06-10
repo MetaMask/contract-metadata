@@ -1,0 +1,8 @@
+{
+  "name": "Restaked Swell Ether",
+  "symbol": "rswETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xFaE103dc9cf190ED75350761e95403B7B8aFa6c0.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3364e7ebea69b59c2d4c2425906fa3d71731b1a190471a99e614dd32b5e41d06@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

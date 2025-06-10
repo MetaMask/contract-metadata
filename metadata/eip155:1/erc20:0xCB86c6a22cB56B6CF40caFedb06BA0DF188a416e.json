@@ -1,0 +1,8 @@
+{
+  "name": "inSure DeFi",
+  "symbol": "SURE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xCB86c6a22cB56B6CF40caFedb06BA0DF188a416e./ipfs/qmtbsfpb6wawuyqxaxvkendtfdwt6ncdpfnkwvgqrbtc2j/sure",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd905c897fb381b13bc6f3e1b62d9a8ca6315d3e7b83559db94a3f5551a0970db@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

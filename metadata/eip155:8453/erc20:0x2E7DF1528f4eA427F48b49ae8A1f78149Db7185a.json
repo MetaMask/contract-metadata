@@ -1,0 +1,8 @@
+{
+  "name": "ProductClank",
+  "symbol": "PRO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x2E7DF1528f4eA427F48b49ae8A1f78149Db7185a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7be1006ad287ca60abadecb7f055b0b8874a5dad36e98ce0b3bfaddb85b7a9c1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

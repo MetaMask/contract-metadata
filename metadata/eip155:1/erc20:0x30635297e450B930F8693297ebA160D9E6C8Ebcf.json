@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Uniswap",
+  "symbol": "sUNI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x30635297e450B930F8693297ebA160D9E6C8Ebcf./ipfs/qmffpimfxgckrbkvgmkrr699d1njrvzhp6mmyn5zuffyvb/suni",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x54197d4ddf676893bc95e2bd75ce903787728a2bbb25d050fa82b7f3267ceb9e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

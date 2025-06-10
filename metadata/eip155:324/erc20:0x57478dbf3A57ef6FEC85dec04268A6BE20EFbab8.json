@@ -1,0 +1,8 @@
+{
+  "name": "QASH",
+  "symbol": "QASH",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x57478dbf3A57ef6FEC85dec04268A6BE20EFbab8.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xeab242852a85489635883b144ae4a0b3e86f7d5c9d5d7edb04811f5186861e0e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

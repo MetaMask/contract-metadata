@@ -1,0 +1,8 @@
+{
+  "name": "Aave",
+  "symbol": "AAVE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xFB6115445bff7B52FEb98650c87f44907E58F802.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc48aaac957d21dc9cf4f3473be1fe8f4387651e119765ccbf7996c36bffbdc0f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

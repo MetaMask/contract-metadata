@@ -1,0 +1,8 @@
+{
+  "name": "hybrix",
+  "symbol": "HY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9B53E429b0BADD98EF7F01f03702986C516a5715./ipfs/qmzdkx1menvwjv75ppjxg5f7jwdvylgl6nugefvxkjre7y/bcdx2cydgdp3fgcfvsqbjes2w8ks698r3vttqmr7bztsme3he5rnq2pynn33nexamtq9zokgqlxjtkjfenup9dxkaw",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8a21a16e4ccf1f47c4bc0d9928c931bbfc17e96793910c7fe5337dada7291014@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

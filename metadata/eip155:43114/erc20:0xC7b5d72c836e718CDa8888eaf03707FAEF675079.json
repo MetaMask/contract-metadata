@@ -1,0 +1,8 @@
+{
+  "name": "TrustSwap",
+  "symbol": "SWAP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xC7b5d72c836e718CDa8888eaf03707FAEF675079.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd61df179bf4dee6d684a663c842fa8443cd219ab638a65755361754fec55e381@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

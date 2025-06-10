@@ -1,0 +1,8 @@
+{
+  "name": "VisionX",
+  "symbol": "VNX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1563d521bA309E2AD9F4aFfd6f4de9759E8D4F21./ipfs/qmc7n7fwfm8b75jabrj4hyhersietfydv8jyjowy8y2kgt/bcdwoz4ba5smsqzwkyxq6cvjcnw31zpgshdt2xocgfxtfzks3lurlaayn2vcvburck8cvapgaicamnwzldogu2fbt6",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xcf494d34e0f11373c1dca3d01fc57848d227ad280a03b8f117d77b406aebb2c3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

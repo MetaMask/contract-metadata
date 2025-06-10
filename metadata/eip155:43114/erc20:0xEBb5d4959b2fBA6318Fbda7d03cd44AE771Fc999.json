@@ -1,0 +1,8 @@
+{
+  "name": "KONG",
+  "symbol": "KONG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xEBb5d4959b2fBA6318Fbda7d03cd44AE771Fc999.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9f63b87db688cdacdeb6e390e4ec752b16eb44fbb09b52b21aca784f08e01742@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

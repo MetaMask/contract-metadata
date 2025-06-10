@@ -1,0 +1,8 @@
+{
+  "name": "Omnis Genesis by Virtuals",
+  "symbol": "OMNI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xB58F9704c7A80D2775222F7cb2eeD28BEB9a06be.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x28bb44364f4f12e95177ad088d335e6e4aa03955f050ed2f6775804bc94ecad3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

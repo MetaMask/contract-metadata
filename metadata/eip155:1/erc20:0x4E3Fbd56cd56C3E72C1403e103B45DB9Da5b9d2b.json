@@ -1,0 +1,8 @@
+{
+  "name": "Convex Finance",
+  "symbol": "CVX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x4E3Fbd56cd56C3E72C1403e103B45DB9Da5b9d2b./ipfs/qmwmputuwopsl3bq4evxkqjsgp1gs1ex2vk5ngdckez58v/cvx",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7031fe0e1076724db3007d3be6959ab0a192ec47047fbb321f39be7a0707c009@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Mute",
+  "symbol": "MUTE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x0E97c7a0f8B2C9885C8ac9fc6136e829CBC21d42.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6dc23043dc493b18ab1d681c3916462c00a750126b457171689403618282b4fc@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

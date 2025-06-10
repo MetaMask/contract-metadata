@@ -1,0 +1,8 @@
+{
+  "name": "Mello AI by Virtuals",
+  "symbol": "MELLO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x91b518dfbefe614AA14F38a6bc02C7D22D6210cd.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4dae5da1385998400cbb6816e1211e5bc622660629b431a2e6d9fbd8a7d8ca6a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

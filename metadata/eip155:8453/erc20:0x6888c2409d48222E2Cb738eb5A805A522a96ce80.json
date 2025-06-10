@@ -1,0 +1,8 @@
+{
+  "name": "/treeplanting",
+  "symbol": "TREE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x6888c2409d48222E2Cb738eb5A805A522a96ce80.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdf33a91ad689e2d0eda39581896a3d910bdc3ebd85aa899d350c1b59fe6f41b8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

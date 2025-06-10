@@ -1,0 +1,8 @@
+{
+  "name": "Wrapped Fragmetric Restaked SOL",
+  "symbol": "wfragSOL",
+  "decimals": 9,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:WFRGSWjaz8tbAxsJitmbfRuFV2mSNwy7BMWcCwaA28U.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x14c2a86655bb709d68bf423859c380dbcfb1f416ffa3b9762691c93eb7bbf4ff@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

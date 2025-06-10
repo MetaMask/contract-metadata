@@ -1,0 +1,8 @@
+{
+  "name": "Kommunitas",
+  "symbol": "KOM",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0xA58663faef461761E44066ea26c1fCDDF2927b80.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xeb8ac2f34248a26a11c039a79eb59608afbea8748235e389e1df384fc3ab5ba2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

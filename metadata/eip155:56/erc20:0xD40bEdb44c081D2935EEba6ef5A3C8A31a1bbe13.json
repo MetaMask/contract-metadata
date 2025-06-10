@@ -1,0 +1,8 @@
+{
+  "name": "Metahero",
+  "symbol": "HERO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xD40bEdb44c081D2935EEba6ef5A3C8A31a1bbe13.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf982be9823512c3fe0b779cd55edac2d4f6e907539a18d16c750eaed0422d867@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

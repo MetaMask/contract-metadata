@@ -1,0 +1,8 @@
+{
+  "name": "ROCK",
+  "symbol": "ROCK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x85516e8862AB543EA15972b7809256EFEC0696ea.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xce27d7f5fc7a91f082d9d3375caaed659e6344788f26f27435399dec6f231154@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

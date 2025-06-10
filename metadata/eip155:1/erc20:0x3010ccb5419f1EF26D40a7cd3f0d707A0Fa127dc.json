@@ -1,0 +1,8 @@
+{
+  "name": "GEMS",
+  "symbol": "GEMS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3010ccb5419f1EF26D40a7cd3f0d707A0Fa127dc.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xff7bf8d40ab8fb670600b5e2eae944a372827ce0edaf01b25f54d4075215e20c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

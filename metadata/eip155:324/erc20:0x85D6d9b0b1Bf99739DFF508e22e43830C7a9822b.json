@@ -1,0 +1,8 @@
+{
+  "name": "Wrapped Commune AI",
+  "symbol": "wCOMAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x85D6d9b0b1Bf99739DFF508e22e43830C7a9822b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe9a5ed64450eb877bd36da84cc7df3c894b5ec0b57e8290c09f07094b9fe7599@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

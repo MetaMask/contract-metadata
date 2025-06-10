@@ -1,0 +1,8 @@
+{
+  "name": "Lien",
+  "symbol": "LIEN",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xAB37E1358b639fD877F015027bB62D3DDaa7557e./ipfs/qmsbnmsd8o8o29nxtdfwy1fh54zvjo7yudbnd2vvvskefd/bcczafr3asrhwkj4taenzm4eke11kgnaclsmxpt6hrifeknz8dc5zh5ymmtkvx5uk2u2sppht8i1edgr3vwpeit4km",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4fa0765903655225654c501b13efcab32be8779c2440cc6210aa3ed309a9c0f2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

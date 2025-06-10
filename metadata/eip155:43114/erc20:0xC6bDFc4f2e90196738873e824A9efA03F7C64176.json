@@ -1,0 +1,8 @@
+{
+  "name": "ViciCoin",
+  "symbol": "VCNT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xC6bDFc4f2e90196738873e824A9efA03F7C64176.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x439eb5e36d795dab8e1e7a5f58132afabe7d4bf1c40fd0a9d472f5d98bfcc915@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

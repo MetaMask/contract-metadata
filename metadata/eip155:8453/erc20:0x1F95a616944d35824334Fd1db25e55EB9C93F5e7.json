@@ -1,0 +1,8 @@
+{
+  "name": "TRADY",
+  "symbol": "TRADY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x1F95a616944d35824334Fd1db25e55EB9C93F5e7.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x96b6f29eaa96e7b5fdbe4dd559c3df671cf8f17e3a260c650c77eede83757eb0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

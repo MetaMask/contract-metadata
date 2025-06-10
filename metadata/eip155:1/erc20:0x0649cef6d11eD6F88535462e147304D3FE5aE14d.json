@@ -1,0 +1,8 @@
+{
+  "name": "Bitkub",
+  "symbol": "KUB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0649cef6d11eD6F88535462e147304D3FE5aE14d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xabf0d845f23cf7ee25f00f23c165acda9f096b027aed04c2f2e36ef6f1cd8897@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "VorteX Network",
+  "symbol": "VTX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD957E08ac5421E2C28510586b57d095E5094836a./ipfs/qmyipdgzj6sqr6tchjosggehdg2bedjjbngapy1wyf3wbr/bcdzlqxnfzvmtjudhwhdtut5kelsnsc96qyywmhbxenhplncwjaugbnaicryfywfbnd523v4ypbduzrteolebnbp8m",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xcfa069de9532c2c7a5ec69dad7d99beca49d63ced303b1240c8a813245952ac5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

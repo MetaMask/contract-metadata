@@ -1,0 +1,8 @@
+{
+  "name": "OnlyCalls by Virtuals",
+  "symbol": "CALLS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xAC743b05f5e590D9DB6a4192e02457838E4aF61e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xcb106b8ffaaa30c4ccebec4872bee508b50ad4da9c8f0f1bf414fd36c28df1d3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

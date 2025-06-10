@@ -1,0 +1,8 @@
+{
+  "name": "Infinity",
+  "symbol": "INF",
+  "decimals": 9,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4938a96bdde81508b58839ea6b8fb41710e3006c4e1b7ac04dcfcb8b7ff3ddb5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

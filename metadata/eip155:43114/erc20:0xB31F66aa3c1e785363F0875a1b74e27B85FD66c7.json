@@ -1,0 +1,8 @@
+{
+  "name": "Wrapped Avax",
+  "symbol": "WAVAX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xB31F66aa3c1e785363F0875a1b74e27B85FD66c7.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8410f4440cecfd915bee9d4cb2a45ee751eb9ba07b3b5ce56bbf088a72afcb61@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

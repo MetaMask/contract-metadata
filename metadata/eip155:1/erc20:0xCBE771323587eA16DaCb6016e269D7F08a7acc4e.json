@@ -1,0 +1,8 @@
+{
+  "name": "Spores Network",
+  "symbol": "SPO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xCBE771323587eA16DaCb6016e269D7F08a7acc4e./ipfs/qmt89yvdnyckirh8svbrkbrcprfn2ckiykx7hr9u4hm5zq/spo",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x22576db5203748d0b3369036ec7750899a343a8f5389d10446cece2e2b0af8de@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

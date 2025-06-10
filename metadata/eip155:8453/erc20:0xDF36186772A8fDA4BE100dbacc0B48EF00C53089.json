@@ -1,0 +1,8 @@
+{
+  "name": "Strawberry AI",
+  "symbol": "BERRY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xDF36186772A8fDA4BE100dbacc0B48EF00C53089.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7fa381dd342af57fc6f2670a736c0b33dc7ad859e0cc4fdc5037f3d01edb27a7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

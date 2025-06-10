@@ -1,0 +1,8 @@
+{
+  "name": "BuddhaJung by Virtuals",
+  "symbol": "BDJ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x1Db3def03b0fe4A602bF1acdf66916AA778b46a4.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8ebb5b122c338d0ff82db53497ef113620e2a37ca31dbc95f9ea3be12c19ff89@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

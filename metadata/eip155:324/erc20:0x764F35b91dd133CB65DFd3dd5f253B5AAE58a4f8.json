@@ -1,0 +1,8 @@
+{
+  "name": "Merchant",
+  "symbol": "MTO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x764F35b91dd133CB65DFd3dd5f253B5AAE58a4f8.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x22df452901b516068e2a181c094a7b88c591c0423687c594043cbd67b4f22663@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

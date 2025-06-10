@@ -1,0 +1,8 @@
+{
+  "name": "Synapse Network",
+  "symbol": "SNP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x6911F552842236BD9E8Ea8ddbb3fB414E2C5Fa9d./ipfs/qme6uhwafgcu8qfefqk36vp9eok3dphyegp7ucp6ua4jpa/snp",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdae0b2d3a2eb51dbda38b56588764667dacb5b5db1919c8d4680e5795f85c4a1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic South Korean Won",
+  "symbol": "sKRW",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x269895a3df4d73B077Fc823dd6dA1B95F72aaF9b./ipfs/qmphw8eab8mptnovavhgteqyaprccf5zwm4cosu7chmbyv/skrw",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1c62656bf171fb2aaeb75007d498046011ff1c430ea5d037ec10459ff28894dd@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

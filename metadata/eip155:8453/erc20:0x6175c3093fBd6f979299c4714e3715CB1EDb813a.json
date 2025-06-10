@@ -1,0 +1,8 @@
+{
+  "name": "LesGoh",
+  "symbol": "LES",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x6175c3093fBd6f979299c4714e3715CB1EDb813a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf69b92757505d5330d3bdc23d6fae79df56e6af9c78df19e658f15fdb138faca@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

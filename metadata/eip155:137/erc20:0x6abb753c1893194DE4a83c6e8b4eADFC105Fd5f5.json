@@ -1,0 +1,8 @@
+{
+  "name": "Swipe",
+  "symbol": "SXP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0x6abb753c1893194DE4a83c6e8b4eADFC105Fd5f5.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa2dc3f49cdba0e3862a2741b02e54980d0ba22e564159f95844afef3541ce325@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

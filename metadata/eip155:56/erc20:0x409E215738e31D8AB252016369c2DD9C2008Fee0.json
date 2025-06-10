@@ -1,0 +1,8 @@
+{
+  "name": "Pawthereum",
+  "symbol": "PAWTH",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x409E215738e31D8AB252016369c2DD9C2008Fee0.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf10cf6b8645d7176d8de7a1e601070150d677b1ed591122a7c36152e243ebb4a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

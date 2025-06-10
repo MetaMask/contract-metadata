@@ -1,0 +1,8 @@
+{
+  "name": "Small Doge",
+  "symbol": "SDOG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x537Edd52ebcB9f48FF2F8a28c51fCDB9D6a6E0d4./ipfs/qmp7tzvp5yr3s2axkfjaihqyecqkvw4fwmsxerzh3n2goz/sdog",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xeb4d98140ecd0e3cf9c6cd81b6cde6536ccc36971c47d806dfa40e0c17bb2db5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

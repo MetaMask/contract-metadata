@@ -1,0 +1,8 @@
+{
+  "name": "Tsuki Inu",
+  "symbol": "TKINU",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xDa23d301761e4E2BF474951f978f6DFB6F3c9F14./ipfs/qmnudruxymr4ystbqkg1182epysatnqqfwwqvw24rtnzff/tkinu",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5b38b013bf1d1d248e8c8c00304703d5a5faa22c309341e5669ae90e53d2f8db@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

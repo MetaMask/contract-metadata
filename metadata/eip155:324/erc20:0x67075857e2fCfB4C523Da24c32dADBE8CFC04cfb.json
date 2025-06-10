@@ -1,0 +1,8 @@
+{
+  "name": "AltLayer",
+  "symbol": "ALT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x67075857e2fCfB4C523Da24c32dADBE8CFC04cfb.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe582f23177d66f0f66e7a244a3c7ddde1075813076c670db778b71672bace8f6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

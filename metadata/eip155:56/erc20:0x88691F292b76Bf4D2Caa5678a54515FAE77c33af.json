@@ -1,0 +1,8 @@
+{
+  "name": "Xpense",
+  "symbol": "XPE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x88691F292b76Bf4D2Caa5678a54515FAE77c33af.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4515a08321e28e208ce4e5a345b569a331b01dd4d9c2597cbbf9faa6b74fc973@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

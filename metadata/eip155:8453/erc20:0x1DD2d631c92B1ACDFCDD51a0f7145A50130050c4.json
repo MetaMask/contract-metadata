@@ -1,0 +1,8 @@
+{
+  "name": "AlienBase",
+  "symbol": "ALB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x1DD2d631c92B1ACDFCDD51a0f7145A50130050c4.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9fd142a7d7a72f369b84878bea592348937eced69963bcdd04c2a53445cb6e24@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

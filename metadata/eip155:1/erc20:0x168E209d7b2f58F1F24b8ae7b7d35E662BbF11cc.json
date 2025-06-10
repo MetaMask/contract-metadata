@@ -1,0 +1,8 @@
+{
+  "name": "LayerAI",
+  "symbol": "LAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x168E209d7b2f58F1F24b8ae7b7d35E662BbF11cc.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc0fa2d360e08ed2ac372b81b0448d508bbf24558fc1f310466def79e3ee067de@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Venus CAKE",
+  "symbol": "vCAKE",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x86ac3974e2Bd0D60825230fa6f355fF11409dF5c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfdc2b03f221b53f428da788f42bafd81a3ad78d656e37d3d97c78813e62b4930@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "ZPER",
+  "symbol": "ZPR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB5b8F5616fe42D5CECa3E87f3fddBDD8F496d760./ipfs/qmyvnvxk7dmtfdbuqnvyjmavfd2wfybxxr32l1cpuxcdnr/bcdwp86dcmvfbcozcsvit4haptpee1c6q5pb4kvvgvuhzfabpcfptu4rywbswa6gkhgrnchpbejajq2ygff5xtz35r",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1bb0934ea2daf49f9f742988515d02377e1d3cd571fe938d85535f9fc98c25f1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

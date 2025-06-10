@@ -1,0 +1,8 @@
+{
+  "name": "IAMAI by Virtuals",
+  "symbol": "IAMAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xC3D64ee7056CfD33C8382679773f8D6277E5c2c9.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xeadeaba17da490916ddbc368c4767198dbdbe820553752a3a4f27a57f5871801@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

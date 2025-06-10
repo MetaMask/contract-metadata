@@ -1,0 +1,8 @@
+{
+  "name": "Agent Humpty Dumpty",
+  "symbol": "AHD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x313F2cddcdc74747C18D2F529ec9C087860198ed.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4cd17946fc35fee3003893f032a6c82358910b666dc95f3782c3fd3f2d5b8cdb@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

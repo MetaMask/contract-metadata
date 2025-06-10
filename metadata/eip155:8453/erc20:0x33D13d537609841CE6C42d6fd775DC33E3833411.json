@@ -1,0 +1,8 @@
+{
+  "name": "Oaks",
+  "symbol": "OAKS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x33D13d537609841CE6C42d6fd775DC33E3833411.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x719ea3ebf51c87fb144901f73c9089f9805dcebbfcf874c9ee081f4bffdaa529@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Shoobadookie",
+  "symbol": "DOOK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x461EE40928677644B8195662ab91BCDAAE6EF105.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x85062bfa071d179df6d412a89a7dbd630b9dc74dd0b11463262c4fe0525d3500@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "APX",
+  "symbol": "APX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x78F5d389f5cdCCFC41594abab4B0eD02F31398b3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xff364693b5ff73d6107097341eadbcdb3c1375b1fce37b4fbf8d1de9dba1c9d3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

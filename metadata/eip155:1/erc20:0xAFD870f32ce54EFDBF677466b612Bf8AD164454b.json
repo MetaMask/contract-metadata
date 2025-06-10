@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Inverse Binance Coin",
+  "symbol": "iBNB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xAFD870f32ce54EFDBF677466b612Bf8AD164454b./ipfs/qmt6dduzqj4yicforgugxokczvvxhp2qizq4a4jshw7bzd/ibnb",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb580f9cdcc070c07b6e620936421f8cbb7948d2dd25fd66264e48549587fef9a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

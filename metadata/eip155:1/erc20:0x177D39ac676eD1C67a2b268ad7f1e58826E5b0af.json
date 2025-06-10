@@ -1,0 +1,8 @@
+{
+  "name": "Blox",
+  "symbol": "CDT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x177D39ac676eD1C67a2b268ad7f1e58826E5b0af./ipfs/qmf3ghndaz3pjunmefdd6gy6f3vhcxrzkdv2rtpdwru1m9/cdt",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4e0ea45daa02d6d2bb88b08e6d81a90129e58cccdd3b27f19ca41f94318f9b5b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

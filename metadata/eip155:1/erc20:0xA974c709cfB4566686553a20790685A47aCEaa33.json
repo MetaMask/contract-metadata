@@ -1,0 +1,8 @@
+{
+  "name": "Mixin",
+  "symbol": "XIN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA974c709cfB4566686553a20790685A47aCEaa33./ipfs/qmy5x1nwsskt4pnh4nzadmpjbxnelhsgyrusadkywi3swd/bccxzjetx2qqihwjgjrtfqzgyn8r23qpy5z7ujqa2jplr9qvgwkyza1sypwuv9fhv9su3so67sdkyx7ttzygxd3xvn",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe3aece57c1a1f8a15689dd8111492c5e7d9901f22ea14adec2b1df7ab3b43bde@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

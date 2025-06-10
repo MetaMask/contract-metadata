@@ -1,0 +1,8 @@
+{
+  "name": "Tierion",
+  "symbol": "TNT",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x08F5a9235b08173B7569F83645d2C7FB55E8ccd8./ipfs/qmc6lpnt767ncssvzgy4ts3chxtjhseqy2bstblrmuigrl/bcdzmcuzqypxphukrmkj6qz2eryacdmk9hz5q3ebr5vsgboytxt1d55waqnyr8am3dgxnw4etj5euguychphsmqsxv",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc05b63ce4060cc78bfeeb5f355b6021a1858745145b3b5256dced3d2edd06313@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "0xBitcoin",
+  "symbol": "0xBTC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xFEa352c0d005A1E4AC7E092ef14fCA18B8E6c8fd.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x286d087d50d9703615363d87d366d9eebb803c78fed96a7d80e011d4566b7010@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

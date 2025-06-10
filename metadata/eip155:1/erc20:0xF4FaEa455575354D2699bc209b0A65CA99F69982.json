@@ -1,0 +1,8 @@
+{
+  "name": "No BS Crypto",
+  "symbol": "NOBS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF4FaEa455575354D2699bc209b0A65CA99F69982./ipfs/qmp9wuppj85nkxrvjjau34sz5vzm872qpetwnpsfvabqqb/bcd1xbprmf7mrpnsdbrmdusrqujh3ghhvdk8makymjeutuvzjheltn53cbs7fpuoikm7g2v7prjxytdwytrszproj3",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2f4c18e331dc7b7c877d4bdde5ced3437a266706e6dc258ccf8d4b12a4534ea2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

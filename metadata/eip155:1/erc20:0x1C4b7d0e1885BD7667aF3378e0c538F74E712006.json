@@ -1,0 +1,8 @@
+{
+  "name": "Playgroundz",
+  "symbol": "IOG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1C4b7d0e1885BD7667aF3378e0c538F74E712006./ipfs/qmah31tvvjjxvtwj52owegmjuj8n47yxz6xqbjzyzs97hn/bcdybglpeajwaenjoe6q5nbki1bug7owjbxxujb8mjf6tg5ybedtnznmpvezbe5masctbjuqcahgzujpmmy7xjn9xq",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xeb09baef8cc853e516b49bfb9b0a21377fafaa812fcc3dd9272de72e862bb36e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

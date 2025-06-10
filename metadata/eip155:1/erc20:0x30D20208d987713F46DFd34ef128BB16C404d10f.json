@@ -1,0 +1,8 @@
+{
+  "name": "Stader",
+  "symbol": "SD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x30D20208d987713F46DFd34ef128BB16C404d10f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x16615ea77e7507394ed3d837769f1baf84a09e4001ed03dabc1b36895890cf07@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

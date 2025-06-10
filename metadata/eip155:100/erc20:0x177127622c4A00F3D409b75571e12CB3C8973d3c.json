@@ -1,0 +1,8 @@
+{
+  "name": "CoW Protocol",
+  "symbol": "COW",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:100/erc20:0x177127622c4A00F3D409b75571e12CB3C8973d3c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1ba428641a1371eb68af5aabf5931e44ecfb09af3dd94f58556cfe7017dfc2a4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

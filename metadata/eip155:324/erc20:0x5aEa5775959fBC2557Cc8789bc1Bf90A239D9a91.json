@@ -1,0 +1,8 @@
+{
+  "name": "Wrapped Ether",
+  "symbol": "WETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x5aEa5775959fBC2557Cc8789bc1Bf90A239D9a91.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x620804f1e5a12705d467e5b8568a83bdd0b15db1a4f4e9f2f2bb609469b377fc@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

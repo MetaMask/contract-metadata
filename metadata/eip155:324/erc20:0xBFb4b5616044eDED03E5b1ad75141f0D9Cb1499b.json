@@ -1,0 +1,8 @@
+{
+  "name": "zkDoge",
+  "symbol": "ZKDOGE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xBFb4b5616044eDED03E5b1ad75141f0D9Cb1499b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb3aaeb4e6088dc9d5e7730aa03dd22f339ba7ae191feb413912d426d1bef1eea@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

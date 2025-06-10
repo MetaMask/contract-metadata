@@ -1,0 +1,8 @@
+{
+  "name": "EUROe Stablecoin",
+  "symbol": "EUROe",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x820802fa8A99901F52E39acd21177B0BE6EE2974./ipfs/qmfrb5p8uxxbefneqrpqo9nhechqkulhyc9ctfp7emsx2x/euroe",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x23a9e6536a7d82067ed45c6eb2aa7176b3bdf9202877e1ed75524a6f10f038ac@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

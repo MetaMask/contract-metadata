@@ -1,0 +1,8 @@
+{
+  "name": "Fautor",
+  "symbol": "FTR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD6C7bb8531295E88D364Ea67d5d1ACC7D3F87454.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6f060604bd4bd889c4a000e488af9922e20360329217ec963349894b9d240bc6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

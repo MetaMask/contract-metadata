@@ -1,0 +1,8 @@
+{
+  "name": "Swarm",
+  "symbol": "BZZ",
+  "decimals": 16,
+  "erc20": true,
+  "logo": "./icons/eip155:100/erc20:0xDBF3Ea6f5bee45C02255b2c26A16f300502F68da.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2635388d4b4ece7ecfe6c8d8c0d1295eafbff2bffa4470b45f244b35a1bdd47a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

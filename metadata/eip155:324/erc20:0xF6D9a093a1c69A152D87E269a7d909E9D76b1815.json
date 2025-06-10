@@ -1,0 +1,8 @@
+{
+  "name": "Superlauncher",
+  "symbol": "LAUNCH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xF6D9a093a1c69A152D87E269a7d909E9D76b1815.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x575a0fbbad460efc4dfdecd6242e37890c64c7916e98268eab2987c096d390fc@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

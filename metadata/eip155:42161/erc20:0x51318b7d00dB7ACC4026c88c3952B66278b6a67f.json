@@ -1,0 +1,8 @@
+{
+  "name": "PlutusDAO",
+  "symbol": "PLS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0x51318b7d00dB7ACC4026c88c3952B66278b6a67f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd4faa9a795ac5f989432ee7d0ef7eb09fc1ec1e431c0d099b75f521a501391c9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

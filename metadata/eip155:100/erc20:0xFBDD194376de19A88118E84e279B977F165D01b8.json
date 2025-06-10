@@ -1,0 +1,8 @@
+{
+  "name": "DeHive",
+  "symbol": "DHV",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:100/erc20:0xFBDD194376de19A88118E84e279B977F165D01b8.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xaa2e70eaa5c10b42d154c7e83c4569426e1aaacbba75e34a47cce74629f56bce@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

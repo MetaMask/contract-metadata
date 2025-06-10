@@ -1,0 +1,8 @@
+{
+  "name": "Chainflip",
+  "symbol": "FLIP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x826180541412D574CF1336d22c0C0A287822678a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x070928a74f8ce0f8e14abfec1d282ff5030a027650f71b9f7f04db8b1026d680@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

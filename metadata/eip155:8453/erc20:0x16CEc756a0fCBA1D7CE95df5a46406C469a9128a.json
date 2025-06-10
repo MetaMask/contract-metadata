@@ -1,0 +1,8 @@
+{
+  "name": "Awkward Monkey",
+  "symbol": "AWK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x16CEc756a0fCBA1D7CE95df5a46406C469a9128a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb5c57bfdf3683f7ee88f7b56342aa0323d3b25441d7be6226e22a5683791ed62@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

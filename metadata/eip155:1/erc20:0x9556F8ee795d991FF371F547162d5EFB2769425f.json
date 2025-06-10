@@ -1,0 +1,8 @@
+{
+  "name": "DMme",
+  "symbol": "DMME",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9556F8ee795d991FF371F547162d5EFB2769425f./ipfs/qmnsujq3xveaefdoviakb2ff7nohkppdudftwrcxxthbyj/bcd3dplzrjdyu7bggdpu7yzgkqtskdckulpm1kwbt8n1vxis5j3xhdfztcnvsmkcgrbwhubzcz4vmtv1s1fkc7hmel",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe7a36ee846673b73134a03d16ff17c91b681c35820532574c80bc4dbd478e55d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

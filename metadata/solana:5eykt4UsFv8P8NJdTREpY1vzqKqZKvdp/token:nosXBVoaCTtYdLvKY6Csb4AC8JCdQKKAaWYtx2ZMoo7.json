@@ -1,0 +1,8 @@
+{
+  "name": "Nosana",
+  "symbol": "NOS",
+  "decimals": 6,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:nosXBVoaCTtYdLvKY6Csb4AC8JCdQKKAaWYtx2ZMoo7.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6f8fb8b3180fd4dca49444f9e99c91785f7aafec99f306610cd3ebf5f2d99320@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

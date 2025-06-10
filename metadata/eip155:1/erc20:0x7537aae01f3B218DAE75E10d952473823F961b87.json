@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Apple",
+  "symbol": "sAAPL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x7537aae01f3B218DAE75E10d952473823F961b87./ipfs/qmnvuhangycdnunwnujkwebqnqa9jvkdq4pkqjlyvvwdzc/saapl",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1ec7d4eb842cc156037b2b7932effad54e1bde49e5b8eac92a4faa8a4cf3aaa6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

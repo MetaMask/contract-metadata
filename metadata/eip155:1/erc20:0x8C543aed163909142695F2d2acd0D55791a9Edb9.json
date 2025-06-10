@@ -1,0 +1,8 @@
+{
+  "name": "Velas",
+  "symbol": "VLX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x8C543aed163909142695F2d2acd0D55791a9Edb9.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x010fa79c9c4ceeca6cbc4e715b7f1c1438974261eff876783b4f71d7d03ffca8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

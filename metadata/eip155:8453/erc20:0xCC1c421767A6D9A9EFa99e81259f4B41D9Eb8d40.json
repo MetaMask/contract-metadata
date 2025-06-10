@@ -1,0 +1,8 @@
+{
+  "name": "Raoni by Virtuals",
+  "symbol": "RAONI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xCC1c421767A6D9A9EFa99e81259f4B41D9Eb8d40.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x67f14209b98b4cf522ab07f91ee7ba2f359b204802b3651da7da95395a042c83@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

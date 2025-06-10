@@ -1,0 +1,8 @@
+{
+  "name": "BENQI",
+  "symbol": "QI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x8729438eb15e2C8B576Fcc6aecdA6A148776c0f5.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb760f48fc0ff5cb9780566c8ec1b570ed8181218cbecd1f85c8119d266e5bd93@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

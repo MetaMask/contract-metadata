@@ -1,0 +1,8 @@
+{
+  "name": "wTBT Pool",
+  "symbol": "wTBT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xD90764041dA2720396863836e9f78DDAEE140533.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4333053e6ad0cc06c0b41853ba78db09eb6f82cecede0682c67c9702e9553260@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

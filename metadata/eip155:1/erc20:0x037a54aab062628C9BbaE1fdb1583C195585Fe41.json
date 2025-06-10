@@ -1,0 +1,8 @@
+{
+  "name": "LCX",
+  "symbol": "LCX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x037a54aab062628C9BbaE1fdb1583C195585Fe41./ipfs/qmcmb4m6z4ddgkulv9evfsbm5xk3ppuwhwyqurde2dkart/bcd5xra2loapdnr3kcd4nhs93olyrstdtvyli3c1whk9vlkhpu2tgcjkm3i91hw3lnxdsasztefjnq51z35tmtlv6v",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf7e7e42a8f79cde795455221cdcfeff5322da3308a150ef25b4c0e068a71d594@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Japanese Yen",
+  "symbol": "sJPY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF6b1c627e95BfC3C1B4c9b825A032fF0FBF3E07d./ipfs/qmnwgh8dyvzzuqrvy84r1fvgsqpbdn1g2wwgx3wh5trbf7/sjpy",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x828695c351603abf5e8f682db059f9df8cf592700e9227067aa0f13d41d6f85e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

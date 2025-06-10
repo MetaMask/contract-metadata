@@ -1,0 +1,8 @@
+{
+  "name": "Space Monkey",
+  "symbol": "SPMK",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x51D3E4c0b2c83E62F5D517d250B3e856897D2052./ipfs/qmrgkdttt6t4jfen8p9dhfzka53maljsx8vnvk2qvmrm3v/spmk",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0a0ec652f551031f10a9fd4fc680fb2b5ec0025b17179ecbdfb03746cbd35b09@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

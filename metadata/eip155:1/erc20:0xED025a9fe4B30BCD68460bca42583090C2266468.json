@@ -1,0 +1,8 @@
+{
+  "name": "Ripio Coin",
+  "symbol": "RPC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xED025a9fe4B30BCD68460bca42583090C2266468./ipfs/qmbrapmtbn23rihrnbzhqtpbg9fqrfzs92fujmvnw6vukd/rpc",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xce327303181dadbca43a16e95f293d22aed4babe8c84853c742736cc27724be4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

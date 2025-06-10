@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Nikkei 225 Index",
+  "symbol": "sNIKKEI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x757DE3ac6b830A931EF178c6634C5C551773155c./ipfs/qmavsnddp9qwuftpbcrueo5pkdpguhs84hq5ae9gztp9xk/snikkei",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x702ce23ff1e9653b9e9bd71c0f997a43036c6e9974eeaedfd18d12646d033469@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "EURC",
+  "symbol": "EURC",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xC891Eb4cbdeff6E073E859e987815ED1505c2acd.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x57d6240b9ef14faa0e7b393eeb46449cc358a97ef5da9bad0aa1ed2242a1867f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

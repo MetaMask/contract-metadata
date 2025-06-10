@@ -1,0 +1,8 @@
+{
+  "name": "DFX Finance",
+  "symbol": "DFX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x888888435fde8E7D4C54cab67f206E4199454c60./ipfs/qmnadishckgu44gcsmgpxebzpm6ajxiohugtafxyrtubot/dfx",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9be55728d1304089cc0f1a70d74bd96fe8dd1eee0575bf3693b234152cb6926d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Lition",
+  "symbol": "LIT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x763Fa6806e1ACf68130D2d0f0df754C93CC546b2./ipfs/qmccukkvqgfevnv3ubhsgsxxdaqc1uvet38qx7cmqwn4wr/bcd8h4kb3dyq9mnwc3qkzyffxfh7ym6tfck8x51kxutogrpqh5uh87o5c25tmpsvfzt9i4mjps4scpjduuya5tsu5i",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbf122055d3b1c3dc7ad4d011536a263e24d466f4af613f49ae69f49df04c01cd@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

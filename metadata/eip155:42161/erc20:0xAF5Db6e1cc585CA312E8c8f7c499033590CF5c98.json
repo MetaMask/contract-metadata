@@ -1,0 +1,8 @@
+{
+  "name": "Arken Finance",
+  "symbol": "ARKEN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0xAF5Db6e1cc585CA312E8c8f7c499033590CF5c98.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x20e7d3179573b491356d1ae57fe32078a6dd9f911771003834d95b45b2d94aba@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

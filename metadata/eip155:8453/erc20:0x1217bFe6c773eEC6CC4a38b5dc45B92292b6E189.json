@@ -1,0 +1,8 @@
+{
+  "name": "OpenUSDT",
+  "symbol": "oUSDT",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x1217bFe6c773eEC6CC4a38b5dc45B92292b6E189.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x83fc0999f45b768595a24e19049446d9e0693b4b97206091b605d8c5c01ec82a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

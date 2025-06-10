@@ -1,0 +1,8 @@
+{
+  "name": "Skychain",
+  "symbol": "SKCH",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x70C621f949B6556C4545707a2d5d73A776b98359./ipfs/qmso7yhwezymgrqvyapcqphz9i8zxridm3vd7mi69jbzhz/bcczn5g1fcwochvxjes7h7epldarytex3e3xsws2eu4bvcm33k9phyc9srxfwessdflqq68t54cvurdsnk5bad9rnc",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc9a08025b32d6c9b2c2e2af17eac6baf96539927ad0ac5c2114691e2fc69fa91@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

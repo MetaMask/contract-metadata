@@ -1,0 +1,8 @@
+{
+  "name": "Fried Chicken",
+  "symbol": "FCKN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x7D12aeb5d96d221071D176980d23C213D88D9998.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe4a492c60c42244663cc1a0864e7e8ecf5f9ecd1d69c8342037c3c56dd50257c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

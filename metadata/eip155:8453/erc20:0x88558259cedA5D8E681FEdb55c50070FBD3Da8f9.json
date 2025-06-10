@@ -1,0 +1,8 @@
+{
+  "name": "MST",
+  "symbol": "MST",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x88558259cedA5D8E681FEdb55c50070FBD3Da8f9.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x092fbca14948cd2c0822d3b019d549d32c209270b8fb90f40154f592025fe86e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Kitty Inu",
+  "symbol": "KITTY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xE9872599b3f4D592C62a8d5297565B1B7BCF68ed.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x78b2127271d1bc453c1dd24dfb784f91e1aab616e81725938629bc6fb271a338@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

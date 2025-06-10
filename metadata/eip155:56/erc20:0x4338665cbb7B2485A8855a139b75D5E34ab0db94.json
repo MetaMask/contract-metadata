@@ -1,0 +1,8 @@
+{
+  "name": "Litecoin",
+  "symbol": "LTC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x4338665cbb7B2485A8855a139b75D5E34ab0db94.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc6465be5e2175008ea20b556623fb423ab59e82def1f0c50b7b46cb7da0cc933@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

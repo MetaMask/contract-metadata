@@ -1,0 +1,8 @@
+{
+  "name": "Voice",
+  "symbol": "VOICE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x0F360a4d9c845D444C0174b80fd2eE41415F6a68.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x221f1e6c465cd2a255c76681cbf5c97a3d30b4da3c1886ecd8a8b10a4876d3a4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

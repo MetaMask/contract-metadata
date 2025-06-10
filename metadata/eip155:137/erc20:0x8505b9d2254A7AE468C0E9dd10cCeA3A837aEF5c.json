@@ -1,0 +1,8 @@
+{
+  "name": "Compound",
+  "symbol": "COMP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0x8505b9d2254A7AE468C0E9dd10cCeA3A837aEF5c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xaee39dd1a893de147b45092576d21041362eced923c64727d2213047bb6176de@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

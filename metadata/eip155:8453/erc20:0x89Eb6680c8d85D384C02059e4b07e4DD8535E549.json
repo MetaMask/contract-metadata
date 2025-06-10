@@ -1,0 +1,8 @@
+{
+  "name": "CRAZY FROG",
+  "symbol": "FROG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x89Eb6680c8d85D384C02059e4b07e4DD8535E549.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1bb0e9c7ed5235e330612881c47b1a1b16a5c1da42d26745cd9eaf3f53cfa869@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Red Ponzi Gud",
+  "symbol": "RPG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xF7b084572bd638D8282F4933143A8EAC94482F28.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfa12de99da61ed1d53beed63001ef1971ca50a9cbd2c3614f8870dc3a7677a69@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

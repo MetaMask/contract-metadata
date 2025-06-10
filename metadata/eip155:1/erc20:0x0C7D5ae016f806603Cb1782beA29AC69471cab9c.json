@@ -1,0 +1,8 @@
+{
+  "name": "Bifrost",
+  "symbol": "BFC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0C7D5ae016f806603Cb1782beA29AC69471cab9c./ipfs/qmdpg24qwskvujbykyaaqnrt5yhgtohza8r1hrpwav6xu3/bfc",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xea63cb791217bdc839333cb8f8ebd3c78395911058eeb7757283518ecd287018@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

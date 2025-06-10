@@ -1,0 +1,8 @@
+{
+  "name": "WhiteRockCasino",
+  "symbol": "WRC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x7C9D8Fb3bde3D9EA6E89170618c2DC3D16695d36./ipfs/qmtf4nu4sp5danioe9ru3uflbs5v8khq7xtqj52eytkhrz/wrc",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7f293b449d69ed29108756e28d94292508769544814284ee9cab4520b112fbd1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

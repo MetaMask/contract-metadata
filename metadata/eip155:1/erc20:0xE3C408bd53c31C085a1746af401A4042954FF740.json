@@ -1,0 +1,8 @@
+{
+  "name": "STEPN",
+  "symbol": "GMT",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xE3C408bd53c31C085a1746af401A4042954FF740.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0d6e495308d6f545b92b93d9ff1c50f4279255203b8a7180f0e97049d0e41386@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

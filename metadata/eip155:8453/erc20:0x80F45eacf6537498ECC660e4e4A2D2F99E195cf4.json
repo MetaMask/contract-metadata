@@ -1,0 +1,8 @@
+{
+  "name": "Pepe",
+  "symbol": "PEPE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x80F45eacf6537498ECC660e4e4A2D2F99E195cf4.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd71fe003628b69d5548e927ba3dbb1e8141d11569878d838b15479886436d080@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

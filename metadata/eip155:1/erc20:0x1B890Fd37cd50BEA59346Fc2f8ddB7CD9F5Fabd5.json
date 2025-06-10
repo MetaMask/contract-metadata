@@ -1,0 +1,8 @@
+{
+  "name": "New Order",
+  "symbol": "NEWO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1B890Fd37cd50BEA59346Fc2f8ddB7CD9F5Fabd5./ipfs/qmqcfgjdtttzchkpnbs3zumz1qv39a1na34q762yjrm1u4/newo",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa44d9e26f1e5ae5da63abb5955c4b0dc15df282cb31ea88668906e9c8b19d215@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

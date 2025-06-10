@@ -1,0 +1,8 @@
+{
+  "name": "FinNexus",
+  "symbol": "FNX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xEF9cd7882c067686691b6Ff49e650B43AFbbcc6b./ipfs/qmz5pp4z3fjrbxeq5rh9jtldvevnsyg4edkvsrjcpsuf5k/bccxycwpwxxiiuy4fms17sq3k3qycei4t3exoc54jsua8xsbnsjpywu1ba51dsfp9pe6tzdeuwzpkkbj5dlog6g8ss",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb5d30efc60e98992ae00705b9ca75fc2a8c7a263b67e20fb45a49b43ce31d80d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

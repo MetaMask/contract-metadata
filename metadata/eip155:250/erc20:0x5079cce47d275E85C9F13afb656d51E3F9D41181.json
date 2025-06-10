@@ -1,0 +1,8 @@
+{
+  "name": "JEFE",
+  "symbol": "JEFE",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:250/erc20:0x5079cce47d275E85C9F13afb656d51E3F9D41181.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7611cee77494aa13f9ac3bc489adcd49aa0a8a9253793d6460af893552efc1dc@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

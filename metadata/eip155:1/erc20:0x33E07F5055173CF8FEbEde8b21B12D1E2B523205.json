@@ -1,0 +1,8 @@
+{
+  "name": "Etherland",
+  "symbol": "ELAND",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x33E07F5055173CF8FEbEde8b21B12D1E2B523205./ipfs/qmxtupmihndohbldqcvyxcgubyfe6aqascdza8qjnd2err/eland",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xaafe6702bab9042791b625d2b12b87f3a95f1d6f16e9709430a525703853c34b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

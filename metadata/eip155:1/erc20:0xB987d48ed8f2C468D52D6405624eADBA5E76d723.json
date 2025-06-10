@@ -1,0 +1,8 @@
+{
+  "name": "Stabilize",
+  "symbol": "STBZ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB987d48ed8f2C468D52D6405624eADBA5E76d723./ipfs/qmvupxfynqtz2gni3rq1tugcbydvoxejwuxghyuwqadxtv/bcd8usnrydno4wmjfp1xh6tjoodmvqhcxgvsxy8ccmhcjeyejsbjt9zyczaweumbmi34gh1ukuyapkkiylxar3tfre",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb1be4e67485ce9fbecfc161544a9f2ee8aeaa546ae9114db2716849757992b69@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

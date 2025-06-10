@@ -1,0 +1,8 @@
+{
+  "name": "Gravita Protocol",
+  "symbol": "GRAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x15F74458ae0BfDAA1a96ca1aa779D715CC1EEFe4.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa33b9827d28115b5009bb459e81f1a1f87d127d133762bc83db0df93ecc33cb9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

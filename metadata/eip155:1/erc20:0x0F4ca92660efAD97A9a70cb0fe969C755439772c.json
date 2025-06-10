@@ -1,0 +1,8 @@
+{
+  "name": "Leverj",
+  "symbol": "LEV",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0F4ca92660efAD97A9a70cb0fe969C755439772c./ipfs/qmdxxzsoih1jemdu5hbsydmnnwset2jthyctaacczhmwkm/bcd2tivhhdwsj5uaa46rwfmffndkqrs7hch8gpwj2if22j5m4jsch6ubjuf3yuqmqtc8dskrj2iuy65ykq8f4qrgpg",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xcb4c444b8c18b4e996368c496a3ddce175ef83ffeec6e6b2d2279e81b0158c52@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

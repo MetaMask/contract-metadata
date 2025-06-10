@@ -1,0 +1,8 @@
+{
+  "name": "Doge Killer",
+  "symbol": "LEASH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x27C70cd1946795B66BE9d954418546998B546634.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa3a603ea1d6d47b8ffa02f56b2c03ab723ad89865b86a0ece9ef17d0a8d7186f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

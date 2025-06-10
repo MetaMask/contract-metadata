@@ -1,0 +1,8 @@
+{
+  "name": "Based Street Bets",
+  "symbol": "BSB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x8a24d7260cd02D3DFD8EEFb66bc17AD4B17D494c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x986cd708665c33a8546a02a3a2f2d3280442e85664ee09d07a6bf1fef96d9990@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

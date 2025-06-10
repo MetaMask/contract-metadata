@@ -1,0 +1,8 @@
+{
+  "name": "Router Protocol",
+  "symbol": "ROUTE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0x16EccFdbb4ee1A85A33F3a9b21175CD7AE753db4.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x50ed5b93ce5867f9b9a2ee7f9c3df15d736e366b6856d38d9e4068b60373b440@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

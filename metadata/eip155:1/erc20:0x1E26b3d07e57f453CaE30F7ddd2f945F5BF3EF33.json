@@ -1,0 +1,8 @@
+{
+  "name": "ClearCoin",
+  "symbol": "XCLR",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1E26b3d07e57f453CaE30F7ddd2f945F5BF3EF33./ipfs/qmshvnxnnza52i42a8p8sztkcmckn9ygnm1792wghv6hut/bccz8wtunsahusemtenz63lt4e7xekf1enxoxkcrnxfzj4dgizetsucm5rkkbpwvcla3zveduut9ahdncgn75xpnlc",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb3c107cebfd07a4802225aaf9943be941f9fdc3ab7ce5b0eb202e828e07ad8e2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Bounty0x",
+  "symbol": "BNTY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD2D6158683Aee4CC838067727209A0AAF4359de3./ipfs/qmfxqpgl6fbczeyx3jta92bn137le5jgjgqvbmhqmtyqwy/bccz8gbsc8hqnekqjgvpfh22wzmsm64or3ie8y5aulgqsx69uvkt9sgarjej2gu8xfcntkycuztycpfmzysyxqifu6",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5cb7f1b4f36c5ad145ea44bc2ed088c4c7fe0dd24a6972825e1404c9cbf20a3a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

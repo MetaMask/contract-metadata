@@ -1,0 +1,8 @@
+{
+  "name": "BaseBearCute",
+  "symbol": "BBQ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x41a22eb30df65D6AB0CE0b4cfe8f4E0EB306d471.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x100a393a9b097ac1840c33935b6e388eaff7cbbe535d320503773b50f0cf2af6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "PUNK Vault",
+  "symbol": "PUNK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x269616d549d7e8EAA82DFb17028d0B212D11232a./ipfs/qmxvtku7cbnyj6jf4dehjqk72zyrjbgziulrtwmgwvj3qw/punk",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf92e78fc966e8797fd618f16547f26febd9a66659c979d54e1f881bbb65218a7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

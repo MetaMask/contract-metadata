@@ -1,0 +1,8 @@
+{
+  "name": "S.Finance",
+  "symbol": "SFG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x8a6aca71a218301C7081d4e96d64292D3B275ce0./ipfs/qmd7y5bsxkpzutb5ecst3dubpxel1aykwbgxrnxk6k8x9t/bcdz9rhikwrvxgnzgskpmqa7mtomg3od4uql1ru9kbztfuhqvvffu1y9sdpdxvaucbkky7r5q2rayauiprkg2yev4p",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4c02a11c46e75b6db139df409660fc4767f010303c0f3bd4b4498e785045aea8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

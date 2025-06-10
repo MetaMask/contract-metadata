@@ -1,0 +1,8 @@
+{
+  "name": "Paladin",
+  "symbol": "PAL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x224114c444e3C3D936532Fe08351648700570909.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1f5fe23faea038382f1606fa0bf823f304ff34f14946a38ff240e1a2df67b540@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

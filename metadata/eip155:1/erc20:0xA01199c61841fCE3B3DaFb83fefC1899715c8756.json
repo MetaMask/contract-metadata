@@ -1,0 +1,8 @@
+{
+  "name": "Cirus",
+  "symbol": "CIRUS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA01199c61841fCE3B3DaFb83fefC1899715c8756./ipfs/qmnu8lepkdjzial7b6jrebj7gw3zhsdala4pg61yqfyxsp/cirus",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc67060ecb6d18152d33509549a7ce4adfedda8e9541080b0b4deff3c727ca72d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

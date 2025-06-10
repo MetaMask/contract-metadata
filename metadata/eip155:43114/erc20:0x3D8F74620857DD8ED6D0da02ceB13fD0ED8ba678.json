@@ -1,0 +1,8 @@
+{
+  "name": "OnX Finance",
+  "symbol": "ONX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x3D8F74620857DD8ED6D0da02ceB13fD0ED8ba678.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1b3223ac205fbc77a221aebf1ecec200582c23c95c7efe6c6b5df81b3c789c6f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Schain Wallet",
+  "symbol": "SCHA",
+  "decimals": 0,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x2CaD4991f62fC6FCD8Ec219f37e7DE52B688b75a./ipfs/qmvn2ymbbbtsqyvrwsyagnb5wk8raxmvbpxr91w3eylslq/bcd787z6cmal3wjmgpj18nweztfahpdexvayxajtqsxwj3sdgnox4lyzhrecvjkxbjivpvhzi1njbdtrpcngrufwx1",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x603e9d6e377f5703c5a43a9e90b57de3ac3fbf6f83a04095184b488cee7298c5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

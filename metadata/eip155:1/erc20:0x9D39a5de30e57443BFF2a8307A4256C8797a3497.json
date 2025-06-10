@@ -1,0 +1,8 @@
+{
+  "name": "Ethena Staked USDe",
+  "symbol": "sUSDe",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9D39a5de30e57443BFF2a8307A4256C8797a3497.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7c36d5456ab532d9f553b078c60f45dfb97c6088f908c9f4c70ab9ffac74f1be@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

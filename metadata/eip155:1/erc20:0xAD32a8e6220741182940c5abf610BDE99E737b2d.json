@@ -1,0 +1,8 @@
+{
+  "name": "PieDAO DOUGH v2",
+  "symbol": "DOUGH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xAD32a8e6220741182940c5abf610BDE99E737b2d./ipfs/qmdtaq4nbzskvfsartvhxnbqy9n5kkbzcp3q5lx9namfam/bcd4nhed5xgqrg7cyamg5pvzp5qap44uosj2nuqt7eq53ujuwkazuqz3prckekcrt17so6cknuhub2hfsfrnhhdwng",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf6d90c163d455e071453c408065ec98c6b5accbe6f8a1b2190611ab625a601f1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

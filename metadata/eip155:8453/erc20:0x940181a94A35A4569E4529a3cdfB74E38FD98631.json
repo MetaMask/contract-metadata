@@ -1,0 +1,8 @@
+{
+  "name": "Aerodrome Finance",
+  "symbol": "AERO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x940181a94A35A4569E4529a3cdfB74E38FD98631.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x489df026aac317ffed32a2475878f7d604f52a9654a02d126e86ad9a592f0c59@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

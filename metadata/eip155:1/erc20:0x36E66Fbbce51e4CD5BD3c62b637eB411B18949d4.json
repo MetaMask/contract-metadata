@@ -1,0 +1,8 @@
+{
+  "name": "Omni Network",
+  "symbol": "OMNI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x36E66Fbbce51e4CD5BD3c62b637eB411B18949d4.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4101208582b08143a5384c01534601e027338d98fc3ec8d63e30ce1c52dec637@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

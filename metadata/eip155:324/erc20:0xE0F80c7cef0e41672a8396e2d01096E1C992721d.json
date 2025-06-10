@@ -1,0 +1,8 @@
+{
+  "name": "Simple Asymmetry ETH",
+  "symbol": "safETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xE0F80c7cef0e41672a8396e2d01096E1C992721d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x77a2b91fbf997e6ddc6875c7469442e37d1618c35e72975c70ceb555db4a83b6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

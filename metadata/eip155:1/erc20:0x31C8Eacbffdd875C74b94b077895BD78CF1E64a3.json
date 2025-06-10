@@ -1,0 +1,8 @@
+{
+  "name": "Radicle",
+  "symbol": "RAD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x31C8Eacbffdd875C74b94b077895BD78CF1E64a3./ipfs/qma9febb5gcwuthvbhud36bjlenm8twqsvjlvqwch5kzt9/rad",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9f6a27e287e0fd4f0ee2cffeb943134cbd659422fac88625b6cb19d61ba4b663@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

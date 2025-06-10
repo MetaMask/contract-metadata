@@ -1,0 +1,8 @@
+{
+  "name": "DeXe",
+  "symbol": "DEXE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x6E88056e8376AE7709496ba64d37fA2F8015ce3e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8036177c292d60e08202d897826c24a9412bf896640435c8e3f5e46682a1e035@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "OpenOcean",
+  "symbol": "OOE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0xDCbF4cb83d27C408B30Dd7f39bfCABD7176b1ba3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0434657da16e348fbf5a49e632be6823267b6b92d7b9455210429a057c8b33cc@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

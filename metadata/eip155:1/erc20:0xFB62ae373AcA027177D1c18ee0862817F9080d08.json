@@ -1,0 +1,8 @@
+{
+  "name": "My DeFi Pet",
+  "symbol": "DPET",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xFB62ae373AcA027177D1c18ee0862817F9080d08./ipfs/qmpr4u6fda5jarvvlwnwh4hhrvr8rfb9hlctqrzyjtrltg/dpet",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb2fe60262501017b4a75afc7233a0ee58d4ee9b500efa9cfa52820105c9d2be0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

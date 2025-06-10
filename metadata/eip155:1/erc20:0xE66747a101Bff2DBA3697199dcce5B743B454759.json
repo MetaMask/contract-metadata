@@ -1,0 +1,8 @@
+{
+  "name": "GateToken",
+  "symbol": "GT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xE66747a101Bff2DBA3697199dcce5B743B454759.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0571f49d446ec99eb0610f8080d3f85585336b063020803028dc97ee30553094@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

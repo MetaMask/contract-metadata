@@ -1,0 +1,8 @@
+{
+  "name": "BITToken",
+  "symbol": "BITT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9F9913853f749B3FE6D6d4e16A1CC3C1656b6d51.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0a6b89b1776c803aecf83b81701ddd8f9df2e7609353aab410cf0d3d3747e10c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "YieldFarming Index",
+  "symbol": "YFX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x8901cb2e82cC95C01E42206f8d1f417FE53E7af0.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x47b557f4127ca61a542ecd9d3f4ec48826e9c417c828eea3b8f6007805cdb201@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

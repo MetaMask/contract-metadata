@@ -1,0 +1,8 @@
+{
+  "name": "PYR",
+  "symbol": "PYR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xC67491de1b73eC8FFBF9cc440ed35DBA2C382978.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdeaff16d84b42936b439491c82ac3ddf9d1083dbce2aa8c56ac40e67bb846d5b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

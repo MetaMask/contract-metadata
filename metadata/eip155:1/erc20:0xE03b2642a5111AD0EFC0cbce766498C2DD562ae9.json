@@ -1,0 +1,8 @@
+{
+  "name": "Old Bitcoin",
+  "symbol": "BC",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xE03b2642a5111AD0EFC0cbce766498C2DD562ae9./ipfs/qmxcjs7qnbgswcqgmvu9fjotmmcaq9skb9awmsphdqkpxs/bc",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x11da1d33d4590af3b935c124f2221a8b6fa99b69af388c90561fdc076a3ded52@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

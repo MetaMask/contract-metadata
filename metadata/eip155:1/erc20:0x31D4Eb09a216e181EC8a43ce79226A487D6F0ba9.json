@@ -1,0 +1,8 @@
+{
+  "name": "USDM",
+  "symbol": "USDM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x31D4Eb09a216e181EC8a43ce79226A487D6F0ba9./ipfs/qmwyldhjyv4khzxzdaxys9as93vd1x4e3juti9xwt8gtkg/usdm",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x340226a8a96cf350c4418c89f27acf8c88f7e53c074080ccd5d14ec0cadbaa1f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

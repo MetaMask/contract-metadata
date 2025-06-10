@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Inverse TRON",
+  "symbol": "iTRX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xC5807183a9661A533Cb08cbc297594A0B864dc12./ipfs/qmx4s6aemo8tdpv4xnvrsws4dzupr5mppjzjvunc2whz7x/itrx",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6dc64fe2a24891718ac4fceda939277f78621f7f43bdd0c6a9330314b4b5a6b5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

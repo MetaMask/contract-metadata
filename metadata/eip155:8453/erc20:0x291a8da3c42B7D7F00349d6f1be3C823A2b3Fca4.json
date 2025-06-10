@@ -1,0 +1,8 @@
+{
+  "name": "Tiny Fren",
+  "symbol": "SMOL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x291a8da3c42B7D7F00349d6f1be3C823A2b3Fca4.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x576f1367a34641d05cf362d21ac0ce9a2da8efaafac5a388b5f3d2851536f59e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

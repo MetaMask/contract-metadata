@@ -1,0 +1,8 @@
+{
+  "name": "Unique Fans",
+  "symbol": "FANS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD33D0eb1c0c0295C3a2409a9101dD511823bF217./ipfs/qmuluokdh8ctcwvbsz4irqzisk1dkc4e7dknn88hdst5kw/fans",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdf22c1562b1fbf7cb97e7129448c9746f0cc6e0cafb6e996842f7755ddb1271d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

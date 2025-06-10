@@ -1,0 +1,8 @@
+{
+  "name": "Swirge",
+  "symbol": "SWG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x92EF4Ffbfe0df030837b65d7fccfe1ABD6549579./ipfs/qmezbufv3mhhiy9gtsqky3ygchfjvmss7ptff37p3qngos/bcdvsapj3m9seervfhgjx6skgrtgjo1zkstuvudmdg1qflqfnrnbnaikybyn6t96azr8rkcg4z4a4evyeewmahvchw",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0a16931e9efd26e6028f985abb75308017656fd780a1e0c38ea7fa930fa5b035@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

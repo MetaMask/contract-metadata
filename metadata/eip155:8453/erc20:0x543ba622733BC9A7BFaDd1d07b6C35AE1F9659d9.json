@@ -1,0 +1,8 @@
+{
+  "name": "BasedAndy",
+  "symbol": "ANDY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x543ba622733BC9A7BFaDd1d07b6C35AE1F9659d9.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x50375545e86ae07e80b36d8add65315640e89868397740faaa77327c4221889f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "CBDAO",
+  "symbol": "SBREE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x25377ddb16c79C93B0CbF46809c8DE8765F03Fcd./ipfs/qmwd5im2xcn9jx2bicxlhgnxwtzobd5xqqg9wugnq7pfzb/bcdxyuju76dsggyagzkgxp1yqgujwwcakfjg1qpn6cdbyahz4skwbxvfzkdnucxnkyp6xiqrzb4xtsk17pyc7yqyp4",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdc93cf89d41a8f5abf69979db8e7ec98834b587f496ed6aa2bb563f2f3401e8e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

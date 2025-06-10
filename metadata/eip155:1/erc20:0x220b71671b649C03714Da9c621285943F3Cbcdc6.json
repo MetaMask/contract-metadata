@@ -1,0 +1,8 @@
+{
+  "name": "TosDis",
+  "symbol": "DIS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x220b71671b649C03714Da9c621285943F3Cbcdc6./ipfs/qmy7gm5db5qwdgfnctpd8tuqakwensfzvac9zcm4zdruja/dis",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x277d6af2e8703816a8a1f61c127758108d818c1085b89c789ec1f257f81c7fd3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

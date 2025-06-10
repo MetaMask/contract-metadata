@@ -1,0 +1,8 @@
+{
+  "name": "Unicap.finance",
+  "symbol": "UCAP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xBaa70614c7AAfB568a93E62a98d55696BCC85dfe./ipfs/qmua1l5eadhaqtvkqs2n9e2kvbjpnk5bsxanvtrswezaxf/bccybpvaok1utbqal6bja9bt8yfcvxcujxstkrsn75h4ggtnryodt8t4dhkyvqfqnfyelhywagsavmlbk13vb8lvs6",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa024ccd0b04398ec38f361865cc1a2576137e0c1dc8e81850e47b4b1aa3c3134@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

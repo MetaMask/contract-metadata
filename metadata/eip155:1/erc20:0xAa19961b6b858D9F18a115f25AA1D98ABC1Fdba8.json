@@ -1,0 +1,8 @@
+{
+  "name": "LocalCoinSwap",
+  "symbol": "LCS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xAa19961b6b858D9F18a115f25AA1D98ABC1Fdba8./ipfs/qmwjyqlcryy54udqnrg9havwuftht758pnwsdpn6ncvb5m/bce1gno8mjtbazfdykvjqtftezp9ruvhtyl2lxy51uel7qwbrsjutzlt42hekxc3xnbuogky5cxtzrkxsefbgohi1t",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1fa74d156aaf53bf8030b844b347131649c13cfc4f348e9b5e4a92dcd1a4b232@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

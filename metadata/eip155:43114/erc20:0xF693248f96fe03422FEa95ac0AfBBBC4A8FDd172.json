@@ -1,0 +1,8 @@
+{
+  "name": "Treasure Under Sea",
+  "symbol": "TUS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xF693248f96fe03422FEa95ac0AfBBBC4A8FDd172.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdfebfd98e827e9e396f307726fca108963e0836a76e55d1ff63400c0d9642d92@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

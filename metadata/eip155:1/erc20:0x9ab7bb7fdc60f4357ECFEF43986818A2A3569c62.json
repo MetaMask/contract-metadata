@@ -1,0 +1,8 @@
+{
+  "name": "Guild of Guardians",
+  "symbol": "GOG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9ab7bb7fdc60f4357ECFEF43986818A2A3569c62.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x20793ee02f2c373f8e42f78fb3c0499a70d52c132b0a495d88a653438c1c58f8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "BarnBridge",
+  "symbol": "BOND",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0391d2021f89DC339F60FFf84546eA23E337750f./ipfs/qmvwwzc3iqivfmy1ddcmur4siezswfzrjhices6zjnzeh3/bcd69arkoqlmvik2apzzkqz5g4y68rgtnycrv4ymqsqunyjf659dtwvn7awfenrmf8uifypfra8dhcr9apwahxpp1c",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd305c98f237b399856a188262d48a7fdd43ed0894054b8ba146e5ca19b8858a0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

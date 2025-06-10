@@ -1,0 +1,8 @@
+{
+  "name": "Fei Protocol",
+  "symbol": "FEI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x956F47f50A910163D8bF957cf5846D573E7F87ca./ipfs/qmr6byzjos3es7ykzuxfstesgsxmo6rixyzep3wxwv2b8g/fei",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf543225f8cb5d231461ac3a7725c25f0000aefae2d4fb061592f53aa20b8867c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

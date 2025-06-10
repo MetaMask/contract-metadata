@@ -1,0 +1,8 @@
+{
+  "name": "GIV",
+  "symbol": "GIV",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF6537Fe0df7f0CC0985cF00792cC98249E73EFa0./ipfs/qmecqwjbedfvuqttkkhgyhhsjlqxfcjka9bxkzj6uaaign/bcdz84u2rsdkxsghdenfgxfmixsr8f6usary9b822fxdfb8s1nck4u3r5bleqa7jwzbq34agdvpu787st6hev5tmxn",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x569d48fac0cb24576e50e731ad5c23a4af45ff1d355899f82a2661a7782e575b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

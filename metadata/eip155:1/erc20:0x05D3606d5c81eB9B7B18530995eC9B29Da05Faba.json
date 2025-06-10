@@ -1,0 +1,8 @@
+{
+  "name": "TomoChain ERC-20",
+  "symbol": "TOMOE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x05D3606d5c81eB9B7B18530995eC9B29Da05Faba./ipfs/qmu6gexoh5rsec4zepsgfbbypg67ehksmtxqueytk5cnmr/bcdvehj2ndlmr4zif1cuu6lfhvxuwss7rtwjf5phzdfg8tbasawzogfbju418no62mioduvnpojhmrgxzzuglgbgma",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9bcd1d9707cc78effc506e250db5ebfcae2d8634220e602c4ba7dfe4da2990b0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

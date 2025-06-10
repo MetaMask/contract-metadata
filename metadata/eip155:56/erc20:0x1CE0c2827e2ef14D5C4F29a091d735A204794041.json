@@ -1,0 +1,8 @@
+{
+  "name": "Avalanche",
+  "symbol": "AVAX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x1CE0c2827e2ef14D5C4F29a091d735A204794041.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8c61f50b6497e2c9527399c2b5724482116825eb6d4350293e0840a21b10c60a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "L2VE",
+  "symbol": "L2VE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xA19328fb05ce6fD204D16c2a2A98f7CF434c12f4.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xefee36a14c8d28c91b856bda107d0dcecbc1f10c5620a0f829863bbca8ab7352@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

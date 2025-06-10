@@ -1,0 +1,8 @@
+{
+  "name": "Decentralized USD",
+  "symbol": "USDD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xD17479997f34DD9156DEEF8f95A52D81D265be9c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1d874438caa1aa79d10e998336249b57b4b4486065be78572fec3be077f73152@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "RoboPepe",
+  "symbol": "ROBOPEPE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x5Db4c680f66ADE9E00EF6aad187419031BCc58a8.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd135333506e87fb34d7d3d2c3dc720055ac7cb5de46a1a39e3072cbe4fc66461@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

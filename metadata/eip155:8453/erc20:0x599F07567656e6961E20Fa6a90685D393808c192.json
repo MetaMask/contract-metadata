@@ -1,0 +1,8 @@
+{
+  "name": "Department Of Government Efficiency",
+  "symbol": "D.O.G.E",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x599F07567656e6961E20Fa6a90685D393808c192.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf074de693cb0924e14c2cf39e7aa3aa4116fd3754b2a878f09f1007dc8de3f13@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "sad trombone",
+  "symbol": "WOMPWOMP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xF4FFE72af996335E0140c06f23fC6B69E257deec.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x26be3c9787f7aab15ac34e0b2b752ad2c49bd861564d7c93612adfb127e3b039@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

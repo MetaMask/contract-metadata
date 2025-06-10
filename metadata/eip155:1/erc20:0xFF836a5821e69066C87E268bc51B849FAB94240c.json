@@ -1,0 +1,8 @@
+{
+  "name": "Real Smurf Cat",
+  "symbol": "SMURFCAT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xFF836a5821e69066C87E268bc51B849FAB94240c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xcbe0bd59ba94d2c456a9252c532b02ac0cc5c0ba6c6b6cd6f344dac2927eeae3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "G-Agents AI",
+  "symbol": "GTY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xD51827754A56860F04acd1d2699B049B026a5925.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x617f47cec42c27d2296f9ab3bba3fbd39ebe67f35a13b424a20a7f5e5d1837a7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

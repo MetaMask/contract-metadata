@@ -1,0 +1,8 @@
+{
+  "name": "Curve Iron Bank Pool yVault",
+  "symbol": "yvCurve-IronBank",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x27b7b1ad7288079A66D12350c828D3C00a6F07d7./ipfs/qmbfgbsr2n1ostd3oent7agyed4xj74dblux6sxb2agc9o/yvcurve-ironbank",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1b051517336f3fd9382129b55b1215e7dee2b1d5c07591116e11570bfb0bb4a2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

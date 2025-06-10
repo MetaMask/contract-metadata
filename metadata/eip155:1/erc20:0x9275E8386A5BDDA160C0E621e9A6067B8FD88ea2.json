@@ -1,0 +1,8 @@
+{
+  "name": "Nobunaga",
+  "symbol": "NBNG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9275E8386A5BDDA160C0E621e9A6067B8FD88ea2./ipfs/qmvwndlfe7vhaqhdbymsfh1yuyvqage2dutb8xznkm9bpc/nbng",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2b9627c338c9bf9f13dc99c1028e48c96863075f1f954dc9c8c07424c8a4946f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Link3",
+  "symbol": "LINK3",
+  "decimals": 0,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x2723522702093601E6360cae665518C4F63E9da6.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8628e78da3dd19c51785dd2f87a1fbdef8382c5a6e5c5c6efb61615e357b49ff@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

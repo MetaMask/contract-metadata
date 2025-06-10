@@ -1,0 +1,8 @@
+{
+  "name": "Saitoshi by Virtuals",
+  "symbol": "SAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xCFF4429d8A323DD6B64b79a4460BeC6D531FcFa8.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa5893df380a43af28cc9c5c5ceff2aa2daa241ac90a43272c55b11b263f7131f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

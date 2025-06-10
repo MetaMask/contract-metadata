@@ -1,0 +1,8 @@
+{
+  "name": "Raise",
+  "symbol": "RAISE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x10ba8c420e912BF07BEDac03aA6908720Db04e0c./ipfs/qmyqzcnzfvzjngacqtvedaxa3if8yfvynsweg99f5xx67z/raise",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf45e5a46c2b9aae5982f4a23d6bbc0a8eab93db73c8426f329d21c427d7706e1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

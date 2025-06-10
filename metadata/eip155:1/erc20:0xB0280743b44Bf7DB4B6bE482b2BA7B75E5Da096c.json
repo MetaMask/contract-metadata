@@ -1,0 +1,8 @@
+{
+  "name": "Transcodium",
+  "symbol": "TNS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB0280743b44Bf7DB4B6bE482b2BA7B75E5Da096c./ipfs/qmt5iklduebvcuk4nmprehcntukkwqz8uo14rv9rmzcpgp/bcd2v2yhcnqqytzvyepz1qrwurdyhwr2t2x5dagjr8hd2uad7zogm12vtbcynngkiw6lz25csfl7xvx8agi5kv4ad1",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x79a94e1efd0206942d63781c9db23ce1ea4303e2ab17ca4717d41854adf0eb7a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

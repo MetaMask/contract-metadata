@@ -1,0 +1,8 @@
+{
+  "name": "Ethena USDe",
+  "symbol": "USDe",
+  "decimals": 9,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:DEkqHyPN7GMRJ5cArtQFAWefqbZb33Hyf6s5iCwjEonT.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xeff8edaf861c60448b73796b5e663d1dcb3c0f1815964064affe364feac6cc43@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

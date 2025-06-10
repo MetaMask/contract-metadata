@@ -1,0 +1,8 @@
+{
+  "name": "Sashimi",
+  "symbol": "SASHIMI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xC28E27870558Cf22ADD83540d2126DA2E4b464c2./ipfs/qmqfosktuwun5esffjn54n1e8eoerumw84yanwxsqp2onj/bcdvrnrbvn3ujvo6weoy4jq2cn62m936vpyhz6adgjdxncr3tcbakrktundewnyd95lyedn4fc5enobhvvwwjd4emk",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x093078ec374646c35b1715e95a085a4141ca2a5f2d6a82d80e791c0a5829380b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

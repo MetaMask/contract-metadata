@@ -1,0 +1,8 @@
+{
+  "name": "TIA",
+  "symbol": "TIA",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x824E35f7a75324F99300aFac75eCf7354E17Ea26.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xca78e48eaa2f0b43401aab8d97f9cd9bbf8879de828db78caeb045e49b5cf496@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

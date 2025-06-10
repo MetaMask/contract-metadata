@@ -1,0 +1,8 @@
+{
+  "name": "Super Connector by Virtuals",
+  "symbol": "SUPER",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xC797Fc5ca8ef5502Aaa0307b9bfC45E877D6caf5.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8ed3c7858ef5bc66111847c7b6c38968498caaaa452e47c079086c9c5ecd26a7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Dai",
+  "symbol": "DAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:250/erc20:0x8D11Ec38a3eB5E956B052F67dA8BDC9BEF8abF3e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x20160f840608cfc8b3d9c1dabc6a027dfc0156db7c62a9c590866fa2a4da1690@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

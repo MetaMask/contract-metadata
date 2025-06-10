@@ -1,0 +1,8 @@
+{
+  "name": "QMALL",
+  "symbol": "QMALL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x07E551e31A793E20DC18494ff6B03095A8F8Ee36.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x70d845a186fa9b22dd35eb561670b7b0f81c2e113f979544c42d65af0a6eb9d6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

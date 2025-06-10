@@ -1,0 +1,8 @@
+{
+  "name": "GhostMarket",
+  "symbol": "GM",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x99aEEcf3717eC6B369D847e3d62d14E14251E4d4.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x35bd192cda86da55f5a5fc30595a85a4f1dac28264f4c5a3c605a24c3bf13d8e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

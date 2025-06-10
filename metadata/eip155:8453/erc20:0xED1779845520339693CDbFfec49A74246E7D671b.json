@@ -1,0 +1,8 @@
+{
+  "name": "SAMURAI",
+  "symbol": "SAM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xED1779845520339693CDbFfec49A74246E7D671b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x73f2010c6d2ea57890bd61180ede5421f6034da299b02ca41ddfd1a78b44e7e2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

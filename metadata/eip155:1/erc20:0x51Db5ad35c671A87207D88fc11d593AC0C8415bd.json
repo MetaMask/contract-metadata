@@ -1,0 +1,8 @@
+{
+  "name": "Moeda Loyalty Points",
+  "symbol": "MDA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x51Db5ad35c671A87207D88fc11d593AC0C8415bd./ipfs/qmfx55aju4oldi1gkdvicbsezcsssgj2y4rksz4u7djoyx/bccwps4trnmfdcwum3hyhotbxn9nrau1t1f9ezjtc7jbwfvdrqykhb2fstl2arw927wqfzuxgq4bhgg4ft83a8bxnj",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x56d4d727ac554fff947043ac8378c323f8541bf331c07e1084ae5cd25f39169a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

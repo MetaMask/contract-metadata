@@ -1,0 +1,8 @@
+{
+  "name": "Nova DAO",
+  "symbol": "NOVA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x7CEa109fc3516ED1248aE9aa67B5A352CF74075e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf05d01730e52865a45ed2df6372c83edecc5ca9ccb06a7ef8714ed3c5508b0eb@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

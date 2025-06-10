@@ -1,0 +1,8 @@
+{
+  "name": "PEAKDEFI",
+  "symbol": "PEAK",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x630D98424efe0EA27Fb1b3ab7741907DFFEaad78./ipfs/qmf2p2nnnwyhzevcbjwdxswv3hfjqss3u2muoneuuzxlfy/peak",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x572a10e563946c645ae72b8619f23e679b84690a24059efa19d8802fa6bb7200@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

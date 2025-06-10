@@ -1,0 +1,8 @@
+{
+  "name": "Zentry",
+  "symbol": "ZENT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xB6b831cc8985659E60D8FFfeab43AfD4B776Fdc3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x951f9ec71320b99b7e4388d2190cb2c432b50383cea2a77216b315c0962469b5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

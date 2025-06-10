@@ -1,0 +1,8 @@
+{
+  "name": "Gemach",
+  "symbol": "GMAC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD96E84ddbc7CBE1D73C55b6fe8c64f3A6550deea.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x844c94ae12712e2c2251b85d44668fd9af8087adea0ca9f84b5abe72363972c2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "LimeWire",
+  "symbol": "LMWR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x307bc76e3d59eD73886a9cf9360A9286F6281ba7.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa99a804791afd572a782630a4b8a53ec8088603bed77a9adc432f0dc323ddb7f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

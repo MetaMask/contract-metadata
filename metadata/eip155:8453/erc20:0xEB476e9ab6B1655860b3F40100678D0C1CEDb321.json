@@ -1,0 +1,8 @@
+{
+  "name": "Project Nostradamus",
+  "symbol": "AMEN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xEB476e9ab6B1655860b3F40100678D0C1CEDb321.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6d61eb0623d2e55e08f68d4139ad2e8479b7eea139480affa1dc023fd0a4cad0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

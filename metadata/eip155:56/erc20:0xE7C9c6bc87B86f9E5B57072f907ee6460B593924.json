@@ -1,0 +1,8 @@
+{
+  "name": "TOWER",
+  "symbol": "TOWER",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xE7C9c6bc87B86f9E5B57072f907ee6460B593924.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5371b6b973e15d07b7af4faaf32c2fe280e8150242dc723f9c557ab8e47b2ded@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

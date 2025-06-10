@@ -1,0 +1,8 @@
+{
+  "name": "LATOKEN",
+  "symbol": "LA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xE50365f5d679CB98A1DD62d6f6e58E59321bcddf./ipfs/qmnrpysnnxyvtndcarvpbhlbsu5n2fm8fsz7mmgsraecdy/bccwqdrl53eneq7dfwj3yj4aadzoxmgs28pbqhmb5mc7acecuy5ktdfejsukitjfqp6bcc7kyblfrpmgstaqn1rvqa",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa18dbeb4ff51c1e86070219a40c580301bd0fab17728a59e465336b51ac0d644@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

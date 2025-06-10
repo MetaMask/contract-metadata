@@ -1,0 +1,8 @@
+{
+  "name": "BLOCKv",
+  "symbol": "VEE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x340D2bde5eB28C1EED91b2f790723E3B160613b7.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6ca78f220eccf816c30a6c06cd78793c4ef61dbc4e2edbbf2123853adc191c67@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Dog Collar",
+  "symbol": "COLLAR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9783b81438c24848F85848f8df31845097341771./ipfs/qmstdaftlmdba9lxzm76k6mmxmgvon4sjd6ae5avnjpopd/collar",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbceba116ea14dabe83815be4c308814c9cb411e84225fecc7277cad60a3fe6e5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

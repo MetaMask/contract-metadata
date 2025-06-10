@@ -1,0 +1,8 @@
+{
+  "name": "TORA NEKO",
+  "symbol": "TORA",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1Bb4aFbf2ce0C9EC86E6414ad4BA4D9AAB1c0de4.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x121ec5f8f5488dc469b49ec9759e19df18f3e1ca17e28f67d30331d6fcc4c000@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

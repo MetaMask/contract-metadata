@@ -1,0 +1,8 @@
+{
+  "name": "BANKEX",
+  "symbol": "BKX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x45245bc59219eEAAF6CD3F382e078A461FF9de7b./ipfs/qmxhxgjseoyxbxvuww2nsmxs4pjqzfhiayg4aupbwxwc7g/bkx",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x80a938ab94f7e7da96e397c13047d9a20fc83a661701d5bccb5fdc7f0bd7057c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

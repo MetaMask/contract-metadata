@@ -1,0 +1,8 @@
+{
+  "name": "Sumer Money",
+  "symbol": "suETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x1C22531aa9747D76FFF8F0a43b37954CA67D28e0.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4292e484d96a1894aeaf8e09c27ba108ff2dc8d72444b5678cc6da6d88799ada@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

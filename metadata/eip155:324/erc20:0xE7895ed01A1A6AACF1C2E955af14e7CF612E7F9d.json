@@ -1,0 +1,8 @@
+{
+  "name": "Liquid ETH",
+  "symbol": "LETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xE7895ed01A1A6AACF1C2E955af14e7CF612E7F9d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe03f0b96ef9a9d2c324542537acd07b75526609fd62a0f6bb94ee25574d0ddd2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

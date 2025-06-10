@@ -1,0 +1,8 @@
+{
+  "name": "Make Fun",
+  "symbol": "MF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x474cb5b5087e13EA006E13702e330C93C825ab5d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6e52ac5c3f7f60942476b4aa6dadb15005e2f1a4d2be0f661f781ac8f43b3d5b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

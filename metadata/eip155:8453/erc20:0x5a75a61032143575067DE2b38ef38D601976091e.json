@@ -1,0 +1,8 @@
+{
+  "name": "Sharbi",
+  "symbol": "SHARBI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x5a75a61032143575067DE2b38ef38D601976091e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa74a2eb1ae84950d7ca3f61634e95be25267e562990349890a69cdfe6729d7d3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

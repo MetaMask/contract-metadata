@@ -1,0 +1,8 @@
+{
+  "name": "Basecoin",
+  "symbol": "BASEC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x99995a54fd82C16E1428690c0d6e3BED1E0D0cb9.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3d3f8c8bde93ee6fcd375e4077a7127d996984871c63f512fc0166af184a70c7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

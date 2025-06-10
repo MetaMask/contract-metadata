@@ -1,0 +1,8 @@
+{
+  "name": "Pat",
+  "symbol": "PAT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x8300E8e6b258147972972dbcf87719DA7B817a9c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x01160dede1e62b5964ee7d9b079825205a845d91d7614e7000eb37cbc5ffa723@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

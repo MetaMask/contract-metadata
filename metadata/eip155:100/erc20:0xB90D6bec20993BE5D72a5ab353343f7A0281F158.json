@@ -1,0 +1,8 @@
+{
+  "name": "DXdao",
+  "symbol": "DXD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:100/erc20:0xB90D6bec20993BE5D72a5ab353343f7A0281F158.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb1f4ba2d7bc021b3d42759647b50cc9259021c8cc9f63c459fc42026fee1ae9f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

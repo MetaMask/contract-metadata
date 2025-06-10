@@ -1,0 +1,8 @@
+{
+  "name": "Bawls Onu",
+  "symbol": "BAWLS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x2Da8312e2c08B79104C6b18ba26BC7065abEc704.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2d0f55363522480af5303bfd51779d752cf90910409570fbeacc463b51d36d6c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Love Hate Inu",
+  "symbol": "LHINU",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x4EE692ea7f5A351C8Eac24bbfA0BD0932327F187.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd57a4bb227c521cd827c1ecffeb5ff85324cb08c376abae6b9c1a01f4f679795@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

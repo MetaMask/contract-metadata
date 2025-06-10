@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Netflix",
+  "symbol": "sNFLX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x5a7E3c07604eB515C16b36cd51906A65F021F609./ipfs/qmqfbbefzxsnvi9e8mlbyoaxtfxdbohryc7ugfrmuqpedr/snflx",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9bf45952c51e4f7240bffcba053751941017809e62b6e576dceafccc26f6d7f3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

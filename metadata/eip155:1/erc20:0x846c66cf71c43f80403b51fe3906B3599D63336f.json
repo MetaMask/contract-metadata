@@ -1,0 +1,8 @@
+{
+  "name": "PumaPay",
+  "symbol": "PMA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x846c66cf71c43f80403b51fe3906B3599D63336f./ipfs/qmajfi5bsthv2poru783lbqy7k95igr7pkmb8wyvcnwzjb/bcdx2ugqmvlrdmcrpxsftszugvqejpiqvbfmchjfspyrzvyadgw3vynbxrvw8kgdgdy6ncvfp1lwjswnajctzvre5m",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5ed2a8107e8bd5e491e47b34d7bec4a08a542f8e788f279d5ca0d1bd71889351@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

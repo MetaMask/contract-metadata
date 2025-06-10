@@ -1,0 +1,8 @@
+{
+  "name": "Baklava",
+  "symbol": "BAVA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xE19a1684873fAB5FB694cFd06607100A632FF21c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfe8246187efaa90cb2fece0f6f0e76a6c1ce6dd784cd71ab5646888bf0b58cdd@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

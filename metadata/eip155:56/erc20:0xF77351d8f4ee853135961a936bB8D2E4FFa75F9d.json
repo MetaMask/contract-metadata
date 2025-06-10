@@ -1,0 +1,8 @@
+{
+  "name": "ROOBEE",
+  "symbol": "ROOBEE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xF77351d8f4ee853135961a936bB8D2E4FFa75F9d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x48680db1989f9a875f68898e10e7d3659b76e3037ad780ee928b3f53ac1090ac@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

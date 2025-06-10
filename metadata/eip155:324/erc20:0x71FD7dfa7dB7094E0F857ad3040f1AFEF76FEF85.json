@@ -1,0 +1,8 @@
+{
+  "name": "Bullets",
+  "symbol": "BLT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x71FD7dfa7dB7094E0F857ad3040f1AFEF76FEF85.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3d8a77f0122bf99ccfbdfe41104cd3a46c613b7750f2561b1f4ef722b39215da@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

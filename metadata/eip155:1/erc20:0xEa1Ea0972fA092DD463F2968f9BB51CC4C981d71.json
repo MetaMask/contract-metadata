@@ -1,0 +1,8 @@
+{
+  "name": "Modefi",
+  "symbol": "MOD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xEa1Ea0972fA092DD463F2968f9BB51CC4C981d71.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x19fbf6bf4067c967f6e2fdd872ff81e4fa95ef4cd6e3a5dae7f4a0f5fdf5d530@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

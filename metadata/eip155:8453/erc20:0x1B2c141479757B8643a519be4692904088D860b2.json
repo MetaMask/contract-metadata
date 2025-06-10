@@ -1,0 +1,8 @@
+{
+  "name": "BADCAT",
+  "symbol": "BADCAT",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x1B2c141479757B8643a519be4692904088D860b2.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x42e4cec1231f8bd6929c2609d9307eff61a85798169f40084374484c929daeb2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

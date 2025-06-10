@@ -1,0 +1,8 @@
+{
+  "name": "GROWTH DeFi",
+  "symbol": "GRO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x09E64c2b61A5f1690EE6Fbed9bAf5D6990F8dFd0./ipfs/qmzxvoezbvhmanixfwgsbnqznjvyaipzzbfsvxusjhjzu1/bcd2tijwwqyqrxcl1lx3r1k5rdm13swashmqymsltyjjkbjmitrgkcwc9bfvohcwtwajmylspqp54xvwjxjhh1b6wt",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2493b867317677b33c1bbbae755b0f455593220b79a5ee97fd3f72b67a3cbefb@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

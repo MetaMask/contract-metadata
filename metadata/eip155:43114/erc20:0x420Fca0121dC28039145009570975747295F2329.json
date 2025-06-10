@@ -1,0 +1,8 @@
+{
+  "name": "Coq Inu",
+  "symbol": "COQ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x420Fca0121dC28039145009570975747295F2329.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x84cebde09dafb3a831150c9ceb786551d55262dc63e8464a1dcfdc3a7cdc9732@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

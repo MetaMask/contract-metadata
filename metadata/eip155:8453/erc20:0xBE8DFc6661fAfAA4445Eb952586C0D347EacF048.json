@@ -1,0 +1,8 @@
+{
+  "name": "Monk",
+  "symbol": "MONK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xBE8DFc6661fAfAA4445Eb952586C0D347EacF048.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xcb07f3adcae6d004f0ce8299ca38596a7f8b1b2f0d75c8041fecd0628f9ad83d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

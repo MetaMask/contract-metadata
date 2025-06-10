@@ -1,0 +1,8 @@
+{
+  "name": "Marblecoin",
+  "symbol": "MBC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x8888889213dd4DA823Ebdd1e235B09590633c150./ipfs/qmwp56fr1tn8wjmbueccvmpmddctym2msckjajyyh8ha4m/bcdybwsgjczxzqhfn8vzczsxvq3hgztexu7owugdykcv5hh3pizfeeuewbdrahjcdyewycqfg1urqewwmwvmvgekoh",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf489d98b5bf4c153c9d67a6cfbb23ce06a52bd29cee6a8af48057f1e80f22463@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

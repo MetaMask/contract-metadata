@@ -1,0 +1,8 @@
+{
+  "name": "Venus DOT",
+  "symbol": "vDOT",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x1610bc33319e9398DE5F57b33A5B184C806ad217.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb5a12c455a2ccb9dd06ed61131abecd2630faa0535da6002d3b90ed597e1c0a1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

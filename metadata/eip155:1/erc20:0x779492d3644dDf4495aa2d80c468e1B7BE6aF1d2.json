@@ -1,0 +1,8 @@
+{
+  "name": "CAS Coin",
+  "symbol": "CAS",
+  "decimals": 2,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x779492d3644dDf4495aa2d80c468e1B7BE6aF1d2./ipfs/qmeqryqnq1v5ofqamt671iqldzfm4tsj1ilmcxpjgqvpiy/bccx363o3jmhujt6m564g9tczwjsmhf5erwshycvlksbhon9dvfs5dn8i287f7zk8v7zvyrs4fel2h15ljyv3ekede",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x16c650fa60f3e29124c3d0e51e74bee9ab2ac2ea8fad27422c6ec56359187769@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Internxt",
+  "symbol": "INXT",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA8006c4ca56f24D6836727d106349320DB7FEF82./ipfs/qmevkxidfc4terpa55jgkqujszunycsvfkvhn7sx6nonlo/bce1hqzcd9kpxhqf1p4ffy9fkss5wfuhfffjyx29vhpdjggwt6dxczquenalcl5fekfztdamclnekzsgurksgtnbgx",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x127212ce2f419438ef8c20cec96f0e84a1275468a12e10d8a54497b0b18616aa@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

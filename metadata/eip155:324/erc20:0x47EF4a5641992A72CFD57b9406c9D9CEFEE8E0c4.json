@@ -1,0 +1,8 @@
+{
+  "name": "zkApes",
+  "symbol": "ZAT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x47EF4a5641992A72CFD57b9406c9D9CEFEE8E0c4.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x08940e5684e19eb45dc31882a4baa44ea54ec9c828068bb44adc0d5fdea685e1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

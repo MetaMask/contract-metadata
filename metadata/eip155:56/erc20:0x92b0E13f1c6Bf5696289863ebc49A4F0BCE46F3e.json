@@ -1,0 +1,8 @@
+{
+  "name": "CreBit",
+  "symbol": "CBAB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x92b0E13f1c6Bf5696289863ebc49A4F0BCE46F3e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xaf911f44c05fe4540228512bc1b90d9eac1bf43491743abce87177f9c519e709@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

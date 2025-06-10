@@ -1,0 +1,8 @@
+{
+  "name": "Cream Huobi FIL",
+  "symbol": "crHFIL",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD5103afcd0B3fA865997EF2984c66742C51b2a8b./ipfs/qmtyt41g944tysh14zgezvd4xmn7s1pecrkmugcrhn9qwm/crhfil",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6fe1056e394484ee72d8ddc8c5cf033f7fc63bdaf8a89c267bc27efaa4534272@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

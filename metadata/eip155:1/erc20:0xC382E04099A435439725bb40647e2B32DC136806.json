@@ -1,0 +1,8 @@
+{
+  "name": "Cogecoin",
+  "symbol": "COGE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xC382E04099A435439725bb40647e2B32DC136806./ipfs/qmtttrhwufwksw9ecohab2nqua7nzbeup1ccqdvlmhetjw/coge",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x29ab748e6ad09eabb30954fe12bf3e2b7da0565bc55b899d4bbce09fabfe7c02@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

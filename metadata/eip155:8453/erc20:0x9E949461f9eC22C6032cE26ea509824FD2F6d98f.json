@@ -1,0 +1,8 @@
+{
+  "name": "KABOSU",
+  "symbol": "KABOSUCHAN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x9E949461f9eC22C6032cE26ea509824FD2F6d98f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2bfcab93841dcee27aa9cd345ce6d6765fde8003a29596d7cae47cbff4ab122b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

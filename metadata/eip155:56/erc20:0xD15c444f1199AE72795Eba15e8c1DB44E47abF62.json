@@ -1,0 +1,8 @@
+{
+  "name": "TEN",
+  "symbol": "TENFI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xD15c444f1199AE72795Eba15e8c1DB44E47abF62.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3da80443268e7dfa976b8b5e822dc8247a18cf13c712a8176572dbf7821ed88f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

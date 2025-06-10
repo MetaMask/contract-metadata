@@ -1,0 +1,8 @@
+{
+  "name": "LivingTheDream (LTD)",
+  "symbol": "LTD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1FDb29ad49330B07AE5a87483f598AA6B292039e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5a62c690674547bb5ba65cb7316dee0cf70017133bdff1ace0142c5852192a90@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

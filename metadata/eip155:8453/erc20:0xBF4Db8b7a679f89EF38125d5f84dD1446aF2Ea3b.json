@@ -1,0 +1,8 @@
+{
+  "name": "Le Bleu Elefant",
+  "symbol": "BLEU",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xBF4Db8b7a679f89EF38125d5f84dD1446aF2Ea3b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x344dfe2621531a3625d284cbc4fd42f14324a10281f6f4638c92680e096c74ae@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

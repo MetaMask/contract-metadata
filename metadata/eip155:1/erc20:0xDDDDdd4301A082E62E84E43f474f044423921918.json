@@ -1,0 +1,8 @@
+{
+  "name": "DVF",
+  "symbol": "DVF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xDDDDdd4301A082E62E84E43f474f044423921918./ipfs/qmpqftvr7qwwtvxvdemxsftva84zak99uswy8kuxcy1hnh/dvf",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x376295dfcf1f3aba1ba7061b8311d8e0666015ad2651656552bccc19f8defc01@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

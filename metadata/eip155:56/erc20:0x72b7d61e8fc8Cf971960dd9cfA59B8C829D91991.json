@@ -1,0 +1,8 @@
+{
+  "name": "AQUA",
+  "symbol": "AQUA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x72b7d61e8fc8Cf971960dd9cfA59B8C829D91991.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5cf1aaa4e1509f7927ab9a1fbf16d04863264fb3f6a5a6f05ea30c7419e351c8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

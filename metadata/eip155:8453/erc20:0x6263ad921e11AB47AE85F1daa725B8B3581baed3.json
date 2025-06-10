@@ -1,0 +1,8 @@
+{
+  "name": "Market Maverick",
+  "symbol": "LUIGI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x6263ad921e11AB47AE85F1daa725B8B3581baed3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x74f8caf1e350bfc5dceda52ea56a3e307a2ef237b18d7927fcef32d4dc7b19b0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

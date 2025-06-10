@@ -1,0 +1,8 @@
+{
+  "name": "Cream USDT",
+  "symbol": "crUSDT",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x797aab1ce7c01EB727ab980762BA88E7133D2157./ipfs/qmwqtiexxtjlctugr2jaou7pyubjwz9dscgopbrtkrwore/crusdt",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x26940959ee83774bce90be394d7f1dedf2ac2bc3b624f0ec1cbb72c62ab83560@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Ski Mask Kitten",
+  "symbol": "SKITTEN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x4B6104755AfB5DA4581b81c552dA3A25608c73b8.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x45d9a04847d3d517d23361f3958c2463450671495c3b64c931221451b6a53151@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

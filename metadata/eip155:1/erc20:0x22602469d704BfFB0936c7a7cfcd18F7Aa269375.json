@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Ethereum Classic",
+  "symbol": "sETC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x22602469d704BfFB0936c7a7cfcd18F7Aa269375./ipfs/qmtzjcls3smwk98aykjqvfcdgf34kjwvjtuvw3ywd6z7xx/setc",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xea575a0854d3eb389dcaaf89f73247bcb7798b6b6565b22c194a0aad9b063d6c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}
