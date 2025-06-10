@@ -1,0 +1,7 @@
+{
+  "name": "SHENRN",
+  "symbol": "SHENRN",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x0DD9e6A6AEb91f1e3596F69d5443b6ca2e864896.png"
+}

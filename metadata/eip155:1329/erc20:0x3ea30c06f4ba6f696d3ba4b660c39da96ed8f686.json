@@ -1,7 +1,0 @@
-{
-  "name": "Seibacca",
-  "symbol": "SBC",
-  "decimals": 18,
-  "erc20": true,
-  "logo": "./icons/eip155:1329/erc20:0x3ea30c06f4ba6f696d3ba4b660c39da96ed8f686.png"
-}

@@ -1,0 +1,7 @@
+{
+  "name": "Jay jeo",
+  "symbol": "JAYJEO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0xf5020DC8eC5e0ef8869Ecc3044933356650b61Cf.png"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Jelly Token",
+  "symbol": "JLY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0xDD7d5e4Ea2125d43C16eEd8f1FFeFffa2F4b4aF6.png"
+}

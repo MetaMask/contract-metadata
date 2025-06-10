@@ -1,0 +1,7 @@
+{
+  "name": "INSPECTOR",
+  "symbol": "REX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x6291148AE49e0f0d847bB97C4E060E49D87638bA.png"
+}

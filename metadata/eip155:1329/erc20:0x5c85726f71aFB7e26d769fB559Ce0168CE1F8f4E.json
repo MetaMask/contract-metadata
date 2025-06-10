@@ -1,0 +1,7 @@
+{
+  "name": "SEI USAGI",
+  "symbol": "USA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x5c85726f71aFB7e26d769fB559Ce0168CE1F8f4E.png"
+}
