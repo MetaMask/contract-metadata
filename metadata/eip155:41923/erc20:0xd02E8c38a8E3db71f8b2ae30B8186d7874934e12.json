@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped EDU",
+  "symbol": "WEDU",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:41923/erc20:0xd02E8c38a8E3db71f8b2ae30B8186d7874934e12.png"
+}
