@@ -1,0 +1,8 @@
+{
+  "name": "Rocket Vault",
+  "symbol": "RVF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x03194b87ae6dfE17CE4Eb9bf3465CD0890C13149.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x796f7e01e6916c77b4efba53a42afb26d193ad5c441504b2c31213541453c397@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

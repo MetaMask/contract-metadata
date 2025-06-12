@@ -1,0 +1,8 @@
+{
+  "name": "XTTA",
+  "symbol": "XTTA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x2F299be3b081e8CD47Dc56c1932fCAE7A91b5dcd.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb59ca80a323b46645a5344d2f99fbd0226d5985cc7129aaeab81058b61ee5eca@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

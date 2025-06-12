@@ -1,0 +1,8 @@
+{
+  "name": "SocialGood",
+  "symbol": "SG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xDDF7Fd345d54ff4B40079579d4c4670415DbFd0a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x490548c21a2a321cda880041ab05ec29596f67c4e6d90523af7c844de419422b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

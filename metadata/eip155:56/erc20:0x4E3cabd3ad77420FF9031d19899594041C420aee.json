@@ -1,0 +1,8 @@
+{
+  "name": "Titano",
+  "symbol": "TITANO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x4E3cabd3ad77420FF9031d19899594041C420aee.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3f275aad84de5473bd2cccdaae15f74953ef5d00e636160c0b2a4df9e7f2b74a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

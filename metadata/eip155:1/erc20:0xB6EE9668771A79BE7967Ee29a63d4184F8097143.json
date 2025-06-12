@@ -1,0 +1,8 @@
+{
+  "name": "CargoX",
+  "symbol": "CXO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB6EE9668771A79BE7967Ee29a63d4184F8097143./ipfs/qmeqsyacpvekugr6mhpqf6kkaaf6bme75zbrsoeatf2twv/bcd51acpctv671ztot5asrr2sexixnrdszzfjcrb7mtwtzdfuw4ooixao9q5aumrxmcrorjzwapkgdb3jpqzlqhs4t",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x949073aba5edc99f950eb921565733c8c136d8dbd90110f4d830fd8199b75a72@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

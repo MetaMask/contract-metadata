@@ -1,0 +1,8 @@
+{
+  "name": "Dirham",
+  "symbol": "DAH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB9E6bdcba653B5F768DD2e2faf6288DF9054E554./ipfs/qmemyjkjcmupgmi1dot7bdp2juvs855ffy23rj6hfuvwpe/dah",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfd38b9d9da5a1684d64c18b9652f48acffd41e4b99d27ae9673d80a59107049e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

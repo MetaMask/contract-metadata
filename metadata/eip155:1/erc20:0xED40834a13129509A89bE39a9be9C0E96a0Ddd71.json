@@ -1,0 +1,8 @@
+{
+  "name": "Warp Finance",
+  "symbol": "WARP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xED40834a13129509A89bE39a9be9C0E96a0Ddd71./ipfs/qmfnyuduchek6nkrtgvlcsjcewigj2h74uyvrsqow6or3w/warp",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xaeb1dd165a374c71e271e56f6ed746a4bb9cd103a8a2fbbe0c40b87c466031a7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

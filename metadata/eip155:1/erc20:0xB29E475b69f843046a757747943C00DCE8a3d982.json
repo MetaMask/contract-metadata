@@ -1,0 +1,8 @@
+{
+  "name": "Spectre",
+  "symbol": "SPCTR",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB29E475b69f843046a757747943C00DCE8a3d982.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x21950839edb3e2d055d4cfeb7d1220463432d52d201479ed6b4935bb9c91338f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

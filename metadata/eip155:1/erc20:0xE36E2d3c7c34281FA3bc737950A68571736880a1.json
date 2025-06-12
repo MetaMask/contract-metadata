@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Cardano",
+  "symbol": "sADA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xE36E2d3c7c34281FA3bc737950A68571736880a1./ipfs/qmrkqdcixpxdjn1vcg8syondvzvmbvegpnh69uje8pbn9d/sada",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf9146e5977446aafe26f10d60b384ff203b65a2049c4e9233bd945e38d18bdbb@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

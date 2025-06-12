@@ -1,0 +1,8 @@
+{
+  "name": "BLOCKLORDS",
+  "symbol": "LRDS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xB676F87a6e701f0DE8DE5ab91b56B66109766db1.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xacd3770c056b4a36da59ce9c7ba2115efc83ee95d26fa49051521c9c8280039f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

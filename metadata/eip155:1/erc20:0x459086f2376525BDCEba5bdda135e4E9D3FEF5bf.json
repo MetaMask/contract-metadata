@@ -1,0 +1,8 @@
+{
+  "name": "renBCH",
+  "symbol": "renBCH",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x459086f2376525BDCEba5bdda135e4E9D3FEF5bf./ipfs/qms9pbnuy5gkm42kmdwrvrxkdarvhqatseagidc2n9hhql/bcdwnvsczqfwkchxrkazvsob7jnheymvarfspfvdmpqeez9gozuppgeggedabwxlqth19liolph9kade6kukvnknua",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x415679638653ee819d3b7c7fac05c573305d3c3be3f5b0f940094ab70fe07ccd@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

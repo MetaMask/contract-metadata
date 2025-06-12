@@ -1,0 +1,8 @@
+{
+  "name": "The SWARM",
+  "symbol": "SWARM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xEa87169699dABD028a78d4b91544B4298086baf6.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x25a9f56c19dd810e58fe0d2f0f6b481cb9897f953f23cde76e55f3ed99c79e3a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

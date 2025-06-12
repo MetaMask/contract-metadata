@@ -1,0 +1,8 @@
+{
+  "name": "Binance Wrapped DOT",
+  "symbol": "BDOT",
+  "decimals": 10,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x7884F51dc1410387371cE61747cB6264E1DaEe0b./ipfs/qmanutnswh8nenzew16c4ft7fmhrkmiuadehahctajri2z/bdot",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x928e65a493f4fabbe4f3d5b6f16b4c5b1b3dc8bc3dbfe990e0149307cb470603@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

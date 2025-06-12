@@ -1,0 +1,8 @@
+{
+  "name": "Refinable",
+  "symbol": "FINE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x4E6415a5727eA08AAE4580057187923AEC331227.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf81aea351cef1b7b822eb9df563ff536f1a2f809194c4e85cfb32fa2e2f2c43f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

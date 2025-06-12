@@ -1,0 +1,8 @@
+{
+  "name": "Axelar Wrapped OP",
+  "symbol": "axlOP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x994ac01750047B9D35431a7ae4ed312EE955E030.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe9a10e07a7673688caf7f192525dcb2734023f8aed4911cbd1afa09676dc6792@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Magic Square",
+  "symbol": "SQR",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x2B72867c32cf673F7B02d208b26889FED353b1f8.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6f444838b0739bc0532c18f59dd1289f4c34bb502eacee4a80abe07bb1e958a8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "RealFevr",
+  "symbol": "FEVR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x73178Fceb736A9D6C1a9EF1fe413f09CBa2D4a68.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb1237269e9e3d081ddce150225ba508fca86af259808c7c6319892cb8051291f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

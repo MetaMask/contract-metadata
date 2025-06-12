@@ -1,0 +1,8 @@
+{
+  "name": "DOGITA",
+  "symbol": "DOGA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x05311d9aa0e17D1071986146ced510C85C71b52f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2f3316f14014789c361a426a25972f092c2917c1b112ed1ae530ed99c4a2db19@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

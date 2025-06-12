@@ -1,0 +1,8 @@
+{
+  "name": "WhaleIntel by Virtuals",
+  "symbol": "WINT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xDF2Fd7dd75143A5010F145440d49748275E362a3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa94bda4c5dbecf2bf9c3ad5cb39de6ed8a9d26fbaeafaf1a6dc4178a9d75ec47@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

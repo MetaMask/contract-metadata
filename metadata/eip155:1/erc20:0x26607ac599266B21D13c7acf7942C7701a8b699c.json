@@ -1,0 +1,8 @@
+{
+  "name": "Power Index Pool Token",
+  "symbol": "PIPT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x26607ac599266B21D13c7acf7942C7701a8b699c./ipfs/qmpv4abps9cqoexx1w7rsscffgkzxkgfssr3pddurfphc5/pipt",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x78c336a1db9ad0e3578b01c84c357a0c3ec96218bc5ab80419ec9a9d82dabd88@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

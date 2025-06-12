@@ -1,0 +1,8 @@
+{
+  "name": "BRLA",
+  "symbol": "BRLA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42220/erc20:0xFECb3F7c54e2CAAE9DC6ac9060A822D47E053760.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfe83bfd4fc61578a3aad2e3cfcde7691732b3ed4c379001ad6331f1bf1126198@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

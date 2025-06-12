@@ -1,0 +1,8 @@
+{
+  "name": "Ragdoll",
+  "symbol": "RAGDOLL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xF5E89006cbeff2DABCFDa0def5Bf45EBE7F8429f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x646bcf901882b74d2fa31f9518a2a815d7843429ec33b54714ed1f120628c869@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

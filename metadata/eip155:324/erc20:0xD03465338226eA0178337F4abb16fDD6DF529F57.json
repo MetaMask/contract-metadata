@@ -1,0 +1,8 @@
+{
+  "name": "Interport",
+  "symbol": "ITP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xD03465338226eA0178337F4abb16fDD6DF529F57.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4023b89fe4df54293e255d146f660f054d1e9e38b3e9de30feb4638639e4e602@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

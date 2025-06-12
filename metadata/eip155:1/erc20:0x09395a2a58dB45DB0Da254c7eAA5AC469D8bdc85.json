@@ -1,0 +1,8 @@
+{
+  "name": "SubQuery Network",
+  "symbol": "SQT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x09395a2a58dB45DB0Da254c7eAA5AC469D8bdc85.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x49227eaefb108411eb80652ccfa92c7563a9608b9a48f80381f486b8ca262904@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Moonbeam",
+  "symbol": "GLMR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x76F3ce6af26de7A9854Dbd153Acd8f46A2CF5133.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x46388d5f487f47ecb413a7ff22705eb96fd98c84519bb0e40b11a66d1c056bcf@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

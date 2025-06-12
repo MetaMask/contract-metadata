@@ -1,0 +1,8 @@
+{
+  "name": "Dynamic Supply Tracker",
+  "symbol": "DSTR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x55696efc7c9779D868ac34ac6b4A4C5FED61ac12./ipfs/qmnxtmwh5jjvbl3sm1bwjtsbgcryycbso6uusqgtpvicii/dstr",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbaffe6ad6b385b6dc5a0473f5b5d6eb20984988fb8f104e0a9300265dfab2137@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

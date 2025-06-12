@@ -1,0 +1,8 @@
+{
+  "name": "Golden Bailey",
+  "symbol": "BAILEY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x3942cae8bb9fC8F24FE627b30b6e7461E5662ba7.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0321fb6b95732b8295f74da180188cb0df8380c2597d35241f3c5aff8ea3a181@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

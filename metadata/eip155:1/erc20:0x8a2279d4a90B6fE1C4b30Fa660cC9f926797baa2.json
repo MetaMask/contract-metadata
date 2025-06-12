@@ -1,0 +1,8 @@
+{
+  "name": "Chromia",
+  "symbol": "CHR",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x8a2279d4a90B6fE1C4b30Fa660cC9f926797baa2./ipfs/qmbofjf8pqatnkxxnsy8gzgi2lbxvoqhzwydc3yfluj8em/chr",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd52603210021f172f8356ce3024b40b70503aa8fac8cd78a093485493b482f6d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

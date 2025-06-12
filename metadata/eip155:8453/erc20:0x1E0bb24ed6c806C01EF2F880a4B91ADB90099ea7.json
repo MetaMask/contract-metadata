@@ -1,0 +1,8 @@
+{
+  "name": "BUCCI",
+  "symbol": "BRRR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x1E0bb24ed6c806C01EF2F880a4B91ADB90099ea7.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd76ce714afb7c8d713182c63dd1aa0fd24cc68012f62a17dc9c4b875e09bbc5b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

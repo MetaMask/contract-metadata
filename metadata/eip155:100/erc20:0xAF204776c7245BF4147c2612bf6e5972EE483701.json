@@ -1,0 +1,8 @@
+{
+  "name": "Savings xDAI",
+  "symbol": "sDAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:100/erc20:0xAF204776c7245BF4147c2612bf6e5972EE483701.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1f05481687d686fbef07f8ea9327744d06a29e72367df8d2cd2d8b192ef251db@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

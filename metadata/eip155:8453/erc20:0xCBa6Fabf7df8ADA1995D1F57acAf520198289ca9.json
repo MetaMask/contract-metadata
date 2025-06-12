@@ -1,0 +1,8 @@
+{
+  "name": "BeromesButt",
+  "symbol": "BUTT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xCBa6Fabf7df8ADA1995D1F57acAf520198289ca9.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6ca03f5665021c7dcebfc112d340e780ecc9ac5092c0641b42fabaa76e74dca0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

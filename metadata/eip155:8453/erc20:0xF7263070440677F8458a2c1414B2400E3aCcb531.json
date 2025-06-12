@@ -1,0 +1,8 @@
+{
+  "name": "POKO",
+  "symbol": "POKO",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xF7263070440677F8458a2c1414B2400E3aCcb531.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x376d264d1687928ce5664a5ea0ac1f8d8659dcd0ee3a094fe05f8bdfc1c9690b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

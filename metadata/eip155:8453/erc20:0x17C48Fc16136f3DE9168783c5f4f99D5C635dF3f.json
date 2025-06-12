@@ -1,0 +1,8 @@
+{
+  "name": "Insane Technology ",
+  "symbol": "IT",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x17C48Fc16136f3DE9168783c5f4f99D5C635dF3f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe04add45d6f312887ecaa78a154af7b90f0d7f4f04a6beb97deccacf0ba7da3a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

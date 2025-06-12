@@ -1,0 +1,8 @@
+{
+  "name": "Bluzelle",
+  "symbol": "BLZ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x935a544bf5816E3A7C13db2efe3009FFDa0acda2.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1d86b9733a64d07b610d5ccb0cc63125c75bdd09b42853445c8cd9d31d30a975@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

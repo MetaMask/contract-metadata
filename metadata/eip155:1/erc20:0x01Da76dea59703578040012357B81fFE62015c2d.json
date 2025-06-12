@@ -1,0 +1,8 @@
+{
+  "name": "Cream yETH",
+  "symbol": "crYETH",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x01Da76dea59703578040012357B81fFE62015c2d./ipfs/qmsc7eyl8ymfwg8ewzaqgtwps6sarffs1cxp2zvvxpubgt/cryeth",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe5c67ada3df23c770955b2a933b3e662e8c5e527bfe4bb194202ac819d79670f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

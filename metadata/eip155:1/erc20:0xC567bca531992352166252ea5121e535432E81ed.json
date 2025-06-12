@@ -1,0 +1,8 @@
+{
+  "name": "Tartarus",
+  "symbol": "TAR",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xC567bca531992352166252ea5121e535432E81ed./ipfs/qmrejqeicablgmdaghbxhie2pfu1ciwstrsmsrqktkoff9/tar",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfa722c8c3ba0ac167a93c1070cea760acc7f7b28a360d88522c59626e12843d2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

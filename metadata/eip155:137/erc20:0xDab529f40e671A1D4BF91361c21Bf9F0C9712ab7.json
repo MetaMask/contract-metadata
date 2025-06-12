@@ -1,0 +1,8 @@
+{
+  "name": "Binance USD",
+  "symbol": "BUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0xDab529f40e671A1D4BF91361c21Bf9F0C9712ab7.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6ce62ee033b120089eeab195f8212afce78e9779351dec3da46276471547d946@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

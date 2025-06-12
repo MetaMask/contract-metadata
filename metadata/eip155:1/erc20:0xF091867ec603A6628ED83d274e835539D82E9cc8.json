@@ -1,0 +1,8 @@
+{
+  "name": "ZetaChain",
+  "symbol": "ZETA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF091867ec603A6628ED83d274e835539D82E9cc8.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x74aec424656a2d1370a190213a1ae3a0a1c07746cf85aba8d8818f75d03d8526@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

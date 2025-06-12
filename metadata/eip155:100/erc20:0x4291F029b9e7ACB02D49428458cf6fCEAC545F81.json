@@ -1,0 +1,8 @@
+{
+  "name": "1Hive Water",
+  "symbol": "WATER",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:100/erc20:0x4291F029b9e7ACB02D49428458cf6fCEAC545F81.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x607e5a60965b23c68892f51a592d8c0e65be7fe3b462ea775a1fc2f34bfa491f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

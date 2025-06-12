@@ -1,0 +1,8 @@
+{
+  "name": "Red Hat Games",
+  "symbol": "aGAME",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xF6240F39f9f82E7CAFbE6Ffe0bfAf1E2E4C5bdb4.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x871ca5aacdc4c6c47ec183a1cb812985e3fecc66f9c020e902d83c6b662af796@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

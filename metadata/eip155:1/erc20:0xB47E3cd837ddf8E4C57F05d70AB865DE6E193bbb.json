@@ -1,0 +1,8 @@
+{
+  "name": "CryptoPunks",
+  "symbol": "C",
+  "decimals": 0,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB47E3cd837ddf8E4C57F05d70AB865DE6E193bbb./ipfs/qmsvzarns1nqxjagmq6kzmgbyjidxtdj74jawjhsbvdifc/c",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xaa2b58194c1fa84023169b1e32600de981d48342ac70c003d2479670e1172e73@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

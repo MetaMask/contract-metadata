@@ -1,0 +1,8 @@
+{
+  "name": "SaitaBit",
+  "symbol": "SAITABIT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x927402ab67c0CDA3C187E9dfe34554AC581441f2./ipfs/qmnbxs6xf3nbw5yr8prqfrtsnfce53bi3vgx5ywkpmdzas/saitabit",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd1e9f825b8631d86e2c05745a956d35ed5110871c710f4fa8f763d2107e27bc3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

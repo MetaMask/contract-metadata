@@ -1,0 +1,8 @@
+{
+  "name": "Fulcrum sUSD iToken",
+  "symbol": "iSUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x49F4592e641820E928F9919ef4ABD92A719b4b49./ipfs/qmx8cdexwiz8wbkorect64ezn62worypf6qwey7kpqhbnj/isusd",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xcea468e2f46e6444873e26a7b4985ed7fe795ba6216a1dee52c309bc1f57c005@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

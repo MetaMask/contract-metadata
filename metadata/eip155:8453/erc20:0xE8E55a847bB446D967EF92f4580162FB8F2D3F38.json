@@ -1,0 +1,8 @@
+{
+  "name": "Broge",
+  "symbol": "BROGE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xE8E55a847bB446D967EF92f4580162FB8F2D3F38.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2e892aaf308522dbb2fdfcc92caa18ce3b49583e2b9233c8d8a487304581b073@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

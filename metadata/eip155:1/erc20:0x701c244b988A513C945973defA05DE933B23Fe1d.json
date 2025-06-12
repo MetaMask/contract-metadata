@@ -1,0 +1,8 @@
+{
+  "name": "OAX",
+  "symbol": "OAX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x701c244b988A513C945973defA05DE933B23Fe1d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc9b2a3199c0f092cecea64c9f6ff86c3eb9ae221e849d1a8c1b05b9c6ffe5baf@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

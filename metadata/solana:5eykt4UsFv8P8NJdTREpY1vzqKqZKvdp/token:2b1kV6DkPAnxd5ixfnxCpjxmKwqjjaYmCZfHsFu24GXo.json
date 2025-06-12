@@ -1,0 +1,8 @@
+{
+  "name": "PayPal USD",
+  "symbol": "PYUSD",
+  "decimals": 6,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:2b1kV6DkPAnxd5ixfnxCpjxmKwqjjaYmCZfHsFu24GXo.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7c56b26ab05afaad92b4215d70aca124a6ed3ef03740a8eecda240d906069070@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

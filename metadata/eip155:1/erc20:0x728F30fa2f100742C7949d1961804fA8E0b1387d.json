@@ -1,0 +1,8 @@
+{
+  "name": "GamerCoin",
+  "symbol": "GHX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x728F30fa2f100742C7949d1961804fA8E0b1387d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x04961f0114d42470bf42d4278995b77e29c99807eda8f12693bbc8a6737d31c8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

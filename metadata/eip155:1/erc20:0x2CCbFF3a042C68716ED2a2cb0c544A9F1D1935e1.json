@@ -1,0 +1,8 @@
+{
+  "name": "DMarket",
+  "symbol": "DMT",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x2CCbFF3a042C68716ED2a2cb0c544A9F1D1935e1./ipfs/qmf7aaipzbztjdo4ze7chjjake9jawzpezwme8eknv6vuk/bcd2fruc6dzfa17bwsye6dv7sgqtb6ddzsxmfst6da2qwnpjuwh49zhj6mibk6ththkwpdve9gwjppljpamgobe77n",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2698bfc49ca0c5e9cc36b81a6c00e255eae5762d96c9f778ba118ed68b7af0de@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

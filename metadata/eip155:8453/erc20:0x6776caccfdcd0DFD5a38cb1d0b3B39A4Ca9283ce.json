@@ -1,0 +1,8 @@
+{
+  "name": "nomad",
+  "symbol": "NOM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x6776caccfdcd0DFD5a38cb1d0b3B39A4Ca9283ce.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdee4b2d0cca022aad3567efe1b58610a2e01159ad1fa2e3c37040b41e6bf8ae0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Flair Dex",
+  "symbol": "FLDX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x107D2b7c619202D994a4d044c762DD6F8E0c5326.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x119d3ed0171035f363fcb356fc80e59d8ce1e82f140612056dfeee0b8fd8e2a4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

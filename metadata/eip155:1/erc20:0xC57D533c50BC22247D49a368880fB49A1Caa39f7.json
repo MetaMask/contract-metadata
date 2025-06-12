@@ -1,0 +1,8 @@
+{
+  "name": "PowerTrade Fuel",
+  "symbol": "PTF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xC57D533c50BC22247D49a368880fB49A1Caa39f7./ipfs/qmzpfcxcrmbpzwpfd4puphhqk9wdqpbctoemjiuxnp648h/ptf",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x415cf19ae4e814f04879c72af172e4817e5c8cf43ad41e2b7fa4ee27399918ea@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

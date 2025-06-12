@@ -1,0 +1,8 @@
+{
+  "name": "VeriSafe",
+  "symbol": "VSF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xAC9cE326e95f51B5005E9Fe1dd8085A01F18450c./ipfs/qmckffspjug8hzid1hyx1batmnnupuvffmf6dz7gbidisd/bcd8g143jiycg6fdlmyzctvzzpfe4d39atfyicczte9reybrkxjqidn31aenzqs4xxmeza5v3jxgb24uxjnxmv7tal",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6bf0e2192e634d322e384dd13c3601e3c24c13f0bb8ff8d8fdc58fcd19cf606a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Neptune Mutual",
+  "symbol": "NPM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x57F12Fe6a4e5fE819EEc699fadf9DB2D06606bb4.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbf4a4493180d47ea30a628dff2b006174d561fea4102309f9c52272a926c75f0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

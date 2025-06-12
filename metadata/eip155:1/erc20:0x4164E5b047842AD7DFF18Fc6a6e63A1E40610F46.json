@@ -1,0 +1,8 @@
+{
+  "name": "Strike STRK",
+  "symbol": "sSTRK",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x4164E5b047842AD7DFF18Fc6a6e63A1E40610F46./ipfs/qmdcr8cgnshvo1gpjypwnwzk2stauke95ds3xdsjhpcbmu/sstrk",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa3c48ca548bb5253b68fc980d9a09a86209a67c4d010c914da36fb8fac9804f8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

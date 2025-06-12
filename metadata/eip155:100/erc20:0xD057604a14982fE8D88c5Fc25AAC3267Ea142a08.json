@@ -1,0 +1,8 @@
+{
+  "name": "HOPR",
+  "symbol": "HOPR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:100/erc20:0xD057604a14982fE8D88c5Fc25AAC3267Ea142a08.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x872878095f6c66516f0c5c285a93b60049612f0bfce46d449eca534755fa0c8d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

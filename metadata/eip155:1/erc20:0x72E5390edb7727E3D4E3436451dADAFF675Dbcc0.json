@@ -1,0 +1,8 @@
+{
+  "name": "Hanu Yokia",
+  "symbol": "HANU",
+  "decimals": 12,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x72E5390edb7727E3D4E3436451dADAFF675Dbcc0./ipfs/qmaicbzverbcevvkprgbv2qkenjc95tel3gmtaarojx4s6/hanu",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x589a16889b7e46d2e345f3e0e6f8897f806a76e07fb7fc4f3cff0de1d89304b6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

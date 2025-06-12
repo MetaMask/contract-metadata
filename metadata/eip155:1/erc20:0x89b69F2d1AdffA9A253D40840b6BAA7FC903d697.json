@@ -1,0 +1,8 @@
+{
+  "name": "Dione",
+  "symbol": "DIONE",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x89b69F2d1AdffA9A253D40840b6BAA7FC903d697.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7ea6001080858aa8bedb06986212ce4f4cf21f1a2e610fd394009b2299f87d43@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

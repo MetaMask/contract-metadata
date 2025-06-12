@@ -1,0 +1,8 @@
+{
+  "name": "INK",
+  "symbol": "INK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:250/erc20:0xFFabb85adb5C25D57343547a8b32B62F03814b12.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4d9208029327d421ec1cfe38612039ba85d57eeaea0b063e36dc65953941ed84@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

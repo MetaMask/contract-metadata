@@ -1,0 +1,8 @@
+{
+  "name": "Streamity",
+  "symbol": "STM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0E22734e078d6E399BCEE40a549dB591C4Ea46cb./ipfs/qmdqh6ztikeeuweg9homjaeywa6gd2a4wl8twlrmp7nxlz/bcdvebpvsbhnklmchej1nmw2yhzuptathamjiekyvcv24nvvrcwreudhk8mgdroxyugxjvwopqb9xhfywmqjb4somu",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2d99c79f7c2bc22e9904e1703b2cce3819f3a1a60874a0de82cc467afec3cf9f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

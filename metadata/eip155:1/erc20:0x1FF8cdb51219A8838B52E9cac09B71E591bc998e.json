@@ -1,0 +1,8 @@
+{
+  "name": "Cream Binance USD",
+  "symbol": "crBUSD",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1FF8cdb51219A8838B52E9cac09B71E591bc998e./ipfs/qmnxhchexuq6druacysjuyv3yybnutwrmzdpam4dmtxuxb/crbusd",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x61278784f0045cbad250a659a36d241918b7f15fc5ecd025843f3464808b84c7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

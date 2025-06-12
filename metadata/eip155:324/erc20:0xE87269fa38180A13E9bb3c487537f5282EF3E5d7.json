@@ -1,0 +1,8 @@
+{
+  "name": "Dappad",
+  "symbol": "APPA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xE87269fa38180A13E9bb3c487537f5282EF3E5d7.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1e8749590dab93feb69525494c62f50a8bbff10d81a4ed5b5dbebb1b9f3219dd@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

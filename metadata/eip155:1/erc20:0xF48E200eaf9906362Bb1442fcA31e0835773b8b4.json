@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Australian Dollars",
+  "symbol": "sAUD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF48E200eaf9906362Bb1442fcA31e0835773b8b4./ipfs/qmsvlthtrqtwxyafvpktssntumvslkkuz2qnmwob7ah7zw/saud",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x820df1da4e7cf2ba3f0c5dca9cec8368b34917bb8786989ff2650faf1b4142c8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

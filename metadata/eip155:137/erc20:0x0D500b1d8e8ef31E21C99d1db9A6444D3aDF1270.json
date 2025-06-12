@@ -1,0 +1,8 @@
+{
+  "name": "Wrapped Matic",
+  "symbol": "WMATIC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0x0D500b1d8e8ef31E21C99d1db9A6444D3aDF1270.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8e4a70c0ab16209e3fe7a86ffc633aa7137f66d7fe953a9297dd374dc2d5649f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

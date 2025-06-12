@@ -1,0 +1,8 @@
+{
+  "name": "RoboKiden",
+  "symbol": "KIDEN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xCC5c80b4ecef7E6561bb4721d8AC3E80B4503a96.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1b4ad8a2cf56fc632b7e203c02e10d38f5b8aabffa5001585f7eae0909d7b37b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

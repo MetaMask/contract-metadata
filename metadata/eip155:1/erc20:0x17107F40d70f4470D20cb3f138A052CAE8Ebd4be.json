@@ -1,0 +1,8 @@
+{
+  "name": "Cream renBTC",
+  "symbol": "crRENBTC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x17107F40d70f4470D20cb3f138A052CAE8Ebd4be./ipfs/qmyof13gns9bhcjaarxrkdvzmm9c2kojahtj8q97k5oj9f/crrenbtc",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xde4c63b4f22590cebfa6869fe8a5c75267870d08185ab5ba11efc5a19066d7ba@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

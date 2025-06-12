@@ -1,0 +1,8 @@
+{
+  "name": "aidog_agent by Virtuals",
+  "symbol": "AIDOG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x80394ae69f14444605032a7f2d74C8AB7D16a51d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9487114e5675999e5a05468bbc85422efdea0193d8face96f86ea837116934cc@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

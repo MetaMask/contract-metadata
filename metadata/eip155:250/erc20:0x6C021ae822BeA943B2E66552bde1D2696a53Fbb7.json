@@ -1,0 +1,8 @@
+{
+  "name": "Tomb",
+  "symbol": "TOMB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:250/erc20:0x6C021ae822BeA943B2E66552bde1D2696a53Fbb7.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7cd40e50dc30528d1f5a2ca25b64e1a4fd6a9073a72602f1a2510cb018b56cad@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

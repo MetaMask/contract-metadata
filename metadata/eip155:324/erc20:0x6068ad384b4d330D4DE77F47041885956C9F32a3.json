@@ -1,0 +1,8 @@
+{
+  "name": "Array",
+  "symbol": "Array",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x6068ad384b4d330D4DE77F47041885956C9F32a3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2f87ebae1a926ab5dd7aa64004f579407286230bbcfe97b7151e6cdbfff62afd@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

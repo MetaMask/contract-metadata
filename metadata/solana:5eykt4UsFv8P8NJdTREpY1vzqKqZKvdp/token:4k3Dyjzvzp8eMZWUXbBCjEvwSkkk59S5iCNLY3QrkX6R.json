@@ -1,0 +1,8 @@
+{
+  "name": "Raydium",
+  "symbol": "RAY",
+  "decimals": 6,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xff2ff53a8d0dfab58f1c209e200f2749761124eb360560c36c8682d483ca6333@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

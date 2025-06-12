@@ -1,0 +1,8 @@
+{
+  "name": "Wrapped MNT",
+  "symbol": "MNT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x156b36ec68fdBf84A925230ba96CB1CA4C4bde45./ipfs/qmyutm64psjrt1ifbyhugza4dpurcjtpb6beq2ji4auepf/mnt",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x754a0d890867592ed53a42dafb6d770e8f4f472028f25c27213e1303887294bc@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

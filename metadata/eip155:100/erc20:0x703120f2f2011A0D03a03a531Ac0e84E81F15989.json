@@ -1,0 +1,8 @@
+{
+  "name": "UNCL",
+  "symbol": "UNCL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:100/erc20:0x703120f2f2011A0D03a03a531Ac0e84E81F15989.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0b3c50b1f4fb27d9e9ae904e5e7a56c913fddf347fa6d784c069cc21841d9903@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

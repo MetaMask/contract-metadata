@@ -1,0 +1,8 @@
+{
+  "name": "pSTAKE Finance",
+  "symbol": "PSTAKE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x4C882ec256823EE773b25b414d36f92EF58a7c0c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7aaa77024ce8696115f8a636850c6b87364aeecd6b678055f0ff0bb2f0effcaa@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

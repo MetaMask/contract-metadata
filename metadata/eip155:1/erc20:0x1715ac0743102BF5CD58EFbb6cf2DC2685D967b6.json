@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Polkadot",
+  "symbol": "sDOT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1715ac0743102BF5CD58EFbb6cf2DC2685D967b6./ipfs/qmcmtembzcnikcmqbamrwgr9gvnhcatbr18uiaiq7ttwzu/sdot",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x54b310f0a73a44282a54c3bb68aa401ff33a283bf595900b7d91006a7d876591@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

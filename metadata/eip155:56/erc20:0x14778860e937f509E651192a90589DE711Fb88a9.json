@@ -1,0 +1,8 @@
+{
+  "name": "CyberConnect",
+  "symbol": "CYBER",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x14778860e937f509E651192a90589DE711Fb88a9.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4f6928fbc63b0513764273afb5fe4b04f6c6db5eeeded434cf65f491a55a859a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

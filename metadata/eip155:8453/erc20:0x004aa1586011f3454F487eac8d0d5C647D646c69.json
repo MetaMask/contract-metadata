@@ -1,0 +1,8 @@
+{
+  "name": "Dogeverse",
+  "symbol": "DOGEVERSE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x004aa1586011f3454F487eac8d0d5C647D646c69.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2135be43212d108016b8d14d133c61c3e731f08feb4d2001e403e4c39f735487@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

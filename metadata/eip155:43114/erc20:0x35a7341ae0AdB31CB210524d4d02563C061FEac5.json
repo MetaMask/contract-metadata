@@ -1,0 +1,8 @@
+{
+  "name": "Woof",
+  "symbol": "WOOF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x35a7341ae0AdB31CB210524d4d02563C061FEac5.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1df8da3ebb8b9abbdab3401783d3921558679646d193766a9f2778e94e064f94@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

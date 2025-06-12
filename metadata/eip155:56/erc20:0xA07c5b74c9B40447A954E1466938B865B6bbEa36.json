@@ -1,0 +1,8 @@
+{
+  "name": "Venus BNB",
+  "symbol": "vBNB",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xA07c5b74c9B40447A954E1466938B865B6bbEa36.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdb51b5d9f4d61ada4e56fa6a0914c0bef5cb8111037063e819be1bfa2d3e5d13@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

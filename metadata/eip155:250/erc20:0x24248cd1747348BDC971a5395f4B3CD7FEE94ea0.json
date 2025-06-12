@@ -1,0 +1,8 @@
+{
+  "name": "TOMB Bonds",
+  "symbol": "TBOND",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:250/erc20:0x24248cd1747348BDC971a5395f4B3CD7FEE94ea0.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf243a5b524bfc76f57f1501d17e0dfd918c034e51a01140e29eed526257a2def@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

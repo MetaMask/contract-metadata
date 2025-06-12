@@ -1,0 +1,8 @@
+{
+  "name": "EventChain",
+  "symbol": "EVC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB62D18dea74045E822352ce4b3ee77319DC5FF2f./ipfs/qmdyx8kp8jchd1guntjurxe9u89uzdtawlgpfvdxyqabze/bcd8u6be2wshrffpqgckhcjunpe8omqulwpwyzd3yxdm6cngyskkhru8cxvwa62zwewjyrjrrag4pfkikipgchtzez",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x796398bf792a5a7e1a34dd2858e62c93d49b01d9c6f829df3bcb1e55b7bef8a6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

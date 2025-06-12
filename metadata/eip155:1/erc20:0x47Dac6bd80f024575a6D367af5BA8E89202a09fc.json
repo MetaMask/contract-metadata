@@ -1,0 +1,8 @@
+{
+  "name": "OXO.Farm",
+  "symbol": "OXO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x47Dac6bd80f024575a6D367af5BA8E89202a09fc./ipfs/qmvnjte4kbvnfcxqhxzp8hyiscv9bb1zhhr3sujjkjnrqp/oxo",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x86b1e537908679a5c2b4a16369e3a6116fc7ec64330db8c801d1cfd94aa158a1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

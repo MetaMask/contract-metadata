@@ -1,0 +1,8 @@
+{
+  "name": "Tholos",
+  "symbol": "THOL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x88Ead1deb92545856177Fd0a7fc21f0D9Cb936ce.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd8042732e04d2882a6e55d7c7c083b8e2ca2286a7a118981bbcd2b56079a2371@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

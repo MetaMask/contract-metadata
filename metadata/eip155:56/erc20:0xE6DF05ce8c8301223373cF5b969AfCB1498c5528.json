@@ -1,0 +1,8 @@
+{
+  "name": "BNB48 Club",
+  "symbol": "KOGE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xE6DF05ce8c8301223373cF5b969AfCB1498c5528.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd3701cd283f06a0d61a11e8317400e25182678897b2ab4b1ca738fa81d7fc51f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

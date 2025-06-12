@@ -1,0 +1,8 @@
+{
+  "name": "DraculaFi",
+  "symbol": "FANG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x160E07e42AdBC1FCE92D505b579BCD8A3FbEa77d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x48a8778f0d99ee4c5a96508732ec45811553b0ffd05452b9fd13e0b6d545173a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

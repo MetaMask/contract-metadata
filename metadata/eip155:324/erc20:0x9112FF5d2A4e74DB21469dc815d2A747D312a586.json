@@ -1,0 +1,8 @@
+{
+  "name": "pufETH",
+  "symbol": "pufETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x9112FF5d2A4e74DB21469dc815d2A747D312a586.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4ee88b40223c36fc4991cd7ae4c991d67a02154165af0ba219fcc26277f10bce@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

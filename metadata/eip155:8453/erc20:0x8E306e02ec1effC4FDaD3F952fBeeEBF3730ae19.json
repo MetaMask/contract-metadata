@@ -1,0 +1,8 @@
+{
+  "name": "AthenaX9",
+  "symbol": "AiX9",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x8E306e02ec1effC4FDaD3F952fBeeEBF3730ae19.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xebeb9f42a1a7b9ba50322546dabe47080ce45351537b71c8e360b6d3741af266@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

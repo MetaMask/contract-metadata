@@ -1,0 +1,8 @@
+{
+  "name": "Parallel",
+  "symbol": "PAR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x68037790a0229E9CE6Eaa8a99eA92964106c4703./ipfs/qmdbgu3m4sdf9qtn363pudlnurqggyemujxqpv8ewnryck/par",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd6a4a747b3b630419646b91a253faa0e312b07d97e27762c4378dbab4e95983a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

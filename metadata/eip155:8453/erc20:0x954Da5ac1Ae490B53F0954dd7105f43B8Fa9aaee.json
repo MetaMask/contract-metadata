@@ -1,0 +1,8 @@
+{
+  "name": "TANGO",
+  "symbol": "TANGO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x954Da5ac1Ae490B53F0954dd7105f43B8Fa9aaee.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc4b158a3ed09c1ce8a033609754c2c9d593fad9a8bcf4aae50c342db9405710f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

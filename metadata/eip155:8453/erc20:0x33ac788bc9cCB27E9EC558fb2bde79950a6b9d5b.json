@@ -1,0 +1,8 @@
+{
+  "name": "glonkybot",
+  "symbol": "GLANKER",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x33ac788bc9cCB27E9EC558fb2bde79950a6b9d5b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4583ccc94e6f3eaee943f76523a4b01e7c5058712e418731c002560069587816@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Internet",
+  "symbol": "INT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x968D6a288d7B024D5012c0b25d67A889E4E3Ec19.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x669f9215c4542e317c2c32b31c4fc593d77b16ab84da29bb9dfcd83144968ec5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

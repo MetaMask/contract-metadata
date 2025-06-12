@@ -1,0 +1,8 @@
+{
+  "name": "YFII.finance",
+  "symbol": "YFII",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA1D0E215a23d7030842Fc67ce582A6AFA3Ccab83./ipfs/qmptvpepj3omuu4ezjag3tg1hpa7n6tjhzgzkd1eujpp8s/bcdxxyvdydpsvir2udgf3cadbywdcrn3ydxlae31fmn4tdnghwd4agsgthynujprkfgy8kees5dtnq1yh86sf1pfs8",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x736a308002253a2f4c4f6846b3acff041a6730507775922fef899a33eb908004@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

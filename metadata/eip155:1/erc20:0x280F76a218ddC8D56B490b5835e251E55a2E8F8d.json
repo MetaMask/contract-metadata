@@ -1,0 +1,8 @@
+{
+  "name": "Strike UNI",
+  "symbol": "sUNI",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x280F76a218ddC8D56B490b5835e251E55a2E8F8d./ipfs/qmudcfetntq8ntkl8rkmuaedncmk4oj5cmzez1ta5vaufw/suni",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5664bb2b51878fbd2b61b2afd3a227b5d0ade820efa24efdb7f3d947f3e115c1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

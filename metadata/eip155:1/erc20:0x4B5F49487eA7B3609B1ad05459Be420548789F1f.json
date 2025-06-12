@@ -1,0 +1,8 @@
+{
+  "name": "LeverFi",
+  "symbol": "LEVER",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x4B5F49487eA7B3609B1ad05459Be420548789F1f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7858cfe6674c6bc7364e80ca4186d12adedef8e79d9f706ca44ef514ca7607a8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

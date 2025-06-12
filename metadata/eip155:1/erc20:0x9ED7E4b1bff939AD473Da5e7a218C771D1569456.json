@@ -1,0 +1,8 @@
+{
+  "name": "Reunit Wallet",
+  "symbol": "REUNI",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9ED7E4b1bff939AD473Da5e7a218C771D1569456.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x55db2cea84cdac7cb29f8db679d233645d377b74157c4a7d65986edee33371de@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

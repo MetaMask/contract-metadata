@@ -1,0 +1,8 @@
+{
+  "name": "Ariva",
+  "symbol": "ARV",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x6679Eb24f59dfE111864aec72b443D1DA666b360.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x778097d122e4180cb1383f8234bb5dfdf761a9d118459a80543dd0398edb13dc@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

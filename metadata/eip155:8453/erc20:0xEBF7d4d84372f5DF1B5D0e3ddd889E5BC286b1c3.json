@@ -1,0 +1,8 @@
+{
+  "name": "Ali for fx protocol by Virtuals",
+  "symbol": "FX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xEBF7d4d84372f5DF1B5D0e3ddd889E5BC286b1c3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc19245cb467e8ad589e4a868fb5916a208a352383d629c45b2d859b6be120260@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

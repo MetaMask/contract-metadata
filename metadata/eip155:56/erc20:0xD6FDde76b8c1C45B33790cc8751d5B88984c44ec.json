@@ -1,0 +1,8 @@
+{
+  "name": "StrikeX",
+  "symbol": "STRX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xD6FDde76b8c1C45B33790cc8751d5B88984c44ec.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x38135b1c16797bad5f595a04c3d05ec7f778d22b7b96a01c6672ed9ae8badb75@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

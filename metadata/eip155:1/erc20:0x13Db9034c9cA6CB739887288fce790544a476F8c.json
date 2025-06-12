@@ -1,0 +1,8 @@
+{
+  "name": "Taiyo",
+  "symbol": "TAIYO",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x13Db9034c9cA6CB739887288fce790544a476F8c./ipfs/qmrffegpgec3sku4mevqhx2tsvkxr21zmpmdhrg9putjbo/taiyo",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4073eb72a38b7a7aabb0830cad33195b166d6f9f63bdfcadecdfce83e1ebd037@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

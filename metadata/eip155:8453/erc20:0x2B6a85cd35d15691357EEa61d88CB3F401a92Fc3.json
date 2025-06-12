@@ -1,0 +1,8 @@
+{
+  "name": "SurvToken",
+  "symbol": "SURV",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x2B6a85cd35d15691357EEa61d88CB3F401a92Fc3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2312dc005e110e12b405a83f5e44db05d5095544f2f87386d5ee044eb680eba7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

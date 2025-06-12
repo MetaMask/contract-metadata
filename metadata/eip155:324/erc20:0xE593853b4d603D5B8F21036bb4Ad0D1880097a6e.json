@@ -1,0 +1,8 @@
+{
+  "name": "FUL",
+  "symbol": "FUL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xE593853b4d603D5B8F21036bb4Ad0D1880097a6e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x31033f1aa823e0342ff68ba222c053bb41ae879914be61092df0f3f4b4e39989@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

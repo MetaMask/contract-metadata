@@ -1,0 +1,8 @@
+{
+  "name": "CreatorBid",
+  "symbol": "BID",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xA1832F7f4e534AE557F9b5ab76de54B1873E498b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8f85746b25f3707e7c5f5c67e921d980935e1ae1309a0916ef5dd0fd54d70f77@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

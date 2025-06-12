@@ -1,0 +1,8 @@
+{
+  "name": "Agave",
+  "symbol": "AGVE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:100/erc20:0x3a97704a1b25f08AA230ae53b352e2E72EF52843.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x23c89ac3c1dff094d2c133518b4c317097ef3fb01f5d55014c2127ed07db5fe7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

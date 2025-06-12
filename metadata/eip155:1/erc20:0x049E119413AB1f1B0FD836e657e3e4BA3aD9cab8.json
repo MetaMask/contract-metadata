@@ -1,0 +1,8 @@
+{
+  "name": "Kesef.Finance",
+  "symbol": "KSF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x049E119413AB1f1B0FD836e657e3e4BA3aD9cab8./ipfs/qmsrwbyhq9w9kykl8c7pwdxl4761x8mthrb4gagfgg7f9h/ksf",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x184169c6257508d8c1f206dc7567adf937d1cfc64e89f1caa6c01013cf6b9ad6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

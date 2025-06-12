@@ -1,0 +1,8 @@
+{
+  "name": "CheckDot",
+  "symbol": "CDT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xCDb37a4fbc2dA5B78aa4E41a432792F9533E85cc.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8eb5fb341203b13920856740a6e1f509dcb05ddf286c61cca45f35af8d9f83d1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

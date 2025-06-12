@@ -1,0 +1,8 @@
+{
+  "name": "Create",
+  "symbol": "CREATE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x3849cc93e7B71B37885237cd91A215974135cd8d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdf5a99c7ea8cbda53142d54ce25a912c7392c4d4ba8a4bada1f4380fbb2375fe@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}
