@@ -1,0 +1,7 @@
+{
+  "name": "Honey",
+  "symbol": "HONEY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:80094/erc20:0xFCBD14DC51f0A4d49d5E53C2E0950e0bC26d0Dce.png"
+}

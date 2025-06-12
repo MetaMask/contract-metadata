@@ -1,0 +1,7 @@
+{
+  "name": "iBERA",
+  "symbol": "iBERA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:80094/erc20:0x9b6761bf2397Bb5a6624a856cC84A3A14Dcd3fe5.png"
+}
