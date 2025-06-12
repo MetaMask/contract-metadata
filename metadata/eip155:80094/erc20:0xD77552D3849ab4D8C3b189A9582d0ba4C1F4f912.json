@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped gBERA",
+  "symbol": "wgBERA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:80094/erc20:0xD77552D3849ab4D8C3b189A9582d0ba4C1F4f912.png"
+}
