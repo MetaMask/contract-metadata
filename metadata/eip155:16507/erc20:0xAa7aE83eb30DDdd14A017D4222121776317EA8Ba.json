@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped GSYS",
+  "symbol": "WGSYS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:16507/erc20:0xAa7aE83eb30DDdd14A017D4222121776317EA8Ba.png"
+}

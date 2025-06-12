@@ -1,0 +1,7 @@
+{
+  "name": "FAKE FUNNY",
+  "symbol": "FAKE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:16507/erc20:0xCA7670e798f355a36E1F8D2aE94Dd2797eeaC7e8.png"
+}
