@@ -1,0 +1,7 @@
+{
+  "name": "NOT A CULT",
+  "symbol": "CULT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:33139/erc20:0xc7689ac46BC7a2c2819F0d9F280DC09C43295aBA.png"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Ape Finance",
+  "symbol": "APEFI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:33139/erc20:0x4332f8A38f14BD3D8D1553aF27D7c7Ac6C27278D.png"
+}
