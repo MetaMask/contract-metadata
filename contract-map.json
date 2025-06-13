@@ -4518,5 +4518,12 @@
     "erc20": true,
     "symbol": "FPS",
     "decimals": 18
+  },
+  "0xA0feE8a48933A3bE702Cc8444608DEDA5C3AB0aC": {
+  "name": "BlockU",  
+  "logo": "BlockU.svg",
+  "erc20": true,   
+  "symbol": "BLOCKU",
+  "decimals": 18
   }
 }
