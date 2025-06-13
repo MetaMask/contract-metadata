@@ -1,0 +1,7 @@
+{
+  "name": "Ape ETH",
+  "symbol": "apeETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:33139/erc20:0xcF800F4948D16F23333508191B1B1591daF70438.png"
+}
