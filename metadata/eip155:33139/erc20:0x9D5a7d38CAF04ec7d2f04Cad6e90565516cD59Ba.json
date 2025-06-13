@@ -1,0 +1,7 @@
+{
+  "name": "ApeBank",
+  "symbol": "BANK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:33139/erc20:0x9D5a7d38CAF04ec7d2f04Cad6e90565516cD59Ba.svg"
+}
