@@ -1,0 +1,7 @@
+{
+  "name": "Blend Token",
+  "symbol": "BLEND",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:41923/erc20:0x526E8a66E357FFeaEeEc6d7Be1E5eA44a788dd1d.png"
+}

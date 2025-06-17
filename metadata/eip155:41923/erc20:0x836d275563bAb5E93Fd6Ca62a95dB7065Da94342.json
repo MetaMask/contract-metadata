@@ -1,0 +1,7 @@
+{
+  "name": "USD Coin",
+  "symbol": "USDC",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:41923/erc20:0x836d275563bAb5E93Fd6Ca62a95dB7065Da94342.png"
+}
