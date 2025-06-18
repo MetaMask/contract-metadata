@@ -1,0 +1,7 @@
+{
+  "name": "BitVault USD",
+  "symbol": "bvUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:747474/erc20:0x876aac7648d79f87245e73316eb2d100e75f3df1.svg"
+}
