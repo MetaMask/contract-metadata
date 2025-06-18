@@ -1,0 +1,7 @@
+{
+  "name": "Bridge-wrapped MORPHO",
+  "symbol": "MORPHO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:747474/erc20:0x1e5eFCA3D0dB2c6d5C67a4491845c43253eB9e4e.png"
+}

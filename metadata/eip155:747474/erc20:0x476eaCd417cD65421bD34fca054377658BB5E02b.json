@@ -1,0 +1,7 @@
+{
+  "name": "Bridge-wrapped Yearn Finance",
+  "symbol": "YFI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:747474/erc20:0x476eaCd417cD65421bD34fca054377658BB5E02b.png"
+}
