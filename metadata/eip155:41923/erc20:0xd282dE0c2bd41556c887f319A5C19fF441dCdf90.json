@@ -1,0 +1,7 @@
+{
+  "name": "EDU StableDollar",
+  "symbol": "ESD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:41923/erc20:0xd282dE0c2bd41556c887f319A5C19fF441dCdf90.png"
+}
