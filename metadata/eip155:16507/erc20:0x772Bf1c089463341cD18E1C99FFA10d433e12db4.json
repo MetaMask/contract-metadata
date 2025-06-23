@@ -1,0 +1,7 @@
+{
+  "name": "USD Coin from Blue20",
+  "symbol": "USDC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:16507/erc20:0x772Bf1c089463341cD18E1C99FFA10d433e12db4.png"
+}
