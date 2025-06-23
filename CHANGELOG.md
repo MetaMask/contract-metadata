@@ -1,4 +1,5 @@
 # Changelog
+
 All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
@@ -7,31 +8,25 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ## [2.6.0]
-### Uncategorized
+
+### Added
+
 - feat: STAKE-1054 add missing atokens to contract metadata repo ([#1513](https://github.com/MetaMask/contract-metadata/pull/1513))
-- chore: update sei tokens ([#1512](https://github.com/MetaMask/contract-metadata/pull/1512))
-- chore: replaced matchain erc20 tokens ([#1511](https://github.com/MetaMask/contract-metadata/pull/1511))
 - chore: add berachain erc20 icons ([#1506](https://github.com/MetaMask/contract-metadata/pull/1506))
 - chore: add educhain erc20 icons ([#1507](https://github.com/MetaMask/contract-metadata/pull/1507))
 - chore: add genesys erc20 icons ([#1508](https://github.com/MetaMask/contract-metadata/pull/1508))
 - Add SVG icons for lisUSD and slisBNB ([#1500](https://github.com/MetaMask/contract-metadata/pull/1500))
-- chore: update sei tokens ([#1499](https://github.com/MetaMask/contract-metadata/pull/1499))
 - Added UnlockProtocol Token ([#1501](https://github.com/MetaMask/contract-metadata/pull/1501))
 - Add phpt token ([#1494](https://github.com/MetaMask/contract-metadata/pull/1494))
 - chore: add monad-testnet erc20 contract metadata ([#1492](https://github.com/MetaMask/contract-metadata/pull/1492))
 - chore: add flow erc20 icons ([#1491](https://github.com/MetaMask/contract-metadata/pull/1491))
 - chore: add matchain icons and metadata ([#1490](https://github.com/MetaMask/contract-metadata/pull/1490))
 - Add EPIC token ([#1438](https://github.com/MetaMask/contract-metadata/pull/1438))
-- Chore/update plume icons ([#1479](https://github.com/MetaMask/contract-metadata/pull/1479))
 - chore: added bitdca token ([#1487](https://github.com/MetaMask/contract-metadata/pull/1487))
-- chore: upgrade test runner version to ubuntu-latest ([#1485](https://github.com/MetaMask/contract-metadata/pull/1485))
-- add DUSD token ([#1484](https://github.com/MetaMask/contract-metadata/pull/1484))
-- Update erc20:0x374D7860c4f2f604De0191298dD393703Cce84f3.json ([#1483](https://github.com/MetaMask/contract-metadata/pull/1483))
 - chore: add sei icons and metadata ([#1477](https://github.com/MetaMask/contract-metadata/pull/1477))
 - chore: add XCOPE icon and metadata ([#1481](https://github.com/MetaMask/contract-metadata/pull/1481))
 - chore: add ANSEM icon and metadata ([#1480](https://github.com/MetaMask/contract-metadata/pull/1480))
-- Replace USDC logo with official logo from Circle ([#1475](https://github.com/MetaMask/contract-metadata/pull/1475))
-- chore: change usdc logo ([#1474](https://github.com/MetaMask/contract-metadata/pull/1474))
+- add DUSD token ([#1484](https://github.com/MetaMask/contract-metadata/pull/1484))
 - chore: add plume icons and metadata ([#1472](https://github.com/MetaMask/contract-metadata/pull/1472))
 - chore: add lens token icons ([#1469](https://github.com/MetaMask/contract-metadata/pull/1469))
 - chore: added usdc linea ([#1468](https://github.com/MetaMask/contract-metadata/pull/1468))
@@ -40,78 +35,97 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add metahub global logo & metadata ([#1465](https://github.com/MetaMask/contract-metadata/pull/1465))
 - chore: added aBasUSDbC ([#1463](https://github.com/MetaMask/contract-metadata/pull/1463))
 - Add WNK logo and metadata ([#1460](https://github.com/MetaMask/contract-metadata/pull/1460))
-- feat: update workflow to upload USL to S3 ([#1457](https://github.com/MetaMask/contract-metadata/pull/1457))
 - feat: added frankencoin (ZCHF) ([#1453](https://github.com/MetaMask/contract-metadata/pull/1453))
 - chore: add missing icon and update existing metadata ([#1455](https://github.com/MetaMask/contract-metadata/pull/1455))
-- Update PROS.svg to fix display issue on iOS / Safari ([#1451](https://github.com/MetaMask/contract-metadata/pull/1451))
-- removed USL workflow ([#1450](https://github.com/MetaMask/contract-metadata/pull/1450))
 - Add HODL eip155:56 ([#1444](https://github.com/MetaMask/contract-metadata/pull/1444))
-- update XZK and vXZK logo ([#1447](https://github.com/MetaMask/contract-metadata/pull/1447))
-- remove cache in USL generation action ([#1442](https://github.com/MetaMask/contract-metadata/pull/1442))
 - Added uniswap standard list generation on master commit ([#1439](https://github.com/MetaMask/contract-metadata/pull/1439))
 - Add ELX token ([#1435](https://github.com/MetaMask/contract-metadata/pull/1435))
-- chore: update trump token ([#1436](https://github.com/MetaMask/contract-metadata/pull/1436))
-- add MBC token  ([#1428](https://github.com/MetaMask/contract-metadata/pull/1428))
+- add MBC token ([#1428](https://github.com/MetaMask/contract-metadata/pull/1428))
 - chore: add workflow_dispatch to security-code-scanner ([#1433](https://github.com/MetaMask/contract-metadata/pull/1433))
-- Rename 0x12B...F3b.png to erc20:0x12B...F3b.png ([#1432](https://github.com/MetaMask/contract-metadata/pull/1432))
 - Add Broccoli(BROCCOLI) ([#1430](https://github.com/MetaMask/contract-metadata/pull/1430))
 - Add Monad Testnet tokens ([#1425](https://github.com/MetaMask/contract-metadata/pull/1425))
 - API-1628 - Creates a mechanism to build a contract map for releases. ([#1424](https://github.com/MetaMask/contract-metadata/pull/1424))
-- API-1627 - Updated Submission Process Documentation  ([#1423](https://github.com/MetaMask/contract-metadata/pull/1423))
 - API-1618: copy images to new CAIP-19 folders ([#1422](https://github.com/MetaMask/contract-metadata/pull/1422))
 - Add upgraded PROS token contract address ([#1421](https://github.com/MetaMask/contract-metadata/pull/1421))
 - Feat/add-aita ([#1420](https://github.com/MetaMask/contract-metadata/pull/1420))
 - feat: Add AITA (AITA) ([#1419](https://github.com/MetaMask/contract-metadata/pull/1419))
 - feat: Spectre AI logo ([#1418](https://github.com/MetaMask/contract-metadata/pull/1418))
-- Convert png (hiden as well) to svg ([#1417](https://github.com/MetaMask/contract-metadata/pull/1417))
 - Add FEG ([#1416](https://github.com/MetaMask/contract-metadata/pull/1416))
 - Add Carboneum (C8) ERC-20 token to list ([#553](https://github.com/MetaMask/contract-metadata/pull/553))
-- Update Fuse token logo ([#1409](https://github.com/MetaMask/contract-metadata/pull/1409))
 - Add Databot token ([#1408](https://github.com/MetaMask/contract-metadata/pull/1408))
-- fix typo in the file CHANGELOG.md ([#1407](https://github.com/MetaMask/contract-metadata/pull/1407))
 - Add Fleabone token and logo to MetaMask ([#1405](https://github.com/MetaMask/contract-metadata/pull/1405))
 - Add CYBER token and logo to MetaMask ([#1401](https://github.com/MetaMask/contract-metadata/pull/1401))
-- Update token image for Prosper (PROS) ([#1398](https://github.com/MetaMask/contract-metadata/pull/1398))
 - Add SHIBADOG token and logo to matamask ([#1376](https://github.com/MetaMask/contract-metadata/pull/1376))
-- Update COW.svg ([#1392](https://github.com/MetaMask/contract-metadata/pull/1392))
 - chore: propose update to node 18.x & 20.x instead of 14x & 16x ([#1389](https://github.com/MetaMask/contract-metadata/pull/1389))
 - chore: add MM api platform team as codeowners ([#1388](https://github.com/MetaMask/contract-metadata/pull/1388))
 - Uploading metadata for new BOOH token. ([#1372](https://github.com/MetaMask/contract-metadata/pull/1372))
-- Fix MOOV Token Logo ([#1378](https://github.com/MetaMask/contract-metadata/pull/1378))
 - Add support for BAG token ([#1346](https://github.com/MetaMask/contract-metadata/pull/1346))
-- Update AAVE/GHO token logos, add stkGHO ([#1369](https://github.com/MetaMask/contract-metadata/pull/1369))
 - Add ether.fi Wrapped eETH (weETH) token ([#1367](https://github.com/MetaMask/contract-metadata/pull/1367))
 - Add ether.fi Staked ETH (eETH) token ([#1365](https://github.com/MetaMask/contract-metadata/pull/1365))
 - Add ether.fi Staked BTC (eBTC) token ([#1364](https://github.com/MetaMask/contract-metadata/pull/1364))
 - Adding SKY, USDS, and sUSDS tokens from Sky Ecosystem (fka MakerDAO) ([#1366](https://github.com/MetaMask/contract-metadata/pull/1366))
-- Rebranding of Newscrypto to Numerico ([#1352](https://github.com/MetaMask/contract-metadata/pull/1352))
 - Add Hoppy Token Image ([#1351](https://github.com/MetaMask/contract-metadata/pull/1351))
 - Chore/add pol support ([#1350](https://github.com/MetaMask/contract-metadata/pull/1350))
 - Add Elixir deUSD ([#1332](https://github.com/MetaMask/contract-metadata/pull/1332))
 - Added pStake token data ([#1347](https://github.com/MetaMask/contract-metadata/pull/1347))
 - Add wPAW coin ([#1344](https://github.com/MetaMask/contract-metadata/pull/1344))
 - Add Pocket Network Token ([#1336](https://github.com/MetaMask/contract-metadata/pull/1336))
-- Update contract-map.json ([#1339](https://github.com/MetaMask/contract-metadata/pull/1339))
 - Added $DMCC ([#1337](https://github.com/MetaMask/contract-metadata/pull/1337))
 - add XZK and vXZK token by Mystiko.Network ([#1318](https://github.com/MetaMask/contract-metadata/pull/1318))
-- chore: update bnb logo ([#1334](https://github.com/MetaMask/contract-metadata/pull/1334))
 - Adding TON, WTON token ([#1329](https://github.com/MetaMask/contract-metadata/pull/1329))
-- feat: update QuickSwap icon ([#1321](https://github.com/MetaMask/contract-metadata/pull/1321))
 - feat: added BST token icon & info to the contract-map ([#1320](https://github.com/MetaMask/contract-metadata/pull/1320))
 - Add BounceBit BBUSD and BBTC ([#1313](https://github.com/MetaMask/contract-metadata/pull/1313))
-- Update CODEOWNERS ([#1319](https://github.com/MetaMask/contract-metadata/pull/1319))
-- Update CODEOWNERS ([#1314](https://github.com/MetaMask/contract-metadata/pull/1314))
 - add ynETH logo and entries in contract-map.json ([#1311](https://github.com/MetaMask/contract-metadata/pull/1311))
 - feat: add Angle tokens ([#1309](https://github.com/MetaMask/contract-metadata/pull/1309))
-- updated name to marlin ([#1305](https://github.com/MetaMask/contract-metadata/pull/1305))
 - Add MAGIC token by Treasure ([#1303](https://github.com/MetaMask/contract-metadata/pull/1303))
 - Add MUBI token ([#1298](https://github.com/MetaMask/contract-metadata/pull/1298))
 - Add Shared Libraries team in codeowners file ([#1264](https://github.com/MetaMask/contract-metadata/pull/1264))
 - 🐱 add support for MEOW ERC20 token icon ([#1291](https://github.com/MetaMask/contract-metadata/pull/1291))
+
+### Removed
+
+- removed USL workflow ([#1450](https://github.com/MetaMask/contract-metadata/pull/1450))
+- remove cache in USL generation action ([#1442](https://github.com/MetaMask/contract-metadata/pull/1442))
+
+### Fixed
+
+- fix typo in the file CHANGELOG.md ([#1407](https://github.com/MetaMask/contract-metadata/pull/1407))
+- Fix MOOV Token Logo ([#1378](https://github.com/MetaMask/contract-metadata/pull/1378))
+
+### Changed
+
+- chore: update sei tokens ([#1512](https://github.com/MetaMask/contract-metadata/pull/1512))
+- chore: replaced matchain erc20 tokens ([#1511](https://github.com/MetaMask/contract-metadata/pull/1511))
+- chore: update sei tokens ([#1499](https://github.com/MetaMask/contract-metadata/pull/1499))
+- Chore/update plume icons ([#1479](https://github.com/MetaMask/contract-metadata/pull/1479))
+- chore: upgrade test runner version to ubuntu-latest ([#1485](https://github.com/MetaMask/contract-metadata/pull/1485))
+- Update erc20:0x374D7860c4f2f604De0191298dD393703Cce84f3.json ([#1483](https://github.com/MetaMask/contract-metadata/pull/1483))
+- Replace USDC logo with official logo from Circle ([#1475](https://github.com/MetaMask/contract-metadata/pull/1475))
+- chore: change usdc logo ([#1474](https://github.com/MetaMask/contract-metadata/pull/1474))
+- feat: update workflow to upload USL to S3 ([#1457](https://github.com/MetaMask/contract-metadata/pull/1457))
+- Update PROS.svg to fix display issue on iOS / Safari ([#1451](https://github.com/MetaMask/contract-metadata/pull/1451))
+- update XZK and vXZK logo ([#1447](https://github.com/MetaMask/contract-metadata/pull/1447))
+- chore: update trump token ([#1436](https://github.com/MetaMask/contract-metadata/pull/1436))
+- Rename 0x12B...F3b.png to erc20:0x12B...F3b.png ([#1432](https://github.com/MetaMask/contract-metadata/pull/1432))
+- API-1627 - Updated Submission Process Documentation ([#1423](https://github.com/MetaMask/contract-metadata/pull/1423))
+- Convert png (hiden as well) to svg ([#1417](https://github.com/MetaMask/contract-metadata/pull/1417))
+- Update Fuse token logo ([#1409](https://github.com/MetaMask/contract-metadata/pull/1409))
+- Update token image for Prosper (PROS) ([#1398](https://github.com/MetaMask/contract-metadata/pull/1398))
+- Update COW.svg ([#1392](https://github.com/MetaMask/contract-metadata/pull/1392))
+- Update AAVE/GHO token logos, add stkGHO ([#1369](https://github.com/MetaMask/contract-metadata/pull/1369))
+- Rebranding of Newscrypto to Numerico ([#1352](https://github.com/MetaMask/contract-metadata/pull/1352))
+- Update contract-map.json ([#1339](https://github.com/MetaMask/contract-metadata/pull/1339))
+- chore: update bnb logo ([#1334](https://github.com/MetaMask/contract-metadata/pull/1334))
+- feat: update QuickSwap icon ([#1321](https://github.com/MetaMask/contract-metadata/pull/1321))
+- Update CODEOWNERS ([#1319](https://github.com/MetaMask/contract-metadata/pull/1319))
+- Update CODEOWNERS ([#1314](https://github.com/MetaMask/contract-metadata/pull/1314))
+- updated name to marlin ([#1305](https://github.com/MetaMask/contract-metadata/pull/1305))
 - Update FOUR token name and logo ([#1292](https://github.com/MetaMask/contract-metadata/pull/1292))
 
 ## [2.5.0]
+
 ### Added
+
 - Adding NGL logo and token contract metadata ([#1289](https://github.com/MetaMask/contract-metadata/pull/1289))
 - Adding ETF Rocks logo and information ([#1256](https://github.com/MetaMask/contract-metadata/pull/1256))
 - Adding MVL(Mass Vehicle Ledger) Token ([#1281](https://github.com/MetaMask/contract-metadata/pull/1281))
@@ -148,6 +162,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Enabling MetaMask security code scanner ([#1280](https://github.com/MetaMask/contract-metadata/pull/1280))
 
 ### Changed
+
 - Updates to USDC and EURC branding ([#1226](https://github.com/MetaMask/contract-metadata/pull/1226))
 - remove overlapping test ([#1219](https://github.com/MetaMask/contract-metadata/pull/1219))
 - Update ART logo ([#1241](https://github.com/MetaMask/contract-metadata/pull/1241))
@@ -157,7 +172,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix LUNA token names ([#1220](https://github.com/MetaMask/contract-metadata/pull/1220))
 
 ## [2.4.0]
+
 ### Added
+
 - Add PayPal USD (PYUSD) ([#1214](https://github.com/MetaMask/contract-metadata/pull/1214))
 - Add 3space ([#1202](https://github.com/MetaMask/contract-metadata/pull/1202))
 - Add MATIC logo ([#1200](https://github.com/MetaMask/contract-metadata/pull/1200))
@@ -177,20 +194,26 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add TEMPLE ([#1147](https://github.com/MetaMask/contract-metadata/pull/1147))
 
 ### Changed
+
 - Update $BEN Coin ([#1198](https://github.com/MetaMask/contract-metadata/pull/1198))
 - Update DIA logo after rebranding ([#1180](https://github.com/MetaMask/contract-metadata/pull/1180))
 - Update CIG token logo to add missing pixel ([#1179](https://github.com/MetaMask/contract-metadata/pull/1179))
 
 ### Fixed
+
 - Fix stretched UMA logo ([#1185](https://github.com/MetaMask/contract-metadata/pull/1185))
 - Fix decimals for QUID and GPO ([#1175](https://github.com/MetaMask/contract-metadata/pull/1175))
 
 ## [2.3.1]
+
 ### Changed
+
 - This release fixes an error that prevented the publishing of v2.3.0. No functional changes.
 
 ## [2.3.0]
+
 ### Added
+
 - Add Ethereum Swarm ([#1166](https://github.com/MetaMask/contract-metadata/pull/1166))
 - Add Illuvium token ([#1164](https://github.com/MetaMask/contract-metadata/pull/1164))
 - Add PUBLISH Token ([#1163](https://github.com/MetaMask/contract-metadata/pull/1163))
@@ -203,11 +226,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add Gearbox Protocol (GEAR) ([#1145](https://github.com/MetaMask/contract-metadata/pull/1145))
 
 ### Changed
+
 - Update BZR.svg ([#1168](https://github.com/MetaMask/contract-metadata/pull/1168))
 - Update CoW Protocol Tokens Logos ([#1148](https://github.com/MetaMask/contract-metadata/pull/1148))
 
 ## [2.2.0]
+
 ### Added
+
 - Add METAOASIS Token ([#1139](https://github.com/MetaMask/contract-metadata/pull/1139))
 - Updated the contract address for $MAHA and added $ARTH logo ([#1137](https://github.com/MetaMask/contract-metadata/pull/1137))
 - Add Aventus ([#1133](https://github.com/MetaMask/contract-metadata/pull/1133))
@@ -222,13 +248,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Updated StormX to the new address ([#1123](https://github.com/MetaMask/contract-metadata/pull/1123))
 
 ### Changed
+
 - Optimize SVG icons ([#1132](https://github.com/MetaMask/contract-metadata/pull/1132))
 - Remove not used tokens with .png logos ([#1126](https://github.com/MetaMask/contract-metadata/pull/1126))
 - Updated logo extension to using .svg ([#1122](https://github.com/MetaMask/contract-metadata/pull/1122))
 - Updated AirSwap logo ([#1120](https://github.com/MetaMask/contract-metadata/pull/1120))
 
 ## [2.1.0]
+
 ### Added
+
 - Add TrueGBP, TrueAUD, TrueCAD and TrueHKD ([#1116](https://github.com/MetaMask/contract-metadata/pull/1116))
 - Add STAT ([#1114](https://github.com/MetaMask/contract-metadata/pull/1114))
 - Add Realio Network RIO token ([#624](https://github.com/MetaMask/contract-metadata/pull/624))
@@ -243,23 +272,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - add usdd logo to metamask ([#1051](https://github.com/MetaMask/contract-metadata/pull/1051))
 
 ## [2.0.0]
+
 ### Added
-- Add Safe Token Logo  ([#1089](https://github.com/MetaMask/contract-metadata/pull/1089))
+
+- Add Safe Token Logo ([#1089](https://github.com/MetaMask/contract-metadata/pull/1089))
 - Add TRB token ([#1087](https://github.com/MetaMask/contract-metadata/pull/1087))
-- Add XCAD Network Token (XCAD) logo  ([#1070](https://github.com/MetaMask/contract-metadata/pull/1070))
+- Add XCAD Network Token (XCAD) logo ([#1070](https://github.com/MetaMask/contract-metadata/pull/1070))
 - Adding the 00 token icon to Metamask ([#1079](https://github.com/MetaMask/contract-metadata/pull/1079))
 - Add GPO to Metamask contract map ([#1019](https://github.com/MetaMask/contract-metadata/pull/1019))
 - Add NEAR Erc20 token. ([#859](https://github.com/MetaMask/contract-metadata/pull/859))
 - Add Quid Ika Token ([#1043](https://github.com/MetaMask/contract-metadata/pull/1043))
 
 ### Changed
+
 - Updated FKX logo & details ([#1088](https://github.com/MetaMask/contract-metadata/pull/1088))
 - Updating the 00.svg icon ([#1080](https://github.com/MetaMask/contract-metadata/pull/1080))
 - Update `is-release` filter ([#1075](https://github.com/MetaMask/contract-metadata/pull/1075))
 - **BREAKING:** Removed support for Node v12 in favor of v14 ([#137](https://github.com/MetaMask/eth-json-rpc-middleware/pull/137))
 
 ## [1.36.0]
+
 ### Uncategorized
+
 - Add release workflows ([#1071](https://github.com/MetaMask/contract-metadata/pull/1071))
 - Add icons for OGV, veOGV and wOUSD ([#1058](https://github.com/MetaMask/contract-metadata/pull/1058))
 - Add Panther Protocol (ZKP) token and logo ([#1066](https://github.com/MetaMask/contract-metadata/pull/1066))
