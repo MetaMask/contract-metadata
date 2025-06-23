@@ -1,5 +1,5 @@
 {
-  "name": "Aave Linea USDC",
+  "name": "Aave v3 USDC",
   "symbol": "aUSDC",
   "decimals": 6,
   "erc20": true,
