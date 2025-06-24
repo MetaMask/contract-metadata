@@ -1,0 +1,7 @@
+{
+  "name": "WONG",
+  "symbol": "WONG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:33139/erc20:0xd6e4DF460D9ba104Dfc5Dc57DB392c177083d20c.png"
+}
