@@ -1,0 +1,7 @@
+{
+  "name": "Curve.Fi USD Stablecoin",
+  "symbol": "crvUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:747474/erc20:0xB102f7Efa0d5dE071A8D37B3548e1C7CB148Caf3.svg"
+}
