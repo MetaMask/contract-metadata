@@ -1,0 +1,7 @@
+{
+  "name": "Bera Governance Token",
+  "symbol": "BGT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:80094/erc20:0x656b95E550C07a9ffe548bd4085c72418Ceb1dba.png"
+}

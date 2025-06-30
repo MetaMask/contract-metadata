@@ -1,7 +1,0 @@
-{
-  "name": "Matchain Banana",
-  "symbol": "BANANA",
-  "decimals": 18,
-  "erc20": true,
-  "logo": "./icons/eip155:698/erc20:0x0f04c0E43dc436A375893F3F5e2D48dB7BC2Da67.svg"
-}

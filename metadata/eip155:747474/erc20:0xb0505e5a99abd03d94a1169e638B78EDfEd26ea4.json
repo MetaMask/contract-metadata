@@ -1,0 +1,7 @@
+{
+  "name": "SUI (Universal)",
+  "symbol": "uSUI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:747474/erc20:0xb0505e5a99abd03d94a1169e638B78EDfEd26ea4.png"
+}

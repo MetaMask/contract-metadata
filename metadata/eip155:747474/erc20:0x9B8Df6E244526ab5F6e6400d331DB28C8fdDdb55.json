@@ -1,0 +1,7 @@
+{
+  "name": "Solana (Universal)",
+  "symbol": "uSOL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:747474/erc20:0x9B8Df6E244526ab5F6e6400d331DB28C8fdDdb55.png"
+}
