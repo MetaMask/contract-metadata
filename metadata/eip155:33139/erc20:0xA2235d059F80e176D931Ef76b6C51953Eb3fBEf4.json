@@ -1,0 +1,7 @@
+{
+  "name": "Ape USD",
+  "symbol": "apeUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:33139/erc20:0xA2235d059F80e176D931Ef76b6C51953Eb3fBEf4.png"
+}
