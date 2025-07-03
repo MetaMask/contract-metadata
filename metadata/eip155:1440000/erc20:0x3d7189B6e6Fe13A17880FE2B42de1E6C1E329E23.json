@@ -1,0 +1,7 @@
+{
+  "name": "Osmosis",
+  "symbol": "OSMO",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1440000/erc20:0x3d7189B6e6Fe13A17880FE2B42de1E6C1E329E23.png"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Injective",
+  "symbol": "INJ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1440000/erc20:0x81F090B51f67e0A6afdC8d9347516dB519712c2f.png"
+}
