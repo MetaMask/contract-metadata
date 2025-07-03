@@ -1,0 +1,7 @@
+{
+  "name": "Bank of Linea",
+  "symbol": "BOL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:59144/erc20:0xb171EF5cD8d320D52F257924A0E0d41E6f5c40D9.png"
+}
