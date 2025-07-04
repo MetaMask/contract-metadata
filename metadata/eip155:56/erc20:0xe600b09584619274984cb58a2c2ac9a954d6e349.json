@@ -1,0 +1,7 @@
+{
+    "name": "Caramelo Coin",
+    "symbol": "CARAMELO",
+    "decimals": 9,
+    "erc20": true,
+    "logo": "./icons/eip155:56/erc20:0xe600b09584619274984cb58a2c2ac9a954d6e349.png"
+  }
