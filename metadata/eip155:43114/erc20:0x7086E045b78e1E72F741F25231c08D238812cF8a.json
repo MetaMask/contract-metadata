@@ -1,0 +1,8 @@
+{
+  "name": "RaceX",
+  "symbol": "RACEX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x7086E045b78e1E72F741F25231c08D238812cF8a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe550160f5f1626ad9d44491da206c727bab1aba7ab6dd3f018dfe2232db32f23@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

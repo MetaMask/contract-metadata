@@ -1,0 +1,8 @@
+{
+  "name": "Kirobo",
+  "symbol": "KIRO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB1191F691A355B43542bEa9b8847BC73E7abb137./ipfs/qmrupt1s3gacgvuz1itrwdejagaqwtfqtepo74mujf5jji/bcdz97j9x4urwhj3nrzaeaymg3fwxhezcemaiprjqt5hqfnuplmugd4lmd2vdjqhcwrl2vvydjaams5chmgklxx1qn",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xeb1189101c1ce934a6139e072e600bf88fefe0d6e4e4af7b4ba983aef0cdfd9d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

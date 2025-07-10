@@ -1,0 +1,8 @@
+{
+  "name": "Badger DAO",
+  "symbol": "BADGER",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:100/erc20:0xDFC20ae04ed70BD9C7D720f449eeDAE19F659d65.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x98a622f095bc9adfe7779a1d4123e435e0d50af9015941d02a40fe939649b0bd@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

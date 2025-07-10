@@ -1,0 +1,8 @@
+{
+  "name": "Bitcoin Cash",
+  "symbol": "BCH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x8FF795a6f4d97E7887C79bea79ABA5CC76444adf.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7fe9d028798b17584a29342cf29aba10aa2b2c0750f59240b95df96c8cd58d05@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

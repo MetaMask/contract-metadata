@@ -1,0 +1,8 @@
+{
+  "name": "WAI Combinator by Virtuals",
+  "symbol": "WAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x6112b8714221BBD96aE0a0032A683E38B475d06c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfb81db111b42cf93fba8c2f5a1211e83c347028dbc395ac7b750dc26f82ff3b4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

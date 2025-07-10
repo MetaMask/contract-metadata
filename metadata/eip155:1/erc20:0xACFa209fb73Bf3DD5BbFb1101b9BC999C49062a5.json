@@ -1,0 +1,8 @@
+{
+  "name": "Blockchain Certified Data Token",
+  "symbol": "BCDT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xACFa209fb73Bf3DD5BbFb1101b9BC999C49062a5./ipfs/qmexcntbj5xajr8k57daamfbs3zxs1zk5ihodonnsd3rcx/bcd4ohjtd54t2fkyc6usorkouocxuchwc1kbuhsdkwvqjtvpvf8vunbqvkqkcxlu4ulfyz9zvx3ptgyss6itrvsbso",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf56dc6c2b0889a06b5212dac34d3ea01a843e6381ad1d954ec3942c201d891a8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

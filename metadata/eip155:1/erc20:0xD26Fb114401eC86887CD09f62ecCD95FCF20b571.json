@@ -1,0 +1,8 @@
+{
+  "name": "Bitcoin Platinums",
+  "symbol": "BCP",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD26Fb114401eC86887CD09f62ecCD95FCF20b571./ipfs/qmplytvxdohyfmnkxjbuu4b8ussd6ndwjwydni8u5keee9/bce2stdla25ejfw68yyvstvmmxp9uy1kniyj3dbpfzqj5vz4wsrsf9c6nxmzczffse6txakpfc2wcqgoohpx2xeybe",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbece16cd028a75109a9a217f7785c47be4c9918054679d44560b42a690d03f37@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

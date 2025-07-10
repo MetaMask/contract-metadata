@@ -1,0 +1,8 @@
+{
+  "name": "Banana Index",
+  "symbol": "BANDEX",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA67b8e40111A0EDD30C3210b77AADB86AD234c43./ipfs/qmsfrlejy9ytat95xbpvurnb8gm9vvkqkffict4aknb9vf/bandex",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3c7cb716526076cdbc5a06cb6b99421b52639033921cd35478d2863f31ff657f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

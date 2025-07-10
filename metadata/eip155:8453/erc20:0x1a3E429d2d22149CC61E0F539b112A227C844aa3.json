@@ -1,0 +1,8 @@
+{
+  "name": "Loky by Virtuals",
+  "symbol": "LOKY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x1a3E429d2d22149CC61E0F539b112A227C844aa3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc2447c00ba521bbd84726e159a05a31bff66485be25976fdc91f1c78f075bf66@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

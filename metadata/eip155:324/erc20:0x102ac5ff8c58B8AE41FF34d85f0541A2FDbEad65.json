@@ -1,0 +1,8 @@
+{
+  "name": "Polygon Ecosystem",
+  "symbol": "POL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x102ac5ff8c58B8AE41FF34d85f0541A2FDbEad65.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3a5daecdf458e72a82158c3c2cf8f04dc954995ca3fc526086014eba1fcd67e3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

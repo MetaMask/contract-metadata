@@ -1,0 +1,8 @@
+{
+  "name": "VEIL",
+  "symbol": "VEIL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x767a739d1A152639E9Ea1d8c1bd55fDC5B217d7f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4f827b2320991f3e5b923e58a8b6aaba8dee26fda465c32089f814fe50210b87@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Points",
+  "symbol": "POINTS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xFFa1501440cACC9A2CF32d274d87247CB4CbE607.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x16cd3775727fd0d41bb67aec46795aa64974f84714b41fb9f757952c6e4da344@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

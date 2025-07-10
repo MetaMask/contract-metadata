@@ -1,0 +1,8 @@
+{
+  "name": "We're so back",
+  "symbol": "BACK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x4DFbd8a695BAf78EBF8F905a4527020E844b278d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf9b3b8a0922d1644251e6d4aa9b608d5370cccbf82a2b45a2cd23b262cf56968@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

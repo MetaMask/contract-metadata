@@ -1,0 +1,8 @@
+{
+  "name": "Particles Money",
+  "symbol": "PARTICLE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xAFE5451185513925F5E757f001425338FF93412d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe9dcb26bb2dd3ad9d54e4752ab6d37b80854d7e7055d5910c18d04718efc0343@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "X8X Token",
+  "symbol": "X8X",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x910DFc18d6eA3D6A7124a6f8b5458f281060Fa4c./ipfs/qmxdazgl5bmg5vkwxk1f3hucchcr6kvgzryfqtgfiwtmpb/x8x",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xac5afe2212b7fb51fa7fcb4dc921088b134792c3246efdee468dbcc5289b9e78@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "WHACKD",
+  "symbol": "WHACKD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xCF8335727b776D190F9D15a54e6B9B9348439eee.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xac798f8cec7e4d103cb472554d76bf20ae150ad4a6cba52301e6349da6c52ccf@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

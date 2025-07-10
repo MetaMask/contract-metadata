@@ -1,0 +1,8 @@
+{
+  "name": "Gluteus Maximus by Virtuals",
+  "symbol": "GLUTEU",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x06a63c498ef95AD1Fa4FFF841955e512B4b2198a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbaf76a842aff088fe50a0153f126f9a9f80121cb7c3697edef7e2224d2226ca3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Nation3",
+  "symbol": "NATION",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x333a4823466879EEF910a04d473505DA62142069./ipfs/qmayqqqpn8skkkqcw6ltcg9amkquspybw5snxwp76muog5/nation",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4e0aac1ed5b3b822f872f6ce39c50339920144b2062ccfcde687deb37de2ec95@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

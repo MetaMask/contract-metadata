@@ -1,0 +1,8 @@
+{
+  "name": "Dogera",
+  "symbol": "DOGERA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xA59aF353e423f54D47F2ce5f85e3e265D95282cd.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x41b5f6548065275f4bde29aa690e5e776d2d3d8ce8c0beb65a1b0d5470bb41dd@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

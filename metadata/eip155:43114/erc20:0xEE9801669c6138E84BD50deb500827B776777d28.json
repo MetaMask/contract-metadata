@@ -1,0 +1,8 @@
+{
+  "name": "O3 Swap",
+  "symbol": "O3",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xEE9801669c6138E84BD50deb500827B776777d28.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x391cab14c9ad5fb1a958b9a4e27c689889e88d7fe07b8c6b565c3778765be956@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

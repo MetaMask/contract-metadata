@@ -1,0 +1,8 @@
+{
+  "name": "Volaris Games",
+  "symbol": "VOLS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x9C94E82d8751f16953F9c86e13ed9CD0414E6e97.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x587feb36a78380066cbf06968b6272091dabc31fc976329db511c056145bdc49@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

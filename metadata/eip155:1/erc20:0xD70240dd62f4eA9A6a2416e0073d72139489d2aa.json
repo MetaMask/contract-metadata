@@ -1,0 +1,8 @@
+{
+  "name": "GLYPH Vault",
+  "symbol": "GLYPH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD70240dd62f4eA9A6a2416e0073d72139489d2aa./ipfs/qmrqwtkrumeskckk1opbqwz4vffkxnpnu9k82bcxgggkgi/glyph",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x57ad2921c4580765fb036e858c74e8853597ac25d64a4ab7e36994662aeeaf48@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

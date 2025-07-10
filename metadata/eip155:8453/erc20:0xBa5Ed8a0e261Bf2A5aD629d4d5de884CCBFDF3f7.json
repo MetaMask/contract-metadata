@@ -1,0 +1,8 @@
+{
+  "name": "Just a based guy",
+  "symbol": "BASEDGUY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xBa5Ed8a0e261Bf2A5aD629d4d5de884CCBFDF3f7.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2fce7b036535a32e40f0c99b4d4c39820ae7ffde819f71f2258a6866bc546ae5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Heroes of Mavia",
+  "symbol": "MAVIA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x24FcFc492c1393274B6bcd568Ac9e225BEC93584.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9e065a03941dd9c4a13bf7e4d640aa5c2e13c1ce232995430257438df8f78139@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

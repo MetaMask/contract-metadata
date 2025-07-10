@@ -1,0 +1,8 @@
+{
+  "name": "FalconSwap",
+  "symbol": "FSW",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xFFFFFFfff15ABf397Da76F1dcc1A1604F45126db./ipfs/qmxfr2shmvldix8wzyv4evux1hf6pn2bb28fwv13r9kztq/bcdxyp5jhlurrkfnfbxowre7gkugg8bkpdk37jvzdraczvr1227kabowey6w55px4iuewfwwrmdjw9xrvaabqpxy7h",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3461d0feb255614ec223f4444cbfe173241efae83086a598f89f9ec892082aab@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

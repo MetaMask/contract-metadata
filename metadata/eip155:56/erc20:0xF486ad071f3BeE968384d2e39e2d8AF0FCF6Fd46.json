@@ -1,0 +1,8 @@
+{
+  "name": "VELO",
+  "symbol": "VELO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xF486ad071f3BeE968384d2e39e2d8AF0FCF6Fd46.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3409887c24e5d1bdf304540ec1de49a63a328ed8597cbef50fe96dec37ac26a6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

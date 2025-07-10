@@ -1,0 +1,8 @@
+{
+  "name": "Universal Liquidity Union",
+  "symbol": "ULU",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x035bFe6057e15EA692C0dFdcab3BB41A64DD2ad4./ipfs/qmtfchzqbs9uo6u736fb85pprwr2mpfxya4fjj1faeppl1/bcd2fygaheuoqcmkdgj1uwpe5lb6ltptzaginqopwtstpg3adp73znngqr9ffi67fzjhcdaz5hgu5decdauegnffny",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6b2d042c07513fe002e364af438aff31666acfe08fda6c6df4ad5fbe393eeeab@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "WAIFU",
+  "symbol": "WAIFU",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xE9507980a8Bd4451AC0E7F6fcd3eC98B9aC83b52.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc46730a592a463ead2f43235ea7b570ea9d7f4ca152861c225110699acc849d0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

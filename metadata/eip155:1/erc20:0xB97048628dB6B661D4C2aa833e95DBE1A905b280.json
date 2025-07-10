@@ -1,0 +1,8 @@
+{
+  "name": "TenX",
+  "symbol": "PAY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB97048628dB6B661D4C2aa833e95DBE1A905b280./ipfs/qmyzbhcyf1u5fsciokarkbc7xovurcpj45ww1dxmaezxnx/bce1v968fpmjx4fvve4lgty4mbgzcfpqytvcw9jqu7bsk97oahk7yqz1dnju6adhbfpx2q9caifh4qo9vpbxpxmenu",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa37018fee7faf7c70438f3e1ecc4587bb976c2378e5a820f4958fe6a6e8ac113@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

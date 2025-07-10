@@ -1,0 +1,8 @@
+{
+  "name": "ankrCurve",
+  "symbol": "ankrCrv",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xAa17a236f2BADC98DDC0cF999ABB47D47FC0a6cf./ipfs/qmptumrurjxkfe4esalbyc6quxmtdnj7fqmmbuqkzk39f3/ankrcrv",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5949d19b7143c131442c91326f4982a213c14b9ff9343661d75ae7aa6f0628a7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

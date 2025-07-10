@@ -1,0 +1,8 @@
+{
+  "name": "UNCX Network",
+  "symbol": "UNCX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:100/erc20:0x0116E28b43A358162B96F70b4de14C98A4465F25.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xcacc1968ce9e10f1f660bd473dfe1fcd0f6aa7d313c135743b2bed5f263feb09@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

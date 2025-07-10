@@ -1,0 +1,8 @@
+{
+  "name": "LONGMAO",
+  "symbol": "LMAO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xB0C2bdc425fd01C33D8514f8be016070212bdc6a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb93e8dedb0e863ede773d7a1da8701194ccafbb83e37c5c2a3a18c554bec108f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

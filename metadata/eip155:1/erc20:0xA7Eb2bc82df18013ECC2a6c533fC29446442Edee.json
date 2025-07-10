@@ -1,0 +1,8 @@
+{
+  "name": "Fulcrum ZRX iToken",
+  "symbol": "iZRX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA7Eb2bc82df18013ECC2a6c533fC29446442Edee./ipfs/qmroaezmicopdrr11uenp7izyyqm3hwumg7q9byggqar6r/izrx",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x70b980aa98bac3325779327a3c99578c74bd1f3b6c8583cf24012e7c7f6f4f37@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

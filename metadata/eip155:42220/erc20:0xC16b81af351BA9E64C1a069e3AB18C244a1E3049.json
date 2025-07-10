@@ -1,0 +1,8 @@
+{
+  "name": "Angle Protocol",
+  "symbol": "EURA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42220/erc20:0xC16b81af351BA9E64C1a069e3AB18C244a1E3049.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3a14fb93c08461603d11324c8740710e5bf6bdfbfd1f0fe6a49efb23ef90e17d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

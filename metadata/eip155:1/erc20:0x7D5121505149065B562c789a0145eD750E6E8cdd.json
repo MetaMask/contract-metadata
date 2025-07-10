@@ -1,0 +1,8 @@
+{
+  "name": "Victoria VR",
+  "symbol": "VR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x7D5121505149065B562c789a0145eD750E6E8cdd.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xce6ff98ba25afdf6396c789f389059861e2aac291255ef53392eab61ba3577c1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

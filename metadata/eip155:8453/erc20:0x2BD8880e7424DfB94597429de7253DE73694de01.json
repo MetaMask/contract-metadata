@@ -1,0 +1,8 @@
+{
+  "name": "Gia by DexFi",
+  "symbol": "GIA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x2BD8880e7424DfB94597429de7253DE73694de01.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa61ad0fe2b7ce9808f5e5b37ed48839095e27c84057bab7f882b97dd4265df5b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

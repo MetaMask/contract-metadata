@@ -1,0 +1,8 @@
+{
+  "name": "SLIMER",
+  "symbol": "SLIMER",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x928b2a1e6c5095E558454b795bcfD11B8F0791f0.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x535333a4126bf21a64055ce0b1764899b0a03c4dcf7bda6f907b63f2308864c2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "0xsim by Virtuals",
+  "symbol": "SAGE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x8FEEF9f0ffA554E51220a3391e7BB7560526a72a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd361ee7d1f94d47a33b5d9986a74e67a7e279a00e698a9a65ca11368f793428e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

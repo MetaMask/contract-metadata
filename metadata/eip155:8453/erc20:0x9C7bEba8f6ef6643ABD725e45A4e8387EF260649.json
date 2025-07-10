@@ -1,0 +1,8 @@
+{
+  "name": "Gravity",
+  "symbol": "G",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x9C7bEba8f6ef6643ABD725e45A4e8387EF260649.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9a499ca75f32f3b7d1a69d840f97ac904a69343d82c56818d348c349d303a35d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

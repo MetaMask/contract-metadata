@@ -1,0 +1,8 @@
+{
+  "name": "Minerva Wallet",
+  "symbol": "MIVA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:100/erc20:0x63E62989d9eB2D37DFDb1F93a22f063635b07d51.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc70d416fbb09160b99dda15f3da193e3ba5983fb45931cb91f6250eec7e3dd4e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

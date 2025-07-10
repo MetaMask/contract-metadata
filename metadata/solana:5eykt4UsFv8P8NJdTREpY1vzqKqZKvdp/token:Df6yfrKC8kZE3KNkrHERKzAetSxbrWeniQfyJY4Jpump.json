@@ -1,0 +1,8 @@
+{
+  "name": "Just a chill guy",
+  "symbol": "CHILLGUY",
+  "decimals": 6,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:Df6yfrKC8kZE3KNkrHERKzAetSxbrWeniQfyJY4Jpump.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0843b053dc8fbe5b833d2aae69ef755b1de72b705621656f6f61d43b03eea7bd@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

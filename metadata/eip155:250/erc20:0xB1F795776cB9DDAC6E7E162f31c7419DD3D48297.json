@@ -1,0 +1,8 @@
+{
+  "name": "Wagmi",
+  "symbol": "WAGMI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:250/erc20:0xB1F795776cB9DDAC6E7E162f31c7419DD3D48297.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa79dd0bf287904e64d588c1fb914524b04b001dd3dfd03568b01f7d721f3dbed@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

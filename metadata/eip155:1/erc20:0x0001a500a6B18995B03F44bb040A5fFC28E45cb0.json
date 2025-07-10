@@ -1,0 +1,8 @@
+{
+  "name": "Autonolas",
+  "symbol": "OLAS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0001a500a6B18995B03F44bb040A5fFC28E45cb0.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3d6b81848b927097f09cffc7197b9d0b126f268484b51976ee99a35ffbc86f52@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

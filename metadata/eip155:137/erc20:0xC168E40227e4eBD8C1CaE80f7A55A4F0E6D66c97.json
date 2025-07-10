@@ -1,0 +1,8 @@
+{
+  "name": "Dfyn Network",
+  "symbol": "DFYN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0xC168E40227e4eBD8C1CaE80f7A55A4F0E6D66c97.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x00612e7c258f873ea7c634e809e59fc43baa64369597fb00fbca2e81a1cdd25d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

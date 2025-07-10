@@ -1,0 +1,8 @@
+{
+  "name": "ONE",
+  "symbol": "ONE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x04baF95fd4c52fD09a56d840bAee0AB8D7357bf0.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5f376c5271833a29156e1d7961c351a7af58388542f2bde59872e01f8a897cb6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

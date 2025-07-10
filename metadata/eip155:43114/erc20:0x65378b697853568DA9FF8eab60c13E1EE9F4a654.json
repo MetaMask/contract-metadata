@@ -1,0 +1,8 @@
+{
+  "name": "Husky Avax",
+  "symbol": "HUSKY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x65378b697853568DA9FF8eab60c13E1EE9F4a654.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1fa062e8bfbef301ee976da34b37761a531bf5223e3caed2b515bf2a07407520@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

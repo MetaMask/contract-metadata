@@ -1,0 +1,8 @@
+{
+  "name": "COMBO",
+  "symbol": "COMBO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xC03FbF20a586fA89C2a5F6f941458E1FBC40c661.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x741ef656f00155367c4a0e0392dda055521898fe77ad3dec19f291be25f8fa69@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

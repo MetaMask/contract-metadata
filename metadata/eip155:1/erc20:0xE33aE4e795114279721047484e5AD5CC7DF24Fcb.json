@@ -1,0 +1,8 @@
+{
+  "name": "MCFinance",
+  "symbol": "MCF",
+  "decimals": 10,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xE33aE4e795114279721047484e5AD5CC7DF24Fcb./ipfs/qmcdk6ardqawso8ctvel7bjjtdqkmyhyi7t8htwn3qurlz/mcf",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0f8c4d256d6821bff85ccfde74a3cf01b042cd897adff2a3088c0736b9cb8794@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

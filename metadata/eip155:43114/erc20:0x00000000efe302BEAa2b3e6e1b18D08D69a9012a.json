@@ -1,0 +1,8 @@
+{
+  "name": "AUSD",
+  "symbol": "AUSD",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x00000000efe302BEAa2b3e6e1b18D08D69a9012a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x83c62a80e83f7534dde90b033f5e0d627ac3c763d378138fe3c75563d4462a93@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

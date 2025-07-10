@@ -1,0 +1,8 @@
+{
+  "name": "Kujira",
+  "symbol": "KUJI",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:10/erc20:0x3a18dcc9745eDCD1EF33Ecb93b0B6EBA5671E7ca.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbdc7294097038f7e18a6b76e72707f6c674923632e80481cd6fc3b90df060ac9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

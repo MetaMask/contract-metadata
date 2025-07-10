@@ -1,0 +1,8 @@
+{
+  "name": "YAY Network",
+  "symbol": "YAY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x01C2086facfd7AA38F69a6bd8c91BEF3BB5adFca.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6581ade1bde4589b453c926f9014a6511717077d7566b694a21c39a62142a927@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

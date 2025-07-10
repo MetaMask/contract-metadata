@@ -1,0 +1,8 @@
+{
+  "name": "Relevant",
+  "symbol": "REL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB6C4267c4877BB0D6B1685cfd85B0fBE82F105ec./ipfs/qmetezpcnjapebdgpwrtg8ytdgv5rrbrfvpxl9gmcmnwow/bcd4o2w33krhceqdzuromdhmhncdlxkwhgptpukj7wxsto8xcb5rwmqrspm8qrrddne8p6kujdu35mfa5fttdunvfd",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x82ab81429c5cb758fcceea0148f4bb2e7bebe9ab4c77b711bf549a03c15a11fb@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Noku",
+  "symbol": "NOKU",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1FC52F1abAde452DD4674477d4711951700b3d27./ipfs/qmtfak8x29ejtcsc17dhtlbtjpoc1z2ec11aemqg8jyxas/noku",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xff10bf796594328c933200bf77fab85069408e1fbf5e7aa1b4c07a6733e1f354@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

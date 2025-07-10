@@ -1,0 +1,8 @@
+{
+  "name": "Honey",
+  "symbol": "HNY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xC3589F56b6869824804a5ea29f2C9886AF1b0Fce.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xec625dbe5b6488739f7c9fe76598f01b852b4c77ecb5aebb050d9ca2268662bf@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

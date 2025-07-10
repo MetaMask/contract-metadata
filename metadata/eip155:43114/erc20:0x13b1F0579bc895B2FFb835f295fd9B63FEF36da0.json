@@ -1,0 +1,8 @@
+{
+  "name": "Be For FWX",
+  "symbol": "B4FWX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x13b1F0579bc895B2FFb835f295fd9B63FEF36da0.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x322470909bad2d3e41306bb05160f83f796f0bfc244a5f848edb6b0e9971ff8b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

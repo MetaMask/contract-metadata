@@ -1,0 +1,8 @@
+{
+  "name": "EtherNexus",
+  "symbol": "ENXS",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x18a3563c21062897950bb09339c82B9686a35667./ipfs/qmbhrvph82xfgwu2shewrzmsyafemyycgvrwtctlim6bak/enxs",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x61298bcc7077a37650b5715ce1a7b33c711ec9ee9b234ea2182a243b3bb84fd5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

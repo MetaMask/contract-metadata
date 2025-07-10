@@ -1,0 +1,8 @@
+{
+  "name": "Pist Trust",
+  "symbol": "PIST",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x315Dc1b524de57AE8E809a2e97699DBC895b8a21./ipfs/qmzuwjrn19dq3jyfrhfnypy9ds6hpgdhsw1ndclh7krfip/pist",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4a1f957beb5acf118bc0af85f625db37dbf89b8b916e88286ef9d6d55192d2e9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

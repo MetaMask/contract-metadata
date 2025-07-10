@@ -1,0 +1,8 @@
+{
+  "name": "Winco",
+  "symbol": "WCO",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD44bb6663936CAB1310584a277f7DAA6943D4904./ipfs/qmc8gbt1s68wk1cl7awzz7srby7iyy2ywc45jsxea12idq/bce1vfzbxtnxhiw52mvacjbhpddezhrhjpfv86au2kp7gggkfcqhohcnzvbyb7v4eywtjqhstawpvfkn7zjdrtje9s",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3cacf5a136a07480f18d66e55c62260d137b96879fe719fe24d6ad320747795b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

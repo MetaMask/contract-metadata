@@ -1,0 +1,8 @@
+{
+  "name": "Gun Game",
+  "symbol": "GG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x000000000000A59351F61b598e8dA953B9E041ec.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x66ae8088307582e55ca650a8b74df6ef0cfb91b2aa37f717e9c1de41b31ae865@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

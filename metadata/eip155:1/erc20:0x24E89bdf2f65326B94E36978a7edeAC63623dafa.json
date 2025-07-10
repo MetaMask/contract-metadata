@@ -1,0 +1,8 @@
+{
+  "name": "Tiger King Coin",
+  "symbol": "TKING",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x24E89bdf2f65326B94E36978a7edeAC63623dafa./ipfs/qmspbh3gxt4symq3lavedbbmmgctlkqb1hvtov2sk3l44o/tking",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb6893713c9848e511f05cb3a40a4ff383514b130bc70e07f3b88de7d64b079cd@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

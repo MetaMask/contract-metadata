@@ -1,0 +1,8 @@
+{
+  "name": "Bitcoin",
+  "symbol": "BTC.b",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x152b9d0fdc40C096757F570a51e494BD4B943e50.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x73817f7d7220b4bef681050501af3d95497804e981b4f1dc83983b4867b4a8b4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

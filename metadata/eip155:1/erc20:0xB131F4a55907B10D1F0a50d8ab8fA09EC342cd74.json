@@ -1,0 +1,8 @@
+{
+  "name": "Memecoin",
+  "symbol": "MEME",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB131F4a55907B10D1F0a50d8ab8fA09EC342cd74.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x76963ed220c5fa932108e0c5f37d3d0b9885bdca328cce93424b9ae67c286ebb@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

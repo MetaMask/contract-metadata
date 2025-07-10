@@ -1,0 +1,8 @@
+{
+  "name": "BASEDChad",
+  "symbol": "BASED",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x17931cfc3217261CE0Fa21bb066633C463ED8634.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x116e66c8ca6657b7e0ff5c4bd0b74740bf1a6efad9ab2d3c45be41822c4fc55b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

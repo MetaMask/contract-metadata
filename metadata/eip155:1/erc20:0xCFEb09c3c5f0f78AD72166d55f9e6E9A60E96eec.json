@@ -1,0 +1,8 @@
+{
+  "name": "vEmpire DDAO",
+  "symbol": "VEMP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xCFEb09c3c5f0f78AD72166d55f9e6E9A60E96eec./ipfs/qmxdbfvgsdc9mtxdef9lyiddrp1yeytvgmxeatmu1uprmg/vemp",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3005e08fd3b519db8aa63b79626866a7787a6bb53f8abbb2f2c5b34971337d63@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

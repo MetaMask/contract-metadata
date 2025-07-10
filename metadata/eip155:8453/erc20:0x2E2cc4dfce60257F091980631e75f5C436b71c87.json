@@ -1,0 +1,8 @@
+{
+  "name": "Grokster",
+  "symbol": "GRK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x2E2cc4dfce60257F091980631e75f5C436b71c87.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x63340f3af9c65cae36ac4c95c0204b3109648b072a318c92a139331b5a9aeb09@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

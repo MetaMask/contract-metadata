@@ -1,0 +1,8 @@
+{
+  "name": "Uquid",
+  "symbol": "UQC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x8806926ab68eB5A7B909dcaf6fdBe5D93271d6e2.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x23d3dfccc0400e9b846532f4ed0e5e16a0c5c8d94d8d08861395ef0733abf59e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

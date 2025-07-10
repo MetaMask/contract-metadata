@@ -1,0 +1,8 @@
+{
+  "name": "Cream USD Coin",
+  "symbol": "crUSDC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x44FbEbd2f576670A6C33F6fc0b00AA8C5753b322./ipfs/qmpcej4y6mgaopyb3axznznucjygtypgfwsxy73mtzpr2c/crusdc",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3f8e8f18482d9bc4f36944692bdfd518bb21268cb56ca1760ff00fee4da18a0f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

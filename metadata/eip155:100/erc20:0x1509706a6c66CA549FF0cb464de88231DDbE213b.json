@@ -1,0 +1,8 @@
+{
+  "name": "Aura Finance",
+  "symbol": "AURA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:100/erc20:0x1509706a6c66CA549FF0cb464de88231DDbE213b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xca547e4da7fcc28c3bea2ef814861c747b7fc61b96ad224ba89a62623001eaf9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

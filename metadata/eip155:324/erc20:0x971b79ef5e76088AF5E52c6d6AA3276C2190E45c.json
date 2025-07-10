@@ -1,0 +1,8 @@
+{
+  "name": "Synapse Network",
+  "symbol": "zkSNP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x971b79ef5e76088AF5E52c6d6AA3276C2190E45c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0fc03e99224988f97e6fca43ce78d585c94049904f9f9f97a326e028368505ec@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

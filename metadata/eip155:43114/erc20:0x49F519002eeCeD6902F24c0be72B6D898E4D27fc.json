@@ -1,0 +1,8 @@
+{
+  "name": "Betswap.gg",
+  "symbol": "BSGG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x49F519002eeCeD6902F24c0be72B6D898E4D27fc.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x77b498721f3d42dfd440df350a136d1002cd0b4e64a97d04e9b4d1baa3a4d32e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

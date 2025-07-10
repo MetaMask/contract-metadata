@@ -1,0 +1,8 @@
+{
+  "name": "xLLM2 by Virtuals",
+  "symbol": "XLLM2",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xE4C94c578f53B58BDB580F15fc438fF10C7343a8.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe23aaf21bd1e33a2280e81ef46bb6a5d428f029f42873e68642cb3279cc02759@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

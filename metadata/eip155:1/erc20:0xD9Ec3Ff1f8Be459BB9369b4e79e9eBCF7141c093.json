@@ -1,0 +1,8 @@
+{
+  "name": "KardiaChain",
+  "symbol": "KAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD9Ec3Ff1f8Be459BB9369b4e79e9eBCF7141c093./ipfs/qmvukzkmvyjt3ph4l7t5f1g5wyeiw7bjdkt6ov32uybc3y/bcdx1gw1zdzklrjoqxs7rf6qdxbeu45ca8hykp6kjhhojlbv4rbxy7vtzmgjg7srwreziw4qlg51bzlams5thkp91z",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xeab218818568328df00cd1e68e516b3f294fe2b147a8b6c86783b84748f1b2dc@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

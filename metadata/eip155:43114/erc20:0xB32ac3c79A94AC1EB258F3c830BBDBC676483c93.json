@@ -1,0 +1,8 @@
+{
+  "name": "OpenSwap",
+  "symbol": "OSWAP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xB32ac3c79A94AC1EB258F3c830BBDBC676483c93.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6729e421f6608a54b043bcd2aa87c40ec1cc18cadbee991eead88ef0cb592d1a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

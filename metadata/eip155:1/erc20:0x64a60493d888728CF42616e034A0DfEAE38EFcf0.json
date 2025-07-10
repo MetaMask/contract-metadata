@@ -1,0 +1,8 @@
+{
+  "name": "OneLedger",
+  "symbol": "OLT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x64a60493d888728CF42616e034A0DfEAE38EFcf0.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x27c71dcbd69bf81b2e8a249f25bf4f877e5fc216226fde02fb7511b4278c3b47@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

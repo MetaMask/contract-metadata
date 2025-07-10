@@ -1,0 +1,8 @@
+{
+  "name": "Pepoclown ",
+  "symbol": "HONK",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD8E8438cf7BeeD13CFabc82f300fB6573962c9e3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x622b0df9b6cf464122d8216af77b8f6d53da3c663abe1ca1b2be187d836c69ed@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

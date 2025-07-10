@@ -1,0 +1,8 @@
+{
+  "name": "S4FE",
+  "symbol": "S4F",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xAEC7d1069e3A914A3Eb50F0bfb1796751F2cE48a./ipfs/qmrfeskp9cbwnn7rwd39sqjqmpabqpyeua6huwewveacdt/bccxyzufqyvukg5uqwfhhdy1anvgmfgep3hq8dedkmje4ft212pfnhzqhqzswbuzvixfoccbzmcv8wasthubdp6jfm",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5abcddc413b748b05b32d29b332beadf0590d77b5c4a3bcdba45d8d849e7c171@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

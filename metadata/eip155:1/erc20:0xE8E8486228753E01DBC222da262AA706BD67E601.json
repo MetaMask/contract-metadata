@@ -1,0 +1,8 @@
+{
+  "name": "Arch Ethereum Web3",
+  "symbol": "WEB3",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xE8E8486228753E01DBC222da262AA706BD67E601./ipfs/qmweczjunizhhxczddfxtehfvapvgbiz21rssrinfzmr4d/web3",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x65259147d0815d2b80f28a0bc7c16e07e243ceea7069668e823e172b851b6912@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Fear of Missing Out",
+  "symbol": "FOMO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x3BF9a2a798c9B122747344da0276D30A267a80dc.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x90588b81671302f2bd83e98bc725166c40aa7b290a4241329aab0d966ea9064b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

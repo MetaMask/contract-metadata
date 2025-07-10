@@ -1,0 +1,8 @@
+{
+  "name": "Lendingblock",
+  "symbol": "LND",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0947b0e6d821378805C9598291385CE7C791a6b2./ipfs/qme6ow2qb5gpbpajnrtdsv2vsnr3nyghxzzarxepwhtpvk/bcdxyrpgkktoz32udveur5hfyzdcnjt8hrpoarg54czawwaseyucmmwwx3bxj23mldfkxh88gh8px4ynrgdmwv8b1p",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6f173ca8a2a6035eeab75c1ce24be0d00ec77313ccfe75d2cbfda72bc4ca73ee@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

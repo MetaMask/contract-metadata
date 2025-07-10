@@ -1,0 +1,8 @@
+{
+  "name": "whim.bet by Virtuals",
+  "symbol": "WHIM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x39a1cce09d7354AC2Db86c6b02924360A10E4793.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x06151b7d738b07b5604822a44117b3b16fb54ed597e797fdde9372b159e08ef9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

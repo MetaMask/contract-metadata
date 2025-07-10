@@ -1,0 +1,8 @@
+{
+  "name": "Dragonchain",
+  "symbol": "DRGN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x419c4db4b9e25D6DB2aD9691ccB832C8D9FDa05e./ipfs/qmdzgj3v64o91vyfjrpqwjhxpnpvszmyppuuvs9kz3xrb8/bce1hdr3vkjgykbtxnotbhzacsczr4x8hrhnmmcqf99aes6xnzhsx7nzv3r5wtqeg1kshh1egdj9blg4q9i3jvjbq4",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf9c619508f31f408854c087398df6243d88776191ede5fca3aad47f9565db10e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

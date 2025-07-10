@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Binance Coin",
+  "symbol": "sBNB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x617aEcb6137B5108D1E7d4918e3725C8CEbDb848./ipfs/qmuxcddzsdvwn8hqof1ewpen7mjc6dqy5otaibeza69uj4/sbnb",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfc58a04c783b7066e0896e4ec8e4666b812a0c421c731b9d33c4d65f1e3aa512@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

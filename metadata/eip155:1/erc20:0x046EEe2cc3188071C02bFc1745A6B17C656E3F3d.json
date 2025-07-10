@@ -1,0 +1,8 @@
+{
+  "name": "Rollbit Coin",
+  "symbol": "RLB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x046EEe2cc3188071C02bFc1745A6B17C656E3F3d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3bec8f386e7fd5022fc1acc0c00e7088910698df4eda3b67dd5f346bc277d15f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

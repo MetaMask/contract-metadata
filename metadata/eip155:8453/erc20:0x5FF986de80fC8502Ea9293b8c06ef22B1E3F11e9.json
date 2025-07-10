@@ -1,0 +1,8 @@
+{
+  "name": "Base Inu",
+  "symbol": "BINU",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x5FF986de80fC8502Ea9293b8c06ef22B1E3F11e9.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa5a493b1f092f5f203c480ff1b6cca4ec9964855b35efdf6aef456d7595951d9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "POLA",
+  "symbol": "POLA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x76E7447bafA3f0ACAFC9692629B1D1BC937ca15d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc292b342a6dece9ffa8807dd1fe8847fa3cd0ecc24157ce0debd051b458df149@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

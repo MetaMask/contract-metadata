@@ -1,0 +1,8 @@
+{
+  "name": "Sakai Vault",
+  "symbol": "SAKAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x43b35e89d15B91162DEa1c51133C4C93BDD1c4af.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1b784d3906d680779eafe110029396ab1ca52b15730fccc7d0d8a96527241a72@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

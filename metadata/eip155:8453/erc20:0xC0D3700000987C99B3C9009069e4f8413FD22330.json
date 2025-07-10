@@ -1,0 +1,8 @@
+{
+  "name": "Cod3x USD",
+  "symbol": "cdxUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xC0D3700000987C99B3C9009069e4f8413FD22330.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5e9ea1683da2412a9034ec51734178b6983af6c01713faa8273e3f064a3c2d41@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

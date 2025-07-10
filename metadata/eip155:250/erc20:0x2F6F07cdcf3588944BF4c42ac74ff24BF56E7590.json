@@ -1,0 +1,8 @@
+{
+  "name": "Stargate Finance",
+  "symbol": "STG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:250/erc20:0x2F6F07cdcf3588944BF4c42ac74ff24BF56E7590.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2cbbf42280567d8903304d55546856a0eea95902bca599d7569cb769256fa998@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

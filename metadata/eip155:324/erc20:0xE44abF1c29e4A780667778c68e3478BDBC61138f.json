@@ -1,0 +1,8 @@
+{
+  "name": "Polkastarter",
+  "symbol": "POLS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xE44abF1c29e4A780667778c68e3478BDBC61138f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5b62e83de3deb95654247ee273e6c965ee7baeaa776c0e7d1db4a60de1d21080@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

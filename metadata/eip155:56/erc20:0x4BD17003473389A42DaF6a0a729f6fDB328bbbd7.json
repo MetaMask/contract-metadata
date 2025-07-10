@@ -1,0 +1,8 @@
+{
+  "name": "Vai",
+  "symbol": "VAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x4BD17003473389A42DaF6a0a729f6fDB328bbbd7.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xba400698d71aa42bd15bea17c1d7b66ad69fc13ae83959814dcdd800543f8ac3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

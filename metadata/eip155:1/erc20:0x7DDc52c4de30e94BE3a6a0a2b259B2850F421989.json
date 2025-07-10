@@ -1,0 +1,8 @@
+{
+  "name": "Gomining",
+  "symbol": "GMT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x7DDc52c4de30e94BE3a6a0a2b259B2850F421989.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd3aa95fb6f216f7edd1acce5d9da36de77d5796f6dc99e8feb3d9123911b564b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

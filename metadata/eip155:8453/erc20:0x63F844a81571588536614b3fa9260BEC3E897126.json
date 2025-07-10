@@ -1,0 +1,8 @@
+{
+  "name": "BREX",
+  "symbol": "BREX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x63F844a81571588536614b3fa9260BEC3E897126.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x64d91fc120070e20e06f35699962b1ed3df21d02656e286685ad7f47d9504450@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

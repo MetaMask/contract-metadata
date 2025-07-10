@@ -1,0 +1,8 @@
+{
+  "name": "HotMoon",
+  "symbol": "HotMoon",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xC1357d32bf23fD5FE3280681a36755B6F150442e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7d217476d40db4f96dc66c6c732f336ee955a0d4cb8e6d61204fa082fca9986b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

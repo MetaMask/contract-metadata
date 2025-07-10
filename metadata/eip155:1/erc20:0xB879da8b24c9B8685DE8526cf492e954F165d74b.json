@@ -1,0 +1,8 @@
+{
+  "name": "MovieBloc",
+  "symbol": "MBL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB879da8b24c9B8685DE8526cf492e954F165d74b./ipfs/qmy3eekoxarudo4pfo4y8bevwadmonvvrh2jhyqkhk4rnc/bccza3xpmuvltshopgdmbyz5rfbf9eagfwagos8f1btpfdawg3lbk952v1mjvbyxy1tegsufsyfe7ru9ljmh54ikay",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x43e6ca284f405ddb4d1efb1559b146d295092596155c118e05d6fc0684ef70d4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

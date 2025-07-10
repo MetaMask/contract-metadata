@@ -1,0 +1,8 @@
+{
+  "name": "TREND",
+  "symbol": "TREND",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x42Fa14d6e4642B3789D8b0272534A41D415663a9.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xee9813145e54ccbc3409f3f97c5300463db781339f3aa50cc15bcdb3e0d53b17@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

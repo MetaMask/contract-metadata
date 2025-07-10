@@ -1,0 +1,8 @@
+{
+  "name": "Ionic USD",
+  "symbol": "ionUSDC",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xA900a17a49BC4D442Ba7F72c39fA2108865671f0.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6bb27575c62a4b93b492411e3f0abbbf36e085c3d019654e2749210e4ef0bfaa@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

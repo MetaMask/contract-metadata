@@ -1,0 +1,8 @@
+{
+  "name": "Wrapped Integer",
+  "symbol": "WINT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x59C2F99429fB7178EE8cE9bdb1d2BAB730601ea4.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd5807ec46d796f925a6cd2cefcf95f045e9aa4a48946e015d41bdaab09d1521d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

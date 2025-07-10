@@ -1,0 +1,8 @@
+{
+  "name": "Normie",
+  "symbol": "NORMIE",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x7F12d13b34f5f4F0A9449c16bcd42f0DA47aF200.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0137a945d495a7e9455b074c1e155be6e3ec699aaf7408bcc65d3b938f1cec63@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

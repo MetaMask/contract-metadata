@@ -1,0 +1,8 @@
+{
+  "name": "Tellor Tributes",
+  "symbol": "TRB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xF9966320bf9C2D38297036f3c4efC9DAE929Ed37.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4a14660333670aac23bae05168fae84e0be18abcbb6b725dc697db36e0601fd8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Goldfinch",
+  "symbol": "GFI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xDab396ccf3d84CF2D07c4454e10C8A6F5B008d2b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf8907dc23477255ef6615f8847fe97263dcfb073fb1aecaec468f206afd117e5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

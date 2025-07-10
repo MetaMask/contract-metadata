@@ -1,0 +1,8 @@
+{
+  "name": "ZAP",
+  "symbol": "ZAP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xF56b3b3972f2f154555a0b62ff5A22B7B2a3c90b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd26288c03583ac573885eea318255d065cf89c499f63d5cb1ec974d938144d29@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Real Estate Metaverse",
+  "symbol": "REM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x83D5d441ed15737D34226b682f7427D2217F2a8f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x001aff7b6b2c39398cbbef56d716d8d104875bc63d855ef44f7c5537720a3934@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

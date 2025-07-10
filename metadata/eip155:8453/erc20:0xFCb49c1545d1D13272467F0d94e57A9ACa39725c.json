@@ -1,0 +1,8 @@
+{
+  "name": "GRASS",
+  "symbol": "GRASS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xFCb49c1545d1D13272467F0d94e57A9ACa39725c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x107620be38e1fa168a0a6a98b6abb87bb4db4a809baccb4125422c8c015b98a6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

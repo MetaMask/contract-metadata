@@ -1,0 +1,8 @@
+{
+  "name": "Divert Finance",
+  "symbol": "DEVE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xFDb615d6a15f929DDabc6b83a4f1Cf9D361b064e./ipfs/qmryyur7wut9vspqwrchywr6yuvfffq9jxdvdca4ffy1yb/deve",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x525e5d2bb6c390d348a0e05b3a43c5c283237eaa2e98413716704a8e06fda333@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Firebird Aggregator",
+  "symbol": "FBA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:250/erc20:0x0E249130b3545A2A287DE9f27d805CAB95F03db9.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf281ab878d944f3a1b88b32fbf339b832f920fec50ab8f353f1a3896a1ae030d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Giveth",
+  "symbol": "GIV",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x900Db999074d9277C5Da2a43f252D74366230da0./ipfs/qmsr1j1hepxdjndqafx8rbhslkvrqmlftgwfyuyfy942ne/giv",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x61943d3bec0265831b638278566890b58e63417be85b64b8601466d1b4f780a4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

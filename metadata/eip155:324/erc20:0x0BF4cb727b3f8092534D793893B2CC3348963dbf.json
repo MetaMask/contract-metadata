@@ -1,0 +1,8 @@
+{
+  "name": "Derp",
+  "symbol": "DERP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x0BF4cb727b3f8092534D793893B2CC3348963dbf.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfc1bb67ec8bbbc7f8b8334704363abc2e6996589dc6b42dd6df3d39411e9a6ca@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

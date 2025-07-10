@@ -1,0 +1,8 @@
+{
+  "name": "DogeFarm ZK",
+  "symbol": "DOF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xCFFEc2c683762831D16a9c5b9c70BA1789bba1f3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6bbed2dcee5dd4a6adb01251171985f2d4e1c6fbcf7098c45b183a3d7bddddce@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

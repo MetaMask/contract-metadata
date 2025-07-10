@@ -1,0 +1,8 @@
+{
+  "name": "Non-Fungible Yearn",
+  "symbol": "NFY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1Cbb83ebcd552D5EBF8131ef8c9CD9D9Bab342bc./ipfs/qmdazyrq1cqkkueq1dz4mmgwvap1c4hqhgjidkusxylnqq/bcd3cywkc9xtscjy7tjre9wujnrvc2idz7gdisolzxzx9tpa63qg8gqaacdzfrvrf39c76gwav3bwx9tj9nmuvtb7g",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x41eada13b6b9ef97e37a8e027eba86cf7b7a588f8a44d5727491af6dde0db46f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

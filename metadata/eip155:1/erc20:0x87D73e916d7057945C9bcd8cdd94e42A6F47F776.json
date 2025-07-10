@@ -1,0 +1,8 @@
+{
+  "name": "NFTX",
+  "symbol": "NFTX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x87D73e916d7057945C9bcd8cdd94e42A6F47F776./ipfs/qmykxbpfbw7prqykiwgho3qhqrp7kz7hqsgyjckaz2hykj/nftx",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd48e479dcb921fa657b20466e6231739695d64454fa667892d3edd52921410e1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Idexo",
+  "symbol": "IDO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xDEa6d5161978D36B5C0Fa6a491fAA754F4bc809c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0ba5b7f6ab5e0a3b35cfc8f13f2725cc501d21b58e4c6e1a9deef4aca17fbbef@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

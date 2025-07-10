@@ -1,0 +1,8 @@
+{
+  "name": "Cope",
+  "symbol": "COPE",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x633546a298e734700BDca888a87AB954159Ec93c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x88d6446a9a8c0b4ed548fd76822c8f7ce9c956d628304b688e2c62c7a1b44053@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

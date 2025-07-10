@@ -1,0 +1,8 @@
+{
+  "name": "Gitcoin",
+  "symbol": "GTC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x92698cf0a2e4DDD0F8C54cb8c3cd5095181FE3c9.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x107f7354437737a3b03d71aac782b6dfe75ba194b98d90a8ff1fef28d537ceb3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

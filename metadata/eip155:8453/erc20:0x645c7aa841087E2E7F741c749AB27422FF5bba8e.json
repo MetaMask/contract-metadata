@@ -1,0 +1,8 @@
+{
+  "name": "Iona by Virtuals",
+  "symbol": "IONA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x645c7aa841087E2E7F741c749AB27422FF5bba8e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3f4da03e091f647a78d9f7cc2bc436869e8b6075bf72881d730a2d7ece62cca1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

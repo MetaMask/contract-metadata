@@ -1,0 +1,8 @@
+{
+  "name": "DooggieCoin",
+  "symbol": "DOOG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x34b2adb3bd4Aef3AF0b4541735c47B6364D88d1e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x02c06bfea7853b3732e5555b6b68f5d7b1dfe5160994d555f56e252e9d88a6dd@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

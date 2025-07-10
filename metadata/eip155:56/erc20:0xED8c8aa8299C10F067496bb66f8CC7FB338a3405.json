@@ -1,0 +1,8 @@
+{
+  "name": "Prosper",
+  "symbol": "PROS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xED8c8aa8299C10F067496bb66f8CC7FB338a3405.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6a7fc1bf7c73ffdb5200e1417e3ef8e22bffe8bfc1d3685dd352be8d265284d1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

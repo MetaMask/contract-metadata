@@ -1,0 +1,8 @@
+{
+  "name": "Cat Token",
+  "symbol": "CAT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x56015bbe3c01fE05BC30a8a9a9fd9A88917E7db3./ipfs/qmqfjbwd9gy9wg953njb9fihywvdaq324ygcuihuwjm6kd/bcd4oljjqfumfs7zhkzjfbvr3zkujuwr6hslb1mlwsytffmsisf1uz6d7hmddje5hsl2rxchebzhapgf94wp3hkjol",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1357ac0a209b52753782faad35d7b333b3b00342e8d121c59b8ff2373f820905@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

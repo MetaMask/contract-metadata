@@ -1,0 +1,8 @@
+{
+  "name": "BRAZA by Virtuals",
+  "symbol": "BRAZA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xBBF81ddc9fB90CF9146b495ce0546A3460FD1769.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x86cc5be4c8f0aeb720afc06d79842516fa43419ee99d53f3ad386d2c8d8d0f6d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

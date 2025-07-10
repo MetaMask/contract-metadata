@@ -1,0 +1,8 @@
+{
+  "name": "Magpie WOM",
+  "symbol": "mWOM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0x509Fd25ee2AC7833A017F17ee8A6fB4AAF947876.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x87676d97233664a778407d12bf2e57923d9596d20d7eb72756bfed29dfa64704@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

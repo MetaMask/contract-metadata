@@ -1,0 +1,8 @@
+{
+  "name": "The Truth",
+  "symbol": "UFO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x249E38ea4102D0CF8264d3701f1A0E39C4F2dc3b./ipfs/qmcex2agzucrd1hqncszozdkkr1rcxuqwrh9zfjeaegv1o/ufo",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x137bc7d7e76134d7df28c0860dce30edd4ad77c648e7f5e87c611a18f1ff22d4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}
