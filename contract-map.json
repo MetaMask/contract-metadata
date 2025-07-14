@@ -1,9 +1,9 @@
 {
-  "0x14778860E937f509e651192a90589dE711Fb88a9": {
-    "name": "Cyber",
-    "logo": "cyber.svg",
+  "0x62c11a1f8d17213feA578686FAd9367b02495612": {
+    "name": "DefendoDoge",
+    "logo": "DefendoDoge.svg",
     "erc20": true,
-    "symbol": "CYBER",
+    "symbol": "DFD",
     "decimals": 18
   },
   "0x9Cf0ED013e67DB12cA3AF8e7506fE401aA14dAd6": {
