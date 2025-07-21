@@ -1,0 +1,9 @@
+{
+  "symbol": "NATO",
+  "name": "The Nation Token",
+  "address": "0xd968196fa6977c4e58f2af5ac01c655ea8332d22",
+  "decimals": 18,
+  "logoURI": "https://thenationtoken.com/wp-content/uploads/2025/07/nato-logo-256.png",
+  "tags": ["token", "nato", "memecoin", "base"],
+  "chainId": 8453
+}
