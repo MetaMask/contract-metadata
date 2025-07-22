@@ -1,0 +1,8 @@
+{
+  "name": "MemeCoinUniverse",
+  "symbol": "MCM",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xE0D2F5c883d5D470D16Fa6dd73610BB4253577ff./ipfs/qmyl9kfprr9zncchszkqreqhxnpk3v1cgdbmhdn42jfbv7/mcm",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3ed1e05c411e7323038f1bdb5f1573eddcbbea989a16c6f95f5bd0f4677c377b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

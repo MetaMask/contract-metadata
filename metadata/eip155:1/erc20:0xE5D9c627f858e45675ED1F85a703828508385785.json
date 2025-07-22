@@ -1,0 +1,8 @@
+{
+  "name": "TRUMP2024",
+  "symbol": "TRUMP2024",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xE5D9c627f858e45675ED1F85a703828508385785.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6cdf91e768d69f1e1a639b649ac36a39348ac4fe4dfb07753b91fb3b307d7e01@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

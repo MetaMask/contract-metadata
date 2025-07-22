@@ -1,0 +1,8 @@
+{
+  "name": "Axelar",
+  "symbol": "AXL",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x23EE2343b892B1BB63503a4fabc840E0E2C6810f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6e6cdec4ae837a2a883855341a5009247939b8ef59b08ce6e34823dad0085c6a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

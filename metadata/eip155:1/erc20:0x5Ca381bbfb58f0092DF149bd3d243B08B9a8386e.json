@@ -1,0 +1,8 @@
+{
+  "name": "MXC",
+  "symbol": "MXC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x5Ca381bbfb58f0092DF149bd3d243B08B9a8386e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x96fbffc602ce7c6b64053a8728376c1e14ce8eeffd62df51bdb065c91e382640@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

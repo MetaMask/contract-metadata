@@ -1,0 +1,8 @@
+{
+  "name": "Unizen",
+  "symbol": "ZCX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xC52c326331e9CE41F04484d3b5e5648158028804.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x263350796f8c21d236815c18726828a63feb2bdcae43b35bbb5ea9cdd7ec785d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "USD Coin",
+  "symbol": "USDC",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:10/erc20:0x0B2c639c533813F4Aa9D7837cAf62653D097FF85.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2c98b9dd3b413736372e443f63af1701a0adc8bffd5778c06e485f1d1b5af686@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Agoras",
+  "symbol": "AGRS",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xC3848023d10d6C5566C12b9c87249f84823b4594.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1d3935157a18cc458c47b6d9c5bbf0c580240932e78b87e0678470ebc16f013b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

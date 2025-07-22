@@ -1,0 +1,8 @@
+{
+  "name": "Akita Inu",
+  "symbol": "AKITA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xCaF5191fc480f43E4DF80106c7695ECA56E48b18.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x01ea3b1677befad63bc4e9c9b7a0f9dde277132337dfd66707ae583edfe802ec@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

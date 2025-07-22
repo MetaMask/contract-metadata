@@ -1,0 +1,8 @@
+{
+  "name": "Liquity",
+  "symbol": "LQTY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0xFB9E5d956d889D91A82737b9bfcdAC1DCE3E1449.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3469142dacb6fd505d02cc989da2a25e2aa51332a45828ccbb35d4beab06273f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

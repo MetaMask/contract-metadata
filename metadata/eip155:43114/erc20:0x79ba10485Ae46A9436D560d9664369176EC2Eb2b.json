@@ -1,0 +1,8 @@
+{
+  "name": "Chikn Worm",
+  "symbol": "WORM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x79ba10485Ae46A9436D560d9664369176EC2Eb2b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x81c5cd1537cd1dc593261fe58f5bbb3ff6e0024951c66cbcb3090ec268c03dcf@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

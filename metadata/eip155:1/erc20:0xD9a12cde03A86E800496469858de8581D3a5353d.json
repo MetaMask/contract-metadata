@@ -1,0 +1,8 @@
+{
+  "name": "Crowdholding",
+  "symbol": "YUP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD9a12cde03A86E800496469858de8581D3a5353d./ipfs/qmvadyw8jzqf5axs6zysbgqhtju2meckocudfj3kzoigzp/bccxzcztrg69vwtgb9gjjrnujzuorjws17iy6ackcx2qsfqhiftzuzwkvfpzou9y2esohbmqxrsrw2mjbgaxihjbph",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x444d981c79ecc8714551e48d89dca15031777e2157977272d96efad532015efc@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

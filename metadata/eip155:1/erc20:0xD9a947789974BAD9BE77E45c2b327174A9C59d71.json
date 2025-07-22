@@ -1,0 +1,8 @@
+{
+  "name": "Ystar",
+  "symbol": "YSR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD9a947789974BAD9BE77E45c2b327174A9C59d71./ipfs/qmd5k4mpjh2fht7imfhgpu69adkc5njsjbpl19k7ruwtap/bcd8hndimzf7fhsel3rgaxu8tmx21r8rqwblfxplirrc35ditknkmd3bwyciiykvzl5jeeaugyyw8avsyh6ontrepd",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xad13393969f29a57ed8ef5336d942177b505c5f0dda4580cbf7232badacd868a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

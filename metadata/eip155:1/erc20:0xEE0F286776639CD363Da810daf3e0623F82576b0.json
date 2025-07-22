@@ -1,0 +1,8 @@
+{
+  "name": "Lung Protocol",
+  "symbol": "L2P",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xEE0F286776639CD363Da810daf3e0623F82576b0./ipfs/qmdup7qogt5vith6v8r9fxgchz5usklk8ro6chxtzsvcyj/l2p",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa0cfcd1d78b24084b7116626788a1e3a1ae07705e38770d03e5cedc0a94c1271@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

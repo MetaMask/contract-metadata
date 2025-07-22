@@ -1,0 +1,8 @@
+{
+  "name": "BaseSafe",
+  "symbol": "SAFE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xBD15d0c77133D3200756dc4d7A4f577DBB2cF6a3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5eaf0e256e6312b6b5432e3e33ad7e2502d26e826ba258f97671bd129371d68e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

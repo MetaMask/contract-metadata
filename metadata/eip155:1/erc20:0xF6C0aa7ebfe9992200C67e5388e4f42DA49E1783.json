@@ -1,0 +1,8 @@
+{
+  "name": "Psyche",
+  "symbol": "USD1",
+  "decimals": 2,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF6C0aa7ebfe9992200C67e5388e4f42DA49E1783./ipfs/qmnvzoi6df5zu7egvlxtzav1k9xmwmkhievsucome8h13h/usd1",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x88a5d55d0f5f9e556e946e64a7a36ee06bd22d1f0b91f23528018d6bc61eb6d4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Venus FIL",
+  "symbol": "vFIL",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xF91D58b5ae142DACC749F58a49fCBAC340Cb0343.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1ffe4264a01a9e8670a4ef69448410fe0e1989913ba471dcf82a9f43653a65c5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

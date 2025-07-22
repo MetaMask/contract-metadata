@@ -1,0 +1,8 @@
+{
+  "name": "Cream YFI",
+  "symbol": "crYFI",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xCBaE0a83f4f9926997C8339545fB8EE32EDc6b76./ipfs/qmcejueni7x7g8mnheojcq4lukd15x6muts7ehhzevkeuw/cryfi",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x73b1ad77701f2721d8b5365eabfa73d1e98c115b8e3375e7810894dfbb2db3e8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Coin98",
+  "symbol": "C98",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0x77F56cf9365955486B12c4816992388EE8606F0e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe702ce85638be78e05226e5b4f63e84a4fd06cc85e19c93cfffd6cbf89aa0c7d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

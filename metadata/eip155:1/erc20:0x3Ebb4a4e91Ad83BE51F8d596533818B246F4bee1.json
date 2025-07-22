@@ -1,0 +1,8 @@
+{
+  "name": "Signata",
+  "symbol": "SATA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3Ebb4a4e91Ad83BE51F8d596533818B246F4bee1./ipfs/qmcjmjfishnhq3ty2ux6hfxckxmrcc2s5qz41y2uxrg5d6/sata",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x81097f04811988f98bc7f10d402e6991c68c05d7e79e018dc99cc9a4f13cf04b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "King Arthur",
+  "symbol": "BKING",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1Ca02dd95f3f1E33Da7F5afe15eA866DAB07aF04./ipfs/qmt4cknvswvt7tfjnqwrm7w8pqqvsjvumq9xkggqvot9au/bking",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd753e48ee1cc372564f04303e6d5c1cb978908cd9f5c6aa9717805a26f9ea533@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "HUH Token",
+  "symbol": "HUH",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x86D49Fbd3b6f989D641E700a15599D3B165002ab.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x11ffed924ba640ba9ab04b849c42f0d1d68c0558eaed09577e5eb9d6a8573688@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

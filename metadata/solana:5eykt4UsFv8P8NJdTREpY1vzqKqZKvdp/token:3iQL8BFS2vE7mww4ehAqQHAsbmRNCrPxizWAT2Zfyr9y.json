@@ -1,0 +1,8 @@
+{
+  "name": "Virtuals Protocol",
+  "symbol": "VIRTUAL",
+  "decimals": 9,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:3iQL8BFS2vE7mww4ehAqQHAsbmRNCrPxizWAT2Zfyr9y.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb50004c39131da687b170b18622dbb5923fae32ee143916b3b906d61916d42e5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

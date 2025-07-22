@@ -1,0 +1,8 @@
+{
+  "name": "Hermez Network",
+  "symbol": "HEZ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xEEF9F339514298C6A857EFcfc1A762AF84438dee./ipfs/qmffxugetlunvggu4c95ah9adxj1curjrmytcsmsr6r4gq/bcd5x4rg7pb1iqlnpsf42schy7rqaesl4gi92ymh8u2axuge7ohfft7ywh6dnaqu5gp9qfenyj5ghjxmczknfccsyn",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9815f0d825b9e5072f99a637b8d7866799f24b92acceb6f81965323fac673c50@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

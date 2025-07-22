@@ -1,0 +1,8 @@
+{
+  "name": "Chirpley",
+  "symbol": "CHRP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xED00Fc7d48B57B81FE65d1ce71c0985E4CF442cb.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe2d7397386c91992e28172a942c30f14243591c47b05b5be7b1a56222b0ec8f5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

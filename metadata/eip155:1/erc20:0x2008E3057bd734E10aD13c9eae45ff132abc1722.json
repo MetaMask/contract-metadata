@@ -1,0 +1,8 @@
+{
+  "name": "Zebi",
+  "symbol": "ZCO",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x2008E3057bd734E10aD13c9eae45ff132abc1722./ipfs/qmeundljhpk65u7vp3wscakvyhwu3veh2ysl56rvsrysb7/bcd2tyurhkqz57bcmdc9nb47kayj1fhoc3j8jutu9zr2932wynzyjfrv2a5hs7bnqr9bxmgiqbflym9euct7nhl2ax",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xea1f8b89bb8aafd83e5157878105eb377f5e28bb5b8fb4bb4b6f22b5309f98dd@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

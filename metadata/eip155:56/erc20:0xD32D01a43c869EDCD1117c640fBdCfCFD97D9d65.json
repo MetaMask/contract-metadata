@@ -1,0 +1,8 @@
+{
+  "name": "Nominex",
+  "symbol": "NMX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xD32D01a43c869EDCD1117c640fBdCfCFD97D9d65.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa2179a580f6ece01bb10ba487443cc6018aa31a252d17546f397c155ee3f00ac@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

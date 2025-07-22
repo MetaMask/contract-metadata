@@ -1,0 +1,8 @@
+{
+  "name": "Globatalent",
+  "symbol": "GBT",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD8bD3958725f216EB236E9dc65B169DE48101c6a./ipfs/qmzf9uodcufwa3icqccutevt3cwpcrwtsqprqyejvdhnzw/bcd3elamemjxskhdx9bjw8rdfv1ihndwilfkf4fggdcrvtl5jylt2mwnt18nqdwhynkrkrky3dcneegbwhgz2s3mpu",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x732e759f0dce1df653e587b3a03e88e741e1268f34d83a7de3ca221f438f9cd4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

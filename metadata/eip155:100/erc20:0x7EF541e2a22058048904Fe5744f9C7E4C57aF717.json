@@ -1,0 +1,8 @@
+{
+  "name": "Balancer",
+  "symbol": "BAL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:100/erc20:0x7EF541e2a22058048904Fe5744f9C7E4C57aF717.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7539aebb3012d6d41921823885ee4a6af924fe2f49b0cf4b5e69eee55605ab06@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

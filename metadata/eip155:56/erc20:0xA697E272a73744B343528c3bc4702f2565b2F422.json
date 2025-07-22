@@ -1,0 +1,8 @@
+{
+  "name": "Bonk",
+  "symbol": "BONK",
+  "decimals": 5,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xA697E272a73744B343528c3bc4702f2565b2F422.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7981a405373030d63266b179404a17dc1f43c461993129d0282949d374a48e44@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

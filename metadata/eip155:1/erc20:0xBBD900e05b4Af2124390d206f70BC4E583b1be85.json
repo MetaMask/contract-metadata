@@ -1,0 +1,8 @@
+{
+  "name": "MintySwap",
+  "symbol": "MINTYS",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xBBD900e05b4Af2124390d206f70BC4E583b1be85./ipfs/qmzvjay5uif7frpv9tjhth4tp7oncfe7egvabixmgexasf/mintys",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1fe77e78331d8d76886691dc122eaecfae529151fba9e0f635fb94e594bbb8ab@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

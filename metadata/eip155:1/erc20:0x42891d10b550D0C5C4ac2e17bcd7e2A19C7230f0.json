@@ -1,0 +1,8 @@
+{
+  "name": "Daxhund",
+  "symbol": "DXH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x42891d10b550D0C5C4ac2e17bcd7e2A19C7230f0./ipfs/qmfxt1moyhkg94zucuyacwbgv2keq26ep8zjfawnmkukxh/dxh",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1866503e742d6d07e347fdf27b1065ea6014aea5b0370bc51cc189383c65943e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

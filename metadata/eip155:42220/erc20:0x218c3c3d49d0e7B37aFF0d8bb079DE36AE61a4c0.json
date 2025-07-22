@@ -1,0 +1,8 @@
+{
+  "name": "Fantom",
+  "symbol": "FTM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42220/erc20:0x218c3c3d49d0e7B37aFF0d8bb079DE36AE61a4c0.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1628174a94e9e1dab638aee2e6052c98f203ae394483c6f8d599adf5c6e8bfa2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

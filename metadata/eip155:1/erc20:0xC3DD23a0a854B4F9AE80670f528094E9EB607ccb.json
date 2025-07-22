@@ -1,0 +1,8 @@
+{
+  "name": "Trendering",
+  "symbol": "TRND",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xC3DD23a0a854B4F9AE80670f528094E9EB607ccb./ipfs/qmukggxwv3rlk5z1xvoychd5jrqtll7rn4vxce5xsawvir/bcdwnyfuhen6fvh8ifkquiy21mtq3xrsfr4cjp7e99lghasvanxdzun3azoxhfjdcnu3npuks21tx8ezfvq7xabecm",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x75cfe6e9ab38985a03a3b8f2eca70d155c5629d062a462c87f9652496becaec7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

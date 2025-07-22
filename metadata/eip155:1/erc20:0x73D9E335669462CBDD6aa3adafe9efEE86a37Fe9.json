@@ -1,0 +1,8 @@
+{
+  "name": "Daiquilibrium",
+  "symbol": "DAIQ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x73D9E335669462CBDD6aa3adafe9efEE86a37Fe9./ipfs/qmczbz2evjsjonpjsmf8ery9gkvghlf4kg7tqylwg2nbxp/daiq",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xcdb97852ef03fcc10fa1ced1667fe39841993a26fc0b2ff6249ecc489fd614a9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "DeFiant Token",
+  "symbol": "DeFi",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9FCF4497ed9fBB8D8B46259e4f2BB4749953ab8b./ipfs/qmy4ty6bf5hdcfysxpoard6py87xezkm9dth75ca1ojscs/defi",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x958291a445b057f28cf9076ba3d442bed230397c007ff77f06d413d8d77df04d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

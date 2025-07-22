@@ -1,0 +1,8 @@
+{
+  "name": "SuperFarm",
+  "symbol": "SUPER",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xE53Ec727dbdeB9E2D5456c3be40Cff031ab40a55./ipfs/qmyjzgeyf7kcg46z4dtmvkq6fgpnoxxxp87bn4v5wzjqcg/super",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4b41294c7c16b583a028c99ac3f36b1ef0dd599596b860cb4dc2376a767c8d3b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

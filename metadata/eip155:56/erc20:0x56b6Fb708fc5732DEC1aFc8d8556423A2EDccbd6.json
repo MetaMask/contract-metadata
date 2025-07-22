@@ -1,0 +1,8 @@
+{
+  "name": "EOS",
+  "symbol": "EOS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x56b6Fb708fc5732DEC1aFc8d8556423A2EDccbd6.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8b80fb0c8b08a64cdebc64303d2e9f25f42f79e081b26e3003548adfcb088a8c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

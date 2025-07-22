@@ -1,0 +1,8 @@
+{
+  "name": "Civilization",
+  "symbol": "CIV",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x37FE0F067fA808FFBDD12891c0858532CFE7361d./ipfs/qmdtxum3znwolwxauzve86chn1zjoeixn6k1keuvgnuduq/civ",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf9ee58dde55c705f7155d3197f6567b238002e8cb67a8bc1a035134e21c5d93e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

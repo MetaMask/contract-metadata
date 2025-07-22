@@ -1,0 +1,8 @@
+{
+  "name": "PONKE",
+  "symbol": "PONKE",
+  "decimals": 9,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:5z3EqYQo9HiCEs3R84RCDMu2n7anpDMxRhdK8PSWmrRC.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1888afba39f035120b20cf4398204cd54a41f48795f641abb736170870b39b9e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

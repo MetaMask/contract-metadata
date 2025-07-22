@@ -1,0 +1,8 @@
+{
+  "name": "BaseFrog",
+  "symbol": "BFROG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x1308ae20e66e43D575a76b5dfb30771A50C9256a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7fb395e5f1df088212017f8e836cd7b50478a3679a604c59fdbf6104fd86ddfe@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "SafeMoon",
+  "symbol": "SFM",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x42981d0bfbAf196529376ee702f2A9EB9092Fcb5.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x021287901f80e68ab053149443102fc5933c889cd636aba664271ea3ea73b35e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

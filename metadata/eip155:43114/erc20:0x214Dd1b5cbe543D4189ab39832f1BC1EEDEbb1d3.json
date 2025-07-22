@@ -1,0 +1,8 @@
+{
+  "name": "JUNIOR",
+  "symbol": "JUNIOR",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x214Dd1b5cbe543D4189ab39832f1BC1EEDEbb1d3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe6182f6e669501f89e5281a8f0cd004cf7876c3447c9ec5d0a9de3fe01bf86ce@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

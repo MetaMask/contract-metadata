@@ -1,0 +1,8 @@
+{
+  "name": "BNB",
+  "symbol": "BNB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x96E4069b746BD88DB76EE126acfdA537DDCEE6ff.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb2de01f16a451caaa18625c190ae6a1394b0dc457c09144e98b2c9f4d4fb6f93@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

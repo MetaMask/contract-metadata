@@ -1,0 +1,8 @@
+{
+  "name": "Toupée Tech",
+  "symbol": "WIG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x58DD173f30eCffDFEBCD242c71241fB2F179E9b9.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7a6a77a2b9f8b470bbcc63afdb440ba4e364fd795bf52cd9f3cd246e229bd463@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

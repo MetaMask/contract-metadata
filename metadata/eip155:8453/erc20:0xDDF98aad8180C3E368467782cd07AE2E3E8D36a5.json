@@ -1,0 +1,8 @@
+{
+  "name": "animated",
+  "symbol": "AM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xDDF98aad8180C3E368467782cd07AE2E3E8D36a5.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x854ff2163663e476044a03f928ad079939a7e5326a41877bb67dc20bcb353bbe@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

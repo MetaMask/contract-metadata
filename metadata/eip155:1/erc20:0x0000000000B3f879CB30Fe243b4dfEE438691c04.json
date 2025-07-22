@@ -1,0 +1,8 @@
+{
+  "name": "GasToken",
+  "symbol": "GST2",
+  "decimals": 2,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0000000000B3f879CB30Fe243b4dfEE438691c04./ipfs/qmd4rn8nzsduvm2ckteg65rj12hnyokfwt58vrxayustg2/gst2",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfb0844a9cc6faeb4f4a9daa923799edfe96ef5cec410758e2554be1debd46d1a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

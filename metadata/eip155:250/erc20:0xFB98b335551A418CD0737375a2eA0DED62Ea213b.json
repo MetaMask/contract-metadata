@@ -1,0 +1,8 @@
+{
+  "name": "MAI",
+  "symbol": "miMATIC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:250/erc20:0xFB98b335551A418CD0737375a2eA0DED62Ea213b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6589007e05f099355124ab2d173de79ad4afe7576c693b545524a4b9208439f7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

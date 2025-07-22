@@ -1,0 +1,8 @@
+{
+  "name": "ResearchCoin",
+  "symbol": "RSC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xABEcE6d924e003816BCE65d9bd20655303D0abc6.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x124cad31dc5969d82f53d76eee3dc13c005f1db8150eb03daf6329c423625a12@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

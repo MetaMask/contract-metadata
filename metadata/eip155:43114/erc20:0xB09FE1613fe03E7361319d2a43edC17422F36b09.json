@@ -1,0 +1,8 @@
+{
+  "name": "Bogged Finance",
+  "symbol": "BOG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xB09FE1613fe03E7361319d2a43edC17422F36b09.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x749c7d25f86745d6472faaf4603c46c07bf3018e70f9180565110846919467d5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

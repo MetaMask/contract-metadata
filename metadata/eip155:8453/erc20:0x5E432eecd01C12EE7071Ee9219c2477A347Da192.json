@@ -1,0 +1,8 @@
+{
+  "name": "ARQx AI",
+  "symbol": "ARQX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x5E432eecd01C12EE7071Ee9219c2477A347Da192.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x77f6d38a3ad500df252de0db19eac759c248323cc4c7f0f7b856d188cba45011@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

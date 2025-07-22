@@ -1,0 +1,8 @@
+{
+  "name": "Based Bunny",
+  "symbol": "BUNNY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x75570e1189ffC1D63B3417cdf0889f87CD3E9bd1.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x88fc7241decfb8fdd9ae1af0f108bb700c22a7533a5933ab7d09ffcf609df64a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

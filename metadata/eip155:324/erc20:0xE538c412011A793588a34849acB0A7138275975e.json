@@ -1,0 +1,8 @@
+{
+  "name": "StargateToken",
+  "symbol": "STG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xE538c412011A793588a34849acB0A7138275975e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2b50c0c2d4481a4398aa6ed1d326a73a4011248323461a44ac672c70af375fb0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

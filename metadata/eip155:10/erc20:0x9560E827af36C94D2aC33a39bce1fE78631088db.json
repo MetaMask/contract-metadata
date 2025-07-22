@@ -1,0 +1,8 @@
+{
+  "name": "Velodrome Finance",
+  "symbol": "VELO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:10/erc20:0x9560E827af36C94D2aC33a39bce1fE78631088db.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4387abcb7027d1f161f8338e3df6059e3fee3a3ad172458e7b36d1a31fab5096@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

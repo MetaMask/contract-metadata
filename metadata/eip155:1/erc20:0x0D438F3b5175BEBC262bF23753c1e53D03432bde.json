@@ -1,0 +1,8 @@
+{
+  "name": "Wrapped NXM",
+  "symbol": "wNXM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0D438F3b5175BEBC262bF23753c1e53D03432bde./ipfs/qmrzeny3fvj1bax8fnprfszxxdj94n3z7v8d21bdzhx5iy/bccz8zwnc8r7azsl5hajfqyctf7rgtzep24sh6uapvhfkaaundidydpyeyaeqbe54di72jv87lhiknbtvjpc9ddcrz",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x15cb1e52f94fb31bcfec1be6dc009b6fc891191f2429ff5e8447c340346ea0c8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

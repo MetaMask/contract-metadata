@@ -1,0 +1,8 @@
+{
+  "name": "NEAR Protocol",
+  "symbol": "NEAR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x1Fa4a73a3f0133F0025378af00236f3ABDEE5d63.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xae1e0b5c0a2b6beee942ebc490e5b1ba854d047eda81c0b69198877f266aea65@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

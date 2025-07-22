@@ -1,0 +1,8 @@
+{
+  "name": "Kattana",
+  "symbol": "KTN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x491E136ff7ff03E6AB097e54734697BB5802Fc1c./ipfs/qmunzvs5tnt1zite6qzenbplp2ziuarxvc6yylhqmkskm9/ktn",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4e67339e7837de6e21f8348c738c938b4a93147269201817d698863000a8969e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

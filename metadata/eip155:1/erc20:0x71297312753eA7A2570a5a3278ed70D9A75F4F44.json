@@ -1,0 +1,8 @@
+{
+  "name": "ETHEREUM IS GOOD",
+  "symbol": "EBULL",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x71297312753eA7A2570a5a3278ed70D9A75F4F44.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc494ce7749300216998127315d19cc1f8f0e510f76a7fd617854f8cd59a8aacd@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Jarvis Synthetic South Korean Won",
+  "symbol": "jKRW",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0xA22F6bc96f13BCC84DF36109c973D3C0505a067e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdc60bc84859b36edc944c7ff59fc18b51e7af418695944b801623186508587f2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

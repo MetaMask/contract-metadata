@@ -1,0 +1,8 @@
+{
+  "name": "BLAP",
+  "symbol": "BLAP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x140284d383918C522aCa8F1cc6df49043B562e9b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x063c850107c6b3e0b6c18a764507dba6b44ea17527d9f2c1f1d35c0f2a7aa6b2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

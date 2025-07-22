@@ -1,0 +1,8 @@
+{
+  "name": "Moca",
+  "symbol": "MOCA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF944E35f95e819E752F3ccb5fAf40957D311E8c5.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbad3b5601455a4d45309a54c94c76470612bc40574a23be9cf933d1e1e960e81@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

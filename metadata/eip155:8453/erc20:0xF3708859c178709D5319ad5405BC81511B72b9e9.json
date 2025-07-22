@@ -1,0 +1,8 @@
+{
+  "name": "aethernet",
+  "symbol": "AETHER",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xF3708859c178709D5319ad5405BC81511B72b9e9.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc81b6e853a2afb875903105ea1705e0be763b6086a677080be04afd906f178d9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

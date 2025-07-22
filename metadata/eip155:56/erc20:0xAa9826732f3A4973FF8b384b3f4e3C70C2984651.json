@@ -1,0 +1,8 @@
+{
+  "name": "CryptoXpress",
+  "symbol": "XPRESS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xAa9826732f3A4973FF8b384b3f4e3C70C2984651.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbe533d34a0b5fe9eb20696b79980e56e281547e1df13bf8567345dadad814086@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

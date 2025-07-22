@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Gold Ounce",
+  "symbol": "sXAU",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x261EFcdd24ceA98652b9700800A13DFBCa4103ff./ipfs/qme5efxd4si2fi9rvnf8hsj1budeakwy1wg7fpdh25iykj/sxau",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x345fa89404a1920fcfdf5852428986f0b421e213fd688057703ba4493989e057@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

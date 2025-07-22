@@ -1,0 +1,8 @@
+{
+  "name": "StormX",
+  "symbol": "STMX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xBE9375c6a420D2EEB258962efb95551A5B722803./ipfs/qmccvmt7dveyekbzfmqbmjrrgt4dmjuycd5revtnpnp3fv/stmx",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xde0ddf85bd9fabf1f427e000d24b96cb29fe106b80c8f7ceda9139c3ba098de4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Rake Finance",
+  "symbol": "RAK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA8b0F154a688C22142E361707df64277E0a0be66./ipfs/qmrgddnd62bptqzbffdih9x6f8jfrklmsnmagavjsav73c/rak",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa4089797dcb0fc3b13d239a05e23c9b98914046eea066ef091cec30359095b26@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

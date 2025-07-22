@@ -1,0 +1,8 @@
+{
+  "name": "TimeMiner",
+  "symbol": "TIME",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA54c67bd320dA4F9725a6F585b7635A0C09b122e./ipfs/qmzfzzwrjtgirprmxpjbshcaa2awcdhp1s1qzyuszes7os/bce2saysx4rn9529wj3zgmmwrpzyoebi19bfzxzkua7tak9yd5m1cmydrqqxdwhfgsicdw86rfv8fwt4m2z5ys1psf",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0c73d4837c87c30844a2dabae3c480f4f0f4b489e63a9c41d34c0652d1723c02@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

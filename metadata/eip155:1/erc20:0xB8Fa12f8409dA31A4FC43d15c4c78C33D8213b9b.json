@@ -1,0 +1,8 @@
+{
+  "name": "CaliCoin",
+  "symbol": "CALI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB8Fa12f8409dA31A4FC43d15c4c78C33D8213b9b./ipfs/qmagwjhvtmer8ukt1u12yzfrjywlejeufx7xnkazjzocrj/cali",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4a0fe66750e59e81290cd47191f17621514c006c47a8f4117ff82158f31a0ac3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

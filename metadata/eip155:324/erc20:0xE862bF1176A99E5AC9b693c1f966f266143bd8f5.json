@@ -1,0 +1,8 @@
+{
+  "name": "Wrapped eETH",
+  "symbol": "weETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xE862bF1176A99E5AC9b693c1f966f266143bd8f5.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0778c6b0938e315375244ab139f3885d1c8432d0c4585078db932b6aeb62bd73@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

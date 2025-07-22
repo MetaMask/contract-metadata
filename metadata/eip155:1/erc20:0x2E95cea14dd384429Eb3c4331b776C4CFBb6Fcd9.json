@@ -1,0 +1,8 @@
+{
+  "name": "Throne",
+  "symbol": "THN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x2E95cea14dd384429Eb3c4331b776C4CFBb6Fcd9.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x486c439112e65663a031701704759d8c8255fe8bc50ff57f0d6fb884fa3d323b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

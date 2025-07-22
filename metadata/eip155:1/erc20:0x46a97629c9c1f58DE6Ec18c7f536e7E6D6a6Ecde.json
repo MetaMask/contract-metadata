@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Inverse Polkadot",
+  "symbol": "iDOT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x46a97629c9c1f58DE6Ec18c7f536e7E6D6a6Ecde./ipfs/qmpaz3q1p2jfyq42w5e9oofcsbwczcksw7588hqz3qepg2/idot",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xff0050532063adca3540d39beba2e23581a83329924e349ba934b9e12954027e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

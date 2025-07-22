@@ -1,0 +1,8 @@
+{
+  "name": "Venus MATIC",
+  "symbol": "vMATIC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x5C9476fcd6A4f9A3654139721c949C2233bbbbc8.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb9b300a6d5aa63256025db0648c6ad2ade378761e3f1e97fcd698afdaeec4af0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

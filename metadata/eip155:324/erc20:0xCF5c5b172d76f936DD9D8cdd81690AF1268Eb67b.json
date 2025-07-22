@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Dollar",
+  "symbol": "GUSD",
+  "decimals": 2,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xCF5c5b172d76f936DD9D8cdd81690AF1268Eb67b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe2ada11a97497c00a75ef1808d72c2c09e3afbf3edbd9954ae90811483ff7fb3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Strudel Finance",
+  "symbol": "$TRDL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x297D33e17e61C2DDD812389c2105193F8348188a./ipfs/qmxir1ymhk4a7rxsheczugvwn3ez5x1dksjxqh9tbvdmau/bcd8exaxwnrhowm7tj6snvnyb9kty927gud5ziwz5wcpwhn4gtyc7lonq3mopvr6u1vm7rbdudcug26xvkvqprdaww",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x314d4f79fca2309c8f5eb8a3a1396ce417ee173f5c7b49facfd9ef9151e44ec4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

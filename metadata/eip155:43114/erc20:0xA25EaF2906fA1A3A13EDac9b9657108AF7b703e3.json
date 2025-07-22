@@ -1,0 +1,8 @@
+{
+  "name": "GoGoPool Liquid Staking",
+  "symbol": "ggAVAX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xA25EaF2906fA1A3A13EDac9b9657108AF7b703e3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8d8174f8525a68f61643cd3499e4ae1e694fae99c0d73dc72ccfdf60112030e5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

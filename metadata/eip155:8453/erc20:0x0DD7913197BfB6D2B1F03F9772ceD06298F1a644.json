@@ -1,0 +1,8 @@
+{
+  "name": "Moonboots DAO",
+  "symbol": "MBDAO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x0DD7913197BfB6D2B1F03F9772ceD06298F1a644.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2847300ef61f379b82e302badbf9332eb6c90cbb920e3ad5af7a0872ffe8b9dd@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

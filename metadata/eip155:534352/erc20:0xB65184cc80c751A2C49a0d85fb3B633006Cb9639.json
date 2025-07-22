@@ -1,0 +1,8 @@
+{
+  "name": "Scroll Troll",
+  "symbol": "STROLL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:534352/erc20:0xB65184cc80c751A2C49a0d85fb3B633006Cb9639.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x11f0ae867f4596a7a52b4a224bb72c07fb6984d763e5fbb8148b6aa19c59bec0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

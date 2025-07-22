@@ -1,0 +1,8 @@
+{
+  "name": "Juice",
+  "symbol": "JUC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xD5D053d5b769383E860D1520dA7A908E00919F36.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8be7e71fbe783b1c60334f4c04c63942e7ed01d25d64e3b600a9c08ffeae33fb@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

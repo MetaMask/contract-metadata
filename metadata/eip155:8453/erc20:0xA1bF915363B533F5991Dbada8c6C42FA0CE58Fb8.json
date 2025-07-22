@@ -1,0 +1,8 @@
+{
+  "name": "Syn Dog",
+  "symbol": "SYN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xA1bF915363B533F5991Dbada8c6C42FA0CE58Fb8.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3b98589db09d334a214dae41ba660b248cc6faf61e59ac53cbda07d8d52646b7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

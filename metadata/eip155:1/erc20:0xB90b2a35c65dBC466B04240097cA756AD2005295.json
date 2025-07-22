@@ -1,0 +1,8 @@
+{
+  "name": "BOBO",
+  "symbol": "BOBO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB90b2a35c65dBC466B04240097cA756AD2005295.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1be9fd425fa68d9a5e16edab45c337134e82e46f48e6085a4ebbfb480bf59529@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

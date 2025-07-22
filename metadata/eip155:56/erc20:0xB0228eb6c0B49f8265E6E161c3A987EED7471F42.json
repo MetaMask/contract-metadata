@@ -1,0 +1,8 @@
+{
+  "name": "Fanspel",
+  "symbol": "FAN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xB0228eb6c0B49f8265E6E161c3A987EED7471F42.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2813531db2e6e63d8fd54e6f9bb30c3285b4878b2a9dda3456e1c091c1919297@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

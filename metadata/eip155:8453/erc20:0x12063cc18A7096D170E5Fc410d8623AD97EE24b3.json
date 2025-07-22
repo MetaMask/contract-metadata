@@ -1,0 +1,8 @@
+{
+  "name": "FREN ALPHA",
+  "symbol": "FREN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x12063cc18A7096D170E5Fc410d8623AD97EE24b3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4db333f3d79fce617847d92bcd4078b5e957f8dbf27c8c37039333fff0e32064@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "DeFi Pulse Index",
+  "symbol": "DPI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1494ca1f11d487C2BBE4543e90080AEBA4ba3c2b./ipfs/qmvrp1z3yd3q74w1irgzim5qxspakxnksy516xdy6lwfsp/bcd1kpomjnvjgto5cfisrsvuebzjcr8ysphv7w4htdhubpsmnxrvwqwagupf7dr8ybstjkkc3dhu9hknmezjjtsr8u",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2163d22f0cddfa49bd2b9abbce9f90c560928650d0c24bc178838ed7bc063681@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

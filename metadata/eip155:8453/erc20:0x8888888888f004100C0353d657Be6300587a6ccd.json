@@ -1,0 +1,8 @@
+{
+  "name": "ACryptoS",
+  "symbol": "ACS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x8888888888f004100C0353d657Be6300587a6ccd.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x44f1ca942c2db8bac3128ed9aa7b2d0d0db3e2bfcdcd0b9c61b6b10ee18db95e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "H1DR4 by Virtuals",
+  "symbol": "H1DR4",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x83abFc4beec2eCF12995005d751A42DF691c09c1.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x54fce88b08a0051ac9861343c666c7a529c74c6069df972d19c6d9d6cedfec51@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

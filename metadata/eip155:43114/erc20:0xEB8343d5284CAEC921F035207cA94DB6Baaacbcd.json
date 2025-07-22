@@ -1,0 +1,8 @@
+{
+  "name": "Echidna",
+  "symbol": "ECD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xEB8343d5284CAEC921F035207cA94DB6Baaacbcd.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xec3d7615d55ff66b6f95320085d1d4ee69f8a1b86c73e1f3f1a1ad2e3455c8ab@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

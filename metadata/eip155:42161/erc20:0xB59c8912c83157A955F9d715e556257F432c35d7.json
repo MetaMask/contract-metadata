@@ -1,0 +1,8 @@
+{
+  "name": "Truflation",
+  "symbol": "TRUF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0xB59c8912c83157A955F9d715e556257F432c35d7.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9d2a619c0881bc9d67cdd8f3cc3c463ffaa4e18b13ea5b13512f72c541ee0cc2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

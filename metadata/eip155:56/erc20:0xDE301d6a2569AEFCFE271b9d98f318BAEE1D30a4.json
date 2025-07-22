@@ -1,0 +1,8 @@
+{
+  "name": "Luna Rush",
+  "symbol": "LUS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xDE301d6a2569AEFCFE271b9d98f318BAEE1D30a4.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x609d1888293704d4783c91688a24080569afc66d2fec98a2870eee474c71f6d0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

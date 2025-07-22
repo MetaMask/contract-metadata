@@ -1,0 +1,8 @@
+{
+  "name": "Rivetz",
+  "symbol": "RVT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3D1ba9be9f66B8EE101911bc36d3fB562Eac2244./ipfs/qmzamv1qsgmp1x6mankvooa9famvg3gkghi1dw8jciuxww/bcdybj51fs2vc4anrvnwcbbfqas7nsg4bu9ot8fprkeissdhgs5xim21vjsagy2tk6hvyvq97reeaqrr6pqxguogmv",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf4107fb88b1e53ab53aa829608d8380e8a43f7cb884ee917ddbb2e73061943df@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "STP",
+  "symbol": "STPT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xDE7D85157d9714EADF595045cc12CA4A5F3E2adb.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf18eace0eb3231e030c3112fe305115530d04f209844723de272dc25a456e3b9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

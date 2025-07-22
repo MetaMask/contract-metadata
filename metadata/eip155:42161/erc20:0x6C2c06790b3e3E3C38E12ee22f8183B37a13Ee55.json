@@ -1,0 +1,8 @@
+{
+  "name": "Dopex",
+  "symbol": "DPX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0x6C2c06790b3e3E3C38E12ee22f8183B37a13Ee55.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe57bdf2325f9270c2ac2f5e352d9dc7331cd9c1e80e26f6deae9caa55ad4f518@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

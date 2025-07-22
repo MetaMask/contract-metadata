@@ -1,0 +1,8 @@
+{
+  "name": "Hurify",
+  "symbol": "HUR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xCDb7Ecfd3403eEF3882c65b761ef9B5054890a47./ipfs/qmziv7alsxh3qbj62agtgprygfut1xcadwlotpg5kx1pcq/bcd8uvpvk6kyfd6da4ppnmvfxueuxvg7hz3gdp5pdjj13epnvjsx6ykqdohtkcm24h4axvmjuiz9g5kskwjgg6qcui",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa5cc02d1ffc11cba9290427e1686b39e33af8839f2776cb3f2b6d7c6e29848e7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Clifford Classic",
+  "symbol": "CLIFFC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x33Ebd390d986eB21FB91a5b72ee5AD8A1F40E43e./ipfs/qmsoxsuqdwysergzkrcjthyavt6ssbxkrqn1t2jrqbtzqw/cliffc",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf59f6f05e973cb5c813aac8f8366e109f31a5c979531c9557716b321f5d72539@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

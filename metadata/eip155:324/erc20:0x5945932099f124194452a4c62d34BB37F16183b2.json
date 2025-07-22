@@ -1,0 +1,8 @@
+{
+  "name": "Curve DAO",
+  "symbol": "CRV",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x5945932099f124194452a4c62d34BB37F16183b2.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfdfc7243c70b51797d0b494afaae4d5a7d2dc870ea01fae51ab8faaa2d1199f3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Hedget",
+  "symbol": "HGET",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x7968bc6a03017EA2DE509aaa816f163DB0F35148./ipfs/qmakcmfryqtjgbn3wizghwblf7y7m2fuwnkcf4tqkymrxp/bccybpcjt8qr7nhuq54s2wadyjtdrtlbmi9iv6b4fmljvvx3ca1gsd2suzettur6nuzmgqdtndc1225kawzsur1rf7",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa9d26d5ac1385f280aa9f18e21e6f3bd4c973aa990b2c48ba879bd278e516266@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

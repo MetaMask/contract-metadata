@@ -1,0 +1,8 @@
+{
+  "name": "Amaterasu Omikami",
+  "symbol": "OMIKAMI",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9E18d5bab2fA94A6A95F509ecb38f8F68322abd3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfc9fe02294617d210d5238dbd4fc76a36681bae548c35adbd4504951fbaef155@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Aave CRV",
+  "symbol": "aCRV",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x8DaE6cb04688C62D939Ed9b68d32BC62E49970b1./ipfs/qmvrdb4ishjghw4p1xgtuftscuqd4feekqaqrgg7wznumy/acrv",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7ecd75da1847379886c68b995f85f4185dca4f1083e9c4f4a6acfcf3f4796131@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

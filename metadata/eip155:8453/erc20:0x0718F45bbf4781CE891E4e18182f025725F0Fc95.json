@@ -1,0 +1,8 @@
+{
+  "name": "Misser",
+  "symbol": "MISSER",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x0718F45bbf4781CE891E4e18182f025725F0Fc95.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0b84e2d833d1c3f3bc185c4a76302d92c43fe3765144cfebbb34eb9132381fa6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

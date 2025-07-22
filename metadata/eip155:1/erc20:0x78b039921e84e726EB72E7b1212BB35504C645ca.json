@@ -1,0 +1,8 @@
+{
+  "name": "Sether",
+  "symbol": "SETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x78b039921e84e726EB72E7b1212BB35504C645ca./ipfs/qmejzv48c42ae8xsagvweafxjzpnnkvdksmvw55k5pg2wp/bcd4minzj3ktle7t9njcmdh75szgufmqwt5lbsim6tepamaz25oyhvetyekcxcmmgg1w9hbsxs4o5urdxgspg28rqi",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6d95fed7ff90e6072cdbc9adc7ec6cf904073d8352787fe5b02727848d17ce8d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

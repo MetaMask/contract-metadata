@@ -1,0 +1,8 @@
+{
+  "name": "MeowCat",
+  "symbol": "MEOW",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x8aD25b0083c9879942a64F00f20A70D3278F6187.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x558c619271db258a50fa1ca5312ba71aad1b8196f6628e01aeb7ee9edae3ada1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

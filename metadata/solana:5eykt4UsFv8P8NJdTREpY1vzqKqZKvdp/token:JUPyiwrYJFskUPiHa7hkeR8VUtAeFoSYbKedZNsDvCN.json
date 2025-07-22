@@ -1,0 +1,8 @@
+{
+  "name": "Jupiter",
+  "symbol": "JUP",
+  "decimals": 6,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf99a0b58f3524c63aaf97074fb7ee78599be9f482ba924d7e5d65c34983eea53@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

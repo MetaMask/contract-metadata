@@ -1,0 +1,8 @@
+{
+  "name": "Chainlink",
+  "symbol": "LINK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0xF97F4df75117A78C1a5a0dbb814Af92458539Fb4.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfc05fbd2d2398313f46d3656912170beea06e53e6461858a6396bf7dbccb5202@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

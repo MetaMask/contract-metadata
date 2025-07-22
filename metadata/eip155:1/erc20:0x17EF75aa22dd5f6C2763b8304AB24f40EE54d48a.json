@@ -1,0 +1,8 @@
+{
+  "name": "Revolution Populi",
+  "symbol": "RVP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x17EF75aa22dd5f6C2763b8304AB24f40EE54d48a./ipfs/qmukonh7pkqtukqhpuvqwerzfdsabskcnue1herwgi83dz/rvp",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x39944a428a6a7ebcb4d50be438b6f756071ef325d40a73caa14c50b5ac0adccf@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

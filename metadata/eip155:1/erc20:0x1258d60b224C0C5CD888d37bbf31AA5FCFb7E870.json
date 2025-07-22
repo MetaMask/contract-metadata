@@ -1,0 +1,8 @@
+{
+  "name": "NodeAI",
+  "symbol": "GPU",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1258d60b224C0C5CD888d37bbf31AA5FCFb7E870.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc6c8e4f94e48a63dc10b1d3c2277d1c0799334be5dc1656d115b3efb1dcd1808@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

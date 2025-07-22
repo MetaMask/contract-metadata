@@ -1,0 +1,8 @@
+{
+  "name": "XWG",
+  "symbol": "XWG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x348Dd1f6980141D23787aeaf511550C81E7b0b4b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa62a8aa42d61c494d3a30fd72143e2efca99a2e7702bcb9b437775f753d37370@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

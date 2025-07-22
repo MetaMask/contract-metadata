@@ -1,0 +1,8 @@
+{
+  "name": "UniLayer",
+  "symbol": "LAYER",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0FF6FFcfdA92C53F615a4a75d982f399C989366b./ipfs/qmt2kezekvffodbuyzdupiwxskhwhspla22snxuwvwfdy1/bcdyatzjkzvpdctdiampnuqkya2hcyn8kd9z2czbwfxanmktpznjmrxctuaakrj2pwee8mfu3kvp4kk5mrevdxseqs",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7996ee3a07978b2760167fe82b05622e4e700bd4a27d160234f517b53e7ba6cc@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

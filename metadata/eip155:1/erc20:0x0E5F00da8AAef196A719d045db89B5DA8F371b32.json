@@ -1,0 +1,8 @@
+{
+  "name": "Connectome",
+  "symbol": "CNTM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0E5F00da8AAef196A719d045db89B5DA8F371b32./ipfs/qmwqer78wovsbxjynpth85f3b6dsfbnagm5pby4fcd2mgw/bccx33kaazaxscmeczbadxkatfao6g3fhtppa1av7wj1hpck8fykz9ogsz9tgh8muqwru3fhyohaihojhickb8s9fh",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd3bf4ed1791f0e35bc6db96ab6051434461b6c319adba0a42948f4ec9aab6903@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

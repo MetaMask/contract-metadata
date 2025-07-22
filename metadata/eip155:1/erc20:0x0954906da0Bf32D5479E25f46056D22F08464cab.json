@@ -1,0 +1,8 @@
+{
+  "name": "Index Cooperative",
+  "symbol": "INDEX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0954906da0Bf32D5479E25f46056D22F08464cab./ipfs/qmzbacglesxeqn1uj1q8pe8hcchbqfdsd5qh7zca8i13mk/index",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x25db901bb678a1a839fbdab68861e6718349c70b953a88c7cb9aeb85d8d056be@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

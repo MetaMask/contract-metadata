@@ -1,0 +1,8 @@
+{
+  "name": "Nola",
+  "symbol": "NOLA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0xE934ab7e98d81E39477b1e47b961876C2D902598.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x70629b02059cbb3f13a77731bdcb98c9c48e0cd28e9f22797b117d4f85a99085@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

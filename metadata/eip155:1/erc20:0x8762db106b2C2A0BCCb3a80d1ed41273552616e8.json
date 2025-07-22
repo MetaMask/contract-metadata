@@ -1,0 +1,8 @@
+{
+  "name": "Reserve Rights",
+  "symbol": "RSR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x8762db106b2C2A0BCCb3a80d1ed41273552616e8./ipfs/qmnih2nc9kfz6zrzgkw73hhjlwucgffmremp1xw7x7pjt5/bccza3xpm4cb8goye2vxuhf2epgxz95zct1yg5fpdyx2vguk6jmmhqdsbt4lupttmq41uec3br1kglegta2juhptnu",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd54700ee70d5a5d81ea9f6c83b4dc3a885364a5860df38f6e1f66888d174247c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

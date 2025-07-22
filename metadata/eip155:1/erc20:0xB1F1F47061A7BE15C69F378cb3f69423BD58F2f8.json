@@ -1,0 +1,8 @@
+{
+  "name": "Flashstake",
+  "symbol": "FLASH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB1F1F47061A7BE15C69F378cb3f69423BD58F2f8./ipfs/qmb3n1mxaq2cri8lhlffr55csswqwm6ycpmzcbnmx9x2za/flash",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x24dc0c0fb4ecff68e92ed01867eca3f58b942102f576576a502f25d2e2f5c68c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

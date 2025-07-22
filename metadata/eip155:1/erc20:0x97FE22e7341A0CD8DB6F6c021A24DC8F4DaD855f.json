@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Pound Sterling",
+  "symbol": "sGBP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x97FE22e7341A0CD8DB6F6c021A24DC8F4DaD855f./ipfs/qme4qrxj7voqpoguw4hkhgtmzzedidnesb7fcfwndzpmef/sgbp",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x902175abf865d823f6302fe0690883cb4a53ac22268401033a44b470a4e3dbcb@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

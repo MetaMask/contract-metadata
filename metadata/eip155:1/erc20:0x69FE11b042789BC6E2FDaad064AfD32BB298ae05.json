@@ -1,0 +1,8 @@
+{
+  "name": "The Red Order",
+  "symbol": "ORDR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x69FE11b042789BC6E2FDaad064AfD32BB298ae05./ipfs/qmegazzejllcojjxklz2juplfkccvqiqkflvz8ekkhtzjw/ordr",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa84efe567f41e0a2131fb35422ff63e1f9019424153a8e1cb0516085554c4e5e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

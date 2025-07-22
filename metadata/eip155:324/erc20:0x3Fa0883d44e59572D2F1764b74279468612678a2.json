@@ -1,0 +1,8 @@
+{
+  "name": "iZUMi",
+  "symbol": "iZi",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x3Fa0883d44e59572D2F1764b74279468612678a2.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb35ab2352eba86b6d5c9ff47580af5c7171e588dd4f8180cdc073409232ca99e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "HARRIS2024",
+  "symbol": "HARRIS2024",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:100/erc20:0x68984a7d283ff918E530368e6AAAD1FC2aF88692.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3fec7f75620a1b4f12cc58fe821a220b2aa9ab7faf555b6366ec4207e07d6bff@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

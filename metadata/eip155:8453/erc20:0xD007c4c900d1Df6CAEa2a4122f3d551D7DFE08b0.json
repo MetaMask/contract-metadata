@@ -1,0 +1,8 @@
+{
+  "name": "SPORT",
+  "symbol": "SPORT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xD007c4c900d1Df6CAEa2a4122f3d551D7DFE08b0.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x64bfe00b02a4020166a77b4a76a9e1f1b1b59e2b233274b1a86d7a4ee2eed261@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

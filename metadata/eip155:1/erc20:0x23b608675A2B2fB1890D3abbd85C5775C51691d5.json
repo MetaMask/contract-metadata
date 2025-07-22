@@ -1,0 +1,8 @@
+{
+  "name": "Unisocks",
+  "symbol": "SOCKS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x23b608675A2B2fB1890D3abbd85C5775C51691d5./ipfs/qmt6xzkbhobw6m3vqihndp3v2ci2ag2txamf2h9nfebni6/socks",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x907631d5c0256c97cb6a6fa188c1e654adb8fe10f299763a7e4ebb307db4c3ca@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

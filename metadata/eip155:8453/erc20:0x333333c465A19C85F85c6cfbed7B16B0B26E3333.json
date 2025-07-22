@@ -1,0 +1,8 @@
+{
+  "name": "ORA",
+  "symbol": "ORA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x333333c465A19C85F85c6cfbed7B16B0B26E3333.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x03673a5b582a2acb5504c2f1982784b2c3ff35e02a29fdc7a2836150f7208fe3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Rotharium",
+  "symbol": "RTH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3FD8F39a962efDA04956981c31AB89FAB5Fb8bc8./ipfs/qmvev4yym8gbwjd88hkehnpdxumdvtekgbuhpytrttlzrq/bcd2svmefeepm5s7mqvsgmmawx84xrydbtpn9hz7kxzvqxgnppwn4khhx1mjd35codpkdfpavntfw1dihbrj4dgjpm",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe8e79660d68ccdf3a810057098c9f94041eaea4e6cf0ccfc8022fdd4952ad120@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}
