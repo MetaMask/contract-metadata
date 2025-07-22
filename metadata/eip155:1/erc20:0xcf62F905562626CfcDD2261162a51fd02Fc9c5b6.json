@@ -1,0 +1,7 @@
+{
+  "name": "Staked Frax USD",
+  "symbol": "sfrxUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xcf62F905562626CfcDD2261162a51fd02Fc9c5b6.svg"
+}

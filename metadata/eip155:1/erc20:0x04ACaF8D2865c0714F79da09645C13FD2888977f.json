@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped Frax",
+  "symbol": "WFRAX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:747474/erc20:0x04ACaF8D2865c0714F79da09645C13FD2888977f.svg"
+}
