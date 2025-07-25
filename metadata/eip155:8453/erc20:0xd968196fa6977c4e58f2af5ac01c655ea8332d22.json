@@ -1,0 +1,7 @@
+{
+  "name": "The Nation Token",
+  "symbol": "NATO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xd968196fa6977c4e58f2af5ac01c655ea8332d22.svg"
+}
