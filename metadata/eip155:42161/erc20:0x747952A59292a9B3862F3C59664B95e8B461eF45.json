@@ -1,0 +1,7 @@
+{
+  "name": "Arowana",
+  "symbol": "ARW",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0x747952A59292a9B3862F3C59664B95e8B461eF45.png"
+}
