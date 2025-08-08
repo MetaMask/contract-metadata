@@ -1,0 +1,7 @@
+{
+  "name": "IQ",
+  "symbol": "IQ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:252/erc20:0x6EFB84bda519726Fa1c65558e520B92b51712101.png"
+}
