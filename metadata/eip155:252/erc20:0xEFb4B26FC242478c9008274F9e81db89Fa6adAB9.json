@@ -1,0 +1,7 @@
+{
+  "name": "Convex FXS",
+  "symbol": "cvxFXS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:252/erc20:0xEFb4B26FC242478c9008274F9e81db89Fa6adAB9.png"
+}
