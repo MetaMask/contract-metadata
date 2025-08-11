@@ -1,0 +1,8 @@
+{
+  "name": " Wrapped Litecoin",
+  "symbol": "WLTC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x53C4871322BB47E7A24136fce291A6DCC832a294./ipfs/qmc1gzszshb9ozi3yh2mu4tvycjg5ex1uyafxkyjykcbx7/wltc",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc4e34f67be92b66a5ab626d444fb324e40be50806c95b0b69fd4a00d125fe9ea@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

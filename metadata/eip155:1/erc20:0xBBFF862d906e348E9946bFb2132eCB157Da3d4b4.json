@@ -1,0 +1,8 @@
+{
+  "name": "Sharder",
+  "symbol": "SS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xBBFF862d906e348E9946bFb2132eCB157Da3d4b4./ipfs/qmwzvz7tnphovqjxwkhvmcoujeed3bidizlrnowcthf7v7/bcczawrgqyytjbjkhqncqavgxxd7ak6tfsuasf2d4jnu6a5ym5pjgwhbn4o4colhdavck6ejnyypk8jtyvw6uvzt4r",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf85292a7e7019a1f37b25933465b08f8c3c2696ced97b094a6ea8fb36a5bbd27@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

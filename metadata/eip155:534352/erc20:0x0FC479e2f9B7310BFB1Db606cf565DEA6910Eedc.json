@@ -1,0 +1,8 @@
+{
+  "name": "Papyrus",
+  "symbol": "PAPYRUS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:534352/erc20:0x0FC479e2f9B7310BFB1Db606cf565DEA6910Eedc.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd71e389c110e2cda6deef618661e20953519ab83b901bcd8aa658bfe4a7ce27d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

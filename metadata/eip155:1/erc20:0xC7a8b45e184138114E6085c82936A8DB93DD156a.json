@@ -1,0 +1,8 @@
+{
+  "name": "MASK Vault",
+  "symbol": "MASK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xC7a8b45e184138114E6085c82936A8DB93DD156a./ipfs/qmsynyjds55rhetyoc9edursshyupwtngxmuhkaz8tav2x/mask",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbae42b83165832de281c14cfed009692174501be20988f72a50b34851dec8bb3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

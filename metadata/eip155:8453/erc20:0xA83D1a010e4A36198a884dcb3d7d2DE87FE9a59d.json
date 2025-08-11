@@ -1,0 +1,8 @@
+{
+  "name": "Lanify",
+  "symbol": "LAN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xA83D1a010e4A36198a884dcb3d7d2DE87FE9a59d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x97499187317ca22fe25ce6930fde9f65330b615b6e6fb7159c52f798d87d4ae2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

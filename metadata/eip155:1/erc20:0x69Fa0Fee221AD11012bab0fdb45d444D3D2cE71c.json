@@ -1,0 +1,8 @@
+{
+  "name": "Thorstarter",
+  "symbol": "XRUNE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x69Fa0Fee221AD11012bab0fdb45d444D3D2cE71c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7da6d006a2b3b7419956da2d581b2b60b73d6b7fe782adb56e7bda6a716330d0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

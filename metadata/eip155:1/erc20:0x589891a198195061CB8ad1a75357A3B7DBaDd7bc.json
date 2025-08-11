@@ -1,0 +1,8 @@
+{
+  "name": "Contentos",
+  "symbol": "COS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x589891a198195061CB8ad1a75357A3B7DBaDd7bc.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0dbf350f0b87a2940474e4b2e501ac59187c8b1dcf0174e6f0524f2345f3487a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

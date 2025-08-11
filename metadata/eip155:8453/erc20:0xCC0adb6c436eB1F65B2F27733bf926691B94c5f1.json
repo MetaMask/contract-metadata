@@ -1,0 +1,8 @@
+{
+  "name": "Guanciale by Virtuals",
+  "symbol": "GUAN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xCC0adb6c436eB1F65B2F27733bf926691B94c5f1.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbb1ccda55279ed80a13ed0e957c6160b702d890a4743b7df2e0bc601b3e6b079@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

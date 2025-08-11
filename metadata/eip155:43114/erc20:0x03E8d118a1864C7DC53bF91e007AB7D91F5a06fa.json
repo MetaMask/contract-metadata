@@ -1,0 +1,8 @@
+{
+  "name": "DEXTF",
+  "symbol": "DEXTF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x03E8d118a1864C7DC53bF91e007AB7D91F5a06fa.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5760514ca649b1d414cc9d6836ed99387919da167d5a1d48935faab393a3e864@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

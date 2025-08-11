@@ -1,0 +1,8 @@
+{
+  "name": "SENATE",
+  "symbol": "SENATE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x11Ea747be94AB79029a44034d121fB26946bb20d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8a01f3dc1c37804a85bff63c700cc4ea90616bc55ba6751f46d76fa018fb9988@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

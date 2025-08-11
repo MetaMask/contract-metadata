@@ -1,0 +1,8 @@
+{
+  "name": "Toast.finance",
+  "symbol": "HOUSE",
+  "decimals": 0,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x19810559df63f19CFE88923313250550EDaDb743./ipfs/qmpbcxvrzxzosja81xmdh156p6mbr9tpzgfz3epqgyk3od/house",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdcdd4dc2c24b8da160d3f33bb1de963a569a4c49521ec49889c45b67ba42a5fa@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

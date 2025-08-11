@@ -1,0 +1,8 @@
+{
+  "name": "Penguin Karts",
+  "symbol": "PGK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:250/erc20:0x188a168280589BC3E483d77aae6B4A1D26bD22dc.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9388b00b156f1f7496a43f46c2f12009c1f410ab77059692f23b2804c140f7c7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

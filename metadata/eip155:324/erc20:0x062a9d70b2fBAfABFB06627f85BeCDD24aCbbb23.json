@@ -1,0 +1,8 @@
+{
+  "name": "Bitrock",
+  "symbol": "BROCK",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x062a9d70b2fBAfABFB06627f85BeCDD24aCbbb23.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x01fe829babd53f7f7c44da34b1ff471a52d071a74aed97bff78e7c637b63e186@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

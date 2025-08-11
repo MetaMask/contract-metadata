@@ -1,0 +1,8 @@
+{
+  "name": "7SHARE",
+  "symbol": "7SHARE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:250/erc20:0xB215014176720EDA5334dF07f827C3F11EC0F1bd.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4e1efbd059af6c555f7260c0ee08169c992057972a700b872f83f4926a81dbd3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

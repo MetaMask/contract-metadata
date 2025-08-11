@@ -1,0 +1,8 @@
+{
+  "name": "Pitbull",
+  "symbol": "PIT",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xA57ac35ce91ee92CAEFaa8dc04140C8E232c2e50.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf14252e4177fae54fbc7fb4062ca274d6e8e07b2d2da6b37dedea93244e4be18@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

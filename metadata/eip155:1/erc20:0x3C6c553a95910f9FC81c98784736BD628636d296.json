@@ -1,0 +1,8 @@
+{
+  "name": "Cream Empty Set Dollar",
+  "symbol": "crESD",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3C6c553a95910f9FC81c98784736BD628636d296./ipfs/qmznojb2bwxhlxddvyao9zhlsehvgpl8rdhx86nb6n4geu/cresd",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x910371e808dc298eb361cd03dd3f85fed0d300fd374c0b9edea04e22ae09d31b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

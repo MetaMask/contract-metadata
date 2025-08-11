@@ -1,0 +1,8 @@
+{
+  "name": "Swapp",
+  "symbol": "SWAPP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x8Cb924583681CBFE487a62140A994A49F833c244./ipfs/qmsvtrc64vjncqp21wmtyvufoucp1ojvpcevubtc3w6yz1/swapp",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc1d5b6e4e652b8772a6ce2a44e54d508b6934a9c8f0794324d52efbf043a2371@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

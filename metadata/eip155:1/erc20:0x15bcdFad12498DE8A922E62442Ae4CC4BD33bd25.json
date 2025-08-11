@@ -1,0 +1,8 @@
+{
+  "name": "Walletreum",
+  "symbol": "WALT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x15bcdFad12498DE8A922E62442Ae4CC4BD33bd25./ipfs/qmp4h3bjxpgibhyz85zamre6tsywljvgwis698ubqeeg5u/bcd4nvcxpj4tk7lex6dzpwnhvnao43n4j529du8xjb4mq4g16vgi5uwshtntl21icbtdgqpxhyssctm6xc3qcbsndj",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x817a7c062d0b976c7ca848e81703a10b3aed1265404ef9e855c8a0dee88f4faa@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

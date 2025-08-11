@@ -1,0 +1,8 @@
+{
+  "name": "Willy",
+  "symbol": "WILLY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x403b78f9f817A55B66030c7b2ddAB063D28c2c0c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x394f56f94cdf99273ba733819a11789b5df94ce20353af253a374e32a3ebd765@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

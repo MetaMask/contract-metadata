@@ -1,0 +1,8 @@
+{
+  "name": "Ribbita by Virtuals",
+  "symbol": "TIBBIR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xA4a2E2ca3fBfe21AED83471d28B6f65A233c6e00.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2fa3b909bf383fe90a69a935c4453007952005e00888e33db1969c73d8950c62@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

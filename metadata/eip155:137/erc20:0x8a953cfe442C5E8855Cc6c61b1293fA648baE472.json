@@ -1,0 +1,8 @@
+{
+  "name": "PolyDoge",
+  "symbol": "PolyDoge",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0x8a953cfe442C5E8855Cc6c61b1293fA648baE472.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1113300bfd225dc7e2c434d0254f86fb32d929b8973c59ad90c191e23d39c636@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

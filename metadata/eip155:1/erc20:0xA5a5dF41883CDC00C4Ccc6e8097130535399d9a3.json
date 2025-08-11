@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Inverse Perpetual Oil Futures",
+  "symbol": "iOIL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA5a5dF41883CDC00C4Ccc6e8097130535399d9a3./ipfs/qmpskefp1pbiom7nmhhos3jucnn1izoy2yyxlniatznkfe/ioil",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf569494cef77761e7480f8a1bb9c4994adb1b5ff667490b9b115289f91fae15b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

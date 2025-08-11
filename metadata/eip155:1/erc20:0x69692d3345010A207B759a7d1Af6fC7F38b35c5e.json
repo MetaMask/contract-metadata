@@ -1,0 +1,8 @@
+{
+  "name": "CHADS VC",
+  "symbol": "CHADS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x69692d3345010A207B759a7d1Af6fC7F38b35c5e./ipfs/qmpvhkuj5bqqgjaeyfaec8r92bbzhfjeczzvy8tzlhwg3o/chads",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa521d95767cf0b2c8a659ff79a19001c29121790b94a4547631b2deeeb198787@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "NFPrompt",
+  "symbol": "NFP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x75E8ddb518BB757B4282cd5b83BB70D4101D12fb.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6da3e9023c6f02a91f26eb0da76e50a2667054231062ee8b1cf621cf28dda6a5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

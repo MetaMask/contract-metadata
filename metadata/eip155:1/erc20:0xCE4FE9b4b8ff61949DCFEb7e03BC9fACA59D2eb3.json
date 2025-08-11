@@ -1,0 +1,8 @@
+{
+  "name": "Cream Balancer",
+  "symbol": "crBAL",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xCE4FE9b4b8ff61949DCFEb7e03BC9fACA59D2eb3./ipfs/qmnbykh67ercnic1gbyf7qegk5sxqst456qnu1jg63cgk6/crbal",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x422625eb27f1e4e28f6a762d11d307f836c945340eb4cd6e04b76cd9516e44e1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

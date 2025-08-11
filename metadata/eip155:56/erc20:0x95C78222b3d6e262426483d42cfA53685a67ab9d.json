@@ -1,0 +1,8 @@
+{
+  "name": "Venus BUSD",
+  "symbol": "vBUSD",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x95C78222b3d6e262426483d42cfA53685a67ab9d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5f26e15d67c1e1e316ae46f005eebcd81b34053ec0622b76ae199bfa10c58b76@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

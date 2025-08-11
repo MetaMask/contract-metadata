@@ -1,0 +1,8 @@
+{
+  "name": "GOGO",
+  "symbol": "GOGO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:250/erc20:0xB77bcc523c3B496283203c8ae2c162CF206a103f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x265ef5c2600d34d30ed3b2f86045cf966cb04ed05bdbc0a4ba251ce93e927a94@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Slam",
+  "symbol": "SLAM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x000851476180BfC499Ea68450A5327D21C9b050e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x536c608ffde1e6a8e0d10e1d45b565c5902e20d19d4814deb64dfbdc2117a79a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

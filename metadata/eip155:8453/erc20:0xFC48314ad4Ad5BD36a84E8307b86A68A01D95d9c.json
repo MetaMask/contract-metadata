@@ -1,0 +1,8 @@
+{
+  "name": "AION 5100",
+  "symbol": "AION",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xFC48314ad4Ad5BD36a84E8307b86A68A01D95d9c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x39f216045596aa6b8ffa6c01aad6203769e0988ee5c148c1222dfa4d480798c1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

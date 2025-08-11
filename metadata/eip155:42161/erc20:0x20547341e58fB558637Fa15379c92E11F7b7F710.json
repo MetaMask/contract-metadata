@@ -1,0 +1,8 @@
+{
+  "name": "Mozaic",
+  "symbol": "MOZ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0x20547341e58fB558637Fa15379c92E11F7b7F710.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe5ef52d093b566806262ac6681026f58779ff04ddebf112681d6c67e15b62d9d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

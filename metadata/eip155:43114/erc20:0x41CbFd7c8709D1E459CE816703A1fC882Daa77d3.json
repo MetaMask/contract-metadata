@@ -1,0 +1,8 @@
+{
+  "name": "Loksmith",
+  "symbol": "LOK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x41CbFd7c8709D1E459CE816703A1fC882Daa77d3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc88d1950f94c3b02746aba8fc5d73914abd64f57c613daefb3a4d1a07ba579e9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Elemon",
+  "symbol": "ELMON",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xE3233Fdb23f1C27AB37bd66a19A1f1762FCF5F3f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0dbdfe24b54aac1077c718609763b61c1819d54dbb04272a71fb1a47c4db3f0e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "CELT",
+  "symbol": "CELT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x99a3a5333b4eB80192149F9edd42D1D57aC591ee./ipfs/qma47lgarkpvy6czzedqrmkuovv6tzcxj2jmqyg4uefj4t/bccxyxhkp7eqc37amct4cw4nwwftxz4yelmqg92jwqmyz2kmzvdtkyqfrzxggmjytugpynbfpfe1xuveqgguyzmvn5",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x842b77d7a8cc04f90bb3ef29ce782dc43279eae218d0865ae7c723f9b757b342@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}
