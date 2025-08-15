@@ -1,0 +1,8 @@
+{
+  "name": "SkyTrade Pro",
+  "symbol": "SUSDT",
+  "decimals": 18,
+  "logoURI": "https://github.com/skytradepro/contract-metadata/blob/master/images/0x1f891d25a386e6f67ead37d9bfaf5c444213a134.png",
+  "tags": ["defi", "token", "bsc"],
+  "description": "Decentralized Finance token."
+}
