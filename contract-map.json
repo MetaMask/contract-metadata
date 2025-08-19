@@ -4518,5 +4518,12 @@
     "erc20": true,
     "symbol": "FPS",
     "decimals": 18
-  }
+  },
+"0x147F0F870E01c0E10237bB39cea18786328a2619": {
+  "symbol": "USDT",
+  "name": "Tether USD",
+  "decimals": 6,
+  "logo": "images/0x147F0F870E01c0E10237bB39cea18786328a2619.png"
+}
+
 }
