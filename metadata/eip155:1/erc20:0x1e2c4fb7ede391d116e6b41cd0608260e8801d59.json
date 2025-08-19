@@ -1,0 +1,9 @@
+{
+  "eip155:1/erc20:0x1e2c4fb7ede391d116e6b41cd0608260e8801d59": {
+    "name": "Backed CSPX S&P 500",
+    "symbol": "bCSPX",
+    "decimals": 18,
+    "erc20": true,
+    "logo": "./icons/eip155:1/erc20:0x1e2c4fb7ede391d116e6b41cd0608260e8801d59.svg"
+  }
+}
