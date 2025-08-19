@@ -1,0 +1,8 @@
+{
+  "name": "DefiDollar",
+  "symbol": "DUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x5BC25F649fc4e26069DDF4cf4010f9F706C23831./ipfs/qmutd8caxt7rnwxis4nycakjwaerybwjltgu8fv8exbqxj/bccz8zah3zrmdhmbwc2a5c1uktnwcj2wyorwslawxbfzvnhkjmmqiv8mahqgh8u6vfztkqarvgsfkzeqrdgpitdmaa",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4fd0b4ce6e7c43616e2e85eb2e237b6124629225033f2e359e5196dda3d27023@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

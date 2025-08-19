@@ -1,0 +1,8 @@
+{
+  "name": "Trust Wallet",
+  "symbol": "TWT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x4B0F1812e5df2A09796481ff14017E6005508003.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x48281371db4e354f5e422d8ae1dc5d23be2e6427e9afd84237abfcb09c4b866f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Spintop",
+  "symbol": "SPIN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x6aa217312960A21ADBDE1478dc8CBCF828110a67.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x02a95ae38a40b38f5e7d666ea35bb3365b62d1add58d8c2d6c56823beaff8bcb@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

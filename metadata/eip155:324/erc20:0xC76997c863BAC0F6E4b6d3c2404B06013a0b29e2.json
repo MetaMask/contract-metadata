@@ -1,0 +1,8 @@
+{
+  "name": "HeartX Utility",
+  "symbol": "HNX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xC76997c863BAC0F6E4b6d3c2404B06013a0b29e2.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x254afd8b586ac78d91374cad64c12828c9fdeb8452ed9b16924e5ae12b4962a7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

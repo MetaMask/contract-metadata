@@ -1,0 +1,8 @@
+{
+  "name": "Lueygi",
+  "symbol": "LUEYGI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xCCF580e697B8BBA73748ba881c1872DD4Fb01cda.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9d604b9d100d577a4d67da9c9f7d4414e5fbc723b2bea9e16a928747275d7453@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

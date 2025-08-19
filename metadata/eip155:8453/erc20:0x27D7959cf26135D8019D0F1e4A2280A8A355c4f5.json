@@ -1,0 +1,8 @@
+{
+  "name": "LESTER by Virtuals",
+  "symbol": "LESTER",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x27D7959cf26135D8019D0F1e4A2280A8A355c4f5.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x41c89cef705c164f038ae05317d34a7f894d4115415a37265fb6e01faa33adef@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

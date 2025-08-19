@@ -1,0 +1,8 @@
+{
+  "name": "BOOP",
+  "symbol": "BOOP",
+  "decimals": 9,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:boopkpWqe68MSxLqBGogs8ZbUDN4GXaLhFwNP7mpP1i.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x14770f68b91e57e051dfb35e4a72c7e7588fe72e81aff426d1f26d6b2569b75c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

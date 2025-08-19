@@ -1,0 +1,8 @@
+{
+  "name": "Heroes Chained",
+  "symbol": "HeC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xC7F4debc8072e23FE9259a5c0398326D8EFb7F5c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc5b15deec6c5c1f64cf6229c483fecd8b7858fec04e974d22ca4bcb9220ed939@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

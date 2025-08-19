@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Tesla",
+  "symbol": "sTSLA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x918Da91ccbc32B7A6a0cc4ecd5987BBAB6E31e6d./ipfs/qmp8ovqkjgik4fhjomb2uay5pxceettrtesyauq3ttephi/stsla",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x602c4d87e513108b0df9828b1cdc959cc9e87672e8e6cf7a63ce805c57b0c653@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

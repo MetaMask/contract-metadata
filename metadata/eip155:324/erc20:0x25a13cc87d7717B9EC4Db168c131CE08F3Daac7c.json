@@ -1,0 +1,8 @@
+{
+  "name": "CRUST",
+  "symbol": "CRU",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x25a13cc87d7717B9EC4Db168c131CE08F3Daac7c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xef63c375d34b736eee7039fbf0c2dfe889e8292ee9d28cfcfe0a066aa2a6ebde@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

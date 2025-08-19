@@ -1,0 +1,8 @@
+{
+  "name": "Kawakami",
+  "symbol": "KAWA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x546aEd37d202D607F45cbd2b8c0CAD0D25FbE339./ipfs/qmu2rfq3tpunvgfzfbkujaqrp8vun6yi83s12b9dnzdoer/kawa",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe13c5fe202cf621464d360620e622c1e0cd612f9b9a736b8ea0b5d14e6bfded2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

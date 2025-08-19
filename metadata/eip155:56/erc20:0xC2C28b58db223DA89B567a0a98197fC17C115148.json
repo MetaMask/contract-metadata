@@ -1,0 +1,8 @@
+{
+  "name": "Sologenic",
+  "symbol": "SOLO",
+  "decimals": 15,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xC2C28b58db223DA89B567a0a98197fC17C115148.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x77aa9bd7d37ce82550b39e7c35aaf154558e633f68f08e92b1795b23b9631616@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

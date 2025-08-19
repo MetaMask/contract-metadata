@@ -1,0 +1,8 @@
+{
+  "name": "Space",
+  "symbol": "SPACE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x9E1170c12fddD3B00FEc42ddf4c942565D9bE577.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0235f81f1424f77b084880eb8c6c0bc95f74a4b45d8b84888107965725da5fbd@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

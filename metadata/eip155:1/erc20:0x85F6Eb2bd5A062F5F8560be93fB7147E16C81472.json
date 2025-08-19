@@ -1,0 +1,8 @@
+{
+  "name": "Franklin",
+  "symbol": "FLY",
+  "decimals": 4,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x85F6Eb2bd5A062F5F8560be93fB7147E16C81472./ipfs/qmyagj1nebpluv5s5uhliaiqvgp9hjwseghvtn6yiavyns/fly",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4d06051906c1a03813aaac14018d18ded02a8f48316559e4bb00a54d33bd2245@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

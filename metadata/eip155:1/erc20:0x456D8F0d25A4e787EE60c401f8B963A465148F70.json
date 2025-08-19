@@ -1,0 +1,8 @@
+{
+  "name": "Cavapoo",
+  "symbol": "CAVA",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x456D8F0d25A4e787EE60c401f8B963A465148F70./ipfs/qmpr6xdsc24y6rp6yo78gamhjcfgildakhv3gfanfizwuc/cava",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa54350cf89d61de9220f834859e1310ac0028fa1762e0c43d08dea91359e265e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

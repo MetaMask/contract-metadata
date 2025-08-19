@@ -1,0 +1,8 @@
+{
+  "name": "Strike USDT",
+  "symbol": "sUSDT",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x69702cfd7dAd8BCCAa24d6b440159404Aaa140f5./ipfs/qmqavpwjmkrwzp5c4svjannespyaexfrnfzshw8qk4seu3/susdt",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9f085490cd4ad9d6adffae7620a4d23a75a777045d2638019586daf9cb885e10@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

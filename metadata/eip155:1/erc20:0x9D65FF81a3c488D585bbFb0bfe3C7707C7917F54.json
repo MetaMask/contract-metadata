@@ -1,0 +1,8 @@
+{
+  "name": "ssv.network",
+  "symbol": "SSV",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9D65FF81a3c488D585bbFb0bfe3C7707C7917F54.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x03bc9f6bec04d02eef1d1c11a51b4b68f5ae692ca8da88948aa91fe86603f6ad@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

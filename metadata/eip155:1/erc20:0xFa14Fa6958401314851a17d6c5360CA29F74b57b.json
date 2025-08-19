@@ -1,0 +1,8 @@
+{
+  "name": "Saito",
+  "symbol": "SAITO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xFa14Fa6958401314851a17d6c5360CA29F74b57b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x60b737893e547f22749befd883e82a812bc37113d203325eae3ed357c739a17f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

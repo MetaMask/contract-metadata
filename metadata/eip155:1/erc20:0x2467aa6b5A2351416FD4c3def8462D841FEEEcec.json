@@ -1,0 +1,8 @@
+{
+  "name": "qiibee",
+  "symbol": "QBX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x2467aa6b5A2351416FD4c3def8462D841FEEEcec./ipfs/qmykopunwv4nppg52lgr7rdeqb3yozaidw7pognf7z6syg/bccz8wxxj5sk9ihfvqu83vgtcoq9yy5wynjg6jnutwytwwlx1hbvadwzfhfdklq5zx2kkgghyr6klfn4wybmk5ux1z",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb4f1fe93c7ceff3ed439e24e3da8257cd88d5f2ded8cdbba5701076b00b85052@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

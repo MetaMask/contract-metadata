@@ -1,0 +1,8 @@
+{
+  "name": "Loomlay",
+  "symbol": "LAY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xB89D354ad1B0D95A48b3de4607f75A8CD710c1ba.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x63c4974d3b048c16b091f4899fe2fadfb759529dfa3e660fae49cd499beebe6b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

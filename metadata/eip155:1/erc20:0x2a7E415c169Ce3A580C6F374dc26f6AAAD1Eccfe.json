@@ -1,0 +1,8 @@
+{
+  "name": "Hachi",
+  "symbol": "HACHI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x2a7E415c169Ce3A580C6F374dc26f6AAAD1Eccfe.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xcbcad136911b3e79da462efd48cda8d707b21637d3c6434a025b27759670f091@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

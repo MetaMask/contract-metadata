@@ -1,0 +1,8 @@
+{
+  "name": "ZeroLend",
+  "symbol": "ZERO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x27D0a2b5316B98088294378692f4eABFB3222e36.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd45936bbc76b47142af355facb8b6900f3277da67d5b94210809f8ab3ce86b1a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

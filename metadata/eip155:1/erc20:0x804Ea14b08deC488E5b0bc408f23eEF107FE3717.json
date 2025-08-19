@@ -1,0 +1,8 @@
+{
+  "name": "Venom",
+  "symbol": "VNM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x804Ea14b08deC488E5b0bc408f23eEF107FE3717./ipfs/qmdwjghpgdfbugjmubjpznopejsmctuzlfculed54syc9z/vnm",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5a6964e2841798f6c309ebab3500ddb73ad9ecd0887ab622de9674f4c76edef2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

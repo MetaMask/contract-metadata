@@ -1,0 +1,8 @@
+{
+  "name": "Agent Zeek by Virtuals",
+  "symbol": "ZEEK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x39D24405cA717EF841E4a782dA97284CF2Dc7628.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x56eafe9ae27349f9b39382e6bb4af4a674881746c6ea795f4d5cee688f83e8e6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

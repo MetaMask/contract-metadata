@@ -1,0 +1,8 @@
+{
+  "name": "zkLotto",
+  "symbol": "ZKLOTTO",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x94466dcfe241DB963aF1bc9741A94DAA87ab2169.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9abb276fc2dfc14e51634eab785647ca2db00bb494420ca5cfca780ee6da3356@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

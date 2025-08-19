@@ -1,0 +1,8 @@
+{
+  "name": "GURS",
+  "symbol": "GURS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x223a368ad0e7396165Fc629976d77596A51F155c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x90c5a0049fc5cbde5e614376b41029481e6b9e7772e17d50454511f344bfaa32@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

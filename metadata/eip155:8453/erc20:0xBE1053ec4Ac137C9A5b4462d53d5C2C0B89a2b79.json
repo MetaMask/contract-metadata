@@ -1,0 +1,8 @@
+{
+  "name": "ToupeeTechOption",
+  "symbol": "oWIG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xBE1053ec4Ac137C9A5b4462d53d5C2C0B89a2b79.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xec6f4f359e2e87dfdde64d90cd1db80e9ae3bfdf5dd0da00b7de705c0451c1dc@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

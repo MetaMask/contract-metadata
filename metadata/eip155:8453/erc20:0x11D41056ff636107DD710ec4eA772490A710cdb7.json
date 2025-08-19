@@ -1,0 +1,8 @@
+{
+  "name": "Speculation",
+  "symbol": "SPECU",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x11D41056ff636107DD710ec4eA772490A710cdb7.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x381caa74cd7af7c07f40c6cedcb148a771e10dd7edf6e5cf322b1cf0e0ecbe6a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

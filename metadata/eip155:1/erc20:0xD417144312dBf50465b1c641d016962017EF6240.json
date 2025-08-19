@@ -1,0 +1,8 @@
+{
+  "name": "Covalent",
+  "symbol": "CQT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD417144312dBf50465b1c641d016962017EF6240.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x58163ce28f5036b43d2ea96e30ecd55adce35974bf08a3daf799555d80dd6933@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

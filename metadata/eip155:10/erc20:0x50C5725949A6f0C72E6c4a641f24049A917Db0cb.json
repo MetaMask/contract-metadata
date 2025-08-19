@@ -1,0 +1,8 @@
+{
+  "name": "Lyra",
+  "symbol": "LYRA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:10/erc20:0x50C5725949A6f0C72E6c4a641f24049A917Db0cb.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc65a997cfc4a14b619a3a3422869a787279f078d12abd0aff6f097d08fac88a3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

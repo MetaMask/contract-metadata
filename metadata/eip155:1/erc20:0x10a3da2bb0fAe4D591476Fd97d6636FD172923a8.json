@@ -1,0 +1,8 @@
+{
+  "name": "Cream Hegic",
+  "symbol": "crHEGIC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x10a3da2bb0fAe4D591476Fd97d6636FD172923a8./ipfs/qmqy48sexazrgnxypsxbu2a3qp7d6fmzqa4ipnwdfd3oe8/crhegic",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2a036339dcf40486f9070811122d6e30cd3c57ec8f1532aa9e759c2741d0f95c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

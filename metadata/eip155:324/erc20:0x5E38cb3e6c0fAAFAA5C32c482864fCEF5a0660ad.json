@@ -1,0 +1,8 @@
+{
+  "name": "Zksync Shib",
+  "symbol": "ZKSHIB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x5E38cb3e6c0fAAFAA5C32c482864fCEF5a0660ad.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x902e8fe5910f794c70ab8034260fb37a19cf4145368427631e553041eb304e82@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

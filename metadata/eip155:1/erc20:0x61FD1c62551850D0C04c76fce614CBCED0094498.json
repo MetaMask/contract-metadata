@@ -1,0 +1,8 @@
+{
+  "name": "IDK",
+  "symbol": "IDK",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x61FD1c62551850D0C04c76fce614CBCED0094498./ipfs/qmdezwcvf9ksl9bsezzadd8yvif4m3xeadnc4kxunc9i6q/bce2s4fdubgtgraakz81dc5qgazr1tg6jteemnrrku9s7iuqftvw5sayp1rdihx5aednqu2bujnjpcvisvbbyyqdf2",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc80685164d9230a0bdf9e91ac541d58274aedf797ca3eebe87d32955271175a7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Solace by Virtuals",
+  "symbol": "SOLACE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x7D6Fcb3327d7e17095Fa8b0e3513AC7A3564F5e1.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x08267c5af807532205aacd1e9b7524048954964b579ec7ad8f75ede75b50299f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

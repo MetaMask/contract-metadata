@@ -1,0 +1,8 @@
+{
+  "name": "Dai If Trump Wins The 2020 Election",
+  "symbol": "YESTRUMP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x5963Fd7ca9B17B85768476019f81CB43D9D1818e./ipfs/qmurzjjzyw4xhlgdt5q3wpc81qzhhxbjipvgo5bwyain3l/bcdzlqbg3tkcgkuw6egbuqdrx7gzieniiw96mezpgnwweu73wv9sgpmchvtfyqngky6aj3kcgvxvmkdeicw5r4srv2",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2caba2d2e25db6d695303e8927aa2c6ba01857bff2a943306aaa8957e777bf82@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

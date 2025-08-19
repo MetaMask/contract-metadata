@@ -1,0 +1,8 @@
+{
+  "name": "Cortex",
+  "symbol": "CTXC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xEa11755ae41d889CEEC39a63e6ff75A02BC1c00d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3aa6dbfa036b368b32affaca03b1821ca17018aee883ee997bbcc0ceeffe2f92@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

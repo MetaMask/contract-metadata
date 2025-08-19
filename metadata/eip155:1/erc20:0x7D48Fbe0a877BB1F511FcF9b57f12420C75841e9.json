@@ -1,0 +1,8 @@
+{
+  "name": "DOOR",
+  "symbol": "DOOR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x7D48Fbe0a877BB1F511FcF9b57f12420C75841e9./ipfs/qmexrd64fv7krnzujqxbfmfjmpynl9zdtwrr5p1eqdldaa/door",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x989634b16146c7fcde5de0754c923669912dd953d092cf15e6b42c0140a24df8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

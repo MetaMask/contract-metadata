@@ -1,0 +1,8 @@
+{
+  "name": "KanadeCoin",
+  "symbol": "KNDC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x8E5610ab5e39D26828167640eA29823FE1DD5843./ipfs/qmqis2cqtzt27gn7dkz9p6bbtjhurdh2serpqocynvu79w/bcd4ztpxhrb4nufuq6tjfmxfxgemyu9c9czsozhyqji6oxmhjgtnt8wbtadzbbny3dhtqh2me6fggt6rumzbmwzpxv",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2f11e6bb7622762f146aad9ed2ebda3d91477ff131b0789fee8f7dd3e510af94@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

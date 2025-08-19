@@ -1,0 +1,8 @@
+{
+  "name": "Lucky Coin",
+  "symbol": "LUCKY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xB5Cc2ce99b3f98A969DbE458b96A117680aE0Fa1.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc619cb130dbe2db28103d59afe9a48a18b7336730e75fc3fa2de4c9e4e6f214d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

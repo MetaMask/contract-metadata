@@ -1,0 +1,8 @@
+{
+  "name": "TARTARUS",
+  "symbol": "TART",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:250/erc20:0xE36ac17edb23BDD89D363d152365Df019E3EaF71.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfffc6ed8dbea2156de68574e93375d352a9b247753dce9859e2de3711a9f95ec@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "GM Everyday",
+  "symbol": "GM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x5D9c2457a10d455E0aD8E28e40cC28EACF27a06a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7073c0e88bddc67c174326fb5658688ce8e34ce79d0d2ea67489f69a857c9203@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

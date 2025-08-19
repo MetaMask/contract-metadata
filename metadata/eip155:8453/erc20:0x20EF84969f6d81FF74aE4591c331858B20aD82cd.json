@@ -1,0 +1,8 @@
+{
+  "name": "AicroStrategy",
+  "symbol": "AiSTR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x20EF84969f6d81FF74aE4591c331858B20aD82cd.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xcc4b17e888f38270fcc61eb92e76fd8fea9f0939eb3b25910cc035eb6e66d06d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

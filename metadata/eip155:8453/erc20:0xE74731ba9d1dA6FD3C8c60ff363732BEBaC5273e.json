@@ -1,0 +1,8 @@
+{
+  "name": "maicrotrader by Virtuals",
+  "symbol": "MAICRO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xE74731ba9d1dA6FD3C8c60ff363732BEBaC5273e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x474aa2725410b61ee2cb00a2f7f5daa3836f9e931f1be6736bd6d503f60cfc46@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

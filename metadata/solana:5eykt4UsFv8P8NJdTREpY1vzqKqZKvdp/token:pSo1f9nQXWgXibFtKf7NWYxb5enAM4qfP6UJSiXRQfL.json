@@ -1,0 +1,8 @@
+{
+  "name": "Phantom Staked SOL",
+  "symbol": "PSOL",
+  "decimals": 9,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:pSo1f9nQXWgXibFtKf7NWYxb5enAM4qfP6UJSiXRQfL.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4a3faf201351d23f814a8022b1de45f72c3f3c04a154a8177d43fd4baaa24caa@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}
