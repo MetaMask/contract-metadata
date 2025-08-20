@@ -1,4 +1,11 @@
-{
+"0xee09fC58439F3BD514dD5cFB3B3e383E4788ECCa": {
+  "name": "io beats"
+  "logo": "0xee09fC58439F3BD514dD5cFB3B3e383E4788ECCa.svg",
+  "erc20": true,
+  "symbol": "IOB",
+  "decimals": 18,
+  "chainId": 137
+},
   "0x14778860E937f509e651192a90589dE711Fb88a9": {
     "name": "Cyber",
     "logo": "cyber.svg",
