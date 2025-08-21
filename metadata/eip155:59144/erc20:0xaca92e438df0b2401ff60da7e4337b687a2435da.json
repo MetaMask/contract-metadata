@@ -3,5 +3,5 @@
   "symbol": "mUSD",
   "decimals": 6,
   "erc20": true,
-  "logo": "./icons/eip155:59144/erc20:0xaca92e438df0b2401ff60da7e4337b687a2435da.png"
+  "logo": "./icons/eip155:59144/erc20:0xaca92e438df0b2401ff60da7e4337b687a2435da.svg"
 }
