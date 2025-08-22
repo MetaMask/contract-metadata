@@ -1,0 +1,7 @@
+{
+  "name": "SEI",
+  "symbol": "SEI",
+  "decimals": 18,
+  "erc20": false,
+  "logo": "./icons/eip155:1329/slip44:19000118.svg"
+}
