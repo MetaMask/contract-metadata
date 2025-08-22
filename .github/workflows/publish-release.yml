@@ -22,14 +22,14 @@ jobs:
     runs-on: ubuntu-latest
     needs: is-release
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
         with:
           ref: ${{ github.sha }}
       - name: Get Node.js version
         id: nvm
         run: echo ::set-output name=NODE_VERSION::$(cat .nvmrc)
       - name: Setup Node
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v4
         with:
           node-version: ${{ steps.nvm.outputs.NODE_VERSION }}
       - uses: MetaMask/action-publish-release@v2.0.0
@@ -40,7 +40,7 @@ jobs:
     runs-on: ubuntu-latest
     needs: publish-release
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
         with:
           ref: ${{ github.sha }}
       - name: Dry Run Publish
@@ -52,7 +52,7 @@ jobs:
     runs-on: ubuntu-latest
     needs: publish-npm-dry-run
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
         with:
           ref: ${{ github.sha }}
       - name: Publish
