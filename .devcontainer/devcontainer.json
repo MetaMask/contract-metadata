@@ -1,0 +1,9 @@
+{ParserError: Function, variable, struct or modifier declaration expected.
+  --> contracts/2_Owner.sol:11:17:
+   |
+11 | contract Owner {0xF4559d57D6295683Ae04B83ff343FCa1ea2fe2fB};
+   |                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+};
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {}
+}
