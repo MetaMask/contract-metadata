@@ -1,0 +1,8 @@
+{
+  "name": "Verasity",
+  "symbol": "VRA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF411903cbc70A74D22900a5de66A2DDA66507255.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe00782d9817848cfd163aa3f9766a68f630ab73566e62ffde8736e8f89a6b390@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

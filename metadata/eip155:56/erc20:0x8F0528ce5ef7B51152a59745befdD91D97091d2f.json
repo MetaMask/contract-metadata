@@ -1,0 +1,8 @@
+{
+  "name": "Alpaca Finance",
+  "symbol": "ALPACA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x8F0528ce5ef7B51152a59745befdD91D97091d2f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3756939d1141466b99b0d3d4f75288568d692eae8f2e7831b5e169ef95a52f2f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

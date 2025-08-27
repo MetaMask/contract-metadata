@@ -1,0 +1,8 @@
+{
+  "name": "XDEFI",
+  "symbol": "XDEFI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x72b886d09c117654AB7Da13a14d603001DE0b777.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa773308523a94124eeea9a1da1b442dad4789ab06f462dce5e8e63cef784df3b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

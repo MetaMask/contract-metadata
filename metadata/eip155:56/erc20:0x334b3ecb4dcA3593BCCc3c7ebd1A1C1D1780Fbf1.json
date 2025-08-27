@@ -1,0 +1,8 @@
+{
+  "name": "Venus DAI",
+  "symbol": "vDAI",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x334b3ecb4dcA3593BCCc3c7ebd1A1C1D1780Fbf1.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb8111886ccd60e7ceb65f949d888e809667503b5a53f064b36b89761055f8c87@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

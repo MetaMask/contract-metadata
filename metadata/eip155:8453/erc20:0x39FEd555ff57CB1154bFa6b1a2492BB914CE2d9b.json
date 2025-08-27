@@ -1,0 +1,8 @@
+{
+  "name": "EchoLeaks by Virtuals",
+  "symbol": "ECHO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x39FEd555ff57CB1154bFa6b1a2492BB914CE2d9b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8d1dcc8080e5be53f6905a4e0ea8e4543636763f436a55d2c0e7d6c3d9d4b163@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

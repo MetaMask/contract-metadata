@@ -1,0 +1,8 @@
+{
+  "name": "Zuck Bucks",
+  "symbol": "ZBUX",
+  "decimals": 0,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x7090a6e22c838469C9E67851d6489BA9C933a43f./ipfs/qmyquopahqmgbgcmjyxujwanm1czchjgmygdmsz6xigvrx/bcd76kwqugvlviw5bqpmhl8upmspumx6gbp4ip6ne1rcvyhn89d9ve1gybpjktrtp3jbvkbcjxq2modhyst7usyxxd",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x97ae67a3a644fdc0415881c0fe1fc47b193d8cef89de420753e22689f4ac7beb@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

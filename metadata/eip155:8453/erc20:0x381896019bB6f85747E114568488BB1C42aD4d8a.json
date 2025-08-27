@@ -1,0 +1,8 @@
+{
+  "name": "Bumshaft",
+  "symbol": "BUMSHAFT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x381896019bB6f85747E114568488BB1C42aD4d8a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb0631143b98ab76b4668879b19be14f9701435a135192d0b1408722d8e203b88@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

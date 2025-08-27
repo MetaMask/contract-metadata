@@ -1,0 +1,8 @@
+{
+  "name": "Flappy",
+  "symbol": "FLAPPY",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x590246bfbf89B113D8ac36faeeA12B7589F7Fe5b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x02b70f330dcfc0ea50702974ffa5ae00ada93ad75530209b991ea4c2e6332dd4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

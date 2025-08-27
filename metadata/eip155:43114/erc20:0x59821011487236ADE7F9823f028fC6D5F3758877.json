@@ -1,0 +1,8 @@
+{
+  "name": "Chimera",
+  "symbol": "CULT",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x59821011487236ADE7F9823f028fC6D5F3758877.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xabe5ef6df7f064b180b56235937e6b20c826c74ab215b1ec8bce325fef5246fb@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

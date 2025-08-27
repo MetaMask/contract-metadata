@@ -1,0 +1,8 @@
+{
+  "name": "HurricaneSwap",
+  "symbol": "HCT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x45C13620b55C35A5F539d26e88247011EB10Fdbd.jpg",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x577bf07650b975a43058f3e654b7150614a932abf9abcf16084d877ac55b7009@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

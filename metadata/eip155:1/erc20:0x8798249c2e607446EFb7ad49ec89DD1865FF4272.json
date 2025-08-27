@@ -1,0 +1,8 @@
+{
+  "name": "xSUSHI",
+  "symbol": "xSUSHI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x8798249c2e607446EFb7ad49ec89DD1865FF4272./ipfs/qmqz7akyathz1dmzsxphtfmpmhufjjvphpuuhebsldctbz/xsushi",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6d77639354829aaee8adecbd0818c6b85b5e26942a3e81f67b9a7ba303bf8407@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "RWAI by Virtuals",
+  "symbol": "RWAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x9a574ea719B5e69DF7C783d15c9514A26F3FaF53.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4e9f74a16abcccebd49c7b14120cb94993a1bf56bdc60f7196741f4d2d520609@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

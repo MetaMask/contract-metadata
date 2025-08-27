@@ -1,0 +1,8 @@
+{
+  "name": "PolypuX",
+  "symbol": "PUX",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xE277ac35f9d327A670C1a3f3eec80A83022431e4./ipfs/qmazq3vnkpo6eykyjhbfps4ifsgxmk4cfm6ymbj2enssjz/bccz9dc6zkrm5ty4nrcxrvhjsdytwavbwfwvczeclrseh993zz2mkb7hrbmbrennkytb28gmpnckukopznnyxcgrdx",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9b5931e563bc187b714de591cec584a9f8e6fab013c42348c8f2a0a1a20a7502@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

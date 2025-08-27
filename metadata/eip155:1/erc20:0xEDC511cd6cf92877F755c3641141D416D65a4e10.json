@@ -1,0 +1,8 @@
+{
+  "name": "Charge",
+  "symbol": "CHRG",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xEDC511cd6cf92877F755c3641141D416D65a4e10./ipfs/qmqaphri9frsn1cvhzgmxfjh29wqqwzcdbnpuqdoyskydt/chrg",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4cc7ee6df5ac36da36c4063a8775ce05a216ac922f2618e856d8ca1a609c3893@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

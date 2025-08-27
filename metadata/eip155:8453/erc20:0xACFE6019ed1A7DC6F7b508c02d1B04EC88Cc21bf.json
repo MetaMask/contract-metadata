@@ -1,0 +1,8 @@
+{
+  "name": "Venice Token",
+  "symbol": "VVV",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xACFE6019ed1A7DC6F7b508c02d1B04EC88Cc21bf.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x983a8438be250665bed1a9939e1f60262aeeedd934e9d4ad64bf9605e013e3fc@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

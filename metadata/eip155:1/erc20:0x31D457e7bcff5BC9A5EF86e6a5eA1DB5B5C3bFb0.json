@@ -1,0 +1,8 @@
+{
+  "name": "Star Foxx",
+  "symbol": "FOXX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x31D457e7bcff5BC9A5EF86e6a5eA1DB5B5C3bFb0./ipfs/qmpiql6iraqjwqhcyp2gaulcdmtoqymsw8bkayumhz5bhu/foxx",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd2510fdc646de455520d4d06bc0e08e6b4858ee9cddf96bce9fcce6ba6d62f69@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

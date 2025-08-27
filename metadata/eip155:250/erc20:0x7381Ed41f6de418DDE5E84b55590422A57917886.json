@@ -1,0 +1,8 @@
+{
+  "name": "Beefy Escrowed Fantom",
+  "symbol": "beFTM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:250/erc20:0x7381Ed41f6de418DDE5E84b55590422A57917886.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc9a0c30aa0a262cd6959584a971cc2a68f4820e13b30c57f61a8f17778ee19f5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

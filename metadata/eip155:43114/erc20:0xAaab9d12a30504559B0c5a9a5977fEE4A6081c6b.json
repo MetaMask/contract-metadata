@@ -1,0 +1,8 @@
+{
+  "name": "Pharaoh",
+  "symbol": "PHAR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xAaab9d12a30504559B0c5a9a5977fEE4A6081c6b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2528e2e2ec5e3b699c3356c474640520ff41aaa84a46a589b5c4b29066c89976@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Venus LINK",
+  "symbol": "vLINK",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x650b940a1033B8A1B1873F78730fCfC73EC11F1f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x656307bd3886da746293ebd89c9759e5795d3ea2d672fd4e165e9dd63658dcbb@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

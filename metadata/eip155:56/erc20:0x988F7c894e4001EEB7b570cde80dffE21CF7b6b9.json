@@ -1,0 +1,8 @@
+{
+  "name": "Lucro",
+  "symbol": "LCR",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x988F7c894e4001EEB7b570cde80dffE21CF7b6b9.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5e9548281e36a88f28f1d183e1986c3c5b78e38052463018666b1ea0a58619db@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Netherworld",
+  "symbol": "NETHER",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1a434a4c16223fB48F8F835e2e277BF72B4b5d1a./ipfs/qmyswntqejwahnyvmz9n7fsovs6acf9178jx8vf3zez2mi/nether",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2042581b9944df713b0b93ef67a03aacb55698d574552afeb3b4497a102bee7f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

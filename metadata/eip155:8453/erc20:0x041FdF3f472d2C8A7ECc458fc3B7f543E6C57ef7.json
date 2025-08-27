@@ -1,0 +1,8 @@
+{
+  "name": "Shiba Armstrong",
+  "symbol": "SHIBA",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x041FdF3f472d2C8A7ECc458fc3B7f543E6C57ef7.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd402bf85646d3654b45f66641f4529f7bcf267e52e6b7137654e90f8c874cfe2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

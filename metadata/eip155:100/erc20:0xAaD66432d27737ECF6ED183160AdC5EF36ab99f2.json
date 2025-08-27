@@ -1,0 +1,8 @@
+{
+  "name": "Tellor",
+  "symbol": "TRB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:100/erc20:0xAaD66432d27737ECF6ED183160AdC5EF36ab99f2.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6b5d21365712d9adca7663cd6af368ec08c4e857d3671112ee9b9c3bfec15863@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

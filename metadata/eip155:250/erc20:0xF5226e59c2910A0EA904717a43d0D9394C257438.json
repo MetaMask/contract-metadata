@@ -1,0 +1,8 @@
+{
+  "name": "ConkInu",
+  "symbol": "CONKI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:250/erc20:0xF5226e59c2910A0EA904717a43d0D9394C257438.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf0d4a25e6584010bb6822dd84225fb12e1932483307e3c4bc38326d7d971637e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

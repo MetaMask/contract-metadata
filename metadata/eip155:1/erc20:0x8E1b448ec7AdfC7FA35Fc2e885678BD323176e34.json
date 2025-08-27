@@ -1,0 +1,8 @@
+{
+  "name": "Egretia",
+  "symbol": "EGT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x8E1b448ec7AdfC7FA35Fc2e885678BD323176e34./ipfs/qmegga7obx4ithhdmaljb18n8h4yc6sqwfxvnj1rvethpd/bce1gaakp1gq9ki1rnpva4h6tp9tz7qmvh1dormqwnsz65mrdter76eidti1vsgyexiwqzwbctewc9fqxu677qxcrw",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2761108060517a1b47f067a915939141aa85ef768fbb88cd6e8d084d6ae09774@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

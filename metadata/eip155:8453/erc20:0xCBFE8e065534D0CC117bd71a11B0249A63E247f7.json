@@ -1,0 +1,8 @@
+{
+  "name": "FrokAI",
+  "symbol": "FROKAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xCBFE8e065534D0CC117bd71a11B0249A63E247f7.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x84eb414937c168f49b17a92aeca46b682dc76fdb8ae5783042195058730a8ea3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

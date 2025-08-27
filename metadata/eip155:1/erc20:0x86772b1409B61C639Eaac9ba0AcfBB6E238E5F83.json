@@ -1,0 +1,8 @@
+{
+  "name": "Indexed Finance",
+  "symbol": "NDX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x86772b1409B61C639Eaac9ba0AcfBB6E238E5F83.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8a8b2564a03f87abc2a6dfa3b1134cc4b80ff7397f996fb597fc6d3d4188a1ad@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

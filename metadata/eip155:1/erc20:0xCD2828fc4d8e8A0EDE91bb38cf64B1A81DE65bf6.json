@@ -1,0 +1,8 @@
+{
+  "name": "Oddz",
+  "symbol": "ODDZ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xCD2828fc4d8e8A0EDE91bb38cf64B1A81DE65bf6.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xac84aac2f48975cf3fc664ebbce952855b38ef1350030cfd20c495dba4ff0f2d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

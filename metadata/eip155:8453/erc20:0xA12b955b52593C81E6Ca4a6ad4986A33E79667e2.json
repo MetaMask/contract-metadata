@@ -1,0 +1,8 @@
+{
+  "name": "The Original Base",
+  "symbol": "OGBASE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xA12b955b52593C81E6Ca4a6ad4986A33E79667e2.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc42126b070fa88eb300cf523c4403b4906de2248fc6b84a2e1cac147b9dd31dc@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

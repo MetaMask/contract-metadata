@@ -1,0 +1,8 @@
+{
+  "name": "the meme of the future",
+  "symbol": "ROBO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xD379002f26ce895D5C5095acb19AfBA92942c0cf.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7c6599cc86ec4d72fe8590a085de48a9aaac6a66024267c08dfb0fd50693f5cd@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

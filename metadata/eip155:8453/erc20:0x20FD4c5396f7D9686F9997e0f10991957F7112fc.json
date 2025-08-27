@@ -1,0 +1,8 @@
+{
+  "name": "redacted gdupi",
+  "symbol": "GDUPI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x20FD4c5396f7D9686F9997e0f10991957F7112fc.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd987aa590a9898f3d5769d70ea4360c3b07039865c6e2ef39533ffc50005c72b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}
