@@ -1,0 +1,9 @@
+{
+  "eip155:42161/erc20:0xef4a1d459d62dfD2EBb9C45b04F90f0a7BA1d56E": {
+    "name": "Pepe Community",
+    "symbol": "PEPE",
+    "decimals": 18,
+    "erc20": true,
+    "logo": "./icons/eip155:42161/erc20:0xef4a1d459d62dfD2EBb9C45b04F90f0a7BA1d56E.svg"
+  }
+}
