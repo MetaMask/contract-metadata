@@ -1,0 +1,7 @@
+{
+  "name": "Decentralized USD",
+  "symbol": "USDD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x4f8e5DE400DE08B164E7421B3EE387f461beCD1A.svg"
+}
