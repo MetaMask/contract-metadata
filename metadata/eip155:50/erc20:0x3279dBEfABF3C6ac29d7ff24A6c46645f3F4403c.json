@@ -1,0 +1,7 @@
+{
+  "name": "Fathom Protocol Token",
+  "symbol": "FTHM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:50/erc20:0x3279dBEfABF3C6ac29d7ff24A6c46645f3F4403c.png"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Storx",
+  "symbol": "SRX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:50/erc20:0x5D5f074837f5d4618B3916ba74De1Bf9662a3fEd.png"
+}
