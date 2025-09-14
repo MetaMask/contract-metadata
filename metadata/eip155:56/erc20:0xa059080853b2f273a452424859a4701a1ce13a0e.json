@@ -1,0 +1,10 @@
+{
+  "name": "Midas Tech",
+  "address": "0xa059080853b2f273a452424859a4701a1ce13a0e",
+  "symbol": "MIDAS",
+  "decimals": 18,
+  "chainId": 56,
+  "logoURI": "https://raw.githubusercontent.com/backofficemidasgroup-ship-it/contract-metadata/master/images/eip155:56/erc20:0xa059080853b2f273a452424859a4701a1ce13a0e.svg",
+  "website": "https://your-website.com",
+  "description": "Midas Tech (MIDAS) is a fixed-supply BEP20 token designed for growth, community, and real-world use cases."
+}
