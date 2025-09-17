@@ -1,4 +1,10 @@
-{
+"0xdad68778f0a0732e232f27dc296e3602e12d108a": {
+  "name": "IO Beats",
+  "logo": "erc20:0xdad68778f0a0732e232f27dc296e3602e12d108a.svg",
+  "erc20": true,
+  "symbol": "IOB",
+  "decimals": 18
+}{
   "0x14778860E937f509e651192a90589dE711Fb88a9": {
     "name": "Cyber",
     "logo": "cyber.svg",
