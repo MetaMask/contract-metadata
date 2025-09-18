@@ -1,0 +1,7 @@
+{
+  "name": "Mezo USD",
+  "symbol": "mezoUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20/0xdD468A1DDc392dcdbEf6db6e34E89AA338F9F186.svg"
+}
