@@ -1,0 +1,7 @@
+{
+  "name": "Portal To Bitcoin",
+  "decimals": 18,
+  "symbol": "PTB",
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x30a25CC9c9EADe4D4d9e9349BE6e68c3411367D3.svg"
+}
