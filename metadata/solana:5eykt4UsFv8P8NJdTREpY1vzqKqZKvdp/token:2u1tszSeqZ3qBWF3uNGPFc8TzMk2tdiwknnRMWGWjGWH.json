@@ -1,0 +1,7 @@
+{
+  "name": "Global Dollar",
+  "symbol": "USDG",
+  "decimals": 6,
+  "spl20": false,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:2u1tszSeqZ3qBWF3uNGPFc8TzMk2tdiwknnRMWGWjGWH.svg"
+}
