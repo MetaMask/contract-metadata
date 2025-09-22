@@ -3,5 +3,5 @@
   "symbol": "WMTX",
   "decimals": 18,
   "erc20": true,
-  "logo": "./icons/eip155:389/erc20:0xDBB5Cf12408a3Ac17d668037Ce289f9eA75439D7.png"
+  "logo": "./icons/eip155:389/erc20:0x0000000000000000000000000000000000000000.svg"
 }
