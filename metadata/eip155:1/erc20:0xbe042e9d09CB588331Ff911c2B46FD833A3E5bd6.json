@@ -3,5 +3,5 @@
   "symbol": "PEPE",
   "decimals": 18,
   "erc20": true,
-  "logo": "../icons/eip155:1/erc20:0xbe042e9d09CB588331Ff911c2B46FD833A3E5bd6.svg"
+  "logo": "./icons/eip155:1/erc20:0xbe042e9d09CB588331Ff911c2B46FD833A3E5bd6.svg"
 }
