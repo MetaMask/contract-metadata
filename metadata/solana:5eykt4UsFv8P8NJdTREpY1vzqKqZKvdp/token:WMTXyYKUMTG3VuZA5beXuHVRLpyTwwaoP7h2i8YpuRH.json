@@ -1,0 +1,7 @@
+{
+  "name": "World Mobile Token",
+  "symbol": "WMTX",
+  "decimals": 6,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:WMTXyYKUMTG3VuZA5beXuHVRLpyTwwaoP7h2i8YpuRH.svg"
+}
