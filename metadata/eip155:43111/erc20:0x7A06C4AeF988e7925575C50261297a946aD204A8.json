@@ -1,0 +1,7 @@
+{
+  "name": "VUSD",
+  "symbol": "VUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43111/erc20:0x7A06C4AeF988e7925575C50261297a946aD204A8.svg"
+}
