@@ -1,0 +1,7 @@
+{
+  "name": "Lorenzo Wrapped Bitcoin",
+  "symbol": "enzoBTC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:43111/erc20:0x6A9A65B84843F5fD4aC9a0471C4fc11AFfFBce4a.png"
+}
