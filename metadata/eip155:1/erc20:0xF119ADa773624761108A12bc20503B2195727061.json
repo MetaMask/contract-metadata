@@ -3,6 +3,6 @@
   "symbol": "sETH",
   "decimals": 18,
   "erc20": true,
-  "logo": "icons/eip155:1/erc20:0xF119ADa773624761108A12bc20503B2195727061.png",
+  "logo": "./icons/eip155:1/erc20:0xF119ADa773624761108A12bc20503B2195727061.png",
   "website": "https://synthseth.com"
 }
