@@ -1,0 +1,8 @@
+{
+  "name": "Aavegotchi",
+  "symbol": "GHST",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0x385EEac5cb85A38A9a07a70c73e0A3271CFb54a7.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb3f359c9dc4b2dda354146fcc0f1124253cb09d9775ebcd601a11a0d54703a09@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Cloudland",
+  "symbol": "CLO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x12E377989A87DA0F9B9166f0f875C9069Eaa776c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc34a8e5628fbdde075b83e00238df314816e8e863de756308d628dccd62f3155@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

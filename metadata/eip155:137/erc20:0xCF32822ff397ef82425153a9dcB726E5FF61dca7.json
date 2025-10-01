@@ -1,0 +1,8 @@
+{
+  "name": "GAMEE",
+  "symbol": "GMEE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0xCF32822ff397ef82425153a9dcB726E5FF61dca7.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x172117f1d34e5f8f208e4de68799adb801ea8de8b8a1d2ff8717ecfbd3de74e0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

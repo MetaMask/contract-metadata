@@ -1,0 +1,8 @@
+{
+  "name": "SIDUS",
+  "symbol": "SIDUS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x549020a9cb845220D66D3e9c6d9f9EF61C981102.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x96f12a0cbe6e1cf542730af4d530c7d29dd5f413ebfdeb6b74696ae3f692ee36@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Rubic",
+  "symbol": "BRBC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x8E3bcc334657560253b83F08331d85267316E08a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x630549bba492944f2498c39918e5d140c17a757cd0db089dd5f6ce568a1860e6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

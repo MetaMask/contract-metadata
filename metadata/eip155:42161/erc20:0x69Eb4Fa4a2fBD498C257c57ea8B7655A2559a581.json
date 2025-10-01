@@ -1,0 +1,8 @@
+{
+  "name": "DODO",
+  "symbol": "DODO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0x69Eb4Fa4a2fBD498C257c57ea8B7655A2559a581.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc4a4c99ebe7f557ee377d732ae7f22dca2957402c0ab6426aefe8137be1ee42a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Elixir deUSD",
+  "symbol": "deUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xB21F16d1eA2e8D96CCFaFa397cef855BF368aa83.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa556ed15e15e27bd0c1d445de18a62bd9ad9f94fd2c85aab9d26bc512ec30497@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

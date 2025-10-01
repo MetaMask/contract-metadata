@@ -1,0 +1,8 @@
+{
+  "name": "Wrapped BNB",
+  "symbol": "WBNB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xBB4cdb9cbd36B01BD1Cbaebf2de08D9173bc095c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x92d2b257a7153db4e86f6f0f3660f7816d046ddfdaaab77dd3ea8265add23b0e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

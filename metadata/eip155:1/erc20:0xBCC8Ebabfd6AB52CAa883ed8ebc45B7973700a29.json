@@ -1,0 +1,8 @@
+{
+  "name": "Yubiai",
+  "symbol": "YBI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xBCC8Ebabfd6AB52CAa883ed8ebc45B7973700a29./ipfs/qmp3761c3dcyedwbqh3skebhvykwpxkg2qvryoeebryywx/ybi",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa1804099580edbb8e727593b343382b23ce7619cf5f69dde2ca2177440a42135@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

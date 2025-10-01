@@ -1,0 +1,8 @@
+{
+  "name": "K9 Finance DAO",
+  "symbol": "KNINE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x91Fbb2503Ac69702061F1ac6885759FC853E6eae.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3fc354fa57eaa2fc9c0059b035a26e80ed26b7fe8dd8edf4d3c32ecef9842317@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

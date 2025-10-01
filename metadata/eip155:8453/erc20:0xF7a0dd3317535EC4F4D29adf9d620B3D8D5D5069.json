@@ -1,0 +1,8 @@
+{
+  "name": "Staked ERN Vault",
+  "symbol": "stERN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xF7a0dd3317535EC4F4D29adf9d620B3D8D5D5069.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf2dc91d01a66ef24c99be8550f4140f2b21696b87bf543f5ff35d9b97e6e7e17@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

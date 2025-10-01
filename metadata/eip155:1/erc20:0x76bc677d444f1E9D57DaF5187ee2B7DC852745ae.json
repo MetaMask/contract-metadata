@@ -1,0 +1,8 @@
+{
+  "name": "Offshift",
+  "symbol": "XFT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x76bc677d444f1E9D57DaF5187ee2B7DC852745ae./ipfs/qmshrnkftbr9ocgzz6lroqg8x7qrodqypkix8ctaufq2vk/xft",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1aad8acf7dffabf8419ca40dd93d2495e5289466fcf6a88d85cf4807f024a4bd@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Mimir",
+  "symbol": "MIMIR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x336F5a68fd46A25056a6c1d9c06072C691486acc.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa3114507bc7b62e67b7d3dbf5f9d57e68e6da39ce53255bed7962f6746cf0ed4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

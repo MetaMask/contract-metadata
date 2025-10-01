@@ -1,0 +1,8 @@
+{
+  "name": "Pippin",
+  "symbol": "pippin",
+  "decimals": 6,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0fad608f90bb668ec57e3432a801d6b0e70a69377179a9d2245fb82c358816aa@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

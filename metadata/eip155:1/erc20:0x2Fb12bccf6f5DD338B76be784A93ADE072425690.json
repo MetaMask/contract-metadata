@@ -1,0 +1,8 @@
+{
+  "name": "BEAT",
+  "symbol": "BEAT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x2Fb12bccf6f5DD338B76be784A93ADE072425690./ipfs/qmzk2k4ynb61dghco5xnj3dedyiwjndsgxehxnywcqxpuz/bcd69qtmzkbqs7dn3reqd7zh6ej9ngq4ktbukw43mxdtsqip2ubltzhrm2jhqs2bbnzaoaedyk6pzxjpmg6lcsgcus",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xac870f5ea959fb2a93e40c08fdbd2971d4e7d7e3bc1bd7308989400905a98015@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

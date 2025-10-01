@@ -1,0 +1,8 @@
+{
+  "name": "TokenPocket",
+  "symbol": "TPT",
+  "decimals": 4,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xECa41281c24451168a37211f0bc2B8645aF45092.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xff0a339f77f44cd21c5f8ccac09b98eb0acd22ffe8f0c4f53bed50ee5fcbe2da@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

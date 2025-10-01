@@ -1,0 +1,8 @@
+{
+  "name": "Donut",
+  "symbol": "DONUT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:100/erc20:0x524b969793A64A602342d89bc2789D43A016b13a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7c38faa56bf0ceab8a030b728d667be5c75753bf9deb11998c52c7d7894f0f27@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Arcturian AI by Virtuals",
+  "symbol": "LIGHT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xB8b7dFacec9ABBCB0093F1344c41CB7263C4795a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe61509791d40e48273d7004d32885181c43cc5b87b7c524abf3458d809ac0d28@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Nya",
+  "symbol": "NYA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x38F9bF9dce51833EC7F03c9dc218197999999999.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbf3fee3ee9ca701f4c1943783dd15924df454e398fd3ac3380332c61f334655f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

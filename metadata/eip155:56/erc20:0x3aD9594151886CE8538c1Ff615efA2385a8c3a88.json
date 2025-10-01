@@ -1,0 +1,8 @@
+{
+  "name": "SafeMars",
+  "symbol": "SAFEMARS",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x3aD9594151886CE8538c1Ff615efA2385a8c3a88.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x88d4304c8d9adefde69c63be273d75dc244c26bbb082fe2106581e719ec6b957@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

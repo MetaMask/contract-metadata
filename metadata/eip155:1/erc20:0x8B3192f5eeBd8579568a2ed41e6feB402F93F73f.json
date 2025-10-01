@@ -1,0 +1,8 @@
+{
+  "name": "SAITAMA INU",
+  "symbol": "SAITAMA",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x8B3192f5eeBd8579568a2ed41e6feB402F93F73f./ipfs/qmzgzkgsfqofwmpkpqb8qmfgvi5mnbhfuhrp256bckctte/saitama",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa5478da10afe88625bf60a8109906fd3d84e3443aec3f2d1927ec4e000044126@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

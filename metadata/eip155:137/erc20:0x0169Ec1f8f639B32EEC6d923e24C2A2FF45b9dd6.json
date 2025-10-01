@@ -1,0 +1,8 @@
+{
+  "name": "Algebra",
+  "symbol": "ALGB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0x0169Ec1f8f639B32EEC6d923e24C2A2FF45b9dd6.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x09977c64712f4b0f0df913b8e1b465f4fd77648ea34894b1e87184d66d53970c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

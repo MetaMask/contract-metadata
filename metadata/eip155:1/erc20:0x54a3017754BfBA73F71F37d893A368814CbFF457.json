@@ -1,0 +1,8 @@
+{
+  "name": "Wrapped Widecoin",
+  "symbol": "WWCN",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x54a3017754BfBA73F71F37d893A368814CbFF457./ipfs/qmdpg8rgsjdpfjtfm9qkhqc5tn6njxbpcv2vmu5uiwfmsu/wwcn",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfb03158d1dfab020761d83259ccdc6110bb27503f244ba308a774ff65429647c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "MAD",
+  "symbol": "MAD",
+  "decimals": 6,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:madHpjRn6bd8t78Rsy7NuSuNwWa2HU8ByPobZprHbHv.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xef8d7137efab1ff900a1da721d6d742a096c6c2c907813bd1a117aa891ea6220@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

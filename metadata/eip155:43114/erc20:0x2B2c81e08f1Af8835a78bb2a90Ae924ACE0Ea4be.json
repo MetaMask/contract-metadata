@@ -1,0 +1,8 @@
+{
+  "name": "BENQI Liquid Staked AVAX",
+  "symbol": "sAVAX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x2B2c81e08f1Af8835a78bb2a90Ae924ACE0Ea4be.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2b5c5e9e58cdb916106eacb3cd1e50993036b169201c2597b7f291384923381e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

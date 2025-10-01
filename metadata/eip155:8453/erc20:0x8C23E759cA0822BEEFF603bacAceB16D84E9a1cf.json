@@ -1,0 +1,8 @@
+{
+  "name": "AAAI_agent by Virtuals",
+  "symbol": "AAAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x8C23E759cA0822BEEFF603bacAceB16D84E9a1cf.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9959aad98c57463fb59bf1c921017d36dadd686292318bbf8db2d7374ac23506@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

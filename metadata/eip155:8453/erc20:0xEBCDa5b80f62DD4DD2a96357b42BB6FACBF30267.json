@@ -1,0 +1,8 @@
+{
+  "name": "Alpha Base Index",
+  "symbol": "ABX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xEBCDa5b80f62DD4DD2a96357b42BB6FACBF30267.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xaa1f9ac50d419e6a1edf56fb59faa7786aa32783ebd973671814b6c843b49b07@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

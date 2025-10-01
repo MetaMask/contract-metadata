@@ -1,0 +1,8 @@
+{
+  "name": "Moo Deng",
+  "symbol": "MOODENG",
+  "decimals": 6,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7979a0c3d276a34a8b24f0460a19d643eb694ebf49b65ff2abbb433d223f57aa@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

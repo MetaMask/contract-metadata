@@ -1,0 +1,8 @@
+{
+  "name": "MyToken",
+  "symbol": "MT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9B4E2b4b13d125238aa0480dd42B4f6FC71b37cc.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x91110afb9f356a71c9e8fa8f556036ca8c1116ebc4461806e08ad9b97e83cca6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

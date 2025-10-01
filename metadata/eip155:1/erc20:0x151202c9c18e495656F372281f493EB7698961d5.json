@@ -1,0 +1,8 @@
+{
+  "name": "Debitum Network",
+  "symbol": "DEB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x151202c9c18e495656F372281f493EB7698961d5./ipfs/qmcyem8kmmun2eicpbq6mb8f9hgdgmjxzrghffk5v9enxy/bcd3d2soehqtkneg4ws2ebdoh4m1bpczwyuaxa6b6qw1fxkmeqgwdzq6nagcch9mga3bnrc9p8p1cbkpts7mnvctrs",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd7b996a2037744ba235a1d552a68dc7704046d388d357c3e2a91a5ccbe5899c3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

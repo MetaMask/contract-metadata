@@ -1,0 +1,8 @@
+{
+  "name": "Energy Web Token",
+  "symbol": "EWT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:100/erc20:0x6a8cb6714b1ee5B471a7d2ec4302CB4F5FF25ec2.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe43c3ebc0ae9493826b103eae8b589f6f67fa34715e91e537890ac140ae86ee7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

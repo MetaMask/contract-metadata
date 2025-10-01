@@ -1,0 +1,8 @@
+{
+  "name": "Ladybot",
+  "symbol": "$Lady",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x249247ddf61AfC83F2FD0968d4e7B0424598Eeab.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x57e0d1a1b3a9ddb21dd0ba4c87c61656ebf7028ea29a06534e83fe4234784059@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

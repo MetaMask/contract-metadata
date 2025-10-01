@@ -1,0 +1,8 @@
+{
+  "name": "DeFiato",
+  "symbol": "DFIAT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1045F5ccb01dAEA4F8Eab055f5fCBB7C0E7c89f0.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7c569da937970920275a2e1aa584cece7e17b3cdb17951383df23ad73a13f984@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

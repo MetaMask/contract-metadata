@@ -1,0 +1,8 @@
+{
+  "name": "Bumper",
+  "symbol": "BUMP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x785c34312dfA6B74F6F1829f79Ade39042222168.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5a29e02112c655adf3f5738d34196fa54631be22e96f58f8a99905040a7e3c9b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

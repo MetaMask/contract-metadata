@@ -1,0 +1,8 @@
+{
+  "name": "DREP",
+  "symbol": "DREP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x22DE9912cd3d74953B1cd1f250B825133CC2c1b3./ipfs/qmbmrgnzisxvvzwxkuqhkmr3yytm11fvdz6dp83vnhkmmz/bce2t9dwe8c7a9nggiyya8tuqrve4tbrucymbwqhyzdvz9nnpdjpwvelj3cba9ap91hpkkswujgeagudunbsycbdwb",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x81907ae6aea265f91a2164ed7bcd28bf6d8be3022f0667f766e7a596892a4960@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

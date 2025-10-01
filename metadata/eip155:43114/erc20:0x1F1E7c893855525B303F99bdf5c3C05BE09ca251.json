@@ -1,0 +1,8 @@
+{
+  "name": "Synapse",
+  "symbol": "SYN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x1F1E7c893855525B303F99bdf5c3C05BE09ca251.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa1717a3975ad501447c82e413e9021f5ec7a95806ede1160db078e80e49d7b45@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Lemond",
+  "symbol": "LEMD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF45F6c8bb3d77EA762175b8f7cA4D251941649fa./ipfs/qmuqlh2tdjydfzqjdzvwpy5tcec6s7beptqycgnopxjt9c/lemd",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5de4c8a025ff6e4ca631530aea0b30585ac99d219d8a29c95addf3389c25416c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

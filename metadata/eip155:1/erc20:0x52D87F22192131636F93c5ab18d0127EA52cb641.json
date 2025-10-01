@@ -1,0 +1,8 @@
+{
+  "name": "renLUNA",
+  "symbol": "renLUNA",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x52D87F22192131636F93c5ab18d0127EA52cb641./ipfs/qmyrsygtho7wdylcuxxpgzcajtadczxtfegqenhhkgvgak/renluna",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdad7fc7683e7ed49993eaa47aee066ac58fffe328ed4b0de2edcf330f1f7ffdc@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

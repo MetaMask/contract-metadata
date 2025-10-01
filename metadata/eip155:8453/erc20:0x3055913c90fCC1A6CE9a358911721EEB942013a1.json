@@ -1,0 +1,8 @@
+{
+  "name": "PancakeSwap",
+  "symbol": "CAKE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x3055913c90fCC1A6CE9a358911721EEB942013a1.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd12f323511715cdfe9f6ba8c3fd64f8eb35e1c7b110f0bfef3b78a1f3ae8d822@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

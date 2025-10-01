@@ -1,0 +1,8 @@
+{
+  "name": "BAYC Vault",
+  "symbol": "BAYC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xEa47b64e1bfCCB773a0420247c0AA0A3C1D2E5c5./ipfs/qmuzuivavmdzg8y8xcnzbtrhkjuytjmgnqg9qzbutqkmvh/bayc",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf9215c4d27df23085c7acaecc31d5671d4101c271d0dc98875cb7df19e6dcc81@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

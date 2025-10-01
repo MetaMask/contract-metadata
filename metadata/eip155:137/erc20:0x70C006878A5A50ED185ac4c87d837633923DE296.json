@@ -1,0 +1,8 @@
+{
+  "name": "REVV",
+  "symbol": "REVV",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0x70C006878A5A50ED185ac4c87d837633923DE296.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9e9c97312e2522758648b80290b9a5a83d107e7d206e08ef66582fb291d369a5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

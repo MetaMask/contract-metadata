@@ -1,0 +1,8 @@
+{
+  "name": "Gala",
+  "symbol": "GALA",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x5865F29a5A9d5BA8950c13506b014f1377F0b89f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2b22e038813744b36bd89213daf024d6f5e16945a824a2b5d4908cc6dc28a784@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

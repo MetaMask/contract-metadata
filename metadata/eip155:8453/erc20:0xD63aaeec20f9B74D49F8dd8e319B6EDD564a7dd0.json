@@ -1,0 +1,8 @@
+{
+  "name": "Shogun",
+  "symbol": "SHOGUN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xD63aaeec20f9B74D49F8dd8e319B6EDD564a7dd0.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xca3a75e892cb59f4bce1bfbccb2531907de8d93247d3e968c9fd2b35be59f729@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

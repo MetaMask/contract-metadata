@@ -1,0 +1,8 @@
+{
+  "name": "Octopus Network",
+  "symbol": "OCT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF5CFbc74057C610C8EF151a439252680AC68c6dc./ipfs/qmz4wjpq3u62gbksdyqvwe56jp7c1lpj5agnqdmta4ylut/oct",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x853f6fad08df7740876bc4b7c3826e01b4c173c5d93fe2cfe2f694bcc242d832@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

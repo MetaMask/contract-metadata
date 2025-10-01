@@ -1,0 +1,8 @@
+{
+  "name": "CLEANEX",
+  "symbol": "CNX",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x64bbF62a855B24F45B3c7Fd3aA8d34576E2E78fe.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x251511378c901293a0066401f4596214c1bb8cdfd27ec47959fa7bcf9f0629d6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

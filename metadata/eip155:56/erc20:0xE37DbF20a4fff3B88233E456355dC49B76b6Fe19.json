@@ -1,0 +1,8 @@
+{
+  "name": "Love Earn Enjoy",
+  "symbol": "LEE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xE37DbF20a4fff3B88233E456355dC49B76b6Fe19.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8ea67cd8fb7bb4d87b4d852097f737ef5bde1f8288acf1f7e8f8539eb4bb9e2a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

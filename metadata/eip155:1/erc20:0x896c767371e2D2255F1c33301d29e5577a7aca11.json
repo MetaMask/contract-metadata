@@ -1,0 +1,8 @@
+{
+  "name": "Bulladotfun",
+  "symbol": "BULLA",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x896c767371e2D2255F1c33301d29e5577a7aca11.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbe77f4d9511687f95fe2419822d5f81daf7e56b114732dd910e204b9c0730452@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}
