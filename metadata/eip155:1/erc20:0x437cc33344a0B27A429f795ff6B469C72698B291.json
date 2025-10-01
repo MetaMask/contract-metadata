@@ -1,0 +1,7 @@
+{
+  "name": "WrappedM by M0",
+  "decimals": 6,
+  "symbol": "wM",
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x437cc33344a0B27A429f795ff6B469C72698B291.svg"
+}
