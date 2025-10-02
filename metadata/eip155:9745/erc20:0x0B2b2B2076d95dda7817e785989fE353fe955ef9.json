@@ -1,0 +1,7 @@
+{
+  "name": "Staked USDai",
+  "symbol": "sUSDAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:9745/erc20:0x0B2b2B2076d95dda7817e785989fE353fe955ef9.svg"
+}
