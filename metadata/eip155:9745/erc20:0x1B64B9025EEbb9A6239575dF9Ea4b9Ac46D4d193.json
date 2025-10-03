@@ -1,0 +1,7 @@
+{
+  "name": "Tether Gold",
+  "symbol": "XAUT0",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:9745/erc20:0x1B64B9025EEbb9A6239575dF9Ea4b9Ac46D4d193.png"
+}
