@@ -1,0 +1,8 @@
+{
+  "name": "Cronos",
+  "symbol": "CRO",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0xADa58df0f643D959C2a47c9d4d4C1A4DEFE3F11c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf6c8dafc1fbde1daf473faf4a07a0d0452cca47536aaf3d779262285079eb6bd@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

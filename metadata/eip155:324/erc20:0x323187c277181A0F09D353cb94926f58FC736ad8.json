@@ -1,0 +1,8 @@
+{
+  "name": "Blendr Network",
+  "symbol": "BLENDR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x323187c277181A0F09D353cb94926f58FC736ad8.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe2dce9a2f2156106ec207a6952fe7683bd12d1b6c61520bd042e76f7f937884b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

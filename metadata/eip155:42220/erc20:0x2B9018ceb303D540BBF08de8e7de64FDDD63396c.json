@@ -1,0 +1,8 @@
+{
+  "name": "impactMarket",
+  "symbol": "PACT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42220/erc20:0x2B9018ceb303D540BBF08de8e7de64FDDD63396c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd9360034f6440bc7729d21ee8406be08cf388ddea48eece4c57e69e2fba87114@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

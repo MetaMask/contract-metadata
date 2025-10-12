@@ -1,0 +1,8 @@
+{
+  "name": "ShibaLink",
+  "symbol": "SLINK",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3DE7148c41e3B3233F3310e794f68D8E70Ca69af./ipfs/qmdxorypnpdagqhmnykmzq2up2vpj1xmfqj7942scbwy3j/slink",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa5ff62b8e74984539b9e766bc185cbe7943e281ef13ba4960197a7ab0a2a7da2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

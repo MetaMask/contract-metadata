@@ -1,0 +1,8 @@
+{
+  "name": "Bitgear",
+  "symbol": "GEAR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1B980e05943de3DB3a459c72325338D327b6F5a9./ipfs/qmaqgltaz8bqccjjomvhw4hlmnq9udisrb6xqb2thkbzra/bcd8uqawrasw5hb4psxyokckebxh7svxgam8dkjnyddmxjus2fkjhcuzmdyrqdtchrd6gbeqatcwrnlcfvmitfjeen",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8f1a2fa024fee06989ed23c194dc822380d6ef8f2e70b2e69921e083f61b910b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

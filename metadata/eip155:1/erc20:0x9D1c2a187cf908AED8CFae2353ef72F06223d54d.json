@@ -1,0 +1,8 @@
+{
+  "name": "Strike WBTC",
+  "symbol": "sWBTC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9D1c2a187cf908AED8CFae2353ef72F06223d54d./ipfs/qmy8veaudbrwyjndk82naa461nta4gtybet6hudbmykwbx/swbtc",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x95f577b2bae6af60b2597a8c53e382738b78013c08e538fb0f3778ba85f5a595@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

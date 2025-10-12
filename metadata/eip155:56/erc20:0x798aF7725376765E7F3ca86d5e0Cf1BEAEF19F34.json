@@ -1,0 +1,8 @@
+{
+  "name": "Atomic Wallet",
+  "symbol": "AWC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x798aF7725376765E7F3ca86d5e0Cf1BEAEF19F34.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xadf9bee266504c8e54733e1ece2b34adb69849de0b87a427255e9909782d1358@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

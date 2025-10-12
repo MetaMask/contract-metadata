@@ -1,0 +1,8 @@
+{
+  "name": "jelli ",
+  "symbol": "JELLI",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xA1b9d812926A529D8B002e69fcd070C8275Ec73c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x951b77854247cb65415b40571c3f7ccc4e52cbd8ee0fb88ff4742d383e3371b0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Zcash",
+  "symbol": "ZEC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x1Ba42e5193dfA8B03D15dd1b86A3113BBBEF8eeb.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb881b3cba633f02d4ed40e2972dbda8168c94341e25521da5e39d4b8e7e18c28@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

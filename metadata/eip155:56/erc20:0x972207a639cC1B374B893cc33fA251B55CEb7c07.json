@@ -1,0 +1,8 @@
+{
+  "name": "Venus BETH",
+  "symbol": "vBETH",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x972207a639cC1B374B893cc33fA251B55CEb7c07.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x56f3f7d603e8c0249b8e4b121bfbbe8709b064adf04b03e431ad2ab54f93d582@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

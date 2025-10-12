@@ -1,0 +1,8 @@
+{
+  "name": "hardwAIre DAO",
+  "symbol": "HARD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x3DE67b963766076A3E77E4bec067460523574694.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xee6c39588d6a3a806de874fcc845fe04a6bc6d57538a6343d5b0c47b30d4cc1b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "DEXTF Protocol",
+  "symbol": "DEXTF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x5F64ab1544d28732F0a24F4713c2C8EC0Da089f0./ipfs/qmajg8awcxmfaer8yeboj3wy2cd3a1ioljqjk22tbwwzys/dextf",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x74258cbc0f29dd09d62774a02d1ea8f810632f9ddaf76c60688132fb75314c09@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

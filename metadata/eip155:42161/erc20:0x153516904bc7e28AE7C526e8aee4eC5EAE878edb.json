@@ -1,0 +1,8 @@
+{
+  "name": "PLEXUS",
+  "symbol": "PLX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0x153516904bc7e28AE7C526e8aee4eC5EAE878edb.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf1146ade75ca0981fa7c885654856f4a8e4164a36037e40a78371a5f991fbbbf@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

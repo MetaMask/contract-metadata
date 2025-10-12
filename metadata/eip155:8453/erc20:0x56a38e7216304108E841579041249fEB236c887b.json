@@ -1,0 +1,8 @@
+{
+  "name": "Libertum",
+  "symbol": "LBM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x56a38e7216304108E841579041249fEB236c887b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x50285675a3ecb7e7c8a858fc9a770ff3169c480fb2fcbda7761a859c5fd9f490@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

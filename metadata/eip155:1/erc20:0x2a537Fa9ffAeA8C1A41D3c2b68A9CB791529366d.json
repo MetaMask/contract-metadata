@@ -1,0 +1,8 @@
+{
+  "name": "Cream DefiPulse Index",
+  "symbol": "crDPI",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x2a537Fa9ffAeA8C1A41D3c2b68A9CB791529366d./ipfs/qmqvwjidzbcptsu3wnpnvxnnetmmp5fkyydjguf6676ufc/crdpi",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbdf850af52878edceb6267e91bfe1566fca735b6f6732d648cbf983492be334b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

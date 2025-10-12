@@ -1,0 +1,8 @@
+{
+  "name": "BNSD Finance",
+  "symbol": "BNSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x668DbF100635f593A3847c0bdAf21f0A09380188./ipfs/qmamsimb1lrcxmikdbfnu739afzz5cuoyh1rcxufyvbqmz/bccybmzwkwaxtpo7fkvxavqaycfc9v75zk7ylfcsww49hwmkaunb2vxut5scmvtrixgebpfdji7sfqrgjp3soefylx",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x234216226aeb171d07d3e95559f5ea2533dcda73bcd30821dec23cdf291c71a0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

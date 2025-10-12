@@ -1,0 +1,8 @@
+{
+  "name": "Ganesha Token",
+  "symbol": "GNSH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x7C5FF719a6c76fE643E9Ecd0f11f146A2DE05F14./ipfs/qme8hr7xcapsacttxcyrhhxgvqay6oxh2frmt7jrm8syeq/gnsh",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb963a1fa3ac79a30fa3c2de380057bef01e54657630cf44bce5ecc2cdba0c765@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

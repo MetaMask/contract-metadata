@@ -1,0 +1,8 @@
+{
+  "name": "MultiversX",
+  "symbol": "EGLD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xBF7c81fff98BBE61B40Ed186e4AfD6DDD01337fe.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x849c3adde50e27cf13c4f9ca1b66df67277110514ce3ca1a988d5702a392a2c5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

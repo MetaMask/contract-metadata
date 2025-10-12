@@ -1,0 +1,8 @@
+{
+  "name": "Algory",
+  "symbol": "ALG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x16b0a1a87Ae8Af5C792Fabc429c4fE248834842b./ipfs/qmv1jdnqsxdfkxute1y1p9t27jxnunitk4db2mzwilz2hi/alg",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf9413ffa5ff625c0466029cad1d08fd0b7ebe3df6a84b5ded266668e8ef2588d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

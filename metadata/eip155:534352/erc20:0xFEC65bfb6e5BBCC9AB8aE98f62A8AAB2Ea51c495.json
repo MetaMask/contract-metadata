@@ -1,0 +1,8 @@
+{
+  "name": "Perseid",
+  "symbol": "PED",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:534352/erc20:0xFEC65bfb6e5BBCC9AB8aE98f62A8AAB2Ea51c495.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8b09c03830c0d73f1c8ac327bb0db1da5f1b4952f70169368fd741f9178f5270@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

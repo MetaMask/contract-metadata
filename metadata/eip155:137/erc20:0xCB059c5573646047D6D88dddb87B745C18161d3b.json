@@ -1,0 +1,8 @@
+{
+  "name": "Polymath",
+  "symbol": "POLY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0xCB059c5573646047D6D88dddb87B745C18161d3b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x838d78a58edc279606b059a3225310a93d84f2070600d70b2f79eb27fa19f7ee@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

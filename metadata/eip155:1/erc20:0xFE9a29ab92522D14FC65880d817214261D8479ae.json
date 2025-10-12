@@ -1,0 +1,8 @@
+{
+  "name": "SnowSwap",
+  "symbol": "SNOW",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xFE9a29ab92522D14FC65880d817214261D8479ae./ipfs/qmpbazrs2wqaecoh2bu4wt4yjp5rs6yrxzpysxumbdiyub/snow",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7b75be7632ba25c7eab7c29403a324e51b734f7eeb9c5922abfd0c43781b8e51@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

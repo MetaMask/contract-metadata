@@ -1,0 +1,8 @@
+{
+  "name": "Plant vs Undead",
+  "symbol": "PVU",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x31471e0791fCDBE82FbF4c44943255E923F1b794.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0486da260aa98ffceb9b6a44e80ec692f6db4b11b14b6710dd335c1c49c27ec8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

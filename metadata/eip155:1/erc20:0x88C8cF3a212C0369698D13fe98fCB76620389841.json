@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic EOS",
+  "symbol": "sEOS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x88C8cF3a212C0369698D13fe98fCB76620389841./ipfs/qmd2h7dmtepnqwyrmlteqeskfks5cufib2htim8gx6tqjo/seos",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd36862f127bcc098aafbd4d66ac332977a1ec0b0e43e89f540c0896a5f0a7f3e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

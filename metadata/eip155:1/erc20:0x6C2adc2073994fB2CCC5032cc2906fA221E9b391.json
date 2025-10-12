@@ -1,0 +1,8 @@
+{
+  "name": "Delphy",
+  "symbol": "DPY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x6C2adc2073994fB2CCC5032cc2906fA221E9b391./ipfs/qmfnupd52kkd9sz7gscry2dx5fxmedkmlfvbi6vkuxtdrc/bce2fic1njxcfhwj7kbjqezlvukaqrqpne4rbi8xvzswtusbjczxycbtxqldeqwf2cuxpvab666p67vjaujujop9n4",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xca95ce3f53cfb52c613503064137ea688b110d96bda6f7e80785a0acb24a2603@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

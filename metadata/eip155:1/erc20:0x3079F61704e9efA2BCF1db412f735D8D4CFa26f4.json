@@ -1,0 +1,8 @@
+{
+  "name": "HappyFans",
+  "symbol": "HAPPY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3079F61704e9efA2BCF1db412f735D8D4CFa26f4.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x35f6177e68d04da5b6ddb14717d6304a65f0e7e32ad4bcfed5c23cb70e38e250@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

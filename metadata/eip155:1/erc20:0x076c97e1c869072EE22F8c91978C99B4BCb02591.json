@@ -1,0 +1,8 @@
+{
+  "name": "CommerceBlock",
+  "symbol": "CBT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x076c97e1c869072EE22F8c91978C99B4BCb02591./ipfs/qmbpiz8ewej3guc9cbi34bs4rvmk3zobckeb5yjrjajwgf/bcd5vhwffhpmofmty5l9qybffn4msbjvcnxtb3p5xwcb7cjajtvxi1cx2aofgky2yvrxsq6kdvkwcmnrmay1zlgg9n",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe3981934de2120f2a5962eb96c48343b8d96b683f471d55247ae3d0e1a1eaaa8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic THORChain",
+  "symbol": "sRUNE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0352557b007A4AAE1511c114409B932F06F9E2f4./ipfs/qmunjgdizqwdzhj88s9dwavkrdf9wwrev7ssgzn9kw4ioj/srune",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfbc0da22cb0b53e72a0efa4de9261389154717eb6e522b9dfca5cf079cacfef7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

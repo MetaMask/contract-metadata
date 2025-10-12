@@ -1,0 +1,8 @@
+{
+  "name": "Cream CRV",
+  "symbol": "crCRV",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xC7FD8dcee4697CEEF5a2Fd4608A7BD6A94C77480./ipfs/qmxnvqhr8rwzfzhsbgnnoln6z4b4xesubvy3kr85ti4ve6/crcrv",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x544ee9e9cf25282f23fd0cd359cedcc92d8cc2c74cc82fe5f7cfdf75a95a721f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

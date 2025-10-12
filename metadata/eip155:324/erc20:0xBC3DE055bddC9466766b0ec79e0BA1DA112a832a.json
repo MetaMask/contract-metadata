@@ -1,0 +1,8 @@
+{
+  "name": "rsETH",
+  "symbol": "rsETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xBC3DE055bddC9466766b0ec79e0BA1DA112a832a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2909acee3d657aa0d232a504330e0b5135fe2c005dfbf8e3b47bec074236a349@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

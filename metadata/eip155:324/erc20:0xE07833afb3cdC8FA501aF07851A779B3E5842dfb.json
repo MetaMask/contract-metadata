@@ -1,0 +1,8 @@
+{
+  "name": "iEx.ec Network",
+  "symbol": "RLC",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xE07833afb3cdC8FA501aF07851A779B3E5842dfb.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xef03c2f811943d623630736cad2b705b5466ade47b47a724abde6c39b3115ee7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Wrapped XDAI",
+  "symbol": "WXDAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:100/erc20:0xE91D153e0b41518A2CE8dd3d7944fA863463a97d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf151e1fb6e001daab1952035eb3e5c1133407965c186e7e36c98afa73be09e8d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "PP",
+  "symbol": "PP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xECE8531550fC599CCB2c7734494fBC358D0a9483./ipfs/qmvzzy2htrfgijodnkeqanl7nw5gqv7scxzklzytvyecsw/pp",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9fc393ccec7c4534d4869a44728106990d474654a2eaadf168b37174a4f16c55@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

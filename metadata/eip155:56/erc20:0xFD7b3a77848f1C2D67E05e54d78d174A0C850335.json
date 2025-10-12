@@ -1,0 +1,8 @@
+{
+  "name": "Ontology",
+  "symbol": "ONT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xFD7b3a77848f1C2D67E05e54d78d174A0C850335.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb83f34c4f3f71ee5af9913b5953af4b2829e858b7ed4856363d90079c029a5e0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

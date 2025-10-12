@@ -1,0 +1,8 @@
+{
+  "name": "Rekt Burgundy by Virtuals",
+  "symbol": "MXNBC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x84993768bA82eBC6101a5440eA41BE41310Ea12f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3c28ffe72775efde2f838ae0ba037331f7c41c4b5d94d21906a970f0aea2004f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "UBXS",
+  "symbol": "UBXS",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x4F1960e29b2CA581A38c5c474e123f420F8092db.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb14b6800dad5b3b64843f84b578bee04cebcb64fe1367d618eee521e6f0e8532@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

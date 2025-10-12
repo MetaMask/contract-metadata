@@ -1,0 +1,8 @@
+{
+  "name": "ZeroSwap",
+  "symbol": "ZEE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x44754455564474A89358b2c2265883DF993b12f0.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x03d0de628f9a8145f911c9bea6a8fdbabdd0af1dc2a4601d3c0359f0d2d0cd00@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

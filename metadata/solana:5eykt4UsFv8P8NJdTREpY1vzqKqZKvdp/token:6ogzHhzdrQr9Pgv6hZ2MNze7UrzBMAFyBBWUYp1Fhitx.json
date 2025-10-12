@@ -1,0 +1,8 @@
+{
+  "name": "RETARDIO",
+  "symbol": "RETARDIO",
+  "decimals": 6,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:6ogzHhzdrQr9Pgv6hZ2MNze7UrzBMAFyBBWUYp1Fhitx.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x61b05060efd718f48cc12c05582fa1398a5cd3462beed74b109f14835a5284f3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

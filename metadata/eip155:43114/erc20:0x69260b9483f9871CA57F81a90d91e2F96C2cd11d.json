@@ -1,0 +1,8 @@
+{
+  "name": "GoGoPool Protocol",
+  "symbol": "GGP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x69260b9483f9871CA57F81a90d91e2F96C2cd11d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5fe083f3996c0599bd555140b504c5ee012068a1d338fe6735b6097410d15f89@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

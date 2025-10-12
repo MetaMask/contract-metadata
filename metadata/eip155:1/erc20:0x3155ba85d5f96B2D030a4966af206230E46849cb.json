@@ -1,0 +1,8 @@
+{
+  "name": "THORChain",
+  "symbol": "RUNE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3155ba85d5f96B2D030a4966af206230E46849cb.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdb3d890c18c324d82bad11d10906dedadd5eb654227e97603f25730e0362fad3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

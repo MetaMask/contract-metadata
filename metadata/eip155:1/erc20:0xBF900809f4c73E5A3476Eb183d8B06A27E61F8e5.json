@@ -1,0 +1,8 @@
+{
+  "name": "Vanilla",
+  "symbol": "VNL",
+  "decimals": 12,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xBF900809f4c73E5A3476Eb183d8B06A27E61F8e5./ipfs/qmr9497bkrugke1t7guygkkpvdzj6q9cz8nfatydcyucte/vnl",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x667490b125de1e2bb9ed80248643263d79d5446ab975059ff94c7d18e79bd47b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}
