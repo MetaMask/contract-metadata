@@ -1,0 +1,7 @@
+{
+  "name": "ArmenianToken",
+  "symbol": "ARMT",
+  "decimals": 18,
+  "erc20": true
+  "logo": "icons/eip155:1/erc20.0xC70318bd0659528Dbf672298e385445a534A5B07.svg",
+}
