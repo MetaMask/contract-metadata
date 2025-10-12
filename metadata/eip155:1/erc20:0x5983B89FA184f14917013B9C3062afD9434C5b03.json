@@ -1,0 +1,7 @@
+{
+  "name": "Power by M0",
+  "decimals": 0,
+  "symbol": "POWER",
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x5983B89FA184f14917013B9C3062afD9434C5b03.svg"
+}
