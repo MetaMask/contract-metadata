@@ -1,0 +1,7 @@
+{
+  "name": "CHILL",
+  "symbol": "CHILL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42/erc20:0x5B8B0E44D4719F8A328470DcCD3746BFc73d6B14.png"
+}
