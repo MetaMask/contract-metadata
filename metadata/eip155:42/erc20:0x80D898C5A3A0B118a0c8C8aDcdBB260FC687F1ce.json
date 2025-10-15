@@ -1,0 +1,7 @@
+{
+  "name": "Just a Potato 🥔",
+  "symbol": "POTATO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42/erc20:0x80D898C5A3A0B118a0c8C8aDcdBB260FC687F1ce.png"
+}
