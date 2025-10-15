@@ -1,0 +1,7 @@
+{
+  "name": "Loaded Lions",
+  "symbol": "LION",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:25/erc20:0x9D8c68F185A04314DDC8B8216732455e8dbb7E45.png"
+}
