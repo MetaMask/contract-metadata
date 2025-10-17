@@ -146,6 +146,14 @@
     "symbol": "BST",
     "decimals": 18
   },
+  "0xca154cF88F6ffBC23E16B5D08a9Bf4851FB97199": {
+    "name": "Risy DAO Token",
+    "logo": "RISY.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "RISY",
+    "decimals": 18
+  },
   "0xccC8cb5229B0ac8069C51fd58367Fd1e622aFD97": {
     "name": "Gods Unchained",
     "logo": "gods.svg",
