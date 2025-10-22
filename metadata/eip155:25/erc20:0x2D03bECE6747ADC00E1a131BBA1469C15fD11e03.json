@@ -1,0 +1,7 @@
+{
+  "name": "VVSToken",
+  "symbol": "VVS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:25/erc20:0x2D03bECE6747ADC00E1a131BBA1469C15fD11e03.png"
+}

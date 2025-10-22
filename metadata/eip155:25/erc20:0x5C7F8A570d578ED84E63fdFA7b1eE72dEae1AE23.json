@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped CRO",
+  "symbol": "WCRO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:25/erc20:0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23.svg"
+}
