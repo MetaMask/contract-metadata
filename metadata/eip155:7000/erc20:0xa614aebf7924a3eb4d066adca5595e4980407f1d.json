@@ -1,0 +1,7 @@
+{
+  "name": "ETH.ARB",
+  "symbol": "ETH.ARB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:7000/erc20:0xa614aebf7924a3eb4d066adca5595e4980407f1d.svg"
+}
