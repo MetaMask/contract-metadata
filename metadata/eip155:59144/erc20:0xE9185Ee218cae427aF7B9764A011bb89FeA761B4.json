@@ -1,0 +1,7 @@
+{
+  "name": "BRZ Token",
+  "symbol": "BRZ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:59144/erc20:0xE9185Ee218cae427aF7B9764A011bb89FeA761B4.png"
+}
