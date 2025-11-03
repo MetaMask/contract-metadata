@@ -1,4 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
-<svg fill="#000000" width="800px" height="800px" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
-  <path d="M26.865 24l-10.865 4.24-10.865-4.24-1.802 3.125 12.667 4.875 12.667-4.875zM16 0c-6.995 0-12.667 5.672-12.667 12.667s5.672 12.667 12.667 12.667c6.995 0 12.667-5.672 12.667-12.667s-5.672-12.667-12.667-12.667zM16 21.438c-4.839 0-8.755-3.922-8.755-8.755 0-4.839 3.917-8.76 8.755-8.76s8.755 3.922 8.755 8.76c0 4.833-3.917 8.755-8.755 8.755z"/>
-</svg>
+<svg width="56" height="56" xmlns="http://www.w3.org/2000/svg"><path fill="url(#paint0_linear)" d="M0 0h56v56H0z"/><path fill-rule="evenodd" d="M36 24a8 8 0 11-16 0 8 8 0 0116 0zm4 0c0 6.627-5.373 12-12 12s-12-5.373-12-12 5.373-12 12-12 12 5.373 12 12zM28 40l11.084-5L41 38.462 28 44l-13-5.538L16.916 35 28 40z" fill="#fff"/><defs><linearGradient id="paint0_linear" x1="10.418" y1="9.712" x2="68.147" y2="76.017" gradientUnits="userSpaceOnUse"><stop stop-color="#1A1E21"/><stop offset="1" stop-color="#06060A"/></linearGradient></defs></svg>
