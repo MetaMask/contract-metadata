@@ -1,0 +1,7 @@
+{
+  "name": "Moonflow",
+  "symbol": "MOON",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:25/erc20:0x46E2B5423F6ff46A8A35861EC9DAfF26af77AB9A.png"
+}
