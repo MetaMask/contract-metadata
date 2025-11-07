@@ -1,9 +1,7 @@
 {
-  "eip155:8453/erc20:0x794FDDbe0609CD704d7920eB3f950a57D4661193": {
-    "name": "Artizen Token",
-    "symbol": "ART",
-    "decimals": 18,
-    "erc20": true,
-    "logo": "./icons/eip155:8453/erc20:0x794FDDbe0609CD704d7920eB3f950a57D4661193.svg"
-  }
+  "name": "Artizen Token",
+  "symbol": "ART",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x794FDDbe0609CD704d7920eB3f950a57D4661193.svg"
 }
