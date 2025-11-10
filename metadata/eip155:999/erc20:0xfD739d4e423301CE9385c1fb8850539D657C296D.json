@@ -1,0 +1,7 @@
+{
+  "name": "Kinetiq Staked HYPE",
+  "symbol": "KHYPE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:999/erc20:0xfD739d4e423301CE9385c1fb8850539D657C296D.png"
+}

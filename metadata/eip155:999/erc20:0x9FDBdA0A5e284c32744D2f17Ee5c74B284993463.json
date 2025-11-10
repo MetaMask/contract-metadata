@@ -1,0 +1,7 @@
+{
+  "name": "Unit Bitcoin",
+  "symbol": "UBTC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:999/erc20:0x9FDBdA0A5e284c32744D2f17Ee5c74B284993463.svg"
+}

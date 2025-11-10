@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped HYPE",
+  "symbol": "WHYPE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:999/erc20:0x5555555555555555555555555555555555555555.png"
+}
