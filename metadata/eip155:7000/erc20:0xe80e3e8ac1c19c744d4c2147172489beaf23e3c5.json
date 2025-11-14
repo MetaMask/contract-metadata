@@ -1,0 +1,7 @@
+{
+  "name": "CBBTC.BASE",
+  "symbol": "CBBTC.BASE",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:7000/erc20:0xe80e3e8ac1c19c744d4c2147172489beaf23e3c5.svg"
+}
