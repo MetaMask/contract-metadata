@@ -3,5 +3,5 @@
   "symbol": "XAUT0",
   "decimals": 6,
   "erc20": true,
-  "logo": "./icons/eip155:999/erc20:0xf4D9235269a96aaDaFc9aDAe454a0618eBE37949.png"
+  "logo": "./icons/eip155:999/erc20:0xf4D9235269a96aaDaFc9aDAe454a0618eBE37949.svg"
 }

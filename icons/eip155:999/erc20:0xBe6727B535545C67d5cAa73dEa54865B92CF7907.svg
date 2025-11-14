@@ -1,86 +1,78 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Creator: CorelDRAW 2019 (64-Bit) -->
-
 <svg
-   xml:space="preserve"
-   width="416.90701"
-   height="416.90701"
+   width="512"
+   height="512"
+   viewBox="0 0 6.5536 6.5536"
    version="1.1"
-   shape-rendering="geometricPrecision"
-   text-rendering="geometricPrecision"
-   image-rendering="optimizeQuality"
-   fill-rule="evenodd"
-   clip-rule="evenodd"
-   viewBox="0 0 416.90701 416.90701"
-   id="svg6"
+   id="svg7"
    sodipodi:docname="erc20:0xBe6727B535545C67d5cAa73dEa54865B92CF7907.svg"
    inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><defs
-   id="defs6" /><sodipodi:namedview
-   id="namedview6"
-   pagecolor="#ffffff"
-   bordercolor="#000000"
-   borderopacity="0.25"
-   inkscape:showpageshadow="2"
-   inkscape:pageopacity="0.0"
-   inkscape:pagecheckerboard="0"
-   inkscape:deskcolor="#d1d1d1"
-   inkscape:zoom="0.1906091"
-   inkscape:cx="83.941429"
-   inkscape:cy="1356.1787"
-   inkscape:window-width="1920"
-   inkscape:window-height="1050"
-   inkscape:window-x="0"
-   inkscape:window-y="30"
-   inkscape:window-maximized="0"
-   inkscape:current-layer="_1421394342400" />
- <g
-   id="Layer_x0020_1"
-   inkscape:label="Layer 1"
-   inkscape:groupmode="layer"
-   transform="translate(-246.51001)">
-  <metadata
-   id="CorelCorpID_0Corel-Layer" />
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs7" />
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.74757509"
+     inkscape:cx="240.10966"
+     inkscape:cy="374.54432"
+     inkscape:window-width="1512"
+     inkscape:window-height="949"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg7" />
+  <rect
+     style="fill:#627eea;fill-opacity:1;stroke-width:0.0724875"
+     id="rect7"
+     width="6.5535998"
+     height="6.5535998"
+     x="8.2778932e-08"
+     y="8.2778932e-08" />
   <g
-   id="_1421394342400"
-   transform="translate(246.51001)">
-   <g
-   id="g6"
-   transform="matrix(0.32637658,0,0,0.32637658,80.453507,0)">
-    <polygon
-   fill="#343434"
-   fill-rule="nonzero"
-   points="392.07,0 383.5,29.11 383.5,873.74 392.07,882.29 784.13,650.54 "
-   id="polygon1" />
-    <polygon
-   fill="#8c8c8c"
-   fill-rule="nonzero"
-   points="392.07,472.33 392.07,0 0,650.54 392.07,882.29 "
-   id="polygon2" />
-    <polygon
-   fill="#3c3c3b"
-   fill-rule="nonzero"
-   points="392.07,956.52 387.24,962.41 387.24,1263.28 392.07,1277.38 784.37,724.89 "
-   id="polygon3" />
-    <polygon
-   fill="#8c8c8c"
-   fill-rule="nonzero"
-   points="392.07,1277.38 392.07,956.52 0,724.89 "
-   id="polygon4" />
-    <polygon
-   fill="#141414"
-   fill-rule="nonzero"
-   points="392.07,882.29 784.13,650.54 392.07,472.33 "
-   id="polygon5" />
-    <polygon
-   fill="#393939"
-   fill-rule="nonzero"
-   points="0,650.54 392.07,882.29 392.07,472.33 "
-   id="polygon6" />
-   </g>
+     fill="none"
+     fill-rule="evenodd"
+     id="g7"
+     transform="scale(0.2048)">
+    <g
+       fill="#ffffff"
+       fill-rule="nonzero"
+       id="g6"
+       transform="translate(-1.375,-6.935)">
+      <g
+         id="g8">
+        <path
+           fill-opacity="0.602"
+           d="m 17.373,10.9375 v 8.87 l 7.497,3.35 z"
+           id="path1" />
+        <path
+           d="m 17.373,10.9375 -7.498,12.22 7.498,-3.35 z"
+           id="path2" />
+        <path
+           fill-opacity="0.602"
+           d="m 17.373,28.9055 v 6.027 l 7.502,-10.379 z"
+           id="path3" />
+        <path
+           d="m 17.373,34.9325 v -6.028 l -7.498,-4.351 z"
+           id="path4" />
+        <path
+           fill-opacity="0.2"
+           d="m 17.373,27.5105 7.497,-4.353 -7.497,-3.348 z"
+           id="path5" />
+        <path
+           fill-opacity="0.602"
+           d="m 9.875,23.1575 7.498,4.353 v -7.701 z"
+           id="path6" />
+      </g>
+    </g>
   </g>
- </g>
 </svg>

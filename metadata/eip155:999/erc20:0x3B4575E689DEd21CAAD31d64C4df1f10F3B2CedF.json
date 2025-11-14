@@ -3,5 +3,5 @@
   "symbol": "UFART",
   "decimals": 6,
   "erc20": true,
-  "logo": "./icons/eip155:999/erc20:0x3B4575E689DEd21CAAD31d64C4df1f10F3B2CedF.png"
+  "logo": "./icons/eip155:999/erc20:0x3B4575E689DEd21CAAD31d64C4df1f10F3B2CedF.svg"
 }
