@@ -43,7 +43,7 @@ Maintaining this list is a considerable chore, and it is not our highest priorit
 
 Criteria:
 
-- The icon should be small, square, but high resolution, and a vector/svg or a png.
+- The icon should be small, square, but high resolution, and a vector/svg or a png. Please refer to the [style guide](STYLEGUIDE.md) for best practices. 
 - The address should be in checksum format or it will not be accepted. This is true of non-evm assets as well - since some network's addressing formats are case-sensitive.
 - PR should include link to official project website referencing the suggested address.
 - Project website should include explanation of project.
