@@ -20,6 +20,13 @@
     "symbol": "MOOV",
     "decimals": 18
   },
+  "0x45D9831d8751B2325f3DBf48db748723726e1C8c": {
+    "name": "EverValueCoin",
+    "logo": "EVA.svg",
+    "erc20": true,
+    "symbol": "EVA",
+    "decimals": 18
+  },
   "0x12652C6d93FDB6F4f37d48A8687783C782BB0d10": {
     "name": "Entangle",
     "logo": "NGL.svg",
