@@ -1,0 +1,8 @@
+{
+  "name": "Holdefi",
+  "symbol": "HLD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD520ddbdf81323F4B9a0Ea0adbB692EBEF6cE280./ipfs/qmcegffq6rv9j5qqclfbuevlnqxrcklbp56enrmtvliq38/hld",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x29743f7ad1e6f0acc9c49c50015bfc61d02325dc39092ad18e5936a35a535097@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

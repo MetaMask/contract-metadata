@@ -1,0 +1,8 @@
+{
+  "name": "CoTrader",
+  "symbol": "COT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x5C872500c00565505F3624ab435C222E558E9Ff8./ipfs/qmp8kfexdraejpniqcshda3kxuwqucfbw1ksyz6zzqqtgq/bcd5vhov4fibvrdusp61nzfxkyucpa4a4g4741rnt4i4f8pkfqeycawa9nsxxjkvsrpxnjgruzys4cv7xytbg9vzfd",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x56e07db6b0585a5b7b94f36b770c2fc57a3c93acae2d2b00f83ae45d08b43ccc@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

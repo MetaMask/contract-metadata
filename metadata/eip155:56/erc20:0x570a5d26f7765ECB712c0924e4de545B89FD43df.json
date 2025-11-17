@@ -1,0 +1,8 @@
+{
+  "name": "Solana",
+  "symbol": "SOL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x570a5d26f7765ECB712c0924e4de545B89FD43df.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xce04525d0fb38f52c207e435e64ed8a74b24ff748fd7955192b7624d3b10d807@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Prom",
+  "symbol": "PROM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xAF53d56ff99f1322515E54fdde93ff8B3B7DaFd5.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0fedaef3625b95d3c71d310604670d34adc064d241db85cd7a155af9a60bdb6c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

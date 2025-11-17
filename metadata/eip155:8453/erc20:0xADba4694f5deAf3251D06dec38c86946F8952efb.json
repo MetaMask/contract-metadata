@@ -1,0 +1,8 @@
+{
+  "name": "DIP",
+  "symbol": "DIP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xADba4694f5deAf3251D06dec38c86946F8952efb.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf5b23e718c776df14d52f70a17c680978efb47bb192e8ccaf2c11402a0e112e2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

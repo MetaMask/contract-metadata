@@ -1,0 +1,8 @@
+{
+  "name": "Virgen Market by Virtuals",
+  "symbol": "VGM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x1Ca71F95b222B98C36a25F09e593B81D250b1F2e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1c9cfe210bb1bf2e8ebfddce4dbb12f47d3b2c517a628e52903b4802ac800d67@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

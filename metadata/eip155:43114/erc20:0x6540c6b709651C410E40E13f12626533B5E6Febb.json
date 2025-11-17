@@ -1,0 +1,8 @@
+{
+  "name": "VIAGRA",
+  "symbol": "VIAGRA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x6540c6b709651C410E40E13f12626533B5E6Febb.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8b0c669367c2cfbc67540770b8e289d67d95b11ee446ae087cfa7a8a16967b70@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

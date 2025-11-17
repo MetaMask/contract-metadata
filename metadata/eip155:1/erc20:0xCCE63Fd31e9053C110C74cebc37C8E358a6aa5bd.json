@@ -1,0 +1,8 @@
+{
+  "name": "Bitriver",
+  "symbol": "BTR",
+  "decimals": 4,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xCCE63Fd31e9053C110C74cebc37C8E358a6aa5bd./ipfs/qmukapgwsch2u8c7xouud2c1aoeyqy5ezv4wznnufhmrt6/btr",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x885b063fa5af2eb3e1b0362ffe27ad1bc453c2ffa07926a9e1b0ade263f2971f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

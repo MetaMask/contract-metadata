@@ -1,0 +1,8 @@
+{
+  "name": "Smart Layer Network",
+  "symbol": "SLN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x14C64a6e09511207B7746F1b6A76f9D8Fa4F695f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x324e787bf4f3aa96493c2caf6fb0a2a816deda57bd980571b6f2ee3188f9e83c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

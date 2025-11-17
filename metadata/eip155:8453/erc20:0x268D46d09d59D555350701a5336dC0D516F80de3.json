@@ -1,0 +1,8 @@
+{
+  "name": "OnlyUp",
+  "symbol": "ONLYUP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x268D46d09d59D555350701a5336dC0D516F80de3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa6a795fc7aa99acb5469e29edc925b41293bdd053bcdadde682b31e475b09d73@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

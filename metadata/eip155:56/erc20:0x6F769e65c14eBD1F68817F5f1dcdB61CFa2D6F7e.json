@@ -1,0 +1,8 @@
+{
+  "name": "ARPA",
+  "symbol": "ARPA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x6F769e65c14eBD1F68817F5f1dcdB61CFa2D6F7e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd617b70d43f76ad79ad58b34f9e02ed21fcec7301a4011456c21b936e5c335ed@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

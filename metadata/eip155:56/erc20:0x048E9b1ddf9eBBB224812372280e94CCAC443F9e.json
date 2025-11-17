@@ -1,0 +1,8 @@
+{
+  "name": "Jarvis Synthetic British Pound",
+  "symbol": "jGBP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x048E9b1ddf9eBBB224812372280e94CCAC443F9e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xde9e49a0f9569d0ac4f3e0152b705a5acdfc18e3e65d73594b03759f6512f069@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

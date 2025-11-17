@@ -1,0 +1,8 @@
+{
+  "name": "APEcoin",
+  "symbol": "APE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x209c1808feBf6C1AB7C65764bb61AD67D3923Fcc./ipfs/qmptg1esm5fymdhhwybv3kfq8hmbtzeyyzkns417qg6irq/bcd1hj2f67zzftiyzcevsm3ejg6fomlk4pxmh7nn1fhljxmhquz2w6dygkf6l9nznlmuq9janlfjbynxbjygm151dj",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd649aee9497bc8fd670a43889d1d65e6655e63fb9f7013f0d38f1f9a00fb9417@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

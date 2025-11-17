@@ -1,0 +1,8 @@
+{
+  "name": "IGU",
+  "symbol": "IGU",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x201bc9f242f74C47BBD898a5dc99CDCD81a21943.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6f3b5da063c9305003d08d39258da99a4f10d0d86175087a364c284e9ebf4292@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

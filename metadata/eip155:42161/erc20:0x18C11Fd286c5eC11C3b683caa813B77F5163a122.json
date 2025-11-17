@@ -1,0 +1,8 @@
+{
+  "name": "Gains Network",
+  "symbol": "GNS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0x18C11Fd286c5eC11C3b683caa813B77F5163a122.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfb9470a9964596de41ed89cd95af06f21b6f771d7d7c0d3b82d2d6d16da6ecdc@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

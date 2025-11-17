@@ -1,0 +1,8 @@
+{
+  "name": "Posschain",
+  "symbol": "POSS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x230F6e7904ffC156ABD8adfd7556e56E2a358cb1.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbee0e4f038b5bdea7db0d04094c9826841b91c83c9eab688b675d00f38cdf9ef@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

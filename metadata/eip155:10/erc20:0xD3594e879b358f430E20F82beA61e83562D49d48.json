@@ -1,0 +1,8 @@
+{
+  "name": "ParaSwap",
+  "symbol": "PSP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:10/erc20:0xD3594e879b358f430E20F82beA61e83562D49d48.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0b1afd0c0ac52357eaa115b782239a4a5fe08d2a2cd46e90e5de18cffd0511de@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

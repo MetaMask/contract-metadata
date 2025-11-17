@@ -1,0 +1,8 @@
+{
+  "name": "Sharpay",
+  "symbol": "S",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x96b0bF939d9460095C15251f71fdA11E41Dcbddb./ipfs/qmdajwqx6w2nudfeepvoxjhyvtfd282fgsjukjkfucac81/bcd5w1fgbnod5nud8nmcijb9jd1exuf7mehya6bhhdkgcbwdvdyhu6zltkaoej2a1z6rnqujx7jzk5umany268umqv",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xaf72ec497cb79c6669302f6dc33876285274d636ffac81a1018eb47807d7cde6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

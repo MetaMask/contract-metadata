@@ -1,0 +1,8 @@
+{
+  "name": "1INCH yVault",
+  "symbol": "yv1INCH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB8C3b7a2a618C552C23b1e4701109A9E756bab67./ipfs/qmc9p3cj5lich838yyjcqcyhduzpqw9yis2uztyv7x1umd/yv1inch",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc9c71823f71cf3e71c74b29ec054a52ac18022b1c999a93d1a4e867eb0d45082@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

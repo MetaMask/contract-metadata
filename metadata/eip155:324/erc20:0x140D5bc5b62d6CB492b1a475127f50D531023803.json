@@ -1,0 +1,8 @@
+{
+  "name": "Deri",
+  "symbol": "DERI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x140D5bc5b62d6CB492b1a475127f50D531023803.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x110d4492ea19f687685c5c3bed7f4490cf557d8f1babcf09098bd2ccbc54ab68@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Binance Staked SOL",
+  "symbol": "BNSOL",
+  "decimals": 9,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:BNso1VUJnh4zcfpZa6986Ea66P6TCp59hvtNJ8b1X85.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xaf85d9d8557114478e2f36abac5911067b47b5108da21ad9aa290a32b581a7f5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

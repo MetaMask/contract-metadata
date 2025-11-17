@@ -1,0 +1,8 @@
+{
+  "name": "ZKGROK",
+  "symbol": "ZKGROK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x75C568a970e54A075B2a5475264CfCFF672D2b89.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x343ac5a4f8ce8bc17a772f7ccad575ee909de2296dbabe2a9fff46e4557a8ba8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

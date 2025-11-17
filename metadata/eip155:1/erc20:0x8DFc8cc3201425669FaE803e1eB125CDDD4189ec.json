@@ -1,0 +1,8 @@
+{
+  "name": "Okage Inu",
+  "symbol": "OKAGE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x8DFc8cc3201425669FaE803e1eB125CDDD4189ec./ipfs/qmfxfdhyyp9cofggslbhzwd4nmibuarzqur89qcrafsn6t/okage",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x649c9ded8f62d6b0a2cb4b7d1107c171948027fff3d3622b27126afd651fd8b3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

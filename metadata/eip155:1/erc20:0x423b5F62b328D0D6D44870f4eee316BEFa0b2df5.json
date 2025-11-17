@@ -1,0 +1,8 @@
+{
+  "name": "GoNetwork",
+  "symbol": "GOT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x423b5F62b328D0D6D44870f4eee316BEFa0b2df5./ipfs/qmpfnngm3wc74opyzgwinmdzmvyryexuvhqsbuxwfr5wjz/bce1hka1mzca6rrztfmqbheazikql33qqaqus9ptahl8jwpfspunrarvqupcgdn1cj7cnszn5hpkzkrtie9hg2mlce",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf4b146857fbc697edc49102a5b39d53f47d29e40fd2931836e5b485ce24f2b58@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

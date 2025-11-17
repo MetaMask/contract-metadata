@@ -1,0 +1,8 @@
+{
+  "name": "Changer",
+  "symbol": "CNG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x0DC0b8b21c30B2ECB55382d00258004D5Ca8d7da.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x69486b4fc789b5034192abc4872454dfd66a10257c7eef66b944fe1735d29a4e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

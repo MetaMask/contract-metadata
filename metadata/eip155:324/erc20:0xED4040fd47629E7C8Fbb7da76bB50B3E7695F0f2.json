@@ -1,0 +1,8 @@
+{
+  "name": "Holdstation",
+  "symbol": "HOLD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xED4040fd47629E7C8Fbb7da76bB50B3E7695F0f2.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7d62e904c8a8076aeb8b0c32a19c9c08f95e91e7b9ddd4460eebbf8857e23bdf@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Gelato",
+  "symbol": "GEL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:250/erc20:0x15b7c0c907e4C6B9ADaaaabc300C08991D6cEa05.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa740d644b63cf46677c88587ac89de5b01b7ed2243edf1fc585eb393e122a72a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

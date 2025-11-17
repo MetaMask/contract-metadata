@@ -1,0 +1,8 @@
+{
+  "name": "BAI",
+  "symbol": "BAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x2259ba575f7C66CF10D59a1fe2f7BA77C5685770.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb6e684316362166b419ed75d99c1670f12b2628147006086bb1ab70113e57283@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

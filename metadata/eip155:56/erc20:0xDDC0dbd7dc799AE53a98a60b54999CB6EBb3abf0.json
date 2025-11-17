@@ -1,0 +1,8 @@
+{
+  "name": "SafeBlast",
+  "symbol": "BLAST",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xDDC0dbd7dc799AE53a98a60b54999CB6EBb3abf0.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb14d2659e5d51b1badae2b4a7b2359b192a75ca998f7d022945e675aedc4bc0e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "The Official MINE Token",
+  "symbol": "MINE",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x84bb61eb0336B309CCF14cc68bd1888CFa4846ea./ipfs/qmcx2qf4sabzackcckqjbpw4ddy2qz9zhjfbiz1g71n6tb/mine",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1c518393fb643e1e7e3788112a23804d6f11f227500d964465fb11e49b42dc0d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Aeron",
+  "symbol": "ARN",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xBa5F11b16b155792CF3b2e6880e8706859a8aeb6./ipfs/qmzh7dynlshxerx4cs9awv5wjq7vpdfprjvfgvdvrxckem/bcd5xgx5zvez4syp7ptt6n9zfytmhwhqzyahwfsdh8pcpxt8sd5khvwukjytartedkrkg4rkt5clz8fmzap3dljgkx",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8527a22ec874132a2a57b50b3d26282f3db3e9582fdab6a4a1c78969d39d960e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}
