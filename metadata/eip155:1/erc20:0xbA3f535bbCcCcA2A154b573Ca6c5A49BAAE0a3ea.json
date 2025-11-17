@@ -1,0 +1,7 @@
+{
+  "name": "DecentralizedEURO",
+  "symbol": "dEURO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xbA3f535bbCcCcA2A154b573Ca6c5A49BAAE0a3ea.svg"
+}
