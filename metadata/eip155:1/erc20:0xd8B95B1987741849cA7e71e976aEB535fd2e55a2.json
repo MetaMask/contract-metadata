@@ -1,0 +1,9 @@
+{
+  "eip155:1/erc20:0xd8B95B1987741849cA7e71e976aEB535fd2e55a2": {
+    "name": "Backed CSBGC3 CHF Swiss Domestic Government Bond 0-3yr",
+    "symbol": "bCSBGC3",
+    "decimals": 18,
+    "erc20": true,
+    "logo": "./icons/eip155:1/erc20:0xd8B95B1987741849cA7e71e976aEB535fd2e55a2.svg"
+  }
+}
