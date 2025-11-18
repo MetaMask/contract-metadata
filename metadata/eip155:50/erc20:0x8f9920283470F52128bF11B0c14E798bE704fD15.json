@@ -3,5 +3,5 @@
   "symbol": "CGO",
   "decimals": 18,
   "erc20": true,
-  "logo": "./icons/eip155:50/erc20:0x8f9920283470F52128bF11B0c14E798bE704fD15.png"
+  "logo": "./icons/eip155:50/erc20:0x8f9920283470F52128bF11B0c14E798bE704fD15.svg"
 }

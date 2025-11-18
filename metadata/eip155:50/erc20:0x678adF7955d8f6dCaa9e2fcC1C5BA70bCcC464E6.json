@@ -1,7 +1,0 @@
-{
-  "name": "Gama Coin",
-  "symbol": "GAMA",
-  "decimals": 18,
-  "erc20": true,
-  "logo": "./icons/eip155:50/erc20:0x678adF7955d8f6dCaa9e2fcC1C5BA70bCcC464E6.png"
-}
