@@ -1,0 +1,7 @@
+{
+  "name": "Sumerian BTC",
+  "symbol": "suBTC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:143/erc20:0xe85411C030fB32A9D8b14Bbbc6CB19417391F711.png"
+}

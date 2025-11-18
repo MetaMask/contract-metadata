@@ -1,7 +1,7 @@
 {
-  "name": "Agora USD",
+  "name": "AUSD",
   "symbol": "AUSD",
   "decimals": 6,
   "erc20": true,
-  "logo": "./icons/eip155:143/erc20:0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a.png"
+  "logo": "./icons/eip155:143/erc20:0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a.svg"
 }

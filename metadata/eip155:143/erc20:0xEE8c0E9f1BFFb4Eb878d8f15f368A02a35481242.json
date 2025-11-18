@@ -1,5 +1,5 @@
 {
-  "name": "Wrapped ETH",
+  "name": "Wrapped Ether",
   "symbol": "WETH",
   "decimals": 18,
   "erc20": true,
