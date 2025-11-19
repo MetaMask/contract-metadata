@@ -1,3 +1,95 @@
-<svg width="33" height="32" viewBox="0 0 33 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M16.8163 0C12.1959 0 0.816406 11.3792 0.816406 15.9999C0.816406 20.6206 12.1959 32 16.8163 32C21.4367 32 32.8164 20.6204 32.8164 15.9999C32.8164 11.3794 21.4369 0 16.8163 0ZM14.323 25.1492C12.3746 24.6183 7.13621 15.455 7.66723 13.5066C8.19825 11.5581 17.3614 6.31979 19.3097 6.8508C21.2582 7.38173 26.4966 16.5449 25.9656 18.4934C25.4346 20.4418 16.2714 25.6802 14.323 25.1492Z" fill="#836EF9"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   fill="none"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="erc20:0x3bd359C1119dA7Da1D913D1C4D2B7c461115433A.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.1654472"
+     inkscape:cx="95.823163"
+     inkscape:cy="105.05913"
+     inkscape:window-width="1920"
+     inkscape:window-height="1050"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3" />
+  <rect
+     style="fill:#391b97;fill-opacity:1;stroke-width:1.17724"
+     id="rect3"
+     width="256"
+     height="256"
+     x="0"
+     y="0" />
+  <g
+     filter="url(#a)"
+     id="g1">
+    <path
+       d="M128.072 48C104.949 48 48 104.896 48 128C48 151.103 104.949 208 128.072 208C151.195 208 208.146 151.102 208.146 128C208.146 104.897 151.196 48 128.072 48ZM115.595 173.746C105.843 171.091 79.6278 125.274 82.2858 115.533C84.9426 105.79 130.801 79.5988 140.551 82.2536C150.303 84.9088 176.518 130.724 173.861 140.467C171.203 150.209 125.346 176.401 115.595 173.746Z"
+       fill="white"
+       id="path1" />
+  </g>
+  <defs
+     id="defs3">
+    <filter
+       id="a"
+       x="47"
+       y="48"
+       width="162.146"
+       height="162"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood1" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         result="hardAlpha"
+         id="feColorMatrix1" />
+      <feOffset
+         dy="1"
+         id="feOffset1" />
+      <feGaussianBlur
+         stdDeviation="0.5"
+         id="feGaussianBlur1" />
+      <feComposite
+         in2="hardAlpha"
+         operator="out"
+         id="feComposite1" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.125 0"
+         id="feColorMatrix2" />
+      <feBlend
+         mode="normal"
+         in2="BackgroundImageFix"
+         result="b"
+         id="feBlend2" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="b"
+         result="shape"
+         id="feBlend3" />
+    </filter>
+  </defs>
 </svg>
