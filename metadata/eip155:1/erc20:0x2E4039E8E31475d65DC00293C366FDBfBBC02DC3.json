@@ -1,0 +1,7 @@
+{
+"name": "PIKU Utility Token",
+"symbol": "PIKU",
+"decimals": 18,
+"erc20": true,
+"logo": "./icons/eip155:1/erc20:0x2E4039E8E31475d65DC00293C366FDBfBBC02DC3.svg"
+}
