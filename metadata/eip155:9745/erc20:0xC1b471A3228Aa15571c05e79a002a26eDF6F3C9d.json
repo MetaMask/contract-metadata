@@ -1,0 +1,7 @@
+{
+  "name": "Luckycoin",
+  "symbol": "LUK",
+  "decimals": 0,
+  "erc20": true,
+  "logo": "./icons/eip155:9745/erc20:0xC1b471A3228Aa15571c05e79a002a26eDF6F3C9d.png"
+}
