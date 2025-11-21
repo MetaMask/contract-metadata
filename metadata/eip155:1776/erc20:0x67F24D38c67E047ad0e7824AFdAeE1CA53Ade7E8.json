@@ -1,0 +1,7 @@
+{
+  "name": "Cosmos",
+  "symbol": "ATOM",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1776/erc20:0x67F24D38c67E047ad0e7824AFdAeE1CA53Ade7E8.svg"
+}
