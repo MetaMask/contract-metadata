@@ -3,7 +3,7 @@
   "name": "Yourcoin",
   "symbol": "YRC",
   "decimals": 3,
-  "chainId": 137,
+  "erc20": true,
   "logo": "0x05D2310F57e13F8f51198197508BD3ed71A2597b.png"
 }
 { 
