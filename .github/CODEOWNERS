@@ -1,0 +1,6 @@
+# Lines starting with '#' are comments.
+# Each line is a file pattern followed by one or more owners.
+
+* @MetaMask/wallet-framework-engineers @MRabenda @MetaMask/api-platform
+
+/labels/ @MetaMask/api-platform @MetaMask/product-safety @MRabenda

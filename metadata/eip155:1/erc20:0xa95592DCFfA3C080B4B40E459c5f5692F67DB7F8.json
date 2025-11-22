@@ -1,0 +1,7 @@
+{
+  "name": "Elycoin",
+  "symbol": "ELY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xa95592DCFfA3C080B4B40E459c5f5692F67DB7F8.svg"
+}

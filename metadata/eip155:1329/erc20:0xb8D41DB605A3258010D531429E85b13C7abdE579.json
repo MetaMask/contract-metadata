@@ -1,0 +1,7 @@
+{
+  "name": "CHUCKCOIN",
+  "symbol": "CHUCK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0xb8D41DB605A3258010D531429E85b13C7abdE579.png"
+}

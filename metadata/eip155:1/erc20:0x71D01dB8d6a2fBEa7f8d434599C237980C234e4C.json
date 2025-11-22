@@ -1,0 +1,7 @@
+{
+  "name": "Gladius",
+  "symbol": "GLA",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x71D01dB8d6a2fBEa7f8d434599C237980C234e4C.svg"
+}

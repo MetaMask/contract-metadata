@@ -1,0 +1,7 @@
+{
+  "name": "Marlin",
+  "symbol": "POND",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x57B946008913B82E4dF85f501cbAeD910e58D26C.svg"
+}

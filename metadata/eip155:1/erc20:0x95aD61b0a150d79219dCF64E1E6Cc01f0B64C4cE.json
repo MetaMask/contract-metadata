@@ -1,0 +1,7 @@
+{
+  "name": "SHIBA INU",
+  "symbol": "SHIB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE.svg"
+}

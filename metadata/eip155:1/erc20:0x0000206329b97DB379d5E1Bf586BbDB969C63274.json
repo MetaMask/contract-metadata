@@ -1,0 +1,7 @@
+{
+  "name": "USDA",
+  "symbol": "USDA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0000206329b97DB379d5E1Bf586BbDB969C63274.svg"
+}

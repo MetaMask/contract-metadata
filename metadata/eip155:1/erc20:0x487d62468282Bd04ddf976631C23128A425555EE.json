@@ -1,0 +1,7 @@
+{
+  "name": "UPCX",
+  "symbol": "UPC",
+  "decimals": 5,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x487d62468282Bd04ddf976631C23128A425555EE.svg"
+}

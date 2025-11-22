@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped ApeCoin",
+  "symbol": "WAPE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:33139/erc20:0x48b62137EdfA95a428D35C09E44256a739F6B557.svg"
+}

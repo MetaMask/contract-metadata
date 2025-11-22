@@ -1,0 +1,7 @@
+{
+  "name": "Atom",
+  "symbol": "ATOM",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0xaF5fd7Df92B103B40b9Ed8D0d002696a5436E4D8.svg"
+}

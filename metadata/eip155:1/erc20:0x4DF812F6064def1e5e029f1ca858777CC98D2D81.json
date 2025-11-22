@@ -1,0 +1,7 @@
+{
+  "name": "Xaurum",
+  "symbol": "XAUR",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x4DF812F6064def1e5e029f1ca858777CC98D2D81.svg"
+}

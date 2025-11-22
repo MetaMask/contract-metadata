@@ -1,0 +1,7 @@
+{
+  "name": "LITA",
+  "symbol": "LITA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xc105fA46510F32c0444CCdB4e51065da95caA1B4.svg"
+}

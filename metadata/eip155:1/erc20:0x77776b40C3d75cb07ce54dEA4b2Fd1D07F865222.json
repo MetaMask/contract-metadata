@@ -1,0 +1,7 @@
+{
+  "name": "BounceBit USD",
+  "symbol": "BBUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x77776b40C3d75cb07ce54dEA4b2Fd1D07F865222.svg"
+}

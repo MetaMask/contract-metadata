@@ -1,0 +1,7 @@
+{
+  "name": "TCAP Token",
+  "symbol": "TCAP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x16c52CeeCE2ed57dAd87319D91B5e3637d50aFa4.svg"
+}

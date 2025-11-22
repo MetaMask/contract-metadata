@@ -1,0 +1,7 @@
+{
+  "name": "Plume USD",
+  "symbol": "pUSD",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:98866/erc20:0xdddD73F5Df1F0DC31373357beAC77545dC5A6f3F.svg"
+}

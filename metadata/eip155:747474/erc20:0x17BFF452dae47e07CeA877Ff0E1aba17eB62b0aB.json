@@ -1,0 +1,7 @@
+{
+  "name": "Bridge-wrapped SUSHI",
+  "symbol": "SUSHI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:747474/erc20:0x17BFF452dae47e07CeA877Ff0E1aba17eB62b0aB.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "TwoKeyEconomy",
+  "symbol": "2KEY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xE48972fCd82a274411c01834e2f031D4377Fa2c0.svg"
+}

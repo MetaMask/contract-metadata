@@ -1,0 +1,7 @@
+{
+  "name": "Aave KNC",
+  "symbol": "aKNC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x39C6b3e42d6A679d7D776778Fe880BC9487C2EDA.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "World Mobile Token",
+  "symbol": "WMTX",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x3e31966d4f81C72D2a55310A6365A56A4393E98D.svg"
+}

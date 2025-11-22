@@ -1,0 +1,7 @@
+{
+  "name": "PowerLedger",
+  "symbol": "POWR",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x595832F8FC6BF59c85C527fEC3740A1b7a361269.svg"
+}

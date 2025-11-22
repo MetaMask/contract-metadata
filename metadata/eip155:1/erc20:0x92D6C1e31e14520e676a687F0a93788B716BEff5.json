@@ -1,0 +1,7 @@
+{
+  "name": "dYdX",
+  "symbol": "DYDX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x92D6C1e31e14520e676a687F0a93788B716BEff5.svg"
+}

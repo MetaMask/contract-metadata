@@ -1,0 +1,7 @@
+{
+  "name": "Million",
+  "symbol": "MM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x6B4c7A5e3f0B99FCD83e9c089BDDD6c7FCe5c611.svg"
+}

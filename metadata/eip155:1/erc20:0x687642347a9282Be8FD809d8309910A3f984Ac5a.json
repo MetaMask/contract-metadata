@@ -1,0 +1,7 @@
+{
+  "name": "Fulcrum KNC iToken (iKNC)",
+  "symbol": "iKNC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x687642347a9282Be8FD809d8309910A3f984Ac5a.svg"
+}

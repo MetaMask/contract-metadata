@@ -1,0 +1,7 @@
+{
+  "name": "M by M^0",
+  "symbol": "M",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:59144/erc20:0x866a2bf4e572cbcf37d5071a7a58503bfb36be1b.png"
+}

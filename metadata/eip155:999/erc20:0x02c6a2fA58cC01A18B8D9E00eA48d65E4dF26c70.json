@@ -1,0 +1,7 @@
+{
+  "name": "Felix feUSD",
+  "symbol": "FEUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:999/erc20:0x02c6a2fA58cC01A18B8D9E00eA48d65E4dF26c70.png"
+}

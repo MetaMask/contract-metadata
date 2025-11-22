@@ -1,0 +1,7 @@
+{
+  "name": "iExec RLC Token",
+  "symbol": "RLC",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x607F4C5BB672230e8672085532f7e901544a7375.svg"
+}

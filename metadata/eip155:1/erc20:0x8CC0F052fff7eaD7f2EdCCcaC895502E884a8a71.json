@@ -1,0 +1,7 @@
+{
+  "name": "ARTH Valuecoin",
+  "symbol": "ARTH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x8CC0F052fff7eaD7f2EdCCcaC895502E884a8a71.svg"
+}

@@ -89,5 +89,8 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# IDE files
+.idea/
+.vscode/
 
 # End of https://www.gitignore.io/api/osx,node

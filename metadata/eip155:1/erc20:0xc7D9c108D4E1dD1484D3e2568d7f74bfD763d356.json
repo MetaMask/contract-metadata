@@ -1,0 +1,7 @@
+{
+  "name": "SORA Synthetic USD",
+  "symbol": "XSTUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xc7D9c108D4E1dD1484D3e2568d7f74bfD763d356.svg"
+}

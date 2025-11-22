@@ -1,0 +1,7 @@
+{
+  "name": "Linea",
+  "symbol": "LINEA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1789e0043623282D5DCc7F213d703C6D8BAfBB04.png"
+}

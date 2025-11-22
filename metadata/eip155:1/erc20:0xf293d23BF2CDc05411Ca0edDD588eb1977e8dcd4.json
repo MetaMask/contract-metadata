@@ -1,0 +1,7 @@
+{
+  "name": "Sylo",
+  "symbol": "SYLO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xf293d23BF2CDc05411Ca0edDD588eb1977e8dcd4.svg"
+}

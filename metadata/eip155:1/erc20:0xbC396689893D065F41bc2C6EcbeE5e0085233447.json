@@ -1,0 +1,7 @@
+{
+  "name": "Perpetual",
+  "symbol": "PERP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xbC396689893D065F41bc2C6EcbeE5e0085233447.svg"
+}

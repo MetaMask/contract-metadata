@@ -1,0 +1,7 @@
+{
+  "name": "LivenCoin",
+  "symbol": "LVN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xc8Cac7672f4669685817cF332a33Eb249F085475.svg"
+}

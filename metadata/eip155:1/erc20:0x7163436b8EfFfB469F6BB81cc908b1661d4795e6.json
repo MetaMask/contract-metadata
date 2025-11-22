@@ -1,0 +1,7 @@
+{
+  "name": "Esco coin",
+  "symbol": "ESCO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x7163436b8EfFfB469F6BB81cc908b1661d4795e6.svg"
+}

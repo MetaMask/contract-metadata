@@ -1,0 +1,7 @@
+{
+  "name": "Storj",
+  "symbol": "STORJ",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC.svg"
+}

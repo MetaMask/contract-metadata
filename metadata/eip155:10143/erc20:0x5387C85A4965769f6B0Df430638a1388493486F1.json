@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped SOL",
+  "symbol": "SOL",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:10143/erc20:0x5387C85A4965769f6B0Df430638a1388493486F1.png"
+}

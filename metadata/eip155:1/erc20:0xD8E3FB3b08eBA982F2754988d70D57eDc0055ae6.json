@@ -1,0 +1,7 @@
+{
+  "name": "Zoracles",
+  "symbol": "ZORA",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD8E3FB3b08eBA982F2754988d70D57eDc0055ae6.svg"
+}

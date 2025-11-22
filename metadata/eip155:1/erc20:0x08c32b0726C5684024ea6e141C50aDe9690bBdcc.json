@@ -1,0 +1,7 @@
+{
+  "name": "Stratos Token",
+  "symbol": "STOS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x08c32b0726C5684024ea6e141C50aDe9690bBdcc.svg"
+}

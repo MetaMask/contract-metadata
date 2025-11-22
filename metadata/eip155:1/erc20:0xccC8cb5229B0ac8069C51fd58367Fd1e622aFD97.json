@@ -1,0 +1,7 @@
+{
+  "name": "Gods Unchained",
+  "symbol": "GODS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xccC8cb5229B0ac8069C51fd58367Fd1e622aFD97.svg"
+}

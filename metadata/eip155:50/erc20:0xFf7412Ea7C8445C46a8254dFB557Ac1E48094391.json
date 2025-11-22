@@ -1,0 +1,7 @@
+{
+  "name": "Plugin",
+  "symbol": "PLI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:50/erc20:0xFf7412Ea7C8445C46a8254dFB557Ac1E48094391.png"
+}

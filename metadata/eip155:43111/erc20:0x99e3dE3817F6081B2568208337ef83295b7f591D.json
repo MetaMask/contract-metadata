@@ -1,0 +1,7 @@
+{
+  "name": "Hemi",
+  "symbol": "HEMI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43111/erc20:0x99e3dE3817F6081B2568208337ef83295b7f591D.svg"
+}

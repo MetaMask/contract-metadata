@@ -1,0 +1,7 @@
+{
+  "name": "Aave BUSD",
+  "symbol": "aBUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA361718326c15715591c299427c62086F69923D9.svg"
+}

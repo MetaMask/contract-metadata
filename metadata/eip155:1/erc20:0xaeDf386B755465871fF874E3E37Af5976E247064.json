@@ -1,0 +1,7 @@
+{
+  "name": "Fasttoken",
+  "symbol": "FTN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xaeDf386B755465871fF874E3E37Af5976E247064.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Kanpeki",
+  "symbol": "KAE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x65Def5029A0e7591e46B38742bFEdd1Fb7b24436.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Monerium EUR",
+  "symbol": "EURe",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3231Cb76718CDeF2155FC47b5286d82e6eDA273f.svg"
+}

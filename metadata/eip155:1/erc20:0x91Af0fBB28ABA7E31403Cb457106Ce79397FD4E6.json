@@ -1,0 +1,7 @@
+{
+  "name": "Aergo",
+  "symbol": "AERGO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x91Af0fBB28ABA7E31403Cb457106Ce79397FD4E6.svg"
+}

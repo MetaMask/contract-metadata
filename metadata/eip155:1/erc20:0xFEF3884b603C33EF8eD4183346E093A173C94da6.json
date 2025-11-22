@@ -1,0 +1,7 @@
+{
+  "name": "Metamorph",
+  "symbol": "METM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xFEF3884b603C33EF8eD4183346E093A173C94da6.svg"
+}

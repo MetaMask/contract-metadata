@@ -1,0 +1,7 @@
+{
+  "name": "bZx Protocol Token (BZRX)",
+  "symbol": "BZRX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x56d811088235F11C8920698a204A5010a788f4b3.svg"
+}

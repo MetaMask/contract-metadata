@@ -1,0 +1,7 @@
+{
+  "name": "GoldPesa Option",
+  "symbol": "GPO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x4ad7a056191F4c9519fAcd6D75FA94CA26003aCE.svg"
+}

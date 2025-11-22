@@ -1,0 +1,7 @@
+{
+  "name": "ELTCOIN",
+  "symbol": "ELT",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x44197A4c44D6A059297cAf6be4F7e172BD56Caaf.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "IBC Bridged USDT",
+  "symbol": "Kava USDT",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0xB75D0B03c06A926e488e2659DF1A861F860bD3d1.png"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "TempleCoin",
+  "symbol": "TEM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xaE0585a259A3BCAB258D6EE02FB583f7B33C2a12.svg"
+}

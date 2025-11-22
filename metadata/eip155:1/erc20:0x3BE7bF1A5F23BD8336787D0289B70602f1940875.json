@@ -1,0 +1,7 @@
+{
+  "name": "VIDT DAO",
+  "symbol": "VIDT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3BE7bF1A5F23BD8336787D0289B70602f1940875.svg"
+}

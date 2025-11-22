@@ -1,0 +1,7 @@
+{
+  "name": "SKALE",
+  "symbol": "SKL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7.svg"
+}

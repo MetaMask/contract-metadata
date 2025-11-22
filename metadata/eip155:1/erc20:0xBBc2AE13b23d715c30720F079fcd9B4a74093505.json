@@ -1,0 +1,7 @@
+{
+  "name": "Ethernity Chain Token",
+  "symbol": "ERN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xBBc2AE13b23d715c30720F079fcd9B4a74093505.svg"
+}

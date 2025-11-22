@@ -1,0 +1,7 @@
+{
+  "name": "WILSON",
+  "symbol": "WILSON",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x962Aae191622498BcA205c1c1B73E59aC7d295f2.png"
+}

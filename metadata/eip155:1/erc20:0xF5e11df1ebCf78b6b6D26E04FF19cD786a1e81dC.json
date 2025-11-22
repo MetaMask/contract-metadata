@@ -1,0 +1,7 @@
+{
+  "name": "BounceBit BTC",
+  "symbol": "BBTC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF5e11df1ebCf78b6b6D26E04FF19cD786a1e81dC.svg"
+}

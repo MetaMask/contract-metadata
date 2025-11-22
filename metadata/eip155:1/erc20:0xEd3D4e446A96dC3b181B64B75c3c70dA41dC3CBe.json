@@ -1,0 +1,7 @@
+{
+  "name": "Vodra",
+  "symbol": "VDR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xEd3D4e446A96dC3b181B64B75c3c70dA41dC3CBe.svg"
+}

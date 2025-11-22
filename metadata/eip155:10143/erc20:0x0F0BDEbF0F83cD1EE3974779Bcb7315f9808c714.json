@@ -1,0 +1,7 @@
+{
+  "name": "Molandak",
+  "symbol": "DAK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:10143/erc20:0x0F0BDEbF0F83cD1EE3974779Bcb7315f9808c714.png"
+}

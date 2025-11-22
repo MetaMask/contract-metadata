@@ -1,0 +1,7 @@
+{
+  "name": "Reflexer Ungovernance Token",
+  "symbol": "FLX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x6243d8CEA23066d098a15582d81a598b4e8391F4.svg"
+}

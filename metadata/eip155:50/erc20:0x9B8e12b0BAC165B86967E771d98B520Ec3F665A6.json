@@ -1,0 +1,7 @@
+{
+  "name": "PrimeStakedXDC",
+  "symbol": "psXDC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:50/erc20:0x9B8e12b0BAC165B86967E771d98B520Ec3F665A6.png"
+}

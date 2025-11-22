@@ -1,0 +1,7 @@
+{
+  "name": "PLOT",
+  "symbol": "PLOT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x72F020f8f3E8fd9382705723Cd26380f8D0c66Bb.svg"
+}

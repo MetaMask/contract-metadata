@@ -1,0 +1,7 @@
+{
+  "name": "Compound Sai",
+  "symbol": "cSAI",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF5DCe57282A584D2746FaF1593d3121Fcac444dC.svg"
+}

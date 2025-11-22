@@ -1,0 +1,7 @@
+{
+  "name": "DMCCOIN",
+  "symbol": "DMCC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x148255a3b10666D9788Ec48BC61Ea3e48974bf2C.svg"
+}

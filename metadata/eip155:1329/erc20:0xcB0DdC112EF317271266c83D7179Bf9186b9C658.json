@@ -1,0 +1,7 @@
+{
+  "name": "GPT Wars",
+  "symbol": "GPTW",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0xcB0DdC112EF317271266c83D7179Bf9186b9C658.png"
+}

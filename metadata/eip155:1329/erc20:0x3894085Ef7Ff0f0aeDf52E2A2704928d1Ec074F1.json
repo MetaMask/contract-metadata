@@ -1,0 +1,7 @@
+{
+  "name": "Noble USDC",
+  "symbol": "USDCN",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x3894085Ef7Ff0f0aeDf52E2A2704928d1Ec074F1.svg"
+}

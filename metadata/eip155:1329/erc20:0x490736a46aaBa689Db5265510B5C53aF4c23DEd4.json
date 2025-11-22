@@ -1,0 +1,7 @@
+{
+  "name": "Happy Ape",
+  "symbol": "HAPE",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x490736a46aaBa689Db5265510B5C53aF4c23DEd4.png"
+}

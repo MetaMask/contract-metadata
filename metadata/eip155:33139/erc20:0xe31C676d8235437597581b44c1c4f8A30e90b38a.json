@@ -1,0 +1,7 @@
+{
+  "name": "Gains Network",
+  "symbol": "GNS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:33139/erc20:0xe31C676d8235437597581b44c1c4f8A30e90b38a.png"
+}

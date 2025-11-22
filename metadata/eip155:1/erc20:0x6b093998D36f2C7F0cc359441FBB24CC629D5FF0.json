@@ -1,0 +1,7 @@
+{
+  "name": "Fulcrum DAI iToken (iDAI)",
+  "symbol": "iDAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x6b093998D36f2C7F0cc359441FBB24CC629D5FF0.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped BTC (Wormhole from Ethereum)",
+  "symbol": "WBTC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0xe369ddC65Ec947FCB10262AA0E08C3fB9823001a.svg"
+}

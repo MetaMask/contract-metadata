@@ -1,0 +1,7 @@
+{
+  "name": "Winkies",
+  "symbol": "WNK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xbF82115918A88E2120C0f73d99CCd8f95c301B59.svg"
+}

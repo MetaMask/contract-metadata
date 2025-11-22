@@ -1,0 +1,7 @@
+{
+  "name": "xGamma",
+  "symbol": "xGAMMA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x26805021988F1a45dC708B5FB75Fc75F21747D8c.svg"
+}

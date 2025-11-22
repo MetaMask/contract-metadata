@@ -1,0 +1,7 @@
+{
+  "name": "Synth sUSD",
+  "symbol": "SUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x57Ab1ec28D129707052df4dF418D58a2D46d5f51.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Aave WBTC",
+  "symbol": "aWBTC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9ff58f4fFB29fA2266Ab25e75e2A8b3503311656.svg"
+}

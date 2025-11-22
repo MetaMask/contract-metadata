@@ -1,0 +1,7 @@
+{
+  "name": "KOSEI",
+  "symbol": "KOSEI",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x57fBA850EfcA7c72c270A252383767D741C3017F.png"
+}

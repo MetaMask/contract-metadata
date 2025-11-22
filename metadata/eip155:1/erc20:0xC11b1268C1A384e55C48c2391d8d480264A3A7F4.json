@@ -1,0 +1,7 @@
+{
+  "name": "Compound Wrapped BTC",
+  "symbol": "cWBTC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xC11b1268C1A384e55C48c2391d8d480264A3A7F4.svg"
+}

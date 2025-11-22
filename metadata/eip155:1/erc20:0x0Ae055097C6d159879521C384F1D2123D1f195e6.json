@@ -1,0 +1,7 @@
+{
+  "name": "STAKE Token",
+  "symbol": "STAKE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0Ae055097C6d159879521C384F1D2123D1f195e6.svg"
+}

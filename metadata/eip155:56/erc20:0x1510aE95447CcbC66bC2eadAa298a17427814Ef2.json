@@ -1,0 +1,7 @@
+{
+  "name": "Node AI Token",
+  "symbol": "NAIT",
+  "decimals": 5,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x1510aE95447CcbC66bC2eadAa298a17427814Ef2.png"
+}

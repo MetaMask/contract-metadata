@@ -1,0 +1,7 @@
+{
+  "name": "USD Coin (Axelar)",
+  "symbol": "USDC.axl",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0xa855562b0644FaDFd8F04fC3e2eD0B69577EB816.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "InsurAce",
+  "symbol": "INSUR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x544c42fBB96B39B21DF61cf322b5EDC285EE7429.svg"
+}

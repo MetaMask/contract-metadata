@@ -1,0 +1,7 @@
+{
+  "name": "MahaDAO",
+  "symbol": "MAHA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x745407c86DF8DB893011912d3aB28e68B62E49B0.svg"
+}

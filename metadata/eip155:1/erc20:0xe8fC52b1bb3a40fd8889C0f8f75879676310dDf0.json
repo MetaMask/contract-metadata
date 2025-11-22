@@ -1,0 +1,7 @@
+{
+  "name": "ExpandZK Token",
+  "symbol": "XZK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xe8fC52b1bb3a40fd8889C0f8f75879676310dDf0.svg"
+}

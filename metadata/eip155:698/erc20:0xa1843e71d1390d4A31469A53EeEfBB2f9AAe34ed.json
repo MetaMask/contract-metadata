@@ -1,0 +1,7 @@
+{
+  "name": "Staked MAT",
+  "symbol": "stMAT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:698/erc20:0xa1843e71d1390d4A31469A53EeEfBB2f9AAe34ed.svg"
+}

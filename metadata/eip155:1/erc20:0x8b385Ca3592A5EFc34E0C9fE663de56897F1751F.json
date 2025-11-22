@@ -1,0 +1,7 @@
+{
+  "name": "INFibit",
+  "symbol": "IBIT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x8b385Ca3592A5EFc34E0C9fE663de56897F1751F.svg"
+}

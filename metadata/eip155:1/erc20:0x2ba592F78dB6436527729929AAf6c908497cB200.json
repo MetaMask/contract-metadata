@@ -1,0 +1,7 @@
+{
+  "name": "Cream",
+  "symbol": "CREAM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x2ba592F78dB6436527729929AAf6c908497cB200.svg"
+}

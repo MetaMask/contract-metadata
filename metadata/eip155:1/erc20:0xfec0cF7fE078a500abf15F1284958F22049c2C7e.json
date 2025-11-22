@@ -1,0 +1,7 @@
+{
+  "name": "Maecenas ART Token",
+  "symbol": "ART",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xfec0cF7fE078a500abf15F1284958F22049c2C7e.svg"
+}

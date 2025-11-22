@@ -1,0 +1,7 @@
+{
+  "name": "Fulcrum LRC iToken (iLRC)",
+  "symbol": "iLRC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3dA0e01472Dee3746b4D324a65D7EdFaECa9Aa4f.svg"
+}

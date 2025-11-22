@@ -1,0 +1,7 @@
+{
+  "name": "DuckDAO Token",
+  "symbol": "DD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x7d51888C5ABb7CDfa9cdd6A50673c7F8afAccD7F.svg"
+}

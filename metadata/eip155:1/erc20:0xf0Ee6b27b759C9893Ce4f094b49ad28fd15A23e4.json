@@ -1,0 +1,7 @@
+{
+  "name": "Enigma",
+  "symbol": "ENG",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xf0Ee6b27b759C9893Ce4f094b49ad28fd15A23e4.svg"
+}

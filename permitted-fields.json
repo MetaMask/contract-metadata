@@ -1,8 +1,1 @@
-[
-  "name",
-  "logo",
-  "erc20",
-  "erc721",
-  "symbol",
-  "decimals"
-]
+["name", "logo", "erc20", "erc721", "symbol", "decimals", "spl20"]

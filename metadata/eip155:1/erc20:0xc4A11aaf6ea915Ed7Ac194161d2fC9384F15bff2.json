@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped TON",
+  "symbol": "WTON",
+  "decimals": 27,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xc4A11aaf6ea915Ed7Ac194161d2fC9384F15bff2.svg"
+}

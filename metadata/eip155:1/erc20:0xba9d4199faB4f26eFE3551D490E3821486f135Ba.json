@@ -1,0 +1,7 @@
+{
+  "name": "SwissBorg",
+  "symbol": "CHSB",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xba9d4199faB4f26eFE3551D490E3821486f135Ba.svg"
+}

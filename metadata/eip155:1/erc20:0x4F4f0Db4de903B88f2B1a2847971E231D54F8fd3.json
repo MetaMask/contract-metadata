@@ -1,0 +1,7 @@
+{
+  "name": "Geens Platform Token",
+  "symbol": "GEE",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x4F4f0Db4de903B88f2B1a2847971E231D54F8fd3.svg"
+}

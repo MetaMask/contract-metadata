@@ -1,0 +1,7 @@
+{
+  "name": "Mysterium",
+  "symbol": "MYST",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x4Cf89ca06ad997bC732Dc876ed2A7F26a9E7f361.svg"
+}

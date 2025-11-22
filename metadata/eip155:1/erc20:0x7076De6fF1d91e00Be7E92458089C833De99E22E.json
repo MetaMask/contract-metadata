@@ -1,0 +1,7 @@
+{
+  "name": "FLEABONE",
+  "symbol": "BONE",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x7076De6fF1d91e00Be7E92458089C833De99E22E.svg"
+}

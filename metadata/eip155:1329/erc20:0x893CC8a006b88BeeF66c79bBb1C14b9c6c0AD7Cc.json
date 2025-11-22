@@ -1,0 +1,7 @@
+{
+  "name": "UMI",
+  "symbol": "UMI",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x893CC8a006b88BeeF66c79bBb1C14b9c6c0AD7Cc.png"
+}

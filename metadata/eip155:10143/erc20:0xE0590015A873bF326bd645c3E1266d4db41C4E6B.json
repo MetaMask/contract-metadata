@@ -1,0 +1,7 @@
+{
+  "name": "Chog",
+  "symbol": "CHOG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:10143/erc20:0xE0590015A873bF326bd645c3E1266d4db41C4E6B.png"
+}

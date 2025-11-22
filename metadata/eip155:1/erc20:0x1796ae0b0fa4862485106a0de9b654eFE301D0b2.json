@@ -1,0 +1,7 @@
+{
+  "name": "Polychain Monsters",
+  "symbol": "PMON",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1796ae0b0fa4862485106a0de9b654eFE301D0b2.svg"
+}

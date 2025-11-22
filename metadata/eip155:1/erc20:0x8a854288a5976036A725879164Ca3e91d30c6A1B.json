@@ -1,0 +1,7 @@
+{
+  "name": "Guaranteed Entrance Token",
+  "symbol": "GET",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x8a854288a5976036A725879164Ca3e91d30c6A1B.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Basic Attention Token",
+  "symbol": "BAT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0D8775F648430679A709E98d2b0Cb6250d2887EF.svg"
+}

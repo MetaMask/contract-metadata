@@ -1,0 +1,7 @@
+{
+  "name": "MATH Token",
+  "symbol": "MATH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x08d967bb0134F2d07f7cfb6E246680c53927DD30.svg"
+}

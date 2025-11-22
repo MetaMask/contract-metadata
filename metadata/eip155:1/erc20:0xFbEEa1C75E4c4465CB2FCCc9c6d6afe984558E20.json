@@ -1,0 +1,7 @@
+{
+  "name": "DuckDaoDime",
+  "symbol": "DDIM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xFbEEa1C75E4c4465CB2FCCc9c6d6afe984558E20.svg"
+}

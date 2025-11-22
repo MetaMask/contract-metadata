@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped Ether (Wormhole from Arbitrum)",
+  "symbol": "WETHar",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x28417c04dfB49Ec881051B8930d74f8C740Eb688.png"
+}

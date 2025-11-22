@@ -1,0 +1,7 @@
+{
+  "name": "Fulcrum MKR iToken (iMKR)",
+  "symbol": "iMKR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9189c499727f88F8eCC7dC4EEA22c828E6AaC015.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Terrapass Coin",
+  "symbol": "TPSC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x88D8DA2A8D0fA5b1f4E38030AC486aDE0AFA2798.svg"
+}

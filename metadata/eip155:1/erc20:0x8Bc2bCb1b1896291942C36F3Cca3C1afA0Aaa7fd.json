@@ -1,0 +1,7 @@
+{
+  "name": "3SPACE ART",
+  "symbol": "PACE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x8Bc2bCb1b1896291942C36F3Cca3C1afA0Aaa7fd.svg"
+}

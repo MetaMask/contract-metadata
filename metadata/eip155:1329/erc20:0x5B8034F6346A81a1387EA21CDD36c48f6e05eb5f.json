@@ -1,0 +1,7 @@
+{
+  "name": "Vertex",
+  "symbol": "VRTX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x5B8034F6346A81a1387EA21CDD36c48f6e05eb5f.svg"
+}

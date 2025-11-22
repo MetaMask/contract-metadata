@@ -1,0 +1,7 @@
+{
+  "name": "FEVER",
+  "symbol": "FEVER",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x54b79A15b2e2c55c736A66bb0A978fb840407aC8.svg"
+}

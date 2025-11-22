@@ -1,0 +1,7 @@
+{
+  "name": "Ben Coin",
+  "symbol": "BEN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9bf1D7D63dD7a4ce167CF4866388226EEefa702E.svg"
+}

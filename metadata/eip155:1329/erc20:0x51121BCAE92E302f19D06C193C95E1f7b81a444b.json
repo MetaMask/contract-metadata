@@ -1,0 +1,7 @@
+{
+  "name": "YAKA",
+  "symbol": "YAKA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x51121BCAE92E302f19D06C193C95E1f7b81a444b.png"
+}

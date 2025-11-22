@@ -1,0 +1,7 @@
+{
+  "name": "Manifold Finance",
+  "symbol": "FOLD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xd084944d3c05CD115C09d072B9F44bA3E0E45921.svg"
+}

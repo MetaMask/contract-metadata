@@ -1,0 +1,7 @@
+{
+  "name": "UPX Token",
+  "symbol": "UPX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x5f778ec4B31a506c1Dfd8b06F131E9B451a61D39.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Miner AirDrop",
+  "symbol": "MAD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:698/erc20:0xF6D90c6BC676eF3bF40697BC45a4D869BAa20667.svg"
+}

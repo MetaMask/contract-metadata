@@ -1,0 +1,7 @@
+{
+  "name": "dForce USDx",
+  "symbol": "USDx",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xeb269732ab75A6fD61Ea60b06fE994cD32a83549.svg"
+}

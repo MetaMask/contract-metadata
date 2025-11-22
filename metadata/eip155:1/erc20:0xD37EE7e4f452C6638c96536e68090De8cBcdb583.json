@@ -1,0 +1,7 @@
+{
+  "name": "Aave GUSD",
+  "symbol": "aGUSD",
+  "decimals": 2,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD37EE7e4f452C6638c96536e68090De8cBcdb583.svg"
+}

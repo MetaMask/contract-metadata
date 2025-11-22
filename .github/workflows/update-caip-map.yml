@@ -1,0 +1,44 @@
+name: Generate Uniswap Token List and Upload to S3
+
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+permissions:
+  id-token: write
+  contents: read
+
+env:
+  AWS_REGION: us-east-2
+  S3_BUCKET_NAME: static.cx.metamask.io
+  S3_PATH: metamask-uniswap-tokenlist.json
+
+jobs:
+  generate-uniswap-list:
+    runs-on: ubuntu-latest
+    environment: generate-uniswap-list
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '16'
+
+      - name: Generate Uniswap standard token list
+        run: node generate-multichain-uniswap-standard-list.js
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: ${{ vars.S3_ROLE_ARN }}
+          aws-region: ${{ env.AWS_REGION }}
+
+      - name: Upload to S3
+        run: |
+          echo "Uploading tokenlist to S3..."
+          aws s3 cp metamask-uniswap-tokenlist.json s3://${{ env.S3_BUCKET_NAME }}/${{ env.S3_PATH }} --cache-control "max-age=3600"
+          echo "Upload complete"

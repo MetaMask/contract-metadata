@@ -1,0 +1,7 @@
+{
+  "name": "FWB Pro",
+  "symbol": "FWB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x35bD01FC9d6D5D81CA9E055Db88Dc49aa2c699A8.svg"
+}

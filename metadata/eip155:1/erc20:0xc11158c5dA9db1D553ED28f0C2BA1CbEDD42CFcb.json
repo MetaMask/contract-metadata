@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped PAW",
+  "symbol": "wPAW",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xc11158c5dA9db1D553ED28f0C2BA1CbEDD42CFcb.svg"
+}

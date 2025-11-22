@@ -1,0 +1,7 @@
+{
+  "name": "Mass Vehicle Ledger",
+  "symbol": "MVL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA849EaaE994fb86Afa73382e9Bd88c2B6b18Dc71.svg"
+}

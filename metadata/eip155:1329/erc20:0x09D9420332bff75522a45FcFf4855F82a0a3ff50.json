@@ -1,0 +1,7 @@
+{
+  "name": "Dinero",
+  "symbol": "DINERO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x09D9420332bff75522a45FcFf4855F82a0a3ff50.png"
+}

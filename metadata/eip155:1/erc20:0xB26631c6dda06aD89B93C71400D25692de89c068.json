@@ -1,0 +1,7 @@
+{
+  "name": "Minds",
+  "symbol": "MINDS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB26631c6dda06aD89B93C71400D25692de89c068.svg"
+}

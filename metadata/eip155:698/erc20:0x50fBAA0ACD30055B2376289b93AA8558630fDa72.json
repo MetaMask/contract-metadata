@@ -1,0 +1,7 @@
+{
+    "name": "OverMatch",
+    "symbol": "OVM",
+    "decimals": 18,
+    "erc20": true,
+    "logo": "./icons/eip155:698/erc20:0x50fBAA0ACD30055B2376289b93AA8558630fDa72.svg"
+  }

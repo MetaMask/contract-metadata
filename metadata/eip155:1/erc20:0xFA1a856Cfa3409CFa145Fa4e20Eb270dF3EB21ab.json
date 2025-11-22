@@ -1,0 +1,7 @@
+{
+  "name": "IOST",
+  "symbol": "IOST",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xFA1a856Cfa3409CFa145Fa4e20Eb270dF3EB21ab.svg"
+}

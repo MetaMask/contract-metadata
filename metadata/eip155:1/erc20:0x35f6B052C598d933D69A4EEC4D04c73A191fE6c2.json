@@ -1,0 +1,7 @@
+{
+  "name": "Aave SNX",
+  "symbol": "aSNX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x35f6B052C598d933D69A4EEC4D04c73A191fE6c2.svg"
+}

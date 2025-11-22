@@ -1,0 +1,7 @@
+{
+  "name": "USDT0",
+  "symbol": "USDT",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x9151434b16b9763660705744891fA906F660EcC5.png"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "PHPToken",
+  "symbol": "PHPT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x0bD7241fB1F38765917C42E75eB59946fE212634.svg"
+}

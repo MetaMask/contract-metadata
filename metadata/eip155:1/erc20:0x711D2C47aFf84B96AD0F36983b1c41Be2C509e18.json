@@ -1,0 +1,7 @@
+{
+  "name": "NIKITA",
+  "symbol": "NIKITA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x711D2C47aFf84B96AD0F36983b1c41Be2C509e18.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "1INCH Token",
+  "symbol": "1INCH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x111111111117dC0aa78b770fA6A738034120C302.svg"
+}

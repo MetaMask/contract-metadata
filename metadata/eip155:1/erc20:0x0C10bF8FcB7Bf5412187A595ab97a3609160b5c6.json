@@ -1,0 +1,7 @@
+{
+  "name": "USDDOLD (BTTC Bridge)",
+  "symbol": "USDDOLD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0C10bF8FcB7Bf5412187A595ab97a3609160b5c6.svg"
+}

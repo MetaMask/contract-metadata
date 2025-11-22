@@ -1,0 +1,7 @@
+{
+  "name": "LaughingOutLoud",
+  "symbol": "LOL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:698/erc20:0xB2174052dd2F3FCAB9Ba622F2e04FBEA13fc0dFC.svg"
+}

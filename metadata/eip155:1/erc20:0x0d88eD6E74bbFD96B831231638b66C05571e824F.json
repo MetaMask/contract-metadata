@@ -1,0 +1,7 @@
+{
+  "name": "Aventus",
+  "symbol": "AVT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0d88eD6E74bbFD96B831231638b66C05571e824F.svg"
+}

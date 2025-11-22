@@ -1,0 +1,7 @@
+{
+  "name": "Aave USDT",
+  "symbol": "aUSDT",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3Ed3B47Dd13EC9a98b44e6204A523E766B225811.svg"
+}

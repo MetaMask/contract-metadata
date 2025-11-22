@@ -1,0 +1,7 @@
+{
+  "name": "Ether Kingdoms Token",
+  "symbol": "IMP",
+  "decimals": 7,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x48FF53777F747cFB694101222a944dE070c15D36.svg"
+}

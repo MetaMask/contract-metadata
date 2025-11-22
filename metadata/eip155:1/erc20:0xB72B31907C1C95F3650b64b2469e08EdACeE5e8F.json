@@ -1,0 +1,7 @@
+{
+  "name": "bZx Vesting Token (vBZRX)",
+  "symbol": "vBZRX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB72B31907C1C95F3650b64b2469e08EdACeE5e8F.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "AITA",
+  "symbol": "AITA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xa9F94F19abf3089d535B1dE2Cc058A365Ea716c7.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped PLUME",
+  "symbol": "WPLUME",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:98866/erc20:0xEa237441c92CAe6FC17Caaf9a7acB3f953be4bd1.svg"
+}

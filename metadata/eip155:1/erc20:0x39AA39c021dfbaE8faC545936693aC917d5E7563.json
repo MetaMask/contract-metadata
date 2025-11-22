@@ -1,0 +1,7 @@
+{
+  "name": "Compound USD Coin",
+  "symbol": "cUSDC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x39AA39c021dfbaE8faC545936693aC917d5E7563.svg"
+}

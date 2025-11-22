@@ -1,0 +1,7 @@
+{
+  "name": "Fuse Token",
+  "symbol": "FUSE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d.svg"
+}

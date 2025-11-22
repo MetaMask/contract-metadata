@@ -1,0 +1,7 @@
+{
+  "name": "HOLD",
+  "symbol": "HOLD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x4Ff1E3C449a7f4b42d8c6F5fbB89C52B8B47fc65.svg"
+}

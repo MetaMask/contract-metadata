@@ -1,0 +1,7 @@
+{
+  "name": "AirSwap Token",
+  "symbol": "AST",
+  "decimals": 4,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x27054b13b1B798B345b591a4d22e6562d47eA75a.svg"
+}

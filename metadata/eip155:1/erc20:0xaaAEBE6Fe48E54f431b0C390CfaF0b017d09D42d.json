@@ -1,0 +1,7 @@
+{
+  "name": "Celsius",
+  "symbol": "CEL",
+  "decimals": 4,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xaaAEBE6Fe48E54f431b0C390CfaF0b017d09D42d.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Oolong",
+  "symbol": "OOLONG",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x74547390fe40D5cEA666008D44feBe1340E7a3B0.png"
+}

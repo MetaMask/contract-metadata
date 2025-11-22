@@ -1,0 +1,7 @@
+{
+  "name": "Binance Coin",
+  "symbol": "BNB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB8c77482e45F1F44dE1745F52C74426C631bDD52.svg"
+}

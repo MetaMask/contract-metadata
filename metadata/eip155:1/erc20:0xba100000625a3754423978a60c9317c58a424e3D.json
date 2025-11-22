@@ -1,0 +1,7 @@
+{
+  "name": "Balancer (BAL)",
+  "symbol": "BAL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xba100000625a3754423978a60c9317c58a424e3D.svg"
+}

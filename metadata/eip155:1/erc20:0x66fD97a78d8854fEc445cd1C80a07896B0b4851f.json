@@ -1,0 +1,7 @@
+{
+  "name": "Lunch Money",
+  "symbol": "LMY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x66fD97a78d8854fEc445cd1C80a07896B0b4851f.svg"
+}
