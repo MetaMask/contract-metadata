@@ -4295,6 +4295,13 @@
     "symbol": "MEOW",
     "decimals": 9
   },
+  "0xc2A45FE7d40bCAc8369371B08419DDAFd3131b4a": {
+    "name": "Lucidao",
+    "logo": "lcd.svg",
+    "erc20": true,
+    "symbol": "LCD",
+    "decimals": 18
+  },
   "0xd5F7838F5C461fefF7FE49ea5ebaF7728bB0ADfa": {
     "name": "Mantle Staked Ether",
     "logo": "mETH.svg",
