@@ -1,0 +1,7 @@
+{
+  "name": "mu Bond",
+  "symbol": "muBOND",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:143/erc20:0x336D414754967C6682B5A665C7DAF6F1409E63e8.svg"
+}

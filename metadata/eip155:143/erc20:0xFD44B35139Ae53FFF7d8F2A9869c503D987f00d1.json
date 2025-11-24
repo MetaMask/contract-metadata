@@ -1,0 +1,7 @@
+{
+  "name": "LeverUp USD",
+  "symbol": "LVUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:143/erc20:0xFD44B35139Ae53FFF7d8F2A9869c503D987f00d1.svg"
+}
