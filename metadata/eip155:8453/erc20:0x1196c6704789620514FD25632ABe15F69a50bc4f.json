@@ -1,0 +1,8 @@
+{
+  "name": "PEPE Clanker",
+  "symbol": "PEPEC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x1196c6704789620514FD25632ABe15F69a50bc4f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7d8f7f4554c07c73444d726b68b52cb3e9dbe7899d33f753a887d74fb3d134cf@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

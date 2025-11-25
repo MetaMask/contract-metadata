@@ -1,0 +1,8 @@
+{
+  "name": "COTI AI Agents",
+  "symbol": "COAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x9880dc78d805f71FC761ce2dafd384DDBD26cec3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb50adf07e43b1048f78da5eb0222c4599929440373f645173d3f7a2eb5faba91@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

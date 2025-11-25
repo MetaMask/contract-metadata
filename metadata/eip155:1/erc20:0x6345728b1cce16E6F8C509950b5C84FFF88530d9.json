@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Inverse Compound",
+  "symbol": "iCOMP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x6345728b1cce16E6F8C509950b5C84FFF88530d9./ipfs/qmty3jb3drzlpbutrgyvuthkzerbtnje5gctug8hpcyx48/icomp",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7645680801c7b6acd53aea57f80c08bdebbda761218b1597b352678e308d3ead@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

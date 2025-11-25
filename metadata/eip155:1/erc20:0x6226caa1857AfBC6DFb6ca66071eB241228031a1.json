@@ -1,0 +1,8 @@
+{
+  "name": "LinkArt",
+  "symbol": "LAR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x6226caa1857AfBC6DFb6ca66071eB241228031a1./ipfs/qmc4kxwxztrrvbvowpierjnfadmdabd7gkejpec97tthms/lar",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x48d5863dfc02afa60eb889a345030e8ec75b58641f388d4106a27296c11eee84@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

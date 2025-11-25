@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Inverse Cardano",
+  "symbol": "iADA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x8a8079c7149B8A1611E5c5d978dCA3BE16545F83./ipfs/qmqbitofpcdctugevemu3stccbnb8rg7fw9ezwpgxjwh7e/iada",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0e64b3b5138caf53df4380c5b466e91303828aaf22338b1fff64dee8b1a92d9d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

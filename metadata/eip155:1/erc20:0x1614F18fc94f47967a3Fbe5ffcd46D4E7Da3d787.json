@@ -1,0 +1,8 @@
+{
+  "name": "PAID Network",
+  "symbol": "PAID",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1614F18fc94f47967a3Fbe5ffcd46D4E7Da3d787.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2872cd22066dc91c3e1541e392c859e4eb7c12f2443309ce30aa9df43f0fdfc5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

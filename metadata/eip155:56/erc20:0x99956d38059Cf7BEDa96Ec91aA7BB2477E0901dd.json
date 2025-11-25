@@ -1,0 +1,8 @@
+{
+  "name": "DIA",
+  "symbol": "DIA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x99956d38059Cf7BEDa96Ec91aA7BB2477E0901dd.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x55e2d27f5a04bc8cf96a69d158487cdc3d208cfbdc870ab6a801283666d75f6c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

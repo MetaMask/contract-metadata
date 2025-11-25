@@ -1,0 +1,8 @@
+{
+  "name": "FLOW",
+  "symbol": "FLOW",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xC943c5320b9C18C153D1E2d12cc3074BEBFb31a2.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x009b074bcbee11a18f2d6b6c78965045e54aa9e706707b0ca0d3dde40ad22f0b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

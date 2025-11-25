@@ -1,0 +1,8 @@
+{
+  "name": "DOLA",
+  "symbol": "DOLA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xCaF0E44bd7f299F8FECbd4e46cf95f371F94aa84.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7de9ee55b99e0acd26bb2bbcd6187eb0d39916f20b3e077788ae5272c1f92c76@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

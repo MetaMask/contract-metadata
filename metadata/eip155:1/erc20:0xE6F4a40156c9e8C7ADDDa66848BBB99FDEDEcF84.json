@@ -1,0 +1,8 @@
+{
+  "name": "DeTensor",
+  "symbol": "DETENSOR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xE6F4a40156c9e8C7ADDDa66848BBB99FDEDEcF84.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8e3784b77a905e642822e45bbf00733022bb76921a90f48e01c0a92ca12491a7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

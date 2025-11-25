@@ -1,0 +1,8 @@
+{
+  "name": "Yield Guild Games",
+  "symbol": "YGG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xAaC78d1219c08AECC8E37e03858fe885F5EF1799.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6f12df72e09dd5d7bcdb952f5c069283b8c37bc357177899d9dd9d0528b39493@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

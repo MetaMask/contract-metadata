@@ -1,0 +1,8 @@
+{
+  "name": "Simba Cat",
+  "symbol": "SIMBA",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x426EE0a5dc852A88683aE1fc1A1fB526D3F260d9.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1fbdd4a105a888cd305cd1e1b9a0417e880e29abd7e106f6875d33dd92d28d31@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

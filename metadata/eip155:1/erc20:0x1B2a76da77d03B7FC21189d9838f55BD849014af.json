@@ -1,0 +1,8 @@
+{
+  "name": "DeFiScale",
+  "symbol": "DFC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1B2a76da77d03B7FC21189d9838f55BD849014af./ipfs/qms9zy96mznqtzpu69dbvltdiauceqtmw9bivnpwqwztnv/dfc",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5dfddb4e81178bc911572eb230831a4774ed4d5f7e6d22fc3d468c0ef82d6bc9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

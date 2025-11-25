@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Silver Ounce",
+  "symbol": "sXAG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x6a22E5e94388464181578aa7a6B869E00FE27846./ipfs/qme5miivy2rmrzyfyxeu6xmsve5rctgcwmlapwtgrjr5fm/sxag",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc5d47a978a2f7e1d7db15ef856557c0ca2b377b67778a92f9aac5a1af6a63c7e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

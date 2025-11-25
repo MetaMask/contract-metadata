@@ -1,0 +1,8 @@
+{
+  "name": "zkSwap",
+  "symbol": "ZKSP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x7ECF006f7c45149B457E9116392279CC8a630F14.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8ec2e8c32dc999e69fadf99d1b0969d753997db9f6a321cb199fe7f8c8c3297d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

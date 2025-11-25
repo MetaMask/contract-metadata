@@ -1,0 +1,8 @@
+{
+  "name": "MOBOX",
+  "symbol": "MBOX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x3203c9e46cA618C8C1CE5dc67e7e9D75F5Da2377.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x55457399ea7064f1f76e03bac52b7241b5cec2943fb42fcc71e2ffa648dcd3e5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

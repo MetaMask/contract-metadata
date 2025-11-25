@@ -1,0 +1,8 @@
+{
+  "name": "Aurra by Virtuals",
+  "symbol": "AURA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xDCaa5e062b2Be18E52Ea6ed7bA232538621Ddc10.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdd72af579b6f777c37052efe8fa8af7d0960c708555d39d82175f5f37681e374@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

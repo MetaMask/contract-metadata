@@ -1,0 +1,8 @@
+{
+  "name": "Pax Dollar",
+  "symbol": "USDP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x77439055ef240EF84Cbaa8332cfe2823E71Dd07b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x20beee540bc3efdabdf4d9ed6a65ece6d2d9de683c4f9f88a31356a779899acb@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "RealT RMM V3 WXDAI",
+  "symbol": "armmv3WXDAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:100/erc20:0x0Ca4F5554dd9DA6217D62d8df2816C82BBa4157b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5f9939aaf33aaeb831c87bb82869e1146303ef71588f05c90f8d3d85f340096c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

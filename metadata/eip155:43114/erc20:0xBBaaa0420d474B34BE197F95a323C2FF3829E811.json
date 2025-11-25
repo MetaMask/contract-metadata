@@ -1,0 +1,8 @@
+{
+  "name": "LOD3 Token",
+  "symbol": "LOD3",
+  "decimals": 17,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xBBaaa0420d474B34BE197F95a323C2FF3829E811.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfe56990a34a962f3c54ca738c1aeadde5716276183b6e36fe568fb8f014500dc@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

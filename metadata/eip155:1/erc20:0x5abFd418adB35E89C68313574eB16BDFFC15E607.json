@@ -1,0 +1,8 @@
+{
+  "name": "Timvi",
+  "symbol": "TMV",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x5abFd418adB35E89C68313574eB16BDFFC15E607./ipfs/qmzhaz2s1mnhm4miz84yrftycgwdpv2oqvr7glxf1sk1kg/bcd5xyizbwn7cpk7crm1dwu5tz9gyaepmnrej958v5dxbkvj152r4oz9o9awfsax2lxwn3jrx1h6t5daqwsajta8zq",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe7ccf2e34415cc5e290a2e0145e7bb6aa65307c2495f74299a9c56e04df6e127@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "STAKE by Virtuals",
+  "symbol": "STAKE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xA9C8bddcb113068713193d030ABB86C7E8D1F5bb.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc0979122e4b4830e1f6c68b96f3a53a4a95e53f2493e78e057a38c3ba1b8ad02@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

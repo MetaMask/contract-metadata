@@ -1,0 +1,8 @@
+{
+  "name": "X2Y2",
+  "symbol": "X2Y2",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1E4Ede388cBC9f4B5C79681b7f94D36A11abEbc9./ipfs/qmvpcbvasjdwlnxlx2hxkgkgrrfx328ys9bc1ynbxgouez/x2y2",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6e74aa81c2e75a7ac99bb40473a691060f36833d40f92d371effcdfee10ee219@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

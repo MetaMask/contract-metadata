@@ -1,0 +1,8 @@
+{
+  "name": "Flat Money",
+  "symbol": "UNIT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xB95Fb324b8A2fAF8EC4F76e3df46C718402736e2.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xcbbf4945324986aa91004d978d73d1fb160524f5f893529cbf0b777875e90cb8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

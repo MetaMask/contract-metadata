@@ -1,0 +1,8 @@
+{
+  "name": "TRON",
+  "symbol": "TRX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xCE7DE646e7208A4EF112cb6ed5038fA6CC6b12e3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf8bb1cb85002d04cf9bba1a83ef206aed79537628e745297529dfb8f526d82b3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "PlayDapp",
+  "symbol": "PDA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0D3cbed3f69ee050668adF3d9eA57241CBa33a2b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa3cd41beeb54c8c6ff428c1b941e19beda9ae1a580d906f3631d3bd861c90f4e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

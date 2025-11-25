@@ -1,0 +1,8 @@
+{
+  "name": "VeriME",
+  "symbol": "VME",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xC343F099d3e41AA5C1b59470450e21E92E2D840b./ipfs/qmxmc2id324eez4hkuaxc26g4n6vsfdtwvv3wpqdjru4t9/bcdwpbbq47exqmb26wkm7tbtuwazougb5c8qd7yuajgiz2uqdzg4rscz6tdwkk8ugx85ytmstedcfwtg5hnyt7gh4d",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd1b5fbafe54950484d7b804277a02e1fd5e45e87e74567ae0a2d0f31aa8e9f38@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

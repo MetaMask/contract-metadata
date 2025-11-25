@@ -1,0 +1,8 @@
+{
+  "name": "KuCoin Token",
+  "symbol": "KCS",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF34960d9d60Be18CC1D5aFc1a6f012A723a28811./ipfs/qmdrwddev7ca8cv1hschzq8hwaryuvdnodjwkxkdrjkkvk/kcs",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf739b7dce37685495b80f0c2f4d389534e30748e9fdcfb8590670e5fa85ecb1e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

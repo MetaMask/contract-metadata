@@ -1,0 +1,8 @@
+{
+  "name": "MAGA",
+  "symbol": "TRUMP",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x576E2bed8f7B46D34016198911cdf9886F78bea7.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5b2a78dd6e833696f523c7545afecf476437a697cf2b1facebc14da54181906e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

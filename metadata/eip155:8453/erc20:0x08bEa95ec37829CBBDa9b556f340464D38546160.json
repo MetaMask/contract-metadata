@@ -1,0 +1,8 @@
+{
+  "name": "BABY DEGEN",
+  "symbol": "BABYDEGEN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x08bEa95ec37829CBBDa9b556f340464D38546160.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x46aa8a8f22a5e8e73030b0f800491626e8b1cdda5f3481747fa02cf3340bb3db@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

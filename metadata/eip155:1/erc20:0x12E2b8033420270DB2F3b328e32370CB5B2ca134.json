@@ -1,0 +1,8 @@
+{
+  "name": "SafePal",
+  "symbol": "SFP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x12E2b8033420270DB2F3b328e32370CB5B2ca134.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf9cef7112fb5df1d2f9dc8287bcec379125a5ab6fb9aefea08deab1c95aff772@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

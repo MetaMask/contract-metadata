@@ -1,0 +1,8 @@
+{
+  "name": "AI Analysis",
+  "symbol": "AIAT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0501b9188436e35BB10F35998c40ADC079003866.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9eccbae189e16b18cc3ec059bb78a1139c5aa4bcd6264945f6429fdf21c60ed0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

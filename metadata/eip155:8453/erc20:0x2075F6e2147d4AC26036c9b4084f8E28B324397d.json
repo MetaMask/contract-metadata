@@ -1,0 +1,8 @@
+{
+  "name": "BaseCTO",
+  "symbol": "CTO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x2075F6e2147d4AC26036c9b4084f8E28B324397d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4c2c5fb1e4753598b56c07bb2a3994b24a32bc2c2d3e2b2dcbce771cad608a4c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

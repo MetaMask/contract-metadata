@@ -1,0 +1,8 @@
+{
+  "name": "Contents Protocol",
+  "symbol": "CPT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9B62513c8A27290CF6a7a9e29386e600245Ea819./ipfs/qmtvvsvojycxpkjheabp8vxcasjrsvgfszkfkrfraryv2c/bcd8fjps8jmwm1u6pxvfzkvxtvtg2iojvs2n9fcmasp6eyoe3h21evcx4r6hmln4vpw3mizqbv2azgljnjwqk1hfiv",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xaa8ef78afeffaacfd7defe25b1ef5795b8c53b0a3b0e3b58eb6c8b960e632f91@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

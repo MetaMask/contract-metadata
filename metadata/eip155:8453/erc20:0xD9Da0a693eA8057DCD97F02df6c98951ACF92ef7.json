@@ -1,0 +1,8 @@
+{
+  "name": "CPA by Virtuals",
+  "symbol": "CPA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xD9Da0a693eA8057DCD97F02df6c98951ACF92ef7.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x78df1ad9533c513b4e0168ef24581379d39c040b3c3c7a9d9e55212436e78c7f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

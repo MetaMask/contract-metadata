@@ -1,0 +1,8 @@
+{
+  "name": "Jogeco Dog",
+  "symbol": "JOGECO",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x92Fb1b7d9730B2F1BD4E2e91368C1EB6FDD2a009.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xaceed7cd8bfd8e9c7115a75af28e7b603d0efcc8656fc14c1869468c9f498955@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

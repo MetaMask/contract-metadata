@@ -1,0 +1,8 @@
+{
+  "name": "Geko Base",
+  "symbol": "GEKO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x64baa63f3eedf9661F736d8e4d42C6F8Aa0cda71.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa2526c728dad46a31748ae61680ad6542bd9e8ec736324d242eb42de953f084d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

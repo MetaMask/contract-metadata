@@ -1,0 +1,8 @@
+{
+  "name": "Neutra Finance",
+  "symbol": "NEU",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0x6609be1547166D1C4605F3a243fdCfF467E600c3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc5ba092f206b6866e30c10f1f1babb5f8c9a5232113a0c1de85261f459c0209c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

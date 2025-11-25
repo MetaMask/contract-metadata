@@ -1,0 +1,8 @@
+{
+  "name": "HyperQuant",
+  "symbol": "HQT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3E1D5a855Ad9D948373aE68e4fe1f094612b1322./ipfs/qmxfv35mcryo4rydz8k1ywswzaaor7flasaizthxcfmirq/bcd1kpsczheteyhlujhk7kmsncjmzpchrnnuvovk5ssu7sqtw8gpugrakxxrhzsppdgvx7ady3cqupksusyzvpo7kg",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x45c6584d49127acb9008ef4cd267dc55cc6adb0b83115b72d155ab4578d271e9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}
