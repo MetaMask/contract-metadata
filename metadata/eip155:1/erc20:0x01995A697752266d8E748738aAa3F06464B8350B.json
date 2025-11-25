@@ -1,0 +1,7 @@
+{
+  "name": "CANA Holdings California Carbon Credits",
+  "symbol": "CANA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x01995A697752266d8E748738aAa3F06464B8350B.svg"
+}
