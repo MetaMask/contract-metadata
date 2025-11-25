@@ -3,5 +3,5 @@
     "decimals": 18,
     "symbol": "IRYS",
     "erc20": true,
-    "logo": "./icons/eip:155:56/erc20:0x91152B4Ef635403efBAe860edD0F8c321d7c035d.svg"
+    "logo": "./icons/eip155:56/erc20:0x91152B4Ef635403efBAe860edD0F8c321d7c035d.svg"
 }
