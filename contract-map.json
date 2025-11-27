@@ -3876,6 +3876,14 @@
     "symbol": "SPWN",
     "decimals": 18
   },
+    "0xf6aba0d60a55e77a8924e75382a45802acafc09f": {
+    "name": "Tres Leches Cake",
+    "logo": "3Leches.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "3Leches",
+    "decimals": 9
+  },
   "0xB16e967ff83DE3F1e9FCeAfbc2C28c1c5c56eF91": {
     "name": "Polkadog",
     "logo": "polkadog.svg",
