@@ -2,5 +2,6 @@
   "name": "USD University",
   "symbol": "USDU",
   "decimals": 6,
-  "logoURI": "https://raw.githubusercontent.com/amirjavidian1363-blip/usdu-assets/main/logo.png"
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x94a5642190d0f07f6510a0364bae417cf6e625f1.png"
 }
