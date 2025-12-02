@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped OKB",
+  "symbol": "WOKB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:196/erc20:0xe538905cf8410324e03A5A23C1c177a474D59b2b.png"
+}
