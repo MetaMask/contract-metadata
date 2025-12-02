@@ -1,7 +1,0 @@
-{
-  "name": "Wrapped SOMI",
-  "symbol": "WSOMI",
-  "decimals": 18,
-  "erc20": true,
-  "logo": "./icons/eip155:5031/erc20:0x046EDe9564A72571df6F5e44d0405360c0f4dCab.svg"
-}
