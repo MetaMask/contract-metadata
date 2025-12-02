@@ -1,5 +1,5 @@
 {
-  "name": "USD Coin (PoS)",
+  "name": "USDC",
   "symbol": "USDC.e",
   "decimals": 6,
   "erc20": true,
