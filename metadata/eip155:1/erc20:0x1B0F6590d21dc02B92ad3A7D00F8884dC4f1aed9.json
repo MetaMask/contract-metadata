@@ -1,0 +1,9 @@
+{
+  "name": "Somnia",
+  "symbol": "SOMI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1B0F6590d21dc02B92ad3A7D00F8884dC4f1aed9.svg"
+}
+
+
