@@ -1,0 +1,7 @@
+{
+  "name": "DragonSwap",
+  "symbol": "DRG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x0a526e425809aEA71eb279d24ae22Dee6C92A4Fe.png"
+}
