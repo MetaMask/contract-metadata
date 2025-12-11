@@ -1,0 +1,7 @@
+{
+  "name": "Archer Hunter",
+  "symbol": "FASTER",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0xa193D87B0D5E23ef45379F90066891CbD6013226.png"
+}

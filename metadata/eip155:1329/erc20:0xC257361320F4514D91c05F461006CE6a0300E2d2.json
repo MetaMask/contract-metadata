@@ -1,0 +1,7 @@
+{
+  "name": "Splashing Staked SEI",
+  "symbol": "SPSEI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0xC257361320F4514D91c05F461006CE6a0300E2d2.png"
+}
