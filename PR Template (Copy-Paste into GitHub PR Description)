@@ -1,36 +1,37 @@
-## Summary
-Add metadata for IRANcoin Global Reserve (IRCOIN) contract on Base chain.
-
-### Contract Details
 {
-  "address": "0x49BA5D9A00115D494a01fb938EBd94BD919AA445",
-  "chainId": 8453,
   "name": "IRANcoin Global Reserve",
-  "symbol": "IRCOIN",
-  "decimals": 18,
-  "logoURI": "https://i.ibb.co/353MDWVg/IRANcoin-LLC-256x256xtrustwallet.png",
-  "extensions": {
+  "description": "IRANcoin Global Reserve (IRCOIN) is a decentralized cryptocurrency launched on May 18, 2025, on the Base blockchain. It supports ERC-20, ERC-721, and ERC-1155 standards and aims to create a stable, programmable global payment ecosystem using a basket of fiat-pegged stablecoins algorithmically stabilized by IRCOIN as the reserve currency. Our mission is to promote financial fairness, accessibility, and innovation, particularly originating from Iran's economic and technological landscape. Total and circulating supply: ~720 sextillion IRCOIN tokens. Traded on Uniswap V3 with early-stage low liquidity. Over 200 holders.",
+  "erc20": {
+    "symbol": "IRCOIN",
+    "decimals": 18
+  },
+  "logo": "https://i.ibb.co/353MDWVg/IRANcoin-LLC-256x256xtrustwallet.png",
+  "links": {
     "website": "https://sites.google.com/view/irancoinglobalreserve/home",
     "twitter": "https://x.com/IRANcoinGlobal",
-    "github": "https://github.com/xlogan1987/IRANcoin-Global-Reserve"
-  }
+    "github": "https://github.com/xlogan1987/IRANcoin-Global-Reserve",
+    "youtube": "https://www.youtube.com/watch?v=smoazBykgiM",
+    "medium": "https://medium.com/@xlogan1987/irancoin-global-reserve-ircoin-launches-to-reshape-global-digital-payments-a547e71194d2",
+    "substack": "https://ircoin.substack.com/p/88e278d1-6bf0-413f-bdef-74d5c35aebb9",
+    "icoholder": "https://icoholder.com/en/irancoin-global-reserve-1101693",
+    "foundico": "https://foundico.com/ico/irancoin-global-reserve.html",
+    "nft_polygon": "https://polygonscan.com/token/0xb1ee16d0e009add14428a32488b73ed1ea8463c5",
+    "audit": "https://www.cyberscope.io/embed/cyberscan?network=BASE&address=0x49ba5d9a00115d494a01fb938ebd94bd919aa445",
+    "mexc_news": "https://www.mexc.com/news/irancoin-global-reserve-ircoin-launches-to-reshape-global-digital-payments/140208",
+    "oklink": "https://www.oklink.com/base/token/0x49ba5d9a00115d494a01fb938ebd94bd919aa445",
+    "bitget": "https://www.bitget.com/on-chain/base/0x49ba5d9a00115d494a01fb938ebd94bd919aa445",
+    "coincodex": "https://coincodex.com/crypto/irancoin-global-reserve/",
+    "livecoinwatch": "https://www.livecoinwatch.com/price/IRANcoinGlobalReserve-IRCOIN",
+    "coinranking": "https://coinranking.com/coin/Sttq5gLYw+irancoinglobalreserve-ircoin",
+    "coinsniper": "https://coinsniper.net/coin/84365",
+    "instagram": "https://www.instagram.com/p/DQMbPGfjD9c/",
+    "facebook": "https://www.facebook.com/groups/847321632055436/posts/24727998473561084/"
+  },
+  "tags": [
+    "payments",
+    "stablecoin-reserve",
+    "decentralized-finance",
+    "iran-origin",
+    "erc20"
+  ]
 }
-
-### Token Description
-IRANcoin Global Reserve (IRCOIN) is an Iranian-origin decentralized token on Base, launched May 18, 2025. Supports ERC-20/721/1155 for a global payment network with algorithmic stablecoins backed by IRCOIN reserves. Focus: financial fairness, ~720 sextillion supply, 200+ holders, early-stage DEX trading (Uniswap V3).
-
-### Proof of Legitimacy
-- Verified on Blockscout (green tick + logo): https://base.blockscout.com/token/0x49BA5D9A00115D494a01FB938EBd94BD919AA445
-- Routescan (logo verified): https://routescan.io/token/0x49BA5D9A00115D494a01fb938EBd94BD919AA445?chainid=8453
-- Other Explorers: Arkham (https://intel.arkm.com/explorer/address/0x49BA5D9A00115D494a01fb938EBd94BD919AA445), DexGuru (https://base.dex.guru/token/0x49ba5d9a00115d494a01fb938ebd94bd919aa445)
-
-### Resources
-- Analyses: https://medium.com/@xlogan1987/emerging-powerhouse-irancoin-global-reserve-ircoin-a-comparative-analysis-against-peer-efb460ddb33a | https://ircoin.substack.com/p/88e278d1-6bf0-413f-bdef-74d5c35aebb9
-- Listings: ICOHolder (https://icoholder.com/en/irancoin-global-reserve-1101693), FoundICO (https://foundico.com/ico/irancoin-global-reserve.html), OKLink (https://www.oklink.com/base/token/0x49ba5d9a00115d494a01fb938ebd94bd919aa445), Bitget, MEXC (https://www.mexc.com/news/irancoin-global-reserve-ircoin-launches-to-reshape-global-digital-payments/140208)
-- Community: Instagram (https://www.instagram.com/p/DQMbPGfjD9c/), Facebook (https://www.facebook.com/groups/847321632055436/posts/24727998473561084/)
-- Audit: https://www.cyberscope.io/embed/cyberscan?network=BASE&address=0x49ba5d9a00115d494a01fb938ebd94bd919aa445
-- NFT: https://polygonscan.com/token/0xb1ee16d0e009add14428a32488b73ed1ea8463c5
-
-Enhances MetaMask's Base support. Thanks for reviewing!
-
-#meta-mask/eth-contract-metadata
