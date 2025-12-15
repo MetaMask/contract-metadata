@@ -1,0 +1,7 @@
+{
+  "name": "Yei Finance",
+  "symbol": "CLO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x81D3A238b02827F62B9f390f947D36d4A5bf89D2.png"
+}

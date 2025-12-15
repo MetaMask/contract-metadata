@@ -1,0 +1,7 @@
+{
+  "name": "Kura Liquid Staking Token",
+  "symbol": "K33",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x8A200a13c1321fdc7F6c7AFba1494E1949426eFD.png"
+}

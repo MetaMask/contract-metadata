@@ -1,0 +1,7 @@
+{
+  "name": "Fiamma BTC",
+  "symbol": "FIABTC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x60C230c38aF6d86b0277a98a1CAeAA345a7B061F.svg"
+}
