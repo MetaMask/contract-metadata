@@ -1,0 +1,7 @@
+{
+  "name": "aarna afi 802v2",
+  "symbol": "afi 802v2",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:001/erc20:0xB68E430c56Ed9E548E864a68A60F9d41f993b32c.svg"
+}
