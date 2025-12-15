@@ -1,0 +1,8 @@
+{
+  "name": "ZKPEPE",
+  "symbol": "ZKPEPE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x7D54a311d56957FA3C9a3e397cA9DC6061113ab3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8a3b323cb668bd6b377bca908e69f98802b991ea4be1a84a635f6a1901e0a5bb@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

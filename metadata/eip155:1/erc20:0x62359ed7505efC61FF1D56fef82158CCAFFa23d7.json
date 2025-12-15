@@ -1,0 +1,8 @@
+{
+  "name": "cVault.finance",
+  "symbol": "CORE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x62359ed7505efC61FF1D56fef82158CCAFFa23d7./ipfs/qmr7sjddbjuxixkqkixeecbsjnzce3hjyqwwej3s3tcubz/bcd4o2csknyujnlk6leiykygvcs5ffwuxppuqyidnav8thyxxg3zs15yvuo7ksbm77r5g1tvubh81k1ft2aquol7za",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x74bad81152b127968e28778f67a3b1b47f5f9d9624176a76b3d1442ff14b71be@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

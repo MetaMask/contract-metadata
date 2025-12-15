@@ -1,0 +1,8 @@
+{
+  "name": "Hydranet",
+  "symbol": "HDN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0x3404149e9ee6f17FB41Db1ce593ee48FBDCD9506.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x218a1422c3f1e6ba6c8ab43db73486a8f8b300234ab31237f898dc66f0383948@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

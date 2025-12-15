@@ -1,0 +1,8 @@
+{
+  "name": "SURF Finance",
+  "symbol": "SURF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xEa319e87cf06203DAE107dd8e5672175E3EE976c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc300f272653cd1634deec823a0e7e2847602cc735af24c16ff4d9b29d830db02@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

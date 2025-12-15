@@ -1,0 +1,8 @@
+{
+  "name": "Super Meme Fighter",
+  "symbol": "SMF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x88C3b9d2dbe8eAB571D38F57f7f69C581E3427c6.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd5d60f511593718738f3167db657587a3c7a49d4759dd6d93a939e09b5bbaf9e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

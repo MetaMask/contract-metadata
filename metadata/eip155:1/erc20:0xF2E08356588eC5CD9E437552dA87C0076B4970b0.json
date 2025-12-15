@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic TRON",
+  "symbol": "sTRX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF2E08356588eC5CD9E437552dA87C0076B4970b0./ipfs/qmen4q7fpxleexhmjfpjwbd9hqamzaessmrnzk912bmpbh/strx",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x34e7076c0d14ca7fef3a576ce8cd9e4e853cb1251dd91a09ef03e42de408ffac@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "DXAI.app by Virtuals",
+  "symbol": "DXAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x3E99E0890efd6C15A295Edbcce82D63224FD6F60.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x215f26a29906795ea59bdaf00cfa14062817d15d7e2e0d3799a83e2b09c90283@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

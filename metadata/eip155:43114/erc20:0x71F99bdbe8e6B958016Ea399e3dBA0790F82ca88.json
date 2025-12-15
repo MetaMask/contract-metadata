@@ -1,0 +1,8 @@
+{
+  "name": "AB Group",
+  "symbol": "ABG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x71F99bdbe8e6B958016Ea399e3dBA0790F82ca88.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xead3d48bef1de3cf95d696075f0248a339041c2a07fd346cd62b5f0f4ae44b70@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

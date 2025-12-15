@@ -1,0 +1,8 @@
+{
+  "name": "Koi",
+  "symbol": "KOI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xA995ad25ce5eB76972ab356168f5e1D9257E4d05.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1597c382130bf175e2e0398a32166adfb41f2616be933732d5c1d26ba8534454@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

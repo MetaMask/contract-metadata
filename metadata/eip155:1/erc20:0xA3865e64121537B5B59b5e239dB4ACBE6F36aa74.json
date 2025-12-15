@@ -1,0 +1,8 @@
+{
+  "name": "Wrapped Tezos",
+  "symbol": "WXTZ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA3865e64121537B5B59b5e239dB4ACBE6F36aa74./ipfs/qmyypxfrjaeifrengjc6w45ne2qqypjbtvsttg4vlu7tuh/wxtz",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2860c36e59ab1f7dffdecdcbb0b7b0003665219a3b291a1b6fafd2b5e8adc415@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

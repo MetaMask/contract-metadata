@@ -1,0 +1,8 @@
+{
+  "name": "Maverick Protocol",
+  "symbol": "MAV",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xD691d9a68c887BDF34Da8c36f63487333aCFd103.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x85ebb041f0d1abb9ba43869e28da7a5fc79b71b0986d763642d7767dc73bfe55@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

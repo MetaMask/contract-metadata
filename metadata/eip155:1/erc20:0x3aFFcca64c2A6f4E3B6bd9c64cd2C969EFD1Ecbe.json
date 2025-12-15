@@ -1,0 +1,8 @@
+{
+  "name": "DSLA Protocol",
+  "symbol": "DSLA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3aFFcca64c2A6f4E3B6bd9c64cd2C969EFD1Ecbe./ipfs/qmnnkghvexc7yxkd7o7raa4oq4tgqhrwzp7fxq8w6vdrtv/bcd3q4qq6tljpr48hoxrzmvqevbqiorrswpyrhfmkcmlfuejktl4xpi88k4rkqy21fgcocjr2rxiz81crvzlfggdzg",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x746c6c806744a7157c757491dd9b0a8cb2694d81b9ce7e200ef07e7cfa775dc5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

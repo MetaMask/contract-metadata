@@ -1,0 +1,8 @@
+{
+  "name": "KALM",
+  "symbol": "KALM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x62acEea3e666C5706CE1c61055fAC1A669D31d93.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x46201daf67518fd44ff21364f0b42265832583df2806519b9072e7a8ca58b9ec@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "imbrex",
+  "symbol": "REX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF05a9382a4c3f29E2784502754293D88B835109c./ipfs/qmwydzxprg13ndzf3gq4bismmefnxtjozknkapvdipzdcs/bcczazpdyhf4dyz2r9eur9fcgd1awahdypcfyhpwiwusvxkujffzyxcyar9h7brl1ztibhmnoubqdgx1opdfwbhp5k",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xce8859be302c4498a2d70e7368615535fd661ee4a70f172ec698c8af236ff3de@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

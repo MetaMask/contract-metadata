@@ -1,0 +1,8 @@
+{
+  "name": "Stacker Ventures",
+  "symbol": "STACK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xE0955F26515d22E347b17669993fCEFCC73c3a0a./ipfs/qmd1scf9teefdphratgjnhpggplfgtrm9mina8b2avzbjl/stack",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8b02eb4053d0b98b64ffbab7f81859bf1e02c97c048ba28ee1ecc099e43de87b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

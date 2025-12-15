@@ -1,0 +1,8 @@
+{
+  "name": "Podflow AI by Virtuals",
+  "symbol": "POD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x8E3bFF1abf376f7A5D036cc3d85766394744dd04.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf222bcaa43a78468aa28e7029d9507659819f59888ee8b9db664ca6d0f43965f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

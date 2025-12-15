@@ -1,0 +1,8 @@
+{
+  "name": "Neos Metaverse Credits",
+  "symbol": "NCR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xDB5c3c46e28B53A39C255aa39A411DD64E5FEd9c./ipfs/qmdmp9wntvbcwgwxerjchaldiqemgh13nrfpggz9xaa13w/ncr",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa4ac8571c6d9f724cd8181b6a99f970598e3a140f252d3c6b741b1b46c0eec35@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

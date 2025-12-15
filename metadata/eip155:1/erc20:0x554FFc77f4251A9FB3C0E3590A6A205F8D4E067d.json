@@ -1,0 +1,8 @@
+{
+  "name": "ZMINE",
+  "symbol": "ZMN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x554FFc77f4251A9FB3C0E3590A6A205F8D4E067d./ipfs/qmdgm9fvx5cgkd7nxcsrpq7nqyleapzesc7p4sfdzn4ys8/bcd2glkbus6byjkbkwpo3f5rw2dzqkuqhncugflcawe4xn7ep1wnnclodtig2e3ogfzzj7tru82emaclngqp2wcp4r",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd86016e28c1625996ee44388b1d6f79bd183c829961896438ebf878b9b2b67dd@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

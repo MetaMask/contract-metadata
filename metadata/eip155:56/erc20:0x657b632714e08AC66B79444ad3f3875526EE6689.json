@@ -1,0 +1,8 @@
+{
+  "name": "Ftribe Fighters Coin",
+  "symbol": "F2C",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x657b632714e08AC66B79444ad3f3875526EE6689.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x748eaa3d5f2131590f0e3e1249bfc365a748ca7db4b3d02e590df704cd4df2b6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

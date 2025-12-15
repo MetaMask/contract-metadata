@@ -1,0 +1,8 @@
+{
+  "name": "CashCow",
+  "symbol": "COW",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x8B6Fa031c7d2e60FBFE4E663ec1B8f37DF1ba483.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf897018e50a6b07332cb66f15cb7ca3c717b9a197507e22c392f8cb141137999@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

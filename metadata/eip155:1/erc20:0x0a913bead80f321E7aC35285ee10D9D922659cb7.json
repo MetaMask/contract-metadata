@@ -1,0 +1,8 @@
+{
+  "name": "DOS Network",
+  "symbol": "DOS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0a913bead80f321E7aC35285ee10D9D922659cb7./ipfs/qmrvywaunazrib4ywvymsnxktbtcuehdcyutqwhtd3fuca/bccz8ua9kzxbgrp7zxazegljufrr9rgnvebms2mxcftggqp4v8u6afes8jgaxgzkakkfxty8pnygm7cueuznhfzjwa",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7cb8cc1d169140a583d0b3b2cc5809c05d5459da98066c830ca9b9a45c071c05@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

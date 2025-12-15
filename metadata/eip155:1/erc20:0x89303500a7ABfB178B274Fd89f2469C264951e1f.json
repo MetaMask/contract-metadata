@@ -1,0 +1,8 @@
+{
+  "name": "RefToken",
+  "symbol": "REF",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x89303500a7ABfB178B274Fd89f2469C264951e1f./ipfs/qmpnkmztet5z68lne11cyz1zvbknarvquqt6jkkrhfwxpr/bcdxwm2ecsggtcxwfxer8ixbuisp6oauk9rxdnihmng2xfkywdngc7vgknw76fg5ianriyhbxtwcbdqsdfcnue14v4",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2542cccbc2cbd54f5f59fd3c9f9d50aa4fa7766aa39aaa7482907f1574470237@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

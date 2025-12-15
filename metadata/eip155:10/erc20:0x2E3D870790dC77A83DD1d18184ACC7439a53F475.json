@@ -1,0 +1,8 @@
+{
+  "name": "Frax",
+  "symbol": "FRAX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:10/erc20:0x2E3D870790dC77A83DD1d18184ACC7439a53F475.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8f4e963ae5d5e76fd799152d2ef6b5e85ec5e5e5ea8411f34a5dead1f76fee40@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

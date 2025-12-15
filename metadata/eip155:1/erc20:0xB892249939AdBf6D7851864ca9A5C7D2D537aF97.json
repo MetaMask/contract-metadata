@@ -1,0 +1,8 @@
+{
+  "name": "Gambler Shiba",
+  "symbol": "GSHIBA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB892249939AdBf6D7851864ca9A5C7D2D537aF97./ipfs/qmvqttaizojl3dqt6pravb9ckdixyaremdnogef7sn9l9o/gshiba",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5c8dc548d69d988e09e2626d062cbb139c700f21cf610d3660f568f9f40eaceb@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

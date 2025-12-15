@@ -1,0 +1,8 @@
+{
+  "name": "boots",
+  "symbol": "boots",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x1D69c205416C683E3D0EFc93b76A78EE7755945c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x64903c3796a6ae933f462349df82ce1eaad6471e7f1221156f417a8b3255a683@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

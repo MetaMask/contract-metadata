@@ -1,0 +1,8 @@
+{
+  "name": "Metis",
+  "symbol": "METIS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9E32b13ce7f2e80A01932b42553652E053D6Ed8e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe2e651d3268b8ed6d14cf5a251789b998693ed2b67eaa3f2a10dea195a5a1232@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

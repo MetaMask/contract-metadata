@@ -1,0 +1,8 @@
+{
+  "name": "DegenAI by Virtuals",
+  "symbol": "DGENAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x54EaF6bb665565BB8897F9d7ad5B3818DED143b4.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd49be775225da220a873650e2c566a2ae08da8602654075a6d25c10ca3a67402@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

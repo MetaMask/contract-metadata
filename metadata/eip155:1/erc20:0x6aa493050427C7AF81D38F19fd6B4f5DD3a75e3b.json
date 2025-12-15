@@ -1,0 +1,8 @@
+{
+  "name": "GoldenDog",
+  "symbol": "GDOG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x6aa493050427C7AF81D38F19fd6B4f5DD3a75e3b./ipfs/qma3yxwxddbx9qbg5fu2uhptubvyohxyxcogvvwjlywdcs/gdog",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0f02914888597985f6f7d40a0eb6df23624f540348e2b13c362eed7c7285fe00@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Bloomberg Galaxy Crypto Index",
+  "symbol": "BGCI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x23418de10d422AD71C9D5713a2B8991A9C586443.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb40366803780c545100b056ca65937f910e400258bf1bb5e9da65024cf76d13e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

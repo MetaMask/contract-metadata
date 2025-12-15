@@ -1,0 +1,8 @@
+{
+  "name": "AVA by Virtuals",
+  "symbol": "AVA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x80Ca9edce4583B8043351a1046f18244B24EF869.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2a064cd03a5923d494786a783fd72925570b0ae57191bbd9df7b9aad475d5532@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

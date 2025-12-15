@@ -1,0 +1,8 @@
+{
+  "name": "PaintSwap",
+  "symbol": "BRUSH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:250/erc20:0x85DEc8c4b2680793661bca91a8f129607571863d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x986eef3428a60bf4a5b73c96af261e36f783f1db4281eaa2053e106f9d74e030@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

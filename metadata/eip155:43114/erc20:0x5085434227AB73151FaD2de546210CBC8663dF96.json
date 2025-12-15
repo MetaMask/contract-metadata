@@ -1,0 +1,8 @@
+{
+  "name": "MetaDerby",
+  "symbol": "DBY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x5085434227AB73151FaD2de546210CBC8663dF96.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x55b208b7c4c583ffa9712562bde16eef8c96f12715ba56f399a782fd6eb4cfc6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

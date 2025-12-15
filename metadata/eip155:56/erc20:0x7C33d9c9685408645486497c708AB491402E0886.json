@@ -1,0 +1,8 @@
+{
+  "name": "Betero",
+  "symbol": "BTE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x7C33d9c9685408645486497c708AB491402E0886.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc24d57498d4bb8d2572d9888df3f553135202e595e9d1b2fe7e142f16c0a23f3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

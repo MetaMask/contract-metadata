@@ -1,0 +1,8 @@
+{
+  "name": "Tokenlon Network",
+  "symbol": "LON",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0000000000095413AFC295d19edeB1AD7B71c952.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x59731d64ade3924a6218744208112e43499958543cb2ad7870bb755bd353878f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

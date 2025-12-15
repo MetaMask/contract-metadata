@@ -1,0 +1,8 @@
+{
+  "name": "Cream Swag",
+  "symbol": "crSWAG",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x22b243b96495C547598D9042b6f94B01C22b2e9e./ipfs/qmsbab4dqya3jnnptqz8yg7qbo1fnyvz9t7tconudlsux9/crswag",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9eaa194596b195f4df69594807cc293e2af9bc174fb25e1f82045f5ec92faa43@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}
