@@ -1,0 +1,7 @@
+{
+  "name": "USDSM",
+  "symbol": "USDSM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42793/erc20:0x6bDE51212203aE5d592Cc5180DA2ABBd41c922dE.png"
+}
