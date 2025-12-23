@@ -29,27 +29,28 @@ Trust signals data will be organized in a hierarchical folder structure based on
 
 This structure ensures that trust signals data is organized by network (using CAIP-2 Chain IDs), and specific assets (using CAIP-19 Asset IDs).
 
-# Allowed Labels
+# Allowed Label
 
-The **Labels** system supports the following predefined categories of trust signals data. Labels are stored as an array of strings in the trust signals JSON file:
+The **Labels** system supports the following predefined categories of trust signals data. A label is stored as an enum type in the trust signals JSON file:
 
-- `malicious`
+- `verified`
+- `benign`
 - `warning`
-- `spam`
+- `malicious`
 
 ---
 
 ## Usage of Labels
 
-When adding labels for a specific asset, they should be included as an array of strings in the respective JSON file.
+When adding labels for a specific asset, they should be included a string in the respective JSON file.
 
 ## JSON Example:
 
-For an asset flagged as both `malicious` and `spam`, the JSON file would look like:
+For an asset flagged as `verified`, the JSON file would look like:
 
 ```json
 {
-  "labels": ["malicious", "spam"]
+  "label": "verified"
 }
 ```
 
