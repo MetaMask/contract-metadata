@@ -1,0 +1,7 @@
+{
+  "name": "Ether PagoLinea",
+  "symbol": "ETHCB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:30/erc20:0x84c0cB1D6623cFB3546a79C66EB96b874ce6659D.png"
+}

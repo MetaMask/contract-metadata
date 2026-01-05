@@ -1,0 +1,7 @@
+{
+  "name": "RSK Swap LP BPRO/DOC",
+  "symbol": "🦄BPRO:DOC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:30/erc20:0xE66388940C3db98a7b9fcf628702FFBec3a106A3.png"
+}

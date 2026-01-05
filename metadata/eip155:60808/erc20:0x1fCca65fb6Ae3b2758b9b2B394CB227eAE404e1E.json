@@ -1,0 +1,7 @@
+{
+  "name": "pumpBTC",
+  "symbol": "pumpBTC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:60808/erc20:0x1fCca65fb6Ae3b2758b9b2B394CB227eAE404e1E.png"
+}

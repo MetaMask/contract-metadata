@@ -1,0 +1,7 @@
+{
+  "name": "Fire Bitcoin",
+  "symbol": "FBTC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:60808/erc20:0xC96dE26018A54D51c097160568752c4E3BD6C364.png"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Tellor Tributes",
+  "symbol": "TRB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:60808/erc20:0x665060707c3Ea3c31b3eaBaD7F409072446E1D50.png"
+}

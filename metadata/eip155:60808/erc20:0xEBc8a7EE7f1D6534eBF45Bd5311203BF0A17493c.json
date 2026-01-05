@@ -1,0 +1,7 @@
+{
+  "name": "Ionic Wrapped BTC",
+  "symbol": "ionWBTC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:60808/erc20:0xEBc8a7EE7f1D6534eBF45Bd5311203BF0A17493c.svg"
+}

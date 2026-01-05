@@ -1,0 +1,7 @@
+{
+  "name": "RSK Swap LP RDOC/DOC",
+  "symbol": "🦄RDOC:DOC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:30/erc20:0x90fc6Fbb9c7ecfecF0acB44385e6A4d076817feB.png"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Brazilian Digital Token",
+  "symbol": "BRZ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:30/erc20:0xE355c280131dFaF18Bf1c3648aEe3C396dB6b5Fd.png"
+}

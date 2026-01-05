@@ -1,0 +1,7 @@
+{
+  "name": "Real Brasileño PagoLinea",
+  "symbol": "BRLCB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:30/erc20:0x3e040020648A2F2C872Ce0c7165BA5ad7841C972.png"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Guaranies Paraguayos PagoLinea",
+  "symbol": "PYGCB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:30/erc20:0xa05Fd8082e19923AA4868Ff3C2AE48850b734736.png"
+}

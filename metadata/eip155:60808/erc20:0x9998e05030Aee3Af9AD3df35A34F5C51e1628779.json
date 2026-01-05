@@ -1,0 +1,7 @@
+{
+  "name": "Hybrid Bitcoin",
+  "symbol": "HybridBTC.pendle",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:60808/erc20:0x9998e05030Aee3Af9AD3df35A34F5C51e1628779.svg"
+}
