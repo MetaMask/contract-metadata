@@ -1,0 +1,7 @@
+{
+  "name": "Application Specific Internet Coin",
+  "symbol": "ASIC",
+  "decimals": 12,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x347a96a5BD06D2E15199b032F46fB724d6c73047.png"
+}
