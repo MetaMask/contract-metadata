@@ -1,0 +1,7 @@
+{
+    "name": "DRX Token",
+    "symbol": "DRX",
+    "decimals": 18,
+    "erc20": true,
+    "logo": "./icons/eip155:1/erc20:0x83f4389ccCe1CC044dD7441Add33c4F28b967434.svg"
+}
