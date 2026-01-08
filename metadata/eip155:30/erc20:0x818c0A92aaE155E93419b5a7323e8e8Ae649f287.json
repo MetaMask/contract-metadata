@@ -1,0 +1,7 @@
+{
+  "name": "RSK Swap LP RIF/RBTC",
+  "symbol": "🦄RBTC:RIF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:30/erc20:0x818c0A92aaE155E93419b5a7323e8e8Ae649f287.png"
+}

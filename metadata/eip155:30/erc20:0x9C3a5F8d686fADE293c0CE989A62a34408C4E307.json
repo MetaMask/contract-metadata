@@ -1,0 +1,7 @@
+{
+  "name": "RedFOX Labs on RSK",
+  "symbol": "rRFOX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:30/erc20:0x9C3a5F8d686fADE293c0CE989A62a34408C4E307.png"
+}

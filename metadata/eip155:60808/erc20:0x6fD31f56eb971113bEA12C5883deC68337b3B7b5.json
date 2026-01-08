@@ -1,0 +1,7 @@
+{
+  "name": "Uniswap",
+  "symbol": "UNI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:60808/erc20:0x6fD31f56eb971113bEA12C5883deC68337b3B7b5.png"
+}

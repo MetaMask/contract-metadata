@@ -1,0 +1,7 @@
+{
+  "name": "AMLT Coinfirm on RSK",
+  "symbol": "rAMLT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:30/erc20:0xff9eA341d9eA91Cb7C54342354377f5104fD403f.png"
+}

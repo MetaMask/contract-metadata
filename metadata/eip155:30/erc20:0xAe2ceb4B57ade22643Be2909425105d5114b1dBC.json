@@ -1,0 +1,7 @@
+{
+  "name": "Euro PagoLinea",
+  "symbol": "EURCB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:30/erc20:0xAe2ceb4B57ade22643Be2909425105d5114b1dBC.png"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Pesos Colombianos PagoLinea",
+  "symbol": "COPCB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:30/erc20:0x7C459C5b11E2815db085DdA9Ec314A9CDE00A082.png"
+}

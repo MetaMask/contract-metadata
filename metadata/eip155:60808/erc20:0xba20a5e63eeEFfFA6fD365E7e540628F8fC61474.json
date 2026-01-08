@@ -1,0 +1,7 @@
+{
+  "name": "SOV",
+  "symbol": "SOV",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:60808/erc20:0xba20a5e63eeEFfFA6fD365E7e540628F8fC61474.svg"
+}

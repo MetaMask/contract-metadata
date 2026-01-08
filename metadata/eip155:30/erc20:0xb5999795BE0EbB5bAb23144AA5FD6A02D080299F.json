@@ -1,0 +1,7 @@
+{
+  "name": "XUSD Babelfish stablecoin",
+  "symbol": "XUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:30/erc20:0xb5999795BE0EbB5bAb23144AA5FD6A02D080299F.png"
+}

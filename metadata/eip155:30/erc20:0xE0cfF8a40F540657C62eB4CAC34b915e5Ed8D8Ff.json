@@ -1,0 +1,7 @@
+{
+  "name": "Invecoin",
+  "symbol": "INV",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:30/erc20:0xE0cfF8a40F540657C62eB4CAC34b915e5Ed8D8Ff.png"
+}

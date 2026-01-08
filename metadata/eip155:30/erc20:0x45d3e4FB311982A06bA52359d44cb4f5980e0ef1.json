@@ -1,0 +1,7 @@
+{
+  "name": "RIF Name Service",
+  "symbol": "RNS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:30/erc20:0x45d3e4FB311982A06bA52359d44cb4f5980e0ef1.png"
+}

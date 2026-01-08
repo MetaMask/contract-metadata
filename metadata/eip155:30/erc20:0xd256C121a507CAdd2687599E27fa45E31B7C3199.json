@@ -1,0 +1,7 @@
+{
+  "name": "rLending USDT",
+  "symbol": "crUSDT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:30/erc20:0xd256C121a507CAdd2687599E27fa45E31B7C3199.png"
+}

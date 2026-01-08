@@ -1,0 +1,7 @@
+{
+  "name": "Babylon",
+  "symbol": "BABY",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:60808/erc20:0xe53dCec07d16D88e386AE0710E86d9a400f83c31.svg"
+}

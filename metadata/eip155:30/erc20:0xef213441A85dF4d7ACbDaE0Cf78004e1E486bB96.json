@@ -1,0 +1,7 @@
+{
+  "name": "Tether USD on RSK",
+  "symbol": "rUSDT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:30/erc20:0xef213441A85dF4d7ACbDaE0Cf78004e1E486bB96.png"
+}

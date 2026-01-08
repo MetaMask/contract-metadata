@@ -1,0 +1,7 @@
+{
+  "name": "StakeStone Ether",
+  "symbol": "STONE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:60808/erc20:0x96147A9Ae9a42d7Da551fD2322ca15B71032F342.png"
+}

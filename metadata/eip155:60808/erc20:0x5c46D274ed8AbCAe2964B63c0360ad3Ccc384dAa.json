@@ -1,0 +1,7 @@
+{
+  "name": "sb Wrapped BTC",
+  "symbol": "sbWBTC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:60808/erc20:0x5c46D274ed8AbCAe2964B63c0360ad3Ccc384dAa.svg"
+}

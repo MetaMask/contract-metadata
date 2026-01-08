@@ -1,0 +1,7 @@
+{
+  "name": "Universal Basic Income on RSK",
+  "symbol": "rUBI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:30/erc20:0x70566D8541BEaBE984C8BAbF8a816eD908514ba8.png"
+}

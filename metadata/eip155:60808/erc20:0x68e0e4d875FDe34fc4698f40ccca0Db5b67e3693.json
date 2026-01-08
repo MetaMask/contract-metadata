@@ -1,0 +1,7 @@
+{
+  "name": "Ionic tBTC v2",
+  "symbol": "iontBTC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:60808/erc20:0x68e0e4d875FDe34fc4698f40ccca0Db5b67e3693.svg"
+}
