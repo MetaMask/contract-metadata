@@ -1,0 +1,7 @@
+{
+  "name": "aarna atv USDC",
+  "symbol": "atvUSDC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF30F62963CCE132F32306d7F18a8587958b30EA9.svg"
+}
