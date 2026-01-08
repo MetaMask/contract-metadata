@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped XTZ",
+  "symbol": "WXTZ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42793/erc20:0xc9B53AB2679f573e480d01e0f49e2B5CFB7a3EAb.svg"
+}

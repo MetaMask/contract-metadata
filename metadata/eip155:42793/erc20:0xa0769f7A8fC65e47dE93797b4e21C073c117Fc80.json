@@ -1,0 +1,7 @@
+{
+  "name": "Spiko EU T-Bills Money Market Fund",
+  "symbol": "EUTBL",
+  "decimals": 5,
+  "erc20": true,
+  "logo": "./icons/eip155:42793/erc20:0xa0769f7A8fC65e47dE93797b4e21C073c117Fc80.svg"
+}
