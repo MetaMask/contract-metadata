@@ -1,0 +1,7 @@
+{
+  "name": "ELUSD",
+  "symbol": "ELUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x522aa1DA4F63317e2476E3384862F2C6174Cd3A0.svg"
+}
