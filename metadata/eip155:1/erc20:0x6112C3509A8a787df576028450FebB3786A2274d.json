@@ -1,0 +1,7 @@
+{
+  "name": "AxonDAO Governance Token",
+  "decimals": 18,
+  "symbol": "AXGT",
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x6112C3509A8a787df576028450FebB3786A2274d.svg"
+}

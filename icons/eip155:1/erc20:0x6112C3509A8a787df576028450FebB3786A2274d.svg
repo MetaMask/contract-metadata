@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" version="1.1">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6be7f4"/>
+      <stop offset="50%" stop-color="#75abee"/>
+      <stop offset="100%" stop-color="#872cc8"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" fill="#2d1b4e"/>
+  <path d="M 211.00 201.50 L 155.00 201.50 L 130.00 171.50 L 124.50 176.00 L 103.00 201.50 L 44.00 201.50 L 33.00 190.00 L 88.50 122.00 L 40.50 64.00 L 50.00 53.50 L 114.00 53.50 L 201.50 161.00 L 222.00 186.00 L 211.00 201.50 Z" fill="url(#g)" stroke="#47476b" stroke-opacity="0.9" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M 173.00 108.50 L 135.50 65.00 L 135.50 61.00 L 143.00 53.50 L 201.00 53.50 L 210.00 64.00 L 205.50 70.00 L 173.00 108.50 Z" fill="url(#g)" stroke="#47476b" stroke-opacity="0.9" stroke-width="2" stroke-linejoin="round"/>
+</svg>
