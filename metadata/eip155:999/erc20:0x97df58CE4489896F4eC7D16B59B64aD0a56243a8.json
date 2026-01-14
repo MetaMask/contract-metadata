@@ -3,5 +3,5 @@
     "symbol": "xBTC",
     "decimals": 18,
     "erc20": true,
-    "logo": "./icons/eip155:999/erc20:0x97df58CE4489896F4eC7D16B59B64aD0a56243a8.png"
+    "logo": "./icons/eip155:999/erc20:0x97df58CE4489896F4eC7D16B59B64aD0a56243a8.svg"
   }
