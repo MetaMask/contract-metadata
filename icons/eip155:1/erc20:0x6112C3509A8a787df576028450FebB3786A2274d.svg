@@ -7,7 +7,7 @@
       <stop offset="100%" stop-color="#872cc8"/>
     </linearGradient>
   </defs>
-  <rect width="256" height="256" fill="#2d1b4e"/>
+  <rect width="256" height="256" fill="#000000"/>
   <path d="M 211.00 201.50 L 155.00 201.50 L 130.00 171.50 L 124.50 176.00 L 103.00 201.50 L 44.00 201.50 L 33.00 190.00 L 88.50 122.00 L 40.50 64.00 L 50.00 53.50 L 114.00 53.50 L 201.50 161.00 L 222.00 186.00 L 211.00 201.50 Z" fill="url(#g)" stroke="#47476b" stroke-opacity="0.9" stroke-width="2" stroke-linejoin="round"/>
   <path d="M 173.00 108.50 L 135.50 65.00 L 135.50 61.00 L 143.00 53.50 L 201.00 53.50 L 210.00 64.00 L 205.50 70.00 L 173.00 108.50 Z" fill="url(#g)" stroke="#47476b" stroke-opacity="0.9" stroke-width="2" stroke-linejoin="round"/>
 </svg>
