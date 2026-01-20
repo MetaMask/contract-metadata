@@ -1,0 +1,7 @@
+{
+  "name": "MegaUSD",
+  "symbol": "USDM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:4326/erc20:0xEc2AF1C8B110a61fD9C3Fa6a554a031Ca9943926.svg"
+}
