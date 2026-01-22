@@ -1,0 +1,7 @@
+{
+  "name": "MIDAS",
+  "symbol": "MIDAS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "erc20:0xa059080853b2f273a452424859a4701a1ce13a0e.svg"
+}
