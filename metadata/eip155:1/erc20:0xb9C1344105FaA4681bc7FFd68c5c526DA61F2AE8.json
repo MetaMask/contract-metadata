@@ -1,0 +1,7 @@
+{
+  "name": "aarna atvPTmax",
+  "symbol": "atvPTmax",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xb9C1344105FaA4681bc7FFd68c5c526DA61F2AE8.svg"
+}
