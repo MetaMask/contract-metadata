@@ -1,9 +1,7 @@
 {
-  "name": "Midas Tech",
-  "address": "0xa059080853b2f273a452424859a4701a1ce13a0e",
+  "name": "MIDAS",
   "symbol": "MIDAS",
   "decimals": 18,
-  "logoURI": "./icons/eip155:56/erc20/0xa059080853b2f273a452424859a4701a1ce13a0e.svg",
-  "website": "https://www.midastechllp.com/midas-coin",
-  "description": "Midas Tech (MIDAS) BEP-20 token on BNB Smart Chain"
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xa059080853b2f273a452424859a4701a1ce13a0e.svg"
 }
