@@ -1,0 +1,7 @@
+{
+    "name": "Tron",
+    "symbol": "TRX",
+    "decimals": 6,
+    "erc20": true,
+    "logo": "./icons/eip155:8453/erc20:0x989cFDC3508500d0C91f22896a0D2ee1Ef675870.svg"
+}
