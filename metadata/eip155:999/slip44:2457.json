@@ -1,0 +1,7 @@
+{
+    "name": "HYPE",
+    "symbol": "HYPE",
+    "decimals": 18,
+    "erc20": false,
+    "logo": "./icons/eip155:999/slip44:2457.svg"
+}
