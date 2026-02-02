@@ -1,0 +1,7 @@
+{
+  "name": "Moonbirds",
+  "symbol": "BIRB",
+  "decimals": 6,
+  "spl20": false,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:G7vQWurMkMMm2dU3iZpXYFTHT9Biio4F4gZCrwFpKNwG.png"
+}
