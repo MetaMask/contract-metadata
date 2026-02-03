@@ -140,37 +140,49 @@ function isUrl(str) {
 /**
  * Download a file from a URL
  */
-function downloadFile(url, destPath) {
+function downloadFile(url, destPath, redirectCount = 0) {
+  const MAX_REDIRECTS = 10;
+
+  if (redirectCount > MAX_REDIRECTS) {
+    return Promise.reject(
+      new Error(
+        `Too many redirects (>${MAX_REDIRECTS}). Possible redirect loop.`,
+      ),
+    );
+  }
+
   return new Promise((resolve, reject) => {
-    const client = url.startsWith('https') ? https : http;
+    const client = url.startsWith("https") ? https : http;
 
-    client.get(url, (response) => {
-      // Handle redirects
-      if (response.statusCode === 301 || response.statusCode === 302) {
-        downloadFile(response.headers.location, destPath)
-          .then(resolve)
-          .catch(reject);
-        return;
-      }
+    client
+      .get(url, (response) => {
+        // Handle redirects
+        if (response.statusCode === 301 || response.statusCode === 302) {
+          downloadFile(response.headers.location, destPath, redirectCount + 1)
+            .then(resolve)
+            .catch(reject);
+          return;
+        }
 
-      if (response.statusCode !== 200) {
-        reject(new Error(`Failed to download: HTTP ${response.statusCode}`));
-        return;
-      }
+        if (response.statusCode !== 200) {
+          reject(new Error(`Failed to download: HTTP ${response.statusCode}`));
+          return;
+        }
 
-      const fileStream = fs.createWriteStream(destPath);
-      response.pipe(fileStream);
+        const fileStream = fs.createWriteStream(destPath);
+        response.pipe(fileStream);
 
-      fileStream.on('finish', () => {
-        fileStream.close();
-        resolve(response.headers['content-type']);
-      });
+        fileStream.on("finish", () => {
+          fileStream.close();
+          resolve(response.headers["content-type"]);
+        });
 
-      fileStream.on('error', (err) => {
-        fs.unlink(destPath, () => {}); // Clean up partial file
-        reject(err);
-      });
-    }).on('error', reject);
+        fileStream.on("error", (err) => {
+          fs.unlink(destPath, () => {}); // Clean up partial file
+          reject(err);
+        });
+      })
+      .on("error", reject);
   });
 }
 
@@ -210,9 +222,16 @@ function parseFlags(args) {
   for (let i = 0; i < args.length; i++) {
     if (args[i].startsWith('--')) {
       const key = args[i].substring(2);
-      const value = args[i + 1];
-      flags[key] = value;
-      i++; // Skip next argument since it's the value
+      const nextArg = args[i + 1];
+
+      // Check if next argument exists and is not another flag
+      if (nextArg !== undefined && !nextArg.startsWith("--")) {
+        flags[key] = nextArg;
+        i++; // Skip next argument since it's the value
+      } else {
+        // Flag without a value or next item is another flag
+        flags[key] = undefined;
+      }
     }
   }
   return flags;
@@ -290,7 +309,10 @@ async function setAsset(caipId, options) {
         console.log(`Downloading image from URL: ${options.image}`);
 
         // Download to temporary location first
-        tempDownloadPath = path.join(paths.iconDir, `temp-download-${Date.now()}`);
+        tempDownloadPath = path.join(
+          paths.iconDir,
+          `temp-download-${Date.now()}`,
+        );
         const contentType = await downloadFile(options.image, tempDownloadPath);
         imageExt = getExtensionFromUrl(options.image, contentType);
         imageSource = tempDownloadPath;
@@ -300,23 +322,28 @@ async function setAsset(caipId, options) {
         // Local file path
         imageExt = path.extname(options.image).toLowerCase();
         if (!SUPPORTED_IMAGE_EXTENSIONS.includes(imageExt)) {
-          throw new Error(`Unsupported image format: ${imageExt}. Supported: ${SUPPORTED_IMAGE_EXTENSIONS.join(', ')}`);
-        }
-      }
-
-      // Remove old icon if updating
-      if (!isNewAsset) {
-        const oldIcon = await findExistingIcon(paths.iconFileBase);
-        if (oldIcon) {
-          fs.unlinkSync(oldIcon);
-          console.log(`✓ Removed old icon: ${oldIcon}`);
+          throw new Error(
+            `Unsupported image format: ${imageExt}. Supported: ${SUPPORTED_IMAGE_EXTENSIONS.join(", ")}`,
+          );
         }
       }
 
       // Copy/move image to final location with correct name
       const iconFile = `${paths.iconFileBase}${imageExt}`;
       await copyFile(imageSource, iconFile);
-      console.log(`✓ ${isNewAsset ? 'Saved' : 'Updated'} image to: ${iconFile}`);
+      console.log(
+        `✓ ${isNewAsset ? "Saved" : "Updated"} image to: ${iconFile}`,
+      );
+
+      // Remove old icon if updating (only after new icon is successfully saved)
+      if (!isNewAsset) {
+        const oldIcon = await findExistingIcon(paths.iconFileBase);
+        // Only delete if it's different from the new icon (different extension)
+        if (oldIcon && oldIcon !== iconFile) {
+          fs.unlinkSync(oldIcon);
+          console.log(`✓ Removed old icon: ${oldIcon}`);
+        }
+      }
 
       // Update metadata logo path
       metadata.logo = `./icons/${parsed.chainNamespace}/${parsed.assetId}${imageExt}`;
@@ -493,8 +520,8 @@ Set Command Options:
   --image <path>     Path to image file or URL (required for new assets)
                      Supports: .svg, .png, .jpg, .jpeg
                      Can be a local file path or HTTP/HTTPS URL
-  --erc20 <bool>     Whether this is an ERC20 token (optional, default: auto-detect)
-  --spl <bool>       Whether this is a Solana SPL token (optional, default: auto-detect)
+  --erc20 <bool>     Whether this is an ERC20 token (true|false - optional, default: auto-detect)
+  --spl <bool>       Whether this is a Solana SPL token (true|false - optional, default: auto-detect)
 
 Verify Command Options:
   --caip <id>        CAIP-19 asset identifier (required)
