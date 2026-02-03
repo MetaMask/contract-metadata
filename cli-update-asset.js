@@ -284,50 +284,52 @@ async function setAsset(caipId, options) {
     let imageExt;
     let tempDownloadPath = null;
 
-    // Check if image is a URL
-    if (isUrl(options.image)) {
-      console.log(`Downloading image from URL: ${options.image}`);
+    try {
+      // Check if image is a URL
+      if (isUrl(options.image)) {
+        console.log(`Downloading image from URL: ${options.image}`);
 
-      // Download to temporary location first
-      tempDownloadPath = path.join(paths.iconDir, `temp-download-${Date.now()}`);
-      const contentType = await downloadFile(options.image, tempDownloadPath);
-      imageExt = getExtensionFromUrl(options.image, contentType);
-      imageSource = tempDownloadPath;
+        // Download to temporary location first
+        tempDownloadPath = path.join(paths.iconDir, `temp-download-${Date.now()}`);
+        const contentType = await downloadFile(options.image, tempDownloadPath);
+        imageExt = getExtensionFromUrl(options.image, contentType);
+        imageSource = tempDownloadPath;
 
-      console.log(`✓ Downloaded image (${contentType})`);
-    } else {
-      // Local file path
-      imageExt = path.extname(options.image);
-      if (!SUPPORTED_IMAGE_EXTENSIONS.includes(imageExt.toLowerCase())) {
-        throw new Error(`Unsupported image format: ${imageExt}. Supported: ${SUPPORTED_IMAGE_EXTENSIONS.join(', ')}`);
+        console.log(`✓ Downloaded image (${contentType})`);
+      } else {
+        // Local file path
+        imageExt = path.extname(options.image).toLowerCase();
+        if (!SUPPORTED_IMAGE_EXTENSIONS.includes(imageExt)) {
+          throw new Error(`Unsupported image format: ${imageExt}. Supported: ${SUPPORTED_IMAGE_EXTENSIONS.join(', ')}`);
+        }
+      }
+
+      // Remove old icon if updating
+      if (!isNewAsset) {
+        const oldIcon = await findExistingIcon(paths.iconFileBase);
+        if (oldIcon) {
+          fs.unlinkSync(oldIcon);
+          console.log(`✓ Removed old icon: ${oldIcon}`);
+        }
+      }
+
+      // Copy/move image to final location with correct name
+      const iconFile = `${paths.iconFileBase}${imageExt}`;
+      await copyFile(imageSource, iconFile);
+      console.log(`✓ ${isNewAsset ? 'Saved' : 'Updated'} image to: ${iconFile}`);
+
+      // Update metadata logo path
+      metadata.logo = `./icons/${parsed.chainNamespace}/${parsed.assetId}${imageExt}`;
+    } finally {
+      // Clean up temp file if we downloaded (always runs, even on error)
+      if (tempDownloadPath) {
+        try {
+          fs.unlinkSync(tempDownloadPath);
+        } catch (err) {
+          // Ignore cleanup errors
+        }
       }
     }
-
-    // Remove old icon if updating
-    if (!isNewAsset) {
-      const oldIcon = await findExistingIcon(paths.iconFileBase);
-      if (oldIcon) {
-        fs.unlinkSync(oldIcon);
-        console.log(`✓ Removed old icon: ${oldIcon}`);
-      }
-    }
-
-    // Copy/move image to final location with correct name
-    const iconFile = `${paths.iconFileBase}${imageExt}`;
-    await copyFile(imageSource, iconFile);
-    console.log(`✓ ${isNewAsset ? 'Saved' : 'Updated'} image to: ${iconFile}`);
-
-    // Clean up temp file if we downloaded
-    if (tempDownloadPath) {
-      try {
-        fs.unlinkSync(tempDownloadPath);
-      } catch (err) {
-        // Ignore cleanup errors
-      }
-    }
-
-    // Update metadata logo path
-    metadata.logo = `./icons/${parsed.chainNamespace}/${parsed.assetId}${imageExt}`;
   }
 
   // Update fields (only if provided, or if new asset and required)
