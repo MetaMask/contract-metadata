@@ -80,7 +80,8 @@ function parseCAIP19(caipId) {
   // Validate with Zod
   const result = CAIP19Schema.safeParse(caipId);
   if (!result.success) {
-    const errorMessage = result.error.errors[0]?.message || 'Invalid CAIP-19 format';
+    const zodIssues = result.error.issues || result.error.errors || [];
+    const errorMessage = zodIssues[0]?.message || 'Invalid CAIP-19 format';
     throw new Error(`${errorMessage}\nExpected format: namespace:chainId/assetNamespace:assetReference\nExample: eip155:1/erc20:0x6B175474E89094C44Da98b954EedeAC495271d0F`);
   }
 
@@ -291,7 +292,8 @@ function validateMetadata(metadata) {
   const result = MetadataSchema.safeParse(metadata);
 
   if (!result.success) {
-    return result.error.errors.map(err => {
+    const zodIssues = result.error.issues || result.error.errors || [];
+    return zodIssues.map(err => {
       const field = err.path.join('.');
       return `${field}: ${err.message}`;
     });
@@ -649,7 +651,8 @@ async function main() {
         {
           const validationResult = SetCommandFlagsSchema.safeParse(flags);
           if (!validationResult.success) {
-            const errors = validationResult.error.errors.map(err =>
+            const zodIssues = validationResult.error.issues || validationResult.error.errors || [];
+            const errors = zodIssues.map(err =>
               `${err.path.join('.')}: ${err.message}`
             ).join('\n');
             throw new Error(`Invalid flags:\n${errors}`);
@@ -666,7 +669,8 @@ async function main() {
         {
           const validationResult = VerifyCommandFlagsSchema.safeParse(flags);
           if (!validationResult.success) {
-            const errors = validationResult.error.errors.map(err =>
+            const zodIssues = validationResult.error.issues || validationResult.error.errors || [];
+            const errors = zodIssues.map(err =>
               `${err.path.join('.')}: ${err.message}`
             ).join('\n');
             throw new Error(`Invalid flags:\n${errors}`);
@@ -683,7 +687,8 @@ async function main() {
         {
           const validationResult = ListCommandFlagsSchema.safeParse(flags);
           if (!validationResult.success) {
-            const errors = validationResult.error.errors.map(err =>
+            const zodIssues = validationResult.error.issues || validationResult.error.errors || [];
+            const errors = zodIssues.map(err =>
               `${err.path.join('.')}: ${err.message}`
             ).join('\n');
             throw new Error(`Invalid flags:\n${errors}`);
