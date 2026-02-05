@@ -126,6 +126,23 @@ async function findExistingIcon(iconFileBase) {
 }
 
 /**
+ * Find all existing icon files (any supported extension)
+ */
+async function findAllExistingIcons(iconFileBase) {
+  const existingIcons = [];
+  for (const ext of SUPPORTED_IMAGE_EXTENSIONS) {
+    const iconPath = `${iconFileBase}${ext}`;
+    try {
+      await access(iconPath, fs.constants.F_OK);
+      existingIcons.push(iconPath);
+    } catch (err) {
+      // File doesn't exist, continue
+    }
+  }
+  return existingIcons;
+}
+
+/**
  * Check if a string is a URL
  */
 function isUrl(str) {
@@ -152,37 +169,67 @@ function downloadFile(url, destPath, redirectCount = 0) {
   }
 
   return new Promise((resolve, reject) => {
-    const client = url.startsWith("https") ? https : http;
+    const client = url.startsWith('https') ? https : http;
+    let settled = false;
 
-    client
-      .get(url, (response) => {
-        // Handle redirects
-        if (response.statusCode === 301 || response.statusCode === 302) {
-          downloadFile(response.headers.location, destPath, redirectCount + 1)
-            .then(resolve)
-            .catch(reject);
+    const done = (err, contentType) => {
+      if (settled) return;
+      settled = true;
+      if (err) {
+        reject(err);
+      } else {
+        resolve(contentType);
+      }
+    };
+
+    const request = client.get(url, (response) => {
+      // Handle redirects
+      if (response.statusCode === 301 || response.statusCode === 302 || response.statusCode === 307 || response.statusCode === 308) {
+        const location = response.headers.location;
+        response.resume();
+        if (!location) {
+          done(new Error(`Redirect response missing Location header (HTTP ${response.statusCode})`));
           return;
         }
 
-        if (response.statusCode !== 200) {
-          reject(new Error(`Failed to download: HTTP ${response.statusCode}`));
-          return;
-        }
+        const nextUrl = new URL(location, url).toString();
+        downloadFile(nextUrl, destPath, redirectCount + 1)
+          .then((contentType) => done(null, contentType))
+          .catch((err) => done(err));
+        return;
+      }
 
-        const fileStream = fs.createWriteStream(destPath);
-        response.pipe(fileStream);
+      if (response.statusCode !== 200) {
+        response.resume();
+        done(new Error(`Failed to download: HTTP ${response.statusCode}`));
+        return;
+      }
 
-        fileStream.on("finish", () => {
-          fileStream.close();
-          resolve(response.headers["content-type"]);
+      const cleanupPartial = () => {
+        fs.unlink(destPath, () => {});
+      };
+
+      const fileStream = fs.createWriteStream(destPath);
+
+      const onError = (err) => {
+        cleanupPartial();
+        done(err);
+      };
+
+      response.on('error', onError);
+      response.on('aborted', () => onError(new Error('Download aborted')));
+      fileStream.on('error', onError);
+
+      fileStream.on('finish', () => {
+        fileStream.close(() => {
+          done(null, response.headers['content-type']);
         });
+      });
 
-        fileStream.on("error", (err) => {
-          fs.unlink(destPath, () => {}); // Clean up partial file
-          reject(err);
-        });
-      })
-      .on("error", reject);
+      response.pipe(fileStream);
+    });
+
+    request.on('error', (err) => done(err));
   });
 }
 
@@ -302,8 +349,15 @@ async function setAsset(caipId, options) {
     let imageSource = options.image;
     let imageExt;
     let tempDownloadPath = null;
+    let existingIconsBeforeUpdate = [];
 
     try {
+      // Capture existing icon(s) before writing the new one, so we can delete
+      // any stale formats after a successful update.
+      if (!isNewAsset) {
+        existingIconsBeforeUpdate = await findAllExistingIcons(paths.iconFileBase);
+      }
+
       // Check if image is a URL
       if (isUrl(options.image)) {
         console.log(`Downloading image from URL: ${options.image}`);
@@ -335,13 +389,17 @@ async function setAsset(caipId, options) {
         `✓ ${isNewAsset ? "Saved" : "Updated"} image to: ${iconFile}`,
       );
 
-      // Remove old icon if updating (only after new icon is successfully saved)
+      // Remove old icons if updating (only after new icon is successfully saved)
       if (!isNewAsset) {
-        const oldIcon = await findExistingIcon(paths.iconFileBase);
-        // Only delete if it's different from the new icon (different extension)
-        if (oldIcon && oldIcon !== iconFile) {
-          fs.unlinkSync(oldIcon);
-          console.log(`✓ Removed old icon: ${oldIcon}`);
+        for (const oldIcon of existingIconsBeforeUpdate) {
+          if (oldIcon !== iconFile) {
+            try {
+              fs.unlinkSync(oldIcon);
+              console.log(`✓ Removed old icon: ${oldIcon}`);
+            } catch (err) {
+              // Ignore deletion errors (file may have been removed already)
+            }
+          }
         }
       }
 
@@ -437,9 +495,11 @@ async function verifyAsset(caipId) {
 
       // Check if logo path in metadata matches actual file
       const expectedLogoPath = path.basename(iconFile);
-      const metadataLogoPath = path.basename(metadata.logo);
-      if (expectedLogoPath !== metadataLogoPath) {
-        issues.push(`Logo path mismatch: metadata references "${metadataLogoPath}" but file is "${expectedLogoPath}"`);
+      if (typeof metadata.logo === 'string' && metadata.logo.length > 0) {
+        const metadataLogoPath = path.basename(metadata.logo);
+        if (expectedLogoPath !== metadataLogoPath) {
+          issues.push(`Logo path mismatch: metadata references "${metadataLogoPath}" but file is "${expectedLogoPath}"`);
+        }
       }
     } else {
       issues.push('Icon file not found');
@@ -449,7 +509,8 @@ async function verifyAsset(caipId) {
   if (issues.length > 0) {
     console.log('\n⚠ Issues found:');
     issues.forEach(issue => console.log(`  - ${issue}`));
-    process.exit(1);
+    process.exitCode = 1;
+    return;
   } else {
     console.log('\n✓ Asset verification passed!');
   }

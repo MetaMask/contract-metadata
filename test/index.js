@@ -88,3 +88,5 @@ test('only permitted fields should be used', function (t) {
 
   t.end()
 })
+
+require('./cli-update-asset')
