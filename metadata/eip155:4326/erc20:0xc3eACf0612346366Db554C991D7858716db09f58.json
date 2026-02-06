@@ -1,0 +1,7 @@
+{
+  "name": "KelpDao Restaked ETH",
+  "symbol": "rsETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:4326/erc20:0xc3eACf0612346366Db554C991D7858716db09f58.svg"
+}
