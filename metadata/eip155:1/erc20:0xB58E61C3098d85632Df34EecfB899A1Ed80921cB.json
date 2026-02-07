@@ -1,0 +1,7 @@
+{
+  "name": "Frankencoin",
+  "symbol": "ZCHF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB58E61C3098d85632Df34EecfB899A1Ed80921cB.svg"
+}

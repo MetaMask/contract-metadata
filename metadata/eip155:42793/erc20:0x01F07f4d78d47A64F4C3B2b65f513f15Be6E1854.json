@@ -1,0 +1,7 @@
+{
+  "name": "Stacy Staked XTZ",
+  "symbol": "stXTZ",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:42793/erc20:0x01F07f4d78d47A64F4C3B2b65f513f15Be6E1854.svg"
+}

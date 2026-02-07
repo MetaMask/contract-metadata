@@ -1,0 +1,7 @@
+{
+  "name": "Cryptex Finance",
+  "symbol": "CTX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x321C2fE4446C7c963dc41Dd58879AF648838f98D.svg"
+}

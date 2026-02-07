@@ -1,0 +1,7 @@
+{
+  "name": "Midas Re7 Yield",
+  "symbol": "mRe7YIELD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42793/erc20:0x733d504435a49FC8C4e9759e756C2846c92f0160.svg"
+}

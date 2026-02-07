@@ -1,0 +1,7 @@
+{
+  "name": "$Poolz Finance",
+  "symbol": "POOLZ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x69A95185ee2a045CDC4bCd1b1Df10710395e4e23.svg"
+}

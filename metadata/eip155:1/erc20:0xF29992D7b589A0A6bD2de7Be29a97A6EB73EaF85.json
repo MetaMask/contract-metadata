@@ -1,0 +1,7 @@
+{
+  "name": "DMScript",
+  "symbol": "DMST",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF29992D7b589A0A6bD2de7Be29a97A6EB73EaF85.svg"
+}

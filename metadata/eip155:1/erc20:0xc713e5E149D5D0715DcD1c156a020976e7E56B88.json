@@ -1,0 +1,7 @@
+{
+  "name": "Aave MKR",
+  "symbol": "aMKR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xc713e5E149D5D0715DcD1c156a020976e7E56B88.svg"
+}

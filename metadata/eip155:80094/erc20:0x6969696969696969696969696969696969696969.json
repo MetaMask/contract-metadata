@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped Berachain Token",
+  "symbol": "WBERA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:80094/erc20:0x6969696969696969696969696969696969696969.png"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Quant Network",
+  "symbol": "QNT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x4a220E6096B25EADb88358cb44068A3248254675.svg"
+}

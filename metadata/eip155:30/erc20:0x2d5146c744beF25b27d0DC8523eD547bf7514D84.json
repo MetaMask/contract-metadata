@@ -1,0 +1,7 @@
+{
+  "name": "RSK Swap LP RIF/rDAI",
+  "symbol": "🦄RIF:rDAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:30/erc20:0x2d5146c744beF25b27d0DC8523eD547bf7514D84.png"
+}

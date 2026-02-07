@@ -1,0 +1,7 @@
+{
+  "name": "INCASWAP",
+  "symbol": "INCA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:698/erc20:0xA625f0Efc6f9cba33233A9c9B2AE36AE716a370e.svg"
+}

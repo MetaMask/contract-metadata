@@ -1,0 +1,7 @@
+{
+  "name": "Dotmoovs",
+  "symbol": "MOOV",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x4116f14b6d462B32a1C10F98049E4B1765e34FA9.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "EdgeMatrix Chain",
+  "symbol": "EMC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "icons/eip155:42161/erc20:0xDFB8BE6F8c87f74295A87de951974362CedCFA30.svg"
+}

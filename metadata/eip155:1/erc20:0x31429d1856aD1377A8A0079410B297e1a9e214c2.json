@@ -1,0 +1,7 @@
+{
+  "name": "ANGLE",
+  "symbol": "ANGLE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x31429d1856aD1377A8A0079410B297e1a9e214c2.svg"
+}

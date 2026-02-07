@@ -1,0 +1,7 @@
+{
+  "name": "Tokamak Network Token",
+  "symbol": "TON",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x2be5e8c109e2197D077D13A82dAead6a9b3433C5.svg"
+}

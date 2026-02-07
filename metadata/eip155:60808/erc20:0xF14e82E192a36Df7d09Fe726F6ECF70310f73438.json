@@ -1,0 +1,7 @@
+{
+  "name": "Threshold Network Token",
+  "symbol": "T",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:60808/erc20:0xF14e82E192a36Df7d09Fe726F6ECF70310f73438.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Vote Escrowed Origin DeFi Governance",
+  "symbol": "veOGV",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0C4576Ca1c365868E162554AF8e385dc3e7C66D9.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Reservoir rUSD",
+  "symbol": "RUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x09D4214C03D01F49544C0448DBE3A27f768F2b34.svg"
+}

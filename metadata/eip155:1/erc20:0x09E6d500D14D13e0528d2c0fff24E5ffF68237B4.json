@@ -1,0 +1,7 @@
+{
+  "name": "Dohrnii",
+  "symbol": "DHN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x09E6d500D14D13e0528d2c0fff24E5ffF68237B4.svg"
+}

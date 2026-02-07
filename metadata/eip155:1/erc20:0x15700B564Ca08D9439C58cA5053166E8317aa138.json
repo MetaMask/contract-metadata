@@ -1,0 +1,7 @@
+{
+  "name": "Elixir deUSD",
+  "symbol": "deUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x15700B564Ca08D9439C58cA5053166E8317aa138.svg"
+}

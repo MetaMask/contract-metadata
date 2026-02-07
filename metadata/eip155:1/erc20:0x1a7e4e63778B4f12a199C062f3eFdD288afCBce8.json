@@ -1,0 +1,7 @@
+{
+  "name": "EURA",
+  "symbol": "EURA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "OOKI",
+  "symbol": "OOKI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0De05F6447ab4D22c8827449EE4bA2D5C288379B.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "WASSIE",
+  "symbol": "WASSIE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x2c95D751DA37A5C1d9c5a7Fd465c1d50F3d96160.svg"
+}

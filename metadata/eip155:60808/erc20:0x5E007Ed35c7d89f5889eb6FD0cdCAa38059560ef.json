@@ -1,0 +1,7 @@
+{
+  "name": "Avalon Avalon TBTC",
+  "symbol": "aBOBTBTC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:60808/erc20:0x5E007Ed35c7d89f5889eb6FD0cdCAa38059560ef.svg"
+}

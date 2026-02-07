@@ -1,0 +1,7 @@
+{
+  "name": "Fulcrum ETH iToken (iETH)",
+  "symbol": "iETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB983E01458529665007fF7E0CDdeCDB74B967Eb6.svg"
+}

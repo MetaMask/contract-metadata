@@ -1,0 +1,7 @@
+{
+  "name": "Herocoin",
+  "symbol": "PLAY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xE477292f1B3268687A29376116B0ED27A9c76170.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "BOOH",
+  "symbol": "BOOH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xC18B4C1e0b4d4d0F1e9627F25399F5073079Ac3D.svg"
+}

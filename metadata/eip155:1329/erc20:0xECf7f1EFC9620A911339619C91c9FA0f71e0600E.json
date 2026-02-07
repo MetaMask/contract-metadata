@@ -1,0 +1,7 @@
+{
+  "name": "SEIYUN",
+  "symbol": "SEIYUN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0xECf7f1EFC9620A911339619C91c9FA0f71e0600E.png"
+}

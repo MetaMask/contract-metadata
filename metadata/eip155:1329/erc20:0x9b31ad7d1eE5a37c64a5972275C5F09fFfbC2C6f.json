@@ -1,0 +1,7 @@
+{
+  "name": "Master",
+  "symbol": "SENSEI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x9b31ad7d1eE5a37c64a5972275C5F09fFfbC2C6f.png"
+}

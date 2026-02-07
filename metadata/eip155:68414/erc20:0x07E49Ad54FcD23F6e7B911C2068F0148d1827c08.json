@@ -1,0 +1,7 @@
+{
+  "name": "NextMeso",
+  "symbol": "NESO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:68414/erc20:0x07E49Ad54FcD23F6e7B911C2068F0148d1827c08.png"
+}

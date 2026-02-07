@@ -1,0 +1,7 @@
+{
+  "name": "rLending RIF",
+  "symbol": "cRIF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:30/erc20:0xB7FF2C56C897562c0aA6747D2679d35F5e937492.png"
+}

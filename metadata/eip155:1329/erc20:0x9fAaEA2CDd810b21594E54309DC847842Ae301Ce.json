@@ -1,0 +1,7 @@
+{
+  "name": "seiyanETH",
+  "symbol": "seiyanETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x9fAaEA2CDd810b21594E54309DC847842Ae301Ce.png"
+}

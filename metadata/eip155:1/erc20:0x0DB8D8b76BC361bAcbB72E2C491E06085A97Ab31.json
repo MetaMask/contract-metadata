@@ -1,0 +1,7 @@
+{
+  "name": "IQeon",
+  "symbol": "IQN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0DB8D8b76BC361bAcbB72E2C491E06085A97Ab31.svg"
+}

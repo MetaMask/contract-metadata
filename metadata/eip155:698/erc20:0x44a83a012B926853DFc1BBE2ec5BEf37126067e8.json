@@ -1,0 +1,7 @@
+{
+  "name": "Matchain",
+  "symbol": "MAT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:698/erc20:0x44A83a012B926853DFc1BBE2ec5BEf37126067e8.svg"
+}

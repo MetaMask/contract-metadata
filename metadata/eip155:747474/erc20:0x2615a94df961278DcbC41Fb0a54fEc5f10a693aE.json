@@ -1,0 +1,7 @@
+{
+  "name": "XRP (Universal)",
+  "symbol": "uXRP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:747474/erc20:0x2615a94df961278DcbC41Fb0a54fEc5f10a693aE.png"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Metronome",
+  "symbol": "MET",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xa3d58c4E56fedCae3a7c43A725aeE9A71F0ece4e.svg"
+}

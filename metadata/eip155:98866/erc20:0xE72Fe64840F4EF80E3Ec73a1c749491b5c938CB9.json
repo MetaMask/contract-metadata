@@ -1,0 +1,7 @@
+{
+  "name": "Nest Treasuries Vault",
+  "symbol": "nTBILL",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:98866/erc20:0xE72Fe64840F4EF80E3Ec73a1c749491b5c938CB9.svg"
+}

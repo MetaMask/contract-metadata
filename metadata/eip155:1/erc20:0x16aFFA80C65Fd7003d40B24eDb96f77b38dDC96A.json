@@ -1,0 +1,7 @@
+{
+  "name": "ExpandZK Vote Token",
+  "symbol": "vXZK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x16aFFA80C65Fd7003d40B24eDb96f77b38dDC96A.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Quid Ika",
+  "symbol": "QUID",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9d38F670D15C14716BE1F109a4F453E966A2B6D4.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "HUNT Token",
+  "symbol": "HUNT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9AAb071B4129B083B01cB5A0Cb513Ce7ecA26fa5.svg"
+}

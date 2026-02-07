@@ -1,0 +1,7 @@
+{
+  "name": "Swash Token",
+  "symbol": "SWASH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA130E3a33a4d84b04c3918c4E5762223Ae252F80.svg"
+}

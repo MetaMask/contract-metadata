@@ -1,0 +1,7 @@
+{
+  "name": "Sumerian USD",
+  "symbol": "suUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:143/erc20:0x8BF591Eae535f93a242D5A954d3Cde648b48A5A8.png"
+}

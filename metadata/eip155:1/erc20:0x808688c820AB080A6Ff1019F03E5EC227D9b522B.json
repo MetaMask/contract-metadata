@@ -1,0 +1,7 @@
+{
+  "name": "BAG",
+  "symbol": "BAG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x808688c820AB080A6Ff1019F03E5EC227D9b522B.svg"
+}

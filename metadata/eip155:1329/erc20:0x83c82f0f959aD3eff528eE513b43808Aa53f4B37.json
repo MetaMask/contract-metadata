@@ -1,0 +1,7 @@
+{
+  "name": "Rock",
+  "symbol": "ROCK",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x83c82f0f959aD3eff528eE513b43808Aa53f4B37.svg"
+}

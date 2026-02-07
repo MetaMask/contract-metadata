@@ -1,0 +1,7 @@
+{
+  "name": "stSEI",
+  "symbol": "STSEI",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0xe5085112160fF75ee89a540Cdba570eAFdAF7f57.png"
+}

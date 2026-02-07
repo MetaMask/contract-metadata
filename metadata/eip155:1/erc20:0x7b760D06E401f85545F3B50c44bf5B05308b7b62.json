@@ -1,0 +1,7 @@
+{
+  "name": "YFLink USD",
+  "symbol": "YFLUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x7b760D06E401f85545F3B50c44bf5B05308b7b62.svg"
+}

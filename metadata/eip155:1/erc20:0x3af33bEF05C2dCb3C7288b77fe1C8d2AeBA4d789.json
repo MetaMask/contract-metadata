@@ -1,0 +1,7 @@
+{
+  "name": "Kromatika",
+  "symbol": "KROM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3af33bEF05C2dCb3C7288b77fe1C8d2AeBA4d789.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Compound 0x",
+  "symbol": "cZRX",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB3319f5D18Bc0D84dD1b4825Dcde5d5f7266d407.svg"
+}

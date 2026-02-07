@@ -1,0 +1,7 @@
+{
+  "name": "BlueLotusDAO",
+  "symbol": "BLDT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:16507/erc20:0xb4A3F9D3cEce2c298e9b73113f7B6C2B9f9d61fF.png"
+}

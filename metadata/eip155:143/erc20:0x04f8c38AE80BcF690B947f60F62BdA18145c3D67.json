@@ -1,0 +1,7 @@
+{
+  "name": "Monad Vault",
+  "symbol": "MVT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:143/erc20:0x04f8c38AE80BcF690B947f60F62BdA18145c3D67.svg"
+}

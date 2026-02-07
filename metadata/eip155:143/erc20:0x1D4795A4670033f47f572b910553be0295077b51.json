@@ -1,0 +1,7 @@
+{
+  "name": "mcMON",
+  "symbol": "mcMON",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:143/erc20:0x1D4795A4670033f47f572b910553be0295077b51.svg"
+}

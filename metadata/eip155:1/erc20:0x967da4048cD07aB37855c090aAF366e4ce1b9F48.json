@@ -1,0 +1,7 @@
+{
+  "name": "Ocean Token",
+  "symbol": "OCEAN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x967da4048cD07aB37855c090aAF366e4ce1b9F48.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Change",
+  "symbol": "CAG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x7d4b8Cce0591C9044a22ee543533b72E976E36C3.svg"
+}

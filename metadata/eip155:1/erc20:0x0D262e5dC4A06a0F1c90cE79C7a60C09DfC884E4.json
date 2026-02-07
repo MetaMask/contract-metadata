@@ -1,0 +1,7 @@
+{
+  "name": "JET8 Token",
+  "symbol": "J8T",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0D262e5dC4A06a0F1c90cE79C7a60C09DfC884E4.svg"
+}

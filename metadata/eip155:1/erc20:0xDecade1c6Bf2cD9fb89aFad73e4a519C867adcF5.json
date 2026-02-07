@@ -1,0 +1,7 @@
+{
+  "name": "Experty Wisdom Token",
+  "symbol": "WIS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xDecade1c6Bf2cD9fb89aFad73e4a519C867adcF5.svg"
+}

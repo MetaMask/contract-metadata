@@ -1,0 +1,7 @@
+{
+  "name": "FEG Token",
+  "symbol": "FEG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF3c7CECF8cBC3066F9a87b310cEBE198d00479aC.svg"
+}

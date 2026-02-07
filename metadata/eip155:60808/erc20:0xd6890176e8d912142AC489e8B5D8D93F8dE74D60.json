@@ -1,0 +1,7 @@
+{
+  "name": "Avalon Avalon WBTC",
+  "symbol": "aBOBWBTC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:60808/erc20:0xd6890176e8d912142AC489e8B5D8D93F8dE74D60.svg"
+}

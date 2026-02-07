@@ -1,0 +1,7 @@
+{
+  "name": "rSAI",
+  "symbol": "rSAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xea8b224eDD3e342DEb514C4176c2E72Bcce6fFF9.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "MUBI",
+  "symbol": "MUBI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x38e382F74dfb84608F3C1F10187f6bEf5951DE93.svg"
+}

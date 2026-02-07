@@ -1,0 +1,7 @@
+{
+  "name": "Mask Network",
+  "symbol": "MASK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x69af81e73A73B40adF4f3d4223Cd9b1ECE623074.svg"
+}

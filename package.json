@@ -1,0 +1,46 @@
+{
+  "name": "@metamask/contract-metadata",
+  "version": "2.5.0",
+  "description": "A mapping of ethereum contract addresses to broadly accepted icons for those addresses.",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "scripts": {
+    "test": "node test && node ./test/caip.js",
+    "test:caip": "node ./test/caip.js",
+    "asset": "node cli-update-asset.js",
+    "asset:set": "node cli-update-asset.js set",
+    "asset:verify": "node cli-update-asset.js verify",
+    "asset:list": "node cli-update-asset.js list"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MetaMask/contract-metadata.git"
+  },
+  "keywords": [
+    "ethereum",
+    "contract",
+    "icons"
+  ],
+  "author": "Dan Finlay <dan@danfinlay.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MetaMask/contract-metadata/issues"
+  },
+  "homepage": "https://github.com/MetaMask/contract-metadata#readme",
+  "files": [
+    "index.js",
+    "contract-map.json",
+    "images"
+  ],
+  "devDependencies": {
+    "ethereumjs-util": "^5.1.1",
+    "tape": "^4.6.3",
+    "zod": "^4.3.6"
+  }
+}

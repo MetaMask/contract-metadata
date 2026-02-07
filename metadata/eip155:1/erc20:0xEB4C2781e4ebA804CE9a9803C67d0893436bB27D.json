@@ -1,0 +1,7 @@
+{
+  "name": "renBTC",
+  "symbol": "renBTC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D.svg"
+}

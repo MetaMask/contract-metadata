@@ -1,0 +1,7 @@
+{
+  "name": "FortKnoxster",
+  "symbol": "FKX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x16484d73Ac08d2355F466d448D2b79D2039F6EBB.svg"
+}

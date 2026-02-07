@@ -1,0 +1,7 @@
+{
+  "name": "Yield",
+  "symbol": "YLD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xDcB01cc464238396E213a6fDd933E36796eAfF9f.svg"
+}

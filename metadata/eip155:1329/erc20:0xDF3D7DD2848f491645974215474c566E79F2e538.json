@@ -1,0 +1,7 @@
+{
+  "name": "SEITAN",
+  "symbol": "S8N",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0xDF3D7DD2848f491645974215474c566E79F2e538.png"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "BADGER",
+  "symbol": "BADGER",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3472A5A71965499acd81997a54BBA8D852C6E53d.svg"
+}

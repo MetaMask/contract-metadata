@@ -1,0 +1,7 @@
+{
+  "name": "USC Stablecoin",
+  "symbol": "USC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:25/erc20:0xD42E078ceA2bE8D03cd9dFEcC1f0d28915Edea78.png"
+}

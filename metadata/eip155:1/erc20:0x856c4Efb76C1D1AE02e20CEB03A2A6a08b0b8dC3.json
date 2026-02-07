@@ -1,0 +1,7 @@
+{
+  "name": "Origin Ether",
+  "symbol": "OETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3.svg"
+}

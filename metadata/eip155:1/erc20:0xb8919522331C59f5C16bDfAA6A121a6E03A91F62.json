@@ -1,0 +1,7 @@
+{
+  "name": "Home",
+  "symbol": "HOME",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xb8919522331C59f5C16bDfAA6A121a6E03A91F62.svg"
+}

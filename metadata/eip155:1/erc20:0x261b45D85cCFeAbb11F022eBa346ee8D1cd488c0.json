@@ -1,0 +1,7 @@
+{
+  "name": "rDAI",
+  "symbol": "rDAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x261b45D85cCFeAbb11F022eBa346ee8D1cd488c0.svg"
+}

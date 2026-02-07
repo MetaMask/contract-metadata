@@ -1,0 +1,7 @@
+{
+  "name": "Gokucity Token",
+  "symbol": "GOKU",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x019EA1347BD9bc912c0221d24983a74E9386B794.png"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Rainbow Pool",
+  "symbol": "xRNBW",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x47BE779De87de6580d0548cde80710a93c502405.svg"
+}

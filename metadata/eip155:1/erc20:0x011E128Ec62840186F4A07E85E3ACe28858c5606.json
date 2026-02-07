@@ -1,0 +1,7 @@
+{
+  "name": "Valeria",
+  "symbol": "VAL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x011E128Ec62840186F4A07E85E3ACe28858c5606.svg"
+}

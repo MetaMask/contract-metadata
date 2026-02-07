@@ -1,0 +1,7 @@
+{
+  "name": "Vault Bridge USDC",
+  "symbol": "vbUSDC",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:747474/erc20:0x203A662b0BD271A6ed5a60EdFbd04bFce608FD36.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "PROOF Platform",
+  "symbol": "PROOF",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9B4a69dE6CA0deFDD02c0c4ce6Cb84de5202944E.svg"
+}

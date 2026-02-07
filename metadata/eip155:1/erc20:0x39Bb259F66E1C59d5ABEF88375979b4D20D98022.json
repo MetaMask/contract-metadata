@@ -1,0 +1,7 @@
+{
+  "name": "WAX Token",
+  "symbol": "WAX",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x39Bb259F66E1C59d5ABEF88375979b4D20D98022.svg"
+}

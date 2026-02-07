@@ -1,0 +1,7 @@
+{
+  "name": "Neutrino USD",
+  "symbol": "USDN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x674C6Ad92Fd080e4004b2312b45f796a192D27a0.svg"
+}

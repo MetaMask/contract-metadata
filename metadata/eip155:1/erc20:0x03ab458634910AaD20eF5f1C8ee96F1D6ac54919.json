@@ -1,0 +1,7 @@
+{
+  "name": "Rai Reflex Index",
+  "symbol": "RAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919.svg"
+}

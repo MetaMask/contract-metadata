@@ -1,0 +1,7 @@
+{
+  "name": "Antimatter",
+  "symbol": "MATTER",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9B99CcA871Be05119B2012fd4474731dd653FEBe.svg"
+}

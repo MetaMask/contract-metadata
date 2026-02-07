@@ -1,0 +1,7 @@
+{
+  "name": "Atoshi",
+  "symbol": "ATOS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x4D0528598F916Fd1D8dc80e5f54a8fEEDcFd4b18.svg"
+}

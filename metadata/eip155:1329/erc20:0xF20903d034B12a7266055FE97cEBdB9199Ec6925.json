@@ -1,0 +1,7 @@
+{
+  "name": "BOOBLE",
+  "symbol": "BOOBLE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0xF20903d034B12a7266055FE97cEBdB9199Ec6925.png"
+}

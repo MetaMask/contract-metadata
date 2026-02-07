@@ -1,0 +1,7 @@
+{
+  "name": "iSEI",
+  "symbol": "iSEI",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x5Cf6826140C1C56Ff49C808A1A75407Cd1DF9423.png"
+}

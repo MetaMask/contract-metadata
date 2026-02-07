@@ -1,0 +1,7 @@
+{
+  "name": "Apple XTZ",
+  "symbol": "applXTZ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42793/erc20:0xcFD2f5FAF6D92D963238E74321325A90BA67fCA3.svg"
+}

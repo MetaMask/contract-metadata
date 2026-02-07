@@ -1,0 +1,7 @@
+{
+  "name": "CHIPS",
+  "symbol": "CHIPS",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0xBd82f3bfE1dF0c84faEC88a22EbC34C9A86595dc.png"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Fulcrum YFI iToken (iYFI)",
+  "symbol": "iYFI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x7F3Fe9D492A9a60aEBb06d82cBa23c6F32CAd10b.svg"
+}

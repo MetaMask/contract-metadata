@@ -1,0 +1,7 @@
+{
+  "name": "Staked fastUSD",
+  "symbol": "sfastUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0xdf77686D99667Ae56BC18f539B777DBc2BBE3E9F.png"
+}

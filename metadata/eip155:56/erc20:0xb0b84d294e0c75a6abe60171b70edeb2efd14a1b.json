@@ -1,0 +1,7 @@
+{
+  "name": "slisBNB",
+  "symbol": "slisBNB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xb0b84d294e0c75a6abe60171b70edeb2efd14a1b.svg"
+}

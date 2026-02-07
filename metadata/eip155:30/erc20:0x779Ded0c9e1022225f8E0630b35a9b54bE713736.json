@@ -1,0 +1,7 @@
+{
+  "name": "USD₮0",
+  "symbol": "USD₮0",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:30/erc20:0x779Ded0c9e1022225f8E0630b35a9b54bE713736.png"
+}

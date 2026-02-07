@@ -1,0 +1,7 @@
+{
+  "name": "Pesos Bolivianos PagoLinea",
+  "symbol": "BOBCB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:30/erc20:0x977675B863B3b1cf46A927FdDcBE0C831BF50135.png"
+}

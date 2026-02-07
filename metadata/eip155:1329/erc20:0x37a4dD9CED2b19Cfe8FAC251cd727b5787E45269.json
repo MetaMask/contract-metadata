@@ -1,0 +1,7 @@
+{
+  "name": "fastUSD",
+  "symbol": "fastUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x37a4dD9CED2b19Cfe8FAC251cd727b5787E45269.png"
+}

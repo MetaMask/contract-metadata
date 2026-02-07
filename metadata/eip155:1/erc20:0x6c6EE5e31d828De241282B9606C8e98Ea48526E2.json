@@ -1,0 +1,7 @@
+{
+  "name": "HoloToken",
+  "symbol": "HOT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x6c6EE5e31d828De241282B9606C8e98Ea48526E2.svg"
+}

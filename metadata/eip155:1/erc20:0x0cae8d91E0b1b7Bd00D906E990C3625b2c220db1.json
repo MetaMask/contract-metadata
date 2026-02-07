@@ -1,0 +1,7 @@
+{
+  "name": "Fulcrum AAVE iToken (iAAVE)",
+  "symbol": "iAAVE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0cae8d91E0b1b7Bd00D906E990C3625b2c220db1.svg"
+}

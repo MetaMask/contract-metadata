@@ -1,0 +1,7 @@
+{
+  "name": "Bitcoin",
+  "symbol": "BTC",
+  "decimals": 8,
+  "erc20": false,
+  "logo": "./icons/bip122:000000000019d6689c085ae165831e93/slip44:0.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Bitspawn",
+  "symbol": "SPWN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xe516D78d784C77D479977BE58905B3f2b1111126.svg"
+}

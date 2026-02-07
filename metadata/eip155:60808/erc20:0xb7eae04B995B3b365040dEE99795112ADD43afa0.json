@@ -1,0 +1,7 @@
+{
+  "name": "Staked FRAX",
+  "symbol": "sFRAX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:60808/erc20:0xb7eae04B995B3b365040dEE99795112ADD43afa0.svg"
+}

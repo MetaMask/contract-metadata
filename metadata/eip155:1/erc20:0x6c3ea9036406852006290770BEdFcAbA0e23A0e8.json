@@ -1,0 +1,7 @@
+{
+  "name": "PayPal USD",
+  "symbol": "PYUSD",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x6c3ea9036406852006290770BEdFcAbA0e23A0e8.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Starbase",
+  "symbol": "STAR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF70a642bD387F94380fFb90451C2c81d4Eb82CBc.svg"
+}

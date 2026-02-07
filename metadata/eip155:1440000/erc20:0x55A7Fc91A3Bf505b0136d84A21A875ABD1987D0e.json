@@ -1,0 +1,7 @@
+{
+  "name": "Elys",
+  "symbol": "ELYS",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1440000/erc20:0x55A7Fc91A3Bf505b0136d84A21A875ABD1987D0e.png"
+}

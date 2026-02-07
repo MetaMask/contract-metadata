@@ -1,0 +1,7 @@
+{
+  "name": "Vault Bridge ETH",
+  "symbol": "vbETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:747474/erc20:0xEE7D8BCFb72bC1880D0Cf19822eB0A2e6577aB62.svg"
+}

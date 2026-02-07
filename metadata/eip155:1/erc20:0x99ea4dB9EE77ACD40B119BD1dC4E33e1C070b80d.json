@@ -1,0 +1,7 @@
+{
+  "name": "Quantstamp",
+  "symbol": "QSP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x99ea4dB9EE77ACD40B119BD1dC4E33e1C070b80d.svg"
+}

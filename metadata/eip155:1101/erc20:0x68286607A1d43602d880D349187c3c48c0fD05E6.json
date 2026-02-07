@@ -1,0 +1,7 @@
+{
+  "name": "QuickSwap",
+  "symbol": "QUICK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1101/erc20:0x68286607A1d43602d880D349187c3c48c0fD05E6.svg"
+}

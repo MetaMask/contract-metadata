@@ -1,0 +1,7 @@
+{
+  "name": "YFLink Bond",
+  "symbol": "bYFL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x008377EB0C62cE8e0BA3D7Bb4A5638591f21588E.svg"
+}

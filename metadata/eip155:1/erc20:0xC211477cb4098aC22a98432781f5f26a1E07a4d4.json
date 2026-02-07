@@ -1,0 +1,7 @@
+{
+  "name": "CULTURED",
+  "symbol": "CULTURED",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xC211477cb4098aC22a98432781f5f26a1E07a4d4.svg"
+}

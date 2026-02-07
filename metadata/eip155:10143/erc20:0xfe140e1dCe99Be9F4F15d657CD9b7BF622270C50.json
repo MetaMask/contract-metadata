@@ -1,0 +1,7 @@
+{
+  "name": "Moyaki",
+  "symbol": "YAKI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:10143/erc20:0xfe140e1dCe99Be9F4F15d657CD9b7BF622270C50.png"
+}

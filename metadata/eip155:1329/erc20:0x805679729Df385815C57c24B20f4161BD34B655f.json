@@ -1,0 +1,7 @@
+{
+  "name": "Fishwar",
+  "symbol": "FISHW",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x805679729Df385815C57c24B20f4161BD34B655f.svg"
+}

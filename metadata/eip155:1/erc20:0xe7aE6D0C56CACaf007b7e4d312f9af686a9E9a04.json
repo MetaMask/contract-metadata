@@ -1,0 +1,7 @@
+{
+  "name": "Vabble",
+  "symbol": "VAB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xe7aE6D0C56CACaf007b7e4d312f9af686a9E9a04.svg"
+}

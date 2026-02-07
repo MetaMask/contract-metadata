@@ -1,0 +1,7 @@
+{
+  "name": "CoW Protocol Virtual Token",
+  "symbol": "vCOW",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD057B63f5E69CF1B929b356b579Cba08D7688048.svg"
+}

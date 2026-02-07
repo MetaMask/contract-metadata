@@ -1,0 +1,7 @@
+{
+  "name": "Tether USD from Blue20",
+  "symbol": "USDT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:16507/erc20:0x766C8AeD079D43D6B29dA8792b818373b933d80e.png"
+}

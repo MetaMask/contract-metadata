@@ -1,0 +1,7 @@
+{
+  "name": "Atom (Osmosis)",
+  "symbol": "ATOM",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x0E8440025B74605151F5644b93AA861f35906Bec.svg"
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Egg",
+    "symbol": "EGG",
+    "decimals": 18,
+    "erc20": true,
+    "logo": "./icons/eip155:698/erc20:0x33930C6b365EdB83e60ba80CB1c8445511862762.svg"
+  }

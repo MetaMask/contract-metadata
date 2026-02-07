@@ -1,0 +1,7 @@
+{
+  "name": "Real World Asset",
+  "symbol": "RWA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x6aA030a9710CAD6E719A4EC0a85260Eb3F4F86c1.svg"
+}

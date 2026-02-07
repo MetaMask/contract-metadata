@@ -1,0 +1,7 @@
+{
+  "name": "ForU AI",
+  "symbol": "FORU",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x04f0542fb2ec871A6e28156039d71fD9a9e85a92.png"
+}

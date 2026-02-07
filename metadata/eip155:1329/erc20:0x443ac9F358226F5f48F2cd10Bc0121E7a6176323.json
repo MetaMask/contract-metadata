@@ -1,0 +1,7 @@
+{
+  "name": "BitBat Token",
+  "symbol": "BAT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x443ac9F358226F5f48F2cd10Bc0121E7a6176323.png"
+}

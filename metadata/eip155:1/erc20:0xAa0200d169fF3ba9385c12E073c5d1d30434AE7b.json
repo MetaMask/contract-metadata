@@ -1,0 +1,7 @@
+{
+  "name": "Aave v3 mUSD",
+  "symbol": "AmUSD",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xAa0200d169fF3ba9385c12E073c5d1d30434AE7b.svg"
+}

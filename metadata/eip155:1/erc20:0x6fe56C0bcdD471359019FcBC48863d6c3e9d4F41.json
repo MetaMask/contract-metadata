@@ -1,0 +1,7 @@
+{
+  "name": "Props Token",
+  "symbol": "PROPS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x6fe56C0bcdD471359019FcBC48863d6c3e9d4F41.svg"
+}

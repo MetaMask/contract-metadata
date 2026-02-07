@@ -1,0 +1,7 @@
+{
+  "name": "Hemi Bitcoin",
+  "symbol": "hemiBTC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:43111/erc20:0xAA40c0c7644e0b2B224509571e10ad20d9C4ef28.svg"
+}

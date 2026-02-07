@@ -1,0 +1,7 @@
+{
+  "name": "Bridged WETH (Stargate)",
+  "symbol": "stgWETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:747/erc20:0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590.png"
+}

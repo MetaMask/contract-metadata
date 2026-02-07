@@ -1,0 +1,7 @@
+{
+  "name": "Immutable X",
+  "symbol": "IMX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF57e7e7C23978C3cAEC3C3548E3D615c346e79fF.svg"
+}

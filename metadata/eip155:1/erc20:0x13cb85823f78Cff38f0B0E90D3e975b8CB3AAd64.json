@@ -1,0 +1,7 @@
+{
+  "name": "REMIIT REMI Token",
+  "symbol": "REMI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x13cb85823f78Cff38f0B0E90D3e975b8CB3AAd64.svg"
+}

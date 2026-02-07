@@ -1,0 +1,7 @@
+{
+  "name": "SEIFUN",
+  "symbol": "SFN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0xd0D622dE44A521404dc50e4ABef08dE82269Dcbf.png"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Qtum",
+  "symbol": "QTUM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9a642d6b3368ddc662CA244bAdf32cDA716005BC.svg"
+}

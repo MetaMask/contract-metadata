@@ -1,0 +1,7 @@
+{
+  "name": "NAOS Finance",
+  "symbol": "NAOS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x4a615bB7166210CCe20E6642a6f8Fb5d4D044496.svg"
+}

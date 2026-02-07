@@ -1,0 +1,7 @@
+{
+  "name": "Rarible",
+  "symbol": "RARI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xFca59Cd816aB1eaD66534D82bc21E7515cE441CF.svg"
+}

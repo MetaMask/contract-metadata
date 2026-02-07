@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   fill="none"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="Vector.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="256"
+     inkscape:cy="254.91525"
+     inkscape:window-width="1528"
+     inkscape:window-height="802"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
+  <path
+     d="M256 512C397.385 512 512 397.385 512 256.001C512 114.615 397.385 0 256 0C114.615 0 0 114.615 0 256.001C0 397.385 114.615 512 256 512Z"
+     fill="#F35D00"
+     id="path1" />
+  <path
+     d="M159.811 202.642V280.697C159.811 283.382 161.988 285.56 164.675 285.56H242.729C245.416 285.56 247.594 283.382 247.594 280.697V202.642C247.594 199.955 245.416 197.778 242.729 197.778H164.675C161.988 197.778 159.811 199.955 159.811 202.642Z"
+     fill="white"
+     id="path2" />
+  <path
+     d="M159.84 312.336V390.389C159.84 393.078 162.018 395.254 164.705 395.254H242.759C245.446 395.254 247.624 393.078 247.624 390.389V312.336C247.624 309.65 245.446 307.472 242.759 307.472H164.705C162.018 307.472 159.84 309.65 159.84 312.336Z"
+     fill="white"
+     id="path3" />
+  <path
+     d="M269.525 312.339V390.394C269.525 393.08 271.703 395.259 274.39 395.259H352.443C355.13 395.259 357.308 393.08 357.308 390.394V312.339C357.308 309.652 355.13 307.474 352.443 307.474H274.39C271.703 307.474 269.525 309.652 269.525 312.339Z"
+     fill="white"
+     id="path4" />
+  <path
+     d="M269.525 202.624V280.679C269.525 283.364 271.703 285.542 274.39 285.542H352.443C355.13 285.542 357.308 283.364 357.308 280.679V202.624C357.308 199.938 355.13 197.76 352.443 197.76H274.39C271.703 197.76 269.525 199.938 269.525 202.624Z"
+     fill="white"
+     id="path5" />
+  <path
+     d="M242.729 88.0608H164.675C161.988 88.0608 159.811 90.2387 159.811 92.9249V170.98C159.811 173.666 161.988 175.843 164.675 175.843H242.729C245.416 175.843 247.594 173.666 247.594 170.98V92.9249C247.594 90.2387 245.416 88.0608 242.729 88.0608Z"
+     fill="white"
+     id="path6" />
+</svg>

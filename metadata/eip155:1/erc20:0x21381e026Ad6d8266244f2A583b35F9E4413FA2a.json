@@ -1,0 +1,7 @@
+{
+  "name": "Formation Finance",
+  "symbol": "FORM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x21381e026Ad6d8266244f2A583b35F9E4413FA2a.svg"
+}

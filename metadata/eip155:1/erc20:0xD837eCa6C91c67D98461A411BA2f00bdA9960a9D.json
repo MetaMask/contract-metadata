@@ -1,0 +1,7 @@
+{
+  "name": "unFederal AAVE",
+  "symbol": "unAAVE",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD837eCa6C91c67D98461A411BA2f00bdA9960a9D.svg"
+}

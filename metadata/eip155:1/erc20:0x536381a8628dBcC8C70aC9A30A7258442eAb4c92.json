@@ -1,0 +1,7 @@
+{
+  "name": "Pantos Token ",
+  "symbol": "PAN",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x536381a8628dBcC8C70aC9A30A7258442eAb4c92.svg"
+}

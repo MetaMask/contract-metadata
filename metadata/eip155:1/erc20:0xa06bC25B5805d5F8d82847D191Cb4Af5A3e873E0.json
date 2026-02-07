@@ -1,0 +1,7 @@
+{
+  "name": "Aave LINK",
+  "symbol": "aLINK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xa06bC25B5805d5F8d82847D191Cb4Af5A3e873E0.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Sovryn Dollar",
+  "symbol": "DLLR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:30/erc20:0xc1411567d2670e24d9C4DaAa7CdA95686e1250AA.png"
+}

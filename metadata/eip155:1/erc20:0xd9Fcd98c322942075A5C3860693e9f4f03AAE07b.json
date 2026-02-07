@@ -1,0 +1,7 @@
+{
+  "name": "Euler",
+  "symbol": "EUL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xd9Fcd98c322942075A5C3860693e9f4f03AAE07b.svg"
+}

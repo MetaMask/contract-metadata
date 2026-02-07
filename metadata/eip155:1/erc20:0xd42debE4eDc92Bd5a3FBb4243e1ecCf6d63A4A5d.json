@@ -1,0 +1,7 @@
+{
+  "name": "Carboneum",
+  "symbol": "C8",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xd42debE4eDc92Bd5a3FBb4243e1ecCf6d63A4A5d.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Froggy",
+  "symbol": "FROG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0xF9BDbF259eCe5ae17e29BF92EB7ABd7B8b465Db9.png"
+}

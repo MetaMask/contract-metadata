@@ -1,0 +1,7 @@
+{
+  "name": "Grand Gangsta City",
+  "symbol": "GGC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x58E11d8ED38a2061361e90916540c5c32281A380.png"
+}
