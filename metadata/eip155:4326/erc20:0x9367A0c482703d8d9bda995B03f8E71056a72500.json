@@ -1,0 +1,7 @@
+{
+  "name": "Synthetics Implemented Right",
+  "symbol": "MegaSIR",
+  "decimals": 12,
+  "erc20": true,
+  "logo": "./icons/eip155:4326/erc20:0x9367A0c482703d8d9bda995B03f8E71056a72500.svg"
+}
