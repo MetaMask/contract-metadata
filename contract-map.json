@@ -4520,18 +4520,21 @@
     "decimals": 18
   },
   
-   "0xf9cac504875c65012dc4163830bd6e77a5542017": {
-    "name": "Pluto-i",
-    "symbol": "PLI",
-    "logo": "0xf9cac504875c65012dc4163830bd6e77a5542017.png"
+   "0xF9cAc504875c65012dC4163830bd6e77A5542017": {
+  "name": "Pluto-i",
+  "symbol": "PLI",
+  "erc20": true,
+  "decimals": 18,
+  "logo": "0xf9cac504875c65012dc4163830bd6e77a5542017.png"
+ },
+ "0x248D0ac4EbA0f9256897743F2D48a88C46Ea7f49": {
+  "name": "Pluto-i",
+  "symbol": "PLI",
+  "erc20": true,
+  "decimals": 18,
+  "logo": "0x248d0ac4eba0f9256897743f2d48a88c46ea7f49.png"
+ }
 
-  },
-  "0x248d0ac4eba0f9256897743f2d48a88c46ea7f49": {
-    "name": "Pluto-i",
-    "symbol": "PLI",
-    "logo": "0x248d0ac4eba0f9256897743f2d48a88c46ea7f49.png"
 
 
-  }
-
-}
+ }
