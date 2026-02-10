@@ -1,0 +1,7 @@
+{
+  "name": "BitgetToken",
+  "symbol": "BGB(old)",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:2818/erc20:0x55d1f1879969bdbB9960d269974564C58DBc3238.svg"
+}
