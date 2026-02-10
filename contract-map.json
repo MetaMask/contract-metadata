@@ -307,7 +307,6 @@
     "symbol": "NRG",
     "decimals": 18
   },
-
   "0x0d88eD6E74bbFD96B831231638b66C05571e824F": {
     "name": "Aventus",
     "logo": "aventus.svg",
@@ -2071,7 +2070,6 @@
     "symbol": "MLN",
     "decimals": 18
   },
-
   "0xba358B6f5b4c0215650444B8C30D870B55050D2D": {
     "name": "Hub Token",
     "logo": "hub.svg",
@@ -4518,21 +4516,19 @@
     "erc20": true,
     "symbol": "FPS",
     "decimals": 18
-
   },
   "0xF9cAc504875c65012dC4163830bd6e77A5542017": {
     "name": "Pluto-i",
     "symbol": "PLI",
     "erc20": true,
     "decimals": 18,
-    "logo": "0xf9cac504875c65012dc4163830bd6e77a5542017.png"
+    "logo": "0xf9cac504875c65012dc4163830bd6e77a5542017.svg"
   },
   "0x248D0ac4EbA0f9256897743F2D48a88C46Ea7f49": {
     "name": "Pluto-i",
     "symbol": "PLI",
     "erc20": true,
     "decimals": 18,
-    "logo": "0x248d0ac4eba0f9256897743f2d48a88c46ea7f49.png"
+    "logo": "0x248d0ac4eba0f9256897743f2d48a88c46ea7f49.svg"
   }
-  
- }
+}
