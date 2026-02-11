@@ -33,6 +33,78 @@ const ethereumNetworkChainId = 1
 imageElForEVMToken (ethereumNetworkChainId, "0x06012c8cf97BEaD5deAe237070F9587f8E7A266d")
 ```
 
+## CLI Tool for Managing Assets
+
+This repository includes a CLI tool (`cli-update-asset.js`) to help manage contract metadata and icons following the CAIP-19 standard.
+
+### Available Commands
+
+#### Add or Update an Asset
+
+```bash
+# Add a new asset
+npm run asset:set -- \
+  --caip "eip155:1/erc20:0xTOKEN_ADDRESS" \
+  --name "Token Name" \
+  --symbol "SYMBOL" \
+  --decimals 18 \
+  --image ./path/to/logo.svg
+
+# Update an existing asset
+npm run asset:set -- \
+  --caip "eip155:1/erc20:0xTOKEN_ADDRESS" \
+  --name "Updated Token Name"
+
+# Use an image URL
+npm run asset:set -- \
+  --caip "eip155:1/erc20:0xTOKEN_ADDRESS" \
+  --name "Token Name" \
+  --symbol "SYMBOL" \
+  --decimals 18 \
+  --image "https://example.com/logo.png"
+```
+
+#### Verify an Asset
+
+```bash
+npm run asset:verify -- \
+  --caip "eip155:1/erc20:0xTOKEN_ADDRESS"
+```
+
+#### List Assets
+
+```bash
+# List all assets in a namespace
+npm run asset:list -- --namespace "eip155:1"
+```
+
+### CLI Parameters
+
+- `--caip`: CAIP-19 identifier (required) - Format: `namespace:chainId/assetNamespace:assetReference`
+- `--name`: Token name (required for new assets)
+- `--symbol`: Token symbol (required for new assets)
+- `--decimals`: Number of decimals (required for new assets)
+- `--image`: Path to image file or URL (required for new assets)
+  - Supports: `.svg`, `.png`, `.jpg`, `.jpeg`
+  - Can be a local file path or HTTP/HTTPS URL
+- `--erc20`: Set to `true` or `false` (optional, auto-detected for `erc20:` prefix)
+- `--spl`: Set to `true` or `false` (optional, auto-detected for `spl:` prefix)
+
+### Workflow
+
+1. Add or update an asset using `npm run asset:set`
+2. Verify the changes using `npm run asset:verify`
+3. Rebuild the contract-map.json: `node buildindex.js`
+4. Review the changes in git
+5. Commit and push your changes
+
+The tool automatically:
+- Validates all inputs using Zod schemas
+- Renames icon files to match the asset ID
+- Removes old icons when updating with a new image
+- Auto-detects `erc20` and `spl` fields based on the asset namespace
+- Downloads and saves images from URLs with the correct extension
+
 ## Submission Process
 
 Maintaining this list is a considerable chore, and it is not our highest priority. We do not guarantee inclusion in this list on any urgent timeline. We are actively looking for fair and safe ways to maintain a list like this in a decentralized way, because maintaining it is a large and security-delicate task.
