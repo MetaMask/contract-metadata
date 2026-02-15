@@ -1,13 +1,4 @@
-# Cursor Rules for contract-metadata
 
-See CLAUDE.md for full AI assistant instructions.
-
-## Key Patterns
-
-- CAIP-19 asset IDs: `<chain_namespace>:<chain_reference>/<asset_namespace>:<asset_reference>`
-- Metadata files: `metadata/<chainId>/<assetId>.json`
-- Icon files: `icons/<chainId>/<assetId>.<svg|png>`
-- Permitted metadata fields: name, logo, erc20, erc721, symbol, decimals, spl20
 - EVM addresses must be EIP-55 checksummed
 - Icons must be SVG or PNG format
 - Use `cli-update-asset.js` for asset management
