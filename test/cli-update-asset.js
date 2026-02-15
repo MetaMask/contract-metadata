@@ -111,7 +111,13 @@ test("cli update: updates existing asset metadata", function (t) {
   if (!fs.existsSync(metaDir)) fs.mkdirSync(metaDir, { recursive: true });
   fs.writeFileSync(
     metaFile,
-    JSON.stringify({ name: "Old Name", symbol: "OLD", decimals: 8, erc20: true, logo: `./icons/${testChain}/${testAsset}.svg` }),
+    JSON.stringify({
+      name: "Old Name",
+      symbol: "OLD",
+      decimals: 8,
+      erc20: true,
+      logo: `./icons/${testChain}/${testAsset}.svg`,
+    }),
   );
 
   const { stdout, exitCode } = run(
@@ -231,7 +237,10 @@ test("cli verify: reports errors for bad metadata", function (t) {
   const testAsset = "erc20:0xVERIFY234567890abcdef1234567890abcdef1234";
   const caip19 = `${testChain}/${testAsset}`;
   const metaDir = path.join(__dirname, "..", "metadata", testChain);
-  const metaFile = path.join(metaDir, `${testAsset}.json`);
+    JSON.stringify({
+      badField: true,
+      logo: "./icons/nonexistent.svg",
+    }),
 
   // Create bad metadata (missing name, unknown field)
   if (!fs.existsSync(metaDir)) fs.mkdirSync(metaDir, { recursive: true });
