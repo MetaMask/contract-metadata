@@ -260,9 +260,6 @@ async function commandUpdate(opts) {
 
     metadata.logo = iconRelPath;
     console.log(`Icon saved: ${iconRelPath}`);
-  } else if (!metadata.logo) {
-    // Default logo path even if no logo provided yet
-    metadata.logo = `./icons/${chain}/${asset}.svg`;
   }
 
   // Validate no unknown fields
