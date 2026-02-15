@@ -11,6 +11,7 @@
     "node": ">=14.0.0"
   },
   "scripts": {
+    "build": "node -e \"console.log('No build step required for @metamask/contract-metadata')\"",
     "test": "node test && node ./test/caip.js && node ./test/cli-update-asset.js",
     "test:caip": "node ./test/caip.js",
     "test:cli": "node ./test/cli-update-asset.js",

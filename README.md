@@ -97,6 +97,7 @@ The project follows the same release process as the other libraries in the MetaM
    - Try to explain each change in terms that users of the package would understand (e.g. avoid referencing internal variables/concepts).
    - Consolidate related changes into one change entry if it makes it easier to explain.
    - Run `yarn auto-changelog validate --rc` to check that the changelog is correctly formatted.
+   - If your local workflow is npm-based, you can run `npx auto-changelog validate --rc`.
 
 5. Review and QA the release.
 
@@ -111,3 +112,15 @@ The project follows the same release process as the other libraries in the MetaM
    - Wait for the `publish-release` GitHub Action workflow to finish. This should trigger a second job (`publish-npm`), which will wait for a run approval by the [`npm publishers`](https://github.com/orgs/MetaMask/teams/npm-publishers) team.
    - Approve the `publish-npm` job (or ask somebody on the npm publishers team to approve it for you).
    - Once the `publish-npm` job has finished, check npm to verify that it has been published.
+
+#### Manual npm fallback
+
+If the GitHub Actions release flow is unavailable, you can run a manual npm release:
+
+```bash
+npm install
+npm test
+npm run build
+npm version <patch|minor|major>
+npm publish --access public
+```
