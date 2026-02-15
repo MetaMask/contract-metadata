@@ -1,5 +1,0 @@
-
-- EVM addresses must be EIP-55 checksummed
-- Icons must be SVG or PNG format
-- Use `cli-update-asset.js` for asset management
-- Tests use `tape` framework — run with `npm test`
