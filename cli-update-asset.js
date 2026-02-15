@@ -112,7 +112,8 @@ function downloadFile(url, dest) {
     proto
       .get(url, (res) => {
         if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
-          // Follow redirect
+          // Consume the redirect response body so the socket can be freed
+          res.resume();
           return downloadFile(res.headers.location, dest).then(resolve, reject);
         }
         if (res.statusCode !== 200) {
@@ -134,9 +135,14 @@ function downloadFile(url, dest) {
  * Detect file extension from content or URL.
  */
 function detectExtension(urlOrPath) {
+  // Strip query string and fragment before checking extension
+  const cleaned = urlOrPath.split("?")[0].split("#")[0].toLowerCase();
+  if (cleaned.endsWith(".svg")) return "svg";
+  if (cleaned.endsWith(".png")) return "png";
+  // Check content-type hints in query params as a last resort
   const lower = urlOrPath.toLowerCase();
-  if (lower.endsWith(".svg") || lower.includes("svg")) return "svg";
-  if (lower.endsWith(".png") || lower.includes("png")) return "png";
+  if (lower.includes("format=svg") || lower.includes("content-type=image/svg")) return "svg";
+  if (lower.includes("format=png") || lower.includes("content-type=image/png")) return "png";
   return "svg"; // default
 }
 
