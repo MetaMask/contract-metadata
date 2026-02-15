@@ -1,6 +1,6 @@
 {
   "name": "@metamask/contract-metadata",
-  "version": "2.5.0",
+  "version": "2.5.1",
   "description": "A mapping of ethereum contract addresses to broadly accepted icons for those addresses.",
   "main": "index.js",
   "publishConfig": {
