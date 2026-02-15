@@ -1,0 +1,7 @@
+{
+  "name": "rsETHWrapper",
+  "symbol": "wrsETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:4326/erc20:0x4Fc44BE15e9B6E30C1E774E2C87A21D3E8b5403F.svg"
+}

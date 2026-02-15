@@ -12,11 +12,7 @@
   },
   "scripts": {
     "test": "node test && node ./test/caip.js",
-    "test:caip": "node ./test/caip.js",
-    "asset": "node cli-update-asset.js",
-    "asset:set": "node cli-update-asset.js set",
-    "asset:verify": "node cli-update-asset.js verify",
-    "asset:list": "node cli-update-asset.js list"
+    "test:caip": "node ./test/caip.js"
   },
   "repository": {
     "type": "git",

@@ -1,0 +1,7 @@
+{
+  "name": "MEGA",
+  "symbol": "MEGA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:4326/erc20:0x28B7E77f82B25B95953825F1E3eA0E36c1c29861.svg"
+}
