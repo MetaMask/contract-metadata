@@ -237,10 +237,7 @@ test("cli verify: reports errors for bad metadata", function (t) {
   const testAsset = "erc20:0xVERIFY234567890abcdef1234567890abcdef1234";
   const caip19 = `${testChain}/${testAsset}`;
   const metaDir = path.join(__dirname, "..", "metadata", testChain);
-    JSON.stringify({
-      badField: true,
-      logo: "./icons/nonexistent.svg",
-    }),
+  const metaFile = path.join(metaDir, `${testAsset}.json`);
 
   // Create bad metadata (missing name, unknown field)
   if (!fs.existsSync(metaDir)) fs.mkdirSync(metaDir, { recursive: true });
