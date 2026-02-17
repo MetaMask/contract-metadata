@@ -1,0 +1,7 @@
+{
+  "name": "AS Roma",
+  "symbol": "ASR",
+  "decimals": 0,
+  "erc20": true,
+  "logo": "./icons/eip155:88888/erc20:0xa6610b3361c4c0D206Aa3364cd985016c2d89386.png"
+}

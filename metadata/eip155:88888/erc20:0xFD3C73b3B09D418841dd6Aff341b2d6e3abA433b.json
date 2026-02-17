@@ -1,0 +1,7 @@
+{
+  "name": "FC Barcelona",
+  "symbol": "BAR",
+  "decimals": 0,
+  "erc20": true,
+  "logo": "./icons/eip155:88888/erc20:0xFD3C73b3B09D418841dd6Aff341b2d6e3abA433b.png"
+}

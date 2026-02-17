@@ -1,0 +1,7 @@
+{
+  "name": "OG",
+  "symbol": "OG",
+  "decimals": 0,
+  "erc20": true,
+  "logo": "./icons/eip155:88888/erc20:0x19cA0F4aDb29e2130A56b9C9422150B5dc07f294.png"
+}
