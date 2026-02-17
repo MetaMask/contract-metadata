@@ -1,0 +1,7 @@
+{
+  "name": "Murtis",
+  "symbol": "MURTIS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:33139/erc20:0xB0a563dDd67237E1c8a0995C432d879fA3ecd6FE.png"
+}

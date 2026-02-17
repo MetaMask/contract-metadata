@@ -1,0 +1,7 @@
+{
+  "name": "Geez PNutz",
+  "symbol": "PNutz",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:33139/erc20:0x54A70516e9c0223F4a92bE3a4832a06f546e783B.png"
+}

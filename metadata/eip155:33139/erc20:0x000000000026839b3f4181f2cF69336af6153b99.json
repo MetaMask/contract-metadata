@@ -1,0 +1,7 @@
+{
+  "name": "GG",
+  "symbol": "GG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:33139/erc20:0x000000000026839b3f4181f2cF69336af6153b99.png"
+}

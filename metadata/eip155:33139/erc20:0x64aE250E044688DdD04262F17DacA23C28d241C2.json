@@ -1,0 +1,7 @@
+{
+  "name": "Pleasing Gold",
+  "symbol": "PGOLD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:33139/erc20:0x64aE250E044688DdD04262F17DacA23C28d241C2.svg"
+}

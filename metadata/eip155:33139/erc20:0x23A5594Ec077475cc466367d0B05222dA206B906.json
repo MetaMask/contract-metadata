@@ -1,0 +1,7 @@
+{
+  "name": "BAYC",
+  "symbol": "BAYC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:33139/erc20:0x23A5594Ec077475cc466367d0B05222dA206B906.png"
+}
