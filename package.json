@@ -11,8 +11,12 @@
     "node": ">=14.0.0"
   },
   "scripts": {
-    "test": "node test && node ./test/caip.js",
-    "test:caip": "node ./test/caip.js"
+    "test": "node test && node ./test/caip.js && node ./test/cli-update-asset.js",
+    "test:caip": "node ./test/caip.js",
+    "test:cli": "node ./test/cli-update-asset.js",
+    "asset:update": "node cli-update-asset.js update",
+    "asset:verify": "node cli-update-asset.js verify",
+    "asset:list": "node cli-update-asset.js list"
   },
   "repository": {
     "type": "git",
