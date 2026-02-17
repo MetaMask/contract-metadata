@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped Chiliz",
+  "symbol": "wCHZ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:88888/erc20:0x677F7e16C7Dd57be1D4C8aD1244883214953DC47.png"
+}
