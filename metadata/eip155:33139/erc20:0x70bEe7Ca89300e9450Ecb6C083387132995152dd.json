@@ -1,0 +1,7 @@
+{
+  "name": "Crypto Is Fun",
+  "symbol": "CIF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:33139/erc20:0x70bEe7Ca89300e9450Ecb6C083387132995152dd.jpg"
+}

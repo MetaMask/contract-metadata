@@ -1,0 +1,7 @@
+{
+  "name": "Gutter Token",
+  "symbol": "GANG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:33139/erc20:0x28D9428716c2F6E566766dc8f5f56C1aF43042b7.png"
+}

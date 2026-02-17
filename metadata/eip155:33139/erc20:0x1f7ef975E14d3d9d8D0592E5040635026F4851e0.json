@@ -1,0 +1,7 @@
+{
+  "name": "LAGMI",
+  "symbol": "$LE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:33139/erc20:0x1f7ef975E14d3d9d8D0592E5040635026F4851e0.png"
+}

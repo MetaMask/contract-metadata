@@ -1,0 +1,7 @@
+{
+  "name": "Planet of the Apes",
+  "symbol": "POA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:33139/erc20:0x0cB2424d147BeE383CdcD864e0D7139D78f0f717.jpg"
+}

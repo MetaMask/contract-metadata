@@ -1,0 +1,7 @@
+{
+  "name": "GonnaMakeIt",
+  "symbol": "GMI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:33139/erc20:0x044E874f23F9a7e5Dad696554A116C4Bb62fEcB7.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Make Ape Great Again",
+  "symbol": "MAGA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:33139/erc20:0x288F186c2d2021D73e6DA6Bb83722f2eE6D6cb2A.jpg"
+}
