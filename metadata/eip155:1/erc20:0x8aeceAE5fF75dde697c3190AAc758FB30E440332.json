@@ -1,0 +1,7 @@
+{
+  "name": "mfenx",
+  "symbol": "MFENX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x8aeceAE5fF75dde697c3190AAc758FB30E440332.png"
+}
