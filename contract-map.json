@@ -1,10 +1,4 @@
-"0x...alamat_token_sebelumnya": {
-    "name": "Nama Token Lain",
-    "logo": "logo_lain.png",
-    "erc20": true,
-    "symbol": "XYZ",
-    "decimals": 18
-  },
+},
   "0xe71185E2F039013993F2Bc7Da8e51B63E40B063D": {
     "name": "KongaliCoin",
     "logo": "0xe71185E2F039013993F2Bc7Da8e51B63E40B063D.png",
