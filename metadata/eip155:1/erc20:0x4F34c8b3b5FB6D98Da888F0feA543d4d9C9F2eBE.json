@@ -1,0 +1,7 @@
+{
+  "name": "Peruvian Sol",
+  "symbol": "wPEN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x4F34c8b3b5FB6D98Da888F0feA543d4d9C9F2eBE.png"
+}
