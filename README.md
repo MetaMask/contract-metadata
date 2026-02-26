@@ -20,7 +20,6 @@ function imageElForEVMToken (chainId, address) {
   const caip19Address = `eip155:${chainId}/erc20:${toChecksumAddress(address)}`
   const metadata = contractMap[caip19Address]
   if (metadata?.logo) {
-    const fileName = metadata.logo
     const path = `${__dirname}/${metadata.logo}`
     const img = document.createElement('img')
     img.src = path
@@ -39,7 +38,7 @@ Maintaining this list is a considerable chore, and it is not our highest priorit
 
 1. Fork this repository.
 2. Add your logo image in `.svg` or `.png` file format to the `icons` folder.
-3. Add your asset metadata in a json format to a  `metadata/${caip19AssetId}.json` file with the CAIP-19 Asset ID as the key inside of the `metadata/` folder.
+3. Add your asset metadata in JSON format to `metadata/<chainId>/<assetId>.json`.
 
 Criteria:
 
@@ -56,19 +55,21 @@ A sample submission:
 
 ```json
 {
-  "eip:155/erc20:0x6090A6e47849629b7245Dfa1Ca21D94cd15878Ef": {
-    "name": "ENS Registrar",
-    "decimals": 18,
-    "symbol": "ENS",
-    "erc20": true,
-    "logo": "./icons/eip:155/erc20:0x6090A6e47849629b7245Dfa1Ca21D94cd15878Ef.svg"
-  }
+   "name": "ENS Registrar",
+   "decimals": 18,
+   "symbol": "ENS",
+   "erc20": true,
+   "logo": "./icons/eip155:1/erc20:0x6090A6e47849629b7245Dfa1Ca21D94cd15878Ef.svg"
 }
 ```
 
+Example file path for this metadata object:
+
+`metadata/eip155:1/erc20:0x6090A6e47849629b7245Dfa1Ca21D94cd15878Ef.json`
+
 Tokens should include a field `"erc20": true`, and can include additional fields:
 
-- symbol (a five-character or less ticker symbol)
+- symbol (max 11 characters)
 - decimals (precision of the tokens stored)
 
 A full list of permitted fields can be found in the [permitted-fields.json](./permitted-fields.json) file.
@@ -96,6 +97,7 @@ The project follows the same release process as the other libraries in the MetaM
    - Try to explain each change in terms that users of the package would understand (e.g. avoid referencing internal variables/concepts).
    - Consolidate related changes into one change entry if it makes it easier to explain.
    - Run `yarn auto-changelog validate --rc` to check that the changelog is correctly formatted.
+   - If your local workflow is npm-based, you can run `npx auto-changelog validate --rc`.
 
 5. Review and QA the release.
 
@@ -110,3 +112,15 @@ The project follows the same release process as the other libraries in the MetaM
    - Wait for the `publish-release` GitHub Action workflow to finish. This should trigger a second job (`publish-npm`), which will wait for a run approval by the [`npm publishers`](https://github.com/orgs/MetaMask/teams/npm-publishers) team.
    - Approve the `publish-npm` job (or ask somebody on the npm publishers team to approve it for you).
    - Once the `publish-npm` job has finished, check npm to verify that it has been published.
+
+#### Manual npm fallback
+
+If the GitHub Actions release flow is unavailable, you can run a manual npm release:
+
+```bash
+npm install
+npm test
+npm run build
+npm version <patch|minor|major>
+npm publish --access public
+```
