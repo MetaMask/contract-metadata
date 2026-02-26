@@ -4518,5 +4518,15 @@
     "erc20": true,
     "symbol": "FPS",
     "decimals": 18
+  },
+  "0xFa926A1719B80Bb0050d9225afA968C805a15465": {
+    "name": "Dejicoin",
+    "symbol": "DEJI",
+    "decimals": 18,
+    "logo": "0xFa926A1719B80Bb0050d9225afA968C805a15465.png",
+    "erc20": true,
+    "chainId": 56,
+    "description": "Dejicoin (DEJI) — A fully decentralized token built on Binance Smart Chain with autonomous governance and time-locked security."
   }
 }
+
