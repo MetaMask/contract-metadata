@@ -25,7 +25,7 @@
     "logo": "NGL.svg",
     "erc20": true,
     "symbol": "NGL",
-    "decimals": 18
+    "decimals": 18    
   },
   "0x7076De6fF1d91e00Be7E92458089C833De99E22E": {
     "name": "FLEABONE",
@@ -228,6 +228,13 @@
     "logo": "PeterPan.svg",
     "erc20": true,
     "symbol": "PAN",
+    "decimals": 18
+  },
+  "0x14A2db256Ef18c4f7165d5E48f65a528b4155100": {
+    "name": "Russian Blue Cat",
+    "logo": "RBCAT.svg",
+    "erc20": true,
+    "symbol": "RBCAT",
     "decimals": 18
   },
   "0x467719aD09025FcC6cF6F8311755809d45a5E5f3": {
