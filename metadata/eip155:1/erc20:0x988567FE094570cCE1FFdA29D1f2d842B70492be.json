@@ -1,0 +1,7 @@
+{
+  "name": "Zero by M0",
+  "decimals": 6,
+  "symbol": "ZERO",
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x988567FE094570cCE1FFdA29D1f2d842B70492be.svg"
+}
