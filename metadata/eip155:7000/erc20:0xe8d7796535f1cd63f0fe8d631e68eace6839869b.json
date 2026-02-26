@@ -1,0 +1,7 @@
+{
+  "name": "AVAX.AVAX",
+  "symbol": "AVAX.AVAX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:7000/erc20:0xe8d7796535f1cd63f0fe8d631e68eace6839869b.svg"
+}

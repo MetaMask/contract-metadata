@@ -1,0 +1,7 @@
+{
+  "name": "NPC.ETH",
+  "symbol": "NPC.ETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:7000/erc20:0xe1a4f44b12eb72dc6da556be9ed1185141d7c23c.svg"
+}

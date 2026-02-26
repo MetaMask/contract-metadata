@@ -1,0 +1,7 @@
+{
+  "name": "TON.TON",
+  "symbol": "TON.TON",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:7000/erc20:0xd45f47412073b75b7c70728ad9a45dee0ee01bac.svg"
+}

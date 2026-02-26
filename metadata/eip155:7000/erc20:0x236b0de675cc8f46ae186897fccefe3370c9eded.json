@@ -1,0 +1,7 @@
+{
+  "name": "PEPE.ETH",
+  "symbol": "PEPE.ETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:7000/erc20:0x236b0de675cc8f46ae186897fccefe3370c9eded.svg"
+}
