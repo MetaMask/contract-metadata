@@ -1,0 +1,8 @@
+{
+  "name": "Prometeus",
+  "symbol": "PROM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xFC82bb4ba86045AF6F327323a46e80412B91b27d./ipfs/qmtq1yivp6r4v5ub5jcmyb9vkxg6k9fzzufrlrtuenpm2s/prom",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xecf942a6a8a7fe46ac5fc0520f4f75bac8497d4a5360d4ba3b82610b6893475f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

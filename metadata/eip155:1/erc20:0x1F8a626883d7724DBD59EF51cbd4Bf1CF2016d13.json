@@ -1,0 +1,8 @@
+{
+  "name": "Jigstack",
+  "symbol": "STAK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1F8a626883d7724DBD59EF51cbd4Bf1CF2016d13./ipfs/qmcd2n3wbd6ethb1chqdbeoxge8vs3hi1g9ahfqcgkxnft/stak",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb923de7753abc2e148644bf755f823e1b3d2de8f11c46ea7e650cd137a8af211@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

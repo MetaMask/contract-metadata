@@ -1,0 +1,8 @@
+{
+  "name": "TokenFi",
+  "symbol": "TOKEN",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x8D7DE6b2c59317AC3a83438507B9f52F8Da3355f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x01fcbbf2fcfac89d59335f43ee175ce2de509ac2a648e8d97b47f06861995b23@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

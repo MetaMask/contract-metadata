@@ -1,0 +1,8 @@
+{
+  "name": "Unbound",
+  "symbol": "UNB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x301aF3eff0c904DC5DDD06faa808f653474F7Fcc.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe9b8dcabb7ffb8712480c46741b81a8d2a3c55c5f92c6bd44e24d1567eedfe71@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

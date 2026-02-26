@@ -1,0 +1,8 @@
+{
+  "name": "Boba Network",
+  "symbol": "BOBA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x42bbFa2e77757C645EEaad1655e0911A7553EFbc.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4feafa92872ccd1cde22cb758321cf3f07db8c871bc61b6c60f02d13638dc8d4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

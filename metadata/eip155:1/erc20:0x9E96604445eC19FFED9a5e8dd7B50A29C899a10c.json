@@ -1,0 +1,8 @@
+{
+  "name": "COSS",
+  "symbol": "COSS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9E96604445eC19FFED9a5e8dd7B50A29C899a10c./ipfs/qmzd59c3gbnzbgstwposbadjygyggq6gcyhwzguzvd2jjq/bcd4msbhb9hbxj3wxi1na3rfxyojk7zdewuv9ewdgcyflgbkmbbjusc8rsbeckktw7d33pzhvkp187bvxs3cvd176q",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x98895972074ca021abba07d1aac166e939ef0d2c73e5225de45b5f39eb9ad0ac@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

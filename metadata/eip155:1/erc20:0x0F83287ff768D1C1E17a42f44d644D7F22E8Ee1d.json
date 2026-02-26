@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Swiss Franc",
+  "symbol": "sCHF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0F83287ff768D1C1E17a42f44d644D7F22E8Ee1d./ipfs/qmqcdfdtxg6dtjx2arh9nscq27c2hmtdkzgdbn9xbwbk67/schf",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd4d1eaf23f8911f8dd19d53ff36084155ed510d658edb57b34b3c55d612ae673@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

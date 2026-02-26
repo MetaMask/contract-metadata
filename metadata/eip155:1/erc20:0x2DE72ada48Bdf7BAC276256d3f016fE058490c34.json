@@ -1,0 +1,8 @@
+{
+  "name": "Floki Inu",
+  "symbol": "FLOKI",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x2DE72ada48Bdf7BAC276256d3f016fE058490c34./ipfs/qmejrfvuyeefva6udhssdstaajczxpwuy4w7t2mtjuppqa/floki",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc57cbb1668e59f1201e3488eb5c2e0089b9f55362aa2b689822703e19892c882@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

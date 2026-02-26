@@ -1,0 +1,8 @@
+{
+  "name": "PEDRO",
+  "symbol": "PEDRO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:250/erc20:0x51165e8ce5d6e99C570F4601a6c8409394295065.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x874d6cdb13328b82a5b7a41d8c29396a402bacf2fc641eafd8d67bcd7d9625ca@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

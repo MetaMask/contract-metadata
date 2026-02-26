@@ -1,0 +1,8 @@
+{
+  "name": "BurnX",
+  "symbol": "BURNX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x106238737b85B4220C7a7ddfd5c4CAF8597281fe./ipfs/qmamkaxnyhqikr1qahx2kpidjnfae3rkpm7txetrerjyzx/burnx",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xede12a27d23263d5fdcc8ade124083886b1ac700b121917b3b991de5175c1606@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

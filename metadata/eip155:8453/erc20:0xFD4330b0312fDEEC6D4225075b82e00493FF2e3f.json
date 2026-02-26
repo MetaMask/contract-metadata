@@ -1,0 +1,8 @@
+{
+  "name": "SmarDex",
+  "symbol": "SDEX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xFD4330b0312fDEEC6D4225075b82e00493FF2e3f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xcda83cc91d76e53870dd468d66893f7ea8580d0d7d50560e781b638f18bc01c4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

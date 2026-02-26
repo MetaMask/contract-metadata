@@ -1,0 +1,8 @@
+{
+  "name": "The Transfer Token",
+  "symbol": "TTT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x2494a68c1484376FEF880b4c24d91f049D29b02a./ipfs/qmwtyvblc94gwmjki8hu4sbuxftgmp53ave9cftaqswpcz/bcd3poaffv6nnfvedmy1k8ceyj7imqaaa7mebkf2hnm3njsvpcagsjgeahpzxtgyldwdaqumeuqfgeigy4qp6nqe89",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf9dead4d4be45959e7f32ab014c45d71e6ab5787a4f6100d028da2b255a100c4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

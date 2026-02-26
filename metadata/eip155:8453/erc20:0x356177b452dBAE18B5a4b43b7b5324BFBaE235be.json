@@ -1,0 +1,8 @@
+{
+  "name": "DeFido",
+  "symbol": "DFD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x356177b452dBAE18B5a4b43b7b5324BFBaE235be.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xcb26297b8da5fee1797c0e0291449368926d3280b3d8067a87e70e17c2718c96@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

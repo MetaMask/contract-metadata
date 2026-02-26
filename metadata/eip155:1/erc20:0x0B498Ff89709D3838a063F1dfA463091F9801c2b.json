@@ -1,0 +1,8 @@
+{
+  "name": "BTC 2x Flexible Leverage Index",
+  "symbol": "BTC2x-FLI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0B498Ff89709D3838a063F1dfA463091F9801c2b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3840eca8013a76261bc2c4020a6411d964050bee7a1075f9216d534677864790@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

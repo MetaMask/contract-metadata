@@ -1,0 +1,8 @@
+{
+  "name": "renDOGE",
+  "symbol": "renDOGE",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3832d2f059e55934220881f831Be501D180671a7./ipfs/qmzafwahxmmd1phph6jouy2ykhs8f83kmmng9fbwp1zjb5/rendoge",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa35abeecb88e7cc8ebbfa9a84bbd542a37687d8e4e579d77f9d2ec986e3c26ff@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

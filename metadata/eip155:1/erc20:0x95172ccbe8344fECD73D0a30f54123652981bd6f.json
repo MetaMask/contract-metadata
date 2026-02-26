@@ -1,0 +1,8 @@
+{
+  "name": "Meridian Network",
+  "symbol": "LOCK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x95172ccbe8344fECD73D0a30f54123652981bd6f./ipfs/qmwvkdqc1zhuf5bz6uznf7i9kffwy8rv4axykdcwjp5rkj/bce1go5ofsjug5waqhpyp3wodgh98mgc2ocm1jk6zgkhfr7f9bne9wvcjyi8m2mcrgdec3fyz2nvaymhlfqmyfc6nb",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xaab4a1d1773dc01c4ffc74ec059f6edcf30a16d83a24806a94e1971ee735b7e0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

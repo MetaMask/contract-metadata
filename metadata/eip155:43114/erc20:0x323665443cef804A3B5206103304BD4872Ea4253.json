@@ -1,0 +1,8 @@
+{
+  "name": "Verified USD",
+  "symbol": "USDV",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x323665443cef804A3B5206103304BD4872Ea4253.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe23d628a4237038b2a5b55de50d19937fa387cf7b8b7c041395cb3c12727fe98@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

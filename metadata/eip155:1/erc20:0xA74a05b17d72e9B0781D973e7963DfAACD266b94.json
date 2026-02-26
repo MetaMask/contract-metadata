@@ -1,0 +1,8 @@
+{
+  "name": "OASIS",
+  "symbol": "OASIS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA74a05b17d72e9B0781D973e7963DfAACD266b94.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5ec5cd40f1ba94c1fcff1d2977807e4300a4761218b522d95dd0d8ca6da8e5de@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

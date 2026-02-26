@@ -1,0 +1,8 @@
+{
+  "name": "Antiample",
+  "symbol": "XAMP",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF911a7ec46A2C6FA49193212fe4A2A9B95851c27./ipfs/qmwdflqdmykysutfndc8yaleyx22gbdpj8txdgcqsnf2ua/bcdxxl41mx2r4x9m21q7c8xlb4vbvukqyd9wvcuu91hz2rqqntkkgabgxbjf33eednsbxrlgnwwm4neot34wxrtz5h",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x195289b2039fe3ff3cff52493d9e0371ead4de74385cab0bf00d4558f23e23b6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

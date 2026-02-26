@@ -1,0 +1,8 @@
+{
+  "name": "Huobi",
+  "symbol": "HT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0xFaD65eb62A97ff5ED91b23afd039956AACa6E93b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x91f1015ea51d9d306b853fd88600a1ee5cbdc7892db788a0f2bd13c696d316d3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

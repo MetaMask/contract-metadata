@@ -1,0 +1,8 @@
+{
+  "name": "Ocean Protocol",
+  "symbol": "OCEAN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0x282D8efce846A88B159800bd4130AD77443Fa1a1.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa38c328a505d90cb3efbba5403c28b8c927cf6c9b12ff3917c7242ae7a67d31e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

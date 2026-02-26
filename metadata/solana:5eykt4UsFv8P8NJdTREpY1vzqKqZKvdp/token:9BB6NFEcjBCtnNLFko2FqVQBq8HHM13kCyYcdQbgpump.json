@@ -1,0 +1,8 @@
+{
+  "name": "Fartcoin",
+  "symbol": "Fartcoin",
+  "decimals": 6,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9a400c42a6732815e8229cb883ab31dc07070258b0b97d75602a6135af2d1068@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

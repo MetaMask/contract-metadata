@@ -1,0 +1,8 @@
+{
+  "name": "PieDAO BTC++",
+  "symbol": "BTC++",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0327112423f3A68EFDF1Fcf402f6C5CB9F7c33fd./ipfs/qmupsec6wt8ardm693iawh4ibwsiuh4kwpmskjg9sk8emn/bce2twliegbdqrud2eib1fnatbkjefawuyiykjh3exlh2udgqsww1qjcnvmpxpp4edz4r3x5yzux8al5pluxhc6fa9",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x833e87c5618ab9bb77e1eb6b25514718522b7cf13a86f800f1b7f4d43f7a9a7f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

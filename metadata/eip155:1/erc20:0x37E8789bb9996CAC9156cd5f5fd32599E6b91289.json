@@ -1,0 +1,8 @@
+{
+  "name": "AidCoin",
+  "symbol": "AID",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x37E8789bb9996CAC9156cd5f5fd32599E6b91289./ipfs/qmf1prcxi37ggwvrmgjfjzvdrmjp49cwphrwmiucuwjjta/bcdxwkn9nchonckayu9hjafdtfotytjmfdqk52uuhtrpk8emwytpaw7e6dpzcj5njqndt23ohpuzrikfnfddanxs26",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x18f7638ef27a1f3f8df3c6c63766f2e2fb64835907093d9c9c9992a40b95c014@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

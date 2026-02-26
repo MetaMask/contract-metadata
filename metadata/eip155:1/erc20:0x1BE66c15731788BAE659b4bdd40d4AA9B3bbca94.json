@@ -1,0 +1,8 @@
+{
+  "name": "PolkaDoge",
+  "symbol": "PDOGE",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1BE66c15731788BAE659b4bdd40d4AA9B3bbca94./ipfs/qmpuvmqcetphmeyfftoig6vbfjbzr8ccwfbc1u1qm6sbpa/pdoge",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x54b6e0b8b159c3afb8039c0b89cffb499ab75fe23ac9652f357d783d7bf8d440@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

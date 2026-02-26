@@ -1,0 +1,8 @@
+{
+  "name": "Past Project",
+  "symbol": "PAST",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x8a83a0de55c003A970070a8a0fA7CB24203Fc13d./ipfs/qmupjngwur22rubpmwqs5nnffwkr65hjoo5lskt2i5qm5g/past",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x51669c8f28eb149894a2b10c78a747df75c60010776f5ef3e2f53ddec9614607@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

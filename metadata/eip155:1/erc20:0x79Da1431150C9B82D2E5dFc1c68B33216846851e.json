@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Inverse Litecoin",
+  "symbol": "iLTC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x79Da1431150C9B82D2E5dFc1c68B33216846851e./ipfs/qmxdjgwyfzxeufjvpnxjrahyvezkxqh42jp8rsmk35d4yf/iltc",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8a3c0964fc1791d45cdba8106bc55bb97264b4daf36a3ad45654c9f1f2c20052@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

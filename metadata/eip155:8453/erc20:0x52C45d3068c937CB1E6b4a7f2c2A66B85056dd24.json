@@ -1,0 +1,8 @@
+{
+  "name": "SHARD",
+  "symbol": "SHARD",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x52C45d3068c937CB1E6b4a7f2c2A66B85056dd24.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x71bdccf98c52cf3ff3be2bf1a2b4cf8f8da59d78cbdf822f08c8b12ae83e5958@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

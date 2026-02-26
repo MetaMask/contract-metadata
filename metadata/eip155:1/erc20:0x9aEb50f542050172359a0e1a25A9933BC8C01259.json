@@ -1,0 +1,8 @@
+{
+  "name": "OIN Finance",
+  "symbol": "OIN",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9aEb50f542050172359a0e1a25A9933BC8C01259./ipfs/qmczktksiymqfzcqugo35jw3e1rrmibeea9v4hnw9wktht/bcd3qrxsu9a6ehiakuvcro4fsghzwx5zb6e5wsqqdyl1udkfbohnx1q2myyzqfdxvmc1gfzcwnjkyrhktpagdbkhw8",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb767ccea4c43e2570d6cc3583dea6acaafc0e839a262a9d29181db023516aeeb@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

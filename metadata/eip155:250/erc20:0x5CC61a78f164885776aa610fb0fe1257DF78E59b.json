@@ -1,0 +1,8 @@
+{
+  "name": "SpiritSwap",
+  "symbol": "SPIRIT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:250/erc20:0x5CC61a78f164885776aa610fb0fe1257DF78E59b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x217dd3b39e08a43209efdbd7042f8ac3983fa86bc5b438b6f1f5c30f856ed5fe@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

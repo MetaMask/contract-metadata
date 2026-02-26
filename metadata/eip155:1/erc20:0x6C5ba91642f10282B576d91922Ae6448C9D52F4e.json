@@ -1,0 +1,8 @@
+{
+  "name": "Phala",
+  "symbol": "PHA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x6C5ba91642f10282B576d91922Ae6448C9D52F4e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x291648f321460b070d21e5b4891347bd07c402b44a284826fbd583ca8047df6d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

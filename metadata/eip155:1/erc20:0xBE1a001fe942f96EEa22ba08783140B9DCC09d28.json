@@ -1,0 +1,8 @@
+{
+  "name": "Beta Finance",
+  "symbol": "BETA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xBE1a001fe942f96EEa22ba08783140B9DCC09d28.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x46a6176d9c3c753ec60aa2b674af99206429db2bbef5c0ba79aeda5835c91248@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

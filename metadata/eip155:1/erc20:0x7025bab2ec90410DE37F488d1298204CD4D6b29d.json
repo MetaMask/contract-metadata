@@ -1,0 +1,8 @@
+{
+  "name": "Xriba",
+  "symbol": "XRA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x7025bab2ec90410DE37F488d1298204CD4D6b29d./ipfs/qmc4kqqbsekqnnuda6tjardjdhahveurzspdtzheefkxpt/bccxzjhtqcggf1k1cxz2iyxwebwsgtnznmghulxjsgyoey4pqs995gdjrkanrg1cjszz3n27tgnh6fenjxxxg5uze5",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x783b9045837725372750c8a38953884caddac01732e11695123bd0a3db94ff25@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

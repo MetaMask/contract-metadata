@@ -1,0 +1,8 @@
+{
+  "name": "PieDAO DEFI Large Cap",
+  "symbol": "DEFI+L",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x78F225869c08D478C34E5F645d07A87D3FE8Eb78./ipfs/qmb7akgiumzj3diwadmwkzhktrxafy37mjqfwfbnfemyxh/bcd8f15sqqietyduksuk4q1qxx5t7dbghlpq2lb5xjqqpgvev3pk4rbht2jm2ljbtmwmwwaff24tzwfqv1svlspxv8",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd87a4b5e55b6903f41dc7d3c9f8d20732c33d51f2b6eef14e881f36b937df412@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

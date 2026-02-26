@@ -1,0 +1,8 @@
+{
+  "name": "Ascend",
+  "symbol": "ACE",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xCBD0595113c173AB7746347d0600D390A85a7eea./ipfs/qmbqogkxxyv25fvzqql7arvd3mpyg9hclltmgppuwafgk3/ace",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbfcfc9a946722541d8ee32b48d9da38615800110b6f1798c89f9e58d1c1b60ea@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

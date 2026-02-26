@@ -1,0 +1,8 @@
+{
+  "name": "MindYaps by Virtuals",
+  "symbol": "MNY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x94E2d8ac549259A41984Fab668f24D77AB6c8416.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xafcfc2ae497a7c1829cb394bb657a332453b6cb6ac718063f20276a8511b38b0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

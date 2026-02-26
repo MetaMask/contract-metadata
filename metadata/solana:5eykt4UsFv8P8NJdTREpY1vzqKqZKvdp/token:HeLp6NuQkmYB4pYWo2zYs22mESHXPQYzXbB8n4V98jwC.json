@@ -1,0 +1,8 @@
+{
+  "name": "ai16z",
+  "symbol": "ai16z",
+  "decimals": 9,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:HeLp6NuQkmYB4pYWo2zYs22mESHXPQYzXbB8n4V98jwC.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x33f49d4fbe2456b47297a0bbe9a8343eff890a87dda87213dd40d898c321a8d2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

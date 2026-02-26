@@ -1,0 +1,8 @@
+{
+  "name": "Numbers Protocol",
+  "symbol": "NUM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3496b523e5c00A4B4150d6721320CDDB234c3079.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x568d972a7a362ed9e3c41958010a22b1d775f1a6ebebf6cb8f2535af88c185d9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

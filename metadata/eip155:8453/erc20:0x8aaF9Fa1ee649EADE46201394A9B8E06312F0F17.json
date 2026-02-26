@@ -1,0 +1,8 @@
+{
+  "name": "Boofus by Virtuals",
+  "symbol": "BOOF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x8aaF9Fa1ee649EADE46201394A9B8E06312F0F17.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1851aef328270fa56c030fc6c0d63d92643c6fa831f4d8a54e6c568ce74d53fe@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

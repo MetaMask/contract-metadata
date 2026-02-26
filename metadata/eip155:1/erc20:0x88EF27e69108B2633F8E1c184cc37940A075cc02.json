@@ -1,0 +1,8 @@
+{
+  "name": "Dego Finance",
+  "symbol": "DEGO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x88EF27e69108B2633F8E1c184cc37940A075cc02./ipfs/qmqvhkl7cwzw95m6y8ufryeeimbail48oh4bud7bnxk8sl/dego",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6040d5ecb4a8a0210a5c3d3b66b916405f3c018da6b4de31191c0f8ee96ee56e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

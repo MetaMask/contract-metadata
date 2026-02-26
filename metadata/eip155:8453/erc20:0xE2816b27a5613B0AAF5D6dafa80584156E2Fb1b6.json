@@ -1,0 +1,8 @@
+{
+  "name": "JAIHOZ by Virtuals",
+  "symbol": "JAIHOZ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xE2816b27a5613B0AAF5D6dafa80584156E2Fb1b6.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdc34d061e951b98738d8501261480d5b10955af8e93b58e9e09d78d269ac80ff@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

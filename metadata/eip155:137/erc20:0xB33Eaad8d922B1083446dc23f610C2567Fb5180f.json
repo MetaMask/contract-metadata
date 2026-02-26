@@ -1,0 +1,8 @@
+{
+  "name": "Uniswap",
+  "symbol": "UNI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0xB33Eaad8d922B1083446dc23f610C2567Fb5180f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4e6d0f87dc4e51fd11bb0144e5a538bd589b4b12b352a0f0ad28c6bd4a6b8ac2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "BugCat",
+  "symbol": "BCAT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:250/erc20:0x606ba50fa9fBAD28D714d49a43B9028A84aD36ac.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2f8b146a203a7890e3a716be4a5a548033f5cbc73c4e7ac05201bb9e1a8f0116@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

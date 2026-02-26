@@ -1,0 +1,8 @@
+{
+  "name": "Bloomer",
+  "symbol": "BLOOM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xAFb5d4d474693E68DF500c9c682e6A2841F9661a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf8f99370ad720f503763c3b0365f519d96eb96f732eec51057b03c777c3d60b9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

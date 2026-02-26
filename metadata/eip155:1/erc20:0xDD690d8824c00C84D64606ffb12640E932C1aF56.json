@@ -1,0 +1,8 @@
+{
+  "name": "Tavittcoin",
+  "symbol": "TAVITT",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xDD690d8824c00C84D64606ffb12640E932C1aF56./ipfs/qmsrpk7mwi116v4cvc2ydzkjruvi8gyhcdrk9895o1qkqp/tavitt",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0e5d32eceff3a6f5c5acd9daa3d12a2990d084e06d975116827b6229046fcc73@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

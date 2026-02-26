@@ -1,0 +1,8 @@
+{
+  "name": "RigoBlock",
+  "symbol": "GRG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:10/erc20:0xECF46257ed31C329F204Eb43e254C609DEE143b3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x38e325ce88aa5b1609c0a24465932b4dd31fd59ad8cc3061d3cad876b7501679@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

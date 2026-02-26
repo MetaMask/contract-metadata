@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Compound",
+  "symbol": "sCOMP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xEB029507d3e043DD6C87F2917c4e82B902C35618./ipfs/qmvd9hcb9sgcblucolehxmfs6bggdgvg9ai7fsrhbhvwvb/scomp",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xce921f29e306ec03960f5943b371bf50fbbefa5a31a94cc34917d7147592dcaf@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Centrality",
+  "symbol": "CENNZ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1122b6a0e00dCE0563082b6e2953f3A943855c1f./ipfs/qmzgzgg5ciybbn127bexaq9prmasn5cerseimfgfxssmn6/bce1h4t6sym6mf72rfk8atctpu4mlrfsnhaby4jwxeh7gvuut1dtgc7twiaifse9pmhcjxz2sdyyd2ancxvvuxldtv",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x513dba13107827294b3b3d4660a09f4645d88659353a45bc14b265bb6b12d79a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

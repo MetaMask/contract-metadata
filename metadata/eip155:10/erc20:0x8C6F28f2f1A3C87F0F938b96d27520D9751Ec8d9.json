@@ -1,0 +1,8 @@
+{
+  "name": "sUSD",
+  "symbol": "sUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:10/erc20:0x8C6F28f2f1A3C87F0F938b96d27520D9751Ec8d9.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd88626ed07af239e83004effbc89306dafef77947d6e718137735c3db0adaf95@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

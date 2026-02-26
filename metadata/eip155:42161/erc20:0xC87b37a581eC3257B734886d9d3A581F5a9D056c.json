@@ -1,0 +1,8 @@
+{
+  "name": "Aethir",
+  "symbol": "ATH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0xC87b37a581eC3257B734886d9d3A581F5a9D056c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4d8d2aef2545c5c854ecbf953d99aefec65fcd19bda5b5fad1909eae5589ecac@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "EWOM",
+  "symbol": "EWOM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD54F76a4f66d6016A7FF169face62C14746E25b7./ipfs/qmysj1pktuocoqvjqaft4efvzlg8bgqrnlmufh6y5yaa3l/ewom",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6b958b4927a5862420e1a8dad1b6e066843a4e747afd52b53b79ffa9da104452@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

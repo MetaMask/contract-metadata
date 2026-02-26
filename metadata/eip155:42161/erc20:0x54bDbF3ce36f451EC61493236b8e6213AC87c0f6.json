@@ -1,0 +1,8 @@
+{
+  "name": "Radpie",
+  "symbol": "RDP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0x54bDbF3ce36f451EC61493236b8e6213AC87c0f6.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x956ab29293a1b2b993615e2a4b16926f945498c9b8fdac6542e8b2220092a5f8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

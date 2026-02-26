@@ -1,0 +1,8 @@
+{
+  "name": "DOGNUS",
+  "symbol": "DOGNUS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xF086206423f9e9686192bee98c042131D7bc1336.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe4ec7755e6975c4d9a61847e6f733ee96f20d62b4cd6eca96da1fb9a7592e6a1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

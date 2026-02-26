@@ -1,0 +1,8 @@
+{
+  "name": "SHRAPNEL",
+  "symbol": "SHRP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x293Eb6828b01eD6DCa8E72257f5d3DF2A36c9007.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf4fb6baed2e54bedae28382798c97777988c2dcf7dba90bf2fb4eaa936d6e183@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

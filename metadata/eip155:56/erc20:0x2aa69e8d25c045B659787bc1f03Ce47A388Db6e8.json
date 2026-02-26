@@ -1,0 +1,8 @@
+{
+  "name": "Kusama",
+  "symbol": "KSM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x2aa69e8d25c045B659787bc1f03Ce47A388Db6e8.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2fc5e5451636c447d892e02b8955a9524307969cdcff5b5ffe58d0714ce9acf9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

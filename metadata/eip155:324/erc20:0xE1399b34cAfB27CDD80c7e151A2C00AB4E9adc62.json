@@ -1,0 +1,8 @@
+{
+  "name": "Clips",
+  "symbol": "CLIPS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xE1399b34cAfB27CDD80c7e151A2C00AB4E9adc62.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x92fba5569f1808cb609665ce4ee3db36aef2c98227c4e78f3c4c188d7e800486@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

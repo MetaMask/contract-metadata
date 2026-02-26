@@ -1,0 +1,8 @@
+{
+  "name": "renZEC",
+  "symbol": "renZEC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1C5Db575e2ff833E46a2E9864c22f4B22E0b37c2./ipfs/qmshg3opxudn3aghpua1vlefe4azdftzjbibuooeqd5w8p/bce1vqgady1rs8waewmskzdfxgjn6mjfbqqhui6chmvwocxwmv5uawadbhxks3m23aeizx13mhhz7npvuxceogtvg4",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x73b43c843f6b1bc527cc72254754dbad7f9b2a062f1ac146b37f8d3ead8886da@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

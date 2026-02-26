@@ -1,0 +1,8 @@
+{
+  "name": "Basis Dollar Bond",
+  "symbol": "BSDB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9F48b2f14517770F2D238c787356f3B961a6616f./ipfs/qmcmk7ff4hq6qcf9plfkfwyjj7bn8omytvjkx6zctcwmyr/bsdb",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x91dcf0aaa38b4f3ec27f511ce9111feabc28c5cd637b3eac7297fe2dadab738c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

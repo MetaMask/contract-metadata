@@ -1,0 +1,8 @@
+{
+  "name": "Horizon Protocol",
+  "symbol": "HZN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xC0EFF7749b125444953EF89682201fB8C6a917cd.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x12e9916f371ac004e6a6cae75ddb6d9dd36aaf3bb7e8ce004e064001d874bf92@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

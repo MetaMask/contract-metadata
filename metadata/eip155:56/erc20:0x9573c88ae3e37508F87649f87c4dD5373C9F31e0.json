@@ -1,0 +1,8 @@
+{
+  "name": "Monsta Infinite",
+  "symbol": "MONI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x9573c88ae3e37508F87649f87c4dD5373C9F31e0.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xafcd35b100de394bbeaf4e0435b0b3af6bd3f18bfd23b5f3846246bafedc3588@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

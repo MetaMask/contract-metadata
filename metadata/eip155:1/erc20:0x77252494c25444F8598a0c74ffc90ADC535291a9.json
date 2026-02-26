@@ -1,0 +1,8 @@
+{
+  "name": "Nemesis ETH",
+  "symbol": "NMS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x77252494c25444F8598a0c74ffc90ADC535291a9./ipfs/qmtahm8f3wqd3aue16elbmoxcwo61hn8cemdrn8bssoxd3/nms",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1ab624518abe7a70305047384762ee50273431e7306d6a227ddf2fd3ca85cb11@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

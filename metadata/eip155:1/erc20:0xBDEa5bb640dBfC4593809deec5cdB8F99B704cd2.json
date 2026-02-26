@@ -1,0 +1,8 @@
+{
+  "name": "Direwolf",
+  "symbol": "DIREWOLF",
+  "decimals": 2,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xBDEa5bb640dBfC4593809deec5cdB8F99B704cd2./ipfs/qmcemrbc4aqk4anideznrqzjrwq7qnkkic8eur8zhzq2eh/direwolf",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x964eb03aabc339a1eb3071857a22a7a96c7f9936ae81c79c88bd5378e3a75055@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

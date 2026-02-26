@@ -1,0 +1,8 @@
+{
+  "name": "Pacato",
+  "symbol": "PACATO",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x24Ca2Fcca044B345D0676F770c6CB42AC34809d7.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x55d0aa30c20fac2af214c0f17700ed450a9ea0ce8a5e9b8db32ea2ece463ef9b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

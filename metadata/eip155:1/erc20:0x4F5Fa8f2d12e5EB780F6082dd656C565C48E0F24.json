@@ -1,0 +1,8 @@
+{
+  "name": "Gourmet Galaxy",
+  "symbol": "GUM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x4F5Fa8f2d12e5EB780F6082dd656C565C48E0F24.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x03544f9fc5c974c4d8370bfcd77560a74cabf5cbe6a32fae7e64f32a6e0636cf@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

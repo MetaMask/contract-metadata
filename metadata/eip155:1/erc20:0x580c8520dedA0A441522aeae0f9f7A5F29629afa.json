@@ -1,0 +1,8 @@
+{
+  "name": "Dawn Protocol",
+  "symbol": "DAWN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x580c8520dedA0A441522aeae0f9f7A5F29629afa./ipfs/qmtssxugkspq4wvblmaptvzzg79licyatgtqkzeckejj38/dawn",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x633516fea9936ccffdca70b59ca6a1726d8c2244f6c2bb9f0a0594989a92f3ca@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

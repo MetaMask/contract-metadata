@@ -1,0 +1,8 @@
+{
+  "name": "SUISSMA AI by Virtuals",
+  "symbol": "SUISS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x0F1a9F3b8b971AC72a2D362cf2858f21FB799601.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf66f7fe177bcd02385631242d727e1375e6d40541f753153803912f726a08998@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

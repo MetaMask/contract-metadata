@@ -1,0 +1,8 @@
+{
+  "name": "QuarkChain",
+  "symbol": "QKC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xEa26c4ac16d4A5A106820bc8aee85fD0B7b2b664./ipfs/qmnwpmshjtgg22ekvkw8deffd7zjpk5poxsbhwsmnzhnea/bcdvrp2ydd8caz5fy5mz8zik6bdvsmydln5uvfe84uzmtjjjcgufunwyxfzh6faasicks1flc9vyegzx1vv62hygeb",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe6c5329372d53e9c4b640eecbf7a3f288ca422389e653fe8e6722a4e4a73becf@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

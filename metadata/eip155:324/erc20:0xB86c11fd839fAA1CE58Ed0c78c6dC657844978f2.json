@@ -1,0 +1,8 @@
+{
+  "name": "Virtual Protocol",
+  "symbol": "VIRTUAL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xB86c11fd839fAA1CE58Ed0c78c6dC657844978f2.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2d565fa22939a0883ec4c4e0d58599f8660c8e8e34f4f8ff2dec98f67c3bc3b0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

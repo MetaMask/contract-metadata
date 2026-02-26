@@ -1,0 +1,8 @@
+{
+  "name": "AI ROCKET by Virtuals",
+  "symbol": "ROCKET",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x0BF852ebb243B963652b71103A2B97CF446F22c3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xaa953e22db1a6f677f8529b27424c47791b5d0b378369f01dfab3ca2a7f9af67@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

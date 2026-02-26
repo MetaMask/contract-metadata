@@ -1,0 +1,8 @@
+{
+  "name": "Bitsonic",
+  "symbol": "BSC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xE541504417670fB76B612b41b4392D967a1956c7./ipfs/qmvi8wkjascr8wzvx3eya1bgltwqjec7817u1lsoq286mf/bcd1kmwmsrfhoydmay6r4qfzkwtjlesqgmqkgehkt3pazvxkxk8ynejfsicf1n7jmmpkk2kfukdq8lwv6ikzhem3wh",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0b8dfb80a5a75451bce03a26708eebdcb7bb1d5e4d6b2c0b3aa1758d1ed064be@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

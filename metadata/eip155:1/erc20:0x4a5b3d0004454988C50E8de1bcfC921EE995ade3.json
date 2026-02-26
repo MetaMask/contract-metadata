@@ -1,0 +1,8 @@
+{
+  "name": "wXEQ v2",
+  "symbol": "wXEQ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x4a5b3d0004454988C50E8de1bcfC921EE995ade3./ipfs/qmqsyybnd44qddpinqmngzih1zveznrmgpddclgj2be1ez/wxeq",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd5686863452958334458dd76f63d00bbd36f207deb55afae93a62d128d03353d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

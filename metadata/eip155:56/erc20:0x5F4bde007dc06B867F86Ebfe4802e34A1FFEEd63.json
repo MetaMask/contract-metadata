@@ -1,0 +1,8 @@
+{
+  "name": "Highstreet",
+  "symbol": "HIGH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x5F4bde007dc06B867F86Ebfe4802e34A1FFEEd63.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x438fbfe41ba7459f3964297e04a9e9ab64372e8bd53d0c3da65ce667cde108c4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

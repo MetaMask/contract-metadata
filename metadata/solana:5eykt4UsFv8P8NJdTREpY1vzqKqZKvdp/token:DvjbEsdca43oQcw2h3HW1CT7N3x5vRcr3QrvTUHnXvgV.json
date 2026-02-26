@@ -1,0 +1,8 @@
+{
+  "name": "Doodles",
+  "symbol": "DOOD",
+  "decimals": 9,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:DvjbEsdca43oQcw2h3HW1CT7N3x5vRcr3QrvTUHnXvgV.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbf793bdb592e7886381dd3016a60815bba4ddf36b8508f155619ccd9e6f09313@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

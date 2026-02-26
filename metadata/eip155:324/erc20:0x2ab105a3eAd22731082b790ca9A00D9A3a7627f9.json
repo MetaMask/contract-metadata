@@ -1,0 +1,8 @@
+{
+  "name": "Sygnum FIUSD Liquidity Fund",
+  "symbol": "FIUSD",
+  "decimals": 2,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x2ab105a3eAd22731082b790ca9A00D9A3a7627f9.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x34c93f1573cc79e869e794f359396fd3e1881bf0a70a87b961455f3edd9593f9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

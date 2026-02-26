@@ -1,0 +1,8 @@
+{
+  "name": "DAppNode",
+  "symbol": "NODE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:100/erc20:0xC60E38c6352875C051b481cbe79dD0383aDb7817.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x357345c269430128685187507ad449a0c57968240967b7d43491bd63286b271d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

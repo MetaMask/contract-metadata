@@ -1,0 +1,8 @@
+{
+  "name": "Agora by Virtuals",
+  "symbol": "AGORA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xB2EE01f57AeBD6E268934ed9dc47B01BE760867d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd356e93d0f587e5d30c5586065f4df141dd2422d0ab613db6c713966687e8467@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

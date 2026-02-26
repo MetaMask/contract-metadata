@@ -1,0 +1,8 @@
+{
+  "name": "Origami Network",
+  "symbol": "ORI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD2Fa8F92eA72ABB35DbD6deca57173D22Db2ba49./ipfs/qmdpsxjwcmysxujrkfyuseyduwvqjlshtpynncxa54nkvk/bcd4noxjp3pgxooyozi8c8cbtuehu4mqvsftrbq3ptztf9sydvskt7xds5dexjoffxw4nbq2ffjfm8oxg3hiwlkkgy",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x366bbceda3907ba633e0cb22f9eb9b67d4719f9098610d9d69e769b42ee75181@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Amphora Protocol",
+  "symbol": "AMPH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x943c5F4f54509D1E78b1Fcd93b92C43CE83D3141.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5d65918365b62fdd0a7c57f356292219081968f9f9290065ee94ab249064afa3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

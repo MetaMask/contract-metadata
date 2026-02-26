@@ -1,0 +1,8 @@
+{
+  "name": "Dirham Crypto",
+  "symbol": "DHS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x30365ed4cA8173013aD948b9842f34AC71D01F7c./ipfs/qmy465cmssgxgvqqicznjvggtm91arvaguuv1b3frebfza/dhs",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x89bd63524adb9f4c002b01887d37d95ab54c0b153e9f4fb47688b974880a324b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

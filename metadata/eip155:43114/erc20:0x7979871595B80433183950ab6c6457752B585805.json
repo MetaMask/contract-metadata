@@ -1,0 +1,8 @@
+{
+  "name": "MetaDOS",
+  "symbol": "SECOND",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x7979871595B80433183950ab6c6457752B585805.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa6ebc5d7cadd0ed023b6cf45632c44905824db3a205e32a87298edcb58463a51@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

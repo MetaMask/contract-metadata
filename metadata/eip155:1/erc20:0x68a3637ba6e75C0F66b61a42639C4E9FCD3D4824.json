@@ -1,0 +1,8 @@
+{
+  "name": "MoonSwap",
+  "symbol": "MOON",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x68a3637ba6e75C0F66b61a42639C4E9FCD3D4824./ipfs/qmsomyuhhpzly8xxuqzh89hcmdaa4w4bxqvftdzhxoc8co/bcd5vkyfoslxnmac2q1uycy6yop6xhb8rhbrobqakasazraozftjrbrgdbfhurrcqtmlhv6xqmxqzpcx9jm1i8rjmx",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2e07f36251b306f678068f6f500619b5e6fd8d8625218f9ed0f317d62bc92e06@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

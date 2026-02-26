@@ -1,0 +1,8 @@
+{
+  "name": "BasedVelocimeter",
+  "symbol": "BVM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xD386a121991e51EAB5E3433bf5B1Cf4C8884b47a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5204a5e41f036d012f6d9183853e69f1af1028013167f713a989b183761fd452@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

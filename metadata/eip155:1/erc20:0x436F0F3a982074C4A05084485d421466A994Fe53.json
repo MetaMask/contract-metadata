@@ -1,0 +1,8 @@
+{
+  "name": "Rate3",
+  "symbol": "RTE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x436F0F3a982074C4A05084485d421466A994Fe53./ipfs/qmx4ec8lth2hqa5mfteh2wp9dkuxmmtnisyrg4sr5f9bft/bcdvsryquldcsb5jaqdvqfouadgfedst8cek7sfiphabadc68bspt6rswtnaa5g5kgdt4llbctgkhjk7awjks2m2dn",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb5694ac5ba1f15f8e5e0a20cd0f0e2d4522aa654daae440680257507cf137a57@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

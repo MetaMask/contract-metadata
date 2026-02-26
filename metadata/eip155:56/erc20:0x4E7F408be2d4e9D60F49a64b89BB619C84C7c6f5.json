@@ -1,0 +1,8 @@
+{
+  "name": "Perpetual Protocol",
+  "symbol": "PERP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x4E7F408be2d4e9D60F49a64b89BB619C84C7c6f5.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xac8a53a25681de1ddaf552b314ea5072393c757336eea60566eb763fdab081c4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Furucombo",
+  "symbol": "COMBO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xFFFFFFff2bA8f66D4E51811c5190992176930278./ipfs/qmzuvbxtr2xh4txiiyuvce85beqh3wz7ghmp5bbkkdfst8/combo",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5e9ac9c95a0bf88bbe236238f4c4784355c306cafcb27806a0c5be327ce5031b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

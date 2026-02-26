@@ -1,0 +1,8 @@
+{
+  "name": "Pantheon",
+  "symbol": "PANTHEON",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x993cd9c0512CfE335BC7EF0534236BA760Ea7526.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8cdd88f6da560c74e63ebb215cab8d52c61b1b54f9fce77b88af8d3ec2a88f3e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

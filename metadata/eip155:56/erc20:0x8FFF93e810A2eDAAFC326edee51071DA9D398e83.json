@@ -1,0 +1,8 @@
+{
+  "name": "Bitgert",
+  "symbol": "BRISE",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x8FFF93e810A2eDAAFC326edee51071DA9D398e83.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7f9988b306f5bcb5c89b79384a9b0d9ec05ad674e0b0e1e31af248e52adb63e6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Po.et",
+  "symbol": "POE",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0E0989b1f9B8A38983C2ba8053269CA62EC9b195./ipfs/qmbcpgilpzmdfzjpbjpgsffk6e4rrkpvb113kjj5cpzrsf/bce1wf5mbnzfq5nqun46m7mzdnwwvxliruaavnfomzypa7dtebxcpksbc5phfwthmskc7d6u6gvv2yqbqfuykrrn7u",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9efdeaa2470122e33d576a2d01146bf005a2da4f0d75331099c6b1b6cb98020a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

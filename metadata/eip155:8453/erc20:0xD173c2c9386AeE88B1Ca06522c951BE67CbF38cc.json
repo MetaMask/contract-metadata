@@ -1,0 +1,8 @@
+{
+  "name": "KONTOS",
+  "symbol": "KOS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xD173c2c9386AeE88B1Ca06522c951BE67CbF38cc.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0eb0014b0154f2ce9bc9a6c9bf39fc0a5b060fbfbaa172196a068b5cbe5d3b4c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

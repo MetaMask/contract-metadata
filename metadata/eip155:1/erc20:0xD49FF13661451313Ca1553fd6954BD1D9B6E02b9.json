@@ -1,0 +1,8 @@
+{
+  "name": "Electrify.Asia",
+  "symbol": "ELEC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD49FF13661451313Ca1553fd6954BD1D9B6E02b9./ipfs/qmt1bgouncfntrdvhyavzja3ydqkjfzpn2gcwohc8ufcjh/bce1h4kcuedfnavnavjrygqvwoa3aprsbtjvbgaqdeydpya25es6iwxccbjmbcnsseywswx9fyjd9jm2mvdmkbc16i",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4fa71a6b58bf19f87ea49ae8f1fa18ab9446d8255bae03af60b2f99004227bcf@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

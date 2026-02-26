@@ -1,0 +1,8 @@
+{
+  "name": "REBASE",
+  "symbol": "REBASE",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x4208d8d500B1643DCa98dd27bA6C0060BCa311c5./ipfs/qmav4ntvkgyo1py5xozg8qpmdgug4gz7fzdn7cuvknbtnj/bcczm5xjwwowtepoxwmy9rsroebauverekxggrarqkybqnjzwdmgndmanjvugvdhswyncuxhemgpgwk57bacpc5fgp",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x77c57ca184544d9008e0b95af80a44a20da627010337528e73adb651d2b8031e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

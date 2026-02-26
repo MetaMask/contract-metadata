@@ -1,0 +1,8 @@
+{
+  "name": "dude",
+  "symbol": "DUDE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xCB2861a1ec1d0392AFb9E342d5AA539E4F75b633.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x713be7d90ead6dd2e4290466dcfb36d5508b0d52a9e379f8066124ab142206da@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

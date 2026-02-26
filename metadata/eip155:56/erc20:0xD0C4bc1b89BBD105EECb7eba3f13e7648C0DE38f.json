@@ -1,0 +1,8 @@
+{
+  "name": "Web3 Inu",
+  "symbol": "WEB3",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xD0C4bc1b89BBD105EECb7eba3f13e7648C0DE38f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x96e9274bfd7c4ce2ba0beb758ab8233be0d82684067a2e2ece8111327edddeef@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

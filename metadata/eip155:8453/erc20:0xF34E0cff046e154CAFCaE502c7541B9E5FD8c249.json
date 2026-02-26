@@ -1,0 +1,8 @@
+{
+  "name": "Thales",
+  "symbol": "THALES",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xF34E0cff046e154CAFCaE502c7541B9E5FD8c249.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xaac12896f5e44c4a7ac944c051f796404b6a9adde62a344953a5f04a4d91bd7f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

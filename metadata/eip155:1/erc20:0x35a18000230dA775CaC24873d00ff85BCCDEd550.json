@@ -1,0 +1,8 @@
+{
+  "name": "Compound Uniswap",
+  "symbol": "cUNI",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x35a18000230dA775CaC24873d00ff85BCCDEd550./ipfs/qmdupleasdbvhr9wjmkcewajzigufkaks9se9qskfcc5gd/cuni",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9252b97b71403515e981c9347b9b46084b8d2fe2b554030b96513463c88d7dce@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

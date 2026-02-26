@@ -1,0 +1,8 @@
+{
+  "name": "Openfabric AI",
+  "symbol": "OFN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x8899Ec96ed8C96B5C86c23c3f069C3DEF75b6d97.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd46236a5f9624a276edc974535d05a2c5419b51f9e3068a78badeb3831ad54e1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

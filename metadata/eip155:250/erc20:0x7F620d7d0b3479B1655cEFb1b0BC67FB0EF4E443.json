@@ -1,0 +1,8 @@
+{
+  "name": "Staked Ice",
+  "symbol": "nICE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:250/erc20:0x7F620d7d0b3479B1655cEFb1b0BC67FB0EF4E443.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x662c07a90b51c2755c34089364b8700742aecb8a6efc78b59516e50fd498bdd0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

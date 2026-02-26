@@ -1,0 +1,8 @@
+{
+  "name": "BoringDAO BTC",
+  "symbol": "OBTC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x8064d9ae6cdf087B1BCD5bdf3531BD5D8C537a68./ipfs/qmnvufpfxireefybop5uvgvbdnwh4kdsuqsyrtvutctzm8/obtc",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5749ef69a9b606f6a291d8e42c3ca3ae5d901ce27dcd2bfbc49a50a11d100d78@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

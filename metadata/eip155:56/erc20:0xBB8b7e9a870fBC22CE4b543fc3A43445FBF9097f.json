@@ -1,0 +1,8 @@
+{
+  "name": "Rebellion Protocol",
+  "symbol": "REBL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xBB8b7e9a870fBC22CE4b543fc3A43445FBF9097f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x79e23f834c38aa77bbf11a0aec22ce0331966227bbc7b495874e6b2c6b298da4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

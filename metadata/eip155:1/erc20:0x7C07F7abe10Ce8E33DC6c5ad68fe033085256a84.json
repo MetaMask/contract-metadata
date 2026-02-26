@@ -1,0 +1,8 @@
+{
+  "name": "Interest Compounding ETH Index",
+  "symbol": "icETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x7C07F7abe10Ce8E33DC6c5ad68fe033085256a84.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc545edf3b3760d662198ec40725eae90a9264ca8aac335c524f9f0599d9af3bd@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

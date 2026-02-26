@@ -1,0 +1,8 @@
+{
+  "name": "AstroPepeX",
+  "symbol": "APX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xED4E879087eBD0E8A77D66870012B5E0DFFD0Fa4.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x643f5f2c110bca47fc4e8753f2cd0e73703c59d936192f32dc88b0f5e6ba783d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

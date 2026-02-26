@@ -1,0 +1,8 @@
+{
+  "name": "Kush Finance",
+  "symbol": "KSEED",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3F09400313e83D53366147e3eA0e4E2279D80850./ipfs/qmxlfvqdpus6rlxuctekdh12iz34mjqj7hcw9toxwdhmng/bcd5vhvmqk1wwjpzt8yhah3enbwkk42byjkcp6nyzuustmkf3mxyr9ni8cgccyi8eksppc1ketzjbuj6rbjxty4w3w",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0e014eddc72827f0319f8195193abd2955fb4cca39d105d710b65be53d64b593@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

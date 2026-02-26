@@ -1,0 +1,8 @@
+{
+  "name": "LGO",
+  "symbol": "LGO",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0a50c93c762fDD6E56D86215c24AAAD43ab629aa./ipfs/qmct8w44mddwmwhg17szgfutypprae5jcfhqwhbxwfcyga/bcdxxh5vakzshfsypecvjkh2howvzyalfdijkuxez53d2y9botl1hblwuzewljwne2b9mxpvkxmjpodhj6kajj7ntz",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0b4724a230e6d15114b1e2effb4a7f6b14e3f3916702067a400313401d01a5f8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

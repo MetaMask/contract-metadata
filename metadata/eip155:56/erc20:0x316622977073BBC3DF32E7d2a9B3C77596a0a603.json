@@ -1,0 +1,8 @@
+{
+  "name": "Jarvis Synthetic Brazilian Real",
+  "symbol": "jBRL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x316622977073BBC3DF32E7d2a9B3C77596a0a603.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x87346ab4afcf7bc1ee944d6c520b2d7f9f25b2a37d46e35ae0ae700badaa6f67@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

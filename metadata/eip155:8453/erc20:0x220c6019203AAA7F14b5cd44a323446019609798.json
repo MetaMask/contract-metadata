@@ -1,0 +1,8 @@
+{
+  "name": "Sports Analyst AI",
+  "symbol": "SPORT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x220c6019203AAA7F14b5cd44a323446019609798.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf0325562919965af2ef64c1d8d32526b7c9920aaf85ba747574d4f9a35aa90cb@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

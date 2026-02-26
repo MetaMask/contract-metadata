@@ -1,0 +1,8 @@
+{
+  "name": "Kamino",
+  "symbol": "KMNO",
+  "decimals": 6,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x706c08b5e64d04a27462ce80526232fafb1784e2852753ace4de3ff68d4e0190@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Anon",
+  "symbol": "ANON",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x0Db510e79909666D6DEc7F5e49370838C16D950f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6b26b720be159ab367bb4f6ed375c4024d3fc4313b14f919498a514a78c385cb@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

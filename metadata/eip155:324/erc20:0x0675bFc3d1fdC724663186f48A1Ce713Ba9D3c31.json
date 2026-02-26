@@ -1,0 +1,8 @@
+{
+  "name": "Renzo Restaked ETH",
+  "symbol": "ezETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x0675bFc3d1fdC724663186f48A1Ce713Ba9D3c31.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xea3f6e952d3e4d231826fe4505723b0a281809dcf47af73af0f4644c60791809@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

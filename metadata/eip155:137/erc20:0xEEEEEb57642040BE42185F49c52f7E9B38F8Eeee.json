@@ -1,0 +1,8 @@
+{
+  "name": "Elk Finance",
+  "symbol": "ELK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0xEEEEEb57642040BE42185F49c52f7E9B38F8Eeee.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xed7f4e77fb3cc26382deef42b623d33d083ff8132ef983f9a13642e48a5f4fe0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

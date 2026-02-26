@@ -1,0 +1,8 @@
+{
+  "name": "Decentr",
+  "symbol": "DEC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x30F271c9e86d2B7D00a6376cd96A1CFBD5F0b9b3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa15a16f90e8731508a108699c105497182873b5fef572692d0321cdf6184a1b9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

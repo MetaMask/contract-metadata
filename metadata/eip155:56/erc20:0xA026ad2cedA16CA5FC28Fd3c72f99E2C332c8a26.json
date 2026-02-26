@@ -1,0 +1,8 @@
+{
+  "name": "XCAD Network",
+  "symbol": "XCAD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xA026ad2cedA16CA5FC28Fd3c72f99E2C332c8a26.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8f28ef78ee7355a02966d79a8db03b26573a58efe2923a52860a7655896ee846@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "SuperMeme",
+  "symbol": "SPR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x77184100237e46B06CD7649abf37435F5D5E678b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1f126babecbbb7fd35a4453995f2fa87642873f08d65b5ecde26c1e92b0bcf4e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

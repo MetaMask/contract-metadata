@@ -1,0 +1,8 @@
+{
+  "name": "Access Protocol",
+  "symbol": "ACS",
+  "decimals": 6,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:5MAYDfq5yxtudAhtfyuMBuHZjgAbaS9tbEyEQYAhDS5y.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x07c55bd826462310824d2f67d36e9a485f6b207353f355fab0ba5cbbce434773@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

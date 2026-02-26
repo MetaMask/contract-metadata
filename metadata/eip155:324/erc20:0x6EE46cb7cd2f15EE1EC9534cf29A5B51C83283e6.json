@@ -1,0 +1,8 @@
+{
+  "name": "Kyber Network Crystal",
+  "symbol": "KNC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x6EE46cb7cd2f15EE1EC9534cf29A5B51C83283e6.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x88fa841238f54ddd0d20d5a9ca571d1a50bb8916072562e816c2052c9e53bb5c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

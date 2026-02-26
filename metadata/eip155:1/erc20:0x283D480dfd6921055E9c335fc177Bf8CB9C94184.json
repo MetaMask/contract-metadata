@@ -1,0 +1,8 @@
+{
+  "name": "VIX777",
+  "symbol": "VIX",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x283D480dfd6921055E9c335fc177Bf8CB9C94184.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5f6b7df591e632f6b6610f15dcc7380548580c60e2a39d1045cf512cf8b1722d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

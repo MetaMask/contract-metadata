@@ -1,0 +1,8 @@
+{
+  "name": "Optimism",
+  "symbol": "OP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x170c84e3b1d282F9628229836086716141995200.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1b2273f6d8450c016f700f76dcdd3d03fec1106d335ec06954db7f418d09b87b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

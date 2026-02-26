@@ -1,0 +1,8 @@
+{
+  "name": "tBTC",
+  "symbol": "tBTC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0x6C84a8f1c29108F47a79964b5fe888D4F4D0de40.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6810d29986cec5581ca27f4cd02790ac6c372582055c98b33414e21e4d7dfc58@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

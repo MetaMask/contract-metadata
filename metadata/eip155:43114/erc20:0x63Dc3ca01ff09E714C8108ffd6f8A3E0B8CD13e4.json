@@ -1,0 +1,8 @@
+{
+  "name": "ZUM",
+  "symbol": "ZUM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x63Dc3ca01ff09E714C8108ffd6f8A3E0B8CD13e4.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb943344e2e0a206f543c8924e4ae2a9163e96f74f052e4899793e8dc36c53d56@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

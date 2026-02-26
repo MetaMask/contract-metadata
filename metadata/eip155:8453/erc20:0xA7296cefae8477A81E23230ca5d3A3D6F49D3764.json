@@ -1,0 +1,8 @@
+{
+  "name": "Fit",
+  "symbol": "FIT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xA7296cefae8477A81E23230ca5d3A3D6F49D3764.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbcc8111f7cd8347197d49f9ce7b68c41db851e7e958a6092ab1a463993e95428@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

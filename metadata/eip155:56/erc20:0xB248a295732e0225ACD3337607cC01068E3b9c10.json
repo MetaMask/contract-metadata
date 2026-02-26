@@ -1,0 +1,8 @@
+{
+  "name": "Venus XRP",
+  "symbol": "vXRP",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xB248a295732e0225ACD3337607cC01068E3b9c10.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x334e0d49f73ddd479865f24e0b869db320eda2be30436186f70473274eff8f74@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

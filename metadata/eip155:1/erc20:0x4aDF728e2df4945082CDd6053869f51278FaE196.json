@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Inverse Monero",
+  "symbol": "iXMR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x4aDF728e2df4945082CDd6053869f51278FaE196./ipfs/qmrxzb6ayywnaqy86mxmkqdttkqcykctvcytrpb79kumtt/ixmr",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x26a483a5afd3254a063040b2608ce9ca39201128f3dd92ef951d5426316cae62@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Serum",
+  "symbol": "SRM",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x476c5e26a75BD202A9683Ffd34359C0CC15bE0ff./ipfs/qmyc3xmyf1vn4hczv1tsgx9dwnt9t8pgebwtkchbvwmdvp/bcd2signy2bcy8bdnlabc7xhmz96oopzsjzh7hfakcn5zgmmmhqof65psz7bfw9blhwtmo23e3pvhovunvwextgnnl",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5c8108b0f91343cf9dccccb0ca41358beb5fa5f099d82d3ef8e429910f629adf@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

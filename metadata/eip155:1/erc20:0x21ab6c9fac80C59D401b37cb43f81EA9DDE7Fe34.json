@@ -1,0 +1,8 @@
+{
+  "name": "Baer Chain",
+  "symbol": "BRC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x21ab6c9fac80C59D401b37cb43f81EA9DDE7Fe34./ipfs/qmycymwql36zw39tukfbzwuxpc71d8b2ghu1tvp8cs6guh/bcd2fofkapkztttuxwumqpnezrjxae1ujz4p7qxgz9pndm5gzhyqvt2pv5bb6mnrysgajaacwumlmd5ivz7wtz77rq",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x56d4139b4d39db7452727e0d25d7bfd48b91e56ca94ff35c7e5c5ec203543fa1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

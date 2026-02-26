@@ -1,0 +1,8 @@
+{
+  "name": "TOMB Shares",
+  "symbol": "TSHARE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:250/erc20:0x4CDF39285d7CA8EB3F090Fda0c069BA5F4145b37.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xac11f0758299e97fcef9677e0fc54280e8b01c4263b644dffa325078b8462588@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

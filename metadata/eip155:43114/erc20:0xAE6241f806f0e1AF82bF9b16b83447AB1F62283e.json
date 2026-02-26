@@ -1,0 +1,8 @@
+{
+  "name": "Solar Dex",
+  "symbol": "SOLAR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xAE6241f806f0e1AF82bF9b16b83447AB1F62283e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x31e158d31b1855eb5304bfa1a77c344c5e127dc3693c7c8d76a06bc306846e53@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

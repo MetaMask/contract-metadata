@@ -1,0 +1,8 @@
+{
+  "name": "wow",
+  "symbol": "wow",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x8216E8143902A8FE0B676006bc25eB23829c123d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2e53193a0aa7da39aae57cbbb3188b09dbf29c057f486ea5f4e42fa9a41a0990@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

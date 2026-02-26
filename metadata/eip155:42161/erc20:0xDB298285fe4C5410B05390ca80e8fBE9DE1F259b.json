@@ -1,0 +1,8 @@
+{
+  "name": "handleFOREX",
+  "symbol": "FOREX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0xDB298285fe4C5410B05390ca80e8fBE9DE1F259b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfb1bfc2ff2cf398af6424ac5c5e9df93745d5888022d8fa0e1f5b40db808724b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

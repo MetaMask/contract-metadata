@@ -1,0 +1,8 @@
+{
+  "name": "Siberian Husky",
+  "symbol": "SHUSKY",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x236D53148f83706C3D670064809577385F923a75./ipfs/qmvn58gtjhbg92amy3ztk1uw4wiwjtkaf5hx4mld3nkz9s/shusky",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb9afd2f625f357a08893283e77d941b4ba763c33e11b74f5457eba44462fff47@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

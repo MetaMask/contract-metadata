@@ -1,0 +1,8 @@
+{
+  "name": "Arcona",
+  "symbol": "ARCONA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0F71b8de197A1C84D31DE0f1fA7926C365F052b3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5ba67cd17725657f509afb3da084f1c68c52364f75ebfdec9ad98317bf23ba2a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

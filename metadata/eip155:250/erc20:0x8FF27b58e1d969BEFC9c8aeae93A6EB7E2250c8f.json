@@ -1,0 +1,8 @@
+{
+  "name": "LSHARE",
+  "symbol": "LSHARE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:250/erc20:0x8FF27b58e1d969BEFC9c8aeae93A6EB7E2250c8f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4fcac49c97dc09164ffc56f67c34cd49e8902ed8fad13666c1fad3bc024e04e7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

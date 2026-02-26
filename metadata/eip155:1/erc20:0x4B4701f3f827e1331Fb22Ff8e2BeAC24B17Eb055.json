@@ -1,0 +1,8 @@
+{
+  "name": "DistX",
+  "symbol": "DISTX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x4B4701f3f827e1331Fb22Ff8e2BeAC24B17Eb055./ipfs/qmaqbzhrazg9qwjhzdfwaexaekafsjjyxpwimzrnslm99f/bcd7kfj6tjxenymaxacy7ofdlarvp4u1a5zosebzt3qgn41vqcdkr9b14qnk931u3w29teu2bmdexgwypcyiwxfcu9",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x64b0a21b0e2eab81d8e5b80d154de18116378b00de9cdddbe29309002f15a321@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

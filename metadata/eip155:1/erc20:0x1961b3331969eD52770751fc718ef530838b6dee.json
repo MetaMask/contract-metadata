@@ -1,0 +1,8 @@
+{
+  "name": "BitDegree",
+  "symbol": "BDG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1961b3331969eD52770751fc718ef530838b6dee.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb6784c088651594935c6cb5725d927172666005b1aab74f952ed06294ef2e8e1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

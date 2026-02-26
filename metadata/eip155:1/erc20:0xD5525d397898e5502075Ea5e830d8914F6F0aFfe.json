@@ -1,0 +1,8 @@
+{
+  "name": "Meme",
+  "symbol": "MEME",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD5525d397898e5502075Ea5e830d8914F6F0aFfe./ipfs/qmzlhuhbrg6psflvqvriprmxtcbn9rngzy14dwakcjcmea/bce1gqm9necphbx9ogpys3emxuveofuswg8lyhmrkxbgq3hj8kfjjchxhmm114ssxzrclwi98hbuh6yc2jngcyvwv6",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe3fcf26a29080c619013ea4d85e0ee5b79778a3c0039c64b7cbfd99bf24bdab0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

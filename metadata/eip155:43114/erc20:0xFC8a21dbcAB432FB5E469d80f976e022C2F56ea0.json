@@ -1,0 +1,8 @@
+{
+  "name": "MetaMUI",
+  "symbol": "MMUI",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xFC8a21dbcAB432FB5E469d80f976e022C2F56ea0.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7505efa1945007101a4d5f5287399c235d60c646faa3bf9ba7b29bb21b47ba84@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

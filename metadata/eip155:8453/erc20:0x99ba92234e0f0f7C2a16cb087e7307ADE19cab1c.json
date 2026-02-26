@@ -1,0 +1,8 @@
+{
+  "name": "WECO",
+  "symbol": "WECO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x99ba92234e0f0f7C2a16cb087e7307ADE19cab1c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5aaa9ed01375a8dcb96d9fc47f6b2e221a98d319acfac8359af418b00273326f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

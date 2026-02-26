@@ -1,0 +1,8 @@
+{
+  "name": "EURC",
+  "symbol": "EURC",
+  "decimals": 6,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:HzwqbKZw8HxMN6bF2yFZNrht3c2iXXzpKcFu7uBEDKtr.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x86ac1280344187a89da9fe4ff78c50df7f1abcc3c17c5a2e6fecb413a4be68ed@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

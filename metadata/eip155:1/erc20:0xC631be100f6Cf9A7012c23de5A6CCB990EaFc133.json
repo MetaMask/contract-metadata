@@ -1,0 +1,8 @@
+{
+  "name": "Banana Task Force Ape",
+  "symbol": "BTFA",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xC631be100f6Cf9A7012c23de5A6CCB990EaFc133./ipfs/qmctyhfqafqvijvurtczernyipmclsbdb5ukbtuzkudppu/btfa",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8b57015027908e9d1f2890ab58428175777362aef1748beacc67e91fc5b7202d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

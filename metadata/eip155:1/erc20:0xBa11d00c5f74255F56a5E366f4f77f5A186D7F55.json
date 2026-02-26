@@ -1,0 +1,8 @@
+{
+  "name": "Band Protocol",
+  "symbol": "BAND",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xBa11d00c5f74255F56a5E366f4f77f5A186D7F55./ipfs/qmpg71g2vadzqrfuyrzn5a9m4acxmepxi81emxwwgazmmz/bcdwnw6wsvuxryu6revd9oyw21ax7hbtxeqz7oblkz4zmz3z6ut98rjnraym1c6i84cytk5n9cxwv4vbeemabip5qa",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x17447a50e9549cb3bf771643bda1594b491e2191ca5800d7bf386c81c8da7a67@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

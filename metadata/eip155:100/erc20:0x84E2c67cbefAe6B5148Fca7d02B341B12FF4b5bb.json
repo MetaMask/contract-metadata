@@ -1,0 +1,8 @@
+{
+  "name": "Swash",
+  "symbol": "SWASH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:100/erc20:0x84E2c67cbefAe6B5148Fca7d02B341B12FF4b5bb.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd40c46b5ea73b2869a712a9614da5967b14e7351d4dbad11d0a3817121c8d1d2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

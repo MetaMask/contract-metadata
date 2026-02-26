@@ -1,0 +1,8 @@
+{
+  "name": "Decentraland",
+  "symbol": "MANA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0xA1C57F48f0deB89F569DFbe6e2B7f46D33606Fd4.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe735acd55ab6d8a635661054c1b2087a42b471e8b92e446ce7ffbdcb493a82f8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

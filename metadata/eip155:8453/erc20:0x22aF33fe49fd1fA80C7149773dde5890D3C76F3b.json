@@ -1,0 +1,8 @@
+{
+  "name": "BankrCoin",
+  "symbol": "BNKR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x22aF33fe49fd1fA80C7149773dde5890D3C76F3b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6529393d4cdd64d00c165edae81f91a6dbffa399eacaf719c6110af4fe60684e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

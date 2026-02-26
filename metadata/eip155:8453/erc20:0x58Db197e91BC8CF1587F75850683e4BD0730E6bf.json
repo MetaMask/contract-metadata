@@ -1,0 +1,8 @@
+{
+  "name": "Axelrod by Virtuals",
+  "symbol": "AXR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x58Db197e91BC8CF1587F75850683e4BD0730E6bf.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf275f305e917ce7ff2c048666fdd690ab4e14a68bad6012f9e66654c60d54fdb@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

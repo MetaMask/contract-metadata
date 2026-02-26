@@ -1,0 +1,8 @@
+{
+  "name": "Venus TUSD",
+  "symbol": "vTUSD",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xBF762cd5991CA1DCDDac9ae5c638f5B5DC3bEe6e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa2194107b809b386ac2d82d1e0af2d4d20e5c8cc9f012b675f09abd8efd987a1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

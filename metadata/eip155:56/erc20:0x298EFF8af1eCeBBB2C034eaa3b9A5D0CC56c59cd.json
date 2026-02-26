@@ -1,0 +1,8 @@
+{
+  "name": "Phantasma",
+  "symbol": "SOUL",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x298EFF8af1eCeBBB2C034eaa3b9A5D0CC56c59cd.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa02ac08e738f11872a6af6d9cab6650dcd7762b8f5089dcaf8a036fc1e4c2526@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Sapiens AI",
+  "symbol": "SPN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x035098c2a3BeA5E03B1E08e7140A5369D47bd349.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbb20ea7fca496c7cb4a39dc90e6ba2eb160632c1629c0d1b98a58231db1b2ab8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

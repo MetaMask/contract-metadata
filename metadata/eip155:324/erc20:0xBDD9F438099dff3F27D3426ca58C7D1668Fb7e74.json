@@ -1,0 +1,8 @@
+{
+  "name": "ClayStack Staked ETH",
+  "symbol": "csETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xBDD9F438099dff3F27D3426ca58C7D1668Fb7e74.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x84f6f57bde8020cc3afb9cda41d8272c92984c16cade146e8cebf5e25ede9512@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

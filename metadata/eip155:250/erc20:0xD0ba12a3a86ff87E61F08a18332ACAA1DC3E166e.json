@@ -1,0 +1,8 @@
+{
+  "name": "SonicSoda",
+  "symbol": "SODA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:250/erc20:0xD0ba12a3a86ff87E61F08a18332ACAA1DC3E166e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1e144786f062f21bc9ee986ff18320f8b48bd19cbc9aa5efe712325136cd138c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

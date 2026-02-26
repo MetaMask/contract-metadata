@@ -1,0 +1,8 @@
+{
+  "name": "AutoMiningToken",
+  "symbol": "AMT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x6aE0a238a6f51DF8EEE084b1756A54DD8a8E85d3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2f5757ff108c7e681def447a5c0b1d9137343b0e90c63696dab9ee9c74a98d09@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

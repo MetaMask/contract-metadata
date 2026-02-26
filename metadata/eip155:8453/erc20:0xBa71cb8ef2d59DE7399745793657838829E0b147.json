@@ -1,0 +1,8 @@
+{
+  "name": "Siamese",
+  "symbol": "SIAM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xBa71cb8ef2d59DE7399745793657838829E0b147.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4f3303f864a7b6110243f5fa067b77e681ccb7e5decd5fad5f51f2bb38c7d9af@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

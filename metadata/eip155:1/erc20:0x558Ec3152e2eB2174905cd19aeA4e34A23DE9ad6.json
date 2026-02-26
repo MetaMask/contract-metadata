@@ -1,0 +1,8 @@
+{
+  "name": "Bread",
+  "symbol": "BRD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x558Ec3152e2eB2174905cd19aeA4e34A23DE9ad6./ipfs/qmahefcezzrwcxpc2zif1wgxlxz3pwtxakkyxkarhsefmg/bcdwnois3qge18yzhyef9g7ttwho8xdjmz2qnhh9fjcdgfqlmogidlzcppbklkdsjxvhfq39tnsvky9yujkgkskmnb",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7e57e656d92f5cd6e8cb160ae47144de718c96cf1b3edc56b217609ccb5dc8ca@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

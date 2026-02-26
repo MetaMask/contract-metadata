@@ -1,0 +1,8 @@
+{
+  "name": "Orion Protocol",
+  "symbol": "ORN",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0258F474786dDfD37abcE6df6bBB1DD5DFC4434a./ipfs/qmxq7jsgrqarvlc9pjwp5jodaxghpqquzmz6u6yfwuqxwy/bcd6anbbbpwl4mzmjljnfbkqybc3bddz3qrjwksr3kfugq4etfxhjjdbkw95gzqzl6jrw29naewblnuv824hnolkpx",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3fe554f299622c110b2ad8ff76bdd12b67154ddfdb763463f708a8ff377a2cbc@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

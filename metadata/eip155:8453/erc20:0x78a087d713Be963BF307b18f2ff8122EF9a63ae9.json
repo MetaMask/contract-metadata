@@ -1,0 +1,8 @@
+{
+  "name": "BaseSwap",
+  "symbol": "BSWAP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x78a087d713Be963BF307b18f2ff8122EF9a63ae9.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x009dbdd8daea1dfde83d8ce0199a3d70167c8d04f045b0745f36cdefa39eea46@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

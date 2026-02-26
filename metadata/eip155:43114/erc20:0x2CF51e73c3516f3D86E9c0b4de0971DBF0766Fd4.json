@@ -1,0 +1,8 @@
+{
+  "name": "Blockzero Labs",
+  "symbol": "XIO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x2CF51e73c3516f3D86E9c0b4de0971DBF0766Fd4.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf3eb175ab7cef97dd12238e089c42776be6b530f4b70beb0ab79c3d45deed37e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

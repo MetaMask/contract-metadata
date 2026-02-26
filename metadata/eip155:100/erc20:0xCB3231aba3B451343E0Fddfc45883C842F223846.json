@@ -1,0 +1,8 @@
+{
+  "name": "Staking PNK",
+  "symbol": "stPNK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:100/erc20:0xCB3231aba3B451343E0Fddfc45883C842F223846.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0ac7280e3e1b28c04c34a1cf3a30b96e30f887a81880781d9221ee8a8d9ba29c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

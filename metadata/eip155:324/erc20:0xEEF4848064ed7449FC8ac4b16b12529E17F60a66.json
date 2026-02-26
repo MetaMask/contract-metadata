@@ -1,0 +1,8 @@
+{
+  "name": "Immutable X",
+  "symbol": "IMX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xEEF4848064ed7449FC8ac4b16b12529E17F60a66.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0d36335ae975693fee9db4f82f6c38fcc0e6651f12625e818c549dc5b7c87132@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

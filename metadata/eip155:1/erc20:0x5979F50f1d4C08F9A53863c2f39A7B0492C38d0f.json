@@ -1,0 +1,8 @@
+{
+  "name": "pTokens LTC",
+  "symbol": "pLTC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x5979F50f1d4C08F9A53863c2f39A7B0492C38d0f./ipfs/qmxjlqtg7btpqr15rqafcx4qdekinpchfydo8je5wecqpb/bccz9x4saw5eklvtyb7wqfq9cjmuddolwszrzmuhzhriknxgn1czejhbwkmzgfmvozz3g5uzmww17coxbvwf5j427q",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xef6cc10f538cb0e6c0dc694ce53a4dddc99e045f4bde4e97881051e8d77a9a87@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

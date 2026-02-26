@@ -1,0 +1,8 @@
+{
+  "name": "YFI yVault",
+  "symbol": "yvYFI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xE14D13d8b3B85AF791b2aadd661CDBD5E6097db1./ipfs/qmxynezmk3scgdj3lveddrhya52wqqnukjcqgizsrepvdz/yvyfi",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9742ac28c59eea52ad8567ebe3e6e3ac6fbd46ebd5a1fb39c649a5b7ab98ac28@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "ValueFlow",
+  "symbol": "VFLOW",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x9a2a3813bA02ADD52907F6cf8fA5358856a673bc.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe89bcc49d0b2638a7eb9c0fd5c9c9f05eaf24780c455e70996ab47f3384713e9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

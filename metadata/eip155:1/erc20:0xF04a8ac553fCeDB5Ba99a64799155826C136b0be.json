@@ -1,0 +1,8 @@
+{
+  "name": "Flixxo",
+  "symbol": "FLIXX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF04a8ac553fCeDB5Ba99a64799155826C136b0be./ipfs/qmr3hhq9oenksl8yxglbbfesa3thnw1gynrhvthp9k8ndy/bcd5wvhzb33abyxs1q65occtycxqpfjuedsew46mvqryqft9kctyqayh8msvgjtbauzcnvmwa82iunaq46o7yxfyhs",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa29bb4fd3d220f3dbc3cacf43473c51d2bfa5f468eb1ecda47d602aebc33d7bb@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

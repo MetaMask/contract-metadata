@@ -1,0 +1,8 @@
+{
+  "name": "BRISH",
+  "symbol": "BRISH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x37F24b26bcefBfAC7F261b97f8036DA98F81a299.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x526fdfa959bb4aa748c4144c8cb45f4e506815686cccab2a2de1d18167169b71@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

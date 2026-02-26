@@ -1,0 +1,8 @@
+{
+  "name": "SafeMoon Inu",
+  "symbol": "SMI",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xCD7492db29e2AB436E819b249452eE1BBDF52214./ipfs/qmvtr7qx2aafvxbnaqxqf7kd9hsv9wvvh6ehettrpsfkqb/smi",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6a3a58a199740e844d19ab2a08beb4e5b9d623196af3e75a15b1ce90842e4041@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Liquity USD",
+  "symbol": "LUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x5F98805a4e8Be255A32880fdec7f6728C6568ba0.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xaefcc736f747fcab08b29ad2123254904ad20e31f705f21fd42d1219fe9077f8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

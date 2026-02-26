@@ -1,0 +1,8 @@
+{
+  "name": "OmniKingdoms Gold",
+  "symbol": "OMKG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:534352/erc20:0x6B7D1c9d519dfC3A5D8D1b7c15d4e5BBE8DDE1cf.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7951a0bcfbc9b3de7158a241761433badb2626b9dae0a24fe4d7dc8dab2b07b3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

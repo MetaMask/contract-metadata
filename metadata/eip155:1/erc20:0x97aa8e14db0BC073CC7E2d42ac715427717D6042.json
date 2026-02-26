@@ -1,0 +1,8 @@
+{
+  "name": "SPUNK Vault",
+  "symbol": "SPUNK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x97aa8e14db0BC073CC7E2d42ac715427717D6042./ipfs/qmzrfdm6e16p2yq2van2bft5ry4wxtmupptx3vdmaw8u7h/spunk",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc0bd0022aaa7d4863442a5776c8988195754da772ddbb9d1ec347e5175a80db9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

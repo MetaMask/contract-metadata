@@ -1,0 +1,8 @@
+{
+  "name": "DMM: Governance",
+  "symbol": "DMG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xED91879919B71BB6905F23af0A68D231ECF87b14./ipfs/qmqvjvem2u9ruoupdoqmpdqspcdpjcqhlzn5rsjyf1ahet/bcd7kta3qkgpakg7e9h3eetcbaxcbt1kafj9hhqsrfrume5249tpbzsqtsk6s9rmkbir6wrdbgyqs9xvhahzehkhkh",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xeb42a24ecde2c7eb545e02c9f9535fca78da8b0789b031cacbde5139a446f25e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

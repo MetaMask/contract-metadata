@@ -1,0 +1,8 @@
+{
+  "name": "Firulais",
+  "symbol": "FIRU",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xE276056f924e15BEAC26F7b10b6d2805F9C64bb5./ipfs/qmqwymycsjvqdlerm1zy8cybaa4e2vznnpvnngkkhekbxl/firu",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x541c5dec0d26def7b47406ed9066db3ca2955ecbcefa4f7b1048d879d8871d38@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

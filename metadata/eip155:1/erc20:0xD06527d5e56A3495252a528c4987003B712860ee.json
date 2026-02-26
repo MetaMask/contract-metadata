@@ -1,0 +1,8 @@
+{
+  "name": "Cream Ether",
+  "symbol": "crETH",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD06527d5e56A3495252a528c4987003B712860ee./ipfs/qmdbwb1sdtf5jwsh1ncbgwpr5favot8yya3thzfsk72qdq/creth",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x82aeefd20ecea10b34d9cd47e9bd2f9eb0fa17c60dbaaf7bc77a81cc70537d1f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

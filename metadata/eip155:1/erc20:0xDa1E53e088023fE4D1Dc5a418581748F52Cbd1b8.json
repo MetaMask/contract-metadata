@@ -1,0 +1,8 @@
+{
+  "name": "Aidi Inu",
+  "symbol": "AIDI",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xDa1E53e088023fE4D1Dc5a418581748F52Cbd1b8./ipfs/qmaoywljbhvwm2dbhtbzljp8jsf8fxkneqwb2rynzyv7ez/aidi",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xeac461d402f472e40b21acd7f66253ed5c892a9465029b6abaaf5f3e2c534244@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

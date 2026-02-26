@@ -1,0 +1,8 @@
+{
+  "name": "Agent Zero",
+  "symbol": "A0T",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xCC4adb618253eD0D4D8a188fb901D70C54735e03.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0127718d2b8655cb876d18326df000e0b6c9a11be0c6863b2a68328a0ab20078@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

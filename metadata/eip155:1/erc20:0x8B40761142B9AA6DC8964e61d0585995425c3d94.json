@@ -1,0 +1,8 @@
+{
+  "name": "Tripio",
+  "symbol": "TRIO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x8B40761142B9AA6DC8964e61d0585995425c3d94./ipfs/qmbplxe8e774ekw14ygrwvewuqfyceynslhlutqgf4cpz9/bccxznpgndsy1qadiqgnpojxtff4edk5fagg2fl4dfxrmjc2zkausarbyuvxekqbv9wnaxwyysyqnh7jqhl3kmkdir",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x684b6b225f0e46aa4e4c9f55454abd8b33216162cd124ab5909d54605e259b81@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Coinbase",
+  "symbol": "sCOIN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9EEF4ca7ab9fA8BC0650127341c2D3F707a40F8a./ipfs/qmznbm5fszrfvkacnevm1xnyjvmifwa7bsapuzfnpetzu5/scoin",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9c7587cebaa82cfcd4ab2115e2714919be842abc4606fcf12e5c986cef2d1744@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Wrapped SOL",
+  "symbol": "SOL",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x60E14dd50ef2ff19CD1c71b76f1e17054a32F030.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x561df605e839556ce8a6d99765a3f4fef2dc441460209271216b8008ff7e5b76@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

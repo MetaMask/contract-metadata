@@ -1,0 +1,8 @@
+{
+  "name": "Doge Reloaded",
+  "symbol": "RELOADED",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF68DF6df642e8387AFC9d03214B78f3087EF8a99./ipfs/qmpep1tonztvwpspqrm8vqkbi7zbdlukbyre3quvijkodn/reloaded",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf7bd3df9da8904cfa5791ff136673810f59baa7fc35ca21a7139047830a18d5b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

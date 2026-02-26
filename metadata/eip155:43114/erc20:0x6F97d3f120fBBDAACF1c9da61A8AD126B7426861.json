@@ -1,0 +1,8 @@
+{
+  "name": "UniX",
+  "symbol": "UNIX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x6F97d3f120fBBDAACF1c9da61A8AD126B7426861.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x93ceb8e03f7d8d4a0e20e245c9bea5c376e62c914769e31cad37000c1d45ebc8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

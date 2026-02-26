@@ -1,0 +1,8 @@
+{
+  "name": "Carry",
+  "symbol": "CRE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x115Ec79f1de567EC68b7ae7edA501B406626478e./ipfs/qms2agrkfa9tmejudywhzr3fnswucob7xzjud8jggwag6w/bcd5xrt6jehktjxkqcpk9fyeuuguuaz8xecrmnxi7nfg5x69javqj2ubhqadepbjnajanchnvbqana2a9teapfy9aq",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x645267dc48027119e8fffabc933dbbbec5a73486cb81c7da1e84aa1b5aad17a6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

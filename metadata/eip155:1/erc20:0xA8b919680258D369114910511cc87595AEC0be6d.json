@@ -1,0 +1,8 @@
+{
+  "name": "LUKSO",
+  "symbol": "LYXe",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA8b919680258D369114910511cc87595AEC0be6d./ipfs/qmfv6srxsneubf5cuakcfm1zcef1srcmumyusvivusvv1c/bcdzlis9cgm267zmjkmqqx3tlc251d14w5a6xeirkttrmdu3b58pkgpkgmn8avtcrqmmhhwce7r1readbwffldhbvg",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xde80e7f49637386e91d0cdfbe654f5bfbffb35475ae0879035b45deb3b7ad65e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

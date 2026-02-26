@@ -1,0 +1,8 @@
+{
+  "name": "Sperax",
+  "symbol": "SPA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB4a3b0faf0AB53DF58001804ddA5BfC6A3D59008.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfd1490eba237bf1bac72d8273c6d8cbf8e86b4e53a730f8e15e89e086c9c930b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

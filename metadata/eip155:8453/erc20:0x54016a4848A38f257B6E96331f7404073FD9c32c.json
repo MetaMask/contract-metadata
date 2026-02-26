@@ -1,0 +1,8 @@
+{
+  "name": "Scale",
+  "symbol": "SCALE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x54016a4848A38f257B6E96331f7404073FD9c32c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdc6a3a832ac6cf4e16ca9b85fc3a50c7d40af984c977371582110193740d76da@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

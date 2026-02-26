@@ -1,0 +1,8 @@
+{
+  "name": "OMI",
+  "symbol": "OMI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x3792dbdd07e87413247DF995e692806AA13D3299.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xeafbc939882ec1103072c5468624b675de54dd78034772f4f3bd1e3e63dfebb5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

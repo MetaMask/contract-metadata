@@ -1,0 +1,8 @@
+{
+  "name": "BLERF",
+  "symbol": "BLERF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x347F500323d51E9350285daf299dDB529009E6ae.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x20e4e2780ff110e0e946f5796f67684fc7e798f7df151d718fad419017f3c532@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

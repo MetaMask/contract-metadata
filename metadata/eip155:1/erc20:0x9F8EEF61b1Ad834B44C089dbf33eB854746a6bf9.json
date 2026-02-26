@@ -1,0 +1,8 @@
+{
+  "name": "SpaceDawgs",
+  "symbol": "DAWGS",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9F8EEF61b1Ad834B44C089dbf33eB854746a6bf9./ipfs/qmeq5iuckjroapwtcs1m2mulrynytynmcqgnyjvuedtb6j/dawgs",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf78aaab09ebe80647a0a961d0c1742b959fcc2c7376cb97e3bd297bb264de617@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "BUILD Finance",
+  "symbol": "BUILD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x6E36556b3ee5AA28DEF2a8ec3dAe30EC2B208739./ipfs/qmve4we7xif2d4bjcfay81w4dyz6jhz8zcdx7umn1fb259/build",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x10b148767fa0511c50aad6833f06e2a8d5774c83b0d99b1e51c997e7dbe54c98@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

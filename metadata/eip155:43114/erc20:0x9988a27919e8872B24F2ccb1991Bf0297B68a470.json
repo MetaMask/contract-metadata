@@ -1,0 +1,8 @@
+{
+  "name": "AvaxTech",
+  "symbol": "ATECH",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x9988a27919e8872B24F2ccb1991Bf0297B68a470.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xacd24c91095bde63124f4d79c2a5e3f66a5cb20764b0cfaec697e30394f8ec46@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

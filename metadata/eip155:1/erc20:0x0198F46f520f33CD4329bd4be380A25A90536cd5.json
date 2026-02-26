@@ -1,0 +1,8 @@
+{
+  "name": "PlayChip",
+  "symbol": "PLA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0198F46f520f33CD4329bd4be380A25A90536cd5./ipfs/qmxrfrrrbyspboagt5m2tdyizqzmqxu4ls7fnkgyoukuxk/bcdvflvh3smxejy4zxhxbsmxbxed3dexc1scvcvhaz5ducrb1ucj3gfocncbsknre8hquxe4pcjmozwk64yueqad1a",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x14c6e8446a1fd7f76335e26fdc28b1d8589476d6c2d70b2762df42ef0d0e8030@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

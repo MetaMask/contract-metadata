@@ -1,0 +1,8 @@
+{
+  "name": "SWORD",
+  "symbol": "SWORD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x66b7cd2046c633196CFD061db21CA6A23ab9ba3a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdc0053932e2a7b30813daaa91f0352c52baae7fa32c1ae7b998f9ae281de6d09@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

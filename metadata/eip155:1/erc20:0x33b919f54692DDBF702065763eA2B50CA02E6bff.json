@@ -1,0 +1,8 @@
+{
+  "name": "Mocrow",
+  "symbol": "MCW",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x33b919f54692DDBF702065763eA2B50CA02E6bff./ipfs/qmzkr6efg3uwwjkrw7mnhles98rbcm56nrerd8bj7jw97b/bcd3e2xzattdwl1agnkb2bqsztmrmmrsqrlvijvzjeqrecjbn9jjbmfolq422m5fkdrahhenz8shkrde9s2gtstyhg",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xefbdc9013424c889704451829824ee909e49bb9e14b0b3d69a7b33f39b605bae@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Sovryn",
+  "symbol": "eSOV",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xBDab72602e9AD40FC6a6852caf43258113b8F7a5./ipfs/qmbnp1lc8x6xzzxsgcdgmlsx31s7ygfzjwv7vgkh1cedro/esov",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdca5688c99caf582736b4edbd4654bc3f839f681ad7461f9282b8d78a779d2db@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

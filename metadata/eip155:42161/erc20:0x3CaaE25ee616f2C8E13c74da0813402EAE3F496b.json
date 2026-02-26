@@ -1,0 +1,8 @@
+{
+  "name": "Camelot escrowed",
+  "symbol": "xGRAIL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0x3CaaE25ee616f2C8E13c74da0813402EAE3F496b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6b0c498e73b15949368d2b19c302c5eca87eb1ec2cc9621299c8fa75135ba4a7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

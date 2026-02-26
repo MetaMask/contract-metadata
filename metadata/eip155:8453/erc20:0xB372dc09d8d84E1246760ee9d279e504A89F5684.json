@@ -1,0 +1,8 @@
+{
+  "name": "METAFIGHT",
+  "symbol": "MFT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xB372dc09d8d84E1246760ee9d279e504A89F5684.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x419649bc722e31b232d97a9964ededc1c375552226f86fffe35ea3086a9a4ace@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

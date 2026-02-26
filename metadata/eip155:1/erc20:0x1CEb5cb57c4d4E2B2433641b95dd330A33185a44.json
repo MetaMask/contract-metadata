@@ -1,0 +1,8 @@
+{
+  "name": "Keep3rV1",
+  "symbol": "KP3R",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1CEb5cb57c4d4E2B2433641b95dd330A33185a44./ipfs/qmw74qsise23bfzzfpyss8xpqfngyb9hrehfwpps7cfedt/kp3r",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3ed918d39e54439ae6b9b46e3d007afe5688d5cb45c28d5f5c411d97d2a1494f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

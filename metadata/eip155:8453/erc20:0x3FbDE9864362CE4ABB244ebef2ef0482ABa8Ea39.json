@@ -1,0 +1,8 @@
+{
+  "name": "BavaToken",
+  "symbol": "BAVA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x3FbDE9864362CE4ABB244ebef2ef0482ABa8Ea39.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3c7a5eea4a2493be8b9d680ce42711008745242c1657aa7e3ee76cd7b24e3f20@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

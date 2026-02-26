@@ -1,0 +1,8 @@
+{
+  "name": "PeiPei",
+  "symbol": "PEIPEI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3FFEEa07a27fAB7AD1DF5297fA75e77A43Cb5790.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9d51f72c27a72f7d0fbbff27bc26aa0cce6d1e2b312b241e932f340a1313f901@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

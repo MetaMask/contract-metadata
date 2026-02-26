@@ -1,0 +1,8 @@
+{
+  "name": "BarterTrade",
+  "symbol": "BART",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x54C9Ea2e9c9e8ED865Db4a4ce6711C2A0D5063ba./ipfs/qmepf41omrwod8pr6dgetykchd9o5yxrhxbxjcwg3p9rgf/bcdwppq84vegdl83nc2l2yrxuh6q2djkrqvqdmhjwvmlcemdtqu4fee1nwxddbbc2avd1tw7tsx94dscybi7ksk2ms",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3b28dca07d3a49d1f6abaa2b5d51a54bcdacf4fad177f6e226255e43b0f70d87@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

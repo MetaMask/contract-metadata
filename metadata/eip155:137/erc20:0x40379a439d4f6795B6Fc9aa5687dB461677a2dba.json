@@ -1,0 +1,8 @@
+{
+  "name": "Real USD",
+  "symbol": "USDR",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0x40379a439d4f6795B6Fc9aa5687dB461677a2dba.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x73a852fcbea6a5ab2e4a3cbbbbb69ade14c33127b2a21fd32714fa5d5c23c5ef@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

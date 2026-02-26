@@ -1,0 +1,8 @@
+{
+  "name": "ChartEx",
+  "symbol": "CHART",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1D37986f252d0E349522Ea6c3b98CB935495E63e./ipfs/qmwxaymwadgxxa6xshauixghchjn3mn3lgsdxtfrtntehv/bcdzkwd7nooudmd5q6ya2qfb47trskjhgmhms5ankmebx3tbkofdtkgn6rkrhxsmtsw7f9utqhcdats6mcvpspmv8f",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xaac1a7681271a265d7bded816f49112ce98e65a24dba780dc0a49c4f84d7e661@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

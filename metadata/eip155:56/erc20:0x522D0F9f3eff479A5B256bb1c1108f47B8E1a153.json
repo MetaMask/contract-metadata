@@ -1,0 +1,8 @@
+{
+  "name": "IGUP",
+  "symbol": "IGUP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x522D0F9f3eff479A5B256bb1c1108f47B8E1a153.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x527abecec50b60f90404cd84b51b6919cc8e135c6cc60f4fcd53775aa7fbea97@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "IOTA",
+  "symbol": "IOTA",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xD944F1d1e9d5f9BB90b62F9d45e447D989580782.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb0972ca7a7af6ac63cce217e738726a6fb99e1be852b260d03e5f14c7d32a359@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

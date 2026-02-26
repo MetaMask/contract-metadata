@@ -1,0 +1,8 @@
+{
+  "name": "Torus",
+  "symbol": "TORUS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x78Ec15c5fd8efC5E924E9eebb9e549E29C785867.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x51ba560955330ef908c65674084aeba74946c6ae5107d71e4504cf41b087c63b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

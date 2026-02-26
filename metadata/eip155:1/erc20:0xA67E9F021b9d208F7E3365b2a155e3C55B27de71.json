@@ -1,0 +1,8 @@
+{
+  "name": "KleeKai",
+  "symbol": "KLEE",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA67E9F021b9d208F7E3365b2a155e3C55B27de71./ipfs/qmnirdxv4av1jryqt7xfpknpd6s9tnrjldbbhceqeb2vcu/klee",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x004d915551377b541b57c99f7fccf40bbc257bed9a57261eb3249e88cfe7d460@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "CryptoZoon",
+  "symbol": "ZOON",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x9D173e6c594f479B4D47001f8e6A95A7ADDa42bc.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x19d13aa2fa23074515011c6cc58a226ad8b1c35ab0be37c4fcc7e5d8b7b299ce@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

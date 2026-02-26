@@ -1,0 +1,8 @@
+{
+  "name": "ShipChain",
+  "symbol": "SHIP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xE25b0bba01dC5630312b6a21927e578061a13F55./ipfs/qmqc54lbvtdpnzsaztzyrrwu6dmbghzfczztigfq1ofg7q/bcd3dp9zx6mpqr2u4fw2m5sxy5udhby4rtno6ve3odpdkkuz4vlyygmt5f7ulalzs7zxp8mmkjazkwj23z1jtl2xpf",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5d4ab495c5c2dcee9abcc737322b66c6884e9618afb8b645d19a7f367cc91792@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

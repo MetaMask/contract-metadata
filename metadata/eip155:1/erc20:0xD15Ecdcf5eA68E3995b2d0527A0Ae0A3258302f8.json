@@ -1,0 +1,8 @@
+{
+  "name": "Machi X",
+  "symbol": "MCX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD15Ecdcf5eA68E3995b2d0527A0Ae0A3258302f8./ipfs/qmqpybamrdlqueo4ckyr2phyrt8gvlbqk4gyan2zxeey2e/bcdz7xt7vhgqwbscwngfxyqzahtvzjk7svctyysiqfthv5qdjhklmthpm1hvd6nqgqk6dsb7xmzujarq7r3pmkzsck",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa4da06bdeb0f669cd0eddc90352c93798026a28985e9d3499b192b2a222e2f7b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

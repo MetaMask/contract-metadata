@@ -1,0 +1,8 @@
+{
+  "name": "Substratum",
+  "symbol": "SUB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x8D75959f1e61eC2571aa72798237101F084DE63a./ipfs/qmskkzucmz1scc93u2gppcjmb4ijcohtqsr368175uphao/sub",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x25b5afe4e0a9d6ccb7833277a2ede77994d17bfcbe958c8bcc332571093e4bbf@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

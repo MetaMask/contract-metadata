@@ -1,0 +1,8 @@
+{
+  "name": "Blur",
+  "symbol": "BLUR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x5283d291dbcf85356a21ba090e6dB59121208b44.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6f9731e41adbc0ffb4903064b8639b60a6a7db3863beb80458c3484d7b431f1f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

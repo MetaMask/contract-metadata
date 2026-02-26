@@ -1,0 +1,8 @@
+{
+  "name": "Opulous",
+  "symbol": "OPUL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x686318000d982BC8DCC1cdcf8ffd22322F0960ed.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1c2587069009c35d4d794668e87553b4ea0b989e6d865b46fdb2abd69248c578@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

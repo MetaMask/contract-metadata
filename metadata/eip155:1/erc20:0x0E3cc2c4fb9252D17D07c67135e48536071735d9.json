@@ -1,0 +1,8 @@
+{
+  "name": "ARTH",
+  "symbol": "ARTH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0E3cc2c4fb9252D17D07c67135e48536071735d9./ipfs/qmehxfzzyta8p9rocnnpzcnvfdgkhvf78fplkfrr8wsvsq/arth",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe964ecdf6dc2c781401caf8d3603c5d15294d86db444c394c8d57fd02eae7e37@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

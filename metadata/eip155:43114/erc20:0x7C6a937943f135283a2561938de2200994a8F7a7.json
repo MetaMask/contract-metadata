@@ -1,0 +1,8 @@
+{
+  "name": "Republic Note",
+  "symbol": "NOTE",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x7C6a937943f135283a2561938de2200994a8F7a7.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb762511dea0f8b9e9de80085ecee8d5c0fc0864e5ffc4f718f7d8ec7854ca496@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

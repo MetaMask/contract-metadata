@@ -1,0 +1,8 @@
+{
+  "name": "Huobi BTC",
+  "symbol": "HBTC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0316Eb71485B0AB14103307bf65A021042C6d380./ipfs/qmvj183rnxzcrjkzrul7lb5mdeuokvbkpvo4j7i6htnotu/hbtc",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0e45a594c8a6c3ac7fff56816fcfcbd0cbac933e52f40fa873f317434db48d5a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

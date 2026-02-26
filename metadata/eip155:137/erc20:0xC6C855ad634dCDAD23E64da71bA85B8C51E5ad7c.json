@@ -1,0 +1,8 @@
+{
+  "name": "Decentral Games ICE",
+  "symbol": "ICE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0xC6C855ad634dCDAD23E64da71bA85B8C51E5ad7c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x123e3efe6418a0b1a52cc6042c4cada6ba82ef9883088574badcfa13928e2e29@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

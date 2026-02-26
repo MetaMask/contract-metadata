@@ -1,0 +1,8 @@
+{
+  "name": "Chromia's EVAL by Virtuals",
+  "symbol": "EVAL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xDD78523217390BB0D49c7601e7e54C36D71622f0.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9924899694f3711c75562f625f0bbad409c3c6e1b77f244d124dedfc268069a9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

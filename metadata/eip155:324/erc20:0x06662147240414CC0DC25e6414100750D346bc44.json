@@ -1,0 +1,8 @@
+{
+  "name": "Flashdash",
+  "symbol": "FLASHDASH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x06662147240414CC0DC25e6414100750D346bc44.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x18ab41000da2ef929e428f7d92aadd8cdddd278ba1901df30f7fce77cebb65c3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

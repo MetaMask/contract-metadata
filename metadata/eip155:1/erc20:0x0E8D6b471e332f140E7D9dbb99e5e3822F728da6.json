@@ -1,0 +1,8 @@
+{
+  "name": "Abyss",
+  "symbol": "ABYSS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0E8D6b471e332f140E7D9dbb99e5e3822F728da6./ipfs/qmbgrneknslsyk2ni2d7idhe4heuzbvjlpapp1cc3c5ddt/abyss",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf2ab05d1b0fb76d4b4ac78ad399ba9259ed4dcb341de18e9136dd645b9cc5c14@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

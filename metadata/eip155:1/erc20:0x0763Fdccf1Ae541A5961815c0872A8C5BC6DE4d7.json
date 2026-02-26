@@ -1,0 +1,8 @@
+{
+  "name": "SUKU",
+  "symbol": "SUKU",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0763Fdccf1Ae541A5961815c0872A8C5BC6DE4d7.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x75954207efcfb8e3435c917deb8e55a8a79aa2eb9caa9c2bd7222877151cda75@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Turbo",
+  "symbol": "TURBO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA35923162c49Cf95E6bF26623385eB431aD920d3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf68997d6930ac3706e6302820ad654612e082f6eb20ef8412eca7d40e2166202@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

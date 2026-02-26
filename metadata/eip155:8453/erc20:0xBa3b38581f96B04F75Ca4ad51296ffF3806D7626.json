@@ -1,0 +1,8 @@
+{
+  "name": "Based Potato",
+  "symbol": "POTATO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xBa3b38581f96B04F75Ca4ad51296ffF3806D7626.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbfeafdbfdf812d3ca17199d93e19ef9144ce47285a1efe8814a44ed5e86fa6aa@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

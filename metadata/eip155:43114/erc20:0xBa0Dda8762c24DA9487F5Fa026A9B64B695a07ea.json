@@ -1,0 +1,8 @@
+{
+  "name": "OX",
+  "symbol": "OX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xBa0Dda8762c24DA9487F5Fa026A9B64B695a07ea.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4c9aa29d21f211ee1010b09088eedc93a2af741f09db19da6107f0b4b90e5fe7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "BasedRate.io SHARE",
+  "symbol": "BSHARE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x608D5401d377228E465ba6113517DCF9BD1F95ca.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfc1eb379244ee035a9dff060cc1bc6728ef1da5496b1450f6de2da843019ff0c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

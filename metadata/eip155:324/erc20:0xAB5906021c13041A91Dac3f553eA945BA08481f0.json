@@ -1,0 +1,8 @@
+{
+  "name": "Optimus",
+  "symbol": "OPTIMUS",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xAB5906021c13041A91Dac3f553eA945BA08481f0.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4c292eb11045d82453b78a3f9e001dce3cf0b165999cc9c1eb34ded604f0cf27@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

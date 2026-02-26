@@ -1,0 +1,8 @@
+{
+  "name": "Simmi Token",
+  "symbol": "SIMMI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x161E113b8e9BBAEFB846F73f31624f6F9607bd44.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x808b362b77911907c81aa5ecea99d7d9b9d560f1c2465627625a8fbccde8a214@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

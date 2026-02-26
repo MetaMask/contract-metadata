@@ -1,0 +1,8 @@
+{
+  "name": "Ankr Staked ETH",
+  "symbol": "ankrETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:10/erc20:0xE05a08226c49B636ACF99c40dA8dC6AF83CE5bb3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf64b9b44908f140df7b0b6c12af84b3bf2d6097d0c14697e15cbd6110f0483fd@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Axioms",
+  "symbol": "AXI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x73EE6d7e6b203125ADD89320e9f343D65EC7c39a./ipfs/qmzqxw826hairpzm9n5w7vfjcvjhyyj7coq2me9kg7hkxp/bccyc33ya4bpivgqy6rvi8agvawhb5nabjmytteloyrj4gihmeqkjbn9gg5ehhdpr1idcrjwgewhkwvos1qucx6tpe",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4c8c9b5f43bb77b786ed3bc3164d72b080d30f025dc21d1396310e03ffab78d0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

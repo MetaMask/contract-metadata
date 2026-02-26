@@ -1,0 +1,8 @@
+{
+  "name": "DIGG",
+  "symbol": "DIGG",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x798D1be841A82A273720ce31c822C61A67a601c3./ipfs/qmtd17ifassvdv51lcn65jxv19lm1mzdpptwwttslrdgn3/digg",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x755a1b60567c5e1f6d1442010c23c685e1b523c306dc3fb9ed234ebfe35cc665@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

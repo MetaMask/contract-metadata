@@ -1,0 +1,8 @@
+{
+  "name": "Maha",
+  "symbol": "MAHA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:534352/erc20:0x6a661312938d22A2A0E27F585073e4406903990a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x95ad19ce03f835be41651c92dd86c9047545adec6bdc3654b6ec8b73773e2117@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

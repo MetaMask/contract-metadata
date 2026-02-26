@@ -1,0 +1,8 @@
+{
+  "name": "Sekuritance",
+  "symbol": "SKRT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x887168120cB89fB06F3E74dc4Af20D67DF0977f6./ipfs/qmbyhd5xvxhppvygmjdnyk799q9bcctoaf4xsweetsbgvi/skrt",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xcbb193684c70cd6a34cd5972402662e7a056df2feddccf9a4330f9b2a3c09201@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

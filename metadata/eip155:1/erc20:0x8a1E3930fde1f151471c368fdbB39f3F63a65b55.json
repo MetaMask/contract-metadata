@@ -1,0 +1,8 @@
+{
+  "name": "Bezop",
+  "symbol": "BEZ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x8a1E3930fde1f151471c368fdbB39f3F63a65b55./ipfs/qmus5lacz6nvwfq5bzfzzqergumbagdpvkeaztcfqk5qbv/bcd2sw4riuqkmqoa8zd69yot7huylddpitrmheskzlby1dlbwdp8hpg7zeblcfutnfeeuyvwy8ddrs52yvakqrpkyd",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbd61e8ac994f341198ddeaf65928937fab83b1d48495093d787cf82b864bbefb@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

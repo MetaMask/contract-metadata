@@ -1,0 +1,8 @@
+{
+  "name": "DOSE",
+  "symbol": "DOSE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB31EF9e52d94D4120Eb44Fe1ddfde5B4654a6515.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbb295cd189557992de49dafd3af74afaf37bd5d7bf4bff8653cee17b61e3cfae@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

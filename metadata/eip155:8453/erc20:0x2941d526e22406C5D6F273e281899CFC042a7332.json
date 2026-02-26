@@ -1,0 +1,8 @@
+{
+  "name": "Kogin by Virtuals",
+  "symbol": "KOGIN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x2941d526e22406C5D6F273e281899CFC042a7332.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9fad62c8375c153dcf038aeba952dfcef194d75265e5fcf2f56b06f9c1a1c81b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

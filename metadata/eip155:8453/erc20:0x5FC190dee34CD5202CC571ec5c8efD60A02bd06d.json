@@ -1,0 +1,8 @@
+{
+  "name": "YoYo by Virtuals",
+  "symbol": "YOYO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x5FC190dee34CD5202CC571ec5c8efD60A02bd06d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x38a024de9be27fc2ea44643a425564263a033c9bba4e8ed6e5ae718d8aaf553d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

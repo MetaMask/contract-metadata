@@ -1,0 +1,8 @@
+{
+  "name": "The Arena",
+  "symbol": "ARENA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xB8D7710f7d8349A506b75dd184f05777C82Dad0c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe5ee17fc7e0640cb1ad746b9a25921249bee70b3b13c82bbbc423fe602a233ed@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

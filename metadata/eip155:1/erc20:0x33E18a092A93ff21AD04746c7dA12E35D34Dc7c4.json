@@ -1,0 +1,8 @@
+{
+  "name": "Metaverse NFT Index",
+  "symbol": "PLAY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x33E18a092A93ff21AD04746c7dA12E35D34Dc7c4./ipfs/qmbdjxlbuf9pyxvtrn9kxcx5p3xstmd97f5smcqqnhmaj8/play",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe386c83660322d9df9a924b5fb77da93f2ed27d45bb015035060032a036356e4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

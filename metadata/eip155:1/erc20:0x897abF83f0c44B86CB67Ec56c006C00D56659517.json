@@ -1,0 +1,8 @@
+{
+  "name": "Arteon",
+  "symbol": "ARTEON",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x897abF83f0c44B86CB67Ec56c006C00D56659517./ipfs/qmy5b6vxsjgqdzc1iqnhhutpvxbxfh7ijzdeq1qf9kqiu3/arteon",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x67cd0975f7e89b8b0017d681408c9427d5bb6202e7fe127ce514b602484f2ee4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

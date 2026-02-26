@@ -1,0 +1,8 @@
+{
+  "name": "Shirtum",
+  "symbol": "SHI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x7269d98af4AA705E0B1a5d8512fADB4D45817d5a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x802135e967f74e9d64f3d161c48b3614c4ef6f09b2f7eca4897df01af69b3ccd@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

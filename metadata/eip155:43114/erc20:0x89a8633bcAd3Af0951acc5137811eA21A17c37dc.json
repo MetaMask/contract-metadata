@@ -1,0 +1,8 @@
+{
+  "name": "LAMA",
+  "symbol": "LAMA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x89a8633bcAd3Af0951acc5137811eA21A17c37dc.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5726c2db38a8f3f1c3da6e73cf949046a0d2953158a874fd25363e7611ab7d72@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

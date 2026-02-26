@@ -1,0 +1,8 @@
+{
+  "name": "Phantom Pepe",
+  "symbol": "Phepe",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:250/erc20:0xDB2160359f606DBC12C5E67e5713B3C4BCEade49.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5e2d90ce3ff5a9df18ed8af717e58ddc477a1a405dda06e7a1c6b137bfeba8fb@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

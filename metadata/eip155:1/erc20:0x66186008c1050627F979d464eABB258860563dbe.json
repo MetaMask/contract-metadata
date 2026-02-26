@@ -1,0 +1,8 @@
+{
+  "name": "MediShares",
+  "symbol": "MDS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x66186008c1050627F979d464eABB258860563dbe./ipfs/qmavvmxgyqnggymzb31d8yyvzac917nqarqwfgn4eynvtb/bcd76gmewgffhykmeuuaxbrkrg31vnpmj7hagwbnvtwfpjcps3exybcxtbpc1otp3zxfxdjkaypceo6sndnwtxjbe2",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb09648728e494635b04cf5fac079e5ab94a98f5d75a3350d17207668a3f732eb@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

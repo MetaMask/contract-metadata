@@ -1,0 +1,8 @@
+{
+  "name": "Beefy Velo",
+  "symbol": "BeVELO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:10/erc20:0xFDEFFc7ad816Bf7867C642df7eBC2CC5554Ec265.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x607e299774193b9029c37e0696d84cbc505dbbfc2d035b3f9d39f4caa522ccb9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

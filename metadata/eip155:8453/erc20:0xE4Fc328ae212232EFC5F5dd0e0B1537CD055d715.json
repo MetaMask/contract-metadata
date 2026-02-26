@@ -1,0 +1,8 @@
+{
+  "name": "Giga Cat",
+  "symbol": "gcat",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xE4Fc328ae212232EFC5F5dd0e0B1537CD055d715.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x730bb24392143ba74ccc9769d11b2563c7428f0ba23ab90424ca548f36d2e6b0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

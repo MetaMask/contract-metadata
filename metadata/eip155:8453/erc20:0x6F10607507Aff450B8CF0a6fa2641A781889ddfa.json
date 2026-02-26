@@ -1,0 +1,8 @@
+{
+  "name": "MILO",
+  "symbol": "MILO",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x6F10607507Aff450B8CF0a6fa2641A781889ddfa.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x14dd5ddb68ca002d96ac1a880661107146224f506ef7cf4e8bc3a5c002c84cf7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

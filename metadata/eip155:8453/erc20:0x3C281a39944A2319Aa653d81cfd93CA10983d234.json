@@ -1,0 +1,8 @@
+{
+  "name": "BUILD",
+  "symbol": "BUILD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x3C281a39944A2319Aa653d81cfd93CA10983d234.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2c52f1efdd7cbe1a67d3a58f5b3cc9333bf5b41bce9b42ceee80f4bcd936fb8a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

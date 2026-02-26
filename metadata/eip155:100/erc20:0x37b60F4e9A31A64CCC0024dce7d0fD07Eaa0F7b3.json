@@ -1,0 +1,8 @@
+{
+  "name": "Pinakion",
+  "symbol": "PNK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:100/erc20:0x37b60F4e9A31A64CCC0024dce7d0fD07Eaa0F7b3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf1414d778fe68348c8087c1d489e16eccc5367e3653b8ef90219ef89994169ab@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

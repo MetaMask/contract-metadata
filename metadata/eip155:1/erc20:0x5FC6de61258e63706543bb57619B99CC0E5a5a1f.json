@@ -1,0 +1,8 @@
+{
+  "name": "Wanchain",
+  "symbol": "WAN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x5FC6de61258e63706543bb57619B99CC0E5a5a1f./ipfs/qmtkn5etflx1clch5yzdzgdmjggw7eeqawulrm3ndslvwi/bcdybzjmd2y5smomqecksdqdgfex28dggb11xev1y7gn5g7wvg4ft8b3rd4xc2zekezfwz34ts4tgybtcrkxtkpynw",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9097ddc68a3c3fd8c5aaff977536d89446cf8d5a9f72c81e0eb03c5c8dce4f9a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

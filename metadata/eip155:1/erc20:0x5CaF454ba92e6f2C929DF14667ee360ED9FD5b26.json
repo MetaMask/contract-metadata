@@ -1,0 +1,8 @@
+{
+  "name": "Dev Protocol",
+  "symbol": "DEV",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x5CaF454ba92e6f2C929DF14667ee360ED9FD5b26./ipfs/qmb45espwqm337fv7ukjmyehagfsrxxfxpu9yypehuarcz/bcdvrea7hnuntb7hghkpuyguwahs1v9wlw7f6auwelvzke1efa57byyntdqdkeppruigsjkyhlgi6zah92r17u9ke5",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa0430528a8da8d6f157a9e9259a374cbbb4b597a0177d04311afd84cda369728@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

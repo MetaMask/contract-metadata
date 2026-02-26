@@ -1,0 +1,8 @@
+{
+  "name": "RAIN Network",
+  "symbol": "RAIN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x61CDb66e56fAD942A7b5ce3f419ffE9375E31075./ipfs/qmwekx7xmta9ksklyw5bnse7th9zj5e5o2z3lxcke4y4r1/bcd3ciewgwyjc9a7qcv81r2egquh5qljxmd3ah5ajrpnsgckosxwp87prqlmyrmttwf2drwcquhzawmrk4sam8ehri",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6aa90726a85a625be1a09d23f22ed5ae3fc5fd5e655e1dd4b77afe270f966ebb@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

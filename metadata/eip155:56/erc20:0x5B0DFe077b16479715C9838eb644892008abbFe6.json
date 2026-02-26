@@ -1,0 +1,8 @@
+{
+  "name": "Baby Bitcoin",
+  "symbol": "BBTC",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x5B0DFe077b16479715C9838eb644892008abbFe6.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xcb6f2700c6585892ad6aa7cd6359331d91a923ef4f5f96f5fe275ce6ee4965a4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

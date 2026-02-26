@@ -1,0 +1,8 @@
+{
+  "name": "Assemble",
+  "symbol": "ASM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x2565ae0385659BADCaDa1031db704442E1b69982.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf6ab22661581b9eebaf431e5215949a1279ca8febe701e78d79cdfb1ec620fce@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

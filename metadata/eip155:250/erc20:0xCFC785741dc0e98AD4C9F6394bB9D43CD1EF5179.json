@@ -1,0 +1,8 @@
+{
+  "name": "Ankr Staked FTM",
+  "symbol": "ankrFTM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:250/erc20:0xCFC785741dc0e98AD4C9F6394bB9D43CD1EF5179.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb9fa1322817c40ef8cda2324a271865da5be357acab914051fb669a60b8672ab@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

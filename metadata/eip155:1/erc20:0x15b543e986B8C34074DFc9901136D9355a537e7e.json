@@ -1,0 +1,8 @@
+{
+  "name": "Student Coin",
+  "symbol": "STC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x15b543e986B8C34074DFc9901136D9355a537e7e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd2e7dfca638b95b480429a4775259107008a01edad9236852824fbcab60c691e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

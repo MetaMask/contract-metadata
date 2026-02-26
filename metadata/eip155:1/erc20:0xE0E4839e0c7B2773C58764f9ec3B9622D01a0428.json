@@ -1,0 +1,8 @@
+{
+  "name": "EnCore",
+  "symbol": "ENCORE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xE0E4839e0c7B2773C58764f9ec3B9622D01a0428./ipfs/qmnxwxczyawuu5pa2tttd1tru5uexx4zk24dbuz3ytzhr1/encore",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xeea482b1f35dba23e51bb6701924263262e6febd9d43d8156065806aa967f771@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

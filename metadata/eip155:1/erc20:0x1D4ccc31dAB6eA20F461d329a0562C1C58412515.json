@@ -1,0 +1,8 @@
+{
+  "name": "Talao",
+  "symbol": "TALAO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1D4ccc31dAB6eA20F461d329a0562C1C58412515./ipfs/qmagaztqqctu73y1pcibzfvc2ehgt2d17cxi7qgikzgq4x/bcd2tf3uoziu2ykrgmci3eqyyejovi9oyvqdnnjnzuxjpnfq8iramwchsbtsfnm8d8xv3fk8abw6ksw9avbhwpuuds",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb3e5e5345c08199599cc00b1c1407f501b992cf8c8957c3a7b6afa1d76575a90@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

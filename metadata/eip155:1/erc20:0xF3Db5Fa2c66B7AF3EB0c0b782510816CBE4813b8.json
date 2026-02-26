@@ -1,0 +1,8 @@
+{
+  "name": "Everex",
+  "symbol": "EVX",
+  "decimals": 4,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF3Db5Fa2c66B7AF3EB0c0b782510816CBE4813b8./ipfs/qmcrt2ycwwfrrq69w1m4dxqx9ngn5gquwsgkvtzymxwfvb/bcdz8dzmkondde3gd43xstnzdb55ccwpbva6yvs5gdhsegt7czzbjcld5syqls2c14trfs8jrrlgsdxyylusrs6fxy",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x23c329ff4fa4bedec9565e0e2b9cb1b230e30826a0eed8fb6347673dcb3053db@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

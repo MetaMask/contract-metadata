@@ -1,0 +1,8 @@
+{
+  "name": "Brat",
+  "symbol": "BRAT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xB4D4FF3fcbd6965962a79229aA94631D394217cb.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8ac46988b62b2995de4cd4b88cf0145eb66be1b0170dc2c9bea3a5352efe4b47@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

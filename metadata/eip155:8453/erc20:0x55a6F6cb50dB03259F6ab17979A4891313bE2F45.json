@@ -1,0 +1,8 @@
+{
+  "name": "Diligent Pepe",
+  "symbol": "DILIGENT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x55a6F6cb50dB03259F6ab17979A4891313bE2F45.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xcd2ed5c5103eaadab7ca0c46ef1d3159faeb92df4145605d441517bc99c13ee7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

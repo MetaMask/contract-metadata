@@ -1,0 +1,8 @@
+{
+  "name": "DIQINU",
+  "symbol": "DIQ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x1CD8a3d8b3cf9E334CC49073088CDf6435333559.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbd5715b26b616cafe0a5d28173dd96506afdb597031d1357e05113ee102e6a93@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

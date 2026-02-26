@@ -1,0 +1,8 @@
+{
+  "name": "Yeld Finance",
+  "symbol": "YELD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x468ab3b1f63A1C14B361bc367c3CC92277588da1./ipfs/qmnbaaevvyk7fdh6zkqezxkaxvhvzjdawwz5cdwdm9jxri/bcd7k6gqfghsfddr5wd2xshgf6ip3wtxqligkcjqf7zd9s9rkfrwkxvrwrkicqmhjam3pr3pn3daxwsrdzhvjetwto",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7226a8cb5a2d2a338ed830d1d17c74a6c211be8ccb22859349850182b8ba28a8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

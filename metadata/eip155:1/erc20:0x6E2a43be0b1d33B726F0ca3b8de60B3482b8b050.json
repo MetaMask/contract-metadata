@@ -1,0 +1,8 @@
+{
+  "name": "Arkham",
+  "symbol": "ARKM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x6E2a43be0b1d33B726F0ca3b8de60B3482b8b050.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x52b31d1eafcb1daa26e9ecedbeb1d5de356291dbb9d0b4b6bcd744197fdf2bc1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

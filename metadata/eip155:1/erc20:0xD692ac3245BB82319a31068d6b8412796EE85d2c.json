@@ -1,0 +1,8 @@
+{
+  "name": "Cream HUSD",
+  "symbol": "crHUSD",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD692ac3245BB82319a31068d6b8412796EE85d2c./ipfs/qmvrsgd1gykjmxhch8txuiwclatduidxn2s8tqhav7pnw9/crhusd",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc737d574e6654ed9b967b65fe34ec5675323a1ebca913c58a80ad62c6e8db4dd@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

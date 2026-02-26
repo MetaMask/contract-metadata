@@ -1,0 +1,8 @@
+{
+  "name": "Aave FRAX",
+  "symbol": "aFRAX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD4937682df3C8AEF4FE912a96A74121C0829E664./ipfs/qmvev6wxm437digkkacazif3h8sq8qqurldgkfjceaeryh/afrax",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x308266610aa405e96f3811810f49a498ed393bff8a63071ba8e4daf935f3c65b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

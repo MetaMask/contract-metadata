@@ -1,0 +1,8 @@
+{
+  "name": "Nop App",
+  "symbol": "NOP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x941Fc398d9fAeBDD9F311011541045A1D66c748e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x77531e06740b55a2a853cd3a8be6bfb1c4804fa6b4acdd080bf8e652eb034290@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

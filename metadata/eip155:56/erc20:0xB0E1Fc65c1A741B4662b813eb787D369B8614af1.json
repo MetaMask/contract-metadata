@@ -1,0 +1,8 @@
+{
+  "name": "Impossible Finance",
+  "symbol": "IF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xB0E1Fc65c1A741B4662b813eb787D369B8614af1.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x40a376a817e8a0c3b389838ff15b723dc1015ac4aab4875f50a8d81ff985ecf9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

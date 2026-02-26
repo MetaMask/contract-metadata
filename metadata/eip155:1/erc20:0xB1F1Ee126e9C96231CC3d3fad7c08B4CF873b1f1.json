@@ -1,0 +1,8 @@
+{
+  "name": "Beefy",
+  "symbol": "BIFI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB1F1Ee126e9C96231CC3d3fad7c08B4CF873b1f1.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6f50b51f3cc49f98b31ca377127497804750a08125d3a3d6d8a685a18ab65e19@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

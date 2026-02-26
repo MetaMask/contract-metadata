@@ -1,0 +1,8 @@
+{
+  "name": "Venus XVS",
+  "symbol": "vXVS",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x151b1e2635A717BCDC836ecd6fBB62B674FE3e1d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x57d05f68ed4f4033d0083b3553e444e1adccb8045d525129fa6422622eb90f7f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

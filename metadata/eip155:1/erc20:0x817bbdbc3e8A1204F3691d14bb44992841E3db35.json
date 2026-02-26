@@ -1,0 +1,8 @@
+{
+  "name": "Cudos",
+  "symbol": "CUDOS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x817bbdbc3e8A1204F3691d14bb44992841E3db35./ipfs/qmniy1wt3cwe3wplyfreehbaumeo5yc2scem8cthkzba2a/cudos",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9b7f9abffc2c45b431acf4d4915e0d5f6025dd4f3c524a7e9dde7b2007ed5e38@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Weble Ecosystem",
+  "symbol": "WET",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xB1466d4cf0dCfC0BCDDcF3500f473CDACB88b56d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x49327008edfa852cd7fb17e5d367e5bdd033936c591b7d10770bdb3f9bcb845c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

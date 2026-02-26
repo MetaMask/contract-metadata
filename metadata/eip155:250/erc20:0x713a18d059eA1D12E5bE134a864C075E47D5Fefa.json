@@ -1,0 +1,8 @@
+{
+  "name": "SDRACO",
+  "symbol": "SDRACO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:250/erc20:0x713a18d059eA1D12E5bE134a864C075E47D5Fefa.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfeb9a1a28894d07bddfa3cb8350f290131905c01a91e2d05192571596b6d2f30@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

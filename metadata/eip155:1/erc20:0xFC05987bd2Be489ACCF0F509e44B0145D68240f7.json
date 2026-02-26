@@ -1,0 +1,8 @@
+{
+  "name": "Essentia",
+  "symbol": "ESS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xFC05987bd2Be489ACCF0F509e44B0145D68240f7./ipfs/qmxcsmlmrhuuag2yrpsvxltu59e3nnwe5vnrgxpr5icfvy/bcd7jt8aq5vbw6fhm3zlevva5nywxmsvwhgfxgrwmb1v9hegkfcz8jggddl1nd4dvhguyfqd4etjnax2agnyyvuk4c",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe26dd3f7084f5efac6aeafe7f8bbc90df2f8da6fe86f05658e1d1990ce1959a1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

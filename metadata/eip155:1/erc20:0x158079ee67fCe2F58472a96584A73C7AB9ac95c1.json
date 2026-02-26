@@ -1,0 +1,8 @@
+{
+  "name": "Compound Augur",
+  "symbol": "cREP",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x158079ee67fCe2F58472a96584A73C7AB9ac95c1./ipfs/qme8p7fjmrapjcv9jd6d34hcbzkf3ng9henavzwp3n8cg9/bcd3dw892rymu1paub4pojmgvkb7wglz6wyzt47eurypd6vn94xqtbzec4qlqx9edsvn3ycg9cqnszmvpobruxddu5",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe0a81104d8ceccb3dba5bbe7175e78cf4a8a31a4f94d01fb75a29478e246e43f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

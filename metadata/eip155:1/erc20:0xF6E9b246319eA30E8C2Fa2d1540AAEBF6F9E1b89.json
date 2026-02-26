@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Inverse Bitcoin Cash",
+  "symbol": "iBCH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF6E9b246319eA30E8C2Fa2d1540AAEBF6F9E1b89./ipfs/qmrregzdgn9zs2ghlsndkz9sigcv3qknrzsjdmgct3ky71/ibch",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x950eb8a63c839d72346962222eb301904dd552652a1333a47e4ab2aff3950a10@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

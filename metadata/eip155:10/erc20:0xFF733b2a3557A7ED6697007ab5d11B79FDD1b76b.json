@@ -1,0 +1,8 @@
+{
+  "name": "Across Protocol",
+  "symbol": "ACX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:10/erc20:0xFF733b2a3557A7ED6697007ab5d11B79FDD1b76b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xeca75a19f6203583ddc03c5a8c15c14050612873f788fc415ce08592ccba6e84@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

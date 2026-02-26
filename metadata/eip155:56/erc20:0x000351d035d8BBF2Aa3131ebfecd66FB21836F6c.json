@@ -1,0 +1,8 @@
+{
+  "name": "Scotty Beam",
+  "symbol": "SCOTTY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x000351d035d8BBF2Aa3131ebfecd66FB21836F6c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6fe6b00ca0d4b1ffa517cf161b540758dd623b399808c54f79625f6991ef990d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

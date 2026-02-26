@@ -1,0 +1,8 @@
+{
+  "name": "Defactor",
+  "symbol": "FACTR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xD33c7b753ecAA85E5D5F5b5fd99deC59F26a087e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8e699d03852043ad8493881507087004a7e7b61ada7f4ad959e3f6256c152f41@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

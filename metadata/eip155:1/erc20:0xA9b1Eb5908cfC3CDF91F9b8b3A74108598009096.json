@@ -1,0 +1,8 @@
+{
+  "name": "Bounce",
+  "symbol": "AUCTION",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA9b1Eb5908cfC3CDF91F9b8b3A74108598009096./ipfs/qmbjckxsldalixwgpmonub7z79y7h2qvfuapj4s6cqe1ty/auction",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbc67967fbf9c4f573e2f68e02a02be31bac42fc2c948cc44c96e43f9c48a4bad@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

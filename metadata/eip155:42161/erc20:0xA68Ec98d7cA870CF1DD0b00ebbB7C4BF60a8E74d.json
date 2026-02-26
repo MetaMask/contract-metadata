@@ -1,0 +1,8 @@
+{
+  "name": "Biconomy",
+  "symbol": "BICO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0xA68Ec98d7cA870CF1DD0b00ebbB7C4BF60a8E74d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdca91b3b2c4ab3b7b171741e69829c2bbe1a1cd0c8d67262b244910bd0a32b6b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

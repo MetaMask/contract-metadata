@@ -1,0 +1,8 @@
+{
+  "name": "Crypto Phoenix",
+  "symbol": "CPHX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x8689d850cdf3B74A1F6a5eb60302C785B71c2Fc7./ipfs/qmxbfj4aygtako3t6ubb2mzzbnvdyau2xo22ftzewwdx9t/cphx",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf63a36e6d9d93d51e7fc765775c6fdb68d099f690d09237f12df8df5fc58ff4f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

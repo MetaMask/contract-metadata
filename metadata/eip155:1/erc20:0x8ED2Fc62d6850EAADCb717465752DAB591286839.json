@@ -1,0 +1,8 @@
+{
+  "name": "Elyssa AR",
+  "symbol": "$ELY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x8ED2Fc62d6850EAADCb717465752DAB591286839./ipfs/qma7csr8qm13kkzqdt4kjdfic5etkp93auy4d6lgoawzrk/$ely",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdf107483e53fc8f5ec4fe7d08ce170890c89a7846b96b61e817faa1cc261ab28@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

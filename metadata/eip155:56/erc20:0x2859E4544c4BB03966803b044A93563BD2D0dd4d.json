@@ -1,0 +1,8 @@
+{
+  "name": "Shiba Inu",
+  "symbol": "SHIB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x2859E4544c4BB03966803b044A93563BD2D0dd4d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xadf4e90f4b6f04b1f621b0bb94cdb21d758f3f39f86b419390681d2d581919c8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

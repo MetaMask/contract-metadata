@@ -1,0 +1,8 @@
+{
+  "name": "Stopelon",
+  "symbol": "STOPELON",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xD83cEc69ed9d8044597a793445c86A5E763b0e3d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x61bf0cf2d47c0061a20e38fe6a254c32640b2ef6ead4f264796d3d30992d4efd@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

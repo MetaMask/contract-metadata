@@ -1,0 +1,8 @@
+{
+  "name": "Lore",
+  "symbol": "LORE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:534352/erc20:0x549423e69576B80E91Dc836ae37e04209660c4ec.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc36b1619e181a72a1d0795ccec90fa4df15ee2548a149db5ee8994de6ad9ae31@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

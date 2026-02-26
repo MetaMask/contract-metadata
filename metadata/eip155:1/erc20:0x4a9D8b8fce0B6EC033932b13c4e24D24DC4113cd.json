@@ -1,0 +1,8 @@
+{
+  "name": "United Doge Finance",
+  "symbol": "UDOG",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x4a9D8b8fce0B6EC033932b13c4e24D24DC4113cd./ipfs/qmxhmtc1bte92v2nb4mhbir6qv6ddct1jvzp3azvj5k5t3/udog",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x550a25b664885549381d7ec3519b11ae9f045123ef7c5772d786e87883a17e03@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

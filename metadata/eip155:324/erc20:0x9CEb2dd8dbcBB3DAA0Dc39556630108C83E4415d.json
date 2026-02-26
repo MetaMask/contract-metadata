@@ -1,0 +1,8 @@
+{
+  "name": "Guardian AI",
+  "symbol": "GUARDIAN",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x9CEb2dd8dbcBB3DAA0Dc39556630108C83E4415d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf0f8815579e2c1167d4ba01e2f9766008625a6fe691a24f52e46b5aecc61052a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

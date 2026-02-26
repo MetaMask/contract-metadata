@@ -1,0 +1,8 @@
+{
+  "name": "Launchpool ",
+  "symbol": "LPOOL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x6149c26cd2f7B5CCDB32029af817123F6E37dF5b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xded9f354ff37fee784e8bb0a2b3f475ef8af31968b8887844f20b5fe311caa29@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

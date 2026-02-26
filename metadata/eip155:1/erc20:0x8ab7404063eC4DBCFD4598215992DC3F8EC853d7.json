@@ -1,0 +1,8 @@
+{
+  "name": "Akropolis",
+  "symbol": "AKRO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x8ab7404063eC4DBCFD4598215992DC3F8EC853d7./ipfs/qmv5orwq7e8gkeughgnsznv5qvxmbu23qt8yfthncllj3f/bccwquubfyoeyvxpro8pvrsczqjtobvbp5kqm1g6zgrhwexk2tf6xqw7k556vxrabudk56mgtmzjgrmsveqqwskuoe",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9a1adaa61f4e7c665b29b33826acbba6b475e82e960e11105eb82ee5798e16a3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

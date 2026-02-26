@@ -1,0 +1,8 @@
+{
+  "name": "ReactorFusion",
+  "symbol": "RF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x5F7cbcb391d33988DaD74d6fd683AADDA1123e4d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4241bced4757815b319a846241e3b1287bd056075830f10871839e86f2dfc783@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

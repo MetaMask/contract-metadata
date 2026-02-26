@@ -1,0 +1,8 @@
+{
+  "name": "PieDAO DEFI Small Cap",
+  "symbol": "DEFI+S",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xAD6a626ae2B43DCB1B39430ce496D2FA0365ba9c./ipfs/qmtxeqm58omtrxsttphguntggrzqdxocynxcx1vs7em6gy/bcd1xbiyhhsokan23suxasnswwktnqzdjic2gyyajl3qkkiai4w3hdw9lnf6f1dpkwlypwmjhfbljwqarbkzdbmeas",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x860ab8d042509ac634cf05e5ba3624fc6444d79195ea6cc4a47bfa4d63be1128@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Naughty Inu",
+  "symbol": "NAUINU",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x6D6Fc83225Ad1B8373357b10d61BA6D77090c5a6./ipfs/qmsy1w8x2plwrmbx3xu913ww7rkglhxc4vb9lvsbsgb6gu/nauinu",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5f544f75369e036c30a8014b4cbbf3af4e93bd8aca5f293bc9be47899bf2ce5f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

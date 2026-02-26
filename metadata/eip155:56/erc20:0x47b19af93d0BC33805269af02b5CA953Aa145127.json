@@ -1,0 +1,8 @@
+{
+  "name": "Jarvis Synthetic Mexican Peso",
+  "symbol": "jMXN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x47b19af93d0BC33805269af02b5CA953Aa145127.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x296f7c4e98b06f648eb78bf70ce3625cb922c7384f7f73f901e8c4c7e2dcc515@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

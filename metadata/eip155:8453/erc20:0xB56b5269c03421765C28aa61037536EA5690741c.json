@@ -1,0 +1,8 @@
+{
+  "name": "DessalinesAI by Virtuals",
+  "symbol": "DESSAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xB56b5269c03421765C28aa61037536EA5690741c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa7a517a6d90063d83ad6c6c1911079c84fda0175a17c9a3f9db9a6e065c4771f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Justus",
+  "symbol": "JTT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xCDb3d3642fB4D48D2B5E4Fb4a014448A2761c063.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe8791857cb74b47f6b09263b1970175927e924f6abe71634945da045b25af332@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

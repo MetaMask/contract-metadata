@@ -1,0 +1,8 @@
+{
+  "name": "Ethermax",
+  "symbol": "MAXX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xFB7a83abe4f4A4E51C77b92e521390B769FF6467.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x655a6b27dad2237b16ecc244b75d2b7f852460d4fc5d81666deb7b2dba6a0875@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

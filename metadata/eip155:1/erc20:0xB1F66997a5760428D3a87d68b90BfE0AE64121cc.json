@@ -1,0 +1,8 @@
+{
+  "name": "Lua Token",
+  "symbol": "LUA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB1F66997a5760428D3a87d68b90BfE0AE64121cc./ipfs/qmaerlt5ytma7h2bwnjmimsmi5dnxnj6prbhbizc4xwuzu/bccxzdu6ewcopjcew8j36bzaa82mpfbc1uecxewz3q4ptzmu2gqieajdt3fks45h7stfodxpwzmet5jtnyitkfnk9j",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6c8dec79f4a3ab0b1c3e7439ed7f5c92d015cdda69dfa9e11bcfeb16c65ba5e4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

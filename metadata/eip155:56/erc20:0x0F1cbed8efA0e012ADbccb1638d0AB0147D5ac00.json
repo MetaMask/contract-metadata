@@ -1,0 +1,8 @@
+{
+  "name": "HELLO",
+  "symbol": "HELLO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x0F1cbed8efA0e012ADbccb1638d0AB0147D5ac00.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9f5b05c76aa78af40082462a3bf8888cf2f0ec8ab58808047ac4775ff04a8a35@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

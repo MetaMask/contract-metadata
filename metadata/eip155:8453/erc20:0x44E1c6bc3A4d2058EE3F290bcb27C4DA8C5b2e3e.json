@@ -1,0 +1,8 @@
+{
+  "name": "The Pea Guy by Virtuals",
+  "symbol": "PEAGUY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x44E1c6bc3A4d2058EE3F290bcb27C4DA8C5b2e3e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xcaef4bfff91ba87fe273eca71a299914fcaf5272effff4c547f99184d6c9846a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

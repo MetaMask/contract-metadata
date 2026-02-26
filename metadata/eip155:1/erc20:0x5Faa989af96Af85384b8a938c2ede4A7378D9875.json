@@ -1,0 +1,8 @@
+{
+  "name": "Galxe",
+  "symbol": "GAL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x5Faa989af96Af85384b8a938c2ede4A7378D9875.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x48d84e7ae6b0fd391bd779c98da902e8fe7108b1f10ad5fea957cb170455615e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

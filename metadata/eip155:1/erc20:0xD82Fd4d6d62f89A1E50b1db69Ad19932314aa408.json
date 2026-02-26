@@ -1,0 +1,8 @@
+{
+  "name": "Liquis",
+  "symbol": "LIQ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD82Fd4d6d62f89A1E50b1db69Ad19932314aa408.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe8d5bf284736a5f0012b6eadc5f8b61e921bf53a8817f1470cd4439b229b1826@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

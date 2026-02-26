@@ -1,0 +1,8 @@
+{
+  "name": "Curve stETH Pool yVault",
+  "symbol": "yvCurve-stETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xDCD90c7f6324CfA40D7169ef80B12031770b4325./ipfs/qmreq2ghfkgbxmsreffpbugcxxzksfj4vavvkrwrh3ut3m/yvcurve-steth",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc27bd55ff9d6198f4bbdf4d23d3bce6fe92762dd178dce281c9e0e242fa6e273@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

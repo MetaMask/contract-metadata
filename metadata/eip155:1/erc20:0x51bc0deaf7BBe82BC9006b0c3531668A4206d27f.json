@@ -1,0 +1,8 @@
+{
+  "name": "RAKUN",
+  "symbol": "RAKU",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x51bc0deaf7BBe82BC9006b0c3531668A4206d27f./ipfs/qme2utst3mwgfnlrxo2evcf4ftdz1fl9to9qe5nnp3lzsv/bcczaxcpcorzkq5f15dhud1zr95jlnbxnndwy5u7owyekehupnou5czjrpfwvu4rouvom5ssdmpm85l4ougq13rmkp",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x635ce782e075e432ee38690c12d7aff2dace7d81d78a026b4344e4b1b80f1c47@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

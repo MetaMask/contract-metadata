@@ -1,0 +1,8 @@
+{
+  "name": "Cindicator",
+  "symbol": "CND",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD4C435f5b09f855C3317c8524cB1f586E42795fa./ipfs/qmeghrqqs7gtcrbgryopsah2yfvuyll2x5dk5fdpkda6qb/bcdxzanaki9a5dtwnzkozmcpmzsghkp1nuyjahlthtkabxcwbdstnqnk9subj6ud8ptlchnnwf1bw7dddfjtta9ght",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc603cce3119afd6a1780ef2b542972e1f0d9a2e9c00758c821c9f54842d15bfe@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

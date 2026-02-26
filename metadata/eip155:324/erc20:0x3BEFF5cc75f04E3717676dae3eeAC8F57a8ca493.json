@@ -1,0 +1,8 @@
+{
+  "name": "Basmati",
+  "symbol": "BSMTI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x3BEFF5cc75f04E3717676dae3eeAC8F57a8ca493.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5b4c5a12ec2914f896b3d338d9a8d855c251c50fe5ca285cd51008cf74e3ce7d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

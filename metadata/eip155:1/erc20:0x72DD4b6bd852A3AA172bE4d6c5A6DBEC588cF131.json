@@ -1,0 +1,8 @@
+{
+  "name": "NAGA",
+  "symbol": "NGC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x72DD4b6bd852A3AA172bE4d6c5A6DBEC588cF131./ipfs/qmuf6wtjvdykmqmtyyexkyfjwfmwz3gujgncqt4nxhh6dn/bcd8fnov6bpgemcrtk7u1gvds9xfjjsrqp11p5wpfkimcp8qscdmvforfc3yiqsrrdca1f1v7eojgmdy5ytazwycjs",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x82369ac329be8503b8375a895681bf55143653864d61134c31a04d7bfd16dca7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

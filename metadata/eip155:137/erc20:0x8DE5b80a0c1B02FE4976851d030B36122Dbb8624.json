@@ -1,0 +1,8 @@
+{
+  "name": "Vanar Chain",
+  "symbol": "VANRY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0x8DE5b80a0c1B02FE4976851d030B36122Dbb8624.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x519095ba79e9491654eeb89843fa1941ab5c21a88c70b4867471ec54482a991d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Agent Smith",
+  "symbol": "SMITH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x991ab5d07f28232EC1677e2c13239fB9B4b9ccb7.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5b648fa912fb7fdb371c81486831fe7e6feddaae2b6f0da4ee83147d8a93238c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

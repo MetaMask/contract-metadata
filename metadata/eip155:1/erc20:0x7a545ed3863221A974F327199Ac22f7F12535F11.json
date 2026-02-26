@@ -1,0 +1,8 @@
+{
+  "name": "Baguette Token",
+  "symbol": "BGTT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x7a545ed3863221A974F327199Ac22f7F12535F11./ipfs/qmypjlf485nrhrm7czmguvwodzawc7tgkwxnhwxstbzv6u/bce2s6rtozjbmck5gbqhlev9qv53ukd6yvr9xfmlttzcvs4ztprbuu4cyw1jdbtgge2gbjgpkhfizhkj7mrcepdw7e",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x804f91844b44687505f276454cde493a1ab776d3db0b76eb9308859dafeb53e6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

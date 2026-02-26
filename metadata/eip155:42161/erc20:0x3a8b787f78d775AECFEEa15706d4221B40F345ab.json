@@ -1,0 +1,8 @@
+{
+  "name": "Celer Network",
+  "symbol": "CELR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0x3a8b787f78d775AECFEEa15706d4221B40F345ab.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfcfe00c2332302d85f3c2d1215559ec5f51171bf1ab4068602388ff0331a4450@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Dora Factory",
+  "symbol": "DORA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xE8D392fea638DfE0C2137a3a4dA14B4A97D42cd8.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9ca3c4d847f02bd0b53921d795e5b36f90d0a4d45575eb72180f21892ce733d4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

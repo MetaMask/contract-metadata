@@ -1,0 +1,8 @@
+{
+  "name": "Newscrypto",
+  "symbol": "NWC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x968F6F898A6df937FC1859b323AC2f14643E3Fed.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x509adc2b196e3ebd92f29bb374af563d74d68175851f7f0694d6bff411b98030@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "SwapShip",
+  "symbol": "SWSH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3aC2ab91ddf57E2385089202cA221C360CED0062./ipfs/qmywkugmozednskszdrrw5yzi2gejp9mqgzjer4qvn5chh/bcdwnvpmpkm8pjnkwdrdaqngkyzkkm22guwrf6rgruksr62klmzbkbkesrzty63cdj7yceiw8fb3nxg26keemzon8c",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xac0dcd20fbf0bfa5cc977d075a3adc22f728441f7a329c866b13101feb337ccd@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "tokenbot",
+  "symbol": "CLANKER",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x1BC0c42215582D5A085795f4bAdBAC3FF36D1bcb.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xac6c8512ceb32447283caa66d9998890b28effffb7476262a443402d6f4d2d2f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

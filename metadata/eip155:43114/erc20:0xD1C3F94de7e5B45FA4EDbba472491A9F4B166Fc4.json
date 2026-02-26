@@ -1,0 +1,8 @@
+{
+  "name": "Avalaunch",
+  "symbol": "XAVA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xD1C3F94de7e5B45FA4EDbba472491A9F4B166Fc4.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5361d15e6a0bdb8d7bef811920445b87502f9b34e28117263f84628e7342cefc@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

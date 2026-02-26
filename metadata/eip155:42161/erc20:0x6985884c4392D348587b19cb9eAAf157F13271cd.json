@@ -1,0 +1,8 @@
+{
+  "name": "LayerZero",
+  "symbol": "ZRO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0x6985884c4392D348587b19cb9eAAf157F13271cd.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3682910f342569d18c6493b47cc7cf4b172f892936f1a1465f69db6c72d80064@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

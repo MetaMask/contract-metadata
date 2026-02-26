@@ -1,0 +1,8 @@
+{
+  "name": "Shardus",
+  "symbol": "ULT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x09617F6fd6cf8A71278Ec86e23BBAB29C04353a7./ipfs/qmz7d5qwjfp8jymmrshbanszklowwym5y332w1v87zj8i5/bcd5vvvfcxmn6qqs7s9ftufftca65ct6c2pto9xhcvvn3jdcdqrokdw3tzzugjyudnb8p1sgj3g7nbshdvrwlssun1",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe1bae8facaf6845c9e9f28a21947fd5abfebcc4c33496c1d5964ff4c258b3514@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

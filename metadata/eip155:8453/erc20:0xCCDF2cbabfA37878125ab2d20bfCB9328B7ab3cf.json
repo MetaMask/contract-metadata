@@ -1,0 +1,8 @@
+{
+  "name": "BaseHoundBot by Virtuals",
+  "symbol": "HOUND",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xCCDF2cbabfA37878125ab2d20bfCB9328B7ab3cf.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xaf16d143cac623daebb46946c8129592dc236e9c5ec034b905536ca32ba32547@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

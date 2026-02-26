@@ -1,0 +1,8 @@
+{
+  "name": "DINO",
+  "symbol": "DINO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x85E90a5430Af45776548adb82ee4CD9E33b08077.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd252b7e162f074e78efa27f23c24bfb79aff1d37bbe0e7476998f89177eb6a51@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

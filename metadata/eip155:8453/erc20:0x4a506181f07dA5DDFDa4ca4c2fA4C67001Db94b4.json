@@ -1,0 +1,8 @@
+{
+  "name": "Dyl",
+  "symbol": "Dyl",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x4a506181f07dA5DDFDa4ca4c2fA4C67001Db94b4.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8c0f70de221414325eabf8314f1d0b2059781b79c30ff83e161d1ede866c4071@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

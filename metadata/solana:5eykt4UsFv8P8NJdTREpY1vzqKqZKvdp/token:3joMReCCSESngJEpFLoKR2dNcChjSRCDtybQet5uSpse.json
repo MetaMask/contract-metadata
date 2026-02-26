@@ -1,0 +1,8 @@
+{
+  "name": "Simon's Cat",
+  "symbol": "CAT",
+  "decimals": 6,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:3joMReCCSESngJEpFLoKR2dNcChjSRCDtybQet5uSpse.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfe4d9e4e93cf81ee1bc232971ba6409b8a5453db8a621330a8fe4ed4a3b590d7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

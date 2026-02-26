@@ -1,0 +1,8 @@
+{
+  "name": "cliza",
+  "symbol": "CLIZA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x290F057a2c59B95D8027aa4abf31782676502071.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4c6f1313e4f86ab407c9299bccd5e9ffffe59698db42b24ffd1502b0716297c4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

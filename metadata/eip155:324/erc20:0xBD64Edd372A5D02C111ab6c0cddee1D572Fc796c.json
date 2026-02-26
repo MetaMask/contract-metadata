@@ -1,0 +1,8 @@
+{
+  "name": "LiqWrap",
+  "symbol": "LQW",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xBD64Edd372A5D02C111ab6c0cddee1D572Fc796c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x00923bab6a3b9b45bb641d3c102cf26bbdbaf8e27120ab5d0ad599f1888dc4b5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

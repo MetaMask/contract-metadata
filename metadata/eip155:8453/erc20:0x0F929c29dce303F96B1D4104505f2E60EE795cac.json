@@ -1,0 +1,8 @@
+{
+  "name": "NewThrone",
+  "symbol": "THRO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x0F929c29dce303F96B1D4104505f2E60EE795cac.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa59e6ee886e2c9d5e78db53196d6b7e72bea4d4553483e6591b0094e999fab52@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

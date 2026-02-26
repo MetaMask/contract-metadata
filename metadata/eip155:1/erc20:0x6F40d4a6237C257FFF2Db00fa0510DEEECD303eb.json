@@ -1,0 +1,8 @@
+{
+  "name": "Instadapp",
+  "symbol": "INST",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x6F40d4a6237C257FFF2Db00fa0510DEEECD303eb./ipfs/qmu9eqosbw89wgsmydbwqwywodeauvf68potvtddj8ekbc/inst",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf105bd537f62c130bcb9ca129a9f652e2cb04dda998db44c2ef439bf52ec01de@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

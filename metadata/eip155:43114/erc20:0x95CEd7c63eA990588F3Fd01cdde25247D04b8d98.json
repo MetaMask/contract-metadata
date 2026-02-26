@@ -1,0 +1,8 @@
+{
+  "name": "GrapeVine",
+  "symbol": "XGRAPE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x95CEd7c63eA990588F3Fd01cdde25247D04b8d98.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf3a24d0d1b5ff5e1f0fda9e7a87938b2e240f50fcddd0ef66d40b9eaf962f362@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

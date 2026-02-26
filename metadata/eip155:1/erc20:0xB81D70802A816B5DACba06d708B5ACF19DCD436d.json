@@ -1,0 +1,8 @@
+{
+  "name": "Dextoken",
+  "symbol": "DEXG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB81D70802A816B5DACba06d708B5ACF19DCD436d./ipfs/qmabdnef9zp8azt1shqotfhpgedoh1dnfrkq8zkeyf2zaf/bce1ggremnfteaztvfy8cljuqbut2sa5dnuiaktfldrcjpzxw9pkzyedl21a15zz6aryr12fcxcpvm9gvvwjtrtssg",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7cc41b49ce4cf8abfbbda4b8d97f9f004d0deb2004a623ff3e4ebf969ddbba3e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

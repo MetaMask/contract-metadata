@@ -1,0 +1,8 @@
+{
+  "name": "Alpha Finance Lab",
+  "symbol": "ALPHA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA1Faa113cbe53436DF28FF0aee54275C13b40975./ipfs/qmu9ne4nxkjnjoh77unp7ppttogimqe5mvqjo9brc9y161/alpha",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x451fee9c05339edd42542468717e4db53b19f227f72410f2b2c9184efeab2bf4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

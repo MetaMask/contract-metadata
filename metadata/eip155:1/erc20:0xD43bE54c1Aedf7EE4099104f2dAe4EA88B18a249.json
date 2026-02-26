@@ -1,0 +1,8 @@
+{
+  "name": "TRAXX",
+  "symbol": "TRAXX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD43bE54c1Aedf7EE4099104f2dAe4EA88B18a249.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa7d5d60f790935e73ada6a8a1405a5a4c1354743455364863bcd5aa6463ecf3c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

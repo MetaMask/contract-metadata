@@ -1,0 +1,8 @@
+{
+  "name": "Challenge Coin",
+  "symbol": "HERO",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x524Ebc93beef838F70b4ae54b675D3E971D5884e./ipfs/qmbz4ww7wyrczd5sm9iqgx7euv3mxtbubhfgaur3hqzein/hero",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x87e3e1c850ab6a68dcdc2f7cbd4d783bbb37a91a12ee2404e7b15d0c7f6b4623@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

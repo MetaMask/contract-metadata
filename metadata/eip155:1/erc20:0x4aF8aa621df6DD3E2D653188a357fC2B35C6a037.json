@@ -1,0 +1,8 @@
+{
+  "name": "SELF Crypto",
+  "symbol": "SELF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x4aF8aa621df6DD3E2D653188a357fC2B35C6a037.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0ed54d6ab3370309d218c33284f97e00329cdd35545e5b7c7e2fbbd2022df79a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

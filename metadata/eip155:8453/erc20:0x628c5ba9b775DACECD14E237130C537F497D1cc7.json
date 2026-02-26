@@ -1,0 +1,8 @@
+{
+  "name": "Jade",
+  "symbol": "JADE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x628c5ba9b775DACECD14E237130C537F497D1cc7.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x347872f207b06a219282a5f809f6fbbb02d90413216a3be065277110cd70dabf@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

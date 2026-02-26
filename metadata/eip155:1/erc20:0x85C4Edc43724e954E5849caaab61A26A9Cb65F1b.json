@@ -1,0 +1,8 @@
+{
+  "name": "Binance Wrapped BCH",
+  "symbol": "BBCH",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x85C4Edc43724e954E5849caaab61A26A9Cb65F1b./ipfs/qmtuddlzyu2jxhkguadkmn2eqydi366nnh36pf6fgvzmd7/bbch",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6474c127430d4460727ca3d2dd76dc6860db829c9c51b9f9a8f30fbe450f12e0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

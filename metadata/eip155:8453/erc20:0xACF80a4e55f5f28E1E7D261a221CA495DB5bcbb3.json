@@ -1,0 +1,8 @@
+{
+  "name": "XAVI by Virtuals",
+  "symbol": "XAVI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xACF80a4e55f5f28E1E7D261a221CA495DB5bcbb3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb164a3d8abc0054c8f634265c5f0f1d4851aed5477155f3f55b40bf92f49874c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "ebaggoooor",
+  "symbol": "BAGGOR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:534352/erc20:0x17a60bb4649A7BB885D05c008d7118A5E513d895.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x164b4ecb5cf39bb6a780d4e4b317abf8a174380fab1c2bd1914178142fc4ca9e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

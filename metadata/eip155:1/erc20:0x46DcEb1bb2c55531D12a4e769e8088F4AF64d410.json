@@ -1,0 +1,8 @@
+{
+  "name": "XBX",
+  "symbol": "XBX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x46DcEb1bb2c55531D12a4e769e8088F4AF64d410./ipfs/qmvmmwfc4ywan4stt6lmw6gskau8eef4bkfzgwjfpmjas6/xbx",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xee5f4723c84c89bcfcbc19b8aaed99a2a24fdf502ae7eb04d3c1626cad476dee@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

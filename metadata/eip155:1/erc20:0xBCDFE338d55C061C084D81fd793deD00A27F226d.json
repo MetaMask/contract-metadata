@@ -1,0 +1,8 @@
+{
+  "name": "Decentralized Machine Learning",
+  "symbol": "DML",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xBCDFE338d55C061C084D81fd793deD00A27F226d./ipfs/qmu1zv9nvzmuii8wwltzgle4esuxl3y8ew4a5n2fs4ckhm/dml",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xec1b859e88ef1072c26a794008da4c467c916aac5357de173f5458d095fc4b56@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

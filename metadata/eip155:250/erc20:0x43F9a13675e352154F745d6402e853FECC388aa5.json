@@ -1,0 +1,8 @@
+{
+  "name": "Sonic Goat",
+  "symbol": "sGOAT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:250/erc20:0x43F9a13675e352154F745d6402e853FECC388aa5.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8b3ef269e0f71643433f0521e6425ee6952b83b14d00a1af83cb4fc40b2095a8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

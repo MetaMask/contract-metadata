@@ -1,0 +1,8 @@
+{
+  "name": "BuildUp",
+  "symbol": "BUP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB04DFdb8271eD2D5E13858562c44A77D3CEb9e57./ipfs/qmc8a1g7g7ie4gupfrfurzm4nycghbnhdag7yr6mnuvbu5/bup",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4239514c3961200396993e6dd617a843c27e97f9f34edd4a01993d8127a877b6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

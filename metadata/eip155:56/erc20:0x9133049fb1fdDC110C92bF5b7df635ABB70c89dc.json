@@ -1,0 +1,8 @@
+{
+  "name": "Dot Finance",
+  "symbol": "PINK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x9133049fb1fdDC110C92bF5b7df635ABB70c89dc.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x30dfe29e173d2c6adb2bfa695b24ee7a52697d7a93c1b6d501a47e11739e6597@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

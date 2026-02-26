@@ -1,0 +1,8 @@
+{
+  "name": "Passport Finance",
+  "symbol": "PASS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x6C4522f0035BeD2180b40F4c5d9dBAAB64b41325./ipfs/qmuunmjvklb7h1bkf4xu8ezcojh7aewoadyttucuonuxts/bcd3cmpkw7vjzostr7uovtx3iszgjeqjkpe8ebhwsecc8zanhekxslndc82scfdhhdmtgxuxb4m6a6d4wfslznim7h",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf2e4ad1d74cea39c0bf4ff28f286d0932ebb5dee1566b06ca1376de2c351c88d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

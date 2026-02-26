@@ -1,0 +1,8 @@
+{
+  "name": "Force ",
+  "symbol": "FORCE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x9EF1139e6b420CC929DD912a5A7ADECED6F12e91.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb254e05fca63ac4d6f7fc0bdd815d041be90debdb9fc4bb807bb5dff2fcf6b40@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

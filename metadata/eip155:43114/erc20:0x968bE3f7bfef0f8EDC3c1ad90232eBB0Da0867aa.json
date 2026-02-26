@@ -1,0 +1,8 @@
+{
+  "name": "Seedworld",
+  "symbol": "SWORLD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x968bE3f7bfef0f8EDC3c1ad90232eBB0Da0867aa.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6e1b269293ba67213533efccea005ca4f87d6ddfe5bcc30c71bc2815e4964a70@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

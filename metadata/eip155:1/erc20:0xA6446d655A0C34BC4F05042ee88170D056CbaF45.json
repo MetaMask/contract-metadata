@@ -1,0 +1,8 @@
+{
+  "name": "Caspian",
+  "symbol": "CSP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA6446d655A0C34BC4F05042ee88170D056CbaF45./ipfs/qmv4u8bmfuvvtdmv367yjd5uuhujqg9cq6c1rd3ny4zduh/bcd2ufftewjhhzgzy7qaoc6s351v1nzbxartsaojtr3tast3b3rtcrzkrfgpeammeycvzzx8griw4azfxgcepgmsgq",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe18ca90b70014c66f0d4dc4ae13d57e2cf3e6d2db9d54584956cb157988db830@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

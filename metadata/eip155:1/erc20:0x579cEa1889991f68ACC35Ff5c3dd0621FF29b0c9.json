@@ -1,0 +1,8 @@
+{
+  "name": "IQ",
+  "symbol": "IQ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x579cEa1889991f68ACC35Ff5c3dd0621FF29b0c9.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfc1f31c90a04a7744f85c18a3490dd870c3005f1a3ecd3fb7da989d9d52fd96e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

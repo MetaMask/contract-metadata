@@ -1,0 +1,8 @@
+{
+  "name": "Acid Toad",
+  "symbol": "TOAD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xAC1D3d7a8878e655CBb063d58e453540641F4117.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc08677bb6cde23898b8619b5d2055adb18f4c7ba0647d9fd402bff2abe6a720d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

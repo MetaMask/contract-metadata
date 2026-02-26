@@ -1,0 +1,8 @@
+{
+  "name": "Monsterra MAG",
+  "symbol": "MAG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x53b22d356f34e977E48921e07381DE0F8200b8e6.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0902aa53f6ba2b30c60047b5c3cf98c07dd2a4aa6b08e1a4d39594cce2c41e52@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "ZaichXBT",
+  "symbol": "ZAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x102cd3e9e14810CE6F0765227e971432BCE05d6c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb2b7f2bb35730aefbc24edc7c200c374accc0ba26633c3ffe5fdae6166ad44fa@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

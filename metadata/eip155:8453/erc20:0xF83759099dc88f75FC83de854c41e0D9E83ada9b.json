@@ -1,0 +1,8 @@
+{
+  "name": "OBORTECH",
+  "symbol": "OBOT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xF83759099dc88f75FC83de854c41e0D9E83ada9b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7225d955e5a4f1bf939e29c72982cd0d916d7d7aeb210150b2c93696d0620b33@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

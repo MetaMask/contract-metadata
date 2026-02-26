@@ -1,0 +1,8 @@
+{
+  "name": "Tarot",
+  "symbol": "TAROT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0x13278cd824d33A7ADB9F0a9a84ACA7C0D2DEEbf7.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd3a454d1e68f352fc827c86964748af5da6dcf321cca6f207128598d5b0450ec@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

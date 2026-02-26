@@ -1,0 +1,8 @@
+{
+  "name": "KATT DADDY",
+  "symbol": "KATT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xF4210F93bc68D63DF3286c73ebA08C6414F40c0d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa237536ea9a719174c912f6773ff2bde18411ad54793713aa7edc1bf5a609613@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

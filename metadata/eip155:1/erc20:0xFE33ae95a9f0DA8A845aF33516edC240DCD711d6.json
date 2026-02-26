@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Dash",
+  "symbol": "sDASH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xFE33ae95a9f0DA8A845aF33516edC240DCD711d6./ipfs/qms79gc2zwrsvtd6obngfpsxcpwhr1rpcvrksmxjradjqk/sdash",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe6f5c2d640e150ac0ba1de8199f13d29128cfea10e7ce6bbbc21fd2cc59ba474@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

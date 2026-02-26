@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Centralised Exchange Index",
+  "symbol": "sCEX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xEabacd844A196D7FAF3cE596edeBf9900341b420./ipfs/qmvlr6xd3zneqjct1k7mmmwt62jmv9px1irbgux96b6ecc/scex",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x83ee855c0f4815e57a01b98cbd90d2585db9c45e0cf867c8237d84d7fb5907b7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Kounotori",
+  "symbol": "KTO",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x616EF40d55c0D2C506F4d6873bdA8090B79bF8fc./ipfs/qmbmustvcchr5fs3d9cu1gckxfu6vkmpwxdtxbogj9hr8s/kto",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa0e12ef05fcc8018766c06dd5acc88711790bc4b98b95fbf78a4f14f5ae40401@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

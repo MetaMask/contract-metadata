@@ -1,0 +1,8 @@
+{
+  "name": "MOODENG by Virtuals",
+  "symbol": "MOO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x05780e20dd5fA9EF1799abf6bb6fB52608531295.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4786e1ef8f39cc483dad5095bd1885eb55a0cfa55d7bead7c8131d3173e30e22@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

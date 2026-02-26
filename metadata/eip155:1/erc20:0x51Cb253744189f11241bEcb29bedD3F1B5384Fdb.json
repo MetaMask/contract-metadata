@@ -1,0 +1,8 @@
+{
+  "name": "Dimitra",
+  "symbol": "DMTR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x51Cb253744189f11241bEcb29bedD3F1B5384Fdb.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xac2fa6abe38fb8089501f3f8c47ebf3a85cf2edf0f295ca595c13354ec44f6eb@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

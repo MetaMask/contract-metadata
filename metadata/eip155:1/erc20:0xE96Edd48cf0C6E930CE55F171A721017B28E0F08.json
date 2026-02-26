@@ -1,0 +1,8 @@
+{
+  "name": "NexusAI",
+  "symbol": "NexusAI",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xE96Edd48cf0C6E930CE55F171A721017B28E0F08.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x63f0942f7603feee0768a07672ca957847a3a2b082d9859fa08ba104bd52cdf2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

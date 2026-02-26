@@ -1,0 +1,8 @@
+{
+  "name": "Tamadoge",
+  "symbol": "TAMA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x12b6893ce26eA6341919Fe289212ef77E51688c8.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xebe4dbc75896b115ac4c318d96a974b0ad9b1d11c13c8fc6db7f484079fc72b6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

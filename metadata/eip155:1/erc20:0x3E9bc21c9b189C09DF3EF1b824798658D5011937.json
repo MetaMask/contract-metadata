@@ -1,0 +1,8 @@
+{
+  "name": "Linear Finance",
+  "symbol": "LINA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3E9bc21c9b189C09DF3EF1b824798658D5011937.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3cd2c651e3387acb8779351726f0a844656f8ad86417122b636d7bae6d7f6950@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

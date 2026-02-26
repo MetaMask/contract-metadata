@@ -1,0 +1,8 @@
+{
+  "name": "Phuture",
+  "symbol": "PHTR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xE1Fc4455f62A6E89476F1072530C20CF1a0622da./ipfs/qmx4yhrq8qvyabcbe9hmlsbtfenqrugfjgjvn9ymngdz5x/phtr",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbe2d96248ca3d81b333744edd1c4db62e694822f1aef96b84682643615e72023@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

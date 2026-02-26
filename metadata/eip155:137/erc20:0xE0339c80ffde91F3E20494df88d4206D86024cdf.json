@@ -1,0 +1,8 @@
+{
+  "name": "Dogelon Mars",
+  "symbol": "ELON",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0xE0339c80ffde91F3E20494df88d4206D86024cdf.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb4ec885678713990b98080bbb7d4425f4c848e2d7e0c3d0c1edaca426a90f679@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

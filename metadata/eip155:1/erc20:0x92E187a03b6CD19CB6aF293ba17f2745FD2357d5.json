@@ -1,0 +1,8 @@
+{
+  "name": "Unit Protocol",
+  "symbol": "DUCK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x92E187a03b6CD19CB6aF293ba17f2745FD2357d5./ipfs/qmpnqmjfnutdtzagt8xnfyrtjmk4rsuwsle2dhav29kppm/bcd77gruhzkwo1quyhm4huxu5pcbwp9ztfkatgb9nuli6cpb7m5qrnsuqiaqxny7mxyvucj8kszhcxgkfrojm6h5rj",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf7d2c363d0c83ba90868ad9d071471783562e13d482e23a71f0e77de99c990d4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

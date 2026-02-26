@@ -1,0 +1,8 @@
+{
+  "name": "Zero Collateral Dai",
+  "symbol": "ZAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9D1233cc46795E94029Fda81aAAdC1455D510F15./ipfs/qmxptkudds8xuwiwvraqnncfest1ursavpfcdre5fzvhep/zai",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x55fe822b756d86fe051b64555fd1d13aa6fdc18af0dcd49b74ff90ca5d9f7630@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

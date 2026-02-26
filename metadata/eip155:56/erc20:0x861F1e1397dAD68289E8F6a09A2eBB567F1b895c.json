@@ -1,0 +1,8 @@
+{
+  "name": "Menzy",
+  "symbol": "MNZ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x861F1e1397dAD68289E8F6a09A2eBB567F1b895c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5a5fe16366778930f7f333355575094f8973d66395b606df698c53db7c77bef3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

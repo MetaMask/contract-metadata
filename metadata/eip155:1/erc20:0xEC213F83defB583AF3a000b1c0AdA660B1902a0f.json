@@ -1,0 +1,8 @@
+{
+  "name": "Presearch",
+  "symbol": "PRE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xEC213F83defB583AF3a000b1c0AdA660B1902a0f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7d6c12a2b142306ec94b05f53ea0429b635a85dfe03780477fc277552efde685@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

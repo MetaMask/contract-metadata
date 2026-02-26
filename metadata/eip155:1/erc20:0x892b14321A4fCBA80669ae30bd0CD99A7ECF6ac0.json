@@ -1,0 +1,8 @@
+{
+  "name": "Cream Cream",
+  "symbol": "crCREAM",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x892b14321A4fCBA80669ae30bd0CD99A7ECF6ac0./ipfs/qmvrchxwqgfaiphwnfu53bqk1u6hnx5hzgu8iw6whhrbzq/crcream",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8f346afefecf10a9f94910ac8cff89d2db5ee8bb0f3c9337e799df41d6ecccac@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

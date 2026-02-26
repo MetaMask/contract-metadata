@@ -1,0 +1,8 @@
+{
+  "name": "Harem",
+  "symbol": "HAREM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x2B89d32cfb9B28DFCC7Facc22453C812F9097655./ipfs/qmwa7hf15f2kdwkm5fw1aimbjlbipzqywryxtr8xjkluow/harem",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3c321f352f554b6602e9426cbc43167280659e3e067b896498c11a2e34a45ae4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

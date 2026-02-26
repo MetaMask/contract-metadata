@@ -1,0 +1,8 @@
+{
+  "name": "Ultra",
+  "symbol": "UOS",
+  "decimals": 4,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD13c7342e1ef687C5aD21b27c2B65D772Cab5c8c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc799fcca52b4800f4c7d1f227eaa04286431a79dcacebff58cb304bbbc21ea60@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

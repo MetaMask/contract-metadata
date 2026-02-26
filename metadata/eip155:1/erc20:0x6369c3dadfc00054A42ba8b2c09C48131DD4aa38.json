@@ -1,0 +1,8 @@
+{
+  "name": "Morpher",
+  "symbol": "MPH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x6369c3dadfc00054A42ba8b2c09C48131DD4aa38./ipfs/qmxbbdpduuqitmhtseupvzpeijtleyocaerekcs4ayzrwd/bccz9uryh3smkvohm2g6asbjy9gjys8dkkkbvtv7saqmkwiavgprthqii6lew5dswkoj8hdzt4athxmiwvs6kdayz2",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x43608abc1f9ef2bd4caa5171d28abc059a833bd535658e8046c1634412545bf1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

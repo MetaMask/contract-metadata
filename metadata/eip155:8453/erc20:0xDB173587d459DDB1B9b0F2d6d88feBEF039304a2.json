@@ -1,0 +1,8 @@
+{
+  "name": "Cryptojourney",
+  "symbol": "DADDY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xDB173587d459DDB1B9b0F2d6d88feBEF039304a2.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb7aef921075dce46467d0cfc2f4ae4b7d2a02f224f1f79af010f73fe76b003bd@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Keira by Virtuals",
+  "symbol": "KEIRA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x710EEc215b3BB653D42Fc6e70e0531EA13F51a7a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x802ef79442a091a114228f148c7fb6af4ccbebc0e3ef095e72763f729fe14987@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

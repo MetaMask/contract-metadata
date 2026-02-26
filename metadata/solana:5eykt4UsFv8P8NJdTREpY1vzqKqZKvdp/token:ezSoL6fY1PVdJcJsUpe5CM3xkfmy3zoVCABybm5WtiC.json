@@ -1,0 +1,8 @@
+{
+  "name": "Renzo Restaked SOL",
+  "symbol": "ezSOL",
+  "decimals": 9,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:ezSoL6fY1PVdJcJsUpe5CM3xkfmy3zoVCABybm5WtiC.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb82bf44bb5c0fbf3523c6ea778b1795ab394f03098f8085062f7c6a109d77b85@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

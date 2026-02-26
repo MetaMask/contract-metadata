@@ -1,0 +1,8 @@
+{
+  "name": "Chunks",
+  "symbol": "CHUNKS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0x894a3abb764A0EF5Da69c62336AC3C15B88bF106.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb4cafc9bb53d1ae0be0ae0477f0d24357b8585c6aeeae9586d78782671e16e86@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

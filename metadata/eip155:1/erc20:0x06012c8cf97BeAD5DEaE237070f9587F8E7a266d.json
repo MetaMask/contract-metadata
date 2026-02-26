@@ -1,0 +1,8 @@
+{
+  "name": "CryptoKitties",
+  "symbol": "CK",
+  "decimals": 0,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x06012c8cf97BeAD5DEaE237070f9587F8E7a266d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6ee40d472cb3e6f47e7211f094d7be6879197c3e146583e12f37cb7d1c76a2b2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

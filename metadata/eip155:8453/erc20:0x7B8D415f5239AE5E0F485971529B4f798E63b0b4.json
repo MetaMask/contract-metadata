@@ -1,0 +1,8 @@
+{
+  "name": "BLUBI",
+  "symbol": "BLUBI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x7B8D415f5239AE5E0F485971529B4f798E63b0b4.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x50dd1c2460cd13ed3cc3e9167e51dc3ddba5d2dfe8a87365d7808a914b9dfd32@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

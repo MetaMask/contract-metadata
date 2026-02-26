@@ -1,0 +1,8 @@
+{
+  "name": "ElenaUSD",
+  "symbol": "USE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x147E3d644d53ADADD18a28201b91e2B98aEb7F94./ipfs/qmxou6atdl9djyznlscako7td9ggcf6s9yu15b2n1cmu7u/use",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0c04bdcb12b4206b0541a2b026b966db55546444fb30fbe49b79208eafdcf8a1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

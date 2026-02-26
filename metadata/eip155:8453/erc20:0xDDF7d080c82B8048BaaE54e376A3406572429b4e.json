@@ -1,0 +1,8 @@
+{
+  "name": "GODDOG",
+  "symbol": "oooOOO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xDDF7d080c82B8048BaaE54e376A3406572429b4e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbbdc90e4f4e8e45ed00355ea580fbde1db1d410e3aa2dec778abfe8031c10b95@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "degenOS",
+  "symbol": "degenOS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x1014Fc96b37225E56F171a107beBef03800FF8f8.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x652fd3a32f1e7cb6a25e4298b753c5a2d90f89b842d9d2dd0030151ab9a64d12@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

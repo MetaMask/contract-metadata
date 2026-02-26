@@ -1,0 +1,8 @@
+{
+  "name": "Rentberry",
+  "symbol": "BERRY",
+  "decimals": 14,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x6aEb95f06cdA84CA345c2de0f3B7f96923a44F4c./ipfs/qmptyxkgpssgn9mvt2kdsouawgfmpwgmmstwjtmg9pa7iw/bcdxxofugzjjz2j5msmjvsw19bamungc2vvkefbmpdbga6xhcpzigz5p1kbkyhrmvfmpp62tkqvvpqkfaqs5nqv4s1",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb1a8fbf699454cdee9873c3d0a70ddbc3536bcf4fedb575bc79599c72c62e728@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

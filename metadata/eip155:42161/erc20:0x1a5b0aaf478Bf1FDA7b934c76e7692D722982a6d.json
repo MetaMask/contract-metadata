@@ -1,0 +1,8 @@
+{
+  "name": "Buffer Finance",
+  "symbol": "BFR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0x1a5b0aaf478Bf1FDA7b934c76e7692D722982a6d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf2fd69a258b0ddb6e9a15cdba91327431234ad654262fbba0271b09126426141@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

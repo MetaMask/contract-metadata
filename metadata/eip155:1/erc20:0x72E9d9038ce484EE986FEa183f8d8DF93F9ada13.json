@@ -1,0 +1,8 @@
+{
+  "name": "SmartCredit",
+  "symbol": "SMARTCREDIT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x72E9d9038ce484EE986FEa183f8d8DF93F9ada13.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9c629ff21d94b8eed2ecb76313bc51eeecf3f9006a30166c003e64a3680f7c1f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

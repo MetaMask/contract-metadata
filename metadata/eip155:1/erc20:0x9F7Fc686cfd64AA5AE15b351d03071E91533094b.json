@@ -1,0 +1,8 @@
+{
+  "name": "Trace Network Labs ",
+  "symbol": "TRACE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9F7Fc686cfd64AA5AE15b351d03071E91533094b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6735603e6895ddded759a00619838aad7aa58458493e83a390b19d7284a242d6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

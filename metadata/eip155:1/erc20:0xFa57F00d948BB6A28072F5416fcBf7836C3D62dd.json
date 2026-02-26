@@ -1,0 +1,8 @@
+{
+  "name": "friesDAO",
+  "symbol": "FRIES",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xFa57F00d948BB6A28072F5416fcBf7836C3D62dd./ipfs/qmysuun4fadu1zrfyjvedktm8pvpsrxznognxclgdvncwj/fries",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdad22fafd7310c505e13dccf5c270a9214c4fad8664c5c9fc5b7aa074ed54e77@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "ZEDXION",
+  "symbol": "ZEDXION",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xFBC4F3f645c4003A2E4F4e9b51077D2DAa9a9341./ipfs/qmasxzfereckwhslfqvyyi7asuxkiswrnnxxefnxry8ekm/zedxion",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd01abee20e0ab6964d3b4c8f7f3fa13fc0574535b32afc6e00913825bb7113b3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

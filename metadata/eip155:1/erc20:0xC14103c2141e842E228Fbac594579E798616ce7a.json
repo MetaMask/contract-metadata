@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Litecoin",
+  "symbol": "sLTC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xC14103c2141e842E228Fbac594579E798616ce7a./ipfs/qmw6qikqcrnc1sbxx72pg9fxpbpchgjbshmsfbkvn9qkwa/sltc",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x89edc8d6a13140e5be1cbdc6fa7cfa5eb8a8f793d7b4da7afe78927a904abcd8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "DAWAE",
+  "symbol": "DAWAE",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x0ED151c9749d39C3Ca8E537125fB4053E0C9b55f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2edafab4c4a791b9a3a6a332e81ca560256d9c8d59d92fe0951a018654f694e0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Any Inu",
+  "symbol": "AI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:250/erc20:0x2598c30330d5771AE9F983979209486AE26DE875.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x720988d94ff2c4decf032f2ec44607adbb21ca78e7100738300f04c227da0705@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "AIRENE by Virtuals",
+  "symbol": "AIRENE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x2Eac9b08a4d86f347B9E856fb3eC082E61C76545.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc0415b3a84264f9f48b0088898061eda824c99a1f7a41804af12d7d79180d1d3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Frax Ether",
+  "symbol": "frxETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:534352/erc20:0xECC68d0451e20292406967fe7c04280E5238ac7d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9e0a1ba0a8905b4031e3681f4f5ccff26f002d480898841a79031cf11845d3f7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

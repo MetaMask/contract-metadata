@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Microsoft",
+  "symbol": "sMSFT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x745a824d6ABBD236Aa794b5530062778A6aD7523./ipfs/qmz4o63e294mdmrwgmjvg1wq7rsjj2jqszqwrpna8tguxv/smsft",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdd7d955027758edd5650976ef0173b6be0415fb6fcc1123997af241c3c344384@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

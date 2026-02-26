@@ -1,0 +1,8 @@
+{
+  "name": "Dogecoin",
+  "symbol": "DOGE",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xBa2aE424d960C26247DD6c32edc70B295C744c43.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb6f38234b9d9b256662bad80b1f0391604ae962f860d00185294dffa47f58f26@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Domi",
+  "symbol": "DOMI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xFC6Da929c031162841370af240deC19099861d3b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb6802a5fa6e47f2b559d32d652c092cf31c3917f6658e2a31e0df9d7b8c6bca3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

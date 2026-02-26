@@ -1,0 +1,8 @@
+{
+  "name": "Dewn",
+  "symbol": "DEWN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x43E94bd32Ac8e57A6009cde6790d95761120d4e9.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6b662985006b24f9adb92d926f84b2277b0cb22f1de19a77fe9ffd6062f846f5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

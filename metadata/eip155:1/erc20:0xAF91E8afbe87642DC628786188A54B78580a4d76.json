@@ -1,0 +1,8 @@
+{
+  "name": "Fund Of Yours",
+  "symbol": "FOY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xAF91E8afbe87642DC628786188A54B78580a4d76./ipfs/qmcqcadtnritdkzjqt83vyvoj5yggd7m6kspb9up1wvzxv/foy",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc6f5b2c992722019dd1588a3687864d67c792f88ffafd7a7a2dce65101ea05c9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

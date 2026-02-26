@@ -1,0 +1,8 @@
+{
+  "name": "Terra Classic",
+  "symbol": "LUNC",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0x9CD6746665d9557E1B9a775819625711D0693439.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdf1a6614aa454e9a44ff16733e07bbb575faf8baf06c5266a88dcb4e7e479e57@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

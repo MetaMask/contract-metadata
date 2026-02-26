@@ -1,0 +1,8 @@
+{
+  "name": "Treat",
+  "symbol": "TREAT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:250/erc20:0x484F2Ff94A7790759D56Fb1efbACe8075aba5e06.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5fd1d995f8f7f22eb725f0d5ebeb8bbb49ed909122570dddce980c51eeffddf1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

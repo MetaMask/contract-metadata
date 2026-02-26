@@ -1,0 +1,8 @@
+{
+  "name": "BabySwap",
+  "symbol": "BABY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x53E562b9b7e5e94B81F10e96ee70AD06DF3D2657.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa99ed14b78f24d650a54c3ec55a814cf78adec980645b8b76ee8c67104b604c4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}
