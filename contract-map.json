@@ -3005,6 +3005,13 @@
     "symbol": "HUNT",
     "decimals": 18
   },
+  "0x25cef4fB106E76080E88135a0e4059276FA9BE87": {
+    "name": "Imperial",
+    "logo": "Imperial.png",
+    "erc20": true,
+    "symbol": "UNIT",
+    "decimals": 5
+  },
   "0xFEF3884b603C33EF8eD4183346E093A173C94da6": {
     "name": "Metamorph",
     "logo": "metamorph.svg",
