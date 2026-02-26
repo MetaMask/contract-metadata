@@ -1,0 +1,9 @@
+{
+  "eip155:1/erc20:0xCA30c93B02514f86d5C86a6e375E3A330B435Fb5": {
+    "name": "Backed IB01 $ Treasury Bond 0-1yr",
+    "symbol": "bIB01",
+    "decimals": 18,
+    "erc20": true,
+    "logo": "./icons/eip155:1/erc20:0xCA30c93B02514f86d5C86a6e375E3A330B435Fb5.svg"
+  }
+}

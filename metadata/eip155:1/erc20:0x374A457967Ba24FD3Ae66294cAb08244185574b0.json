@@ -1,0 +1,9 @@
+{
+  "eip155:1/erc20:0x374A457967Ba24FD3Ae66294cAb08244185574b0": {
+    "name": "Backed Microsoft Corp",
+    "symbol": "bMSFT",
+    "decimals": 18,
+    "erc20": true,
+    "logo": "./icons/eip155:1/erc20:0x374A457967Ba24FD3Ae66294cAb08244185574b0.svg"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "eip155:1/erc20:0xaC28C9178ACc8BA4A11A29E013a3A2627086e422": {
+    "name": "Backed MicroStrategy Inc",
+    "symbol": "bMSTR",
+    "decimals": 18,
+    "erc20": true,
+    "logo": "./icons/eip155:1/erc20:0xaC28C9178ACc8BA4A11A29E013a3A2627086e422.svg"
+  }
+}
