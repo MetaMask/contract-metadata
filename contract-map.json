@@ -3869,6 +3869,13 @@
     "symbol": "INJ",
     "decimals": 18
   },
+  "0x7dB02Aa39A3d0271e4c61C04D03857a10fc922c5": {
+    "name": "BitcoinAsia",
+    "logo": "btca.svg",
+    "erc20": true,
+    "symbol": "BTCA",
+    "decimals": 18
+  },
   "0xe516D78d784C77D479977BE58905B3f2b1111126": {
     "name": "Bitspawn",
     "logo": "spwn.svg",
