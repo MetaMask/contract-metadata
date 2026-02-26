@@ -4,7 +4,14 @@
     "logo": "cyber.svg",
     "erc20": true,
     "symbol": "CYBER",
+   },
+  "0x62c11a1f8d17213feA578686FAd9367b02495612": {
+    "name": "DefendoDoge",
+    "logo": "defendodoge.svg",
+    "erc20": true,
+    "symbol": "DFD",
     "decimals": 18
+   "decimals": 18
   },
   "0x9Cf0ED013e67DB12cA3AF8e7506fE401aA14dAd6": {
     "name": "Spectre AI",
