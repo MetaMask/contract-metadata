@@ -1,0 +1,7 @@
+{
+  "name": "apxUSD",
+  "symbol": "apxUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x98A878b1Cd98131B271883B390f68D2c90674665.svg"
+}
