@@ -12,7 +12,11 @@
   },
   "scripts": {
     "test": "node test && node ./test/caip.js",
-    "test:caip": "node ./test/caip.js"
+    "test:caip": "node ./test/caip.js",
+    "asset": "node cli-update-asset.js",
+    "asset:set": "node cli-update-asset.js set",
+    "asset:verify": "node cli-update-asset.js verify",
+    "asset:list": "node cli-update-asset.js list"
   },
   "repository": {
     "type": "git",
@@ -36,6 +40,7 @@
   ],
   "devDependencies": {
     "ethereumjs-util": "^5.1.1",
-    "tape": "^4.6.3"
+    "tape": "^4.6.3",
+    "zod": "^4.3.6"
   }
 }
