@@ -1,0 +1,7 @@
+{
+  "name": "Bridged EURC (Stargate)",
+  "symbol": "EURC.e",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:4217/erc20:0x20c0000000000000000000001621e21F71CF12fb.svg"
+}
