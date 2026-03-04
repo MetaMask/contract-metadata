@@ -4518,12 +4518,5 @@
     "erc20": true,
     "symbol": "FPS",
     "decimals": 18
-  },
-  "0x044E874f23F9a7e5Dad696554A116C4Bb62fEcB7": {
-    "name": "GonnaMakeIt",
-    "logo": "GMI.svg",
-    "erc20": true,
-    "symbol": "GMI",
-    "decimals": 18
   }
 }
