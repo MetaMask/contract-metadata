@@ -1,0 +1,7 @@
+{
+  "name": "HyperLend",
+  "symbol": "HPL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:999/erc20:0xBD6Dab50F03A305a80037294fA8D1A9DC0CaC91B.svg"
+}
