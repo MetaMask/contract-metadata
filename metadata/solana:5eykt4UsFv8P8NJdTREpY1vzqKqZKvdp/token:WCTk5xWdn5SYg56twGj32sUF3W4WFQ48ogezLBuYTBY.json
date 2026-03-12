@@ -1,0 +1,7 @@
+{
+  "name": "WalletConnect Token",
+  "symbol": "WCT",
+  "decimals": 9,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:WCTk5xWdn5SYg56twGj32sUF3W4WFQ48ogezLBuYTBY.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Theo Short Duration US Treasury Fund",
+  "symbol": "thBILL",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:988/erc20:0xfDD22Ce6D1F66bc0Ec89b20BF16CcB6670F55A5a.png"
+}
