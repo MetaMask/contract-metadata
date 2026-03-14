@@ -4518,5 +4518,11 @@
     "erc20": true,
     "symbol": "FPS",
     "decimals": 18
-  }
+  },
+  "0x0DD126CA9EAbA5A9c55B14dd71787F88594A64d5": {
+  "name": "Turbo USD Finance",
+  "symbol": "USDT",
+  "decimals": 18,
+  "chainId": 56
+}
 }
