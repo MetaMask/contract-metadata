@@ -1,7 +1,15 @@
 {
-  "0x14778860E937f509e651192a90589dE711Fb88a9": {
-    "name": "Cyber",
-    "logo": "cyber.svg",
+"0x05D2310F57e13F8f51198197508BD3ed71A2597b": {
+  "name": "Yourcoin",
+  "symbol": "YRC",
+  "decimals": 3,
+  "erc20": true,
+  "logo": "0x05D2310F57e13F8f51198197508BD3ed71A2597b.png"
+},
+{ 
+  "0x49d716DFe60b37379010A75329ae09428f17118d": {
+    "name": "PoolTogether Dai",
+    "logo": "pldai.svg",
     "erc20": true,
     "symbol": "CYBER",
     "decimals": 18
