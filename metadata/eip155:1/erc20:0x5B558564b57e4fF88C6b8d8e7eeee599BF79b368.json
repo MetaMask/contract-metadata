@@ -1,0 +1,8 @@
+{
+  "name": "MultiMillion",
+  "symbol": "MMM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x5B558564b57e4fF88C6b8d8e7eeee599BF79b368./ipfs/qmafpy3pjsat4a7q7jju9psg8riyupcxpwbaczfypkwntf/mmm",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdf87945a7b458d0245f21065da46df3579ac2328102573a6831f82e8f57319fe@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

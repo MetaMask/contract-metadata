@@ -1,0 +1,8 @@
+{
+  "name": "Pangolin",
+  "symbol": "PNG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x60781c2586d68229FDE47564546784AB3Faca982.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x82c7045eaeb42fe6452d279b88706a6087cfc0abb0da2bc561493fcc98eb6594@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

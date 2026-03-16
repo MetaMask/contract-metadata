@@ -1,0 +1,8 @@
+{
+  "name": "YGGDRASH",
+  "symbol": "YEED",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xCa2796f9f61dC7B238aab043971e49C6164DF375./ipfs/qmysveek4najr8wft4cmkfpfq6nuy3vhgnmunyh5nzvbth/bcd3e5kpga52jmyzby3svqmkuz4vgjkviow6rmrgpvea9gxmjg8f7tjyyqqxrvxe1b21reeyq5y4euvgkseyfmgcew",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8ae88d618470716e0cbae3973980d449724593ffc6662d0fbb6243e077ffe4e5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

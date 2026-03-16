@@ -1,0 +1,8 @@
+{
+  "name": "Unit Protocol",
+  "symbol": "COL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xC76Fb75950536D98Fa62Ea968e1d6B45FFEa2a55./ipfs/qmwwubksyhbjqrpdwnjfyhhzdnxhbjw6lcsnmc5dkygcpm/bccwq1ansdbnp3ukkwnmrvzzbvpp6ywygbaya4k4zl6c55o8owwbc1m14da4rjxxh1uitqmbknhbulbaslvgcs3nfj",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa24c8bece5d7c4e221074419d95cee742d4ac05b94f0488a9acbc1e18f1f8164@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

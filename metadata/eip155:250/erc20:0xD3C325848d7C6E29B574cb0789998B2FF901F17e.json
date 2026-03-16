@@ -1,0 +1,8 @@
+{
+  "name": "OneArt",
+  "symbol": "1ART",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:250/erc20:0xD3C325848d7C6E29B574cb0789998B2FF901F17e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfeb705c8721dca2669967c1b24eb6dfda5aa3df23eb113aa7fb0d31e6a7c2026@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

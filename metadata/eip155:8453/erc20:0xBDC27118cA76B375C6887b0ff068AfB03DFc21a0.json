@@ -1,0 +1,8 @@
+{
+  "name": "Arbus by Virtuals",
+  "symbol": "ARBUS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xBDC27118cA76B375C6887b0ff068AfB03DFc21a0.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9704273b26fadcb37f802473c35bde5fe850332ec7b27d580e26ccc3e3f454e8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

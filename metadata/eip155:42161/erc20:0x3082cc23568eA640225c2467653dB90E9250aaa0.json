@@ -1,0 +1,8 @@
+{
+  "name": "Radiant",
+  "symbol": "RDNT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0x3082cc23568eA640225c2467653dB90E9250aaa0.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa1f2675fa3974812270510010aa7365858ef8ea7f87b57b263d3c639e817e839@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

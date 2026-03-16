@@ -1,0 +1,8 @@
+{
+  "name": "Doont Buy",
+  "symbol": "DBUY",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x4ECE5c5cfb9B960A49aaE739e15CDB6CFDCc5782./ipfs/qmqfgqqwaubbs7rumvg5atkwhsm4w8ke9yb4zwryuuvvb1/dbuy",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xedd2deb926c09c82162956a4b10d874345e5ea70149af3aaf1971a11607cba9b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

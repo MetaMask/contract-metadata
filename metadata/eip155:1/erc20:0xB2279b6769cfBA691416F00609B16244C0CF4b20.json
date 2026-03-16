@@ -1,0 +1,8 @@
+{
+  "name": "Waifu Token",
+  "symbol": "WAIF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB2279b6769cfBA691416F00609B16244C0CF4b20./ipfs/qmeykcugkh3aewkzpuuovdqchsbzub1yt5pu34mhabck9d/bcd4zr6t5jk9bax7xbtjys9zigojedfa6wwyvwk9abplz2jnwoepmmehv1u9mbcf7r7rymgj3sah3rxt7rpkzpurj5",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf64635e14f630c56a2a63aecc24033bcfdd17c268343d354dde25e9e8079246f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Antfarm",
+  "symbol": "ATF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x8aF94528fbe3C4C148523e7aad48BCEBCC0a71d7.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7974835ae3196834078759f3835df0cb92628f146ad304dbb5c605e98dc81ed0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

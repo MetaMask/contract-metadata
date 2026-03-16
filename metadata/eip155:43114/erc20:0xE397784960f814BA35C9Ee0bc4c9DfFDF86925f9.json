@@ -1,0 +1,8 @@
+{
+  "name": "MSTR",
+  "symbol": "MSTR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xE397784960f814BA35C9Ee0bc4c9DfFDF86925f9.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x401dcd12cf28cfd11a059e937acc1ce99baa73be61736472bcda94fcd12fa1c8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "EvoVerses",
+  "symbol": "EVO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x42006ab57701251B580bdFc24778C43C9FF589a1.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xeff19427c4b961bbf5dec3c01cd8b8b110e2b150ce0595001672badab2fc6b11@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

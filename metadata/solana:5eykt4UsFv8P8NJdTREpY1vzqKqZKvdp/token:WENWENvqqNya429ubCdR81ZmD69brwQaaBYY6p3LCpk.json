@@ -1,0 +1,8 @@
+{
+  "name": "Wen",
+  "symbol": "WEN",
+  "decimals": 5,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:WENWENvqqNya429ubCdR81ZmD69brwQaaBYY6p3LCpk.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0bef5834c9b84eba7eba8d25d27ad5ed6d9fb5aa406f00b4469be3a2a210a2d5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

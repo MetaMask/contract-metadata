@@ -1,0 +1,8 @@
+{
+  "name": "Purrcoin",
+  "symbol": "PURR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xE4FcF2d991505089BBb36275570757C1F9800cb0.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb7a32d0e4a52db4ee16fee7201e6596370e46bf753fe12a13d913365c88744a2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

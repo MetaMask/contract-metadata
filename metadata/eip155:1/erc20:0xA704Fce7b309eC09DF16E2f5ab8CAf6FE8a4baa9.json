@@ -1,0 +1,8 @@
+{
+  "name": "AgriChain",
+  "symbol": "AGRI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA704Fce7b309eC09DF16E2f5ab8CAf6FE8a4baa9./ipfs/qmdkglcdsgxxkg4sp6ckhaummmf4shxumbpqhb7macikhj/bcd2forg9hkefx4vkyjkmyttikkmz28t82rvrl17ykav7fcggtvqklezx55gyxv2mnfrohyl3ppj2ke8ujkvey6twn",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6939860598189b4f675844393b19f30a42d48f23256ada1c55648db9a76148dc@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

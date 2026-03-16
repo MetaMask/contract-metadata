@@ -1,0 +1,8 @@
+{
+  "name": "ISTARAI",
+  "symbol": "ISTAR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xD4F5Fabd1763BBF52BD3b17cd445DB6F9F836bd4.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xee82bdba7aeb7a0c740685005839c07bf213ffc7b2de223d0e8dd34002e36fa1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

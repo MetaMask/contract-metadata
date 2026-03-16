@@ -1,0 +1,8 @@
+{
+  "name": "BasisOS by Virtuals",
+  "symbol": "BIOS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x73Cb479f2ccf77BAD90bcda91e3987358437240a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7efd3f39104ea6cbe1ca3841e335d14f7a01645721be720e76110a44013c3544@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

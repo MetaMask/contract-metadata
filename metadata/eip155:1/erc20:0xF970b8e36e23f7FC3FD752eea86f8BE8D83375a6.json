@@ -1,0 +1,8 @@
+{
+  "name": "Ripio Credit Network",
+  "symbol": "RCN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF970b8e36e23f7FC3FD752eea86f8BE8D83375a6./ipfs/qmvbhvi6ct2jzdi2uy4fa88ycem2y8xubxtcmzfxfoas7u/bce1hdy1ja2d3msoercdj3dycnnux3q6mxt4z1hhx1tnyptnvyo6nkup7au2ax7uqqo1bpovjpfyng1voxeq12gkzs",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9ac83b195b97c1ff65df6ebd1933e75a4853ff085f246d7f223634dad86f4a14@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

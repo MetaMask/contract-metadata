@@ -1,0 +1,8 @@
+{
+  "name": "Mysterium",
+  "symbol": "MYST",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0x1379E8886A944D2D9D440b3d88df536AEa08d9f3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x61db8a2325b8052267ec13c05f1b1f9b2b24bb85a5378af004f38c3b8ce03e77@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

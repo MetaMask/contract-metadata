@@ -1,0 +1,8 @@
+{
+  "name": "JulSwap",
+  "symbol": "JULD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xF5D8015d625Be6F59B8073c8189BD51BA28792e1.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x44c999c80f73e05e655638f395940a7cfd3e9a4f06d6594abcaaad565f722d26@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

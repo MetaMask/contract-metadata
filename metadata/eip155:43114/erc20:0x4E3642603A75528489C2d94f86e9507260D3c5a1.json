@@ -1,0 +1,8 @@
+{
+  "name": "Juggernaut",
+  "symbol": "JGN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x4E3642603A75528489C2d94f86e9507260D3c5a1.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa6165041bf4f6382b104b9f6e0108fbcb033ddbc142a6c6552c4f6b59cbd8c15@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

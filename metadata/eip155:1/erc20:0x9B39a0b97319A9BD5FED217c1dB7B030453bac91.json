@@ -1,0 +1,8 @@
+{
+  "name": "TigerCash",
+  "symbol": "TCH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9B39a0b97319A9BD5FED217c1dB7B030453bac91./ipfs/qmdq9gitjzzkjb3hruoyjafqhtajnckc9vs5pe3ndjsym8/bccycsnwm1zhcsdctwr97wuhq8wnngeucdruizh61cg1mvn9puks7kowfvreafftsqtzh6bbh7rkk25o7t7s8tbt3b",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x58cf57dcd19ba56627dd896c0d42040eee0d05791a4645d740d80320f9418569@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

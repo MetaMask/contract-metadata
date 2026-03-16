@@ -1,0 +1,8 @@
+{
+  "name": "BAGEL",
+  "symbol": "BAGEL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x835E336782A1D04DB6Eb44c44024650D18a138c2.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5d6f27e345c0d790822c7ae20fa8197c5b98ab5239753848a68ca0ef01874b6f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

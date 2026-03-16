@@ -1,0 +1,8 @@
+{
+  "name": "Libertas",
+  "symbol": "LIBERTAS",
+  "decimals": 2,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x49184e6dae8C8ECD89D8bdc1b950C597B8167c90./ipfs/qmqggvu6x6kvsc81m1woy2zgwkhxsjvobymh14zxfm68jy/bcd3cecvqqhtilpfhef8fmcjyvtw2ayao4amavk5gackep8wuw1vtwopv7qjgsq7b1ghb5fqvbzqgqqnmzghfyuq1f",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5d323743451fa8594b782c3cdf8129fa09fad276bd429bafcce319280ac51504@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

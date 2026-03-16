@@ -1,0 +1,8 @@
+{
+  "name": "Muse",
+  "symbol": "MUSE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB6Ca7399b4f9CA56FC27cbff44f4D2E4EEF1Fc81.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xab8c62cfa9e7af2355e50de9f84941f13089777bcff417c0ee31bbb1f4d696a2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

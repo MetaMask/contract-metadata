@@ -1,0 +1,8 @@
+{
+  "name": "Fuxion Labs",
+  "symbol": "FUXE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3FCa2cd116121DECD03043fbabA39f60651DE903.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x82d5c034d3dd2e3b6ded1991f0c092b579e37785c9ea878bffadc696ab16d42c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

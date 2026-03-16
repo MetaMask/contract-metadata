@@ -1,0 +1,8 @@
+{
+  "name": "SKI MASK CAT",
+  "symbol": "SKICAT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xA6F774051dfB6B54869227fda2df9CB46F296c09.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf263343cd0040918a5745c28ecd4587e27e92b5478833053e76379da22ae5752@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

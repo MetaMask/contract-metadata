@@ -1,0 +1,8 @@
+{
+  "name": "DAD",
+  "symbol": "DAD",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x5B322514ff727253292637d9054301600C2c81e8./ipfs/qmudeflfsemwdnmfyc6yh1rxho7wgyddivhqhmpf56akit/bce1vfwfdhb2uj1ymjivwa3e7kigjyy7s7stkut1rte8mrxgrzl3u52y7apjdq4ksg7r1uv53lhjyboy2rcvhfi9vx",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x79738a1d3f8c912bc6034260b4b204a571dd2d255087ec5b7364213dd637026e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

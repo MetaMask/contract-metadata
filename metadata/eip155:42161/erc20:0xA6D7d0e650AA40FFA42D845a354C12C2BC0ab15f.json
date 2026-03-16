@@ -1,0 +1,8 @@
+{
+  "name": "Mummy Finance",
+  "symbol": "MMY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0xA6D7d0e650AA40FFA42D845a354C12C2BC0ab15f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x960bc20222e34d9d323356dfae4b9d8fb8adc5d7bd9e20635202a72c3b06e7a0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

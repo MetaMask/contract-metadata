@@ -1,0 +1,8 @@
+{
+  "name": "TitanSwap",
+  "symbol": "TITAN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3a8cccb969A61532D1E6005e2ce12C200CaEce87.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xde2ec9c39c7586c3d561731ca69cf45029fb9f16c8378072d4f3df8a097ab37b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

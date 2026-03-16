@@ -1,0 +1,8 @@
+{
+  "name": "WBTC yVault",
+  "symbol": "yvWBTC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xCB550a6d4c8e3517A939bc79d0c7093EB7CF56b5./ipfs/qmvkjmrf83crvseatkmh8ap2rbbjkntdaslpug41y6cupv/yvwbtc",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x506bdf650ca26718a26766a509c9d734996ecdb7cf743add6fa75dbe91de4624@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}
