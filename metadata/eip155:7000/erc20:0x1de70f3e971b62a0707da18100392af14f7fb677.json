@@ -1,0 +1,7 @@
+{
+  "name": "ETH.BASE",
+  "symbol": "ETH.BASE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:7000/erc20:0x1de70f3e971b62a0707da18100392af14f7fb677.svg"
+}

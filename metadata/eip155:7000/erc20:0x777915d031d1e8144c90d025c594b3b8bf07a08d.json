@@ -1,0 +1,7 @@
+{
+  "name": "SHIB.ETH",
+  "symbol": "SHIB.ETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:7000/erc20:0x777915d031d1e8144c90d025c594b3b8bf07a08d.svg"
+}

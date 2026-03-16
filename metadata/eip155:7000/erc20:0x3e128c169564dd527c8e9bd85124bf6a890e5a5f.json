@@ -1,0 +1,7 @@
+{
+  "name": "CBBTC.ETH",
+  "symbol": "CBBTC.ETH",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:7000/erc20:0x3e128c169564dd527c8e9bd85124bf6a890e5a5f.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "USDT.BSC",
+  "symbol": "USDT.BSC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:7000/erc20:0x91d4f0d54090df2d81e834c3c8ce71c6c865e79f.svg"
+}
