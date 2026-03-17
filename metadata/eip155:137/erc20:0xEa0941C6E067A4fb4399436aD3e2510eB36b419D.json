@@ -1,0 +1,7 @@
+{
+  "name": "PROSPECTIVE",
+  "symbol": "PROS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0xEa0941C6E067A4fb4399436aD3e2510eB36b419D.png"
+}
