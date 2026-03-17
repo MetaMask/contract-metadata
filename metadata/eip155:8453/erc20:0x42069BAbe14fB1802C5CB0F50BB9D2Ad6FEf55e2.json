@@ -1,0 +1,7 @@
+{
+  "name": "frok.ai",
+  "symbol": "FROK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x42069BAbe14fB1802C5CB0F50BB9D2Ad6FEf55e2.png"
+}
