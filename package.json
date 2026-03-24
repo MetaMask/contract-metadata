@@ -11,7 +11,7 @@
     "node": ">=14.0.0"
   },
   "scripts": {
-    "test": "node test && node ./test/caip.js",
+    "test": "node test && node ./test/cli-update-asset.js && node ./test/caip.js",
     "test:caip": "node ./test/caip.js",
     "asset": "node cli-update-asset.js",
     "asset:set": "node cli-update-asset.js set",

@@ -53,12 +53,17 @@ const MetadataSchema = z.object({
   spl: z.boolean().optional(),
 });
 
+const LabelFileSchema = z.object({
+  labels: z.array(z.string().min(1, "Labels must be non-empty strings")),
+});
+
 const SetCommandFlagsSchema = z.object({
   caip: z.string(),
   name: z.string().optional(),
   symbol: z.string().optional(),
   decimals: z.string().optional(),
   image: z.string().optional(),
+  labels: z.string().optional(),
   erc20: z.enum(["true", "false"]).optional(),
   spl: z.enum(["true", "false"]).optional(),
 });
@@ -80,7 +85,7 @@ function parseCAIP19(caipId) {
   // Validate with Zod
   const result = CAIP19Schema.safeParse(caipId);
   if (!result.success) {
-    const errorMessage = result.error.errors[0]?.message || 'Invalid CAIP-19 format';
+    const errorMessage = result.error.issues[0]?.message || 'Invalid CAIP-19 format';
     throw new Error(`${errorMessage}\nExpected format: namespace:chainId/assetNamespace:assetReference\nExample: eip155:1/erc20:0x6B175474E89094C44Da98b954EedeAC495271d0F`);
   }
 
@@ -101,12 +106,74 @@ function getAssetPaths(caipId) {
   const parsed = parseCAIP19(caipId);
 
   return {
-    metadataDir: path.join(__dirname, 'metadata', parsed.chainNamespace),
-    metadataFile: path.join(__dirname, 'metadata', parsed.chainNamespace, `${parsed.assetId}.json`),
-    iconDir: path.join(__dirname, 'icons', parsed.chainNamespace),
+    metadataDir: path.join(__dirname, "metadata", parsed.chainNamespace),
+    metadataFile: path.join(
+      __dirname,
+      "metadata",
+      parsed.chainNamespace,
+      `${parsed.assetId}.json`,
+    ),
+    iconDir: path.join(__dirname, "icons", parsed.chainNamespace),
+    labelsDir: path.join(__dirname, "labels", parsed.chainNamespace),
+    labelsFile: path.join(
+      __dirname,
+      "labels",
+      parsed.chainNamespace,
+      `${parsed.assetId}.json`,
+    ),
     // We'll determine the actual icon file extension later
-    iconFileBase: path.join(__dirname, 'icons', parsed.chainNamespace, parsed.assetId)
+    iconFileBase: path.join(
+      __dirname,
+      "icons",
+      parsed.chainNamespace,
+      parsed.assetId,
+    ),
   };
+}
+
+/**
+ * Parse labels flag input.
+ * Supports comma-separated values and JSON arrays.
+ */
+function parseLabels(labelsInput) {
+  if (labelsInput === undefined) {
+    return undefined;
+  }
+
+  const trimmed = labelsInput.trim();
+  if (!trimmed) {
+    throw new Error('Labels cannot be empty. Provide a comma-separated list or JSON array.');
+  }
+
+  if (trimmed.startsWith('{')) {
+    throw new Error('Invalid JSON for --labels: JSON labels input must be an array');
+  }
+
+  let labels;
+
+  if (trimmed.startsWith('[')) {
+    try {
+      const parsed = JSON.parse(trimmed);
+      if (!Array.isArray(parsed)) {
+        throw new Error('JSON labels input must be an array');
+      }
+      labels = parsed;
+    } catch (err) {
+      throw new Error(`Invalid JSON for --labels: ${err.message}`);
+    }
+  } else {
+    labels = trimmed.split(',').map(label => label.trim()).filter(Boolean);
+  }
+
+  const uniqueLabels = [...new Set(labels)];
+  const validation = LabelFileSchema.safeParse({ labels: uniqueLabels });
+
+  if (!validation.success) {
+    const errors = validation.error.issues.map(err => err.message).join('; ');
+    throw new Error(`Invalid --labels value: ${errors}`);
+  }
+
+  return uniqueLabels;
 }
 
 /**
@@ -171,6 +238,11 @@ function downloadFile(url, destPath, redirectCount = 0) {
 
         const fileStream = fs.createWriteStream(destPath);
         response.pipe(fileStream);
+
+        response.on("error", (err) => {
+          fs.unlink(destPath, () => {}); // Clean up partial file
+          reject(err);
+        });
 
         fileStream.on("finish", () => {
           fileStream.close();
@@ -244,7 +316,7 @@ function validateMetadata(metadata) {
   const result = MetadataSchema.safeParse(metadata);
 
   if (!result.success) {
-    return result.error.errors.map(err => {
+    return result.error.issues.map(err => {
       const field = err.path.join('.');
       return `${field}: ${err.message}`;
     });
@@ -259,6 +331,7 @@ function validateMetadata(metadata) {
 async function setAsset(caipId, options) {
   const paths = getAssetPaths(caipId);
   const parsed = parseCAIP19(caipId);
+  const labels = parseLabels(options.labels);
 
   // Check if asset already exists
   let existingMetadata = null;
@@ -293,6 +366,7 @@ async function setAsset(caipId, options) {
   // Create directories if they don't exist
   await mkdir(paths.metadataDir, { recursive: true });
   await mkdir(paths.iconDir, { recursive: true });
+  await mkdir(paths.labelsDir, { recursive: true });
 
   // Build or update metadata
   const metadata = existingMetadata || {};
@@ -328,6 +402,9 @@ async function setAsset(caipId, options) {
         }
       }
 
+      // Capture old icon path before saving new one (to avoid finding the new file)
+      const oldIcon = isNewAsset ? null : await findExistingIcon(paths.iconFileBase);
+
       // Copy/move image to final location with correct name
       const iconFile = `${paths.iconFileBase}${imageExt}`;
       await copyFile(imageSource, iconFile);
@@ -335,14 +412,10 @@ async function setAsset(caipId, options) {
         `✓ ${isNewAsset ? "Saved" : "Updated"} image to: ${iconFile}`,
       );
 
-      // Remove old icon if updating (only after new icon is successfully saved)
-      if (!isNewAsset) {
-        const oldIcon = await findExistingIcon(paths.iconFileBase);
-        // Only delete if it's different from the new icon (different extension)
-        if (oldIcon && oldIcon !== iconFile) {
-          fs.unlinkSync(oldIcon);
-          console.log(`✓ Removed old icon: ${oldIcon}`);
-        }
+      // Remove old icon if updating and extension changed
+      if (oldIcon && oldIcon !== iconFile) {
+        fs.unlinkSync(oldIcon);
+        console.log(`✓ Removed old icon: ${oldIcon}`);
       }
 
       // Update metadata logo path
@@ -395,6 +468,17 @@ async function setAsset(caipId, options) {
   await writeFile(paths.metadataFile, JSON.stringify(metadata, null, 2) + '\n');
   console.log(`✓ ${isNewAsset ? 'Created' : 'Updated'} metadata file: ${paths.metadataFile}`);
 
+  if (labels !== undefined) {
+    const labelPayload = { labels };
+    await writeFile(
+      paths.labelsFile,
+      JSON.stringify(labelPayload, null, 2) + "\n",
+    );
+    console.log(
+      `✓ ${isNewAsset ? "Created" : "Updated"} labels file: ${paths.labelsFile}`,
+    );
+  }
+
   console.log(`\n✓ Asset ${isNewAsset ? 'added' : 'updated'} successfully!`);
   console.log('\nNext steps:');
   console.log('1. Review the changes');
@@ -414,9 +498,9 @@ async function verifyAsset(caipId) {
   // Check metadata file
   let metadata;
   try {
-    const metadataContent = await readFile(paths.metadataFile, 'utf8');
+    const metadataContent = await readFile(paths.metadataFile, "utf8");
     metadata = JSON.parse(metadataContent);
-    console.log('✓ Metadata file exists and is valid JSON');
+    console.log("✓ Metadata file exists and is valid JSON");
   } catch (err) {
     issues.push(`Metadata file error: ${err.message}`);
   }
@@ -425,9 +509,9 @@ async function verifyAsset(caipId) {
     // Validate metadata structure
     const errors = validateMetadata(metadata);
     if (errors.length > 0) {
-      issues.push(...errors.map(e => `Metadata validation: ${e}`));
+      issues.push(...errors.map((e) => `Metadata validation: ${e}`));
     } else {
-      console.log('✓ Metadata structure is valid');
+      console.log("✓ Metadata structure is valid");
     }
 
     // Check if icon file exists
@@ -437,21 +521,48 @@ async function verifyAsset(caipId) {
 
       // Check if logo path in metadata matches actual file
       const expectedLogoPath = path.basename(iconFile);
-      const metadataLogoPath = path.basename(metadata.logo);
-      if (expectedLogoPath !== metadataLogoPath) {
-        issues.push(`Logo path mismatch: metadata references "${metadataLogoPath}" but file is "${expectedLogoPath}"`);
+      if (!metadata.logo) {
+        issues.push('Logo path mismatch: metadata is missing the logo field');
+      } else {
+        const metadataLogoPath = path.basename(metadata.logo);
+        if (expectedLogoPath !== metadataLogoPath) {
+          issues.push(
+            `Logo path mismatch: metadata references "${metadataLogoPath}" but file is "${expectedLogoPath}"`,
+          );
+        }
       }
     } else {
-      issues.push('Icon file not found');
+      issues.push("Icon file not found");
+    }
+  }
+
+  // Check labels file when present
+  try {
+    const labelsContent = await readFile(paths.labelsFile, "utf8");
+    const labelsJson = JSON.parse(labelsContent);
+    const labelsValidation = LabelFileSchema.safeParse(labelsJson);
+
+    if (!labelsValidation.success) {
+      const errors = labelsValidation.error.issues.map((err) => {
+        const field = err.path.join(".");
+        return `${field}: ${err.message}`;
+      });
+      issues.push(...errors.map((e) => `Labels validation: ${e}`));
+    } else {
+      console.log("✓ Labels file exists and is valid");
+    }
+  } catch (err) {
+    if (err.code !== "ENOENT") {
+      issues.push(`Labels file error: ${err.message}`);
     }
   }
 
   if (issues.length > 0) {
-    console.log('\n⚠ Issues found:');
-    issues.forEach(issue => console.log(`  - ${issue}`));
+    console.log("\n⚠ Issues found:");
+    issues.forEach((issue) => console.log(`  - ${issue}`));
     process.exit(1);
   } else {
-    console.log('\n✓ Asset verification passed!');
+    console.log("\n✓ Asset verification passed!");
   }
 }
 
@@ -520,6 +631,9 @@ Set Command Options:
   --image <path>     Path to image file or URL (required for new assets)
                      Supports: .svg, .png, .jpg, .jpeg
                      Can be a local file path or HTTP/HTTPS URL
+  --labels <value>   Labels for the asset (optional)
+                     Comma-separated: "stable_coin,blue_chip"
+                     Or JSON array: '["stable_coin","blue_chip"]'
   --erc20 <bool>     Whether this is an ERC20 token (true|false - optional, default: auto-detect)
   --spl <bool>       Whether this is a Solana SPL token (true|false - optional, default: auto-detect)
 
@@ -552,6 +666,11 @@ Examples:
     --caip "eip155:1/erc20:0x1234567890123456789012345678901234567890" \\
     --name "My New Token Name" \\
     --image ./new-logo.png
+
+  # Update labels
+  node cli-update-asset.js set \\
+    --caip "eip155:1/erc20:0x6B175474E89094C44Da98b954EedeAC495271d0F" \\
+    --labels "stable_coin,blue_chip"
 
   # Update just the image
   node cli-update-asset.js set \\
@@ -588,7 +707,7 @@ async function main() {
         {
           const validationResult = SetCommandFlagsSchema.safeParse(flags);
           if (!validationResult.success) {
-            const errors = validationResult.error.errors.map(err =>
+            const errors = validationResult.error.issues.map(err =>
               `${err.path.join('.')}: ${err.message}`
             ).join('\n');
             throw new Error(`Invalid flags:\n${errors}`);
@@ -605,7 +724,7 @@ async function main() {
         {
           const validationResult = VerifyCommandFlagsSchema.safeParse(flags);
           if (!validationResult.success) {
-            const errors = validationResult.error.errors.map(err =>
+            const errors = validationResult.error.issues.map(err =>
               `${err.path.join('.')}: ${err.message}`
             ).join('\n');
             throw new Error(`Invalid flags:\n${errors}`);
@@ -622,7 +741,7 @@ async function main() {
         {
           const validationResult = ListCommandFlagsSchema.safeParse(flags);
           if (!validationResult.success) {
-            const errors = validationResult.error.errors.map(err =>
+            const errors = validationResult.error.issues.map(err =>
               `${err.path.join('.')}: ${err.message}`
             ).join('\n');
             throw new Error(`Invalid flags:\n${errors}`);
@@ -662,9 +781,10 @@ if (require.main === module) {
 
 module.exports = {
   parseCAIP19,
+  parseLabels,
   getAssetPaths,
   validateMetadata,
   setAsset,
   verifyAsset,
-  listAssets
+  listAssets,
 };

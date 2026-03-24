@@ -55,6 +55,11 @@ npm run asset:set -- \
   --caip "eip155:1/erc20:0xTOKEN_ADDRESS" \
   --name "Updated Token Name"
 
+# Update labels
+npm run asset:set -- \
+  --caip "eip155:1/erc20:0xTOKEN_ADDRESS" \
+  --labels "stable_coin,blue_chip"
+
 # Use an image URL
 npm run asset:set -- \
   --caip "eip155:1/erc20:0xTOKEN_ADDRESS" \
@@ -87,6 +92,9 @@ npm run asset:list -- --namespace "eip155:1"
 - `--image`: Path to image file or URL (required for new assets)
   - Supports: `.svg`, `.png`, `.jpg`, `.jpeg`
   - Can be a local file path or HTTP/HTTPS URL
+- `--labels`: Labels for the asset (optional)
+  - Comma-separated values: `stable_coin,blue_chip`
+  - Or JSON array: `["stable_coin","blue_chip"]`
 - `--erc20`: Set to `true` or `false` (optional, auto-detected for `erc20:` prefix)
 - `--spl`: Set to `true` or `false` (optional, auto-detected for `spl:` prefix)
 

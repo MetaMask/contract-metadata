@@ -19,6 +19,11 @@ npm run asset:set -- \
   --decimals 18 \
   --image ./path/to/logo.svg
 
+# Add or update labels for an asset
+npm run asset:set -- \
+  --caip "eip155:1/erc20:0xTOKEN_ADDRESS" \
+  --labels "stable_coin,blue_chip"
+
 # Or use a direct URL for the image
 npm run asset:set -- \
   --caip "eip155:1/erc20:0xTOKEN_ADDRESS" \
@@ -46,6 +51,9 @@ npm run asset:set -- \
 - `--image`: Path to image file or URL (required for new assets)
   - Supports: `.svg`, `.png`, `.jpg`, `.jpeg`
   - Can be a local file path or HTTP/HTTPS URL
+- `--labels`: Labels for the asset (optional)
+  - Comma-separated values (example: `stable_coin,blue_chip`)
+  - Or JSON array (example: `["stable_coin","blue_chip"]`)
 - `--erc20`: Set to `true` or `false` (optional, auto-detected for `erc20:` prefix)
 - `--spl`: Set to `true` or `false` (optional, auto-detected for `spl:` prefix)
 
