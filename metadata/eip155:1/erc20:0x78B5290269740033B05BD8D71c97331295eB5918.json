@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x78B5290269740033B05BD8D71c97331295eB5918.svg",
+  "name": "DrQ",
+  "symbol": "DrQ",
+  "decimals": 18,
+  "erc20": true
+}
