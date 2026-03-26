@@ -1,0 +1,7 @@
+{
+  "name": "Yield Basis",
+  "symbol": "YB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x01791F726B4103694969820be083196cC7c045fF.svg"
+}
