@@ -29,9 +29,9 @@ Trust signals data will be organized in a hierarchical folder structure based on
 
 This structure ensures that trust signals data is organized by network (using CAIP-2 Chain IDs), and specific assets (using CAIP-19 Asset IDs).
 
-# Allowed Labels
+# Security Labels
 
-The **Labels** system supports the following predefined categories of trust signals data. Labels are stored as an array of strings in the trust signals JSON file:
+The **Labels** system supports the following predefined categories of trust signals data. Labels are stored as an array of strings in the `labels/*` JSON file:
 
 - `malicious`
 - `warning`
