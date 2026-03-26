@@ -1,4 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="300" height="300">
+  <!-- Background -->
   <circle cx="50" cy="50" r="50" fill="#4a6274"/>
-  <text x="50" y="62" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="white" text-anchor="middle">DrQ</text>
+
+  <!-- Head -->
+  <ellipse cx="50" cy="45" rx="20" ry="24" fill="#e0b896"/>
+
+  <!-- Hair -->
+  <path d="M30 38 
+           Q50 10 70 38 
+           L70 30 
+           Q50 5 30 30 Z"
+        fill="#8b5a3c"/>
+
+  <!-- Ears -->
+  <ellipse cx="28" cy="45" rx="3" ry="6" fill="#e0b896"/>
+  <ellipse cx="72" cy="45" rx="3" ry="6" fill="#e0b896"/>
+
+  <!-- Eyebrows -->
+  <rect x="35" y="38" width="10" height="2" rx="1" fill="#8b5a3c"/>
+  <rect x="55" y="38" width="10" height="2" rx="1" fill="#8b5a3c"/>
+
+  <!-- Nose -->
+  <path d="M50 42 Q48 48 50 52" stroke="#c79a78" stroke-width="1" fill="none"/>
+
+  <!-- Mustache -->
+  <path d="M38 56 Q50 52 62 56 Q50 60 38 56 Z" fill="#8b5a3c"/>
+
+  <!-- Beard -->
+  <path d="M30 55 
+           Q50 75 70 55 
+           Q65 80 50 85 
+           Q35 80 30 55 Z"
+        fill="#8b5a3c"/>
+
+  <!-- Chin split -->
+  <path d="M47 72 Q50 76 53 72" stroke="#e0b896" stroke-width="2" fill="none"/>
+
+  <!-- Text -->
+  <text x="50" y="92"
+        font-family="Arial, sans-serif"
+        font-size="12"
+        font-weight="bold"
+        fill="white"
+        text-anchor="middle">
+    DrQ
+  </text>
 </svg>
