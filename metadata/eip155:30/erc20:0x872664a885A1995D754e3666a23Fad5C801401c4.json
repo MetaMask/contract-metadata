@@ -1,0 +1,7 @@
+{
+  "name": "rLending RBTC",
+  "symbol": "cRBTC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:30/erc20:0x872664a885A1995D754e3666a23Fad5C801401c4.png"
+}

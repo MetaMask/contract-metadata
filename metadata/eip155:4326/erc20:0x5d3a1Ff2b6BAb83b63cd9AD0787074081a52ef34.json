@@ -1,0 +1,7 @@
+{
+  "name": "USDe",
+  "symbol": "USDe",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:4326/erc20:0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34.svg"
+}

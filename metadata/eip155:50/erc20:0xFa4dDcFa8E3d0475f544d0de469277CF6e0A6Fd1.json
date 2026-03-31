@@ -1,0 +1,7 @@
+{
+  "name": "Beny Bad Boy",
+  "symbol": "BBB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:50/erc20:0xFa4dDcFa8E3d0475f544d0de469277CF6e0A6Fd1.png"
+}

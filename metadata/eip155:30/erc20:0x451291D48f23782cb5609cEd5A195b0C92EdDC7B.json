@@ -1,0 +1,7 @@
+{
+  "name": "ZERO",
+  "symbol": "ZERO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:30/erc20:0x451291D48f23782cb5609cEd5A195b0C92EdDC7B.png"
+}

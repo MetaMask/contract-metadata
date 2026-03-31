@@ -1,0 +1,7 @@
+{
+  "name": "First Digital USD",
+  "symbol": "FDUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1440000/erc20:0xE5747226D2005d7f0865780E8517397de66f2a76.png"
+}

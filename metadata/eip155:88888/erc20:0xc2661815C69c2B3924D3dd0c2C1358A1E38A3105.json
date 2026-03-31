@@ -1,0 +1,7 @@
+{
+  "name": "Paris Saint-Germain",
+  "symbol": "PSG",
+  "decimals": 0,
+  "erc20": true,
+  "logo": "./icons/eip155:88888/erc20:0xc2661815C69c2B3924D3dd0c2C1358A1E38A3105.png"
+}

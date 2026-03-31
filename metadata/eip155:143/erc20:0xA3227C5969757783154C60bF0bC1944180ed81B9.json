@@ -1,0 +1,7 @@
+{
+  "name": "Kintsu Staked Monad",
+  "symbol": "sMON",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:143/erc20:0xA3227C5969757783154C60bF0bC1944180ed81B9.svg"
+}

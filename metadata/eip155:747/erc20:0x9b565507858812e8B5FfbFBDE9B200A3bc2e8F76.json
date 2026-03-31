@@ -1,0 +1,7 @@
+{
+  "name": "Catseye",
+  "symbol": "Catseye",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:747/erc20:0x9b565507858812e8B5FfbFBDE9B200A3bc2e8F76.png"
+}

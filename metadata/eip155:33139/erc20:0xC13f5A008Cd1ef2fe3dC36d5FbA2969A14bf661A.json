@@ -1,0 +1,7 @@
+{
+  "name": "Tontachi Apeton Bacon",
+  "symbol": "BACON",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:33139/erc20:0xC13f5A008Cd1ef2fe3dC36d5FbA2969A14bf661A.svg"
+}

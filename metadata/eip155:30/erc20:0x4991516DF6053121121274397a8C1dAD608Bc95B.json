@@ -1,0 +1,7 @@
+{
+  "name": "Bundles Finance on RSK",
+  "symbol": "rBUND",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:30/erc20:0x4991516DF6053121121274397a8C1dAD608Bc95B.png"
+}

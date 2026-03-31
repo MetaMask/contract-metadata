@@ -1,0 +1,7 @@
+{
+  "name": "Bridged USDC (ChainPort)",
+  "symbol": "USDC",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:88888/erc20:0xa37936F56249965d407E39347528a1A91eB1cbef.png"
+}

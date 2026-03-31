@@ -1,0 +1,7 @@
+{
+  "name": "Pesos Mexicanos PagoLinea",
+  "symbol": "MXNCB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:30/erc20:0x2058BA9577C4F90246BEa9d74AE2E4cd0167A123.png"
+}

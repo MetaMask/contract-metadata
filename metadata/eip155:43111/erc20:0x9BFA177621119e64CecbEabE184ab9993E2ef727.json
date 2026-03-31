@@ -1,0 +1,7 @@
+{
+  "name": "Merlin BTC",
+  "symbol": "M-BTC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43111/erc20:0x9BFA177621119e64CecbEabE184ab9993E2ef727.svg"
+}

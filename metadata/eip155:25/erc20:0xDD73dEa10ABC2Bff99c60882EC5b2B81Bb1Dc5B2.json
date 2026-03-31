@@ -1,0 +1,7 @@
+{
+  "name": "Tectonic Governance Token",
+  "symbol": "TONIC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:25/erc20:0xDD73dEa10ABC2Bff99c60882EC5b2B81Bb1Dc5B2.png"
+}

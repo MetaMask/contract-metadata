@@ -1,0 +1,7 @@
+{
+  "name": "Aave v3 DAI",
+  "symbol": "aDAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x018008bfb33d285247A21d44E50697654f754e63.svg"
+}

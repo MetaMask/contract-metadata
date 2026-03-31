@@ -1,0 +1,7 @@
+{
+  "name": "Staked Cap USD",
+  "symbol": "STCUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x88887bE419578051FF9F4eb6C858A951921D8888.png"
+}

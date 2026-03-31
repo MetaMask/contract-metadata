@@ -1,0 +1,7 @@
+{
+  "name": "Midas Basis Trading Token",
+  "symbol": "mBASIS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42793/erc20:0x2247B5A46BB79421a314aB0f0b67fFd11dd37Ee4.svg"
+}

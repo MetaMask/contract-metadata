@@ -1,0 +1,7 @@
+{
+  "name": "USDRIF",
+  "symbol": "USDRIF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:30/erc20:0x3A15461d8aE0F0Fb5Fa2629e9DA7D66A794a6e37.png"
+}

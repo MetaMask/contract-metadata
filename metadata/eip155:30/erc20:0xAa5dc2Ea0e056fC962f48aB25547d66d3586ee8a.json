@@ -1,0 +1,7 @@
+{
+  "name": "Dólar Americano PagoLinea",
+  "symbol": "USDCB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:30/erc20:0xAa5dc2Ea0e056fC962f48aB25547d66d3586ee8a.png"
+}

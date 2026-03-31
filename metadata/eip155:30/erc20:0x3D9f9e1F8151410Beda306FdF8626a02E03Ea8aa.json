@@ -1,0 +1,7 @@
+{
+  "name": "Rupia Indonesia PagoLinea",
+  "symbol": "IDRCB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:30/erc20:0x3D9f9e1F8151410Beda306FdF8626a02E03Ea8aa.png"
+}

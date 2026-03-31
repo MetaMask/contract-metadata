@@ -1,0 +1,7 @@
+{
+  "name": "Monerium GBPe",
+  "symbol": "GBPe",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:59144/erc20:0x3Bce82cf1A2bc357F956dd494713Fe11DC54780f.svg"
+}

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   fill="none"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="erc20:0x10Aeaf63194db8d453d4D85a06E5eFE1dd0b5417.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.3107906"
+     inkscape:cx="74.649777"
+     inkscape:cy="122.25253"
+     inkscape:window-width="1920"
+     inkscape:window-height="1050"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg9" />
+  <rect
+     style="fill:#00a3ff;fill-opacity:1;stroke-width:4.28894"
+     id="rect9"
+     width="256"
+     height="256"
+     x="0"
+     y="0" />
+  <path
+     opacity="0.6"
+     d="M175.255 115.02L176.545 116.998C191.092 139.313 187.843 168.538 168.734 187.261C157.492 198.276 142.759 203.784 128.025 203.786C128.025 203.786 128.025 203.786 175.255 115.02Z"
+     fill="white"
+     id="path2" />
+  <path
+     opacity="0.2"
+     d="M128.019 141.998L175.249 115.02C128.02 203.786 128.019 203.786 128.019 203.786C128.019 184.453 128.019 162.3 128.019 141.998Z"
+     fill="white"
+     id="path3" />
+  <path
+     d="M80.745 115.02L79.4551 116.998C64.9085 139.313 68.1571 168.538 87.2659 187.261C98.5075 198.276 113.241 203.784 127.975 203.786C127.975 203.786 127.975 203.786 80.745 115.02Z"
+     fill="white"
+     id="path4" />
+  <path
+     opacity="0.6"
+     d="M127.96 141.998L80.7306 115.02C127.961 203.786 127.96 203.786 127.96 203.786C127.96 184.453 127.96 162.3 127.96 141.998Z"
+     fill="white"
+     id="path5" />
+  <path
+     opacity="0.2"
+     d="M128.037 81.7296V128.26L168.721 105.01L128.037 81.7296Z"
+     fill="white"
+     id="path6" />
+  <path
+     opacity="0.6"
+     d="M128.025 81.7296L87.3126 105.009L128.025 128.26V81.7296Z"
+     fill="white"
+     id="path7" />
+  <path
+     d="M128.025 42.5978L87.3126 105.024L128.025 81.6787V42.5978Z"
+     fill="white"
+     id="path8" />
+  <path
+     opacity="0.6"
+     d="M128.037 81.6723L168.752 105.018L128.037 42.561V81.6723Z"
+     fill="white"
+     id="path9" />
+</svg>

@@ -1,0 +1,7 @@
+{
+  "name": "NXPC",
+  "symbol": "NXPC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:143/erc20:0xD33F18D8d48CbbB2f8b47063DE97f94De0D49B99.svg"
+}

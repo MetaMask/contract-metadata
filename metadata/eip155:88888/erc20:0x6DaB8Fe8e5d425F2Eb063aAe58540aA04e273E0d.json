@@ -1,0 +1,7 @@
+{
+  "name": "Galatasaray S.K.",
+  "symbol": "GAL",
+  "decimals": 0,
+  "erc20": true,
+  "logo": "./icons/eip155:88888/erc20:0x6DaB8Fe8e5d425F2Eb063aAe58540aA04e273E0d.png"
+}

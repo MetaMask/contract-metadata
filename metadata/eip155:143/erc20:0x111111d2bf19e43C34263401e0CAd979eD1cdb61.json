@@ -1,0 +1,7 @@
+{
+  "name": "USD1",
+  "symbol": "USD1",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:143/erc20:0x111111d2bf19e43C34263401e0CAd979eD1cdb61.svg"
+}

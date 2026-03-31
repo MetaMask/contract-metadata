@@ -1,0 +1,7 @@
+{
+  "name": "Satoshi Stablecoin",
+  "symbol": "satUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:60808/erc20:0x78Fea795cBFcC5fFD6Fb5B845a4f53d25C283bDB.png"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Segment WBTC",
+  "symbol": "seWBTC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:60808/erc20:0x6265C05158f672016B771D6Fb7422823ed2CbcDd.svg"
+}

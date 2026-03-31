@@ -1,0 +1,7 @@
+{
+  "name": "USD Coin (Noble)",
+  "symbol": "USDC",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1440000/erc20:0xDDF7e0b30A631076cD80bc12A48C0e95404b4A41.png"
+}

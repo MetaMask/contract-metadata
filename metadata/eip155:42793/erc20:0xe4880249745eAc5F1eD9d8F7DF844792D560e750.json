@@ -1,0 +1,7 @@
+{
+  "name": "Spiko US T-Bills Money Market Fund",
+  "symbol": "USTBL",
+  "decimals": 5,
+  "erc20": true,
+  "logo": "./icons/eip155:42793/erc20:0xe4880249745eAc5F1eD9d8F7DF844792D560e750.svg"
+}

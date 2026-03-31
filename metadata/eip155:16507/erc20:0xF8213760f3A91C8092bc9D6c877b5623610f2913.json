@@ -1,0 +1,7 @@
+{
+  "name": "Shitcats",
+  "symbol": "SHATS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:16507/erc20:0xF8213760f3A91C8092bc9D6c877b5623610f2913.png"
+}

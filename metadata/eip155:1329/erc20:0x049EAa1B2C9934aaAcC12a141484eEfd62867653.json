@@ -1,0 +1,7 @@
+{
+  "name": "jUSD",
+  "symbol": "jUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x049EAa1B2C9934aaAcC12a141484eEfd62867653.png"
+}

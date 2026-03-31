@@ -1,0 +1,7 @@
+{
+  "name": "RIF Dollar on Chain",
+  "symbol": "RDOC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:30/erc20:0x2d919F19D4892381D58edeBeca66D5642Cef1a1f.png"
+}

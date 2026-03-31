@@ -1,0 +1,7 @@
+{
+  "name": "DLLR",
+  "symbol": "DLLR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:60808/erc20:0xf3107eEC1e6F067552C035FD87199e1A5169CB20.svg"
+}

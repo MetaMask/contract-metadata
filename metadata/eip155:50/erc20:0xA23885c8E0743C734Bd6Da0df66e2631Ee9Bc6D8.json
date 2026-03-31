@@ -1,0 +1,7 @@
+{
+  "name": "USDB",
+  "symbol": "USDB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:50/erc20:0xA23885c8E0743C734Bd6Da0df66e2631Ee9Bc6D8.png"
+}

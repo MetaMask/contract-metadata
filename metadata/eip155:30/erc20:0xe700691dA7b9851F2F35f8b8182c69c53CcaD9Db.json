@@ -1,0 +1,7 @@
+{
+  "name": "Dollar on Chain",
+  "symbol": "DOC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:30/erc20:0xe700691dA7b9851F2F35f8b8182c69c53CcaD9Db.png"
+}

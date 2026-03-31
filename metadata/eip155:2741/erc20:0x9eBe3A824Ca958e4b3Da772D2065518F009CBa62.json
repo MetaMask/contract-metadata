@@ -1,0 +1,7 @@
+{
+  "name": "Pudgy Penguins",
+  "symbol": "PENGU",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:2741/erc20:0x9eBe3A824Ca958e4b3Da772D2065518F009CBa62.png"
+}

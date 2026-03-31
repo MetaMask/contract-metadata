@@ -1,0 +1,7 @@
+{
+  "name": "Bolívares PagoLinea",
+  "symbol": "VESCB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:30/erc20:0xE9F78E507f24537F3F78C212CF93F65EEc9054c2.png"
+}

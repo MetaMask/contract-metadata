@@ -1,0 +1,7 @@
+{
+  "name": "POPO",
+  "symbol": "POPO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0xC18b6a15FB0ceaf5eb18696EeFCb5bc7b9107149.png"
+}

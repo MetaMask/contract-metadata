@@ -1,0 +1,7 @@
+{
+  "name": "Nomina",
+  "symbol": "NOM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x6e6F6d696e61decd6605bD4a57836c5DB6923340.png"
+}

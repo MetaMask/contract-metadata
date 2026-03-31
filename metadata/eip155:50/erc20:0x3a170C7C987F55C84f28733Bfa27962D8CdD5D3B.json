@@ -1,0 +1,7 @@
+{
+  "name": "Gama Token",
+  "symbol": "GAMA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:50/erc20:0x3a170C7C987F55C84f28733Bfa27962D8CdD5D3B.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Coinbase Wrapped BTC",
+  "symbol": "cbBTC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:747/erc20:0xA0197b2044D28b08Be34d98b23c9312158Ea9A18.png"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Not a Gold Token",
+  "symbol": "NGT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:33139/erc20:0x72CddB64A72176B442bdfD9C8Bb7968E652d8D1a.png"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Frax Share",
+  "symbol": "FXS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:60808/erc20:0x15e35B19AD29C512103EaABb55154Ef0Ee6ca661.svg"
+}

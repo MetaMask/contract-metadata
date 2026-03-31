@@ -1,0 +1,7 @@
+{
+  "name": "LORD SHISHO",
+  "symbol": "SHISHO",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0xd0C7EdF2109bE009364ac3DB76C6fE8a75728657.png"
+}

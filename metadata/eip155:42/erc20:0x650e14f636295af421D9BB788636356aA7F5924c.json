@@ -1,0 +1,7 @@
+{
+  "name": "FABS",
+  "symbol": "FABS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42/erc20:0x650e14f636295af421D9BB788636356aA7F5924c.png"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Staked Frax Ether",
+  "symbol": "sfrxETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:60808/erc20:0x249d2952D1C678843e7cD7bF654EfCeC52f2F9E8.svg"
+}

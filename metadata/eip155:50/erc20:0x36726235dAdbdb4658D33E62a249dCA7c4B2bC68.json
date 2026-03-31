@@ -1,0 +1,7 @@
+{
+  "name": "XSP Token",
+  "symbol": "XSP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:50/erc20:0x36726235dAdbdb4658D33E62a249dCA7c4B2bC68.png"
+}

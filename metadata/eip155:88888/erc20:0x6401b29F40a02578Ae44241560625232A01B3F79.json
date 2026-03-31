@@ -1,0 +1,7 @@
+{
+  "name": "Manchester City FC",
+  "symbol": "CITY",
+  "decimals": 0,
+  "erc20": true,
+  "logo": "./icons/eip155:88888/erc20:0x6401b29F40a02578Ae44241560625232A01B3F79.png"
+}

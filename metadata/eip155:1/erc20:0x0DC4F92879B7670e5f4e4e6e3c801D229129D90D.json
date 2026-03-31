@@ -1,0 +1,7 @@
+{
+  "name": "Argentine Peso",
+  "symbol": "wARS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0DC4F92879B7670e5f4e4e6e3c801D229129D90D.png"
+}

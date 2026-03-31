@@ -1,0 +1,7 @@
+{
+  "name": "SolvBTC Jupiter",
+  "symbol": "SolvBTC.JUP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:60808/erc20:0x6b062AA7F5FC52b530Cb13967aE2E6bc0D8Dd3E4.svg"
+}

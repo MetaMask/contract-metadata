@@ -1,0 +1,7 @@
+{
+  "name": "OFFICIAL TRUMP",
+  "symbol": "TRUMP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0xea3910f1C6E687B59835885904A2FD1944B51Ec6.png"
+}

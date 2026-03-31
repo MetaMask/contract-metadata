@@ -1,0 +1,7 @@
+{
+  "name": "Renzo Restaked ETH",
+  "symbol": "ezETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:252/erc20:0x2416092f143378750bb29b79eD961ab195CcEea5.png"
+}

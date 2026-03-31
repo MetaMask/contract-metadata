@@ -1,0 +1,7 @@
+{
+  "name": "Zenko Protocol",
+  "symbol": "ZENKO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:33139/erc20:0x88A4a93993a458f1aE6b777358c86781F86998E3.png"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "KAT",
+  "symbol": "KAT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:747474/erc20:0x7f1f4b4b29f5058fa32cc7a97141b8d7e5abdc2d.svg"
+}

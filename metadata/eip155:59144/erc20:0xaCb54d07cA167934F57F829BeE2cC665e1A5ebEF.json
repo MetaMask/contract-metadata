@@ -1,0 +1,7 @@
+{
+  "name": "CROAK",
+  "symbol": "CROAK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:59144/erc20:0xaCb54d07cA167934F57F829BeE2cC665e1A5ebEF.png"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "BitPro",
+  "symbol": "BPro",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:30/erc20:0x440CD83C160De5C96Ddb20246815eA44C7aBBCa8.png"
+}

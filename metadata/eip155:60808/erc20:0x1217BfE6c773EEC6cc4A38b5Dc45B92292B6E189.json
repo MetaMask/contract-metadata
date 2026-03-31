@@ -1,0 +1,7 @@
+{
+  "name": "OpenUSDT",
+  "symbol": "oUSDT",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:60808/erc20:0x1217BfE6c773EEC6cc4A38b5Dc45B92292B6E189.png"
+}

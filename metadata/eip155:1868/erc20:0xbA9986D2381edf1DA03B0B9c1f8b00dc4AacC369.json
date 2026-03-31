@@ -1,0 +1,7 @@
+{
+  "name": "Soneium Bridged USDC",
+  "symbol": "USDCE",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1868/erc20:0xbA9986D2381edf1DA03B0B9c1f8b00dc4AacC369.png"
+}

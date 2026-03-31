@@ -1,0 +1,7 @@
+{
+  "name": "Stable",
+  "symbol": "STABLE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:988/erc20:0x0000000000000000000000000000000000001003.png"
+}

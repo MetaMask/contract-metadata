@@ -1,0 +1,7 @@
+{
+  "name": "Yuan Chino PagoLinea",
+  "symbol": "CNYCB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:30/erc20:0x61B50D8Fb43cC28b56EE7F9DA32AE46c3C1C68a3.png"
+}

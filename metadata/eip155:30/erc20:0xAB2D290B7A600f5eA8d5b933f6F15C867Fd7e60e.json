@@ -1,0 +1,7 @@
+{
+  "name": "Bitcoin PagoLinea",
+  "symbol": "BTCCB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:30/erc20:0xAB2D290B7A600f5eA8d5b933f6F15C867Fd7e60e.png"
+}

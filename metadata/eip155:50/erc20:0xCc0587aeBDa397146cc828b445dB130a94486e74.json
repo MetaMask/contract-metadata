@@ -1,0 +1,7 @@
+{
+  "name": "Bridged USDC (Stargate)",
+  "symbol": "USDC.e",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:50/erc20:0xCc0587aeBDa397146cc828b445dB130a94486e74.svg"
+}

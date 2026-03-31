@@ -1,0 +1,7 @@
+{
+  "name": "Curve DAO Token",
+  "symbol": "CRV",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42793/erc20:0x004A476B5B76738E34c86C7144554B9d34402F13.svg"
+}

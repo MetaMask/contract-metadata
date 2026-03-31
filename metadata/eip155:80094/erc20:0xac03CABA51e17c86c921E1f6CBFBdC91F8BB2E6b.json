@@ -1,0 +1,7 @@
+{
+  "name": "iBGT",
+  "symbol": "iBGT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:80094/erc20:0xac03CABA51e17c86c921E1f6CBFBdC91F8BB2E6b.png"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Bartholomeow",
+  "symbol": "Bart...",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:747/erc20:0x7296ebCa325e835EB6C1B690484CF6fB4c396d2C.png"
+}

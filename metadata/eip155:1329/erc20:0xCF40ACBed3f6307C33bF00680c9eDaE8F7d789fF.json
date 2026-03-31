@@ -1,0 +1,7 @@
+{
+  "name": "POCHITA",
+  "symbol": "POCHITA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0xCF40ACBed3f6307C33bF00680c9eDaE8F7d789fF.png"
+}

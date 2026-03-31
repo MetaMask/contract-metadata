@@ -1,0 +1,7 @@
+{
+  "name": "Banana Index 500",
+  "symbol": "BIDX500",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:33139/erc20:0xF6C98B0a65c62bFe33d269A2F2a50Cda3710A1C5.png"
+}

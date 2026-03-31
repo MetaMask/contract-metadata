@@ -1,0 +1,7 @@
+{
+  "name": "USDai",
+  "symbol": "USDai",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:9745/erc20:0x0A1a1A107E45b7Ced86833863f482BC5f4ed82EF.svg"
+}

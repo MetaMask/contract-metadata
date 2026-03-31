@@ -1,0 +1,7 @@
+{
+  "name": "Curtis",
+  "symbol": "CURTIS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:33139/erc20:0xFC2744A6Db0f97c606Df786b97255DFf6F27E320.png"
+}

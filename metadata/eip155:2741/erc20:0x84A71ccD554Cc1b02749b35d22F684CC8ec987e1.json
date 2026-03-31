@@ -1,0 +1,7 @@
+{
+  "name": "USDC.e",
+  "symbol": "USDC.e",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:2741/erc20:0x84A71ccD554Cc1b02749b35d22F684CC8ec987e1.png"
+}

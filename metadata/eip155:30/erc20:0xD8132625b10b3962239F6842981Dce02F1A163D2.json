@@ -1,0 +1,7 @@
+{
+  "name": "Peso Uruguayo PagoLinea",
+  "symbol": "UYUCB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:30/erc20:0xD8132625b10b3962239F6842981Dce02F1A163D2.png"
+}

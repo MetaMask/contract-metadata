@@ -1,0 +1,7 @@
+{
+  "name": "SeiWhale",
+  "symbol": "SEIWHALE",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x67DA7010C6c231AD620E3940e707adB6c1a08f23.png"
+}

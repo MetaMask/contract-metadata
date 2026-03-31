@@ -1,0 +1,7 @@
+{
+  "name": "Bridged LUKSO (Hyperlane)",
+  "symbol": "LYX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xC210B2cB65ed3484892167F5e05F7ab496Ab0598.svg"
+}

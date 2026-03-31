@@ -1,0 +1,7 @@
+{
+  "name": "Savings crvUSD",
+  "symbol": "scrvUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:50/erc20:0x3d8EADb739D1Ef95dd53D718e4810721837c69c1.png"
+}

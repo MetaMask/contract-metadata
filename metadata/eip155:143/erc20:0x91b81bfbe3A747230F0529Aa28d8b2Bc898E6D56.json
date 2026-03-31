@@ -1,0 +1,7 @@
+{
+  "name": "LeverUp MON",
+  "symbol": "LVMON",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:143/erc20:0x91b81bfbe3A747230F0529Aa28d8b2Bc898E6D56.svg"
+}

@@ -1,0 +1,44 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="500"
+  height="500"
+  viewBox="0 0 40 40"
+  fill="none"
+>
+  <!-- Background: stays aligned -->
+  <rect width="40" height="40" fill="#34C759"/>
+
+  <!-- Foreground: shifted left by 2 screen px = 0.16 units -->
+  <g transform="translate(-0.4 0)">
+    <ellipse
+      cx="20.4998"
+      cy="20.0002"
+      rx="14.375"
+      ry="20"
+      transform="rotate(15 20.4998 20.0002)"
+      fill="black"
+      fill-opacity="0.2"
+    />
+
+    <path
+      fill-rule="evenodd"
+      clip-rule="evenodd"
+      d="M13.177 20.9132L10.968 29.138H22.1575C26.1497 29.138 29.1017 26.186 29.1017 22.4187C29.1017 20.9005 28.4832 20.0009 27.3024 19.3542L27.3868 19.0169C29.8327 18.2297 31.2384 16.2335 31.2384 13.6752C31.2384 11.2854 29.7203 9.45801 26.3184 9.45801H16.2535L14.0831 17.5394H8.93435L8.02832 20.9132H13.177ZM17.9932 20.9132L16.9845 24.6678H22.3262C23.7038 24.6678 24.7159 23.5433 24.7159 22.1657C24.7159 21.3222 24.1536 20.9005 23.1696 20.9005H20.6018V20.9132H17.9932ZM23.9006 17.5268H18.8963L19.8803 13.9282H24.8284C25.728 13.9282 26.2622 14.378 26.2622 15.1933C26.2622 16.5147 25.3344 17.5268 23.9006 17.5268Z"
+      fill="url(#paint0_linear_1276_8955)"
+    />
+  </g>
+
+  <defs>
+    <linearGradient
+      id="paint0_linear_1276_8955"
+      x1="19.6334"
+      y1="9.45801"
+      x2="19.6334"
+      y2="29.138"
+      gradientUnits="userSpaceOnUse"
+    >
+      <stop stop-color="white"/>
+      <stop offset="1" stop-color="#E4F0FE"/>
+    </linearGradient>
+  </defs>
+</svg>

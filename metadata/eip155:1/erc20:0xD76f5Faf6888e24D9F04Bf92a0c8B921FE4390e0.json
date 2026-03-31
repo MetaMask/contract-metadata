@@ -1,0 +1,7 @@
+{
+  "name": "Brazilian Real",
+  "symbol": "wBRL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD76f5Faf6888e24D9F04Bf92a0c8B921FE4390e0.png"
+}

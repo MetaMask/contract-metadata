@@ -1,0 +1,7 @@
+{
+  "name": "Broccoli",
+  "symbol": "BROCCOLI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x12B4356C65340Fb02cdff01293F95FEBb1512F3b.png"
+}

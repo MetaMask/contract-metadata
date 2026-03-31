@@ -1,0 +1,7 @@
+{
+  "name": "Babelfish",
+  "symbol": "FISH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:30/erc20:0x055A902303746382FBB7D18f6aE0df56eFDc5213.png"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Segment UNIBTC",
+  "symbol": "seUNIBTC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:60808/erc20:0x7848F0775EebaBbF55cB74490ce6D3673E68773A.svg"
+}

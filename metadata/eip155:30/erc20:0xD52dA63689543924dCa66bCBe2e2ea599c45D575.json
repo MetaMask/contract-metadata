@@ -1,0 +1,7 @@
+{
+  "name": "Pesos Argentinos PagoLinea",
+  "symbol": "ARSCB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:30/erc20:0xD52dA63689543924dCa66bCBe2e2ea599c45D575.png"
+}

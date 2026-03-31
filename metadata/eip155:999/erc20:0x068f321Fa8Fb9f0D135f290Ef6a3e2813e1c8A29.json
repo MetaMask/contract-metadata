@@ -1,0 +1,7 @@
+{
+  "name": "Unit Solana",
+  "symbol": "USOL",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:999/erc20:0x068f321Fa8Fb9f0D135f290Ef6a3e2813e1c8A29.svg"
+}

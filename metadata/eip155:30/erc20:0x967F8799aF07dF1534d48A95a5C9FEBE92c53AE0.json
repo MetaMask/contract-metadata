@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped RBTC on RSK",
+  "symbol": "WRBTC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:30/erc20:0x967F8799aF07dF1534d48A95a5C9FEBE92c53AE0.png"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Soneium Bridged ASTR",
+  "symbol": "ASTR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1868/erc20:0x2CAE934a1e84F693fbb78CA5ED3B0A6893259441.png"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Eternal AI",
+  "symbol": "EAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:33139/erc20:0x4B6bF1d365ea1A8d916Da37FaFd4ae8C86d061D7.png"
+}

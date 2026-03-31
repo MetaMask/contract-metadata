@@ -1,0 +1,7 @@
+{
+  "name": "Asian Dollar",
+  "symbol": "AZND",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:143/erc20:0x4917a5ec9fCb5e10f47CBB197aBe6aB63be81fE8.svg"
+}

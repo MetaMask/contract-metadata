@@ -1,0 +1,7 @@
+{
+  "name": "Folks Finance",
+  "symbol": "FOLKS",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:143/erc20:0xFF7F8F301F7A706E3CfD3D2275f5dc0b9EE8009B.svg"
+}

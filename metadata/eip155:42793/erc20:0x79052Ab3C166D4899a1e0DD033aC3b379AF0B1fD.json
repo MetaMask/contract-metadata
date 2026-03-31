@@ -1,0 +1,7 @@
+{
+  "name": "Uranium",
+  "symbol": "xU3O8",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42793/erc20:0x79052Ab3C166D4899a1e0DD033aC3b379AF0B1fD.png"
+}

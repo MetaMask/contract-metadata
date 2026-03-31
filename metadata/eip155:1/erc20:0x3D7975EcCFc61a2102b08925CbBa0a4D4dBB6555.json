@@ -1,0 +1,7 @@
+{
+  "name": "USDD (BTTC bridge)",
+  "symbol": "USDD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3D7975EcCFc61a2102b08925CbBa0a4D4dBB6555.svg"
+}

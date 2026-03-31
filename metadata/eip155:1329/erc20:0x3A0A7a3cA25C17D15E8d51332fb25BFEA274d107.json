@@ -1,0 +1,7 @@
+{
+  "name": "SEIPEX CREDITS",
+  "symbol": "SPEX",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x3A0A7a3cA25C17D15E8d51332fb25BFEA274d107.png"
+}

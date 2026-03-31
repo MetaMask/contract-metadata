@@ -1,0 +1,7 @@
+{
+  "name": "Pleasing USD",
+  "symbol": "PUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:33139/erc20:0x764387ae46fc504b0682bC1Ad31963250007E58E.svg"
+}

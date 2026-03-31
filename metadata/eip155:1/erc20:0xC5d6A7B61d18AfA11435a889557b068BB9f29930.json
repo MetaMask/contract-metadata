@@ -1,0 +1,7 @@
+{
+  "name": "Savings USDD",
+  "symbol": "sUSDD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xC5d6A7B61d18AfA11435a889557b068BB9f29930.svg"
+}

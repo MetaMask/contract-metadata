@@ -1,0 +1,7 @@
+{
+  "name": "Sovryn Token",
+  "symbol": "SOV",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:30/erc20:0xEFc78fc7d48b64958315949279Ba181c2114ABBd.png"
+}

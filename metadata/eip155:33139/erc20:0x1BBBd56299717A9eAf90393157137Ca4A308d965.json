@@ -1,0 +1,7 @@
+{
+  "name": "Boop",
+  "symbol": "BOOP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:33139/erc20:0x1BBBd56299717A9eAf90393157137Ca4A308d965.png"
+}

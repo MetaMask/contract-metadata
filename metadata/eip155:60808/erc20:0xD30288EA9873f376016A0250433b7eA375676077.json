@@ -1,0 +1,7 @@
+{
+  "name": "Segment TBTC",
+  "symbol": "seTBTC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:60808/erc20:0xD30288EA9873f376016A0250433b7eA375676077.svg"
+}

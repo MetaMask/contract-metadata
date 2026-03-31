@@ -1,0 +1,7 @@
+{
+  "name": "ALEX",
+  "symbol": "ALEX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:60808/erc20:0xa669e059fDcbDFC532A2edd658eb2922799EEDb8.svg"
+}

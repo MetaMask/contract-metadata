@@ -1,0 +1,7 @@
+{
+  "name": "Stakingverse Staked LYX",
+  "symbol": "sLYX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42/erc20:0x8A3982f0A7d154D11a5f43EEc7F50E52eBBc8F7D.png"
+}

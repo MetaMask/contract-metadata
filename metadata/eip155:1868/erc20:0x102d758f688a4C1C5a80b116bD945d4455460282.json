@@ -1,0 +1,7 @@
+{
+  "name": "Stargate USD₮0 (Bridged)",
+  "symbol": "USD₮0",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1868/erc20:0x102d758f688a4C1C5a80b116bD945d4455460282.png"
+}

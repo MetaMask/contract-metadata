@@ -1,0 +1,7 @@
+{
+  "name": "Ankr Staked FLOW EVM",
+  "symbol": "ankrFLOWEVM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:747/erc20:0x1b97100eA1D7126C4d60027e231EA4CB25314bdb.png"
+}

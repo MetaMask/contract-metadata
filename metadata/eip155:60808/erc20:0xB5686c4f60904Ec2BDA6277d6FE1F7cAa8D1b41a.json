@@ -1,0 +1,7 @@
+{
+  "name": "Rocket Pool ETH",
+  "symbol": "rETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:60808/erc20:0xB5686c4f60904Ec2BDA6277d6FE1F7cAa8D1b41a.svg"
+}

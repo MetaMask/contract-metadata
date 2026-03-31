@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- 100% canvas outline (for reference only) -->
+  <rect
+    x="0"
+    y="0"
+    width="100"
+    height="100"
+    fill="none"
+    stroke="#DDDDDD"
+    stroke-width="0.5"
+  />
+
+  <!-- Circular crop outline (represents how the icon will be masked) -->
+  <circle
+    cx="50"
+    cy="50"
+    r="50"
+    fill="none"
+    stroke="#BBBBBB"
+    stroke-width="1"
+    stroke-dasharray="3 2"
+  />
+
+  <!-- 80% safe content area (10% padding on each side: 10px) -->
+  <rect
+    x="10"
+    y="10"
+    width="80"
+    height="80"
+    fill="none"
+    stroke="#4A90E2"
+    stroke-width="1"
+    stroke-dasharray="4 2"
+  />
+
+  <!-- Example icon shape fully inside the safe area -->
+  <g
+    stroke="#333333"
+    stroke-width="4"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    fill="none"
+  >
+    <!-- Simple plus icon to represent content -->
+    <line x1="50" y1="30" x2="50" y2="70" />
+    <line x1="30" y1="50" x2="70" y2="50" />
+  </g>
+</svg>

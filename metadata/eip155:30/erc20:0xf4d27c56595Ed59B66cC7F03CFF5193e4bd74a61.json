@@ -1,0 +1,7 @@
+{
+  "name": "RIF Pro",
+  "symbol": "RIFP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:30/erc20:0xf4d27c56595Ed59B66cC7F03CFF5193e4bd74a61.png"
+}

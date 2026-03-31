@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped Ether",
+  "symbol": "wETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:41923/erc20:0xa572BF655F61930B6f0d4546A67cD1376220081a.png"
+}

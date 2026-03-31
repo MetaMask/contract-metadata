@@ -1,0 +1,7 @@
+{
+  "name": "Chilean Peso",
+  "symbol": "wCLP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x61D450a098b6a7f69fC4b98CE68198fe59768651.png"
+}

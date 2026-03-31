@@ -1,0 +1,7 @@
+{
+  "name": "Sol Peruano PagoLinea",
+  "symbol": "PENCB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:30/erc20:0x0F6895Fa2679453D2C32C5F6E2f00E4621c57CA2.png"
+}

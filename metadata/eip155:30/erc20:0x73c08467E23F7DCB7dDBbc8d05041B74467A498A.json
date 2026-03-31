@@ -1,0 +1,7 @@
+{
+  "name": "Flixxo on RSK",
+  "symbol": "rFLIXX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:30/erc20:0x73c08467E23F7DCB7dDBbc8d05041B74467A498A.png"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Money on Chain Governance Token",
+  "symbol": "MOC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:30/erc20:0x9AC7fE28967B30E3A4e6e03286d715b42B453D10.png"
+}

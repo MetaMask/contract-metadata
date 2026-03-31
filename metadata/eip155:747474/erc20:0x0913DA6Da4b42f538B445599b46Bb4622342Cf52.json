@@ -1,0 +1,7 @@
+{
+  "name": "Vault Bridge WBTC",
+  "symbol": "vbWBTC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:747474/erc20:0x0913DA6Da4b42f538B445599b46Bb4622342Cf52.svg"
+}

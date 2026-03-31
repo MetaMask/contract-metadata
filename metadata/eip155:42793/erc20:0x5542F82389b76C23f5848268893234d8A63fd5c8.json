@@ -1,0 +1,7 @@
+{
+  "name": "Midas MEV",
+  "symbol": "mMEV",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42793/erc20:0x5542F82389b76C23f5848268893234d8A63fd5c8.svg"
+}

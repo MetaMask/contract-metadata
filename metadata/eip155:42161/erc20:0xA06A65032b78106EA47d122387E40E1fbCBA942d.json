@@ -1,0 +1,7 @@
+{
+  "name": "xBTC",
+  "symbol": "xBTC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0xA06A65032b78106EA47d122387E40E1fbCBA942d.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Raiinmaker",
+  "symbol": "RAIIN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x481FE356DF88169f5F38203Dd7f3C67B7559FDa5.png"
+}

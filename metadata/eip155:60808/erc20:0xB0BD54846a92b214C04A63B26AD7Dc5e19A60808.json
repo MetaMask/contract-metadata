@@ -1,0 +1,7 @@
+{
+  "name": "BOB",
+  "symbol": "BOB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:60808/erc20:0xB0BD54846a92b214C04A63B26AD7Dc5e19A60808.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Fuck Around and Find Out",
+  "symbol": "FAFO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:33139/erc20:0x536f112D4937Be14f96F181528dBAc0b743817D2.png"
+}

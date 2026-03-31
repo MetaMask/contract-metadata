@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped MON",
+  "symbol": "WMON",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:143/erc20:0x3bd359C1119dA7Da1D913D1C4D2B7c461115433A.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Vault Bridge USDS",
+  "symbol": "vbUSDS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:747474/erc20:0x62D6A123E8D19d06d68cf0d2294F9A3A0362c6b3.png"
+}

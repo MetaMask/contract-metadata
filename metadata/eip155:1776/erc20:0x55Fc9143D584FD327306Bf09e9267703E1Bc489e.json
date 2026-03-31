@@ -1,0 +1,7 @@
+{
+  "name": "Celestia",
+  "symbol": "TIA",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1776/erc20:0x55Fc9143D584FD327306Bf09e9267703E1Bc489e.svg"
+}

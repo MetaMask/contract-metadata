@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped BTC",
+  "symbol": "WBTC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:60808/erc20:0x03C7054BCB39f7b2e5B2c7AcB37583e32D70Cfa3.svg"
+}

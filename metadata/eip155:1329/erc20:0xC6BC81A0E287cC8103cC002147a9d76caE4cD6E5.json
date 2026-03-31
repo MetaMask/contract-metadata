@@ -1,0 +1,7 @@
+{
+  "name": "SeiBallz",
+  "symbol": "BALLZ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0xC6BC81A0E287cC8103cC002147a9d76caE4cD6E5.png"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "DONOTFOMO",
+  "symbol": "FOMO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:698/erc20:0x2CaD7C4F05B3ec45D3d8dFb284fd73ea7b89792d.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "BORED",
+  "symbol": "BORED",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:33139/erc20:0x493a7A762Db6bb2A1CdC526697d37Ff9d32b0473.png"
+}

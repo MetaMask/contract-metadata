@@ -1,0 +1,7 @@
+{
+  "name": "USD Coin on RSK",
+  "symbol": "rUSDC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:30/erc20:0x1BDA44fda023f2aF8280A16FD1b01d1a493BA6C4.png"
+}

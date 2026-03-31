@@ -1,0 +1,7 @@
+{
+  "name": "Juventus",
+  "symbol": "JUV",
+  "decimals": 0,
+  "erc20": true,
+  "logo": "./icons/eip155:88888/erc20:0x454038003a93cf44766aF352F74bad6B745616D0.png"
+}

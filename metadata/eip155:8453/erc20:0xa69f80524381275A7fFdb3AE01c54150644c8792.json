@@ -1,0 +1,7 @@
+{
+  "name": "Superfluid Token",
+  "symbol": "SUP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xa69f80524381275A7fFdb3AE01c54150644c8792.svg"
+}

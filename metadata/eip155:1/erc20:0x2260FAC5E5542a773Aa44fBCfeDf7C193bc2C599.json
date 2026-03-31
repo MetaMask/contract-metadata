@@ -1,5 +1,5 @@
 {
-  "name": "Wrapped BTC",
+  "name": "Wrapped Bitcoin",
   "symbol": "WBTC",
   "decimals": 8,
   "erc20": true,

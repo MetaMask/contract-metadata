@@ -1,0 +1,7 @@
+{
+  "name": "Threshold USD",
+  "symbol": "thUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:60808/erc20:0xf7EF136751D7496021858c048FFA4f978C27831A.svg"
+}

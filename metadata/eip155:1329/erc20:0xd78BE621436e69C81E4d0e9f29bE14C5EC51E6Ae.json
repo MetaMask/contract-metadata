@@ -1,0 +1,7 @@
+{
+  "name": "$gonad",
+  "symbol": "$GONAD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0xd78BE621436e69C81E4d0e9f29bE14C5EC51E6Ae.png"
+}

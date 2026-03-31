@@ -1,0 +1,7 @@
+{
+  "name": "SLOW",
+  "symbol": "SLOW",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0xc972106cA2560fA0065e1CA01C9dC6D6e80cC7a1.png"
+}

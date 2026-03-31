@@ -1,0 +1,7 @@
+{
+  "name": "PEPPER",
+  "symbol": "PEPPER",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:88888/erc20:0x60F397acBCfB8f4e3234C659A3E10867e6fA6b67.png"
+}

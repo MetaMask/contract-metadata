@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped liquid staked Ether 2.0",
+  "symbol": "wstETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:60808/erc20:0x85008aE6198BC91aC0735CB5497CF125ddAAc528.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "SEILOR",
+  "symbol": "SEILOR",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1329/erc20:0x89aeC21572F6637cCbd0d66861AAAC46Dd775ed1.png"
+}
