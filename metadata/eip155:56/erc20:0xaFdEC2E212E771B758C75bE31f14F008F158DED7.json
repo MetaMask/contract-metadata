@@ -1,0 +1,9 @@
+{
+"name": "Axionova",
+"symbol": "AXNV",
+"decimals": 18,
+"description": "Axionova is a blockchain ecosystem focused on gaming, staking, and decentralized governance.",
+"website": "https://axionova.space",
+"twitter": "https://x.com/Axionova_tweets",
+"logo": "./icons/eip155:56/erc20:0xaFdEC2E212E771B758C75bE31f14F008F158DED7.svg"
+}
