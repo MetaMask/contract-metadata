@@ -1,0 +1,7 @@
+{
+"name": "Axionova",
+"symbol": "AXNV",
+"decimals": 18,
+"erc20": true,
+"logo": "./icons/eip155:56/erc20:0xaFdEC2E212E771B758C75bE31f14F008F158DED7.svg"
+}
