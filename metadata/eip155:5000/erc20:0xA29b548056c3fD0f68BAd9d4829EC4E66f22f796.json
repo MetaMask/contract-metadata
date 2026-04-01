@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:5000/erc20:0xA29b548056c3fD0f68BAd9d4829EC4E66f22f796.svg",
+  "name": "Idexo Token",
+  "symbol": "IDO",
+  "decimals": 18,
+  "erc20": true
+}

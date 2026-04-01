@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:5000/erc20:0x8FE7176F0BF63358ad9490fd24Ac0bdB4Dac33a8.png",
+  "name": "USDLR by Stable",
+  "symbol": "USDLR",
+  "decimals": 6,
+  "erc20": true
+}

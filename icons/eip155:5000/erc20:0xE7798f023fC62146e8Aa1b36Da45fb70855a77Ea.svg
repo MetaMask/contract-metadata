@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 4725 4725" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1.77635,0,0,1.77635,-522.472,-5378.59)">
+        <text x="420.025px" y="3918.45px" style="font-family:'AmericanTypewriter', 'American Typewriter', serif;font-size:666.667px;fill:url(#_Linear1);">Custom</text>
+        <g transform="matrix(1250,0,0,1250,2856.11,5168.44)">
+        </g>
+        <text x="398.608px" y="5168.44px" style="font-family:'AmericanTypewriter', 'American Typewriter', serif;font-size:1250px;fill:url(#_Linear2);">UPS</text>
+    </g>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(2135.75,1626.85,-1626.85,2135.75,542.225,3487.88)"><stop offset="0" style="stop-color:rgb(0,92,150);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(0,148,255);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(2135.75,1626.85,-1626.85,2135.75,542.225,3487.88)"><stop offset="0" style="stop-color:rgb(0,92,150);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(0,148,255);stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>

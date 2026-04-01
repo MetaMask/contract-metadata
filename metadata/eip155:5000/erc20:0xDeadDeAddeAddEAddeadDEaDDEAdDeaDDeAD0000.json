@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:5000/erc20:0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000.svg",
+  "name": "Mantle",
+  "symbol": "MNT",
+  "decimals": 18,
+  "erc20": true
+}

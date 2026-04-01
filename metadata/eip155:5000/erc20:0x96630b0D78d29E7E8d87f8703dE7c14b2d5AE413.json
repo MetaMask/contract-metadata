@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:5000/erc20:0x96630b0D78d29E7E8d87f8703dE7c14b2d5AE413.svg",
+  "name": "ApeX Token",
+  "symbol": "APEX",
+  "decimals": 18,
+  "erc20": true
+}

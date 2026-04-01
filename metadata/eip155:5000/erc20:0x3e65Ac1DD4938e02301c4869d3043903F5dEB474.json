@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:5000/erc20:0x3e65Ac1DD4938e02301c4869d3043903F5dEB474.png",
+  "name": "Baby Doge Coin",
+  "symbol": "BabyDoge",
+  "decimals": 9,
+  "erc20": true
+}

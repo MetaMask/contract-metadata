@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:5000/erc20:0x6eFFF76AcF1698a6a215eCa7D632991678Ec673b.svg",
+  "name": "FLOKI",
+  "symbol": "FLOKI",
+  "decimals": 9,
+  "erc20": true
+}

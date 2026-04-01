@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:5000/erc20:0xFC88835694B1BeFE3506595303e37240F9D6a135.png",
+  "name": "ImpermaxFinance Token",
+  "symbol": "IBEX",
+  "decimals": 18,
+  "erc20": true
+}

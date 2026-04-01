@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:5000/erc20:0x5bE26527e817998A7206475496fDE1E68957c5A6.png",
+  "name": "Ondo US Dollar Yield",
+  "symbol": "USDY",
+  "decimals": 18,
+  "erc20": true
+}

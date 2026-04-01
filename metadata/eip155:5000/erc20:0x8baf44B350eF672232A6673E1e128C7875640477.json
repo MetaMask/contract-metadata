@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:5000/erc20:0x8baf44B350eF672232A6673E1e128C7875640477.png",
+  "name": "Pepe",
+  "symbol": "PEPE",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:5000/erc20:0x6199CCd9273A1E0e41e2cC18d9dAcd1E9382F58E.svg",
+  "name": "XAUt",
+  "symbol": "XAUt",
+  "decimals": 6,
+  "erc20": true
+}
