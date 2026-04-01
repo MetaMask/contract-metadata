@@ -1,7 +1,0 @@
-{
-  "name": "Frax Price Index",
-  "symbol": "FPI",
-  "decimals": 18,
-  "erc20": true,
-  "logo": "./icons/eip155:988/erc20:0x90581eCa9469D8D7F5D3B60f4715027aDFCf7927.svg"
-}

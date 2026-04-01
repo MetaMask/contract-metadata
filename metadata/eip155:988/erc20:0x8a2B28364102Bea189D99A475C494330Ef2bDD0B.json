@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:988/erc20:0x8a2B28364102Bea189D99A475C494330Ef2bDD0B.svg",
+  "name": "Bridged USDC",
+  "symbol": "USDC.e",
+  "decimals": 6,
+  "erc20": true
+}

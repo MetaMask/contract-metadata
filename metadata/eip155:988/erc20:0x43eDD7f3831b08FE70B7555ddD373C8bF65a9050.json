@@ -1,7 +1,0 @@
-{
-  "name": "Frax ETH",
-  "symbol": "frxETH",
-  "decimals": 18,
-  "erc20": true,
-  "logo": "./icons/eip155:988/erc20:0x43eDD7f3831b08FE70B7555ddD373C8bF65a9050.svg"
-}
