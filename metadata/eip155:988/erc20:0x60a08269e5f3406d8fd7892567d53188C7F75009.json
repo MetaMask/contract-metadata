@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:988/erc20:0x60a08269e5f3406d8fd7892567d53188C7F75009.svg",
+  "name": "Wrapped eETH",
+  "symbol": "weETH",
+  "decimals": 18,
+  "erc20": true
+}

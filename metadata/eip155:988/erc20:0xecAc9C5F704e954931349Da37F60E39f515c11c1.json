@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:988/erc20:0xecAc9C5F704e954931349Da37F60E39f515c11c1.png",
+  "name": "Lombard Staked Bitcoin",
+  "symbol": "LBTC",
+  "decimals": 8,
+  "erc20": true
+}
