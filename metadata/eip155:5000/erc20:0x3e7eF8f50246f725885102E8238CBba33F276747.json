@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:5000/erc20:0x3e7eF8f50246f725885102E8238CBba33F276747.svg",
+  "name": "Equilibria Token",
+  "symbol": "EQB",
+  "decimals": 18,
+  "erc20": true
+}

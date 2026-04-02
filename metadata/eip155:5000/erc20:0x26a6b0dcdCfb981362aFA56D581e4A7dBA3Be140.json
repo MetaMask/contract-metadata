@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:5000/erc20:0x26a6b0dcdCfb981362aFA56D581e4A7dBA3Be140.png",
+  "name": "Puff",
+  "symbol": "PUFF",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:5000/erc20:0x0A3BB08b3a15A19b4De82F8AcFc862606FB69A2D.png",
+  "name": "iZUMi Bond USD",
+  "symbol": "iUSD",
+  "decimals": 18,
+  "erc20": true
+}

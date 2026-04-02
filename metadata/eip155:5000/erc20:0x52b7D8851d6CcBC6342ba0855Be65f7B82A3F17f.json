@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:5000/erc20:0x52b7D8851d6CcBC6342ba0855Be65f7B82A3F17f.svg",
+  "name": "Compound",
+  "symbol": "COMP",
+  "decimals": 18,
+  "erc20": true
+}

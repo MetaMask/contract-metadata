@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:5000/erc20:0xd27B18915e7acc8FD6Ac75DB6766a80f8D2f5729.png",
+  "name": "PENDLE",
+  "symbol": "PENDLE",
+  "decimals": 18,
+  "erc20": true
+}

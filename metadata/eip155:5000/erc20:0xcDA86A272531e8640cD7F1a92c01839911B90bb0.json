@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:5000/erc20:0xcDA86A272531e8640cD7F1a92c01839911B90bb0.svg",
+  "name": "mETH",
+  "symbol": "mETH",
+  "decimals": 18,
+  "erc20": true
+}

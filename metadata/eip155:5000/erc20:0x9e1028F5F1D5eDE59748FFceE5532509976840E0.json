@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:5000/erc20:0x9e1028F5F1D5eDE59748FFceE5532509976840E0.svg",
+  "name": "Equilibria Pendle",
+  "symbol": "ePendle",
+  "decimals": 18,
+  "erc20": true
+}

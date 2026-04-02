@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:5000/erc20:0x58538e6A46E07434d7E7375Bc268D3cb839C0133.svg",
+  "name": "Ethena Token",
+  "symbol": "ENA",
+  "decimals": 18,
+  "erc20": true
+}

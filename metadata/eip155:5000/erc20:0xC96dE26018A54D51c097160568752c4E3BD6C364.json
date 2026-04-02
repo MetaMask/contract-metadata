@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:5000/erc20:0xC96dE26018A54D51c097160568752c4E3BD6C364.svg",
+  "name": "Ignition FBTC",
+  "symbol": "FBTC",
+  "decimals": 8,
+  "erc20": true
+}

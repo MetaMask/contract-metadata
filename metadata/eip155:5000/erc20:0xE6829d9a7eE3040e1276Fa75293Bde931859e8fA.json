@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:5000/erc20:0xE6829d9a7eE3040e1276Fa75293Bde931859e8fA.svg",
+  "name": "cmETH",
+  "symbol": "cmETH",
+  "decimals": 18,
+  "erc20": true
+}

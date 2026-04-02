@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:5000/erc20:0x91824fc3573c5043837F6357b72F60014A710501.png",
+  "name": "Aperture",
+  "symbol": "APTR",
+  "decimals": 6,
+  "erc20": true
+}

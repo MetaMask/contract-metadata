@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:5000/erc20:0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea.svg",
+  "name": "Custom UPS",
+  "symbol": "CUPS",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:5000/erc20:0x6968f3F16C3e64003F02E121cf0D5CCBf5625a42.png",
+  "name": "IONX",
+  "symbol": "IONX",
+  "decimals": 18,
+  "erc20": true
+}

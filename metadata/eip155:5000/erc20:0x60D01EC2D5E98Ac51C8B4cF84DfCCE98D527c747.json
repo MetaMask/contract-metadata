@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:5000/erc20:0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747.png",
+  "name": "iZUMi Finance",
+  "symbol": "IZI",
+  "decimals": 18,
+  "erc20": true
+}
