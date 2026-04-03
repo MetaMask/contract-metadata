@@ -1,0 +1,7 @@
+{
+    "name": "USD Coin Morph Bridged",
+    "symbol": "USDC.e",
+    "decimals": 6,
+    "erc20": true,
+    "logo": "./icons/eip155:2818/erc20:0xe34c91815d7fc18A9e2148bcD4241d0a5848b693.svg"
+  }
