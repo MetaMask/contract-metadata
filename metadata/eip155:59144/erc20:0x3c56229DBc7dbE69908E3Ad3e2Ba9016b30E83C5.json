@@ -1,0 +1,7 @@
+{
+  "name": "PUPI",
+  "symbol": "PUPI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:59144/erc20:0x3c56229DBc7dbE69908E3Ad3e2Ba9016b30E83C5.png"
+}
