@@ -1,7 +1,7 @@
 {
   "logo": "./icons/eip155:56/erc20:0x252F6817197Fd1fA28f10869A2640FDe972E338F.png",
-  "name": "Tether Cat",
-  "symbol": "TCAT",
+  "name": "Tether USD",
+  "symbol": "USDT",
   "decimals": 18,
   "erc20": true
 }
