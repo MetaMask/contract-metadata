@@ -1,3 +1,4 @@
 {
-    "labels": ["blue_chip"]
+  "labels": ["blue_chip"],
+  "canonicalHead": "eip155:1/slip44:60"
 }
