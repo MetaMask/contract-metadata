@@ -1,5 +1,6 @@
 import fs from "node:fs";
 import path from "node:path";
+import { toChecksumAddress } from "ethereumjs-util";
 
 const LABELS_DIR = path.resolve(import.meta.dirname, "../labels");
 
@@ -42,23 +43,6 @@ const CANONICAL_HEAD_GROUPS = [
     headCaip19: "eip155:1/erc20:0xacA92E438df0B2401fF60dA7E4337B687a2435DA",
   },
 ];
-
-function toChecksumAddress(address) {
-  const addr = address.toLowerCase().replace("0x", "");
-  const hash = createHash("sha3-256").update(addr).digest("hex");
-
-  let checksummed = "0x";
-
-  for (let i = 0; i < addr.length; i++) {
-    if (parseInt(hash[i], 16) >= 8) {
-      checksummed += addr[i].toUpperCase();
-    } else {
-      checksummed += addr[i];
-    }
-  }
-
-  return checksummed;
-}
 
 function caip19ToFilePath(caip19) {
   const [chain, asset] = caip19.split("/");
