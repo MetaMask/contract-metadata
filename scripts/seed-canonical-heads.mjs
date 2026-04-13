@@ -1,7 +1,5 @@
 import fs from "node:fs";
 import path from "node:path";
-import { keccak256 } from "ethereum-cryptography/keccak.js";
-import { utf8ToBytes, bytesToHex } from "ethereum-cryptography/utils.js";
 
 const LABELS_DIR = path.resolve(import.meta.dirname, "../labels");
 
@@ -47,7 +45,7 @@ const CANONICAL_HEAD_GROUPS = [
 
 function toChecksumAddress(address) {
   const addr = address.toLowerCase().replace("0x", "");
-  const hash = bytesToHex(keccak256(utf8ToBytes(addr)));
+  const hash = createHash("sha3-256").update(addr).digest("hex");
 
   let checksummed = "0x";
 

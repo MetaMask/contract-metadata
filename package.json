@@ -43,7 +43,5 @@
     "tape": "^4.6.3",
     "zod": "^4.3.6"
   },
-  "dependencies": {
-    "ethereum-cryptography": "^3.2.0"
-  }
+  "dependencies": {}
 }
