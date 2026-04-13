@@ -4,17 +4,23 @@ import { toChecksumAddress } from "ethereumjs-util";
 
 const LABELS_DIR = path.resolve(import.meta.dirname, "../labels");
 
-const PLATFORM_TO_CAIP2 = {
-  ethereum: "eip155:1",
-  "polygon-pos": "eip155:137",
-  "binance-smart-chain": "eip155:56",
-  linea: "eip155:59144",
-  base: "eip155:8453",
-  "optimistic-ethereum": "eip155:10",
-  "arbitrum-one": "eip155:42161",
-  scroll: "eip155:534352",
-  monad: "eip155:143",
-  hyperevm: "eip155:999",
+const PLATFORM_MAP = {
+  ethereum: { caip2: "eip155:1", assetNamespace: "erc20" },
+  "polygon-pos": { caip2: "eip155:137", assetNamespace: "erc20" },
+  "binance-smart-chain": { caip2: "eip155:56", assetNamespace: "erc20" },
+  linea: { caip2: "eip155:59144", assetNamespace: "erc20" },
+  base: { caip2: "eip155:8453", assetNamespace: "erc20" },
+  "optimistic-ethereum": { caip2: "eip155:10", assetNamespace: "erc20" },
+  "arbitrum-one": { caip2: "eip155:42161", assetNamespace: "erc20" },
+  scroll: { caip2: "eip155:534352", assetNamespace: "erc20" },
+  monad: { caip2: "eip155:143", assetNamespace: "erc20" },
+  hyperevm: { caip2: "eip155:999", assetNamespace: "erc20" },
+  avalanche: { caip2: "eip155:43114", assetNamespace: "erc20" },
+  zksync: { caip2: "eip155:324", assetNamespace: "erc20" },
+  solana: {
+    caip2: "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+    assetNamespace: "token",
+  },
 };
 
 const CANONICAL_HEAD_GROUPS = [
@@ -45,7 +51,9 @@ const CANONICAL_HEAD_GROUPS = [
 ];
 
 function caip19ToFilePath(caip19) {
-  const [chain, asset] = caip19.split("/");
+  const slashIndex = caip19.lastIndexOf("/");
+  const chain = caip19.substring(0, slashIndex);
+  const asset = caip19.substring(slashIndex + 1);
 
   return path.join(LABELS_DIR, chain, `${asset}.json`);
 }
@@ -69,13 +77,16 @@ function writeLabelFile(filePath, data) {
 }
 
 function platformToCaip19(platform, address) {
-  const caip2 = PLATFORM_TO_CAIP2[platform];
+  const mapping = PLATFORM_MAP[platform];
+  if (!mapping) {
+    return null;
+  }
 
-  if (!caip2) return null;
+  if (mapping.assetNamespace === "erc20") {
+    return `${mapping.caip2}/${mapping.assetNamespace}:${toChecksumAddress(address)}`;
+  }
 
-  const checksummed = toChecksumAddress(address);
-
-  return `${caip2}/erc20:${checksummed}`;
+  return `${mapping.caip2}/${mapping.assetNamespace}:${address}`;
 }
 
 async function fetchCoinGeckoList() {
@@ -84,7 +95,7 @@ async function fetchCoinGeckoList() {
   );
 
   if (!res.ok) {
-    throw new Error(`CoinGecko error: ${res.status}`);
+    throw new Error(`CoinGecko API error: ${res.status}`);
   }
 
   return res.json();
@@ -92,7 +103,6 @@ async function fetchCoinGeckoList() {
 
 async function seed() {
   console.log("Fetching CoinGecko coin list...\n");
-
   const coinList = await fetchCoinGeckoList();
 
   const coinById = new Map(coinList.map((c) => [c.id, c]));
