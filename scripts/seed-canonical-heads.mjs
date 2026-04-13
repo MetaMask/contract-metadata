@@ -73,7 +73,7 @@ function writeLabelFile(filePath, data) {
     fs.mkdirSync(dir, { recursive: true });
   }
 
-  fs.writeFileSync(filePath, JSON.stringify(data, null, 4) + "\n");
+  fs.writeFileSync(filePath, JSON.stringify(data, null, 2) + "\n");
 }
 
 function platformToCaip19(platform, address) {
