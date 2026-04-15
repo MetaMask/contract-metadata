@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xBBFC8683C8fE8cF73777feDE7ab9574935fea0A4.svg",
+  "name": "earnETH",
+  "symbol": "earnETH",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x4Ce1ac8F43E0E5BD7A346A98aF777bF8fbeA1981.svg",
+  "name": "earnUSD",
+  "symbol": "earnUSD",
+  "decimals": 18,
+  "erc20": true
+}
