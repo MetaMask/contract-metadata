@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:137/erc20:0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb.svg",
+  "name": "Polymarket USD",
+  "symbol": "pUSD",
+  "decimals": 6,
+  "erc20": true
+}
