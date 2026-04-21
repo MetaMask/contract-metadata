@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Inverse Chainlink",
+  "symbol": "iLINK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x2D7ac061fc3dB53C39FE1607fb8CeC1B2C162b01./ipfs/qmxkpggcwq4pe6onkxux95sacdoue4ymg5hrv2a4fylnyf/ilink",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xedf0b2800ccfe654813778369567fd479c6223c943bd7518626bf2fa1840beb9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

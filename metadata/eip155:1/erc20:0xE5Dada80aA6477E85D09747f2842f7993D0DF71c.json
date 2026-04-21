@@ -1,0 +1,8 @@
+{
+  "name": "Dock",
+  "symbol": "DOCK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xE5Dada80aA6477E85D09747f2842f7993D0DF71c./ipfs/qmnuavi7zcq9esetkpy8fg8wu4vsehhdr3vrqv4iplyfc6/bccx2wfeh8hdrbbrcqvvrs71qgcvgfu3mentcvud7jjncxtch8bz39bdh3x9rjfcjabw4bcupbrcxhgx14oc53ytz2",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x106f9ac398a10217b4f303cf0165fc1ba7792c0cf5122621e605a5a61704bc2e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

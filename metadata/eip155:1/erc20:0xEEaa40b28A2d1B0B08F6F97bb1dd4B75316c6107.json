@@ -1,0 +1,8 @@
+{
+  "name": "Govi",
+  "symbol": "GOVI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xEEaa40b28A2d1B0B08F6F97bb1dd4B75316c6107./ipfs/qmrho9ef2srmwkbagnaacpmdrnrsvxyiga2d2we45dgumy/govi",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9c0b93547e084abcf55f4d8e269dce0f5d7cc1b05557f02bca6d2ef10d5679d6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

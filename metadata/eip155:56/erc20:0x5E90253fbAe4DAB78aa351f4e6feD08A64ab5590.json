@@ -1,0 +1,8 @@
+{
+  "name": "Bonfire",
+  "symbol": "BONFIRE",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x5E90253fbAe4DAB78aa351f4e6feD08A64ab5590.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xebbad7f8c676782536210e969fec678732d139bac18228802d9dc0b783fafe99@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

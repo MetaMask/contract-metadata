@@ -1,0 +1,8 @@
+{
+  "name": "Quant",
+  "symbol": "QNT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x73FF88bfb03d060FB63b374d5185A50D8E1423c3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0986b589aa01c6e8ae5c85a0d5f381cbd86823ccfface12e53d8b464a27473d5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

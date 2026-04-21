@@ -1,0 +1,8 @@
+{
+  "name": "Cream BarnBridge",
+  "symbol": "crBOND",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF55bbe0255f7f4E70F63837ff72A577FBDDbE924./ipfs/qmtybzy4apfplnlypljk2rbkzdmym3ygrmdkgd6mgh6kvx/crbond",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8f0c8248b3e542a0faee824e8db3055761f6c5afba658ab86c05498314dbcb96@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

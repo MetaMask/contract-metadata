@@ -1,0 +1,8 @@
+{
+  "name": "Yield Magnet",
+  "symbol": "MAGNET",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x6FDb90535c09B82825E38d41edf5e66211D4b442.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc727e3b68e434bcce3ee2c2d057fc93473c20831c5adf2f2cecdf421052e96db@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

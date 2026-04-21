@@ -1,0 +1,8 @@
+{
+  "name": "CookieBase",
+  "symbol": "COOKIE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x614747c53cB1636B4B962e15e1d66D3214621100.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xcfade2f3e8ad959e6270ea6639823f10ecef1ccb013cf15332db07a7619611b7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "tomi",
+  "symbol": "TOMI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x4385328cc4d643CA98DFEa734360C0F596C83449.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbddf9b016204c106d17adc95b7b23f8b6303db472bf4c1ea7786ba422d49a56d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

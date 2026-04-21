@@ -1,0 +1,8 @@
+{
+  "name": "Onooks",
+  "symbol": "OOKS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x69D9905b2e5f6f5433212b7f3c954433F23c1572./ipfs/qmawbvhya5gnt3h9hfyrjrkaoj7njcjpvyphhfwvxo24eu/ooks",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x63885a979c29a16ba8585cebed12ca2f1878828ab4194a836f5cda38393026e1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

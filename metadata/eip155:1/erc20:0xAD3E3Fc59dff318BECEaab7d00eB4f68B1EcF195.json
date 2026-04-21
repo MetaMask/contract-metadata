@@ -1,0 +1,8 @@
+{
+  "name": "Wrapped Celo USD",
+  "symbol": "WCUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xAD3E3Fc59dff318BECEaab7d00eB4f68B1EcF195./ipfs/qmwxzke5m13ibv5wrf5ydchno4aicxywlhrn5tdfekd3aq/wcusd",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6a785a1085cf0a7602c084d98f95c646d5def17b4d942246663c7f756abf9437@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

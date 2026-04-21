@@ -1,0 +1,8 @@
+{
+  "name": "Solana Swap",
+  "symbol": "SOS",
+  "decimals": 6,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:HDa3zJc12ahykSsBRvgiWzr6WLEByf36yzKKbVvy4gnF.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbfc605894445d8d72e5e8ce7f01dcfd795c821f49383f9a434f5a9f9f1258a83@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

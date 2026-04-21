@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Inverse Ripple",
+  "symbol": "iXRP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x27269b3e45A4D3E79a3D6bfee0c8fB13D0D711a6./ipfs/qmvrvndfyqbbnwce7bnckjdhxpuigp9rcrffrsppt1davn/ixrp",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x10bd5c7c81ca705bbc095040457de8730b5fed9a6bd324f946a458235a5f0772@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

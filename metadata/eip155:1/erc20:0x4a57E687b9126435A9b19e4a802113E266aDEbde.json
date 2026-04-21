@@ -1,0 +1,8 @@
+{
+  "name": "Flexacoin",
+  "symbol": "FXC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x4a57E687b9126435A9b19e4a802113E266aDEbde./ipfs/qmflkoqkioy2zpfwtm6qfrxmmqov23cjbebej8szw92mhs/bccx33znjsr1dz7spshaq3s7cmnupyjn35ltvttdbvyzctnlrbz1ebqa3g8zwtnwnkmo3saybkeyqdv7pyyocttz63",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6d9210b000528a13dd763e8ce69f7d49e5aa552c105bd24661495440ec550114@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

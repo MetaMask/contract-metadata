@@ -1,0 +1,8 @@
+{
+  "name": "Story",
+  "symbol": "STORY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x85EE8e3e0068eDEEEE960979958d7f61416a9d84.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1381712aa603ebdcc35b81b4680f336030d40f1020fe26b38dc8d8f3ee209ab1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

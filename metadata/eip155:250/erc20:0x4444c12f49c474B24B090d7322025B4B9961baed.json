@@ -1,0 +1,8 @@
+{
+  "name": "OKIOKI",
+  "symbol": "OKI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:250/erc20:0x4444c12f49c474B24B090d7322025B4B9961baed.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1975f9eb148d26083c3021c8737f6ca2ce6f60c17545d49ffe5ba3ceaf641c9d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

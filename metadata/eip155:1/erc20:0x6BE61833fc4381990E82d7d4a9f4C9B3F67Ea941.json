@@ -1,0 +1,8 @@
+{
+  "name": "Hotbit Token",
+  "symbol": "HTB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x6BE61833fc4381990E82d7d4a9f4C9B3F67Ea941./ipfs/qmtdfozaet2jlxvpehi5kkmqefdeep1cmydxzckdptqmbo/bcd4mvhrmuy5pge5v1oubbgpqwp9db9luszdnvztdgbrvnadpoxwkc8ibssgmdxpa69dkcmgsqptb2fe146wir1zhg",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb255d25ea8b07457e1f50f7eaff098764acf3b372a62265790f70a5349fa250e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

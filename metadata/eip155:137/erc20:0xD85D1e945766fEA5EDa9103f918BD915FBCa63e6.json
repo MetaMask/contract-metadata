@@ -1,0 +1,8 @@
+{
+  "name": "Celsius",
+  "symbol": "CEL",
+  "decimals": 4,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0xD85D1e945766fEA5EDa9103f918BD915FBCa63e6.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbf7d3b6f76baa8c6fe0945fc305c1fd9450cfdede8435040cc37293c15809a4c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

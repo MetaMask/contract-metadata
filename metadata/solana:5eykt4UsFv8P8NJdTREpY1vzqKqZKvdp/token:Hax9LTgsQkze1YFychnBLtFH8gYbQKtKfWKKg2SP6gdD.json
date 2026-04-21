@@ -1,0 +1,8 @@
+{
+  "name": "TARS AI",
+  "symbol": "TAI",
+  "decimals": 9,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:Hax9LTgsQkze1YFychnBLtFH8gYbQKtKfWKKg2SP6gdD.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1c3c9e2e199898f3593e2344eb36241163ce343fc31e4bfc6a06a245c804a358@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

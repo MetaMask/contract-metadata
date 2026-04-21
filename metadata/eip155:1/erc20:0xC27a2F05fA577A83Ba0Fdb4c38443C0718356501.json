@@ -1,0 +1,8 @@
+{
+  "name": "Lamden",
+  "symbol": "TAU",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xC27a2F05fA577A83Ba0Fdb4c38443C0718356501./ipfs/qmroeuqsjaz98fi8htxn2ajp5l21hjxpnuj3oqxsnx9yvd/bce2sdalkekwges6vfulantjpbkvhjddgy4eluqsrngn78kteqeiwqgdznqmnmmuwnt1ysertpyrhkfb1dbfehcjms",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x252355a7b5ee7460e41ce81fd90f501aa7d94b4d435225b37c3f7d03e7149a29@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

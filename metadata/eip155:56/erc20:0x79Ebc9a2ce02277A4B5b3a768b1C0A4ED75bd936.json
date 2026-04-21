@@ -1,0 +1,8 @@
+{
+  "name": "Catgirl",
+  "symbol": "CATGIRL",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x79Ebc9a2ce02277A4B5b3a768b1C0A4ED75bd936.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xabf33184c5529dfcae5a9b165196d6521a19289806b08d213af5708e0ffaca00@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

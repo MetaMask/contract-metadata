@@ -1,0 +1,8 @@
+{
+  "name": "DACKIE Superchain",
+  "symbol": "DACKIE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x73326b4d0225C429BED050c11c4422D91470aaf4.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdc736d6594bcda53101e4b7500e5c9efc9e39448a6df8d43a93b7625169eecfd@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

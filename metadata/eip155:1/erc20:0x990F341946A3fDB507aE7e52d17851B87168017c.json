@@ -1,0 +1,8 @@
+{
+  "name": "Strong",
+  "symbol": "STRONG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x990F341946A3fDB507aE7e52d17851B87168017c./ipfs/qmutqbxfjrnvj3bvgsshgqqoxtbtnjcr86w3uvnxd3uqzh/bcd3r7jimkuzzt48ufzhknzfsaxrk1fvpuflgbz5wmmt5ky9p2cwfhggubippktvatzr1wofxguhqwrglmhg6szxtq",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb98d2eb460f369218e60cab1a7fbe8358a1311725f877b4c38a007ec8c9d962c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

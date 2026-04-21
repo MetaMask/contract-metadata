@@ -1,0 +1,8 @@
+{
+  "name": "Jeff in Space",
+  "symbol": "JEFF",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA10a210c27c86f8C63825096e34f671FD61041b1./ipfs/qmzvy7ebnxbcp8rixmghz47fbkftedsglvvoowcvxwqbqc/jeff",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6a0d2b47a8aec46446d545a8d5d78875d6a6a0e514aad02e4012b255af4451f0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}
