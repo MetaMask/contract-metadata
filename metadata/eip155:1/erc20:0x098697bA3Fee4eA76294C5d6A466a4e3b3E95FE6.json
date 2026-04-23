@@ -1,0 +1,7 @@
+{
+"name": "USP Yield Optimized Stablecoin",
+"symbol": "USP",
+"decimals": 18,
+"erc20": true,
+"logo": "./icons/eip155:1/erc20:0x098697bA3Fee4eA76294C5d6A466a4e3b3E95FE6.svg"
+}
