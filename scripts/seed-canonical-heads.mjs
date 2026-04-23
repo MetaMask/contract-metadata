@@ -2,8 +2,15 @@ import fs from "node:fs";
 import path from "node:path";
 import { toChecksumAddress } from "ethereumjs-util";
 
+/** Directory where label JSON files are stored */
 const LABELS_DIR = path.resolve(import.meta.dirname, "../labels");
 
+/**
+ * CAIP-2 + asset namespace mapping for every platform CoinGecko returns.
+ * This used to be a plain object (fast string-key lookup). It is now an array
+ * for readability and future extensibility, so we must use .find() instead of
+ * direct bracket access.
+ */
 const PLATFORM_MAP = [
   {
     platform: "ethereum",
@@ -70,7 +77,27 @@ const PLATFORM_MAP = [
     caip2: "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
     assetNamespace: "token",
   },
-];
+] as const;
+
+/**
+ * Convert a CoinGecko platform + contract address into a full CAIP-19 identifier.
+ * Updated to work with the new array-based PLATFORM_MAP and added helpful warning.
+ */
+function platformToCaip19(platform: string, address: string): string | null {
+  const mapping = PLATFORM_MAP.find((entry) => entry.platform === platform);
+
+  if (!mapping) {
+    console.warn(`No mapping found for platform: ${platform}`);
+    return null;
+  }
+
+  if (mapping.assetNamespace === "erc20") {
+    return `${mapping.caip2}/${mapping.assetNamespace}:${toChecksumAddress(address)}`;
+  }
+
+  return `${mapping.caip2}/${mapping.assetNamespace}:${address}`;
+}
+
 const CANONICAL_HEAD_GROUPS = [
   {
     coingeckoId: "ethereum",
@@ -98,7 +125,7 @@ const CANONICAL_HEAD_GROUPS = [
   },
 ];
 
-function caip19ToFilePath(caip19) {
+function caip19ToFilePath(caip19: string): string {
   const slashIndex = caip19.lastIndexOf("/");
   const chain = caip19.substring(0, slashIndex);
   const asset = caip19.substring(slashIndex + 1);
@@ -106,7 +133,7 @@ function caip19ToFilePath(caip19) {
   return path.join(LABELS_DIR, chain, `${asset}.json`);
 }
 
-function readOrCreateLabelFile(filePath) {
+function readOrCreateLabelFile(filePath: string) {
   if (fs.existsSync(filePath)) {
     return JSON.parse(fs.readFileSync(filePath, "utf-8"));
   }
@@ -114,7 +141,7 @@ function readOrCreateLabelFile(filePath) {
   return { labels: [] };
 }
 
-function writeLabelFile(filePath, data) {
+function writeLabelFile(filePath: string, data: any) {
   const dir = path.dirname(filePath);
 
   if (!fs.existsSync(dir)) {
@@ -122,19 +149,6 @@ function writeLabelFile(filePath, data) {
   }
 
   fs.writeFileSync(filePath, JSON.stringify(data, null, 2) + "\n");
-}
-
-function platformToCaip19(platform, address) {
-  const mapping = PLATFORM_MAP[platform];
-  if (!mapping) {
-    return null;
-  }
-
-  if (mapping.assetNamespace === "erc20") {
-    return `${mapping.caip2}/${mapping.assetNamespace}:${toChecksumAddress(address)}`;
-  }
-
-  return `${mapping.caip2}/${mapping.assetNamespace}:${address}`;
 }
 
 async function fetchCoinGeckoList() {
@@ -153,18 +167,19 @@ async function seed() {
   console.log("Fetching CoinGecko coin list...\n");
   const coinList = await fetchCoinGeckoList();
 
-  const coinById = new Map(coinList.map((c) => [c.id, c]));
+  const coinById = new Map(coinList.map((c: any) => [c.id, c]));
 
-  const summary = [];
+  const summary: Array<{
+    member: string;
+    head: string;
+    action: "created" | "updated" | "skipped";
+  }> = [];
 
   for (const group of CANONICAL_HEAD_GROUPS) {
     const coin = coinById.get(group.coingeckoId);
 
     if (!coin) {
-      console.warn(
-        `⚠ CoinGecko ID "${group.coingeckoId}" not found — skipping`,
-      );
-
+      console.warn(`⚠ CoinGecko ID "${group.coingeckoId}" not found — skipping`);
       continue;
     }
 
@@ -173,13 +188,12 @@ async function seed() {
     for (const [platform, address] of Object.entries(coin.platforms)) {
       if (!address) continue;
 
-      const memberCaip19 = platformToCaip19(platform, address);
+      const memberCaip19 = platformToCaip19(platform, address as string);
 
       if (!memberCaip19) continue;
 
       if (memberCaip19 === group.headCaip19) {
         console.log(`  ✓ ${memberCaip19} (head — skipping)`);
-
         continue;
       }
 
@@ -214,15 +228,9 @@ async function seed() {
 
   console.log("\n=== Summary ===");
   console.log(`Total processed: ${summary.length}`);
-  console.log(
-    `Created: ${summary.filter((s) => s.action === "created").length}`,
-  );
-  console.log(
-    `Updated: ${summary.filter((s) => s.action === "updated").length}`,
-  );
-  console.log(
-    `Skipped: ${summary.filter((s) => s.action === "skipped").length}`,
-  );
+  console.log(`Created: ${summary.filter((s) => s.action === "created").length}`);
+  console.log(`Updated: ${summary.filter((s) => s.action === "updated").length}`);
+  console.log(`Skipped: ${summary.filter((s) => s.action === "skipped").length}`);
 }
 
 seed().catch(console.error);
