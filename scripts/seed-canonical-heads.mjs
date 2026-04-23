@@ -4,25 +4,73 @@ import { toChecksumAddress } from "ethereumjs-util";
 
 const LABELS_DIR = path.resolve(import.meta.dirname, "../labels");
 
-const PLATFORM_MAP = {
-  ethereum: { caip2: "eip155:1", assetNamespace: "erc20" },
-  "polygon-pos": { caip2: "eip155:137", assetNamespace: "erc20" },
-  "binance-smart-chain": { caip2: "eip155:56", assetNamespace: "erc20" },
-  linea: { caip2: "eip155:59144", assetNamespace: "erc20" },
-  base: { caip2: "eip155:8453", assetNamespace: "erc20" },
-  "optimistic-ethereum": { caip2: "eip155:10", assetNamespace: "erc20" },
-  "arbitrum-one": { caip2: "eip155:42161", assetNamespace: "erc20" },
-  scroll: { caip2: "eip155:534352", assetNamespace: "erc20" },
-  monad: { caip2: "eip155:143", assetNamespace: "erc20" },
-  hyperevm: { caip2: "eip155:999", assetNamespace: "erc20" },
-  avalanche: { caip2: "eip155:43114", assetNamespace: "erc20" },
-  zksync: { caip2: "eip155:324", assetNamespace: "erc20" },
-  solana: {
+const PLATFORM_MAP = [
+  {
+    platform: "ethereum",
+    caip2: "eip155:1",
+    assetNamespace: "erc20",
+  },
+  {
+    platform: "polygon-pos",
+    caip2: "eip155:137",
+    assetNamespace: "erc20",
+  },
+  {
+    platform: "binance-smart-chain",
+    caip2: "eip155:56",
+    assetNamespace: "erc20",
+  },
+  {
+    platform: "linea",
+    caip2: "eip155:59144",
+    assetNamespace: "erc20",
+  },
+  {
+    platform: "base",
+    caip2: "eip155:8453",
+    assetNamespace: "erc20",
+  },
+  {
+    platform: "optimistic-ethereum",
+    caip2: "eip155:10",
+    assetNamespace: "erc20",
+  },
+  {
+    platform: "arbitrum-one",
+    caip2: "eip155:42161",
+    assetNamespace: "erc20",
+  },
+  {
+    platform: "scroll",
+    caip2: "eip155:534352",
+    assetNamespace: "erc20",
+  },
+  {
+    platform: "monad",
+    caip2: "eip155:143",
+    assetNamespace: "erc20",
+  },
+  {
+    platform: "hyperevm",
+    caip2: "eip155:999",
+    assetNamespace: "erc20",
+  },
+  {
+    platform: "avalanche",
+    caip2: "eip155:43114",
+    assetNamespace: "erc20",
+  },
+  {
+    platform: "zksync",
+    caip2: "eip155:324",
+    assetNamespace: "erc20",
+  },
+  {
+    platform: "solana",
     caip2: "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
     assetNamespace: "token",
   },
-};
-
+];
 const CANONICAL_HEAD_GROUPS = [
   {
     coingeckoId: "ethereum",
