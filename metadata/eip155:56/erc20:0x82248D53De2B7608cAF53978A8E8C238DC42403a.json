@@ -3,5 +3,5 @@
   "symbol": "USDG",
   "decimals": 18,
   "erc20": true,
-  "logo": "images/eip155:56/erc20:0x82248D53De2B7608cAF53978A8E8C238DC42403a.png"
+  "logo": "icons/eip155:56/erc20:0x82248D53De2B7608cAF53978A8E8C238DC42403a.png"
 }
