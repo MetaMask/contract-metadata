@@ -1,0 +1,7 @@
+{
+  "name": "Cap USD",
+  "symbol": "cUSD",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:4217/erc20:0x20C0000000000000000000000520792DcCccCccC.svg"
+}

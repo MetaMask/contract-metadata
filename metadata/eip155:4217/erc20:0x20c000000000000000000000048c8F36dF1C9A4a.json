@@ -1,0 +1,7 @@
+{
+  "name": "InfiniFi Staked USD",
+  "symbol": "siUSD",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:4217/erc20:0x20c000000000000000000000048c8F36dF1C9A4a.svg"
+}

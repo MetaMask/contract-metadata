@@ -1,0 +1,7 @@
+{
+  "name": "AllUnity EUR",
+  "symbol": "EURAU",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:4217/erc20:0x20c0000000000000000000009A4a4b17E0Dc6651.svg"
+}
