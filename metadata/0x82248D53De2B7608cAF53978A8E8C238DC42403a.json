@@ -1,0 +1,10 @@
+{
+  "name": "USDG Gold",
+  "symbol": "USDG",
+  "decimals": 18,
+  "description": "USDG is a decentralized multi-chain digital asset focused on transparent on-chain activity and active trading.",
+  "website": "https://usdgdefi.com",
+  "explorer": "https://etherscan.io/token/0x82248D53De2B7608cAF53978A8E8C238DC42403a",
+  "status": "active",
+  "id": "0x82248D53De2B7608cAF53978A8E8C238DC42403a"
+}
