@@ -1,0 +1,8 @@
+{
+  "name": "USDG Gold USD",
+  "symbol": "USDG",
+  "decimals": 18,
+  "description": "USDG Gold USD is a decentralized multi-chain DeFi token with active on-chain trading and verified smart contract. The token has no restrictions such as blacklist or honeypot logic.",
+  "website": "https://usdgdefi.com",
+  "explorer": "https://etherscan.io/token/0x82248D53De2B7608cAF53978A8E8C238DC42403a"
+}
