@@ -104,6 +104,15 @@
     "symbol": "DINO",
     "decimals": 18
   },
+
+"0x1F1546E30728F4979fE1112F9e6D4b630123571D": {
+  "name": "SolStream Music",
+  "logo": "STREAM.png",
+  "erc20": true,
+  "symbol": "STREAM",
+  "decimals": 8
+},
+  
   "0xB8BAa0e4287890a5F79863aB62b7F175ceCbD433": {
     "name": "Swerve DAO Token",
     "logo": "swrv.svg",
