@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0xbc920c7Fa25D3Cd5606394aa4C6751d71DCb7930.png",
-  "name": "K9 Finance",
+  "name": "K9",
   "symbol": "K9",
   "decimals": 18,
   "erc20": true
