@@ -1,0 +1,9 @@
+{
+  "eip155:1/erc20:0x20C64dEE8FdA5269A78f2D5BDBa861CA1d83DF7a": {
+    "name": "Backed HIGH € High Yield Corp Bond",
+    "symbol": "bHIGH",
+    "decimals": 18,
+    "erc20": true,
+    "logo": "./icons/eip155:1/erc20:0x20C64dEE8FdA5269A78f2D5BDBa861CA1d83DF7a.svg"
+  }
+}
