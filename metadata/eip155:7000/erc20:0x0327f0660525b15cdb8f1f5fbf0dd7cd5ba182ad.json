@@ -1,0 +1,7 @@
+{
+  "name": "USDC.ARB",
+  "symbol": "USDC.ARB",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:7000/erc20:0x0327f0660525b15cdb8f1f5fbf0dd7cd5ba182ad.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "USDC.POL",
+  "symbol": "USDC.POL",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:7000/erc20:0xfc9201f4116ae6b054722e10b98d904829b469c3.svg"
+}
