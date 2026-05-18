@@ -584,6 +584,13 @@
     "symbol": "ARIA20",
     "decimals": 18
   },
+  "0x2a6677f132d4ab9c9f8d6a72113094232ea1f830": {
+    "name": "Allspot",
+    "logo": "Allspot.png",
+    "erc20": true,
+    "symbol": "ALT",
+    "decimals": 18
+  },
   "0x88D8DA2A8D0fA5b1f4E38030AC486aDE0AFA2798": {
     "name": "Terrapass Coin",
     "logo": "tpsc.svg",
