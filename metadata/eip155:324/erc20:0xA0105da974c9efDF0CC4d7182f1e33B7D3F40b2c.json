@@ -1,0 +1,8 @@
+{
+  "name": "CRESO",
+  "symbol": "CRE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xA0105da974c9efDF0CC4d7182f1e33B7D3F40b2c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1b3333a835b719637c158fe53f1a8c6bd54a5f443fba51b02b1481ccfb718913@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

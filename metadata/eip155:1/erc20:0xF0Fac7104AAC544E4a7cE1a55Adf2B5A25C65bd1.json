@@ -1,0 +1,8 @@
+{
+  "name": "Pamp Network",
+  "symbol": "PAMP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF0Fac7104AAC544E4a7cE1a55Adf2B5A25C65bd1./ipfs/qmdby7cx9cqbexznnirqjv1x7uclgjguwkklxfq9nspggq/bcd8go8otqxumjtnbwamah8cp42upf2ny8rptzje9wunggnwx8pzdnvn7eagumvf84ttxlez5fusnnnyfya3y8f7t8",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xabde349f33224602e2de1eae156b8a734e0e769b36da283da13c9a4b8507c42d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

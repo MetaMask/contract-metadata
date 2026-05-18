@@ -1,0 +1,8 @@
+{
+  "name": "Native",
+  "symbol": "NATIVE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x20DD04c17Afd5C9A8B3F2cdacAA8eE7907385bef.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x581074a92a0a813efb015779a73615477983fa78f04fc480791ba147e74cda5d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

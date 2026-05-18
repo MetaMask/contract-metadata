@@ -1,0 +1,8 @@
+{
+  "name": "Schnoodle",
+  "symbol": "SNOOD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD45740ab9ec920BEDBD9bab2e863519E59731941./ipfs/qmexvgjxjawofx7cdg7mzqkmpuraazu5oca5kartvxfy5d/snood",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9013321da86d5af73f380d9eaacd1caf70b1a8d8f6685e75ad41e831cfe14065@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

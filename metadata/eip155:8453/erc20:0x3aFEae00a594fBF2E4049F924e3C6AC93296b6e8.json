@@ -1,0 +1,8 @@
+{
+  "name": "Mamba",
+  "symbol": "MAMBA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x3aFEae00a594fBF2E4049F924e3C6AC93296b6e8.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9ec2d3053d74b01965760ff6e258bc55a12b8e7c3b110b0dad3c7c63b2d59c09@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

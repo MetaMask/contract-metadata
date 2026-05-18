@@ -1,0 +1,8 @@
+{
+  "name": "Pancake Bunnies",
+  "symbol": "PB",
+  "decimals": 0,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xDF7952b35f24ACF7FC0487d01c8d5690A60Dba07.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xcf4e1e39a361049762c712183942563232bad71fcf5305c77c38f4881fa7abd6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

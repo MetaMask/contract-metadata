@@ -1,0 +1,8 @@
+{
+  "name": "ArcBlock",
+  "symbol": "ABT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB98D4c97425d9908E66E53a6fdf673ACCa0bE986.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x62cc07dd3de332613a5ceefb54457be77eadb8316b018c9d72def95cd7becc42@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

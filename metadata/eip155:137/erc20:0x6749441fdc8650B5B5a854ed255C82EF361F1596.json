@@ -1,0 +1,8 @@
+{
+  "name": "Lucha",
+  "symbol": "LUCHA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0x6749441fdc8650B5B5a854ed255C82EF361F1596.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x34a8f5307492d2aef2c880ab4450fbfbc4aabba864a5cb997bae966b76d04989@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Morphie",
+  "symbol": "MRFI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x05E481b19129B560E921E487adB281E70BDba463.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5aa83e287282a1da952f71904b779299109583d7cdd2d4eb65f3a3aaf28bbf84@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "CACHE Gold",
+  "symbol": "CGT",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF5238462e7235C7B62811567e63dD17D12C2Eaa0./ipfs/qmvvhnmdn5yp8xqjjffexndwfex1fheq2xrrhk9xoql4k1/bcdxxyfnt5t1hdxklwvwwb4vzxm58jfz5un7rjgzhquwiokhiaiv7qhzbcfawm9cshqyp23duqzdxart3ad9ghqyju",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd160ff01dc6ec82e3264995dfe93e3cf6c875d2e6223025497ce3a4fffebad0e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

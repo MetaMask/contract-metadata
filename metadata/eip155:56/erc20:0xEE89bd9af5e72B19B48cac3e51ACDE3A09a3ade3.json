@@ -1,0 +1,8 @@
+{
+  "name": "TrustKeys Network",
+  "symbol": "TRUSTK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xEE89bd9af5e72B19B48cac3e51ACDE3A09a3ade3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2265b554efbc9ed2a19c326b6fdff6b0723ce86f0e92cc6d573711e37b21246b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Alchemy Pay",
+  "symbol": "ACH",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xBC7D6b50616989655aFD682fb42743507003056d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3ac5c13153286a5488741c8d821fe49d37edee0e2335c97452d48e15769250ad@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Gasgains",
+  "symbol": "GASG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xC58467b855401EF3FF8Fda9216f236E29F0D6277./ipfs/qmp3hgash8kacdzwx61qg48ovu24rdtvqqx5jzf38qat6s/gasg",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe0bc049f2c6bac2b8835ac2feafab378f96330846fd21bffed8ccda50a0226be@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

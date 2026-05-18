@@ -1,0 +1,8 @@
+{
+  "name": "Bankless DAO",
+  "symbol": "BANK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x2D94aa3e47d9D5024503ca8491fCe9A2FB4Da198./ipfs/qmswalneqx8bsbr3qdzrkbgvc8xyaytbsarecnbahnqqcd/bank",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x483130c3ffabc7e82e254d1bcd8db3e9a93e2a589d174bba2b1ce3cabe2624cc@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

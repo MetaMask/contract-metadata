@@ -1,0 +1,8 @@
+{
+  "name": "PUDGY Vault",
+  "symbol": "PUDGY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xABEa7663c472648D674bd3403d94C858DFEEF728./ipfs/qmdtooy9q8jq8kheqg7rafkzdcdqec1kbrrigviqmhherr/pudgy",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xad27e1cd74fe1e6154fb3fabebb45c888547abc070027525bbd4ab74222c8745@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Kennedy Memecoin",
+  "symbol": "BOBBY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA462bde22d98335E18a21555b6752DB93a937cff.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd7764dde4c677c10eadca3a9aa372d45d164854525b0e09f5c1e1386c2e364ba@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

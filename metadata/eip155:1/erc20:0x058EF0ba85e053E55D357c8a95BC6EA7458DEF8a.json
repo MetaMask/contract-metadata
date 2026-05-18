@@ -1,0 +1,8 @@
+{
+  "name": "TradeKax",
+  "symbol": "TKX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x058EF0ba85e053E55D357c8a95BC6EA7458DEF8a./ipfs/qmxxzv1mk86vw9hths6uznjmhlacdwrkhmzycgzpmvjut2/bcd8h48qjevnj1dc7px5hzw49mfzq5qrh1wxycf96443cpl11z7uhzys5d3gukshq8cip79nnvbhqtknzlehtebmwk",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4f9424cd22a0e0ab5bec65a0cdc0e09bde337da22a7590af00248209ff9ca57c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Musubi",
+  "symbol": "MUSUBI",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x8EE04e1e9400D4E2091FF3a46509e246E2F34542./ipfs/qmyresr7hvp4rrs1y95zuskvj26d1i4hmaf5wr58mugyz1/musubi",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9fa4e6341cea9aa130c2a6ba77c91344caa80acc03da8def85f3dac28ab7699a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

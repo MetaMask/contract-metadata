@@ -1,0 +1,8 @@
+{
+  "name": "Vow",
+  "symbol": "VOW",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1BbF25e71ec48B84D773809b4bA55B6F4BE946fb./ipfs/qmvpuvh3enftmrbyc463esiaeoh9jcwmsnfv8jkhpl6dbl/vow",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8dae35315d5594eed5845b94f54c8e8ad6665314e02b8dc3c59209c16c2a6f9d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Xave",
+  "symbol": "XAV",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x913c61ec3573e5E4EE6488552535fB1BE84FF2ac.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4501a16f1a2a9a16cf38a55597417ab12854ebc31bbb11ebc0a1136190a760d9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

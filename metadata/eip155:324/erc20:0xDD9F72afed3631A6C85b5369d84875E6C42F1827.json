@@ -1,0 +1,8 @@
+{
+  "name": "Symbiosis",
+  "symbol": "SIS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xDD9F72afed3631A6C85b5369d84875E6C42F1827.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3c5b02d6c2fbe949be6d6d6587e11b9b71a810cd15758f2076300230afea705d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

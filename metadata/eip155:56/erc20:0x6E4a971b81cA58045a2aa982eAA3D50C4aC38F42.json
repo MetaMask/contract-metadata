@@ -1,0 +1,8 @@
+{
+  "name": "Bridge Oracle",
+  "symbol": "BRG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x6E4a971b81cA58045a2aa982eAA3D50C4aC38F42.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2aec7c2b4da4b17eaadd5ea3238449bc6beedbfdc0a73a0db43cced9a8038840@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

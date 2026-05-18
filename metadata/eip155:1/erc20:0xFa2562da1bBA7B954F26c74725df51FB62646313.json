@@ -1,0 +1,8 @@
+{
+  "name": "ASSY Index",
+  "symbol": "ASSY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xFa2562da1bBA7B954F26c74725df51FB62646313./ipfs/qmw5w2epeycloqy13vggu91uwkcznrvtwbig9ejvn4uqbt/assy",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc9695fbd556b53e8a5059db4901c32f1ba5487dea8b14e216bdf28946b08bc44@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "MetaInside by Virtuals",
+  "symbol": "MIN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xBB59167235Bf3588B357de6cd98CA6F94D753c76.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x61c9c1b93ced661abc8d2192646c759b89a2c02bde7ac639a001c3c7e3bf116d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

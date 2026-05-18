@@ -1,0 +1,8 @@
+{
+  "name": "NKN",
+  "symbol": "NKN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x5CF04716bA20127F1E2297addcf4B5035000c9eb./ipfs/qmvvc57xxf6fxdz3lxc24pugpppcnhj2j4ovhup7jhwfc8/bcd4ohwjdknn5qwqx7yrjwwnliy31mz2gm5pplvpdhlotcf1cmeu6ngc5a7hbkfqfnpgbbwvgezojzsgbhfs1xcv5r",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb65ae5ac6f79e436bc74a883dcf3fb7ecb7cf0855123973f6082835c6926e14d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

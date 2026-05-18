@@ -1,0 +1,8 @@
+{
+  "name": "Based Doge",
+  "symbol": "BDOGE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xB3Ecba1330fe26BB36F40344992C481C2C916F23.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x48c9aaeec811ff470ebeb994c626f8e7a6c7f554039e24e795b3c8c833f456d4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

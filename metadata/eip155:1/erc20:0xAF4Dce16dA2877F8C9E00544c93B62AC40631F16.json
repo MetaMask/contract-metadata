@@ -1,0 +1,8 @@
+{
+  "name": "Monetha",
+  "symbol": "MTH",
+  "decimals": 5,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xAF4Dce16dA2877F8C9E00544c93B62AC40631F16./ipfs/qmz45yhxrnxcucrvmdms4ojso5pu3ntcaamdj6pqg9brbx/bcdwohtjcsjemxcy5apcfb3damv9hpb4r8sbkn3wpy8qpt7odcb7698jqd4uvze5xup6v7lhgqxsdaal1usaykeduw",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xca4273f26f36e5070b828f36f43ac9a2c08e5e6b3ffcb5239d38cdf781cdbd64@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

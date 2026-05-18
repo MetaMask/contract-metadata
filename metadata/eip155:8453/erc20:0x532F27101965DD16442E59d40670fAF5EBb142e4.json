@@ -1,0 +1,8 @@
+{
+  "name": "Brett",
+  "symbol": "BRETT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x532F27101965DD16442E59d40670fAF5EBb142e4.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd12ffabd016f6c6ff8b8bf8c48fb17b85771da96a4377c0a4e4077b21025384f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

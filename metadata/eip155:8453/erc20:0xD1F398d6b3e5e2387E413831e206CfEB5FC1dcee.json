@@ -1,0 +1,8 @@
+{
+  "name": "PUBLX",
+  "symbol": "PUBLX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xD1F398d6b3e5e2387E413831e206CfEB5FC1dcee.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6762497d13d71ab4e8fd419e24b0cf3101dc00b0b7b725c972356ef85f09cbe0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "myMessage",
+  "symbol": "MESA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xB192d5fc358d35194282a1a06814ABA006198010.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8b62aa4806b24c2f1628d05b5d7f54ede763e671bd0f649156fbcddb82feea5a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "XCOPYFLIES",
+  "symbol": "FLIES",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x9D6b8b6fb293C757E05073b84A583ECFAEF8d8a7.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xef5a9b2a794577dfeda309c970161f4d3108c4c604177c18bba28ff999cdcfd1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Jointer",
+  "symbol": "JNTR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x5F2caa99fc378248AC02cbbaac27e3FA155Ed2c4.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xedb986b9eead85b79633c020f531d4c66eb674d49a6f3c84e11db50cd5c362a8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

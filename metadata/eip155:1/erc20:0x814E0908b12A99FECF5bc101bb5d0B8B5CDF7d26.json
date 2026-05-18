@@ -1,0 +1,8 @@
+{
+  "name": "Measurable Data Token",
+  "symbol": "MDT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x814E0908b12A99FECF5bc101bb5d0B8B5CDF7d26./ipfs/qmrvlywojkpu6zdheup68bpj15dgzp5jeh6ieure8xdu4i/bcd75kawgjz8stmrbb8bgh3sjvefzew1gbocy4afg6kbajdajejkkwfrq6wke9j3vakaidumb1qr3xcwejyvbsgsfa",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc49b9e664499254fb08cdb153c26f6c9ba81898746c6bcb1f0a5ea8330bcec81@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

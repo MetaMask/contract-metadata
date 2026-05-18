@@ -1,0 +1,8 @@
+{
+  "name": "Spherium",
+  "symbol": "SPHRI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x8a0cdFab62ed35B836Dc0633482798421C81b3ec./ipfs/qmu2d8dovig1ba2zoyyjtx3wrjzi74mjonpfugf1tj4ceg/sphri",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1fa54e8e603018b6a3547c81474c8d448f2576c60e24b1712abb592be7442e40@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

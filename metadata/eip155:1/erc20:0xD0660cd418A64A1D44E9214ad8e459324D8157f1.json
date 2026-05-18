@@ -1,0 +1,8 @@
+{
+  "name": "Woofy",
+  "symbol": "WOOFY",
+  "decimals": 12,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD0660cd418A64A1D44E9214ad8e459324D8157f1./ipfs/qmu9kejcxbgie1tqsc9ezjsmny8g22ct5xjbllp8kwaczd/woofy",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x32e2d66e629c12ce1512e9d04a667d2bed12376386a9ee23818de03477ab3d9b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

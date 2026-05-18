@@ -1,0 +1,8 @@
+{
+  "name": "DogeBonk",
+  "symbol": "DOBO",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xAE2DF9f730c54400934c06a17462C41C08a06ed8.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8235a39423246b62ed57f6c6aa9c89fa20a5479eb4a9d30245bdbdbb8e7a9e8f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

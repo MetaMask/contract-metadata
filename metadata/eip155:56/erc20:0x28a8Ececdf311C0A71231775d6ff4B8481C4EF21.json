@@ -1,0 +1,8 @@
+{
+  "name": "Xover",
+  "symbol": "XVR",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x28a8Ececdf311C0A71231775d6ff4B8481C4EF21.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb0fe5e0c2b57c4b991e9d6e6f4d2f18753224f7899dbf03bdb363ce9545b1710@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

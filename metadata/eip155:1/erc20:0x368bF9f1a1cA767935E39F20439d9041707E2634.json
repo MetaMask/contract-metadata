@@ -1,0 +1,8 @@
+{
+  "name": "Chainflix",
+  "symbol": "CFXT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x368bF9f1a1cA767935E39F20439d9041707E2634./ipfs/qmxqqe2kkwfoxzd3hzahy37qyo5uckeeq2bh6xpabsh443/cfxt",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9342043202150e68f5db38722936fdb0d96bad21d63b62cb6340e4598f8c363c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

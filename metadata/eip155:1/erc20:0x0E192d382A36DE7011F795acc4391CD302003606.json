@@ -1,0 +1,8 @@
+{
+  "name": "Futureswap",
+  "symbol": "FST",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0E192d382A36DE7011F795acc4391CD302003606./ipfs/qmcrayuku53r5mefth9lxf9ecjmwatu3na2xxewxefekgk/fst",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xad791dbfe640d48e8be3815dddf4c1a1128d32d1401ec66c5563f872f6951476@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

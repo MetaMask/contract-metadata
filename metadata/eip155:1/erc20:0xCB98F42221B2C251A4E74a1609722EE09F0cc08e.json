@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Inverse Dash",
+  "symbol": "iDASH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xCB98F42221B2C251A4E74a1609722EE09F0cc08e./ipfs/qmcv9svk3o7zf7rrlqeqjwdvshp5kkgbrulughhsch7z9p/idash",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x82ef94e3fd19eaea54360d54974c4605db77564315fba1eed97242bbfbfa7f3e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

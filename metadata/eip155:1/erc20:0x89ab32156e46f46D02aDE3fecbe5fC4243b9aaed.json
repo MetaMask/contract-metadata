@@ -1,0 +1,8 @@
+{
+  "name": "pNetwork",
+  "symbol": "PNT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x89ab32156e46f46D02aDE3fecbe5fC4243b9aaed./ipfs/qmtiaj6rlmqcxhnt5dmry57ckgt9spfirm4mzzdm4xcf8b/bcdvf5jdpmxely1omcfjrjdan4aytz3gogrqgggu6gms4w4baust2b41amjrmh3k5fdycgcsif9jcxryvzrjqaayxr",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd8d9cdc97949c00f4deda55cc65a1543a1363bb4e409e47ed09255c391211975@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

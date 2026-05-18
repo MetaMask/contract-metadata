@@ -1,0 +1,8 @@
+{
+  "name": "Truefeedback",
+  "symbol": "TFBX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42220/erc20:0xBDD31effb9e9f7509FEaac5b4091B31645a47e4b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x940dad2fb522296d05ee99f536a72ae86209a55330916d1a31dce87baa09b93f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

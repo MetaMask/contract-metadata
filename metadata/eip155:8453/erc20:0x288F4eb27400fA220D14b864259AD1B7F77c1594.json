@@ -1,0 +1,8 @@
+{
+  "name": "Kudai",
+  "symbol": "KUDAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x288F4eb27400fA220D14b864259AD1B7F77c1594.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8565b962cd9e2047653f76530d3077df3171efbdbbe9135659fcbad5b40db28a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

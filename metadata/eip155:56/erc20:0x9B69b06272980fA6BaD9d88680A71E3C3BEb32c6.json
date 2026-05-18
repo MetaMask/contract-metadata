@@ -1,0 +1,8 @@
+{
+  "name": "Vote-Locked MGP",
+  "symbol": "vlMGP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x9B69b06272980fA6BaD9d88680A71E3C3BEb32c6.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xabd7eb2f0b7134139f45f6507baae7e2d81377e8f4874380e13adaa889ade817@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

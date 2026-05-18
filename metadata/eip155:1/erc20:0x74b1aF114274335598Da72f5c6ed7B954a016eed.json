@@ -1,0 +1,8 @@
+{
+  "name": "HitBTC Token",
+  "symbol": "HIT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x74b1aF114274335598Da72f5c6ed7B954a016eed./ipfs/qmqhagecpsbg6kbtcrvhtfgffzxt5mkaiacfhexbowzg3t/hit",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x17b9deb823228577feffc140ab902a45530e5b9e812d2117b325fdb15ee947fd@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

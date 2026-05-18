@@ -1,0 +1,8 @@
+{
+  "name": "eZKalibur",
+  "symbol": "SWORD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x240F765af2273B0CAB6caFf2880d6D8F8B285Fa4.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5e8ceda7e9b9a8f0312097f78c57a9734e33d8f869ac8f865f725c43cb8e23ee@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

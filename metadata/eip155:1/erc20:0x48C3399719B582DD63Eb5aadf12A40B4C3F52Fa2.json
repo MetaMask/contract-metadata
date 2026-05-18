@@ -1,0 +1,8 @@
+{
+  "name": "StakeWise",
+  "symbol": "SWISE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x48C3399719B582DD63Eb5aadf12A40B4C3F52Fa2.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x660c07b4a1d2926e147ac8c540b9a87d235447268ec7dd10524ee72a1913a4fb@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

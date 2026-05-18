@@ -1,0 +1,8 @@
+{
+  "name": "Mochi Inu",
+  "symbol": "MOCHI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x60EF10edff6d600CD91caeca04cAeD2A2E605Fe5./ipfs/qmdcomynr53drpazycuu45pxrrdftxbhfsbnlx5nbqhw9v/mochi",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x745b74a354b3749bdbbfeb83f2364f3b831048ba63188033c7b5fc62d0de95ca@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

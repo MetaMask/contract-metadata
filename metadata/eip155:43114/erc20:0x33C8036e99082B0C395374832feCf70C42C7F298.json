@@ -1,0 +1,8 @@
+{
+  "name": "DeltaPrime",
+  "symbol": "PRIME",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x33C8036e99082B0C395374832feCf70C42C7F298.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x21923d44ee3db4435e268525ca749724ced0bf76775799643d4da236394227b6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

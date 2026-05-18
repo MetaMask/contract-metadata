@@ -1,0 +1,8 @@
+{
+  "name": "Polygon",
+  "symbol": "MATIC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0x0000000000000000000000000000000000001010.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xafa5641f74d813c19f524a217e2fad1e39624232e57cdad32a1ca17aae17619b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

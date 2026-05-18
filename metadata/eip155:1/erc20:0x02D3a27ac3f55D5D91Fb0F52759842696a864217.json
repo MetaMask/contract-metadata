@@ -1,0 +1,8 @@
+{
+  "name": "Charged Particles",
+  "symbol": "IONX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x02D3a27ac3f55D5D91Fb0F52759842696a864217./ipfs/qmqdzqmangmbpv9zah4h8fmk6bymvyzkqfoq9psvsru21y/ionx",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x845ce5b4dcc0daec58f6da798db66ff1db30344d4120d91335cb83e74dda3d5e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

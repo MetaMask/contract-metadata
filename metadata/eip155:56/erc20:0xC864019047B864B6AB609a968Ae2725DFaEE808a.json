@@ -1,0 +1,8 @@
+{
+  "name": "BIT",
+  "symbol": "BIT",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xC864019047B864B6AB609a968Ae2725DFaEE808a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x063ee9250dad244c9c12582169fe6c6d5dded0bdafb7bd5b8fea8a03533e785d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

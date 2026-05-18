@@ -1,0 +1,8 @@
+{
+  "name": "XDAO",
+  "symbol": "XDAO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x71EEba415A523f5C952cc2f06361D5443545ad28.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0ce653fc41d0149fa035134688e05bfd393563eda4c97e14490dc3273dcf8f4d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

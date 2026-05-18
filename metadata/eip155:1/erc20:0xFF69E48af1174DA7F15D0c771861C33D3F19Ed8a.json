@@ -1,0 +1,8 @@
+{
+  "name": "TESLA INU",
+  "symbol": "TESINU",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xFF69E48af1174DA7F15D0c771861C33D3F19Ed8a./ipfs/qmxhnjrfyxauk3adkmxg8r1kpszuzhkknkahzv2uzorb36/tesinu",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x858ff34028c726e821c6a81c05eff7a3a56a8090f1a582326c0d8394a399a68e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

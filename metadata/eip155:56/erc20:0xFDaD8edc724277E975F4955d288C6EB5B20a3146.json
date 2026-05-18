@@ -1,0 +1,8 @@
+{
+  "name": "Nulswap",
+  "symbol": "NSWAP",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xFDaD8edc724277E975F4955d288C6EB5B20a3146.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbea53de8f4a1b433db78f2af712dac119aa729b6c6c459d807ae2f4c0d61091d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

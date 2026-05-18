@@ -1,0 +1,8 @@
+{
+  "name": "Mirada AI",
+  "symbol": "MIRX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xEC12E2d7acd850FE3953d1dbf860f523914654a7.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6899bd986afb5871d5c413114c24161f8e231e48bc8f8ae14e13fbf9c615a547@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

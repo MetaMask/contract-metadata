@@ -1,0 +1,8 @@
+{
+  "name": "CFX Quantum",
+  "symbol": "CFXQ",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0557E0d15AeC0B9026DD17aa874fDf7D182a2ceb./ipfs/qmwhogbsfuyu2hzqadw1q9mi5qxwzuuhjf7ro1u8snsyhp/cfxq",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc60b90c4d0e3e7e4a5ca1c3cdbac98f89b0ecacd33eceda42f02cca831c840f5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

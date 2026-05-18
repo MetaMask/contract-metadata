@@ -1,0 +1,8 @@
+{
+  "name": "Proxeus",
+  "symbol": "XES",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA017ac5fac5941F95010b12570B812C974469c2c./ipfs/qmt8fkicubnzh4texde9mvf5thcp9ysbjjzr5ceuzbntqg/bcd7k6dckienaxcmjjigss2fyknwgk36zsz8wu9zogpfjucfguhb1uzno3xiebb56dcpdfp7a7hy4tlyyebtauhcsn",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x435c0a476c676cee7aabd20d43a50b689b19788470f6d1939aae9f68ad6c2fd1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

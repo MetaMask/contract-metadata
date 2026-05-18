@@ -1,0 +1,8 @@
+{
+  "name": "Humanscape",
+  "symbol": "HUM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x174aFe7a032B5A33A3270a9f6c30746E25708532./ipfs/qmrpcuukqjpydcqz4vezkhva89hlkzs14sz1qtwwzc9jxs/bcd3qdv4sgmvb9wqaulrjqhftdokfekwuevonuwt91epw9sl1asa6v6ywswbg2myol8sypyjrjc4bbd9kbrfkaq7wu",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa329d5e519a2342173b691f46653466ab07797751bd9c7eab46ead6ee45ea9b0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

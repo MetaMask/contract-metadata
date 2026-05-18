@@ -1,0 +1,8 @@
+{
+  "name": "CHEX",
+  "symbol": "CHEX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xC43F3ae305A92043BD9b62ebd2fe14F7547EE485.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbbccc64949544c07211bbd67a9357a59a817d211bc7ba0832849e8cb3788e30c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "API3",
+  "symbol": "API3",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0B38210ea11411557C13457d4dA7DC6EA731b88a./ipfs/qmspwfrxkwn8fvarltkb3p5oz8dthuhbxtyly65olhg4sh/api3",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x71ab988c4e3a3a4d122a717ba2430df25169abe448f87f44df857d6088417369@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

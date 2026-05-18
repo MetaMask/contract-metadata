@@ -1,0 +1,8 @@
+{
+  "name": "SHOG",
+  "symbol": "SHOG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x6a4F69da1e2fB2A9B11D1aad60d03163FE567732.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5761bca4c7f7b04beebada1d503e99b60907778b4cd5054473510cdd0f5f9797@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

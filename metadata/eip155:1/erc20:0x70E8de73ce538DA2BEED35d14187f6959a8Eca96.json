@@ -1,0 +1,8 @@
+{
+  "name": "XSGD",
+  "symbol": "XSGD",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x70E8de73ce538DA2BEED35d14187f6959a8Eca96.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xde31e2d02dfcb0b5a17e8a8e7cb2b930ffd2c83ba498fb9222dbdcc074589d6c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

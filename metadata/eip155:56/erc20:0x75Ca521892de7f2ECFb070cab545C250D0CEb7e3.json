@@ -1,0 +1,8 @@
+{
+  "name": "PVC Meta",
+  "symbol": "PVC",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x75Ca521892de7f2ECFb070cab545C250D0CEb7e3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x16ef65e021897797ecc03e824c1c898cde7e52d4fa9c9178234d13856a299e90@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

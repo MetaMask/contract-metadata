@@ -1,0 +1,8 @@
+{
+  "name": "Decentral Games",
+  "symbol": "DG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xEE06a81a695750E71a662b51066f2C74CF4478a0./ipfs/qmc49gtxgrhvckqsftqg5trnwn1bfogwzwmxc32g8jw8f6/dg",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x02c87ec824f634c343f935b57ec6cfe0d37f505f2838488cfabd18a11aeb987c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

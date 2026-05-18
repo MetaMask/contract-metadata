@@ -1,0 +1,8 @@
+{
+  "name": "LaunchBlock",
+  "symbol": "LBP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x72D6ce15f8c28BF11a651ae5d7df4BC7E31Fcd3a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc29bb3e1dde627a9c285348b3068cc7b98d4b7cd73b95d487f9b3ac5d7bcebb3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

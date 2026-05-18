@@ -1,0 +1,8 @@
+{
+  "name": "Biswap",
+  "symbol": "BSW",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x965F527d9159DCE6288a2219db51fC6EEF120dd1.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xab4d4c15d2c779a0371aa7a58987e33457f7107a3e070ffc881e0b0fec702e03@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

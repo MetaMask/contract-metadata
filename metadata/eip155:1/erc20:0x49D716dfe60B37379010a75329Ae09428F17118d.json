@@ -1,0 +1,8 @@
+{
+  "name": "Pool Dai",
+  "symbol": "plDai",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x49D716dfe60B37379010a75329Ae09428F17118d./ipfs/qmt4m5d6wgufajsa7jkhwodupalfdnzagmsatfv4jewfqz/bccz8r7xftecefraqzwjspugwodrdmywnxdourybysavfquhcxqksivnd5fcghpxxcjk29a6zywgpwepcdskqwps9m",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbac7afab8e2bf49a2fdac5cda80ff777ec9f94784f9f752d7bb550a6f88dc90c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

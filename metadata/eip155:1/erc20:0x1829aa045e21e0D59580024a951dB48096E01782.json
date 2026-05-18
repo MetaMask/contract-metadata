@@ -1,0 +1,8 @@
+{
+  "name": "FuzeX",
+  "symbol": "FXT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1829aa045e21e0D59580024a951dB48096E01782./ipfs/qmywxgbkhanejzufue1erkcazhpd5f3hclqrwt8uvmun8b/bce2et6znsmos4yapvr5nwbonpuk4aiqtvxnzzhmzjqyxi57woedc7z93tlupccf2e7ymfbhfbeacjgocgnmprde5n",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x652979feb7c190de0cc1df718cc181b099e35694bd8962752645e406a1bea65d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

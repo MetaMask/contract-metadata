@@ -1,0 +1,8 @@
+{
+  "name": "Froge Finance",
+  "symbol": "FROGE",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x29502Fe4d233ef0B45C3647101fA1252CE0634bd./ipfs/qmbcrhnzeqrwnrtxpjz7eq2cfsznmzteup6mvfiuqe4czs/froge",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9508ce8430b17a92d4e5e48a31ee651027658556b94fffef2014b2f44d274d14@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

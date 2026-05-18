@@ -1,0 +1,8 @@
+{
+  "name": "adToken",
+  "symbol": "ADT",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD0D6d6c5fe4A677D343cc433536BB717BaE167dd./ipfs/qmsvb1yl7wshuzwfdwdv6rrx2gp4c34byhpeyjvzxysjhi/bcdx1dewr8o4fxttge19dbhwhfhq247fm5ej2qrsau6cqyhndg2jzt7t728phrqva3fmvak17nlzasmwt24sbreegp",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf26dadd6e59b236d7485fa94908da16fb9ca7a027141f079225660c418c9d74b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

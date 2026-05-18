@@ -1,0 +1,8 @@
+{
+  "name": "ShapeShift FOX ",
+  "symbol": "FOX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xC770Eefad204B5180DF6a14ee197D99D808EE52d./ipfs/qmsljqkrue7qp99yefj4r5f26ybypqxhoznl8s2hspxjk4/fox",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xacc520d929a2261b399ac3ee94ed64b87ecfc3ecf54fa71da8a7d33f9f40057f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

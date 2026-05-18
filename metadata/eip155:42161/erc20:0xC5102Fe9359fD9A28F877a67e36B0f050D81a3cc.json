@@ -1,0 +1,8 @@
+{
+  "name": "Hop Protocol",
+  "symbol": "HOP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0xC5102Fe9359fD9A28F877a67e36B0f050D81a3cc.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe43852611c93742afd4ab85743fd00400f091e79947979d29710d3a66aaaff41@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "ARAW",
+  "symbol": "ARAW",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x30680ac0a8A993088223925265fd7A76BEb87e7f./ipfs/qmnzuqefcdsvx7gcrvzwc7ujkf2clrzj9attye9h3mjepz/bcd7kdgz5mcvwqekejubbmjmms7cfsloatn2y4yzknttoqy4jy7ncppjg6zar6zbmzniusk4hegudten1devmy6saf",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7f4c5c8724e505903b081628975af2742914c8c30d7aa4b229b3428dbfc1d777@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

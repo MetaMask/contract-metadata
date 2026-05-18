@@ -1,0 +1,8 @@
+{
+  "name": "Centaur",
+  "symbol": "CNTR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x03042482d64577A7BDb282260e2eA4C8A89c064b./ipfs/qmzojtucyzfduhwmxyy8du8orcg6g7qlywsgyzavtpsi1p/bcdwnkz6qvtkhnc5bfsz6yamfgdjosm6qtpuxgtpfysxfugpj5w3wm1yushxvig2yvsj5jpbena4xbrnh3znazm8d2",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfed5deae1e97baf3c67e1f22fd6b12812691641f84cd0bdfc0f4d1768862dc04@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

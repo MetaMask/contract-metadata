@@ -1,0 +1,8 @@
+{
+  "name": "Blockparty",
+  "symbol": "BOXX",
+  "decimals": 15,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x780116d91e5592E58a3b3c76a351571B39abcec6./ipfs/qmbar9kkm3nqckqnskvtj9tryljmdpxwrwmavmrz6wsd5z/bcdybznbefekn5afzaidas2lm2a1pycbjbjdv6wkm4rzpxhmnxd8f8uaed8va7duwaqifna2szzfvntbs96qtknzfr",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xcee48050b4a42317e9c91bd57cea55dc68e91f8da2f69b98667bf087ade48b31@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

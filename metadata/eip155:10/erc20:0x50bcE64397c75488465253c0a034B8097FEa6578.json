@@ -1,0 +1,8 @@
+{
+  "name": "HanChain",
+  "symbol": "HAN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:10/erc20:0x50bcE64397c75488465253c0a034B8097FEa6578.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9387f9a0f3c3a776ac49cf48a7451cedc7ebccdc8704292e5d65b2fefb69149e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

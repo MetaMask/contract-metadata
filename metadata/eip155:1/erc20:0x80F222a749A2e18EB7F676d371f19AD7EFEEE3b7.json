@@ -1,0 +1,8 @@
+{
+  "name": "Magnolia",
+  "symbol": "MGN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x80F222a749A2e18EB7F676d371f19AD7EFEEE3b7./ipfs/qmsvhaxgmw8jfraq3pvuwnwezxzlusx8glen5weuiyrsi1/bcd5xoqqt9fvsfxu98hvtc3jquntaa52rwqmiidm6dgvmspxy7fuo9cvv5fphk19etvhwxuhpttetjrn6d6metj1yg",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xda9050a2adb4fcf4c7a5264b9012079dddb4fb65dae640d26206e26df36a87b6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

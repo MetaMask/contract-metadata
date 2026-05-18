@@ -1,0 +1,8 @@
+{
+  "name": "BitCone",
+  "symbol": "CONE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0xBa777ae3a3c91fCD83EF85bfe65410592BDD0F7c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1c0aa4ee976292f1549bff86d17da034dddc606e954c8730f4779475a362dec5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

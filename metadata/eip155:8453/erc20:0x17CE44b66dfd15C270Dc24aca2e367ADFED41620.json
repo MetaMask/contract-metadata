@@ -1,0 +1,8 @@
+{
+  "name": "BEMU",
+  "symbol": "BEMU",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x17CE44b66dfd15C270Dc24aca2e367ADFED41620.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4fb6be48cbdf5154deb79c1103fbecec05741af3814d5ae3cfa1c9a734b5e664@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

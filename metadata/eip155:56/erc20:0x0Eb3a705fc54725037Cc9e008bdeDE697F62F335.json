@@ -1,0 +1,8 @@
+{
+  "name": "Cosmos",
+  "symbol": "ATOM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x0Eb3a705fc54725037Cc9e008bdeDE697F62F335.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4d0dc88cc30170b97ff19fdfb2cbc909e993298e24a286c10e7ef4a0084912d6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

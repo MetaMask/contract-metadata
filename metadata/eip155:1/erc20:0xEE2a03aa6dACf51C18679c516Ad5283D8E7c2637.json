@@ -1,0 +1,8 @@
+{
+  "name": "Neiro",
+  "symbol": "NEIRO",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xEE2a03aa6dACf51C18679c516Ad5283D8E7c2637.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb3e7042df5acbd256f7225c0ae2369e8671aff184c3a396bc786e79df6a721c0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

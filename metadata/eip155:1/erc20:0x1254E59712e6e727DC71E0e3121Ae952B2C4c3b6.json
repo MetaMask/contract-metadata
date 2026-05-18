@@ -1,0 +1,8 @@
+{
+  "name": "Marginless",
+  "symbol": "MRS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1254E59712e6e727DC71E0e3121Ae952B2C4c3b6./ipfs/qmsyvnhu9cwxqqjfnasqt272qbg5mcz2ydyivu1fk7lbvq/bcd3e2qj2wnr9zqlgayhupcd6rb9w6drc2kym7tjb7haaw5hwzquhbvdrg8gkh5nlzy6vg8aut7ykfdzfg4clcq6zt",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x51d159420f2a8348ef672e880b65d7f78ad3a84b47669af7028ffc6123ee2251@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

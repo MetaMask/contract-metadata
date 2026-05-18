@@ -1,0 +1,8 @@
+{
+  "name": "Rootkit",
+  "symbol": "ROOT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xCB5F72d37685C3D5AD0bb5f982443BC8FCDF570e./ipfs/qmy8p1yezcads9rgik8li4gsef23wbjtqd2ghtdziueztb/root",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1a462c2552c8fbc9cde7aa30a5c0ed7c653511193a63eb64e4b829ee28464129@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

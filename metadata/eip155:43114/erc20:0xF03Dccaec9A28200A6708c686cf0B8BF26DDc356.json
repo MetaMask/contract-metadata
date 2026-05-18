@@ -1,0 +1,8 @@
+{
+  "name": "YDragon",
+  "symbol": "YDR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xF03Dccaec9A28200A6708c686cf0B8BF26DDc356.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc32d2b6e236a36b165db7e1c1d848118a61b3f089c5eb4943ad7f333a7c30bbe@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

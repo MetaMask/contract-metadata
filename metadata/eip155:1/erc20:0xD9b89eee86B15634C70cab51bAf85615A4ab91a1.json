@@ -1,0 +1,8 @@
+{
+  "name": "Locklet",
+  "symbol": "LKT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD9b89eee86B15634C70cab51bAf85615A4ab91a1./ipfs/qmperghdatdtvapehtp8cgdrmmgcbs5stzfyoh33btjxwt/lkt",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x05e8fda8fec65430870dc12174f22dbab98600d468af2b27194ba30f495aeca4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

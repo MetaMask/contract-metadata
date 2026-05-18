@@ -1,0 +1,8 @@
+{
+  "name": "Fulcrum REP iToken",
+  "symbol": "iREP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xBD56E9477fc6997609CF45f84795efBDAC642Ff1./ipfs/qmcmu8wtvvjtymwk1z9dinscv61j7t8sgunbmetk6mldex/irep",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8704e0afd1cfaec2daf09bd6adbe22bf895f973a28db8fa3fbedf1d07b7f7824@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

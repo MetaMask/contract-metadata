@@ -1,0 +1,8 @@
+{
+  "name": "Bitpanda Ecosystem Token",
+  "symbol": "BEST",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1B073382e63411E3BCFFE90ac1B9A43FEFa1Ec6f./ipfs/qmvzmvbrtp2ow3z5ba97d8usdwvsjqwb4xuzw9jmkmosje/bcd2uzbkfvy8beos1xzf5rxxpr8loh3stcr74yjeq83z24n6qqkmdbhztubwtbk6uppcd2qvhawawpruecofvlmtly",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2789676e8020d21226da1e82a06a9523199ea0227dd40f28e51784542c5b3f14@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

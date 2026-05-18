@@ -1,0 +1,8 @@
+{
+  "name": "New World Order",
+  "symbol": "STATE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x00C2999c8b2ADf4ABC835cc63209533973718eb1./ipfs/qmytzzwbzbehm2dpswnmmhr7aakwm2djkwykepspmbhbvp/state",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2c3c91df901b4267c873fe15ec3c0ca6fd81ba7c8acd1ff7e7644b1a2fa69c4f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

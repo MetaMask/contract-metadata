@@ -1,0 +1,8 @@
+{
+  "name": "Meh",
+  "symbol": "MEH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xA999542c71feBBA77602Fbc2f784BA9BA0C850f6.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa49ba4887f9cc503aeb71c770679a920ecf7b0bdbe4d752d2b87940fc6abd175@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

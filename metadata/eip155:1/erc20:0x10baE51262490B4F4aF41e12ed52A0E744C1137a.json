@@ -1,0 +1,8 @@
+{
+  "name": "Soft Link",
+  "symbol": "SLINK",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x10baE51262490B4F4aF41e12ed52A0E744C1137a./ipfs/qmc6yuwnj9w7bphbekggbfanpnoajmegba8fht1t1ke62f/bcdxxru9nsbpfnvcjcpkczskhh7dehgb5u2ycw1su4wgobvwn1plxwawv4y89fn8bphlbxlwzvpgrkn2rn4jgu2gtx",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe692415e3d870e4a62d73f65e90d5b28ae3d619f599013dd1cdbe75ae4d3b5f7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

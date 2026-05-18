@@ -1,0 +1,8 @@
+{
+  "name": "Joe Coin",
+  "symbol": "JOE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x76E222b07c53D28B89b0bac18602810FC22b49a8.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7fb944a355413462faa2c288e65d0afe22178d044bcd7bfe915f02cf7617cb7d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

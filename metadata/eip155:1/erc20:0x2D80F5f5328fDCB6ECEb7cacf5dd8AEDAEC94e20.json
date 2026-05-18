@@ -1,0 +1,8 @@
+{
+  "name": "AGA Token",
+  "symbol": "AGA",
+  "decimals": 4,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x2D80F5f5328fDCB6ECEb7cacf5dd8AEDAEC94e20./ipfs/qmnndnvfdtnxh7bplafevxjvoiapkqvxgdbjaju6hhfyeb/bcd4z7b45sjrwhiongqsd9yavnz3ngnvudjpqvrcqxoxfcz3wi4icelowxjpekgxk7hajpeypjkyqzfkwaeahhjskm",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x54481bfc32254d94eae38a8a890e21784a584102a154dc555f436b96d534c323@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "ZSHARE",
+  "symbol": "ZSHARE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xEE3ad70247c42B80D4b46572b920f5D09D893Fcf.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x842fac121562d57340331a3cfeca98b1b87ba9b3f008418d3fc155c42f2a3488@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

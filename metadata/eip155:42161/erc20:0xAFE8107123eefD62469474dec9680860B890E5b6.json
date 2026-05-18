@@ -1,0 +1,8 @@
+{
+  "name": "Oil",
+  "symbol": "OIL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0xAFE8107123eefD62469474dec9680860B890E5b6.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xac7891015b6478f99454dcddf184ce0dc62e30276e2f56ad9df9ee7ca970ff5e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

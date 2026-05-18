@@ -1,0 +1,8 @@
+{
+  "name": "Aurora DAO",
+  "symbol": "AURA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xCDCFc0f66c522fD086a1b725eA3C0EEB9F9E8814./ipfs/qmavw3jdvwfzvtkzq8drurcj2bpb5pabnjq7pwsxxcyk2e/bcd76dqq44motqxvbpgjvexa2tjyztwwpct4bpykzak2digenr7vp1ixvxq3fm8fogblmtmsgjqgdklpeqeqxru19a",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6f500d7e411eeceea78ff43205350d33101afd2b0b94cf8390f77a920fbfca14@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

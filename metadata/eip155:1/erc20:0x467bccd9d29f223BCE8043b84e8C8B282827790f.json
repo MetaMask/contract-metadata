@@ -1,0 +1,8 @@
+{
+  "name": "Telcoin",
+  "symbol": "TEL",
+  "decimals": 2,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x467bccd9d29f223BCE8043b84e8C8B282827790f./ipfs/qmnpejfmslykogpyypmcpceakoi12qdwltevfnun1bhpxc/tel",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa056b19ee5741a6f61dd1f6351b2e39acb714a2c986fdd302975855cced1b7ac@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

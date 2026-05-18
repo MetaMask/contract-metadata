@@ -1,0 +1,8 @@
+{
+  "name": "VIO",
+  "symbol": "VIO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x86DD3002bf215082Ea43b0bd2fd595ECE4341880./ipfs/qmydxzwdhfexm7fvll1fpyfzvvzdhzgnnblingdzzxrfmq/vio",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x445168930cbe6d38a567cfa14bf0c59eae9744276854ec3d7d0e78e430e2caa7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

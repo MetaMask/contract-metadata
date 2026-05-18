@@ -1,0 +1,8 @@
+{
+  "name": "Rewards",
+  "symbol": "RWD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD80F72a6558eC337E0D4cF76b8752B17Fa770860./ipfs/qma9erqj5v56smkcwr7j5pvqpw88hxtmxs1gqrjj1pddux/rwd",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb83caaaf785e25b55cfe023d0fd1c42dffe75c5b57fbc33dc3dce064e8a37cf0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Cyber",
+  "symbol": "CYBER",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:10/erc20:0x14778860e937f509E651192a90589DE711Fb88a9.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x16ec2fe56058baec8f696fd31b39ad28e69f93911ac6dd53caed4f3b71d4bf25@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

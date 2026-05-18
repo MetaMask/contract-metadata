@@ -1,0 +1,8 @@
+{
+  "name": "CRYCASH",
+  "symbol": "CRC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF41E5Fbc2f6AAC200DD8619e121Ce1F05D150077.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf0040dd8c0705b7b8a7d551310efe76b8890ee31ad5f339d6eea1027471de870@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

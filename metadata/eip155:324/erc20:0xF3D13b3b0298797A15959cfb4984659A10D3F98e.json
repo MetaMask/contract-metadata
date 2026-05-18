@@ -1,0 +1,8 @@
+{
+  "name": "XRAISE",
+  "symbol": "RAISE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xF3D13b3b0298797A15959cfb4984659A10D3F98e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3a21978217e97a7b026d1738f6e55278cef7f2fde4a7212f1a8b12b02a62c85c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

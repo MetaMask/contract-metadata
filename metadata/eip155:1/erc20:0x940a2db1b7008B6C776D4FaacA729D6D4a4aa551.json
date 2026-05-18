@@ -1,0 +1,8 @@
+{
+  "name": "Dusk",
+  "symbol": "DUSK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x940a2db1b7008B6C776D4FaacA729D6D4a4aa551.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0714398bc96b20067ceee6c07152c03061ef2ffab1dff38fd2945aa6cc5cf99d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Ondo US Dollar Yield",
+  "symbol": "USDY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x96F6EF951840721ADBF46ac996B59E0235Cb985c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6439cdc5da91168ae7b814795ddb4071e49768735dc030faf7b5c1cd58556d53@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

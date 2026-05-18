@@ -1,0 +1,8 @@
+{
+  "name": "Zilliqa",
+  "symbol": "ZIL",
+  "decimals": 12,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xB86abcb37c3A4B64F74F59301Aff131A1BEcc787.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe1c0ec7ed87a853ea11042fe183de901193eb9b395ba5e085a61b549609ef5cc@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

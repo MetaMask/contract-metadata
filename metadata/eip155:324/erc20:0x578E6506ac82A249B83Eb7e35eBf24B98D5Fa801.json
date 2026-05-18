@@ -1,0 +1,8 @@
+{
+  "name": "Enjin Coin",
+  "symbol": "ENJ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x578E6506ac82A249B83Eb7e35eBf24B98D5Fa801.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9bf7af7a472c337a856a586a1239598c8fed7767490b54ada883ef687169bf0e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

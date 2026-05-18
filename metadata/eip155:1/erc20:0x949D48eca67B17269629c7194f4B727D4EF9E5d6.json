@@ -1,0 +1,8 @@
+{
+  "name": "Merit Circle",
+  "symbol": "MC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x949D48eca67B17269629c7194f4B727D4EF9E5d6./ipfs/qmdkqbgfapimapukswlkdbtumksmruqbtgsf9fcjeuw4qc/mc",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x56aefa7fef4108cd01bc0001f3a7daf6b2e41f5b936420367dcbcab3d1183003@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

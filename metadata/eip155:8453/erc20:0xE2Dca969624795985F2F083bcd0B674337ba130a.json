@@ -1,0 +1,8 @@
+{
+  "name": "Saakuru",
+  "symbol": "SKR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xE2Dca969624795985F2F083bcd0B674337ba130a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x336d13f21947ced005a542c125cdd33129ccacd86b77bfd5588b547e0deb95e4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

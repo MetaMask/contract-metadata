@@ -1,0 +1,8 @@
+{
+  "name": "Injective",
+  "symbol": "INJ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xC17F02bd7f44A840A39ab41cf89AA831FE3F8a18.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xddc45d7c7b72166beddf1b65b1f5a002d9fd3952b05050db1a5f5aa01339c001@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

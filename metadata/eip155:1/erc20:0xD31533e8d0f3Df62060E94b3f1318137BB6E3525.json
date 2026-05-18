@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Ren",
+  "symbol": "sREN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD31533e8d0f3Df62060E94b3f1318137BB6E3525./ipfs/qms2cnypxnwmrfvu4kp7yve4cjlbumnz52dis7eym1zdat/sren",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x156ed784c0cc0208d5012fff6dc9be95df61d55e347ec0e3e27dd71e34b86731@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

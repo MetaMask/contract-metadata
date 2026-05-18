@@ -1,0 +1,8 @@
+{
+  "name": "Fetch.ai",
+  "symbol": "FET",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x031b41e504677879370E9dbcf937283A8691Fa7f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7f1d19ddff7c85ad607193883917fa71ca01c8c42fb85048c6e91cb905edd8f6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

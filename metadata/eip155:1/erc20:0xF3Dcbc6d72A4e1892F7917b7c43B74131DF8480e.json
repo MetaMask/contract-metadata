@@ -1,0 +1,8 @@
+{
+  "name": "Big Data Protocol",
+  "symbol": "BDP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF3Dcbc6d72A4e1892F7917b7c43B74131DF8480e./ipfs/qmusef48zx1y9m5h2sss85c9pzyvghng81wxypnvn6ypr7/bdp",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5b47a794b5ac0478ca1651a78230d0ea245286b7c87a53f339deac4fe17c7540@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

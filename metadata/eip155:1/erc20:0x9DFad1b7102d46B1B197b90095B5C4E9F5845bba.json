@@ -1,0 +1,8 @@
+{
+  "name": "Botto",
+  "symbol": "BOTTO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9DFad1b7102d46B1B197b90095B5C4E9F5845bba.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x56040508e111810e77b1a33eb05020ebee71cb03879e3754d5f685921bafe599@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Inverse Ren",
+  "symbol": "iREN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0FED38108bdB8E62EF7b5680e8e0726E2F29E0de./ipfs/qmetwb5wnp47w67zwrzmzzgrsutocvfbomosyaxjo8zddd/iren",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7fbc04cf34f2ab5f7d6bb669803794992a0dc7b71492538d5f0554aea6b6d883@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "UpToken",
+  "symbol": "UP",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x6Ba460ab75cd2C56343b3517ffeBA60748654d26./ipfs/qmqfqvlwjougvrxtnazgj9pypjbstrwmuk1tghbcutduvp/bcd5vhxjrzfwhfd9zttvn4gurzandmwuepsr5snjdjgknpz33twsk2ue4p6ejzdvtqhbksqrunuliqwadsmt9ydghm",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfe5e99e5766e5604fec757ffaca071f7d9d56f3f01dcf720e4a53d1ad32e49ce@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

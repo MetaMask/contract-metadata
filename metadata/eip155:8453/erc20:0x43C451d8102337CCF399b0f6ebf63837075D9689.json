@@ -1,0 +1,8 @@
+{
+  "name": "AI VERTEX by Virtuals",
+  "symbol": "VERTEX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x43C451d8102337CCF399b0f6ebf63837075D9689.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x28febb66b51e3b8afcf5b0731adae184222ca1df763a8e77833ce5ef63f8d2f2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

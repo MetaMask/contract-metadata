@@ -1,0 +1,8 @@
+{
+  "name": "DAO Maker",
+  "symbol": "DAO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0F51bb10119727A7E5Ea3538074fB341F56b09ad.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x14d3027da76418fea9a05af84d4c85716184a63f9c2a20f983f1145869128a04@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "ALBERT",
+  "symbol": "ALBERT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x885c3a3a4998f0B5AC367a46217e68A200737a32.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7891e06bfb765893bd9023168faabe1bf077e2a027dfa9bfc810196153f5efba@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

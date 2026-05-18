@@ -1,0 +1,8 @@
+{
+  "name": "TrueUSD",
+  "symbol": "TUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x40aF3827f39d0EACBF4a168f8d4ee67C121D11c9.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x805ebbc0b3aaef9748f286dba9fc9a72aa84a03f4d2b84f21440b938be4a55ac@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

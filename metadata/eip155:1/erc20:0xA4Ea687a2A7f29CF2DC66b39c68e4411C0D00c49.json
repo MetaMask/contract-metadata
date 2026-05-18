@@ -1,0 +1,8 @@
+{
+  "name": "Ivy",
+  "symbol": "IVY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA4Ea687a2A7f29CF2DC66b39c68e4411C0D00c49./ipfs/qmb97cy2gx8dc4mcerldrdwqz6j4dhpbt72bvitgyyeszq/bccwqkkguqcete5jiitdlitgbppyclh8xyve1pqrh4yhp1esvh51huqmebwa93meec7ha64w5jekxawpqvpuxzy1za",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd5c01e238a1a784fd25b88ae1a5920df3f83e0141c4a149b0c8c49cae6fb048e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

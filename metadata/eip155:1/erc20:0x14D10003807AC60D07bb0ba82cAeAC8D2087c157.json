@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Inverse DeFi Index",
+  "symbol": "iDEFI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x14D10003807AC60D07bb0ba82cAeAC8D2087c157./ipfs/qmari934movnhfgl2hxvxbevvdehhukwvveiyh3rmbmrpl/idefi",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfc6737e14203c024678dbf2803d120f3593a7b799ac5c0e7c0c18d2022a12e49@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

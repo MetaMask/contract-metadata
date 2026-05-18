@@ -1,0 +1,8 @@
+{
+  "name": "Baby Pepe",
+  "symbol": "BABYPEPE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x36692131ccc0A478E26b3a1adA6447D95F79dF21.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbde3e0c48ead6df209439207ef76592abebd67f164bdd92680d17975e33df6ff@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Executive Token",
+  "symbol": "EXEC",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x63F3b021b40A54D5A612b8dc3c0ff7DFA7Da476d./ipfs/qmrbsdfqetjo3dxz8jnti8w2u8n2yj4cdwygrwjbganpxs/exec",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4e75c603217a5322001f9a46b1d3e1e6a2921645f13d01999172503801a3bb91@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "SunContract",
+  "symbol": "SNC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF4134146af2d511DD5Ea8cdb1c4AC88C57D60404./ipfs/qmsdmjjf2ame6cmvzhc1tikohyitgmbxfroeewmw3akkik/bcdybrdlq7b5eavqqiu2bffadacxbutjxeviygzv81ouhuktuh74cbjatmfu7euynjga8qa5y2gbis9kxdhywlwc8z",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x00a8f35aa927acbddac9184dd21024dbfb335afc9f1f5eb257165e714b57ba10@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

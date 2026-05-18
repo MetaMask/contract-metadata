@@ -1,0 +1,8 @@
+{
+  "name": "Meta Apes PEEL",
+  "symbol": "PEEL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x734548a9e43d2D564600b1b2ed5Be9C2B911c6ab.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3ae4098a544469751624ed92758ea52c0364071e341ce552c676247868661079@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

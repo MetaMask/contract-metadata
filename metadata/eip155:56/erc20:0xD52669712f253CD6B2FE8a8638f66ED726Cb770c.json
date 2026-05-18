@@ -1,0 +1,8 @@
+{
+  "name": "Curate",
+  "symbol": "XCUR",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xD52669712f253CD6B2FE8a8638f66ED726Cb770c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x35e922f8dad1c224539f1a56ebcf87425ea261ad3740c674a119fa8294f2bf4b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

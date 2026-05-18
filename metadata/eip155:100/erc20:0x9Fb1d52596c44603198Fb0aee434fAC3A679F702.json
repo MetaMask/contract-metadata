@@ -1,0 +1,8 @@
+{
+  "name": "Jarvis Synthetic Euro",
+  "symbol": "jEUR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:100/erc20:0x9Fb1d52596c44603198Fb0aee434fAC3A679F702.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3404786dc4d7dd09643094bb6545205998ddb46b9af34bc987398fd35df60a9f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

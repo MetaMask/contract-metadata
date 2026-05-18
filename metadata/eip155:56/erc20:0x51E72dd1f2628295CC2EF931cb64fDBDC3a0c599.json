@@ -1,0 +1,8 @@
+{
+  "name": "Kaspa",
+  "symbol": "KAS",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x51E72dd1f2628295CC2EF931cb64fDBDC3a0c599.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc25cfa185adf28f08f4c6d7dece09e160a2be107225b2dd661cad6aa0aa37226@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

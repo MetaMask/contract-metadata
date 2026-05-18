@@ -1,0 +1,8 @@
+{
+  "name": "Realfinance Network",
+  "symbol": "REFI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x641a6dc991A49f7BE9FE3c72c5d0fBB223EDb12f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xcf559f5840cc7dbd08c719d8620da2d5bbce5e8cc9f7c8857c56fe6b6e71861d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

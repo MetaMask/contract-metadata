@@ -1,0 +1,8 @@
+{
+  "name": "CoinPoker",
+  "symbol": "CHP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF3Db7560e820834658b590c96234C333CD3D5e5e./ipfs/qmwdtdfmmwoawv4qkvwkfjhrdyjx94gfwy33rxqiyacq8g/bcd3e2umyekuttcrqmx4sgd14tbjn7pmhaaunnpavf9yebdkhojbkrh2xzsrrrsykdxwgzlswwbtlwntzzkp47edtt",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x43c6dec8b5cbfc8703e3d5aad5be8f4e051b51400417d2612cac95104c63f6bb@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

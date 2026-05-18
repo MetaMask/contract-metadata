@@ -1,0 +1,8 @@
+{
+  "name": "Degenerate SQuiD by Virtuals",
+  "symbol": "SQDGN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x4674F73545f1DB4036250Ff8c33A39AD1678d864.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2bd2d0eff732211c10b91d39d6f90a1dd56dbac5e3ee21af2551c25fc42d4304@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

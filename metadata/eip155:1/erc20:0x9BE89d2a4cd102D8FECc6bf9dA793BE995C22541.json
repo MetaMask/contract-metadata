@@ -1,0 +1,8 @@
+{
+  "name": "Binance Wrapped BTC",
+  "symbol": "BBTC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9BE89d2a4cd102D8FECc6bf9dA793BE995C22541./ipfs/qmq5iehi8p1eg5raccw9pbf6ddhkdne3hvxy456tgmy84b/bbtc",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9bd07427fcfc5fc426831bfd58350c17afd8f9fdf81e82e0cf07ac4cdba7762b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

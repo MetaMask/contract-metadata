@@ -1,0 +1,8 @@
+{
+  "name": "Autonio",
+  "symbol": "NIOX",
+  "decimals": 4,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xC813Ea5e3b48BEBEEDb796ab42A30C5599b01740./ipfs/qmqshyays4lwxntgt9tpaemiftdjvfnw91cbeoh9hehcju/bcdz8kxjasswm8hh1v3nktfqpd8x9ncz2c4dknzxbbkryma32a2n8ze8gk3exlsd2v7ffnbfz9rjmjp9p8zhspznkv",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7f806b37ab469781b0fa77c6197efc5629884448d78a015bde89d094acfa97ff@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

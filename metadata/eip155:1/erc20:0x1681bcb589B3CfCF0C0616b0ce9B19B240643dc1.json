@@ -1,0 +1,8 @@
+{
+  "name": "Island",
+  "symbol": "ISLE",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1681bcb589B3CfCF0C0616b0ce9B19B240643dc1./ipfs/qmtqx8prbemjyvjqv3uoazfqz4uqduu2nhrbkkjfuvfra4/isle",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa7166b6acebcc41b52138f294956ca7397343a35352c54ff0cd435700fdda3b4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

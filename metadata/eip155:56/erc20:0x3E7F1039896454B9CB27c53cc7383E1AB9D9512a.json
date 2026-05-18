@@ -1,0 +1,8 @@
+{
+  "name": "MetFi",
+  "symbol": "METFI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x3E7F1039896454B9CB27c53cc7383E1AB9D9512a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd6c1984b71a09c6067c3aa41b56ea187d908e62575f4d76ba78f11a58f6df754@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}
