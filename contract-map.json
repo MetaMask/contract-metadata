@@ -3529,6 +3529,13 @@
     "logo": "vsp.svg",
     "erc20": true,
     "symbol": "VSP",
+    "decimals": 18    
+  },
+  "0x86772b1409b61c639EaAc9Ba0AcfBb6E238e5F83": {
+    "name": "Indexed Finance",
+    "logo": "NDX.svg",
+    "erc20": true,
+    "symbol": "NDX",
     "decimals": 18
   },
   "0x544c42fBB96B39B21DF61cf322b5EDC285EE7429": {
