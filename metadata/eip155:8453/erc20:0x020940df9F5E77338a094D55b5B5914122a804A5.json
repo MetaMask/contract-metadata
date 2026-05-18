@@ -1,0 +1,7 @@
+{
+  "name": "Redbelly Network",
+  "symbol": "RBNT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x020940df9F5E77338a094D55b5B5914122a804A5.svg"
+}
