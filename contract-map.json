@@ -4518,7 +4518,7 @@
     "decimals": 18
   },
   "0x73D7C860998Ca3c01ce8C808f5577D94d545D1b4": {
-    "name": "IXS",
+    "name": "IXS Token",
     "logo": "ixs.svg",
     "erc20": true,
     "decimals": 18,
