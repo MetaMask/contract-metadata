@@ -1,5 +1,7 @@
 {
-  "labels": [
-    "ondo"
-  ]
+    "labels": [
+        "ondo",
+        "category:rwa:corporate-credit",
+        "provider:2"
+    ]
 }
