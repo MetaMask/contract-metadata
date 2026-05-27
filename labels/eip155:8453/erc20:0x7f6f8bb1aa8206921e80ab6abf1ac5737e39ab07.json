@@ -1,6 +1,6 @@
 {
     "labels": [
-        "category:privacy",
-        "provider:1"
+        "balance_grouping:privacy",
+        "balance_grouping_provider:1"
     ]
 }

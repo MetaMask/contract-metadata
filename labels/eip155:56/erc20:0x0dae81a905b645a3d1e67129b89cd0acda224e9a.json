@@ -1,7 +1,7 @@
 {
     "labels": [
         "ondo",
-        "category:rwa:corporate-credit",
-        "provider:2"
+        "balance_grouping:rwa:corporate-credit",
+        "balance_grouping_provider:2"
     ]
 }

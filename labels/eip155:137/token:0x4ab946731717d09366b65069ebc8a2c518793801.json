@@ -1,6 +1,6 @@
 {
     "labels": [
-        "category:rwa:private-equity",
-        "provider:2"
+        "balance_grouping:rwa:private-equity",
+        "balance_grouping_provider:2"
     ]
 }

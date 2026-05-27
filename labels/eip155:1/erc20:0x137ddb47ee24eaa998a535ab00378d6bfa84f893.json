@@ -1,6 +1,6 @@
 {
     "labels": [
-        "category:defi:lending",
-        "provider:1"
+        "balance_grouping:defi:lending",
+        "balance_grouping_provider:1"
     ]
 }

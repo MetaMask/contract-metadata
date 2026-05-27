@@ -1,6 +1,6 @@
 {
     "labels": [
-        "category:rwa:us-treasury-debt",
-        "provider:2"
+        "balance_grouping:rwa:us-treasury-debt",
+        "balance_grouping_provider:2"
     ]
 }

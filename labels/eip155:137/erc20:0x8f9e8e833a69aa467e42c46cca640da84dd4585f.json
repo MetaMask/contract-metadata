@@ -1,6 +1,6 @@
 {
     "labels": [
-        "category:ai-and-gamefi:gamefi",
-        "provider:1"
+        "balance_grouping:ai-and-gamefi:gamefi",
+        "balance_grouping_provider:1"
     ]
 }

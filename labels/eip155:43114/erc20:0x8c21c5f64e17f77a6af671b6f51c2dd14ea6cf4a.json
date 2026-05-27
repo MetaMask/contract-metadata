@@ -1,6 +1,6 @@
 {
     "labels": [
-        "category:rwa:specialty-finance",
-        "provider:2"
+        "balance_grouping:rwa:specialty-finance",
+        "balance_grouping_provider:2"
     ]
 }

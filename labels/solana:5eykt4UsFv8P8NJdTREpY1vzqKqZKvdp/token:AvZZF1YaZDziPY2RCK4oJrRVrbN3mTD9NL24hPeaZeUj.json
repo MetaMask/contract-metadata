@@ -1,6 +1,6 @@
 {
     "labels": [
-        "category:rwa:asset-backed-credit",
-        "provider:2"
+        "balance_grouping:rwa:asset-backed-credit",
+        "balance_grouping_provider:2"
     ]
 }

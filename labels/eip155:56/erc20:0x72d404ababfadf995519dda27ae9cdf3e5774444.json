@@ -1,6 +1,6 @@
 {
     "labels": [
-        "category:memes",
-        "provider:1"
+        "balance_grouping:memes",
+        "balance_grouping_provider:1"
     ]
 }

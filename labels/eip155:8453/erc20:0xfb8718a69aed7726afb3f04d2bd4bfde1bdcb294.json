@@ -1,6 +1,6 @@
 {
     "labels": [
-        "category:stablecoin",
-        "provider:1"
+        "balance_grouping:stablecoin",
+        "balance_grouping_provider:1"
     ]
 }

@@ -1,7 +1,7 @@
 {
     "labels": [
         "ondo",
-        "category:rwa:diversified-credit",
-        "provider:2"
+        "balance_grouping:rwa:diversified-credit",
+        "balance_grouping_provider:2"
     ]
 }

@@ -1,6 +1,6 @@
 {
     "labels": [
-        "category:rwa:stocks",
-        "provider:2"
+        "balance_grouping:rwa:stocks",
+        "balance_grouping_provider:2"
     ]
 }

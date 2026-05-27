@@ -1,6 +1,6 @@
 {
     "labels": [
-        "provider:1",
-        "category:defi:staking"
+        "balance_grouping_provider:1",
+        "balance_grouping:defi:staking"
     ]
 }

@@ -1,6 +1,6 @@
 {
     "labels": [
-        "category:rwa:venture-capital",
-        "provider:2"
+        "balance_grouping:rwa:venture-capital",
+        "balance_grouping_provider:2"
     ]
 }

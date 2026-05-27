@@ -1,6 +1,6 @@
 {
     "labels": [
-        "provider:1",
-        "category:memes:dog-themed-coins"
+        "balance_grouping_provider:1",
+        "balance_grouping:memes:dog-themed-coins"
     ]
 }

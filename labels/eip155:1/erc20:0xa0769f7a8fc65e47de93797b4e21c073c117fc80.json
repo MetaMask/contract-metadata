@@ -1,6 +1,6 @@
 {
     "labels": [
-        "category:rwa:non-us-government-debt",
-        "provider:2"
+        "balance_grouping:rwa:non-us-government-debt",
+        "balance_grouping_provider:2"
     ]
 }

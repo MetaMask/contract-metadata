@@ -1,6 +1,6 @@
 {
     "labels": [
-        "category:rwa:active-strategies",
-        "provider:2"
+        "balance_grouping:rwa:active-strategies",
+        "balance_grouping_provider:2"
     ]
 }

@@ -1,6 +1,6 @@
 {
     "labels": [
-        "category:rwa:real-estate",
-        "provider:2"
+        "balance_grouping:rwa:real-estate",
+        "balance_grouping_provider:2"
     ]
 }

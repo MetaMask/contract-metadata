@@ -1,6 +1,6 @@
 {
     "labels": [
-        "provider:1",
-        "category:defi:dex"
+        "balance_grouping_provider:1",
+        "balance_grouping:defi:dex"
     ]
 }

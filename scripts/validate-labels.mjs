@@ -2,9 +2,9 @@
 
 /**
  * Validates label files:
- * 1. Every file with a "category:" label must also have a "provider:" label.
- * 2. Each asset_id (filename stem) must have at most 1 "category:" label.
- * 3. Each asset_id (filename stem) must have at most 1 "provider:" label.
+ * 1. Every file with a "balance_grouping:" label must also have a "balance_grouping_provider:" label.
+ * 2. Each asset_id (filename stem) must have at most 1 "balance_grouping:" label.
+ * 3. Each asset_id (filename stem) must have at most 1 "balance_grouping_provider:" label.
  *
  * Usage:
  *   node scripts/validate-labels.mjs
@@ -41,13 +41,13 @@ async function validate() {
       }
 
       const labels = data.labels || [];
-      const categories = labels.filter((l) => l.startsWith('category:'));
-      const providers = labels.filter((l) => l.startsWith('provider:'));
+      const categories = labels.filter((l) => l.startsWith('balance_grouping:'));
+      const providers = labels.filter((l) => l.startsWith('balance_grouping_provider:'));
 
       // Rule 1: category requires provider
       if (categories.length > 0 && providers.length === 0) {
         errors.push(
-          `${relativePath}: has category label(s) [${categories.join(', ')}] but no provider: label`,
+          `${relativePath}: has category label(s) [${categories.join(', ')}] but no balance_grouping_provider: label`,
         );
       }
 
