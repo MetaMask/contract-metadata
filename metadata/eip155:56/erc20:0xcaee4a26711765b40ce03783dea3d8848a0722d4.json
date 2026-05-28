@@ -1,0 +1,7 @@
+{
+  "name": "OZAK.Ai.University Edu Token",
+  "symbol": "OZ",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xcaee4a26711765b40ce03783dea3d8848a0722d4.png"
+}
