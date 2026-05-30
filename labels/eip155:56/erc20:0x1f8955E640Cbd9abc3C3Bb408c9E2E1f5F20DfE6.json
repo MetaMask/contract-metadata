@@ -1,5 +1,7 @@
 {
-  "labels": [
-    "ondo"
-  ]
+    "labels": [
+        "ondo",
+        "balance_grouping:stablecoin",
+        "balance_grouping_provider:1"
+    ]
 }
