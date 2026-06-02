@@ -1,0 +1,7 @@
+{
+  "name": "Forte AUD",
+  "symbol": "AUDF",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:5042/erc20:0xd2a530170D71a9Cfe1651Fb468E2B98F7Ed7456b.svg"
+}
