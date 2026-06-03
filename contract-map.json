@@ -4518,5 +4518,13 @@
     "erc20": true,
     "symbol": "FPS",
     "decimals": 18
-  }
+  },
+    "0x11229a3f976566FA8a3ba462C432122f3B8876f6": {
+      "name": "Ice Snow Coin",
+      "logo": "ISC.png",
+      "erc20": true,
+      "symbol": "ISC",
+      "decimals": 18,
+      "chainId": 56
+    }
 }
