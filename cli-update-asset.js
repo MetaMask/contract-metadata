@@ -33,7 +33,7 @@ const SUPPORTED_IMAGE_EXTENSIONS = ['.svg', '.png', '.jpg', '.jpeg'];
 
 // Zod Schemas
 const CAIP19Schema = z.string().regex(
-  /^[-a-z0-9]{3,8}:[-a-zA-Z0-9]{1,32}\/[-a-z0-9]{3,8}:[a-zA-Z0-9]+$/,
+  /^[-a-z0-9]{3,8}:[-a-zA-Z0-9]{1,32}\/[-a-z0-9]{3,8}:[-.%a-zA-Z0-9]{1,128}$/,
   'Invalid CAIP-19 format. Expected: namespace:chainId/assetNamespace:assetReference'
 );
 
