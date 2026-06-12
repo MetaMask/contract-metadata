@@ -1,7 +1,0 @@
-{
-  "name": "USDT",
-  "symbol": "wUSDT",
-  "decimals": 18,
-  "erc20": true,
-  "logo": "./icons/eip155:140586/erc20:0xbc6593358feea849a059fe2c8bcb48d138abee50.svg"
-}
