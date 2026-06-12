@@ -1,7 +1,0 @@
-{
-  "name": "ONE",
-  "symbol": "ONE",
-  "decimals": 18,
-  "erc20": true,
-  "logo": "./icons/eip155:140586/erc20:0x635bdb62f35e1971b96fb9609cbdd2dab4fa91fe.svg"
-}
