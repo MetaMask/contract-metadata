@@ -1,0 +1,7 @@
+{
+  "name": "SpaceX (Ondo Tokenized Stock)",
+  "symbol": "SPCXon",
+  "decimals": 9,
+  "spl20": false,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:wzAyQTorWyoVXuJKj2x8EqKEGJpS13z6EWE9z5Aondo.svg"
+}

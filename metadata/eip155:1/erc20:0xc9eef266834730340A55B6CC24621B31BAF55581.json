@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xc9eef266834730340A55B6CC24621B31BAF55581.svg",
+  "name": "SpaceX (Ondo Tokenized Stock)",
+  "symbol": "SPCXon",
+  "decimals": 18,
+  "erc20": true
+}
