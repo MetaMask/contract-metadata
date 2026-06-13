@@ -1,0 +1,7 @@
+{
+  "name": "Shift Extended Basis USD",
+  "symbol": "extUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x4cE3ec1b7B4FFb33A0B70c64a0560A3F341AA2E1.png"
+}
