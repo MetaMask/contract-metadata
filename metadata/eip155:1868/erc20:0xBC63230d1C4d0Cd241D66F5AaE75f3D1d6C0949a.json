@@ -1,0 +1,7 @@
+{
+  "name": "ELYSIA",
+  "symbol": "EL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1868/erc20:0x2781246fe707bB15CeE3e5ea354e2154a2877B16.svg"
+}
