@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0x84601fdB21e3e892104e1Fe4a8269E7acA7C0E1A.svg",
-  "name": "Methode Electronics (Ondo Tokenized Stock)",
+  "name": "Methode Electronics (Ondo Tokenized)",
   "symbol": "MEIon",
   "decimals": 18,
   "erc20": true

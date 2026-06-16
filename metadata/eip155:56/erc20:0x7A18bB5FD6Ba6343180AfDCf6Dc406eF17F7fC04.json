@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0x7A18bB5FD6Ba6343180AfDCf6Dc406eF17F7fC04.svg",
-  "name": "Halliburton (Ondo Tokenized Stock)",
+  "name": "Halliburton (Ondo Tokenized)",
   "symbol": "HALon",
   "decimals": 18,
   "erc20": true

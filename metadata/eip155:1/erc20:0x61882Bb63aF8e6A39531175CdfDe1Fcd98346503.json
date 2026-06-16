@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0x61882Bb63aF8e6A39531175CdfDe1Fcd98346503.svg",
-  "name": "Cerebras Systems (Ondo Tokenized Stock)",
+  "name": "Cerebras Systems (Ondo Tokenized)",
   "symbol": "CBRSon",
   "decimals": 18,
   "erc20": true

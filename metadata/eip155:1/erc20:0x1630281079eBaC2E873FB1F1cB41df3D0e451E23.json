@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0x1630281079eBaC2E873FB1F1cB41df3D0e451E23.svg",
-  "name": "Celestica (Ondo Tokenized Stock)",
+  "name": "Celestica (Ondo Tokenized)",
   "symbol": "CLSon",
   "decimals": 18,
   "erc20": true

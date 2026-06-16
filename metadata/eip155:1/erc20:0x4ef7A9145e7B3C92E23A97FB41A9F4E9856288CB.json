@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0x4ef7A9145e7B3C92E23A97FB41A9F4E9856288CB.svg",
-  "name": "Rockwell Automation (Ondo Tokenized Stock)",
+  "name": "Rockwell Automation (Ondo Tokenized)",
   "symbol": "ROKon",
   "decimals": 18,
   "erc20": true

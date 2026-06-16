@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0xaC38a6608868e2f487d7993EA7339C69e5AB077b.svg",
-  "name": "Cleveland-Cliffs (Ondo Tokenized Stock)",
+  "name": "Cleveland-Cliffs (Ondo Tokenized)",
   "symbol": "CLFon",
   "decimals": 18,
   "erc20": true

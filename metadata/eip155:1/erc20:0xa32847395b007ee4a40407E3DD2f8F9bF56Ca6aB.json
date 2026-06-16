@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0xa32847395b007ee4a40407E3DD2f8F9bF56Ca6aB.svg",
-  "name": "iShares US Equity Factor Rotation Active ETF (Ondo Tokenized Stock)",
+  "name": "iShares US Equity Factor Rotation Active ETF (Ondo Tokenized)",
   "symbol": "DYNFon",
   "decimals": 18,
   "erc20": true

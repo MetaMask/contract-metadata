@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0xeB48e68F01c0C76735dc6F1dcC0F151A973BD9d2.svg",
-  "name": "Aehr Test Systems (Ondo Tokenized Stock)",
+  "name": "Aehr Test Systems (Ondo Tokenized)",
   "symbol": "AEHRon",
   "decimals": 18,
   "erc20": true

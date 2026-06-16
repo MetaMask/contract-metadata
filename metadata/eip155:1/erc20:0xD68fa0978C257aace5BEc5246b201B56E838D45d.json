@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0xD68fa0978C257aace5BEc5246b201B56E838D45d.svg",
-  "name": "General Dynamics (Ondo Tokenized Stock)",
+  "name": "General Dynamics (Ondo Tokenized)",
   "symbol": "GDon",
   "decimals": 18,
   "erc20": true

@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0xb71c4EBB4eDbAd867290206239C19DBb59eD55E1.svg",
-  "name": "FuelCell Energy (Ondo Tokenized Stock)",
+  "name": "FuelCell Energy (Ondo Tokenized)",
   "symbol": "FCELon",
   "decimals": 18,
   "erc20": true

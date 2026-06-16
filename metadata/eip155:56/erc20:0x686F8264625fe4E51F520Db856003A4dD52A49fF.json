@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0x686F8264625fe4E51F520Db856003A4dD52A49fF.svg",
-  "name": "Tsakos Energy Navigation (Ondo Tokenized Stock)",
+  "name": "Tsakos Energy Navigation (Ondo Tokenized)",
   "symbol": "TENon",
   "decimals": 18,
   "erc20": true

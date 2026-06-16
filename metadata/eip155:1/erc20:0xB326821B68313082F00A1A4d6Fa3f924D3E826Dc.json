@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0xB326821B68313082F00A1A4d6Fa3f924D3E826Dc.svg",
-  "name": "GlobalFoundries (Ondo Tokenized Stock)",
+  "name": "GlobalFoundries (Ondo Tokenized)",
   "symbol": "GFSon",
   "decimals": 18,
   "erc20": true

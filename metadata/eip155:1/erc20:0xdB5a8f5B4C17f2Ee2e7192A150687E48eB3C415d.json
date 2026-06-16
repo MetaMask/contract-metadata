@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0xdB5a8f5B4C17f2Ee2e7192A150687E48eB3C415d.svg",
-  "name": "Roundhill Memory ETF (Ondo Tokenized Stock)",
+  "name": "Roundhill Memory ETF (Ondo Tokenized)",
   "symbol": "DRAMon",
   "decimals": 18,
   "erc20": true

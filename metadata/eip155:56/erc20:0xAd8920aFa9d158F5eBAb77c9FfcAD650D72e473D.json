@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0xAd8920aFa9d158F5eBAb77c9FfcAD650D72e473D.svg",
-  "name": "Vishay Precision Group (Ondo Tokenized Stock)",
+  "name": "Vishay Precision Group (Ondo Tokenized)",
   "symbol": "VPGon",
   "decimals": 18,
   "erc20": true

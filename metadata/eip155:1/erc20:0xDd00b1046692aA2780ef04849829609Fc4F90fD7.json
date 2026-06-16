@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0xDd00b1046692aA2780ef04849829609Fc4F90fD7.svg",
-  "name": "Global X Blockchain ETF (Ondo Tokenized Stock)",
+  "name": "Global X Blockchain ETF (Ondo Tokenized)",
   "symbol": "BKCHon",
   "decimals": 18,
   "erc20": true

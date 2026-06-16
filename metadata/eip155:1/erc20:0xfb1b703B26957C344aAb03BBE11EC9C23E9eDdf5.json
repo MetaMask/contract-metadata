@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0xfb1b703B26957C344aAb03BBE11EC9C23E9eDdf5.svg",
-  "name": "Global X MSCI Argentina ETF (Ondo Tokenized Stock)",
+  "name": "Global X MSCI Argentina ETF (Ondo Tokenized)",
   "symbol": "ARGTon",
   "decimals": 18,
   "erc20": true

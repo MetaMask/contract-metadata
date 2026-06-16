@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0x463196CC72cBad2D1AC1896CDE0766bfBBd64443.svg",
-  "name": "iShares Total Return Active ETF (Ondo Tokenized Stock)",
+  "name": "iShares Total Return Active ETF (Ondo Tokenized)",
   "symbol": "BRTRon",
   "decimals": 18,
   "erc20": true

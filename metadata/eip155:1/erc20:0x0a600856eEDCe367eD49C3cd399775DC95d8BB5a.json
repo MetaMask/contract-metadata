@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0x0a600856eEDCe367eD49C3cd399775DC95d8BB5a.svg",
-  "name": "NuScale Power (Ondo Tokenized Stock)",
+  "name": "NuScale Power (Ondo Tokenized)",
   "symbol": "SMRon",
   "decimals": 18,
   "erc20": true

@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0x343324170C91c4D8Cf4D439B3E5a619F50621aE7.svg",
-  "name": "Tower Semiconductor (Ondo Tokenized Stock)",
+  "name": "Tower Semiconductor (Ondo Tokenized)",
   "symbol": "TSEMon",
   "decimals": 18,
   "erc20": true

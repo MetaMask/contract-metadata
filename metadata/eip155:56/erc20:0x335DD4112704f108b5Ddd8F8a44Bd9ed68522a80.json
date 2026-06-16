@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0x335DD4112704f108b5Ddd8F8a44Bd9ed68522a80.svg",
-  "name": "Direxion Daily Semi Bear 3X ETF (Ondo Tokenized Stock)",
+  "name": "Direxion Daily Semi Bear 3X ETF (Ondo Tokenized)",
   "symbol": "SOXSon",
   "decimals": 18,
   "erc20": true

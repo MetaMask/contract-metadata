@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0x410e7D6B6303E531753D4fbe3e50e35EfBcFf53c.svg",
-  "name": "Forgent Power Solutions (Ondo Tokenized Stock)",
+  "name": "Forgent Power Solutions (Ondo Tokenized)",
   "symbol": "FPSon",
   "decimals": 18,
   "erc20": true

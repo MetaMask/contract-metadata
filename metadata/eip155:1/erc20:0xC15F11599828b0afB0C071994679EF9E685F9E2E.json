@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0xC15F11599828b0afB0C071994679EF9E685F9E2E.svg",
-  "name": "Skyworks Solutions (Ondo Tokenized Stock)",
+  "name": "Skyworks Solutions (Ondo Tokenized)",
   "symbol": "SWKSon",
   "decimals": 18,
   "erc20": true

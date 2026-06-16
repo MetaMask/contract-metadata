@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0xc2f65e745Fd13af1d00d5c81dD33F762FB81C264.svg",
-  "name": "Camtek (Ondo Tokenized Stock)",
+  "name": "Camtek (Ondo Tokenized)",
   "symbol": "CAMTon",
   "decimals": 18,
   "erc20": true

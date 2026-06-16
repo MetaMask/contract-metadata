@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0x6F040fC3061374304BddbfdAe9d688d7C868c785.svg",
-  "name": "Teradyne (Ondo Tokenized Stock)",
+  "name": "Teradyne (Ondo Tokenized)",
   "symbol": "TERon",
   "decimals": 18,
   "erc20": true

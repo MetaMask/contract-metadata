@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0x25eD86472cf3012607DC6576c58e6432968255C2.svg",
-  "name": "Core Scientific (Ondo Tokenized Stock)",
+  "name": "Core Scientific (Ondo Tokenized)",
   "symbol": "CORZon",
   "decimals": 18,
   "erc20": true

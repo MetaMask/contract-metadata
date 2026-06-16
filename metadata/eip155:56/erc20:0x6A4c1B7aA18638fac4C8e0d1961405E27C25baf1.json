@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0x6A4c1B7aA18638fac4C8e0d1961405E27C25baf1.svg",
-  "name": "Global X Silver Miners ETF (Ondo Tokenized Stock)",
+  "name": "Global X Silver Miners ETF (Ondo Tokenized)",
   "symbol": "SILon",
   "decimals": 18,
   "erc20": true

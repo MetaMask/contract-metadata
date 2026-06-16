@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0x398aE5B33505f121C359f22B300FbcFa81DB79AE.svg",
-  "name": "iShares Large Cap Core Active ETF (Ondo Tokenized Stock)",
+  "name": "iShares Large Cap Core Active ETF (Ondo Tokenized)",
   "symbol": "BLCRon",
   "decimals": 18,
   "erc20": true

@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0x70AfC3a600f843d2018dF16B0b316E4BC9c603E9.svg",
-  "name": "Amphenol (Ondo Tokenized Stock)",
+  "name": "Amphenol (Ondo Tokenized)",
   "symbol": "APHon",
   "decimals": 18,
   "erc20": true

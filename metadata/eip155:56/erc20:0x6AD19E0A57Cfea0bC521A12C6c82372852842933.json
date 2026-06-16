@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0x6AD19E0A57Cfea0bC521A12C6c82372852842933.svg",
-  "name": "LightPath Technologies (Ondo Tokenized Stock)",
+  "name": "LightPath Technologies (Ondo Tokenized)",
   "symbol": "LPTHon",
   "decimals": 18,
   "erc20": true

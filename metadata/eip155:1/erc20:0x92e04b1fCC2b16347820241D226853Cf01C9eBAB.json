@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0x92e04b1fCC2b16347820241D226853Cf01C9eBAB.svg",
-  "name": "Bloom Energy (Ondo Tokenized Stock)",
+  "name": "Bloom Energy (Ondo Tokenized)",
   "symbol": "BEon",
   "decimals": 18,
   "erc20": true

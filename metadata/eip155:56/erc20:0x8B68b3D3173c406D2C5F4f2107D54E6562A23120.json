@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0x8B68b3D3173c406D2C5F4f2107D54E6562A23120.svg",
-  "name": "CEVA (Ondo Tokenized Stock)",
+  "name": "CEVA (Ondo Tokenized)",
   "symbol": "CEVAon",
   "decimals": 18,
   "erc20": true

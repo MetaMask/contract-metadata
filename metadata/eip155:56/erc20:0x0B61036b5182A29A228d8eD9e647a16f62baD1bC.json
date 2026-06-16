@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0x0B61036b5182A29A228d8eD9e647a16f62baD1bC.svg",
-  "name": "AAON (Ondo Tokenized Stock)",
+  "name": "AAON (Ondo Tokenized)",
   "symbol": "AAONon",
   "decimals": 18,
   "erc20": true

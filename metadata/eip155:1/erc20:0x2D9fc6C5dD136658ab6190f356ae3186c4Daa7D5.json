@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0x2D9fc6C5dD136658ab6190f356ae3186c4Daa7D5.svg",
-  "name": "Navitas Semiconductor (Ondo Tokenized Stock)",
+  "name": "Navitas Semiconductor (Ondo Tokenized)",
   "symbol": "NVTSon",
   "decimals": 18,
   "erc20": true

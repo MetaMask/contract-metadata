@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0x6785cE8060655b1F4991C3893dc41814154A1808.svg",
-  "name": "Axcelis Technologies (Ondo Tokenized Stock)",
+  "name": "Axcelis Technologies (Ondo Tokenized)",
   "symbol": "ACLSon",
   "decimals": 18,
   "erc20": true

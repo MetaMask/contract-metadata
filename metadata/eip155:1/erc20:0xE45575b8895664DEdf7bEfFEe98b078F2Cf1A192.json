@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0xE45575b8895664DEdf7bEfFEe98b078F2Cf1A192.svg",
-  "name": "Corning (Ondo Tokenized Stock)",
+  "name": "Corning (Ondo Tokenized)",
   "symbol": "GLWon",
   "decimals": 18,
   "erc20": true

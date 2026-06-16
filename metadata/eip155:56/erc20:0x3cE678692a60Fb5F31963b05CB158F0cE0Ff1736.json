@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0x3cE678692a60Fb5F31963b05CB158F0cE0Ff1736.svg",
-  "name": "Iridium Communications (Ondo Tokenized Stock)",
+  "name": "Iridium Communications (Ondo Tokenized)",
   "symbol": "IRDMon",
   "decimals": 18,
   "erc20": true

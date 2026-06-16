@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0xf9015E0b3AB4ddd216F522D6150dB826c9BE83f8.svg",
-  "name": "Planet Labs (Ondo Tokenized Stock)",
+  "name": "Planet Labs (Ondo Tokenized)",
   "symbol": "PLon",
   "decimals": 18,
   "erc20": true

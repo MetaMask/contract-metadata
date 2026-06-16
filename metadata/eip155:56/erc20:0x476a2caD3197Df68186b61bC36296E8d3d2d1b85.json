@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0x476a2caD3197Df68186b61bC36296E8d3d2d1b85.svg",
-  "name": "nLIGHT (Ondo Tokenized Stock)",
+  "name": "nLIGHT (Ondo Tokenized)",
   "symbol": "LASRon",
   "decimals": 18,
   "erc20": true

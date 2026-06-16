@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0x1EadA1306DF72A5607827416c1A1307d7056dFFf.svg",
-  "name": "Extreme Networks (Ondo Tokenized Stock)",
+  "name": "Extreme Networks (Ondo Tokenized)",
   "symbol": "EXTRon",
   "decimals": 18,
   "erc20": true

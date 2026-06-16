@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0x4277d20430e901092E259bA9CF7164C37077aAF1.svg",
-  "name": "AB Ultra Short Income ETF (Ondo Tokenized Stock)",
+  "name": "AB Ultra Short Income ETF (Ondo Tokenized)",
   "symbol": "YEARon",
   "decimals": 18,
   "erc20": true

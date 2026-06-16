@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0x80F03ABCb2BD85237740dD69f87d2F5De3909012.svg",
-  "name": "Lattice Semiconductor (Ondo Tokenized Stock)",
+  "name": "Lattice Semiconductor (Ondo Tokenized)",
   "symbol": "LSCCon",
   "decimals": 18,
   "erc20": true

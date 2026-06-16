@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0x1dCd320C5d7b84CD407437c58d56CbbDd0D9d8f3.svg",
-  "name": "MACOM Technology Solutions Holdings (Ondo Tokenized Stock)",
+  "name": "MACOM Technology Solutions Holdings (Ondo Tokenized)",
   "symbol": "MTSIon",
   "decimals": 18,
   "erc20": true

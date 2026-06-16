@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0x93A96721a624822A6aB6461A7891a5C6b154102F.svg",
-  "name": "Fabrinet (Ondo Tokenized Stock)",
+  "name": "Fabrinet (Ondo Tokenized)",
   "symbol": "FNon",
   "decimals": 18,
   "erc20": true

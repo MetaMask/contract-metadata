@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0x4493E670F5a077D46Eb3389fFA9Af19999Ea54eD.svg",
-  "name": "Flex (Ondo Tokenized Stock)",
+  "name": "Flex (Ondo Tokenized)",
   "symbol": "FLEXon",
   "decimals": 18,
   "erc20": true

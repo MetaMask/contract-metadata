@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0xc79Fc7aF952c8B41c6b7b7657dd24F44f7C10F2A.svg",
-  "name": "Symbotic (Ondo Tokenized Stock)",
+  "name": "Symbotic (Ondo Tokenized)",
   "symbol": "SYMon",
   "decimals": 18,
   "erc20": true

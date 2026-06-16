@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0xf8fd3698cA42c07f502150C19DD1D96B687f53Cd.svg",
-  "name": "Global X Space Tech ETF (Ondo Tokenized Stock)",
+  "name": "Global X Space Tech ETF (Ondo Tokenized)",
   "symbol": "ORBXon",
   "decimals": 18,
   "erc20": true

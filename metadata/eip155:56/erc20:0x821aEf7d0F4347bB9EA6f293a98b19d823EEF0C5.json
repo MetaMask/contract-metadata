@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0x821aEf7d0F4347bB9EA6f293a98b19d823EEF0C5.svg",
-  "name": "Vishay Intertechnology (Ondo Tokenized Stock)",
+  "name": "Vishay Intertechnology (Ondo Tokenized)",
   "symbol": "VSHon",
   "decimals": 18,
   "erc20": true

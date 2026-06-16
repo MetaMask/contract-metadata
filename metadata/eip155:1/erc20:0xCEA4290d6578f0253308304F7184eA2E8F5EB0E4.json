@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0xCEA4290d6578f0253308304F7184eA2E8F5EB0E4.svg",
-  "name": "SLB (Ondo Tokenized Stock)",
+  "name": "SLB (Ondo Tokenized)",
   "symbol": "SLBon",
   "decimals": 18,
   "erc20": true

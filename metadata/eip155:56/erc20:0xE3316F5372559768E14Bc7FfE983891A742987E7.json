@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0xE3316F5372559768E14Bc7FfE983891A742987E7.svg",
-  "name": "International Seaways (Ondo Tokenized Stock)",
+  "name": "International Seaways (Ondo Tokenized)",
   "symbol": "INSWon",
   "decimals": 18,
   "erc20": true

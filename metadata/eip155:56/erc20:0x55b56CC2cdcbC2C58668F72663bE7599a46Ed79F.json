@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0x55b56CC2cdcbC2C58668F72663bE7599a46Ed79F.svg",
-  "name": "Wolfspeed (Ondo Tokenized Stock)",
+  "name": "Wolfspeed (Ondo Tokenized)",
   "symbol": "WOLFon",
   "decimals": 18,
   "erc20": true

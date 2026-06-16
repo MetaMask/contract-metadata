@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0x99888f2CCD08258eD5F66e94bA59d7E75016900F.svg",
-  "name": "Applied Optoelectronics (Ondo Tokenized Stock)",
+  "name": "Applied Optoelectronics (Ondo Tokenized)",
   "symbol": "AAOIon",
   "decimals": 18,
   "erc20": true

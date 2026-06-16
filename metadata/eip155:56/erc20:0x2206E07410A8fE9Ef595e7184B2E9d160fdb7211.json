@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0x2206E07410A8fE9Ef595e7184B2E9d160fdb7211.svg",
-  "name": "USA Rare Earth (Ondo Tokenized Stock)",
+  "name": "USA Rare Earth (Ondo Tokenized)",
   "symbol": "USARon",
   "decimals": 18,
   "erc20": true

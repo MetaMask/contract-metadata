@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0xD081B43E3C334B1a101981efC1D98F1E82df076E.svg",
-  "name": "Okeanis Eco Tankers (Ondo Tokenized Stock)",
+  "name": "Okeanis Eco Tankers (Ondo Tokenized)",
   "symbol": "ECOon",
   "decimals": 18,
   "erc20": true

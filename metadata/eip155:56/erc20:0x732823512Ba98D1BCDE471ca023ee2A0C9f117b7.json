@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0x732823512Ba98D1BCDE471ca023ee2A0C9f117b7.svg",
-  "name": "Strive Preferred (Ondo Tokenized Stock)",
+  "name": "Strive Preferred (Ondo Tokenized)",
   "symbol": "SATAon",
   "decimals": 18,
   "erc20": true

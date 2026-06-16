@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0x09f5a6ee1b46787dd252827E40502c4980a0285d.svg",
-  "name": "Digi Power X (Ondo Tokenized Stock)",
+  "name": "Digi Power X (Ondo Tokenized)",
   "symbol": "DGXXon",
   "decimals": 18,
   "erc20": true

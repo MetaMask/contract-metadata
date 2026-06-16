@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0xD2C06fef2ca2375a9C7ceB4AbcA9DBc2aB6aF981.svg",
-  "name": "Energy Fuels (Ondo Tokenized Stock)",
+  "name": "Energy Fuels (Ondo Tokenized)",
   "symbol": "UUUUon",
   "decimals": 18,
   "erc20": true

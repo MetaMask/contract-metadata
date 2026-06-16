@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0xF400b05AD5A791c65Acc3f905E5aDe5F1B653c8c.svg",
-  "name": "TTM Technologies (Ondo Tokenized Stock)",
+  "name": "TTM Technologies (Ondo Tokenized)",
   "symbol": "TTMIon",
   "decimals": 18,
   "erc20": true

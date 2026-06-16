@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0x790cFb394B1f399a3543Ba1F835DdE114A387eeb.svg",
-  "name": "iShares US Industry Rotation Active ETF (Ondo Tokenized Stock)",
+  "name": "iShares US Industry Rotation Active ETF (Ondo Tokenized)",
   "symbol": "INROon",
   "decimals": 18,
   "erc20": true

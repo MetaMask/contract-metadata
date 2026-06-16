@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0xeE9f43476C5b7292b114bA1b280A42A8746792d4.svg",
-  "name": "Dell Technologies (Ondo Tokenized Stock)",
+  "name": "Dell Technologies (Ondo Tokenized)",
   "symbol": "DELLon",
   "decimals": 18,
   "erc20": true

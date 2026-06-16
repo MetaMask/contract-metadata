@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0xE172Fb6B867F873Db7Cb2D7435B95a07e5deFE81.svg",
-  "name": "Power Integrations (Ondo Tokenized Stock)",
+  "name": "Power Integrations (Ondo Tokenized)",
   "symbol": "POWIon",
   "decimals": 18,
   "erc20": true

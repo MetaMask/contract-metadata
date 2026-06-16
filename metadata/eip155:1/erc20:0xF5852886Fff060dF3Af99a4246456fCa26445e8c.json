@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0xF5852886Fff060dF3Af99a4246456fCa26445e8c.svg",
-  "name": "STMicroelectronics (Ondo Tokenized Stock)",
+  "name": "STMicroelectronics (Ondo Tokenized)",
   "symbol": "STMon",
   "decimals": 18,
   "erc20": true

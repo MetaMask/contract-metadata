@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0x90EAa91Af0B4559F1F270258Bb5cDDFafbb62da9.svg",
-  "name": "Steel Dynamics (Ondo Tokenized Stock)",
+  "name": "Steel Dynamics (Ondo Tokenized)",
   "symbol": "STLDon",
   "decimals": 18,
   "erc20": true

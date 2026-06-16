@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0x90c06Bccb5bd20c5a84cBD59A43Aa22cA96E588D.svg",
-  "name": "Teekay Tankers (Ondo Tokenized Stock)",
+  "name": "Teekay Tankers (Ondo Tokenized)",
   "symbol": "TNKon",
   "decimals": 18,
   "erc20": true
