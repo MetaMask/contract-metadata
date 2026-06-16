@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x9A1C88ac479906A7f03e76605b15B72DF10d8E51.svg",
+  "name": "EQT (Ondo Tokenized)",
+  "symbol": "EQTon",
+  "decimals": 18,
+  "erc20": true
+}

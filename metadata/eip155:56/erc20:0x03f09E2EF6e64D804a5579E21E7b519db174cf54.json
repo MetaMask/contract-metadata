@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x03f09E2EF6e64D804a5579E21E7b519db174cf54.svg",
+  "name": "SPDR Bloomberg 1-3 Month T-Bill ETF (Ondo Tokenized)",
+  "symbol": "BILon",
+  "decimals": 18,
+  "erc20": true
+}

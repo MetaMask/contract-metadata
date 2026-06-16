@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x9784508a0758cBb43eCb9b62F4CF4b1b3a36480c.svg",
+  "name": "United Microelectronics (Ondo Tokenized)",
+  "symbol": "UMCon",
+  "decimals": 18,
+  "erc20": true
+}

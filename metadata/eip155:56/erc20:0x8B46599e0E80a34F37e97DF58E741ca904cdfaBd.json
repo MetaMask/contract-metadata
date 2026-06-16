@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x8B46599e0E80a34F37e97DF58E741ca904cdfaBd.svg",
+  "name": "STMicroelectronics (Ondo Tokenized)",
+  "symbol": "STMon",
+  "decimals": 18,
+  "erc20": true
+}

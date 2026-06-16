@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xA1DaaB37dA2a29A1eC721922b55962eB8B481001.svg",
+  "name": "Fabrinet (Ondo Tokenized)",
+  "symbol": "FNon",
+  "decimals": 18,
+  "erc20": true
+}

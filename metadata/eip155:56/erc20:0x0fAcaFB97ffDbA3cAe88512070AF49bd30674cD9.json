@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x0fAcaFB97ffDbA3cAe88512070AF49bd30674cD9.svg",
+  "name": "Lumentum Holdings (Ondo Tokenized)",
+  "symbol": "LITEon",
+  "decimals": 18,
+  "erc20": true
+}

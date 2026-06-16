@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x8Dd51E233E2344498F876c231a3Bd962E9750a6C.svg",
+  "name": "iShares Global Government Bond USD Hedged Active ETF (Ondo Tokenized)",
+  "symbol": "GGOVon",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xf157481bEBd0C0686780fd0F61806C900A6137e8.svg",
+  "name": "Credo Technology Group Holding (Ondo Tokenized)",
+  "symbol": "CRDOon",
+  "decimals": 18,
+  "erc20": true
+}

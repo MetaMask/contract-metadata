@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xf9D5aF26E1B96625dBC86609463A06602bE42966.svg",
+  "name": "Steel Dynamics (Ondo Tokenized)",
+  "symbol": "STLDon",
+  "decimals": 18,
+  "erc20": true
+}

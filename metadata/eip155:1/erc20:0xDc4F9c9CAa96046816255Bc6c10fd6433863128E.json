@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xDc4F9c9CAa96046816255Bc6c10fd6433863128E.svg",
+  "name": "MKS Inc. (Ondo Tokenized)",
+  "symbol": "MKSIon",
+  "decimals": 18,
+  "erc20": true
+}

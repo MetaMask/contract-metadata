@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x8379c5595b8148A9968bEE6D8110B2b4a627a9Dd.svg",
+  "name": "ACM Research (Ondo Tokenized)",
+  "symbol": "ACMRon",
+  "decimals": 18,
+  "erc20": true
+}

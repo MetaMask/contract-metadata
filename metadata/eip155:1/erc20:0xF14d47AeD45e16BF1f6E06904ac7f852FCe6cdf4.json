@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xF14d47AeD45e16BF1f6E06904ac7f852FCe6cdf4.svg",
+  "name": "Energy Fuels (Ondo Tokenized)",
+  "symbol": "UUUUon",
+  "decimals": 18,
+  "erc20": true
+}

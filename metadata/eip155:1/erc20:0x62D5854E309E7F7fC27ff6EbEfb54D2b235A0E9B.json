@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x62D5854E309E7F7fC27ff6EbEfb54D2b235A0E9B.svg",
+  "name": "nLIGHT (Ondo Tokenized)",
+  "symbol": "LASRon",
+  "decimals": 18,
+  "erc20": true
+}

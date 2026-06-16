@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x55025c1e2acFE5A7092CF32f7A4F351a9FD21e1c.svg",
+  "name": "Alpha and Omega Semiconductor (Ondo Tokenized)",
+  "symbol": "AOSLon",
+  "decimals": 18,
+  "erc20": true
+}

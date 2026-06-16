@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x7F24e4f5dc9ce7D00170C91Ce18326E01d702242.svg",
+  "name": "Worthington Steel (Ondo Tokenized)",
+  "symbol": "WSon",
+  "decimals": 18,
+  "erc20": true
+}

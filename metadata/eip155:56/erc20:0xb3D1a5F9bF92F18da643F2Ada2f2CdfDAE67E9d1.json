@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xb3D1a5F9bF92F18da643F2Ada2f2CdfDAE67E9d1.svg",
+  "name": "Westlake (Ondo Tokenized)",
+  "symbol": "WLKon",
+  "decimals": 18,
+  "erc20": true
+}

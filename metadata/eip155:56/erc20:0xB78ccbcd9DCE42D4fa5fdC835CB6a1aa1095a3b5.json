@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xB78ccbcd9DCE42D4fa5fdC835CB6a1aa1095a3b5.svg",
+  "name": "Ultra Clean Holdings (Ondo Tokenized)",
+  "symbol": "UCTTon",
+  "decimals": 18,
+  "erc20": true
+}

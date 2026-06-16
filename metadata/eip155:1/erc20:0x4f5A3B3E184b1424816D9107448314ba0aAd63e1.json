@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x4f5A3B3E184b1424816D9107448314ba0aAd63e1.svg",
+  "name": "Cloudflare (Ondo Tokenized)",
+  "symbol": "NETon",
+  "decimals": 18,
+  "erc20": true
+}

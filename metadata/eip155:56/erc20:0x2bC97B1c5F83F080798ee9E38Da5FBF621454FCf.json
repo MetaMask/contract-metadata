@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x2bC97B1c5F83F080798ee9E38Da5FBF621454FCf.svg",
+  "name": "Global X Space Tech ETF (Ondo Tokenized)",
+  "symbol": "ORBXon",
+  "decimals": 18,
+  "erc20": true
+}

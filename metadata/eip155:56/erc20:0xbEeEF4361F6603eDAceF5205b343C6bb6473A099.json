@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xbEeEF4361F6603eDAceF5205b343C6bb6473A099.svg",
+  "name": "iShares US Technology ETF (Ondo Tokenized)",
+  "symbol": "IYWon",
+  "decimals": 18,
+  "erc20": true
+}

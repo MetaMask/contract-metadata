@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x25a4DbAE9a0Cd8C75656D6b50FFDf4900CC20d8f.svg",
+  "name": "Corning (Ondo Tokenized)",
+  "symbol": "GLWon",
+  "decimals": 18,
+  "erc20": true
+}

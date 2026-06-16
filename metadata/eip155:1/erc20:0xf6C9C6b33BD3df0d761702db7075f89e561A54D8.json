@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xf6C9C6b33BD3df0d761702db7075f89e561A54D8.svg",
+  "name": "Fluence Energy (Ondo Tokenized)",
+  "symbol": "FLNCon",
+  "decimals": 18,
+  "erc20": true
+}
