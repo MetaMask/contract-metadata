@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xae1c6E353cdc9Dc3CC01124FFB62a0d0Ce64a401.svg",
+  "name": "Rambus (Ondo Tokenized)",
+  "symbol": "RMBSon",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x45583545BE579cc96409903597c5e17B3fd7ceFf.svg",
+  "name": "Arqit Quantum (Ondo Tokenized)",
+  "symbol": "ARQQon",
+  "decimals": 18,
+  "erc20": true
+}

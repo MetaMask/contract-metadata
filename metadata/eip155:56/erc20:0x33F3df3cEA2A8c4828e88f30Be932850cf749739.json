@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x33F3df3cEA2A8c4828e88f30Be932850cf749739.svg",
+  "name": "Nordic American Tankers (Ondo Tokenized)",
+  "symbol": "NATon",
+  "decimals": 18,
+  "erc20": true
+}

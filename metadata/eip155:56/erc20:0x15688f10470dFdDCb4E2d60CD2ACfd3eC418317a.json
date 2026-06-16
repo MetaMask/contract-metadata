@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x15688f10470dFdDCb4E2d60CD2ACfd3eC418317a.svg",
+  "name": "Invesco PHLX Semiconductor ETF (Ondo Tokenized)",
+  "symbol": "SOXQon",
+  "decimals": 18,
+  "erc20": true
+}

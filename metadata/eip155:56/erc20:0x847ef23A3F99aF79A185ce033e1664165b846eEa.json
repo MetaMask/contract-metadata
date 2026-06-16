@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x847ef23A3F99aF79A185ce033e1664165b846eEa.svg",
+  "name": "Hesai Group (Ondo Tokenized)",
+  "symbol": "HSAIon",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40"><circle cx="20" cy="20" r="20" fill="#eadefe"/><rect x="6" y="6" width="28" height="28" rx="7.9799999999999995" ry="7.9799999999999995" fill="#7326f5"/><g transform="translate(11.32, 13.602144702842377)"><svg width="17.36" height="12.795710594315244" viewBox="0 0 1548 1141" xmlns="http://www.w3.org/2000/svg">
+	<title xmlns="http://www.w3.org/2000/svg">NVMI_BIG</title>
+	<defs xmlns="http://www.w3.org/2000/svg">
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(939.528,603.11,-175.018,272.645,543.996,512.166)">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset=".05" stop-color="#ffffff"/>
+			<stop offset=".49" stop-color="#ffffff"/>
+			<stop offset=".82" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#ffffff"/>
+		</linearGradient>
+	</defs>
+	
+	<path xmlns="http://www.w3.org/2000/svg" class="s0" d="m1358.8 0.2l-1358.4 1139.6h327.5l1006.5-846.4v689.4l107.4-29.7 105.6-4.6v-948.3z" fill="#ffffff"/>
+	<path xmlns="http://www.w3.org/2000/svg" class="s1" d="m1539.3 945.4c-162.9 0-323.1-40.6-466.1-118.7-142.5-78-263.5-190.8-351-328-24.3-37.9-46.5-77.6-65.4-119.1l-153.4 129.5c16.7 32.5 34.7 64.1 54.6 95.6 105.1 164.3 250.4 300.1 421.8 393.5 171.5 93.8 364.1 143 559.9 142.5h7.7v-195.3z" fill="#ffffff"/>
+</svg></g></svg>

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x3F19A16A401a6AF05150479Ccb76EF2Fb57B0dF3.svg",
+  "name": "HIVE Digital Technologies (Ondo Tokenized)",
+  "symbol": "HIVEon",
+  "decimals": 18,
+  "erc20": true
+}

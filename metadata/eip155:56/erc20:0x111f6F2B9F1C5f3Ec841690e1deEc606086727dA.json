@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x111f6F2B9F1C5f3Ec841690e1deEc606086727dA.svg",
+  "name": "SAP (Ondo Tokenized)",
+  "symbol": "SAPon",
+  "decimals": 18,
+  "erc20": true
+}

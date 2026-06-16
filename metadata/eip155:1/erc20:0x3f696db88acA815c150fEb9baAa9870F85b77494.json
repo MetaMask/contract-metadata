@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x3f696db88acA815c150fEb9baAa9870F85b77494.svg",
+  "name": "International Seaways (Ondo Tokenized)",
+  "symbol": "INSWon",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x113faE6e1103A4C09250C8697a6a4BE6Ca987d06.svg",
+  "name": "AMETEK (Ondo Tokenized)",
+  "symbol": "AMEon",
+  "decimals": 18,
+  "erc20": true
+}

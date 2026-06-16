@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xb42f5597EAdd424de67b46Fe5d1EC4b61367A4e5.svg",
+  "name": "Global X Robotics & Artificial Intelligence ETF (Ondo Tokenized)",
+  "symbol": "BOTZon",
+  "decimals": 18,
+  "erc20": true
+}

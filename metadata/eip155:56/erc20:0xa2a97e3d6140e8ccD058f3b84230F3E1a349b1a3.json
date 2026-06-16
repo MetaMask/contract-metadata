@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xa2a97e3d6140e8ccD058f3b84230F3E1a349b1a3.svg",
+  "name": "First Majestic Silver (Ondo Tokenized)",
+  "symbol": "AGon",
+  "decimals": 18,
+  "erc20": true
+}

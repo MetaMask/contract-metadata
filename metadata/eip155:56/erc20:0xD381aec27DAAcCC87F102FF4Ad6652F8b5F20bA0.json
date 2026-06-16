@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xD381aec27DAAcCC87F102FF4Ad6652F8b5F20bA0.svg",
+  "name": "Powell Industries (Ondo Tokenized)",
+  "symbol": "POWLon",
+  "decimals": 18,
+  "erc20": true
+}

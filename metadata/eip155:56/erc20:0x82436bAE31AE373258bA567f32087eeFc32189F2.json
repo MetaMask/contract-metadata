@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x82436bAE31AE373258bA567f32087eeFc32189F2.svg",
+  "name": "WESCO International (Ondo Tokenized)",
+  "symbol": "WCCon",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x472F46C5D7409C82234701EFf7D4DDA4c28B5a93.svg",
+  "name": "Breakwave Tanker Shipping ETF (Ondo Tokenized)",
+  "symbol": "BWETon",
+  "decimals": 18,
+  "erc20": true
+}

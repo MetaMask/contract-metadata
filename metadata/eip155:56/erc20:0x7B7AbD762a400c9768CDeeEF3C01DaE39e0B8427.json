@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x7B7AbD762a400c9768CDeeEF3C01DaE39e0B8427.svg",
+  "name": "Williams (Ondo Tokenized)",
+  "symbol": "WMBon",
+  "decimals": 18,
+  "erc20": true
+}

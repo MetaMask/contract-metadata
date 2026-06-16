@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x89C37104aFcee9a72187E05D960a1e09763a126e.svg",
+  "name": "Methode Electronics (Ondo Tokenized)",
+  "symbol": "MEIon",
+  "decimals": 18,
+  "erc20": true
+}

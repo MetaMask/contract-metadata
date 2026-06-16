@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x47Bfe4921Bd74C66c6B0C35C517aBdFB5E3BAFb3.svg",
+  "name": "FuelCell Energy (Ondo Tokenized)",
+  "symbol": "FCELon",
+  "decimals": 18,
+  "erc20": true
+}
