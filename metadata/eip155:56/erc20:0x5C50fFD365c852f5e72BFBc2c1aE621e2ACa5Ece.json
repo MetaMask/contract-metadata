@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0x5C50fFD365c852f5e72BFBc2c1aE621e2ACa5Ece.svg",
-  "name": "TE Connectivity (Ondo Tokenized)",
+  "name": "TE Connectivity (Ondo Tokenized Stock)",
   "symbol": "TELon",
   "decimals": 18,
   "erc20": true

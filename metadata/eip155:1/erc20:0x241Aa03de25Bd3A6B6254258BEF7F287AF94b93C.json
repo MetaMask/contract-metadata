@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0x241Aa03de25Bd3A6B6254258BEF7F287AF94b93C.svg",
-  "name": "Vanguard Energy ETF (Ondo Tokenized)",
+  "name": "Vanguard Energy ETF (Ondo Tokenized Stock)",
   "symbol": "VDEon",
   "decimals": 18,
   "erc20": true

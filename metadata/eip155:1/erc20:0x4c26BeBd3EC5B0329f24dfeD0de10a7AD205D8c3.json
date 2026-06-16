@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0x4c26BeBd3EC5B0329f24dfeD0de10a7AD205D8c3.svg",
-  "name": "Defiance Quantum ETF (Ondo Tokenized)",
+  "name": "Defiance Quantum ETF (Ondo Tokenized Stock)",
   "symbol": "QTUMon",
   "decimals": 18,
   "erc20": true

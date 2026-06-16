@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0x50e66EDb7D0b79Ee988f098754A27aFaa643B4f5.svg",
-  "name": "Worthington Steel (Ondo Tokenized)",
+  "name": "Worthington Steel (Ondo Tokenized Stock)",
   "symbol": "WSon",
   "decimals": 18,
   "erc20": true

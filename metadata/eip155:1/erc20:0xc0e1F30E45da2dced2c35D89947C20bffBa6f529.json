@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0xc0e1F30E45da2dced2c35D89947C20bffBa6f529.svg",
-  "name": "iShares S&P Small-Cap 600 Value ETF (Ondo Tokenized)",
+  "name": "iShares S&P Small-Cap 600 Value ETF (Ondo Tokenized Stock)",
   "symbol": "IJSon",
   "decimals": 18,
   "erc20": true

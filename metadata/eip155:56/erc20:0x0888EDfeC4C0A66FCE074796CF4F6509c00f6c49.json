@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0x0888EDfeC4C0A66FCE074796CF4F6509c00f6c49.svg",
-  "name": "US Copper Index Fund (Ondo Tokenized)",
+  "name": "US Copper Index Fund (Ondo Tokenized Stock)",
   "symbol": "CPERon",
   "decimals": 18,
   "erc20": true

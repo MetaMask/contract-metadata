@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0xaeB2C4f3540a162045cC3Bd82d367AC38C2F4Da6.svg",
-  "name": "iShares High Yield Active ETF (Ondo Tokenized)",
+  "name": "iShares High Yield Active ETF (Ondo Tokenized Stock)",
   "symbol": "BRHYon",
   "decimals": 18,
   "erc20": true

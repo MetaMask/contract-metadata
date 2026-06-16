@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0x653156b9a46E21906Dddc82414871bBDB0261319.svg",
-  "name": "iShares J.P. Morgan EM Local Currency Bond ETF (Ondo Tokenized)",
+  "name": "iShares J.P. Morgan EM Local Currency Bond ETF (Ondo Tokenized Stock)",
   "symbol": "LEMBon",
   "decimals": 18,
   "erc20": true

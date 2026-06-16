@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0x0e05BA0756C504B69AAA642f7379CD1AF7C63969.svg",
-  "name": "RoboStrategy (Ondo Tokenized)",
+  "name": "RoboStrategy (Ondo Tokenized Stock)",
   "symbol": "BOTon",
   "decimals": 18,
   "erc20": true

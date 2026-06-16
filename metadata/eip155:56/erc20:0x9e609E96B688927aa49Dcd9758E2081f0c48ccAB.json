@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0x9e609E96B688927aa49Dcd9758E2081f0c48ccAB.svg",
-  "name": "iShares Investment Grade Systematic Bond ETF (Ondo Tokenized)",
+  "name": "iShares Investment Grade Systematic Bond ETF (Ondo Tokenized Stock)",
   "symbol": "IGEBon",
   "decimals": 18,
   "erc20": true

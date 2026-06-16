@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0x24e7504246DFdd7E866936e2816BFbEa73bd890a.svg",
-  "name": "Hubbell (Ondo Tokenized)",
+  "name": "Hubbell (Ondo Tokenized Stock)",
   "symbol": "HUBBon",
   "decimals": 18,
   "erc20": true

@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0x89CC700F308a4C59889fBF3286216554C53B0601.svg",
-  "name": "Hyperliquid Strategies (Ondo Tokenized)",
+  "name": "Hyperliquid Strategies (Ondo Tokenized Stock)",
   "symbol": "PURRon",
   "decimals": 18,
   "erc20": true

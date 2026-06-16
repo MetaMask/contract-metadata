@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0x1DB23e5C0da6b960D0cf3D9939Cbf50A2514bfC2.svg",
-  "name": "MYR Group (Ondo Tokenized)",
+  "name": "MYR Group (Ondo Tokenized Stock)",
   "symbol": "MYRGon",
   "decimals": 18,
   "erc20": true

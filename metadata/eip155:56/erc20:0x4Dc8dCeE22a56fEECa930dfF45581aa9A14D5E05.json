@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0x4Dc8dCeE22a56fEECa930dfF45581aa9A14D5E05.svg",
-  "name": "Huntington Ingalls Industries (Ondo Tokenized)",
+  "name": "Huntington Ingalls Industries (Ondo Tokenized Stock)",
   "symbol": "HIIon",
   "decimals": 18,
   "erc20": true

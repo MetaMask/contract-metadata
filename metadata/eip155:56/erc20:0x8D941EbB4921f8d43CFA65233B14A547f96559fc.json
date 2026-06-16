@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0x8D941EbB4921f8d43CFA65233B14A547f96559fc.svg",
-  "name": "Jabil (Ondo Tokenized)",
+  "name": "Jabil (Ondo Tokenized Stock)",
   "symbol": "JBLon",
   "decimals": 18,
   "erc20": true

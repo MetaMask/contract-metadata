@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0x38cBBBF83Ab583E231960B5c112145324Bef55ae.svg",
-  "name": "nVent Electric (Ondo Tokenized)",
+  "name": "nVent Electric (Ondo Tokenized Stock)",
   "symbol": "NVTon",
   "decimals": 18,
   "erc20": true

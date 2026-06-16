@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0xD41829Dec8b51119176Ee0a6b73BC8B2718546A9.svg",
-  "name": "iShares Floating Rate Loan Active ETF (Ondo Tokenized)",
+  "name": "iShares Floating Rate Loan Active ETF (Ondo Tokenized Stock)",
   "symbol": "BRLNon",
   "decimals": 18,
   "erc20": true

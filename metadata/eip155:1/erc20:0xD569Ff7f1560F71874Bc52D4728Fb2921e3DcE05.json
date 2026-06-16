@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0xD569Ff7f1560F71874Bc52D4728Fb2921e3DcE05.svg",
-  "name": "Kopin (Ondo Tokenized)",
+  "name": "Kopin (Ondo Tokenized Stock)",
   "symbol": "KOPNon",
   "decimals": 18,
   "erc20": true

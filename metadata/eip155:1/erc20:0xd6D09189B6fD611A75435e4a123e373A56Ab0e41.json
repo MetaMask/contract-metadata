@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0xd6D09189B6fD611A75435e4a123e373A56Ab0e41.svg",
-  "name": "Astera Labs (Ondo Tokenized)",
+  "name": "Astera Labs (Ondo Tokenized Stock)",
   "symbol": "ALABon",
   "decimals": 18,
   "erc20": true

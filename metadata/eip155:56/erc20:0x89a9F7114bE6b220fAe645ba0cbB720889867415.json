@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0x89a9F7114bE6b220fAe645ba0cbB720889867415.svg",
-  "name": "Ciena (Ondo Tokenized)",
+  "name": "Ciena (Ondo Tokenized Stock)",
   "symbol": "CIENon",
   "decimals": 18,
   "erc20": true

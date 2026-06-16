@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0x948B03e4A1F1330d86Ea3adE02482639B5cCe720.svg",
-  "name": "Cohu (Ondo Tokenized)",
+  "name": "Cohu (Ondo Tokenized Stock)",
   "symbol": "COHUon",
   "decimals": 18,
   "erc20": true

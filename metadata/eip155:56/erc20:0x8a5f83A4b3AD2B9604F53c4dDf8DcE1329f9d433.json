@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0x8a5f83A4b3AD2B9604F53c4dDf8DcE1329f9d433.svg",
-  "name": "Nova (Ondo Tokenized)",
+  "name": "Nova (Ondo Tokenized Stock)",
   "symbol": "NVMIon",
   "decimals": 18,
   "erc20": true

@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0x034c9ffeC64597E0a0622ca5B9eAF00839052e0a.svg",
-  "name": "Global X S&P 500 Covered Call ETF (Ondo Tokenized)",
+  "name": "Global X S&P 500 Covered Call ETF (Ondo Tokenized Stock)",
   "symbol": "XYLDon",
   "decimals": 18,
   "erc20": true

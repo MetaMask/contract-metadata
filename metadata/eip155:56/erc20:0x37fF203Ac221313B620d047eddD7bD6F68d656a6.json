@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0x37fF203Ac221313B620d047eddD7bD6F68d656a6.svg",
-  "name": "VeriSign (Ondo Tokenized)",
+  "name": "VeriSign (Ondo Tokenized Stock)",
   "symbol": "VRSNon",
   "decimals": 18,
   "erc20": true

@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0x448550De96bCBEF1d8ccd755b5BC842f58485b46.svg",
-  "name": "Leonardo DRS (Ondo Tokenized)",
+  "name": "Leonardo DRS (Ondo Tokenized Stock)",
   "symbol": "DRSon",
   "decimals": 18,
   "erc20": true

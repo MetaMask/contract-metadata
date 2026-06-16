@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0x0D8EF471a11036Bc6dDa1536069457f7e97daB66.svg",
-  "name": "Arteris (Ondo Tokenized)",
+  "name": "Arteris (Ondo Tokenized Stock)",
   "symbol": "AIPon",
   "decimals": 18,
   "erc20": true

@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0x49ccB157c77AFE5F264C35f0e9178a98D77815Ab.svg",
-  "name": "Rambus (Ondo Tokenized)",
+  "name": "Rambus (Ondo Tokenized Stock)",
   "symbol": "RMBSon",
   "decimals": 18,
   "erc20": true

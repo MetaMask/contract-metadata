@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0x0C50323AF81D5C33822c6Add256Fb9093D42BC74.svg",
-  "name": "AXT (Ondo Tokenized)",
+  "name": "AXT (Ondo Tokenized Stock)",
   "symbol": "AXTIon",
   "decimals": 18,
   "erc20": true

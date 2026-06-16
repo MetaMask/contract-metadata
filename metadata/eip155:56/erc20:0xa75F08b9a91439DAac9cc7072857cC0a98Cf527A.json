@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0xa75F08b9a91439DAac9cc7072857cC0a98Cf527A.svg",
-  "name": "Cameco (Ondo Tokenized)",
+  "name": "Cameco (Ondo Tokenized Stock)",
   "symbol": "CCJon",
   "decimals": 18,
   "erc20": true

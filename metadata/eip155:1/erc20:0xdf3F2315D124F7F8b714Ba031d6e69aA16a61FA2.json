@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0xdf3F2315D124F7F8b714Ba031d6e69aA16a61FA2.svg",
-  "name": "Hut 8 (Ondo Tokenized)",
+  "name": "Hut 8 (Ondo Tokenized Stock)",
   "symbol": "HUTon",
   "decimals": 18,
   "erc20": true

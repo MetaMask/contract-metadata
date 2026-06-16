@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0x96c662b152BEC886fAcab388bd98470FD3Aa9737.svg",
-  "name": "Keel Infrastructure (Ondo Tokenized)",
+  "name": "Keel Infrastructure (Ondo Tokenized Stock)",
   "symbol": "KEELon",
   "decimals": 18,
   "erc20": true

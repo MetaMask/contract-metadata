@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0x879Fc0D8DFdb13b4aF3513d9838f82c4Df8F57E8.svg",
-  "name": "iShares Systematic Alternatives Active ETF (Ondo Tokenized)",
+  "name": "iShares Systematic Alternatives Active ETF (Ondo Tokenized Stock)",
   "symbol": "IALTon",
   "decimals": 18,
   "erc20": true

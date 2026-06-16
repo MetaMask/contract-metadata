@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0x67A47353D5449fC24088190c44247d4D4E296073.svg",
-  "name": "Ouster (Ondo Tokenized)",
+  "name": "Ouster (Ondo Tokenized Stock)",
   "symbol": "OUSTon",
   "decimals": 18,
   "erc20": true

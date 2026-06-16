@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0x05d2d23398756821dC3DE359ffCe8EBbD50af8c5.svg",
-  "name": "EQT (Ondo Tokenized)",
+  "name": "EQT (Ondo Tokenized Stock)",
   "symbol": "EQTon",
   "decimals": 18,
   "erc20": true

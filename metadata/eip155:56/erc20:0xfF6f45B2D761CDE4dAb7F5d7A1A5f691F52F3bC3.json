@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0xfF6f45B2D761CDE4dAb7F5d7A1A5f691F52F3bC3.svg",
-  "name": "Harmonic (Ondo Tokenized)",
+  "name": "Harmonic (Ondo Tokenized Stock)",
   "symbol": "HLITon",
   "decimals": 18,
   "erc20": true

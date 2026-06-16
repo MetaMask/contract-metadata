@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0xe905C437A30AE6d8c0576E0D9F6360B93B94976D.svg",
-  "name": "iShares 3-7 Year Treasury Bond ETF (Ondo Tokenized)",
+  "name": "iShares 3-7 Year Treasury Bond ETF (Ondo Tokenized Stock)",
   "symbol": "IEIon",
   "decimals": 18,
   "erc20": true

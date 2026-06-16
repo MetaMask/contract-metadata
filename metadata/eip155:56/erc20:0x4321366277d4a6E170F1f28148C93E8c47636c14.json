@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0x4321366277d4a6E170F1f28148C93E8c47636c14.svg",
-  "name": "Oceaneering International (Ondo Tokenized)",
+  "name": "Oceaneering International (Ondo Tokenized Stock)",
   "symbol": "OIIon",
   "decimals": 18,
   "erc20": true

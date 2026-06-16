@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0x43807bf4ce06F4fbb4FA8DEac37BF274AEa324Da.svg",
-  "name": "Lincoln Electric (Ondo Tokenized)",
+  "name": "Lincoln Electric (Ondo Tokenized Stock)",
   "symbol": "LECOon",
   "decimals": 18,
   "erc20": true

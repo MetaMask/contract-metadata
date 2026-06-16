@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:56/erc20:0xF1a96d4B591E446445600789D60C73Dd636B357c.svg",
-  "name": "Fluence Energy (Ondo Tokenized)",
+  "name": "Fluence Energy (Ondo Tokenized Stock)",
   "symbol": "FLNCon",
   "decimals": 18,
   "erc20": true

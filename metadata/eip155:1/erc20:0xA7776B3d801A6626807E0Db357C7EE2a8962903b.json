@@ -1,6 +1,6 @@
 {
   "logo": "./icons/eip155:1/erc20:0xA7776B3d801A6626807E0Db357C7EE2a8962903b.svg",
-  "name": "Global X NASDAQ 100 Covered Call ETF (Ondo Tokenized)",
+  "name": "Global X NASDAQ 100 Covered Call ETF (Ondo Tokenized Stock)",
   "symbol": "QYLDon",
   "decimals": 18,
   "erc20": true
