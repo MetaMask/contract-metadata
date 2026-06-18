@@ -30,7 +30,7 @@ jobs:
           while IFS= read -r file; do
             [ -f "$file" ] || continue
 
-            if python3 -c "import json,sys; d=json.load(open('$file')); sys.exit(0 if '(Ondo Tokenized' in d.get('name','') else 1)" 2>/dev/null; then
+            if python3 -c "import json,sys; d=json.load(open('$file')); sys.exit(0 if '(Ondo Tokenized)' in d.get('name','') else 1)" 2>/dev/null; then
               # Derive expected label path:
               # metadata/eip155:1/erc20:0xABC.json -> labels/eip155:1/erc20:0xABC.json
               label_file="${file/metadata\//labels/}"
