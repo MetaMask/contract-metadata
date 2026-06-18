@@ -1,0 +1,79 @@
+name: Validate Ondo Tokenized Labels
+
+on:
+  pull_request:
+
+jobs:
+  validate-ondo-labels:
+    name: Validate Ondo Tokenized Labels
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Get changed metadata files in this PR
+        id: changed
+        run: |
+          # List files added or modified in this PR vs the base branch
+          git diff --name-only --diff-filter=AM origin/${{ github.base_ref }}...HEAD \
+            | grep '^metadata/.*\.json$' > changed_metadata.txt || true
+          echo "Changed metadata files:"
+          cat changed_metadata.txt || echo "(none)"
+
+      - name: Check Ondo Tokenized metadata has a label file
+        run: |
+          set -euo pipefail
+
+          ERRORS=()
+
+          while IFS= read -r file; do
+            [ -f "$file" ] || continue
+
+            if python3 -c "import json,sys; d=json.load(open('$file')); sys.exit(0 if '(Ondo Tokenized' in d.get('name','') else 1)" 2>/dev/null; then
+              # Derive expected label path:
+              # metadata/eip155:1/erc20:0xABC.json -> labels/eip155:1/erc20:0xABC.json
+              label_file="${file/metadata\//labels/}"
+
+              if [ ! -f "$label_file" ]; then
+                ERRORS+=("Missing label file for: $file (expected: $label_file)")
+              else
+                # Confirm labels array is non-empty
+                if ! python3 -c "
+          import json, sys
+          with open('$label_file') as f:
+              data = json.load(f)
+          if not data.get('labels'):
+              sys.exit(1)
+          " 2>/dev/null; then
+                  ERRORS+=("Label file exists but has no labels: $label_file")
+                fi
+              fi
+            fi
+          done < changed_metadata.txt
+
+          if [ ${#ERRORS[@]} -gt 0 ]; then
+            echo ""
+            echo "❌ Validation failed — the following Ondo Tokenized metadata entries are missing a label file:"
+            echo ""
+            for err in "${ERRORS[@]}"; do
+              echo "  • $err"
+            done
+            echo ""
+            echo "Every token whose name contains '(Ondo Tokenized)' must have a corresponding"
+            echo "label file under labels/ with at least one label (e.g. \"ondo\")."
+            echo ""
+            echo "To add a label, run:"
+            echo "  npm run asset:set -- --caip <caip> --labels \"ondo\""
+            exit 1
+          fi
+
+          echo "✅ All Ondo Tokenized metadata entries in this PR have a valid label file."
+
+  all-jobs-pass:
+    name: All jobs pass
+    runs-on: ubuntu-latest
+    needs:
+      - validate-ondo-labels
+    steps:
+      - run: echo "Great success!"
