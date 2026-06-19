@@ -1,0 +1,7 @@
+{
+  "name": "Noya Network",
+  "symbol": "NOYA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x0ae2ac003569b6B1e4DdB40dB098F204Fe054014.svg"
+}
