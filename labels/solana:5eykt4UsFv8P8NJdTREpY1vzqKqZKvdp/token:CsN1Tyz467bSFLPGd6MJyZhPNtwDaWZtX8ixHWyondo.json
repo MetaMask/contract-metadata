@@ -1,5 +1,7 @@
 {
-  "labels": [
-    "ondo"
-  ]
+    "labels": [
+        "ondo",
+        "balance_grouping:rwa:corporate-credit",
+        "balance_grouping_provider:2"
+    ]
 }
