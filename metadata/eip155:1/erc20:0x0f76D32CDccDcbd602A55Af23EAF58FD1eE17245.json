@@ -1,0 +1,9 @@
+{
+  "eip155:1/erc20:0x0f76D32CDccDcbd602A55Af23EAF58FD1eE17245": {
+    "name": "Backed ERNA $ Ultrashort Bond",
+    "symbol": "bERNA",
+    "decimals": 18,
+    "erc20": true,
+    "logo": "./icons/eip155:1/erc20:0x0f76D32CDccDcbd602A55Af23EAF58FD1eE17245.svg"
+  }
+}
