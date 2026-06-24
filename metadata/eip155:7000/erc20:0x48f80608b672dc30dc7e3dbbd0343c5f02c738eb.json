@@ -1,0 +1,7 @@
+{
+  "name": "BNB.BSC",
+  "symbol": "BNB.BSC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:7000/erc20:0x48f80608b672dc30dc7e3dbbd0343c5f02c738eb.svg"
+}

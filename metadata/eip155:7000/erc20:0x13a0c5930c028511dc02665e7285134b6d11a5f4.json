@@ -1,0 +1,7 @@
+{
+  "name": "BTC.BTC",
+  "symbol": "BTC.BTC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:7000/erc20:0x13a0c5930c028511dc02665e7285134b6d11a5f4.svg"
+}
