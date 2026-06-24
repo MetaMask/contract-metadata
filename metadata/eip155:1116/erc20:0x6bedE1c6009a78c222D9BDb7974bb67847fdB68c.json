@@ -1,0 +1,7 @@
+{
+    "name": "US Bitcoin Dollar",
+    "symbol": "USBD",
+    "decimals": 18,
+    "erc20": true,
+    "logo": "./icons/eip155:1116/erc20:0x6bedE1c6009a78c222D9BDb7974bb67847fdB68c.svg"
+}
