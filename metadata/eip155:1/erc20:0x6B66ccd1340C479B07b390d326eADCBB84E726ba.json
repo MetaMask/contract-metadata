@@ -1,0 +1,8 @@
+{
+  "name": "Seamless",
+  "symbol": "SEAM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x6B66ccd1340C479B07b390d326eADCBB84E726ba.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x50e186b4bef1bde3c9529db6a46ac5b8737ef1c633fdb9f341c1c5daf9d4f24d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

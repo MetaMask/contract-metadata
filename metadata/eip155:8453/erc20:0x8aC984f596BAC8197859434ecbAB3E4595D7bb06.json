@@ -1,0 +1,8 @@
+{
+  "name": "Bizzy by Virtuals",
+  "symbol": "BIZ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x8aC984f596BAC8197859434ecbAB3E4595D7bb06.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x952f5f7113543814366071ad1c0de20b6b10d2613358fc97d13ff9060cff060b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

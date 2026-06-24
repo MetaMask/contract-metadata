@@ -1,0 +1,8 @@
+{
+  "name": "xToken",
+  "symbol": "XTK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x7F3Edcdd180dBE4819bD98fee8929B5CEDb3adeb./ipfs/qmackn13zqnwqgevbh4zh22fg6ez4cywelwkqfaylqw9zt/xtk",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2bbc2408b15afbe89dcb01ab4db61dc9b495a9231eaa7529c42dfb95c76e4f75@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

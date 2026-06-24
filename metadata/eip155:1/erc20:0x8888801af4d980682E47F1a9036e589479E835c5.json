@@ -1,0 +1,8 @@
+{
+  "name": "88mph",
+  "symbol": "MPH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x8888801af4d980682E47F1a9036e589479E835c5./ipfs/qmvv5w5hvazaofgvf8oavq234gdw4kjeapv4ctjvwk8d14/mph",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0bb54fcc47cc5e1765d57a820908ae6ae3ac2a68f98949d8fba24be06cfe3069@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

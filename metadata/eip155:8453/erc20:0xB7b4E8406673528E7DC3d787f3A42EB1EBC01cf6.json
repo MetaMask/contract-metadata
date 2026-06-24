@@ -1,0 +1,8 @@
+{
+  "name": "Liminal by Virtuals",
+  "symbol": "LMNL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xB7b4E8406673528E7DC3d787f3A42EB1EBC01cf6.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe7d54341b46262c05b78b3d191a277a9bd0db5c3cdf6a26b5466e0bd0a89178b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

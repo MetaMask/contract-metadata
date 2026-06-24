@@ -1,0 +1,8 @@
+{
+  "name": "Tokenplace",
+  "symbol": "TOK",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x4Fb721ef3bf99E0F2C193847afA296B9257D3c30./ipfs/qmdosjqntznw8mrwbd4dakkjgnzghhd4qbxmrgae1pvqyn/tok",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xeeb1213ea992477a8fdc885e2ef8e1930ca91ce6ff85375194770b8aab9f35e4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

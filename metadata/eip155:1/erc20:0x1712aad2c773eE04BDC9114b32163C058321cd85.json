@@ -1,0 +1,8 @@
+{
+  "name": "LimitSwap",
+  "symbol": "LIMIT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1712aad2c773eE04BDC9114b32163C058321cd85./ipfs/qmsehbge9r6zexlbcbjlz18q9xegdd3nd6d6rzvcgq6qc3/bce2sqtzocm5xww9xtv8uqg4vc3vsomk624tzye1a4arrrug3gihrfhs3tpstyhbvdbv3nbw9m2hpm4jddkgygdr9y",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x73dba6d692ce06f6326f08df07bde7df02eaf563fb7336d9cb67fcf514f49b66@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Cream AAVE",
+  "symbol": "crAAVE",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3225E3c669B39C7C8B3E204a8614BB218C5E31bc./ipfs/qmsezfaejzr1catjnhbxzzppzdwmi2qtq6nafloxjxpjx5/craave",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x566d8da6c49b9600f8efc8154d7f003f9305a1e2c906e6c3c41aff70ee775b27@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

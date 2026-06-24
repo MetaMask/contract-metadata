@@ -1,0 +1,8 @@
+{
+  "name": "Planet Mojo",
+  "symbol": "MOJO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xED2D13a70AcBD61074Fc56bd0d0845E35F793e5e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x587927b0fd2c96fbb6642e3cb11c61423db8e5bafac9c2f45e1a97415b478eed@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "EDE",
+  "symbol": "EDE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x0a074378461fB7ED3300Ea638c6CC38246Db4434.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x03ae2695ac9ba8817a266314cb0d590f6c867e751d3305215b50d0df35ff1e23@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

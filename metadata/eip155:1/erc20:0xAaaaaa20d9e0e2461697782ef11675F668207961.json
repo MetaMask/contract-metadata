@@ -1,0 +1,8 @@
+{
+  "name": "Aurora",
+  "symbol": "AURORA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xAaaaaa20d9e0e2461697782ef11675F668207961.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa3fadf9099a9c183ad7e0d87245a4c554b7bfc84a33b7ea34bb484fa2f18c020@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

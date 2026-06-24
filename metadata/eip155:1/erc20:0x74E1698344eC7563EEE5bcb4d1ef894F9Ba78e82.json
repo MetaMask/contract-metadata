@@ -1,0 +1,8 @@
+{
+  "name": "MemeCoin Universe",
+  "symbol": "MCU",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x74E1698344eC7563EEE5bcb4d1ef894F9Ba78e82./ipfs/qmxounwdsahhgxgtvhkprgspruojoufp95dmwnfm9pwnru/mcu",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfb9bd3f2b3a764676c32f5aa76c3bfd92169cb78948471c2031b9578807ccb51@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

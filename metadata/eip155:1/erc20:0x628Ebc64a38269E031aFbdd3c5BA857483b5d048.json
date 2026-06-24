@@ -1,0 +1,8 @@
+{
+  "name": "Liquid Staked ETH",
+  "symbol": "LSETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x628Ebc64a38269E031aFbdd3c5BA857483b5d048./ipfs/qmpt6tsn9gnqtncjufbh1kzvzi63gfvbqh8uus6a5ulu2f/lseth",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x25572adc090cd2bc3d49650dfa16b925ba637a94266543e4bbd7f341d63399b1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Epoch",
+  "symbol": "EPOCH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x287F0d88e29A3D7AEB4D0c10bAe5B902DB69b17d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x98c7a17fefcdf6cc990dbb9651de72b60cd21c1d101d6e66d91cd982c20eab2c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

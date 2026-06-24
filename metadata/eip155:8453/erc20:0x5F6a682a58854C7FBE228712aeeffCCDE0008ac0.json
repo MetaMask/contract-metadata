@@ -1,0 +1,8 @@
+{
+  "name": "Rabbi Schlomo by Virtuals",
+  "symbol": "SHEKEL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x5F6a682a58854C7FBE228712aeeffCCDE0008ac0.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3ae607de081a379eac6a8c449638637f36876aee6b4313ef138ac865b780974a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

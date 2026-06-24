@@ -1,0 +1,8 @@
+{
+  "name": "Nutraceutical Finance",
+  "symbol": "NUTRA",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x5DE83a4b2cA7D85476bb5ca5435e1BF1BBFDE9a2./ipfs/qmpugw4v5ezuurvqxndniagsmouxhsjeh32xhep3htx1na/nutra",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa34a75ae90a71cc59fb6653627ced2eadb8edf3bfc7b4cf350d7b27a585ca099@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

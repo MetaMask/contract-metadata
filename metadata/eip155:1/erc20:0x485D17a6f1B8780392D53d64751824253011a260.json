@@ -1,0 +1,8 @@
+{
+  "name": "Chrono.tech",
+  "symbol": "TIME",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x485D17a6f1B8780392D53d64751824253011a260.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2d9a595f7734c5f69a664d05f7a43dba69e747bed1eec4bb498d49d1d3a8c13e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Venus ETH",
+  "symbol": "vETH",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xF508Fcd89b8BD15579Dc79a6827CB4686a3592c8.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6baaec64608acfd7e7511ea9bdef7ada960342aed34efc7861cecd34241e2382@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

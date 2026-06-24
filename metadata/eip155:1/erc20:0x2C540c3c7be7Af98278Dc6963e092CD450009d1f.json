@@ -1,0 +1,8 @@
+{
+  "name": "Sparko",
+  "symbol": "SPARKO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x2C540c3c7be7Af98278Dc6963e092CD450009d1f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xab6b3e24a6179a05a484a6b2cd1ca56b37772f24e7f4c5adb8b087dffd8410c5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

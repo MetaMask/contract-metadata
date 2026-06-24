@@ -1,0 +1,8 @@
+{
+  "name": "Hover Cat",
+  "symbol": "HCAT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xBFabE191449A1549A0bE6F5c0AA09AFFECbEbc32.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfbdf5082d3e1ba478732572e43a2f9677ecda1df1e1662d7fcb2e5b40e058d40@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

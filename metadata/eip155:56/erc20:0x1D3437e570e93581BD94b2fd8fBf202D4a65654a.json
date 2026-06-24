@@ -1,0 +1,8 @@
+{
+  "name": "NanoByte",
+  "symbol": "NBT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x1D3437e570e93581BD94b2fd8fBf202D4a65654a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x006d1154191a09f9cdc7ae82cedced9f73e30adc08f1f5e50973f0f17e9c2e16@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

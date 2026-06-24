@@ -1,0 +1,8 @@
+{
+  "name": "YieldMachine by Virtuals",
+  "symbol": "YMACH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xBa1cc6e3f1c5f937497E4e196196e7535E6a8e63.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xaa6010e11d9bd0efddbae53cd7ab1960ae25effbf892aaca2279b843a5ee7f00@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

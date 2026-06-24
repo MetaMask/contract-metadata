@@ -1,0 +1,8 @@
+{
+  "name": "APOLLO AI by Virtuals",
+  "symbol": "APL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xB55Fcd62ed44253C45735bde6703C44100935747.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3cdfb61e91cf0f514cc983550094ecb72fb0da48f25d72871b853c45fa6fe9f5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

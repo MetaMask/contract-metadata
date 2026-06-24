@@ -1,0 +1,8 @@
+{
+  "name": "Gamestarter",
+  "symbol": "GAME",
+  "decimals": 5,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x66109633715d2110DDa791e64A7B2AFADB517abb.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4172036195f6f6272f4e5aabcd7c8a97420a12fc2b57fcac17bb624adb2cb960@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

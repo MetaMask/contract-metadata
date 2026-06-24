@@ -1,0 +1,8 @@
+{
+  "name": "Cream Meta",
+  "symbol": "crMTA",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3623387773010D9214b10c551d6e7fC375D31F58./ipfs/qmtmtz7auhnpeacuvvo8pgeffprxxzyxkyytfq7nxg4vau/crmta",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6e5671febf05d66882903dfad55d8bea5c4504f54abaa3dfe31ad150cdee322f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

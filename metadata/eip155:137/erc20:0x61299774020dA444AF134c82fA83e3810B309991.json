@@ -1,0 +1,8 @@
+{
+  "name": "Render",
+  "symbol": "RNDR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0x61299774020dA444AF134c82fA83e3810B309991.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3111a189036013cb5c70864ba652c13691e15205e999a064ae87e6df0a92f210@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

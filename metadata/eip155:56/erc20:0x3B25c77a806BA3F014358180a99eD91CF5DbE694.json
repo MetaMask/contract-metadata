@@ -1,0 +1,8 @@
+{
+  "name": "SocialPal",
+  "symbol": "SPL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x3B25c77a806BA3F014358180a99eD91CF5DbE694.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xaf2c959040a5f3fe2d2c5277b73520e32b4bbbfa189fe74e83fce15a17b8e797@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

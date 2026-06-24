@@ -1,0 +1,8 @@
+{
+  "name": "WigoSwap",
+  "symbol": "WIGO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:250/erc20:0xE992beab6659BfF447893641a378fBBF031c5bd6.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb98358cd6e0ba7185e34428b9b90e8f6177a2bef3d2016e4c9d47fc1656eeb62@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

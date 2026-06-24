@@ -1,0 +1,8 @@
+{
+  "name": "Wokie Plumpkin by Virtuals",
+  "symbol": "WOKIE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xBFEFd7a0edA8A0FEB06D0F52cf431AFD0F9b2dd0.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdecb5ead8d88f5c9964e704c46d41c963dae07ebdd0269cf6e11698c072e706d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

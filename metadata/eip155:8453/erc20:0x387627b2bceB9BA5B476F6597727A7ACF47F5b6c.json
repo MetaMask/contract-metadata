@@ -1,0 +1,8 @@
+{
+  "name": "YapTrade DAO",
+  "symbol": "YT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x387627b2bceB9BA5B476F6597727A7ACF47F5b6c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc08109d9eb1d404deee8f7327a77960fcb14a9811d0235494a0fb6f110f7bcbe@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

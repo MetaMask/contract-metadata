@@ -1,0 +1,8 @@
+{
+  "name": "Menlo One",
+  "symbol": "ONE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x4D807509aece24C0Fa5a102b6A3B059EC6E14392./ipfs/qmcsne1izu4okvxyzgbdzj3jycxar6yycghbudm99wu5ve/bcd77kqihqwcuzakoxwz236bzfhsqpiaakh6h9geuygqgbupatn7mnenwzrmpca3rsvh1y5g9ses3z6qehtxdzqj33",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x217cc9ca6b0455b293a426c2879f5f39991f1a1df88202956e3cfb9386828f64@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

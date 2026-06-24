@@ -1,0 +1,8 @@
+{
+  "name": "Alchemix USD",
+  "symbol": "alUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0xCB8Fa9a76b8e203D8C3797bf438d8fB81Ea3326a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xde61c77aa6a60cc593fa6b09d4ab886faab708828bfd17e8883c7d3fd776acb9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

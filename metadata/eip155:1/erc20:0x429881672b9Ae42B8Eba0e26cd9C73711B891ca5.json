@@ -1,0 +1,8 @@
+{
+  "name": "Pickle Finance",
+  "symbol": "PICKLE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x429881672b9Ae42B8Eba0e26cd9C73711B891ca5./ipfs/qmvdmmlvntzfkbrrmrcmf7bdyf691h4e7q6mb87wyiqzl1/bccycsnwuhh7uysa2zczvvznmse9xm8bjf7nt3pb4ytydurzqowvdyaqmmbs8jmvbjuahhbjcenjjkfntuknwtpf59",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdc57d2ea7c58211c25b69b2acf2eab41afd8fa2f681fbd4240259b6acbc0e4d2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

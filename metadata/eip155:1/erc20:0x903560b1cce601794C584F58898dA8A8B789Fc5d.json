@@ -1,0 +1,8 @@
+{
+  "name": "Cream Keep3rV1",
+  "symbol": "crKP3R",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x903560b1cce601794C584F58898dA8A8B789Fc5d./ipfs/qmz7ql7iuwnxptm1kgsp6mrjqyokymw8anzprqwcmw2ecu/crkp3r",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x029bf89fadff8d814984e1b3e023180a9ff2f6f5ceffa21ac8e49b37adc2d9a7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

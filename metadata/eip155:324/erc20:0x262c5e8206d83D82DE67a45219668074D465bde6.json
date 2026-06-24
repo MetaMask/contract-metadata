@@ -1,0 +1,8 @@
+{
+  "name": "Base Protocol",
+  "symbol": "BASE",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x262c5e8206d83D82DE67a45219668074D465bde6.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x33d884d550d23002bff152f8184619c11b628e9b567493dc37d06cfd62977516@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

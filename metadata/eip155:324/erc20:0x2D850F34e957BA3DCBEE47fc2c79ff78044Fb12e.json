@@ -1,0 +1,8 @@
+{
+  "name": "NBX",
+  "symbol": "BYN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x2D850F34e957BA3DCBEE47fc2c79ff78044Fb12e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdd260ace06cfef1df8bb21d05f682613455b78b89c04fc47a08452a3821bdb42@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

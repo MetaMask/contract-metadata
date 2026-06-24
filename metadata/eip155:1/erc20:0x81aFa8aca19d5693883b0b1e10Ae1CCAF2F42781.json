@@ -1,0 +1,8 @@
+{
+  "name": "ForeverUp",
+  "symbol": "FOREVERUP",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x81aFa8aca19d5693883b0b1e10Ae1CCAF2F42781./ipfs/qmtc8p2y2jvhamm94mzyhk5gj7i46rgcylnnymeinrnttg/foreverup",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xafc1e53b4be72050a1d195a88a60188bcac4df83d0c239b30ad4418922ea88dc@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

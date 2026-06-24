@@ -1,0 +1,8 @@
+{
+  "name": "Strike ETH",
+  "symbol": "sETH",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xBEE9cF658702527B0aCb2719c1fAA29EDC006a92./ipfs/qmulcvy2gcmog8sgw6vizstx6zppcirtbsbjb4zmkiqprm/seth",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1e5948c28bcfe739366719c680159ac41b5a90e02daeb70a3225374e228252eb@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

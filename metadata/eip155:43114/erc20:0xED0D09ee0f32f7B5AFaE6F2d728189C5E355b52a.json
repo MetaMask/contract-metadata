@@ -1,0 +1,8 @@
+{
+  "name": "Lizard",
+  "symbol": "LIZARD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xED0D09ee0f32f7B5AFaE6F2d728189C5E355b52a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xefa561aefe5cb6161899c1438058bfd06aae5c0c27311a7c8beb7acfbb990777@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

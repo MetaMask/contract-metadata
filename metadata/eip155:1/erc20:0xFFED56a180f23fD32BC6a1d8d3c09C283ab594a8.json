@@ -1,0 +1,8 @@
+{
+  "name": "Freeliquid",
+  "symbol": "FL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xFFED56a180f23fD32BC6a1d8d3c09C283ab594a8./ipfs/qmviwrpfyi7mbrxhbasd6dznapjcgfvq3wpac2cmgaq1ko/fl",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf462be2b614425aa1e005d0b1f6df0e73f522fafa3ede4ddddccca466057ca78@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

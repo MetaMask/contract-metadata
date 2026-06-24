@@ -1,0 +1,8 @@
+{
+  "name": "H3X",
+  "symbol": "H3X",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x85Eba557c06C348395FD49e35d860f58A4F7c95a./ipfs/qmrzrveiuhsngrvjxwkpogfp3fkzaewb8pucjehoagqwu5/bcd5wktgeuwajfe9m9oytmfa8ke4va6wg8h8h8urkbbarfbwhxoj1fkc5cluj8pprqz46esxnljfcrr96mexqfajfd",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x20984b87b6154b6025f543f1db678372db6b1ebc5bd92ee5d07c397e5f2764d6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

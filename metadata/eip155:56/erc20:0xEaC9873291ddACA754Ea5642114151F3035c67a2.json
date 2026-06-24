@@ -1,0 +1,8 @@
+{
+  "name": "Decubate",
+  "symbol": "DCB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xEaC9873291ddACA754Ea5642114151F3035c67a2.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb143c881e35bf225c53ffd3cf6ff4acd12df6e1f38d3b2879d703e1bcd7a1ace@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

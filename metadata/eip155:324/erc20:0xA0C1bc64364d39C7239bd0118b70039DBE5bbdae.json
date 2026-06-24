@@ -1,0 +1,8 @@
+{
+  "name": "PureFi",
+  "symbol": "UFI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xA0C1bc64364d39C7239bd0118b70039DBE5bbdae.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb408c79fbc2a7bbf9caf6cb91a985ab6e5253843c8627ed9afcf2e67a6c5a113@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

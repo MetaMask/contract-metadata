@@ -1,0 +1,8 @@
+{
+  "name": "Alta Finance",
+  "symbol": "ALTA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xE0Cca86b254005889aC3a81e737f56A14F4a38f5./ipfs/qmbn4edzh2puzr85e8m6bmqsqmc756xhq3mxgzvr5gyngd/alta",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0ee227789c0c6295e09384458e3433f96e7612936cf38f109eb6f35e720d3a3f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

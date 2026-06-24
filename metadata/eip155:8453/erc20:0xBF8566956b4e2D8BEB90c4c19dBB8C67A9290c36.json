@@ -1,0 +1,8 @@
+{
+  "name": "VIRGEN by Virtuals",
+  "symbol": "VIRGEN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xBF8566956b4e2D8BEB90c4c19dBB8C67A9290c36.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9180cd162f1640887fd2f16bf604001e57d0fbc8d62f50cc146a92236b8d74e1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

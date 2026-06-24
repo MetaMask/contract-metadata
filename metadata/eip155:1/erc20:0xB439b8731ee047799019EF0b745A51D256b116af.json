@@ -1,0 +1,8 @@
+{
+  "name": "BullionFX",
+  "symbol": "BULL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB439b8731ee047799019EF0b745A51D256b116af./ipfs/qmzip1yxobej4w9ar6dbiu2w7rbs3ot2dcrvuuzxe382ju/bull",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2b179564ffa64b3e569d0e36f34c3a1abb52f3eae08819b891c3f1d015782dba@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

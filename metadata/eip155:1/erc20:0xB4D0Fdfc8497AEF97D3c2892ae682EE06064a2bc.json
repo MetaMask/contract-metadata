@@ -1,0 +1,8 @@
+{
+  "name": "Formosa Financial",
+  "symbol": "FMF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB4D0Fdfc8497AEF97D3c2892ae682EE06064a2bc./ipfs/qmsncpzpde7szhunm5jfepgu8lpglfyfqexhow82cflnzz/bcd8fgfo3mcpyfmq7mmvkyfogtupv5ukx4eojoel8uvwl1atqbifm2rce9p9j8c7kohqelxdtaaglkmfchzb6ftnn8",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbe2644f8610c1486314030322001530b72d928d7e54cf1e1675ea57572004538@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

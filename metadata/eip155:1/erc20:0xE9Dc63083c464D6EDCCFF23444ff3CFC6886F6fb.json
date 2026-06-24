@@ -1,0 +1,8 @@
+{
+  "name": "Curve oBTC Pool yVault",
+  "symbol": "yvCurve-oBTC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xE9Dc63083c464D6EDCCFF23444ff3CFC6886F6fb./ipfs/qmeov68btu3kfxwpjmkfcskcpmwq9pjfspghuktpjoy3fz/yvcurve-obtc",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa78c13a987e947e380ed47aebdb1f20a0100c35429323b2ed22ea0efee548983@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Pichi",
+  "symbol": "PCH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0xBE5acFd64358805616b5cbd5277B9A85011D7cf1.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbe4ef8872625a9f686aff8adc088ba7a9af7479de2cefcbc227d4e0233fd2492@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

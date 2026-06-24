@@ -1,0 +1,8 @@
+{
+  "name": "Ecoreal Estate ",
+  "symbol": "ECOREAL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB052F8a33d8BB068414Eade06Af6955199F9F010./ipfs/qmrftxvajcuqj991jstsch3y7xmht61c4lenxor1lp7txg/ecoreal",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf59dd823b857476a7a282e546315e43e2da64243d8ee1063a2df47c19eec75ce@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

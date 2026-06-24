@@ -1,0 +1,8 @@
+{
+  "name": "KOLZ",
+  "symbol": "KOLZ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x50CE4129cA261CCDE4Eb100c170843C2936bc11b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2e56f66a288a76a2833f2404ea60650dcf3616cef1a229ddafab052d35e6469d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

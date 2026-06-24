@@ -1,0 +1,8 @@
+{
+  "name": "Upfiring",
+  "symbol": "UFR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xEa097a2b1dB00627B2Fa17460Ad260C016016977./ipfs/qmdzsmu9vffc6htcumxxxpcnwnrcbjpgfd1dcw7eatv27k/ufr",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf2925587a3f5ccf392c8565adff49f1f1fd7dbf182727a2e2e1c2f83c09887a9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

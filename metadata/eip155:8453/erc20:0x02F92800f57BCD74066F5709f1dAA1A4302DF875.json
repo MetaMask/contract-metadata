@@ -1,0 +1,8 @@
+{
+  "name": "Peapods",
+  "symbol": "PEAS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x02F92800f57BCD74066F5709f1dAA1A4302DF875.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6fe9a33a0b1e5afdcd87bc8237c356cb1d2dd0a6f3b5d8c8ca169c69d6b898ce@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

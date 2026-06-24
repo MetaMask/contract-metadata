@@ -1,0 +1,8 @@
+{
+  "name": "Bao Finance",
+  "symbol": "BAO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x374cb8c27130e2C9E04F44303f3C8351B9DE61c1./ipfs/qmbf8ozqkknvaymq8ouhgr2utpy5at96kuphdqnhrapwye/bao",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x42125a1ed6981cd74cb216eed509894b348a1a8a497f605ce0785781d88d25cd@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

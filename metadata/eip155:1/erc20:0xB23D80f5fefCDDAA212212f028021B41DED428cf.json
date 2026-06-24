@@ -1,0 +1,8 @@
+{
+  "name": "Echelon Prime",
+  "symbol": "PRIME",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB23D80f5fefCDDAA212212f028021B41DED428cf.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa2c62fe08c4094a50662a73faf0abeb65558d2175b79152e3920b37377e17409@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

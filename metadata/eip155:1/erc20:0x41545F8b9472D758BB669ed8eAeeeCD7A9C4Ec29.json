@@ -1,0 +1,8 @@
+{
+  "name": "Forta",
+  "symbol": "FORT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x41545F8b9472D758BB669ed8eAeeeCD7A9C4Ec29.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x33009c0d6c3a02136578b59a2bd30b9ed4b07a3f37f3be95bda9596e789faed6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

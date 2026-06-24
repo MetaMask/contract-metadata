@@ -1,0 +1,8 @@
+{
+  "name": "Avabot",
+  "symbol": "AVB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x9F71b3118d97A448B127bF7677A59AB7454D0a04.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb493f9d606ee43036bb94654e93483284eeb133c3ec56e207ed70a6608bc7ffe@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

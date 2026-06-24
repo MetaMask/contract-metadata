@@ -1,0 +1,8 @@
+{
+  "name": "Shiberus Inu",
+  "symbol": "SHIBERUS",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x2DFac6327dce9f88E31FF46de13049ECA5a7dFcb./ipfs/qmpumbfy9gpadexqrmmmnaed3u7zfbmhu9nzfpk4ezbben/shiberus",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x82e5736ca3228c00da744d384a6b5de40ee43b3b9d71de471657182a59931253@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

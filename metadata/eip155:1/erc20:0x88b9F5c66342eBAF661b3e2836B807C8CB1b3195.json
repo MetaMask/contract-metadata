@@ -1,0 +1,8 @@
+{
+  "name": "NOBLEBLOCKS",
+  "symbol": "NOBL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x88b9F5c66342eBAF661b3e2836B807C8CB1b3195.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x26b00f92b39cb08f2ed7cfe9533a2209e79f982b710eece3bf540a960d55d804@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

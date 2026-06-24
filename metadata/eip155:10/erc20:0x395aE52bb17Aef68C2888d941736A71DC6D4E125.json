@@ -1,0 +1,8 @@
+{
+  "name": "PoolTogether",
+  "symbol": "POOL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:10/erc20:0x395aE52bb17Aef68C2888d941736A71DC6D4E125.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x16f3439e4c07fb7a27db973e8ece2282c20e128c87fbd1094830f8917b74001d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Cream FTX Token",
+  "symbol": "crFTT",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x10FDbd1e48ee2fD9336a482d746138AE19E649db./ipfs/qmdaxzxrqkfyibprkykfhkpbpan7carrjjrthjwttgu66a/crftt",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe8baa0b01b66afca9a8d7650557131cc81c9db73aacf3df4593644d0fb34ecfb@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

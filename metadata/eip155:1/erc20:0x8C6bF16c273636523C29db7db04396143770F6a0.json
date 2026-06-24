@@ -1,0 +1,8 @@
+{
+  "name": "Moon Rabbit",
+  "symbol": "AAA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x8C6bF16c273636523C29db7db04396143770F6a0./ipfs/qmz1xznxapn86nkvrqngbt8nln4gsll6em9fv317szgobd/aaa",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2bfe4c9f1f666cb4dd0d1157e5fb79002f7e301304db5c757ade2d8d125ec3b5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

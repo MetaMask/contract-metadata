@@ -1,0 +1,8 @@
+{
+  "name": "Lotofomogrow",
+  "symbol": "LFG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x921F10d157d6DfFF4DDcF72a12B53C2EFFEFbb90.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6584b780c8b8cf49de9765b5c73fdcd5fcb47ffc881cb4dfc6bef31c094890b0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Shakaka",
+  "symbol": "SHKK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x77C6986a83d5DBB6162DdF4f1747691005b4388a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5225cb8ce83deb66c9fac8422c4b4fe359205e7c23c9ea84968c5b50f971bb23@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

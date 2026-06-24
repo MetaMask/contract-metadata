@@ -1,0 +1,8 @@
+{
+  "name": "TRIPS",
+  "symbol": "TRIPS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1350Fbe8ce27762EC19134bf8fc405A427FE9bf1./ipfs/qmpz3k6jauetfktachxw3jyzr2xbwjmdsekahg7gpyyyjw/bccx3jccfdoncpyt9a2exvbfw1lhhflepxt9u667up3kcewruli4eqjayls5tyaxwafbrpajivtzqpsg6odeq6zvie",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdaed1c9a88c74b7b9b60b61a8dfb58f3fa9fc836549a4a03954e4f9d8b247bc7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Corite",
+  "symbol": "CO",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x936b6659ad0C1B244Ba8EFe639092ACAE30Dc8d6.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3b24ccf7f48e6a836b3b4171749bbaa824c1c8513bd9407d9717d2921ff329c8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

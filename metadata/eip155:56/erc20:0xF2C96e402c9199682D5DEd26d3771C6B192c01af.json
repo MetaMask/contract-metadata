@@ -1,0 +1,8 @@
+{
+  "name": "Scallop",
+  "symbol": "SCLP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xF2C96e402c9199682D5DEd26d3771C6B192c01af.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0ee7255740f8b7821167d6e61a159847c5ca126f46e208b46c25352a0141724e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

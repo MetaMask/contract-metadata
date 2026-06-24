@@ -1,0 +1,8 @@
+{
+  "name": "FOMO_BASE",
+  "symbol": "FOMO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x6432096f054288EE45b7F6ad8863A1F4A8E1201c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3105666304ded3cc393f560398fed85b54981b9e9e12ba3e18b57b579509f22f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

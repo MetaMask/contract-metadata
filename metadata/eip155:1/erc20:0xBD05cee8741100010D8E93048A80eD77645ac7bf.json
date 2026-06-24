@@ -1,0 +1,8 @@
+{
+  "name": "Cyclops Treasure",
+  "symbol": "CYTR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xBD05cee8741100010D8E93048A80eD77645ac7bf./ipfs/qmpbnbpbrpqauvc7gwbcvhzoykdcmqiklghfmkx7rc4dr8/bcdwnvgm1hb1ignhjtf5kxyqvmkjjfratcg4lylipqmbpcgyovaw17kweph5evpctluqkc8lzz9dh9fcp13knwjst2",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf24e01672fe0180deafdfbb061e66fae0eea82ee9cbe41add83c5e5c0e097469@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

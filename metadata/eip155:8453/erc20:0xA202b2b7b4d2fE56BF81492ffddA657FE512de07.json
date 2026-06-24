@@ -1,0 +1,8 @@
+{
+  "name": "BABY MIGGLES",
+  "symbol": "BABYMIGGLES",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xA202b2b7b4d2fE56BF81492ffddA657FE512de07.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xae07e8cab41f3e8abfe6ee44ea4a86563c62962818d0f5ebc0899ffb51740116@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

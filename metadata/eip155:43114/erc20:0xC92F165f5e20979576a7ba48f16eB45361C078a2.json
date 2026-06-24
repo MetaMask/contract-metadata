@@ -1,0 +1,8 @@
+{
+  "name": "EminGunSirer",
+  "symbol": "EGS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xC92F165f5e20979576a7ba48f16eB45361C078a2.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3522371fb31a4cdc7f0a4a4256d3bd0274c4876b655e11816e5113408fa4596b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Zedxion",
+  "symbol": "USDZ",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0a661F6ad63A1500D714Ed1eeedB64EC493a54a8./ipfs/qmag6dkynmpscwxf4vlxpjq6h2uxg33ywp44j4isbjsd1p/usdz",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x226a451661f88f89b1f2bfaab4ac6f449f001d85510d902f2a8a15445bafbbab@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "BlockCAT",
+  "symbol": "CAT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x56ba2ee7890461F463F7be02aAc3099F6D5811a8./ipfs/qmbzbctckjwqb33ujxhyvj1gudf44tbqnxvvxxvew5vwxi/bcd4nhu6zrghquntywkzfqfqhwy25azn84dwibudk7rfxxmyradoqfuvpqs58ta1x6jjp18amoh4cgbd1ymzzq3pqj",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4283ed9796a19b8b8ee3b240bb4530fc21f937ffdc7d17f3bf62a2e6a697a1d9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "AIPAD.tech",
+  "symbol": "AIPAD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x14a885048eAeA3D9C1bc1c23dc8A2EBD8aCEFc7a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa830eee2a55890ee0f4a8ea12c4b2eb6e1ea7ec7cadd52119039a3d4318cf0ac@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

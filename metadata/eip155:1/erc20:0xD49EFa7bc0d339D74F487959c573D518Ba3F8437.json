@@ -1,0 +1,8 @@
+{
+  "name": "Shield Finance",
+  "symbol": "SHLD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD49EFa7bc0d339D74F487959c573D518Ba3F8437./ipfs/qmyvm3fhxyh9zvemvnnftuprktzfs8srmxihhuz5fwbxbo/shld",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc09b221ade71e9b11d11b462323a4828d6ba086c05009c795a73ee7cb8536b4f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

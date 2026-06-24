@@ -1,0 +1,8 @@
+{
+  "name": "XIO",
+  "symbol": "XIO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0F7F961648Ae6DB43C75663ac7e5414EB79b5704./ipfs/qmnnkn23wcyfkm7jfq99fssqtozjzcqb7ys4nrcfbu3ktd/bcd2sygpemjckqmrfg1du7najnx4ba7ufxabtbcyy8pwwxkqgejuthvr9ndmxpxzmmjr2je9psxwyjmf8nlrmba3qu",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6b29f4c8487998f0c5464b7c18bcb33f1a34bb2793afb5d6cbdbee99842a24f3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

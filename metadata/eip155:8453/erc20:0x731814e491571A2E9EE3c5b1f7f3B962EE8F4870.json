@@ -1,0 +1,8 @@
+{
+  "name": "VaderAI",
+  "symbol": "VADER",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x731814e491571A2E9EE3c5b1f7f3B962EE8F4870.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc5e538b854e75afbb72c6dea2fe1a4fd7a0733c39fe881fbec3db5c8af9e6378@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

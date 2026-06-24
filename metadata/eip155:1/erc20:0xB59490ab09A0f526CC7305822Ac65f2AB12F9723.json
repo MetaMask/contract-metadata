@@ -1,0 +1,8 @@
+{
+  "name": "Litentry",
+  "symbol": "LIT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB59490ab09A0f526CC7305822Ac65f2AB12F9723.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb840f9d4fde2cf0bcf94d14eaf7d33a95c29a02e4ec30b185c334c171beabc78@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

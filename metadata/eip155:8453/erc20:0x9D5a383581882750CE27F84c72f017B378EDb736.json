@@ -1,0 +1,8 @@
+{
+  "name": "Dexalot",
+  "symbol": "ALOT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x9D5a383581882750CE27F84c72f017B378EDb736.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0ffedebf6e22df32bea124ca8e0b74eca7a28b71e47952191c415695e8f2e0cb@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

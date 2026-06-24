@@ -1,0 +1,8 @@
+{
+  "name": "Razor Network",
+  "symbol": "RAZOR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x50DE6856358CC35F3a9a57eaaA34BD4CB707d2cd./ipfs/qmv71gvivwujxzddtshswwzcwbpc8pruhbnvjffjvh1nta/razor",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x69892a0e2b173f50e449a7adf8b05af7a9e15cddeae30728ffd78001351d1fd9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Zero Utility Token",
+  "symbol": "ZUT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x83F873388cd14B83A9F47Fabde3C9850B5C74548./ipfs/qmfnyt8dfqqnbwbebib3qujc2ejuiahuweakmf84vw5pwx/bcd4zdedqucjbmu48qhlyjgevdmewzxypqr1xtzmskqpekccdzz2feta8esfq9yz2rwcgwj37eqbn5qvnict3bsjem",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8ea957505d93c74cc68e2b54b7bb572394c313f5b3abae67bcb421cda2ebd006@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

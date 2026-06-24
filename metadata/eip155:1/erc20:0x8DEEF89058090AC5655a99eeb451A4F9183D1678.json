@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Inverse Tezos",
+  "symbol": "iXTZ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x8DEEF89058090AC5655a99eeb451A4F9183D1678./ipfs/qmbkccessjb7fjfjjh1azeextjbhk8swkchjrc6gcuhpm9/ixtz",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe277052afbda2ed8798c9a328412b92fb702463c630a7cb4b17b60792a4d4b0b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

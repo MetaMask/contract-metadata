@@ -1,0 +1,8 @@
+{
+  "name": "rhino.fi",
+  "symbol": "DVF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xBBD1ba24d589C319C86519646817f2F153C9b716.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc7aa59d1c84c947a6d264f76896e35958bf06912c86606d67b772aa000ddf098@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

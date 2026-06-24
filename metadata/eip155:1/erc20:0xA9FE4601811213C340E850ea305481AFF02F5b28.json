@@ -1,0 +1,8 @@
+{
+  "name": "WETH yVault",
+  "symbol": "yvWETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA9FE4601811213C340E850ea305481AFF02F5b28./ipfs/qmajjq2c5bbe2yigrqctyzg9dtntb1rswyrdhjheutvk8v/yvweth",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf8c02411c19081998560c23de01ce1b69424396db81950205dcbb97a68fda5c5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

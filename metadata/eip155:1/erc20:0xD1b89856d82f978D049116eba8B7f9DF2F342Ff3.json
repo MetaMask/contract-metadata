@@ -1,0 +1,8 @@
+{
+  "name": "Peepo",
+  "symbol": "PEPO",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD1b89856d82f978D049116eba8B7f9DF2F342Ff3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x140cb994661b31c13c57551fc326247d3065b580ae4f9fcba95655e5d8e09513@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

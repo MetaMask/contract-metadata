@@ -1,0 +1,8 @@
+{
+  "name": "pSCALE",
+  "symbol": "pSCALE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xA662E00930Be69134F74Fcb29fAA39B843b3Eece.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0e79e9bb184cad7280200b66436203dfcfb0c5e5634d8905ea49e76ec836f6a5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

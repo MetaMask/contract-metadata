@@ -1,0 +1,8 @@
+{
+  "name": "Olyn by Virtuals",
+  "symbol": "OLYN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x91273b316240879FD902c0c3fcf7C0158777b42f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xba4fb852ad5e51fabff5b6934f1136a340bbe0b76b8e4dd09a3e94213077b77b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

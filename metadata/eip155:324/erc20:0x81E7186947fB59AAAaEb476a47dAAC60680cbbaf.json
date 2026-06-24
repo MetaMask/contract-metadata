@@ -1,0 +1,8 @@
+{
+  "name": "WeFi",
+  "symbol": "WEFI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x81E7186947fB59AAAaEb476a47dAAC60680cbbaf.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x19d36b55b9f6db4393a9231f69b1733d511dd28061cd09bc2e6c1fc8e851fd19@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Rogue MAV",
+  "symbol": "rMAV",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x8F0F56472c3e5730B1Ea2F444e7829288Da261e6.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x093832194547a5b722cc919c8240075b6dd8585a5d44c111395d922bdeed6614@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

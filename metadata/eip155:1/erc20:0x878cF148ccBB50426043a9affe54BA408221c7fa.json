@@ -1,0 +1,8 @@
+{
+  "name": "Crypto Kombat",
+  "symbol": "KOMBAT",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x878cF148ccBB50426043a9affe54BA408221c7fa./ipfs/qmq9ipqhumdfgeqz83p1nncjhaazkhrvufsrzzy1oadlmc/kombat",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9eba5ced69730826d1278b338986f22a7755e6b8d6fed7aa0af6708282f30cca@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

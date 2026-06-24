@@ -1,0 +1,8 @@
+{
+  "name": "Skydrome",
+  "symbol": "SKY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:534352/erc20:0x95a52ec1d60e74CD3Eb002fe54A2C74B185a4c16.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3c87231c336c4125fb48d4575f9c6449776d2755e0e8465adb946c74dd074b09@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "COTI",
+  "symbol": "COTI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xDDb3422497e61E13543bEa06989C0789117555c5.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0b5f875291fe0b004525d8d237130bebf6198a7bf87d8e72b502d59e9806c40e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Render",
+  "symbol": "RENDER",
+  "decimals": 8,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:rndrizKT3MK1iimdxRdWabcF7Zg7AR5T4nud4EkHBof.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5f339cbf98746dbfadca56e2f5da12f28a74dd8f4b30863db1370675bd34bec2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

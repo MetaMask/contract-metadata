@@ -1,0 +1,8 @@
+{
+  "name": "Ethena",
+  "symbol": "ENA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x57E114b691dB790C35207b2e685d4A43181E6061.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x825dc073c6461948c4bcaa0e8112b20d8e604837460fdcfa1349857f345102ae@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

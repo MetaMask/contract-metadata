@@ -1,0 +1,8 @@
+{
+  "name": "Premia",
+  "symbol": "PREMIA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0x51Fc0F6660482EA73330E414efd7808811a57Fa2.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfef07ab089cfe92b66f7e67254de53f02c76d25968ef81867e879ed7be3cc039@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

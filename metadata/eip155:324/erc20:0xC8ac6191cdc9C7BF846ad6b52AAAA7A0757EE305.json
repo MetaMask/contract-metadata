@@ -1,0 +1,8 @@
+{
+  "name": "Metavault Trade",
+  "symbol": "MVX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xC8ac6191cdc9C7BF846ad6b52AAAA7A0757EE305.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7b3533ac6d7aec1d25e92230df1cd9a2925ab19b39f0acab7f5e02556f02227a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

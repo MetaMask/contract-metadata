@@ -1,0 +1,8 @@
+{
+  "name": "Tether",
+  "symbol": "USD₮",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:42220/erc20:0x48065Fbbe25f71C9282DdF5e1cd6D6A887483d5e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x80bc12000db36e108e2814fd1610a79caf313ad7082420e8c935f9ef93e49ef0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

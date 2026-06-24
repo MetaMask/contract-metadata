@@ -1,0 +1,8 @@
+{
+  "name": "Ron Zillowkowski by Virtuals",
+  "symbol": "ZILL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x949E2130a6f9f24B95D023aa8089C8CAA446Ea05.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdcd8eec9069b32714309391a3388502bdd95467e2ab635231b3c6afd3e42fbfe@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

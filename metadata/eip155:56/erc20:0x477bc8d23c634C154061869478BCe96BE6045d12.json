@@ -1,0 +1,8 @@
+{
+  "name": "Seedify.fund",
+  "symbol": "SFUND",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x477bc8d23c634C154061869478BCe96BE6045d12.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x93b17e93165e9df27769f31a3be4825623448c10d6eb4f38a4cb7e0fb810bc32@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

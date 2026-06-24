@@ -1,0 +1,8 @@
+{
+  "name": "Concave",
+  "symbol": "CNV",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x68F9F2125AeeeC9490D0bF26774742580C268aea.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfe507e51353793a7fe57086f55f8e49eabed77c5204d4359ec82f99db05f357d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

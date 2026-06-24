@@ -1,0 +1,8 @@
+{
+  "name": "Falcon Nine",
+  "symbol": "F9",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x38a94e92a19e970C144DEd0b2dd47278Ca11cc1f./ipfs/qmeqjrg6gcrwpsp12wvmlhyrkjguprww8xms6qvjg7exhq/f9",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdcb4038ca378b51d39d50a6136114325ff81adf97eaec96d758275d1f13714aa@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

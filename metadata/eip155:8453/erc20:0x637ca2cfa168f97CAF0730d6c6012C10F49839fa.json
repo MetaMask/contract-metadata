@@ -1,0 +1,8 @@
+{
+  "name": "Game Money",
+  "symbol": "GM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x637ca2cfa168f97CAF0730d6c6012C10F49839fa.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x89a0dc043d75e32556e8e43fd35f42b83c48873efdc053b135f06eea68da9fa1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

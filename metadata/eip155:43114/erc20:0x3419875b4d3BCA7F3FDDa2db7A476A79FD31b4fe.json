@@ -1,0 +1,8 @@
+{
+  "name": "DizzyHavoc",
+  "symbol": "DZHV",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x3419875b4d3BCA7F3FDDa2db7A476A79FD31b4fe.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x976c5e95129bdd183ca2b20b888fcdc27609c29bebc4f710686e9845e4511751@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

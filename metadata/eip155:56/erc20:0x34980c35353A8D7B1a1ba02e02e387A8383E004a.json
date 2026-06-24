@@ -1,0 +1,8 @@
+{
+  "name": "SNAKE",
+  "symbol": "SNK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x34980c35353A8D7B1a1ba02e02e387A8383E004a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc9c15ada23aed3b0d9b1ec772451893901e9dbd387beaca8d2da13d035065752@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

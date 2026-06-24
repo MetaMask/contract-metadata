@@ -1,0 +1,8 @@
+{
+  "name": "Insight Chain",
+  "symbol": "INB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x17aa18a4b64A55ABED7Fa543f2BA4E91F2DcE482./ipfs/qmzznrq89qu41nz4vzbwru8jzxxwzymfvnqge4l5nbe7qk/bcd7ktqulkuxeivebycphdnuodo5qgbwuu2zjre8ansxulumyp6tdsmrg7wqj6lbb2t9qwkh9spjmpnggbd3kjfbtr",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x95c814c57b4cd355bc99e750e68e2f69cfe7cc09e3e6827e5fda1280c0f9a8d7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

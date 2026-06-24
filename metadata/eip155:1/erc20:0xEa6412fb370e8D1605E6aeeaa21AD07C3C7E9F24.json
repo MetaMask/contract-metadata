@@ -1,0 +1,8 @@
+{
+  "name": "Mushroom",
+  "symbol": "MUSH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xEa6412fb370e8D1605E6aeeaa21AD07C3C7E9F24./ipfs/qmcunt4wlvvv1cchzum9lz6saqpomgwz4dsak881ysepsy/mush",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0ef614e13a9cc344c66f202f2098e7aeb68b22a91b49735f8f3ec308a5e3622c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

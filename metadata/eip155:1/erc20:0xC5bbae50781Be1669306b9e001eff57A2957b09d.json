@@ -1,0 +1,8 @@
+{
+  "name": "Gifto",
+  "symbol": "GTO",
+  "decimals": 5,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xC5bbae50781Be1669306b9e001eff57A2957b09d./ipfs/qmevfexbxfkuc62vaavj5443fr2y2pxfap7vcdugarg1hx/bcd2ge56xahuq5jjb25gk5dhviqhkqxhfohxeb7lkjpxyutnj4xfraqph8fw9hfhetgmryhwyhlful929hvugkd3d2",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5bd58555077b19c3b08fd63c8e151321be94b501febd2221bd332a718df6719e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

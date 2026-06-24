@@ -1,0 +1,8 @@
+{
+  "name": "SUMI",
+  "symbol": "SUMI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xE8aaE6251c6Cf39927b0FF31399030C60BEc798f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe13b11aef2b456a6928b142c5b4bd4a23c7d281ae5ef90bf69a510e44bac1a9c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

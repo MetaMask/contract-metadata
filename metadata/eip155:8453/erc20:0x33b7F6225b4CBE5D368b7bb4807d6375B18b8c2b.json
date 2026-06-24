@@ -1,0 +1,8 @@
+{
+  "name": "Candy",
+  "symbol": "CANDY",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x33b7F6225b4CBE5D368b7bb4807d6375B18b8c2b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7baab8ac08863f04eb1ac272e21b24557d4c6f09d129ea0a56894898b3f086c3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

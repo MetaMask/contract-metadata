@@ -1,0 +1,8 @@
+{
+  "name": "OPEX",
+  "symbol": "OPX",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0xA3Fb72cbf2e07DC1B34aEa569ed40755FD978bd8.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x914521669707a3a48cdac4486ce11ebe924ce30371a11bb4023003bac3b1fa0f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

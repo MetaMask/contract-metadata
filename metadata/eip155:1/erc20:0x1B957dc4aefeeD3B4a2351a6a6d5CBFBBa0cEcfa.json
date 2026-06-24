@@ -1,0 +1,8 @@
+{
+  "name": "HOQU",
+  "symbol": "HQX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1B957dc4aefeeD3B4a2351a6a6d5CBFBBa0cEcfa./ipfs/qmw3udexwwagxuuhfem82zmsuieuqdhjkvxtgzgjfhfd5w/bcdyawbrudmj7bf1umkswwtymjtpfvyk5te89xv8a5pgbmdv2w7iimiuwwjcby6btmdftnb3qaqzvum6ej2vpmwd3r",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x41cf27102f764da7f7b0c4fc0bb98a8cc983741c59622f31229a535ffa1437e4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

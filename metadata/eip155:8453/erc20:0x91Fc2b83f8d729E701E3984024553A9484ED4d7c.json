@@ -1,0 +1,8 @@
+{
+  "name": "Masks",
+  "symbol": "MASK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x91Fc2b83f8d729E701E3984024553A9484ED4d7c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6214efb14c6582f3e4cfa5c48399a5a5648e650bf0a84c60f283eafc819776d1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

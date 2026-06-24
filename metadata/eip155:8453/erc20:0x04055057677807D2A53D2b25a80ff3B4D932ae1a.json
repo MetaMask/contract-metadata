@@ -1,0 +1,8 @@
+{
+  "name": "LogX Network",
+  "symbol": "LOGX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x04055057677807D2A53D2b25a80ff3B4D932ae1a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf2098324a9706d419eacfffb7da8288a84c63eb281a8c45846710a5b628b3db0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

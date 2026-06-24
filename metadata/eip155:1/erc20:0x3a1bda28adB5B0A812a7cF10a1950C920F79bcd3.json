@@ -1,0 +1,8 @@
+{
+  "name": "FLIP",
+  "symbol": "FLP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3a1bda28adB5B0A812a7cF10a1950C920F79bcd3./ipfs/qmuzizdvdte87f6hgbwajxvpbobu6r8gybratrhxrv1761/bce1viyuocimnb12ejxdsjegm7zcgvjaqp3rg6efmn5fqpbkqqw6depnt98zjecm1wyq5xbjoqjacc8kxbkzzxfgxu",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x73605aef10b10db0d37ea435d8e312261d3b457c0c4dda8b5b20d31135833ab2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

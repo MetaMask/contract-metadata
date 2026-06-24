@@ -1,0 +1,8 @@
+{
+  "name": "Marlin",
+  "symbol": "POND",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xA1428370f540B4C4E319224165eCAE513a391F77.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x29b538cb64a71f8a8f2918ce7f5a9a7e910e041a1051db164007c879c522d94a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

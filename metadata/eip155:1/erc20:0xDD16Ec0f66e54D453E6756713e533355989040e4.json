@@ -1,0 +1,8 @@
+{
+  "name": "Tokenomy",
+  "symbol": "TEN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xDD16Ec0f66e54D453E6756713e533355989040e4./ipfs/qmwi7f4u2uhf9w4jp1ezfkitkslm86ks6so9pypdcrbywz/bcdvf8uuawmjw4mjzvrl5icjpypmmhtwfsh26s65tyhh31gnir1onmfq1ytklbbnamhcaykpvuxkwwen1g9sxrei16",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4dc8c8a3193d4103bbae4645da12172e3fd49c1432602e43e241ea7a5bde833e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

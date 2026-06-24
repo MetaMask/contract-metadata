@@ -1,0 +1,8 @@
+{
+  "name": "Humo",
+  "symbol": "HUMO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x1C555eee8018fEE4FBCa4bb657c5f175601E3ed7.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6fa8744a2d73d78bc893d14a3026f7d53e4d1ce944e34ec4081994d866a8b4ab@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

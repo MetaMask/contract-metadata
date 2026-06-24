@@ -1,0 +1,8 @@
+{
+  "name": "BORED",
+  "symbol": "BORED",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x70737489dfdf1A29B7584d40500d3561BD4FE196.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf632dca1fed90f7399521418d0b49f08c5c9f0128903c2a79ce96b0f22519c98@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

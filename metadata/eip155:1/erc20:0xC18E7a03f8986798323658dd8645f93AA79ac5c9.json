@@ -1,0 +1,8 @@
+{
+  "name": "American Akita",
+  "symbol": "USKITA",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xC18E7a03f8986798323658dd8645f93AA79ac5c9./ipfs/qme3q51jjxextyjb1yl5pjg6vwkashr5zk1p2ta6l83uyo/uskita",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4782ddada8af03f507b370fc70e60e3400a7ada41b6b3a55718c11b895059ae7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Yak",
+  "symbol": "YAK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x59414b3089ce2AF0010E7523deA7e2B35D776ec7.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc4fb5725a5419dde2b5f67044f7752d946292c70fc172f36520b70f0d642ebae@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

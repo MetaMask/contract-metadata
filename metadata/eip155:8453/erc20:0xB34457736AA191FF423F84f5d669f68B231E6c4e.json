@@ -1,0 +1,8 @@
+{
+  "name": "AGENT DOGE by Virtuals",
+  "symbol": "AIDOGE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xB34457736AA191FF423F84f5d669f68B231E6c4e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9d8aabf09831b1beaee775ab77ad88130479490f5623e89cf7f7a1fe7c08ba79@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

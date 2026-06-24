@@ -1,0 +1,8 @@
+{
+  "name": "Cream Compound",
+  "symbol": "crCOMP",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x19D1666f543d42EF17F66e376944A22AEa1a8e46./ipfs/qmd5d6fkn12a4hlynkqwb8phxdgj65v7pxq2sg1wdqwocj/crcomp",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x559ff8e78cfb29e7227cbac4f2773bdf91ca3ceb62cc7445cb364644efa8fb5e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

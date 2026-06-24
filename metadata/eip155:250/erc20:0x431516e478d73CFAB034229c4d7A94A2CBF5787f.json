@@ -1,0 +1,8 @@
+{
+  "name": "HOOPS",
+  "symbol": "HOOPS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:250/erc20:0x431516e478d73CFAB034229c4d7A94A2CBF5787f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd945de47c39fb82317d2efa87320b9797576f75060bdecc8f8d64992ceb9a4e5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

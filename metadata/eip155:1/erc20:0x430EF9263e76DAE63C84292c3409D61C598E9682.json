@@ -1,0 +1,8 @@
+{
+  "name": "Vulcan Forged",
+  "symbol": "PYR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x430EF9263e76DAE63C84292c3409D61C598E9682.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x31b6ca491c3a688187e3b34b8a2cae8e7f3bed1b1048bd0f46faebdd0ab31514@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

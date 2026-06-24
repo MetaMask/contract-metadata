@@ -1,0 +1,8 @@
+{
+  "name": "Florence Finance Medici",
+  "symbol": "FFM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0x3269a3c00AB86C753856Fd135d97B87FACb0d848.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x887f1e91a73de15093763871283654d9b6a0b872ee14d0fe2cd767ddb35f8bd7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Extra Finance",
+  "symbol": "EXTRA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:10/erc20:0x2DaD3a13ef0C6366220F989157009E501E7938f8.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0a0a9bb1020749ff01a5c2b5effafc3baeeb9221fbdb0c4dbab182332e41a0fd@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

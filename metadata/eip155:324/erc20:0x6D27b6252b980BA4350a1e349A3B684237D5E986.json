@@ -1,0 +1,8 @@
+{
+  "name": "Hush",
+  "symbol": "HUSH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x6D27b6252b980BA4350a1e349A3B684237D5E986.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5abb3631c0dc01d5b3966b295648702a71e6f2529ffa7e6452161a35ce3a4127@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

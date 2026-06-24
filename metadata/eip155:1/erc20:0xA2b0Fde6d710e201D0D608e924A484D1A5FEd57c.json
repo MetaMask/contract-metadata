@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Ripple",
+  "symbol": "sXRP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA2b0Fde6d710e201D0D608e924A484D1A5FEd57c./ipfs/qmcz9u3vdz5xuhudvssg9zv5dawl1zfsgxjew45ygzzyha/sxrp",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe0c098fdd825e3c6f35bb88f944939a1372c204868cb6f8aee6341b1dddab220@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

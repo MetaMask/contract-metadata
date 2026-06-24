@@ -1,0 +1,8 @@
+{
+  "name": "Velocore",
+  "symbol": "VC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x85D84c774cf8e9FF85342684b0e795DF72a24908.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5a0c0126fe75b76e6782bd6242797ee8367954e3e39200eae5268bf1a722196f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

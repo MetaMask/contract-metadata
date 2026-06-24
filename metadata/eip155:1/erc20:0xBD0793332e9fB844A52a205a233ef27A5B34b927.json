@@ -1,0 +1,8 @@
+{
+  "name": "ZB Token",
+  "symbol": "ZB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xBD0793332e9fB844A52a205a233ef27A5B34b927./ipfs/qmprwfg8vqayccw99sfpfa8kagpfs5cpmwbwipujs9vasy/bcdvfpep1utd3papayjx7s1di8cxcfmlzz4tessuluvefndnkptvsxwpdncnwyf4cyzr4dfk7p7rjtcdcvfnxnoevp",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3fd30d66d31b1f6a7d58524295f1e4e03fe792ebcaa6ad3641c006725245a4a8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

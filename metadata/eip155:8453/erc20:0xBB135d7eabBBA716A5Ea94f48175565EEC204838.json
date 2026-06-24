@@ -1,0 +1,8 @@
+{
+  "name": "BasedCreature by Virtuals",
+  "symbol": "BCREAT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xBB135d7eabBBA716A5Ea94f48175565EEC204838.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5c8f2a9688f345e34cde9d01d293414f59a9cf948bc717aab67cb13fe20b9eb2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

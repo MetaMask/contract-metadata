@@ -1,0 +1,8 @@
+{
+  "name": "Marinade",
+  "symbol": "MNDE",
+  "decimals": 9,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb35be4b3c6b397e2c313a5dc3e18d7bcabd1d942d962a801c9a96ec6c7521a78@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

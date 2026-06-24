@@ -1,0 +1,8 @@
+{
+  "name": "Lido Staked MATIC",
+  "symbol": "stMATIC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0x3a58a54c066fDC0F2D55Fc9c89f0415C92EbF3c4.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3687eb1861fa62e621218d8b609d1276a3304138fbdf5c7bc55e997a35d0c111@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

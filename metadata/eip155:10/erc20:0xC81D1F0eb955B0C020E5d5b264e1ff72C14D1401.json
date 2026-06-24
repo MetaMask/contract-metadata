@@ -1,0 +1,8 @@
+{
+  "name": "Rocket Pool",
+  "symbol": "RPL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:10/erc20:0xC81D1F0eb955B0C020E5d5b264e1ff72C14D1401.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x30354ffcde48b184f4ed7b53f6450f9bf69f878d7a5678098d7408b2b6253953@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

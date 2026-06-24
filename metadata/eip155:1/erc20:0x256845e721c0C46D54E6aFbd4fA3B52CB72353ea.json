@@ -1,0 +1,8 @@
+{
+  "name": "UniDollar",
+  "symbol": "UNIUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x256845e721c0C46D54E6aFbd4fA3B52CB72353ea./ipfs/qmvgg4gcvqzpo7nupkojdpjolxdx8te1fuq5ydkmu1qqgc/bcdxxojr4c6f64bsirasqtuf1qkp5cpe11hrtwwykujgx1tkhxveijfye6axb4sda6qolifczybxjzrto3oarujbfs",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5c483ef3076be60bb0a947fb69c6d4083c685474ed8c89a39b80164c11776fd9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

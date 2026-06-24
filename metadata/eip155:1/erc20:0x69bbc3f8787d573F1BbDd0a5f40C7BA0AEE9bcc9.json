@@ -1,0 +1,8 @@
+{
+  "name": "Yup",
+  "symbol": "YUP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x69bbc3f8787d573F1BbDd0a5f40C7BA0AEE9bcc9./ipfs/qmzavvxqrhhdzfy5ssxgixwwbxzpyx9ms7g3i1yhxr58wr/yup",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x59c01210851cfeae5e3d32474929d15cb9e5f0157d8dbcee2b9edd8719c55871@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

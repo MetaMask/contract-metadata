@@ -1,0 +1,8 @@
+{
+  "name": "iAgent Protocol",
+  "symbol": "AGNT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x521Ebb84eA82eE65154b68ecfe3A7292FB3779d6.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x97bd6d2676b398a1421fac73223160195a34729f1c1ea0c567603e186df48cb9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

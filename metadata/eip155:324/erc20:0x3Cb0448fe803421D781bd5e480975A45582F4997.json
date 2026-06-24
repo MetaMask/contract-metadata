@@ -1,0 +1,8 @@
+{
+  "name": "VERA",
+  "symbol": "VRA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x3Cb0448fe803421D781bd5e480975A45582F4997.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x623cd55e5a4bc1aea6cb1e5c35d224fc031f19f79c484c4cd6b04cc979a72ed6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

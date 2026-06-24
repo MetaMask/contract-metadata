@@ -1,0 +1,8 @@
+{
+  "name": "Ancient8",
+  "symbol": "A8",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3E5a19c91266AD8CE2477b91585d1856B84062df.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdfed648775f4f6d0185d29bbdeb455d19853939957c18efda9d758737ba59db5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

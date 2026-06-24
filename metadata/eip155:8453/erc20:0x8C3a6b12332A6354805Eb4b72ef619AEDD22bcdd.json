@@ -1,0 +1,8 @@
+{
+  "name": "Morpho Degen",
+  "symbol": "mDEGEN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x8C3a6b12332A6354805Eb4b72ef619AEDD22bcdd.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb23fdf354873221d81c7bb9ccc84541ab52a9241d0bea227fe676bc3363f7bf8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Gamer Arena Utility",
+  "symbol": "GAU",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xCa8EbFb8e1460AAAC7C272cb9053B3D42412aac2.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8168aeea44e9cdbfc40bcb7b14e9239c89fcee965d92f564a759335122ca5170@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

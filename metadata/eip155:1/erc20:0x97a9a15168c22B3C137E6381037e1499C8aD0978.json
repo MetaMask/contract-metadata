@@ -1,0 +1,8 @@
+{
+  "name": "Data Ownership Protocol",
+  "symbol": "DOP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x97a9a15168c22B3C137E6381037e1499C8aD0978.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdfe468e1f71d19605424167a2aa4fa3634dc95ee1ea4f6968748a73d30af5e2a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

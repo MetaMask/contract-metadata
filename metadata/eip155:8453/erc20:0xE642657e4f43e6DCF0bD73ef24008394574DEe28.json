@@ -1,0 +1,8 @@
+{
+  "name": "Record Nexus",
+  "symbol": "RECORD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xE642657e4f43e6DCF0bD73ef24008394574DEe28.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4c34aef7dfa82e99479d2749a750b9416c51cfab7413e9e906d0115f886cd539@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

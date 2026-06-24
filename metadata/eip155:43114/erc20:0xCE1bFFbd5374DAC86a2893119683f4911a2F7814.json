@@ -1,0 +1,8 @@
+{
+  "name": "Spell",
+  "symbol": "SPELL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xCE1bFFbd5374DAC86a2893119683f4911a2F7814.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x131a0a3f7df81689c40e229f2f7bd3eed25b4dec06559956dc5da1134b5989b3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

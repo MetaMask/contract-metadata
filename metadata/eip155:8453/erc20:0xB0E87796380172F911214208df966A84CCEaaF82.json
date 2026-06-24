@@ -1,0 +1,8 @@
+{
+  "name": "DOM",
+  "symbol": "DOM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xB0E87796380172F911214208df966A84CCEaaF82.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x803d40d225509db42cb2e522d1f411603a70a199096e92d0877983a11a96b6b9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Stellar",
+  "symbol": "XLM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x43C934a845205f0B514417d757d7235B8F53F1b9.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe759438e59775fb6d6fc45091ec43e91c7274ad95d05089f52a72ab6e4c757de@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

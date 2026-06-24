@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Inverse Uniswap",
+  "symbol": "iUNI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x36a00Ff9072570EF4B9292117850B8FE08D96cce./ipfs/qmzhnwmhk3kfjfvvk2w86gvkarckbhasq4xh6kmougm17y/iuni",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4b16a60d9847c98150020a929d41e9b40d1c19ef0018ef543040011b3f62181e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

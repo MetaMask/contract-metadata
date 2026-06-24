@@ -1,0 +1,8 @@
+{
+  "name": "Coinbase Wrapped Staked ETH",
+  "symbol": "cbETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xBE9895146f7Af43049Ca1c1ae358B0541Ea49704.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6fa8f583c3eb6126961f17db0c484765f57457bf83d353e0a88b6d389d293033@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

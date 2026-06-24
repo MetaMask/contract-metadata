@@ -1,0 +1,8 @@
+{
+  "name": "Wrapped BaseDOGE",
+  "symbol": "wBaseDOGE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x373504da48418C67E6Fcd071f33CB0B3B47613c7.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1a55343bea4207dea33f617f8051b493436239439369dcac2875e269053675e2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

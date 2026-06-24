@@ -1,0 +1,8 @@
+{
+  "name": "CHECK",
+  "symbol": "CHECK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x617a4edfcec09864Ca9D052ebcBAB67DA273F4d4.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x76c114c9d9e6f09806df08c9148d8a12d6469a09b2b6d964ec613b58e40ac7a3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

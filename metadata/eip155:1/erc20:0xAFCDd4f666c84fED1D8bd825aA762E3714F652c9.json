@@ -1,0 +1,8 @@
+{
+  "name": "Vita Inu",
+  "symbol": "VINU",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xAFCDd4f666c84fED1D8bd825aA762E3714F652c9.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb5e3833897074056d879e134cc5bb865d9e259aaf5cd76e99738f1774f9e3b89@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

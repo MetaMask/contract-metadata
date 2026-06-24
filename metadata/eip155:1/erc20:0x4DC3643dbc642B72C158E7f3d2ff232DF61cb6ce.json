@@ -1,0 +1,8 @@
+{
+  "name": "Ambrosus",
+  "symbol": "AMB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x4DC3643dbc642B72C158E7f3d2ff232DF61cb6ce./ipfs/qmte9r6jesohugyacaxqjdpu5adm5juktsgbwd53ip4rev/bcd7jzyen4udyswhdvtqtjhpfvkd8xszf6qbq9b1ancnyi2b7ebzviiavbuun6dbjaxbgnqd5yfxvudpwfhxygp9js",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc1288c048f549fbd7ca900d4afc4e224e746a8c04b0439a9431fd4f7558a7fb4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

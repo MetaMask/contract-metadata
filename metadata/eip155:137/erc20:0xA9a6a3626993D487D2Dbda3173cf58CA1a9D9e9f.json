@@ -1,0 +1,8 @@
+{
+  "name": "Unstoppable Domains",
+  "symbol": "UD",
+  "decimals": 0,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0xA9a6a3626993D487D2Dbda3173cf58CA1a9D9e9f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9a4bbf06cb004bba1ebd7efd1926e0d448adb2999be2550e5f7cc2e86cf0bab7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}
