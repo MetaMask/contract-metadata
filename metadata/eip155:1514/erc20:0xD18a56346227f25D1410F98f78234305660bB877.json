@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1514/erc20:0xD18a56346227f25D1410F98f78234305660bB877.svg",
+  "name": "Wrapped DATA",
+  "symbol": "WDATA",
+  "decimals": 18,
+  "erc20": true
+}
