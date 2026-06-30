@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:8453/erc20:0xc78fAbC2cB5B9cf59E0Af3Da8E3Bc46d47753A4e.svg",
+  "name": "Osobot",
+  "symbol": "OSO",
+  "decimals": 18,
+  "erc20": true
+}
