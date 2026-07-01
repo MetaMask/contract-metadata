@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="Tethelephant logo">
+  <circle cx="128" cy="128" r="128" fill="#26A17B"/>
+  <rect x="64" y="52" width="128" height="32" fill="#FFFFFF"/>
+  <rect x="112" y="68" width="32" height="136" fill="#FFFFFF"/>
+  <ellipse cx="128" cy="128" rx="84" ry="18.8" fill="none" stroke="#FFFFFF" stroke-width="10"/>
+</svg>
