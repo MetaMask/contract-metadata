@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168.png",
+  "name": "Global Dollar",
+  "symbol": "USDG",
+  "decimals": 6,
+  "erc20": true
+}

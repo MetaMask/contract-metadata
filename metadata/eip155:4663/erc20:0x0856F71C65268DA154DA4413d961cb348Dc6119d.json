@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0x0856F71C65268DA154DA4413d961cb348Dc6119d.png",
+  "name": "ROBIN THE HOODINI",
+  "symbol": "HOODINI",
+  "decimals": 18,
+  "erc20": true
+}
