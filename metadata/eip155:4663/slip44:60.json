@@ -1,7 +1,7 @@
 {
-    "name": "ETH",
-    "symbol": "ETH",
-    "decimals": 18,
-    "erc20": false,
-    "logo": "./icons/eip155:4663/slip44:60.svg"
-  }
+  "name": "ETH",
+  "symbol": "ETH",
+  "decimals": 18,
+  "erc20": false,
+  "logo": "./icons/eip155:4663/slip44:60.svg"
+}
