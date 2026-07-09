@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x4268F2Bfb23A7496504AA5eD1Ee325248586299F.svg",
+  "name": "SK Hynix (Ondo Tokenized)",
+  "symbol": "SKHYon",
+  "decimals": 18,
+  "erc20": true
+}
