@@ -4516,12 +4516,5 @@
     "erc20": true,
     "symbol": "FPS",
     "decimals": 18
-  },
-  "0x06Fe467EB1Bf12E75eFD0E0d5cc1a7546951fe87": {
-    "name": "FREE PALESTINE FUND",
-    "logo": "hope.png",
-    "erc20": true,
-    "symbol": "HOPE",
-    "decimals": 18
   }
 }
