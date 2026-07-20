@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:8453/erc20:0xD4a0e0b9149BCee3C920d2E00b5dE09138fd8bb7.svg",
+  "name": "Aave v3 WETH",
+  "symbol": "aWETH",
+  "decimals": 18,
+  "erc20": true
+}
