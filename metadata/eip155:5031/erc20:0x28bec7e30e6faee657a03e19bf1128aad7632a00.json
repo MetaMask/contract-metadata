@@ -1,0 +1,7 @@
+{
+  "name": "Stargate Bridged USDC (Somnia)",
+  "symbol": "USDC.e",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:5031/erc20:0x28bec7e30e6faee657a03e19bf1128aad7632a00.svg"
+}
