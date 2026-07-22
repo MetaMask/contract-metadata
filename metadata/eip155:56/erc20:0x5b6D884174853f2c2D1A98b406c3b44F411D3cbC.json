@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x5b6D884174853f2c2D1A98b406c3b44F411D3cbC.png",
+  "name": "Gold USD",
+  "symbol": "USDG",
+  "decimals": 18,
+  "erc20": true
+}
