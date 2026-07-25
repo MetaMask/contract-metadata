@@ -1,0 +1,7 @@
+{
+  "name": "PredictAsiaX",
+  "symbol": "PAX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0x63DE49A3c952ca35957d03741EC62E7A19af67a3.png"
+}
