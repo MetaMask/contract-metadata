@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xAEBcDBD9f8b1422Ab31073D7408C8cAd83ca6a8b.svg",
+  "name": "Ethereum USDST",
+  "symbol": "USDST",
+  "decimals": 18,
+  "erc20": true
+}
