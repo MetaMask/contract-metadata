@@ -1,0 +1,7 @@
+{
+  "name": "CasinoUsd",
+  "symbol": "cUSDT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9301d03bC62B79eA914Ebf73ce0dDF71dc95E921.svg"
+}
