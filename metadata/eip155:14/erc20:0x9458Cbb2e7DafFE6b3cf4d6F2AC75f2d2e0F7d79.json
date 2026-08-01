@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:14/erc20:0x9458Cbb2e7DafFE6b3cf4d6F2AC75f2d2e0F7d79.png",
+  "name": "Energon",
+  "symbol": "EON",
+  "decimals": 18,
+  "erc20": true
+}
