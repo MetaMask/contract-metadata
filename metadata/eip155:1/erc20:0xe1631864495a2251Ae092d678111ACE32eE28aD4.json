@@ -1,0 +1,10 @@
+{
+  "name": "FuraCoin",
+
+  "symbol": "FURA",
+
+  "decimals": 18,
+
+  "erc20": true,
+
+  "logo": "./icons/eip155:1/erc20:0xe1631864495a2251Ae092d678111ACE32eE28aD4.png"}
