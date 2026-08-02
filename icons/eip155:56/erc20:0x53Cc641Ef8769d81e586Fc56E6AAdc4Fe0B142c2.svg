@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 32 32" role="img" aria-labelledby="agnt-title agnt-desc" data-brand="agnt-official">
+  <title id="agnt-title">AGNT official token icon</title>
+  <desc id="agnt-desc">Official Aegent violet token disc with the cyan AGNT network glyph.</desc>
+  <metadata>source-png-sha256:44d9e6dc9059640477a5af3f6659b1e121558ef80f355ce2b85cf6aba3a24a8a</metadata>
+  <defs>
+    <radialGradient id="agnt-disc" cx="35%" cy="24%" r="78%"><stop offset="0" stop-color="#4f409d"/><stop offset="0.56" stop-color="#3d3087"/><stop offset="1" stop-color="#241c68"/></radialGradient>
+    <linearGradient id="agnt-rim" x1="5" y1="3" x2="27" y2="29"><stop stop-color="#9d8ff3"/><stop offset="0.52" stop-color="#7b63eb"/><stop offset="1" stop-color="#4931ad"/></linearGradient>
+    <linearGradient id="agnt-stroke" x1="11.5" y1="24" x2="20.5" y2="9.5"><stop stop-color="#62dff4"/><stop offset="0.5" stop-color="#75e9ff"/><stop offset="1" stop-color="#9af1ff"/></linearGradient>
+    <radialGradient id="agnt-node" cx="35%" cy="28%" r="70%"><stop stop-color="#ffffff"/><stop offset="0.45" stop-color="#e6f9ff"/><stop offset="1" stop-color="#78dff5"/></radialGradient>
+    <clipPath id="agnt-clip"><circle cx="16" cy="16" r="14.6"/></clipPath>
+  </defs>
+  <g data-brand-element="token-disc">
+    <circle cx="16" cy="16" r="14.5" fill="url(#agnt-disc)" stroke="url(#agnt-rim)" stroke-width="1.35"/>
+    <circle cx="16" cy="16" r="12.35" fill="none" stroke="#9d8ff3" stroke-width="0.35" opacity="0.55"/>
+    <ellipse cx="13.2" cy="9.1" rx="9" ry="5.6" fill="#9d8ff3" opacity="0.09" clip-path="url(#agnt-clip)"/>
+  </g>
+  <g fill="#cef1fe" opacity="0.8" aria-hidden="true"><circle cx="16" cy="5.7" r="0.35"/><circle cx="7.1" cy="21.2" r="0.3"/><circle cx="24.9" cy="21.2" r="0.3"/></g>
+  <g data-brand-element="agnt-glyph" fill="none" stroke="url(#agnt-stroke)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.35"><path d="M11.55 22.25 16 9.9l4.45 12.35"/></g>
+  <circle data-brand-element="network-node" cx="16" cy="9.9" r="1.45" fill="url(#agnt-node)"/>
+  <circle data-brand-element="network-node" cx="11.55" cy="22.25" r="1.25" fill="url(#agnt-node)"/>
+  <circle data-brand-element="network-node" cx="20.45" cy="22.25" r="1.25" fill="url(#agnt-node)"/>
+  <circle data-brand-element="network-node" cx="16" cy="17.45" r="1" fill="#e9faff" stroke="#9d8ff3" stroke-width="0.25"/>
+</svg>
