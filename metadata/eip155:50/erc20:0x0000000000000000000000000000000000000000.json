@@ -1,7 +1,0 @@
-{
-  "logo": "./icons/eip155:50/erc20:0x0000000000000000000000000000000000000000.svg",
-  "name": "XDC",
-  "symbol": "XDC",
-  "decimals": 18,
-  "erc20": false
-}
