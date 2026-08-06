@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1285/slip44:1285.svg",
+  "name": "MOVR",
+  "symbol": "MOVR",
+  "decimals": 18,
+  "erc20": false
+}
