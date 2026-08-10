@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0xc6911796042b15d7Fa4F6CDe69e245DdCd3d9c31.png",
+  "name": "Virtuals Protocol",
+  "symbol": "VIRTUAL",
+  "decimals": 18,
+  "erc20": true
+}

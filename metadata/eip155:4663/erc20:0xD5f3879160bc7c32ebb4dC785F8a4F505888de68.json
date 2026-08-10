@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0xD5f3879160bc7c32ebb4dC785F8a4F505888de68.png",
+  "name": "Invesco QQQ (Robinhood)",
+  "symbol": "QQQ",
+  "decimals": 18,
+  "erc20": true
+}

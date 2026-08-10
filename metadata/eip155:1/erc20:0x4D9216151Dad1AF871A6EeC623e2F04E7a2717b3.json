@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x4D9216151Dad1AF871A6EeC623e2F04E7a2717b3.svg",
+  "name": "Global X Data Center & Digital Infrastructure ETF (Ondo Tokenized)",
+  "symbol": "DTCRon",
+  "decimals": 18,
+  "erc20": true
+}

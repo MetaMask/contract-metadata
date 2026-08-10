@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0xfF080c8ce2E5feadaCa0Da81314Ae59D232d4afD.png",
+  "name": "Micron Technology (Robinhood)",
+  "symbol": "MU",
+  "decimals": 18,
+  "erc20": true
+}

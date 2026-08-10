@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x10bd54f1F4DC19bE0c46B1Ea7E5f38FD2eaFeE26.svg",
+  "name": "Huntington Ingalls Industries (Ondo Tokenized)",
+  "symbol": "HIIon",
+  "decimals": 18,
+  "erc20": true
+}

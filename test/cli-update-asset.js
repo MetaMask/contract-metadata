@@ -1,5 +1,5 @@
 const test = require('tape');
-const { parseLabels } = require('../cli-update-asset');
+const { parseLabels, parseCAIP19 } = require('../cli-update-asset');
 
 test('parseLabels returns undefined when labels are omitted', function (t) {
   t.equal(parseLabels(undefined), undefined);
@@ -69,5 +69,29 @@ test('parseLabels throws on JSON array containing empty string', function (t) {
 test('parseLabels silently drops empty segments from comma-separated input', function (t) {
   const labels = parseLabels('stable_coin,,blue_chip,');
   t.deepEqual(labels, ['stable_coin', 'blue_chip']);
+  t.end();
+});
+
+test('parseCAIP19 accepts Stellar classic asset IDs with hyphens', function (t) {
+  const caip =
+    'stellar:pubnet/asset:USDC-GA5ZSEJYB37JRC5AVCIA5MOP4RHTM335X2KGX3IHOJAPP5RE34K4KZVN';
+  const parsed = parseCAIP19(caip);
+  t.equal(parsed.chainNamespace, 'stellar:pubnet');
+  t.equal(
+    parsed.assetId,
+    'asset:USDC-GA5ZSEJYB37JRC5AVCIA5MOP4RHTM335X2KGX3IHOJAPP5RE34K4KZVN',
+  );
+  t.end();
+});
+
+test('parseCAIP19 accepts Stellar Soroban sep41 contract IDs', function (t) {
+  const caip =
+    'stellar:pubnet/sep41:CDT3KU6TQZNOHKNOHNAFFDQZDURVC3MSTL4ML7TUTZGNOPBZCLABP4FR';
+  const parsed = parseCAIP19(caip);
+  t.equal(parsed.chainNamespace, 'stellar:pubnet');
+  t.equal(
+    parsed.assetId,
+    'sep41:CDT3KU6TQZNOHKNOHNAFFDQZDURVC3MSTL4ML7TUTZGNOPBZCLABP4FR',
+  );
   t.end();
 });

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0x1e0AAaf3FdB5C0de3574d215e7081177Ec0F96a3.png",
+  "name": "AI PIN",
+  "symbol": "AI",
+  "decimals": 18,
+  "erc20": true
+}

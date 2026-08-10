@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x4cDd1099146f28a9b428CD85F36B562B6d05c8c8.svg",
+  "name": "REalloys (Ondo Tokenized)",
+  "symbol": "ALOYon",
+  "decimals": 18,
+  "erc20": true
+}

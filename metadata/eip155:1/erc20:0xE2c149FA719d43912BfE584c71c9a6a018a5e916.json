@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xE2c149FA719d43912BfE584c71c9a6a018a5e916.svg",
+  "name": "USA Rare Earth (Ondo Tokenized)",
+  "symbol": "USARon",
+  "decimals": 18,
+  "erc20": true
+}

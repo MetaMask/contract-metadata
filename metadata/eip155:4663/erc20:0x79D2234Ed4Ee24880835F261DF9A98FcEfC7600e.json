@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0x79D2234Ed4Ee24880835F261DF9A98FcEfC7600e.png",
+  "name": "The Hood",
+  "symbol": "HOOD",
+  "decimals": 18,
+  "erc20": true
+}

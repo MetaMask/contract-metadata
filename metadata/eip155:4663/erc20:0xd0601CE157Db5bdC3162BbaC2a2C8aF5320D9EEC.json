@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0xd0601CE157Db5bdC3162BbaC2a2C8aF5320D9EEC.png",
+  "name": "NVIDIA (Robinhood)",
+  "symbol": "NVDA",
+  "decimals": 18,
+  "erc20": true
+}

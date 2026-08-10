@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xBC34D36B70E5A256F3D16F9cA9D3ca3838f6cC4F.svg",
+  "name": "iShares Aaa - A Rated Corporate Bond ETF (Ondo Tokenized)",
+  "symbol": "QLTAon",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x2144d620E3471441b12Bf256E01a09EAA5ea7F12.svg",
+  "name": "Penguin Solutions (Ondo Tokenized)",
+  "symbol": "PENGon",
+  "decimals": 18,
+  "erc20": true
+}

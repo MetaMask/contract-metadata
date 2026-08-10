@@ -11,8 +11,9 @@
     "node": ">=14.0.0"
   },
   "scripts": {
-    "test": "node test && node ./test/cli-update-asset.js && node ./test/caip.js",
+    "test": "node test && node ./test/cli-update-asset.js && node ./test/caip.js && node ./test/ondo-naming.js",
     "test:caip": "node ./test/caip.js",
+    "test:ondo-naming": "node ./test/ondo-naming.js",
     "asset": "node cli-update-asset.js",
     "asset:set": "node cli-update-asset.js set",
     "asset:verify": "node cli-update-asset.js verify",

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xf8919fe7D586b11D0A900E987c4A41bC6c3195F5.svg",
+  "name": "United States Antimony (Ondo Tokenized)",
+  "symbol": "UAMYon",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xF02b8309df07641dDcFd1DABCeFFDde3d30915De.svg",
+  "name": "Amkor Technology (Ondo Tokenized)",
+  "symbol": "AMKRon",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x60B273bDf00a9A52238Ca706257f61efc55bDeE0.svg",
+  "name": "Emerson Electric (Ondo Tokenized)",
+  "symbol": "EMRon",
+  "decimals": 18,
+  "erc20": true
+}

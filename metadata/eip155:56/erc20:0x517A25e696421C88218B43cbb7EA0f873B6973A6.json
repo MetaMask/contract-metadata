@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x517A25e696421C88218B43cbb7EA0f873B6973A6.svg",
+  "name": "Innodata (Ondo Tokenized)",
+  "symbol": "INODon",
+  "decimals": 18,
+  "erc20": true
+}

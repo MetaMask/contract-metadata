@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x3A82f1C847cc55e52e597fD81c63a812C6722541.svg",
+  "name": "Hut 8 (Ondo Tokenized)",
+  "symbol": "HUTon",
+  "decimals": 18,
+  "erc20": true
+}

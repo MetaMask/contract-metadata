@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x167f8D6B357FA9fff9B1286E519Bd32d4504757E.svg",
+  "name": "Nucor (Ondo Tokenized)",
+  "symbol": "NUEon",
+  "decimals": 18,
+  "erc20": true
+}

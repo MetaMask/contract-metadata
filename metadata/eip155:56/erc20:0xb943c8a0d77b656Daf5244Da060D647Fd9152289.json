@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xb943c8a0d77b656Daf5244Da060D647Fd9152289.svg",
+  "name": "Direxion Daily Semi Bull 3X ETF (Ondo Tokenized)",
+  "symbol": "SOXLon",
+  "decimals": 18,
+  "erc20": true
+}

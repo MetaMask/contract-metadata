@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x6a3E77d984e22bed6A036D3DA79D7857936a593f.svg",
+  "name": "AXT (Ondo Tokenized)",
+  "symbol": "AXTIon",
+  "decimals": 18,
+  "erc20": true
+}

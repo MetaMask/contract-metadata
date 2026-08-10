@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xCa626a74420aAaf285987Da23d829f9159Ab867c.svg",
+  "name": "Sprott Uranium Miners ETF (Ondo Tokenized)",
+  "symbol": "URNMon",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xC8206bB42EC019f7E7Ea060ED887E9F5bB53cBB0.svg",
+  "name": "Fundrise Innovation Fund (Ondo Tokenized)",
+  "symbol": "VCXon",
+  "decimals": 18,
+  "erc20": true
+}

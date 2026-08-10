@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xE9518CB0010C717DB69001F1418EFF9e97330137.svg",
+  "name": "Nokia (Ondo Tokenized)",
+  "symbol": "NOKon",
+  "decimals": 18,
+  "erc20": true
+}

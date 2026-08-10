@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x93eb8376ec73dD07F46ba7ae1EE9b0bbD937Ad93.svg",
+  "name": "iShares Euro High Yield Corporate Bond USD Hedged ETF (Ondo Tokenized)",
+  "symbol": "EUHYon",
+  "decimals": 18,
+  "erc20": true
+}

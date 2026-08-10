@@ -1,0 +1,7 @@
+{
+  "name": "Staked USDe",
+  "symbol": "sUSDe",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:4217/erc20:0x20C000000000000000000000Bd95bFB69fBE6Ce3.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x6c51001149c7782820c107ADcE650692aB6c5378.svg",
+  "name": "Vicor (Ondo Tokenized)",
+  "symbol": "VICRon",
+  "decimals": 18,
+  "erc20": true
+}

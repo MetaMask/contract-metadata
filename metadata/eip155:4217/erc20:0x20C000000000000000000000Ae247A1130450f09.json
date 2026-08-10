@@ -1,0 +1,7 @@
+{
+  "name": "Stable Coin",
+  "symbol": "SBC",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:4217/erc20:0x20C000000000000000000000Ae247A1130450f09.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xD60b0276640a693ece55660afAC0383ca6433882.svg",
+  "name": "Primoris Services (Ondo Tokenized)",
+  "symbol": "PRIMon",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xa0Db1eCa4AaEBCa03A3c04ed221b036Dd3CcB025.svg",
+  "name": "Lattice Semiconductor (Ondo Tokenized)",
+  "symbol": "LSCCon",
+  "decimals": 18,
+  "erc20": true
+}

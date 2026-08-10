@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0x86923f96303D656E4aa86D9d42D1e57ad2023fdC.png",
+  "name": "AMD (Robinhood)",
+  "symbol": "AMD",
+  "decimals": 18,
+  "erc20": true
+}

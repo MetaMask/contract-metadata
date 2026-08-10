@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x5417b7CFDb8a187004067297EbF1491c8D6D5C09.svg",
+  "name": "Power Integrations (Ondo Tokenized)",
+  "symbol": "POWIon",
+  "decimals": 18,
+  "erc20": true
+}

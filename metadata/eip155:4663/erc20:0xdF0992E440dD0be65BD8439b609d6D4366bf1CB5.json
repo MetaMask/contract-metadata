@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0xdF0992E440dD0be65BD8439b609d6D4366bf1CB5.png",
+  "name": "Circle Internet Group (Robinhood)",
+  "symbol": "CRCL",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Circle Wrapped Bitcoin",
+  "symbol": "cirBTC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:5042/erc20:0x171A4217b86A807A64eB94757Db6849fb4bDbAA0.svg"
+}

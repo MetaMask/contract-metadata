@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xa656C5Dd6B64b3AcB6E32aF8A876a48B5748f858.svg",
+  "name": "Planet Labs (Ondo Tokenized)",
+  "symbol": "PLon",
+  "decimals": 18,
+  "erc20": true
+}

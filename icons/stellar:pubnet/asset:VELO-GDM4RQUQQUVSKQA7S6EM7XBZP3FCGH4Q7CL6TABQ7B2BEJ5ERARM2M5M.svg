@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 256 256">
+  <!-- Generator: Adobe Illustrator 30.3.0, SVG Export Plug-In . SVG Version: 2.1.3 Build 182)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #da1a5f;
+        isolation: isolate;
+      }
+
+      .st1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path class="st0" d="M0,0h256v256H0V0Z"/>
+  <g>
+    <circle class="st1" cx="173.9" cy="109.3" r="22.6"/>
+    <rect class="st1" x="49.5" y="110.6" width="113.6" height="44.5" rx="22.3" ry="22.3" transform="translate(125.1 -36.3) rotate(45)"/>
+  </g>
+</svg>

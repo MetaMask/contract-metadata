@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0xa870f8C7CAE9705194a141b0C2964B6C79ee3742.png",
+  "name": "Feather",
+  "symbol": "FEATHER",
+  "decimals": 18,
+  "erc20": true
+}

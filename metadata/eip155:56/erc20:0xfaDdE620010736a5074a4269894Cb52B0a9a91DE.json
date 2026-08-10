@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xfaDdE620010736a5074a4269894Cb52B0a9a91DE.svg",
+  "name": "SLB (Ondo Tokenized)",
+  "symbol": "SLBon",
+  "decimals": 18,
+  "erc20": true
+}

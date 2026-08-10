@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xC4881Ce8269744B9255b926B76728eAdcB240A3B.svg",
+  "name": "CEVA (Ondo Tokenized)",
+  "symbol": "CEVAon",
+  "decimals": 18,
+  "erc20": true
+}

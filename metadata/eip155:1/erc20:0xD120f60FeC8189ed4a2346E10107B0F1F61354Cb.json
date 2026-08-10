@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xD120f60FeC8189ed4a2346E10107B0F1F61354Cb.svg",
+  "name": "Generac Holdings (Ondo Tokenized)",
+  "symbol": "GNRCon",
+  "decimals": 18,
+  "erc20": true
+}

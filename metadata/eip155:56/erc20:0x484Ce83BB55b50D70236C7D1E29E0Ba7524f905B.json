@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x484Ce83BB55b50D70236C7D1E29E0Ba7524f905B.svg",
+  "name": "nVent Electric (Ondo Tokenized)",
+  "symbol": "NVTon",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0x822CC93fFD030293E9842c30BBD678F530701867.png",
+  "name": "Bloom Energy (Robinhood)",
+  "symbol": "BE",
+  "decimals": 18,
+  "erc20": true
+}

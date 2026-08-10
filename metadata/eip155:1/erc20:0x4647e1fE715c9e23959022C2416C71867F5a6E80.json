@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x4647e1fE715c9e23959022C2416C71867F5a6E80.svg",
+  "name": "Wrapped Octra",
+  "symbol": "wOCT",
+  "decimals": 6,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x0Afa28A7Ac4E44b1F771515c200F4d67B1f5e8d0.svg",
+  "name": "Trane Technologies (Ondo Tokenized)",
+  "symbol": "TTon",
+  "decimals": 18,
+  "erc20": true
+}

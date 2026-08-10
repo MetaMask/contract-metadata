@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xCC977B493f52B4b6B6a0c3594530f2BaEe565E96.svg",
+  "name": "Mobileye Global (Ondo Tokenized)",
+  "symbol": "MBLYon",
+  "decimals": 18,
+  "erc20": true
+}

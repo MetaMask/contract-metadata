@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xfB4a89A077B9020C7101b1Af760BEB708F37a416.svg",
+  "name": "Entegris (Ondo Tokenized)",
+  "symbol": "ENTGon",
+  "decimals": 18,
+  "erc20": true
+}

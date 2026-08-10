@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xA046C2F0A1Ac0a0E8829eFc12163ae892CEAfAc2.svg",
+  "name": "iShares Expanded Tech-Software ETF (Ondo Tokenized)",
+  "symbol": "IGVon",
+  "decimals": 18,
+  "erc20": true
+}

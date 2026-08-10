@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0xE49A1C3033EcC6b804bc423021D3F71F1A3e0F9B.png",
+  "name": "RobinWifHat",
+  "symbol": "WIF",
+  "decimals": 18,
+  "erc20": true
+}

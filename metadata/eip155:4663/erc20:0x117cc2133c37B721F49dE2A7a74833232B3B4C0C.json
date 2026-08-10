@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0x117cc2133c37B721F49dE2A7a74833232B3B4C0C.png",
+  "name": "SPDR S&P 500 ETF Trust (Robinhood)",
+  "symbol": "SPY",
+  "decimals": 18,
+  "erc20": true
+}

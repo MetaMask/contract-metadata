@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:8453/erc20:0xcb111E6A2a3bde90856D299d61341ac302167D23.png",
+  "name": "Coinbase Wrapped MEGA",
+  "symbol": "cbMEGA",
+  "decimals": 18,
+  "erc20": true
+}

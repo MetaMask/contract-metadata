@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xf26518958935654878De15BE7bC79A26971583Ba.svg",
+  "name": "Dell Technologies (Ondo Tokenized)",
+  "symbol": "DELLon",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x3de956D959726C448649354C6fBCa92B82dC5Ed7.svg",
+  "name": "Keysight Technologies (Ondo Tokenized)",
+  "symbol": "KEYSon",
+  "decimals": 18,
+  "erc20": true
+}

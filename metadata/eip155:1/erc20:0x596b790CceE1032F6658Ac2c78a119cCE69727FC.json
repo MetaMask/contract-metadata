@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x596b790CceE1032F6658Ac2c78a119cCE69727FC.svg",
+  "name": "Halliburton (Ondo Tokenized)",
+  "symbol": "HALon",
+  "decimals": 18,
+  "erc20": true
+}

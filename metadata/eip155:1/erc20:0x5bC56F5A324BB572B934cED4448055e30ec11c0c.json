@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x5bC56F5A324BB572B934cED4448055e30ec11c0c.svg",
+  "name": "Lightwave Logic (Ondo Tokenized)",
+  "symbol": "LWLGon",
+  "decimals": 18,
+  "erc20": true
+}

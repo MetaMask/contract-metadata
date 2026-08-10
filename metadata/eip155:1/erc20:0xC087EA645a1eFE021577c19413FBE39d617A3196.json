@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xC087EA645a1eFE021577c19413FBE39d617A3196.svg",
+  "name": "Camtek (Ondo Tokenized)",
+  "symbol": "CAMTon",
+  "decimals": 18,
+  "erc20": true
+}

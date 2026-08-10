@@ -1,1 +1,12 @@
-<svg width="56" height="56" xmlns="http://www.w3.org/2000/svg"><path fill="url(#paint0_linear)" d="M0 0h56v56H0z"/><path d="M35 21H20.984l-8.716-9H44v31.733L35 35.016V21zM21 35V22.465l-9 8.973V44h12.56l8.974-9H21z" fill="#fff"/><defs><linearGradient id="paint0_linear" x1="10.418" y1="9.712" x2="68.147" y2="76.017" gradientUnits="userSpaceOnUse"><stop stop-color="#1A1E21"/><stop offset="1" stop-color="#06060A"/></linearGradient></defs></svg>
+<svg width="827" height="827" viewBox="0 0 827 827" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="827" height="827" fill="white"/>
+<g clip-path="url(#clip0_5287_241)">
+<path d="M504.909 323.091H326.122L217.637 214H614V610.364L504.909 501.879V323.091Z" fill="black"/>
+<path d="M326.121 501.879V344.909L214 457.03V614H370.97L483.091 501.879H326.121Z" fill="black"/>
+</g>
+<defs>
+<clipPath id="clip0_5287_241">
+<rect width="400" height="400" fill="white" transform="translate(214 214)"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x85bD7B075A9e0f6D7099dd750CEcd65CE57d4F44.svg",
+  "name": "TaskUs (Ondo Tokenized)",
+  "symbol": "TASKon",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x5d1a9d8aa362a6424b65Fcb601e52FefcE5b4EFA.svg",
+  "name": "General Dynamics (Ondo Tokenized)",
+  "symbol": "GDon",
+  "decimals": 18,
+  "erc20": true
+}

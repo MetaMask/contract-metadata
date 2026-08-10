@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40"><circle cx="20" cy="20" r="20" fill="#d9eafa"/><rect x="6" y="6" width="28" height="28" rx="7.9799999999999995" ry="7.9799999999999995" fill="#0075DB"/><g transform="translate(11.32, 14.1872)"><svg width="17.36" height="11.625599999999999" viewBox="0 0 1550 1038" xmlns="http://www.w3.org/2000/svg">
+	<title xmlns="http://www.w3.org/2000/svg">LWLG_BIG</title>
+	<defs xmlns="http://www.w3.org/2000/svg">
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(297.677,-712.566,1447.967,604.893,468.483,1070.037)">
+			<stop offset=".28" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#ffffff"/>
+		</linearGradient>
+	</defs>
+	
+	<path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" class="s0" d="m0.9 0l327.8 1037 1220.3-364.4z" fill="#ffffff"/>
+</svg></g></svg>

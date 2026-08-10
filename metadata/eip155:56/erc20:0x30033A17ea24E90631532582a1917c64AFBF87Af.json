@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x30033A17ea24E90631532582a1917c64AFBF87Af.svg",
+  "name": "Ouster (Ondo Tokenized)",
+  "symbol": "OUSTon",
+  "decimals": 18,
+  "erc20": true
+}

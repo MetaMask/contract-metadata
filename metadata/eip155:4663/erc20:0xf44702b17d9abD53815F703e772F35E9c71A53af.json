@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0xf44702b17d9abD53815F703e772F35E9c71A53af.png",
+  "name": "RAXOL",
+  "symbol": "RAXOL",
+  "decimals": 18,
+  "erc20": true
+}

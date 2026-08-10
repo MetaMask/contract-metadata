@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xaFAA2087093b7B396ADAB8216506D9066c6A6F13.svg",
+  "name": "Atkore (Ondo Tokenized)",
+  "symbol": "ATKRon",
+  "decimals": 18,
+  "erc20": true
+}

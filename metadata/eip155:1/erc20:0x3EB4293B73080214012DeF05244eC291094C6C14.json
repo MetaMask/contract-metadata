@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x3EB4293B73080214012DeF05244eC291094C6C14.svg",
+  "name": "Global X Lithium & Battery Tech ETF (Ondo Tokenized)",
+  "symbol": "LITon",
+  "decimals": 18,
+  "erc20": true
+}

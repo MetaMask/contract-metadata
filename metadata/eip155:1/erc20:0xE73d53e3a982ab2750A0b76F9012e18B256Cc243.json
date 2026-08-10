@@ -1,0 +1,7 @@
+{
+  "name": "N",
+  "symbol": "N",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xE73d53e3a982ab2750A0b76F9012e18B256Cc243.svg"
+}

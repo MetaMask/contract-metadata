@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x1252c5fa0a4031F6843D5Cf8d4986Ba99a8A9b42.svg",
+  "name": "iShares MSCI EAFE Value ETF (Ondo Tokenized)",
+  "symbol": "EFVon",
+  "decimals": 18,
+  "erc20": true
+}

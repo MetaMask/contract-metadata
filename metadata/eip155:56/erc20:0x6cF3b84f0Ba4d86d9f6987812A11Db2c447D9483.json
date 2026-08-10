@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x6cF3b84f0Ba4d86d9f6987812A11Db2c447D9483.svg",
+  "name": "Himax Technologies (Ondo Tokenized)",
+  "symbol": "HIMXon",
+  "decimals": 18,
+  "erc20": true
+}

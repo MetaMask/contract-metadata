@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x5397cB3f1E419050D9d7160756dE0f4eD4f5f898.svg",
+  "name": "Enbridge (Ondo Tokenized)",
+  "symbol": "ENBon",
+  "decimals": 18,
+  "erc20": true
+}

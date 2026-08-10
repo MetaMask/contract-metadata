@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0x284358abc07F9359f19f4b5b4aC91901Be2597Ba.png",
+  "name": "Rigetti Computing (Robinhood)",
+  "symbol": "RGTI",
+  "decimals": 18,
+  "erc20": true
+}

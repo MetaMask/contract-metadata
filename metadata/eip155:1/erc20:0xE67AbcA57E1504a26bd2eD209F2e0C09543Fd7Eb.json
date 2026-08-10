@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xE67AbcA57E1504a26bd2eD209F2e0C09543Fd7Eb.svg",
+  "name": "Hewlett Packard Enterprise (Ondo Tokenized)",
+  "symbol": "HPEon",
+  "decimals": 18,
+  "erc20": true
+}

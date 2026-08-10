@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0xc72b96e0E48ecd4DC75E1e45396e26300BC39681.png",
+  "name": "Intel (Robinhood)",
+  "symbol": "INTC",
+  "decimals": 18,
+  "erc20": true
+}

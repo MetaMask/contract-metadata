@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x6401365aA495ca96Bcfcf9c6c47Bd4a590336b00.svg",
+  "name": "FormFactor (Ondo Tokenized)",
+  "symbol": "FORMon",
+  "decimals": 18,
+  "erc20": true
+}
