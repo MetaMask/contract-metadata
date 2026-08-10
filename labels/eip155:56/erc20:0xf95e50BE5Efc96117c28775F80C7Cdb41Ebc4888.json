@@ -1,5 +1,7 @@
 {
-  "labels": [
-    "ondo"
-  ]
+    "labels": [
+        "ondo",
+        "balance_grouping:rwa:us-treasury-debt",
+        "balance_grouping_provider:2"
+    ]
 }

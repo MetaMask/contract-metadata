@@ -1,0 +1,23 @@
+name: Validate Labels
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - 'labels/**'
+  pull_request:
+    paths:
+      - 'labels/**'
+
+jobs:
+  validate-labels:
+    name: Validate Labels
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Use Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Validate label files
+        run: node scripts/validate-labels.mjs
