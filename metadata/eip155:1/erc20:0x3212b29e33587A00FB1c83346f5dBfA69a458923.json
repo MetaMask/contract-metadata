@@ -1,0 +1,8 @@
+{
+  "name": "The Tokenized Bitcoin",
+  "symbol": "imBTC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3212b29e33587A00FB1c83346f5dBfA69a458923./ipfs/qmxsvmbqszhctvb9rvsf6py6henruw3wpuv1ynvkkbxokv/imbtc",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x84f3aec5114ec57c03e2c8bb1cba9e19234a701e1a3c2a9f8011aceefc8a02a8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "MAJIN",
+  "symbol": "MAJIN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x73F49d00ac1B520F94D11248808C40774aEb0802.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x89f0aabc919fe52b9d194da3524c618c7e514f1938e818bd2e9413d986993626@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

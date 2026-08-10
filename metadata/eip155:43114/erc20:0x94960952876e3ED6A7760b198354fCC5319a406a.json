@@ -1,0 +1,8 @@
+{
+  "name": "RBX",
+  "symbol": "RBX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x94960952876e3ED6A7760b198354fCC5319a406a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd526ba6c88dc5fa14e18719422df1d9f8d5944675b554fb9786286e3eec7b1cd@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

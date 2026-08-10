@@ -1,0 +1,8 @@
+{
+  "name": "DAOhaus",
+  "symbol": "HAUS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF2051511b9B121394Fa75b8f7d4e7424337aF687.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa855646699b07d9c7dbd5d2f827cb6698375654e330e2d27dc7a87f0e978ab90@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

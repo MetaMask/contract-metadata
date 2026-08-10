@@ -1,0 +1,8 @@
+{
+  "name": "VestChain",
+  "symbol": "VEST",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x37F04d2c3Ae075FAD5483bb918491f656B12bdb6./ipfs/qmeeyrozr1cxfx2iqvnx85mzqcblech8sgm1wjacf2zrrh/vest",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5aefb66c9dccc7d6d0ae6941d6b91e28fe7d2375d2ebd38cffaeea77a6342dc9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

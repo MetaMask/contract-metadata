@@ -1,0 +1,8 @@
+{
+  "name": "Tectum",
+  "symbol": "TET",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x68a47Fe1cf42eBA4A030a10cd4d6A1031Ca3ca0a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x23bfd687f03aa31d3cdde4ad5d311c44121b53111eded3551fec80325d54e57f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

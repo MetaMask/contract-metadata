@@ -1,0 +1,8 @@
+{
+  "name": "CorgiAI",
+  "symbol": "CORGIAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x6B431b8a964BfCF28191b07c91189fF4403957d0.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x74412199b1fde5bc241b6b7f33717af791ca3af29bf93f6ca2e750728801bcd0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

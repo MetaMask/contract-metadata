@@ -1,0 +1,8 @@
+{
+  "name": "Revest Finance",
+  "symbol": "RVST",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x120a3879dA835A5AF037bb2d1456BEBD6B54d4ba.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9360bde92e4c8daf7ed845f72d75983b41859aa4743a43f11aff5d13f0169c2e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

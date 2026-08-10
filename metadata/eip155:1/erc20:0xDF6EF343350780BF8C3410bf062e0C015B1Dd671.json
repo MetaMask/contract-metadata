@@ -1,0 +1,8 @@
+{
+  "name": "Blackmoon",
+  "symbol": "BMC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xDF6EF343350780BF8C3410bf062e0C015B1Dd671./ipfs/qmeumaltnsyrgekgj1u8xvrng8kdsrhozvg2ywmfuqskus/bcd69aeybfueonc1f4gt1wqy868pj3xfjmzk2fduyvjofbvvcpaqcwugmtgzrkjlymnjwoeszm1fotojbztwgtvjip",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf0831c6587725482e05256257d7bac3ab3bdd492e55ba3a87b1a9a9f9b7cf69f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "PepeFork",
+  "symbol": "PORK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB9F599ce614feB2E1BbE58f180f370D05B39344e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc226ee496ac2d072d397318cac52e47b34744e3b4f2c39d8b62b3eb3b36e9e1c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

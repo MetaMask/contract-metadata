@@ -1,0 +1,8 @@
+{
+  "name": "Connect Financial",
+  "symbol": "CNFI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xEabb8996eA1662CAD2F7Fb715127852CD3262ae9./ipfs/qmd91u74c6l9p1nn5zqwm2p13hwqhdnvircudlpmu1udpv/cnfi",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x728d0738fca253334f0afe2e3a49addc4203c83b183471ada5c65b93d69f1e2f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "DAI yVault",
+  "symbol": "yvDAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x19D3364a399d251E894ac732651Be8B0E4E85001./ipfs/qmtbngqdsiarfdnhlqyeuhyzpvnd1izynxgefs93bi4qpg/yvdai",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x932550abb849265048d9b6910f4211172fb3f894b50d2f64432d36c170090056@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

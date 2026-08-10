@@ -1,0 +1,8 @@
+{
+  "name": "Fundamenta",
+  "symbol": "FMTA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xAa9D866666c2A3748D6b23ff69e63E52F08D9ab4./ipfs/qmbspej1qx93nhvzfwonwrignu6xezzgkfoh7h6qatd2hn/bcd5w1r1yuhrztce9rakqg4jdxfyvsjadwmfs2mxvqh5hos33m9gbdetnzouk4hz1vgwhj38m76a2witcxfynu2kwb",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xcafd0088a052558794da0c20222fd845659874dfb36d4760f7a05e352cfe65b7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

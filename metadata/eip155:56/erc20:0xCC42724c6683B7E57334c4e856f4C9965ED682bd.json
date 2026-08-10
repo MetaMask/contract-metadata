@@ -1,0 +1,8 @@
+{
+  "name": "Matic",
+  "symbol": "MATIC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xCC42724c6683B7E57334c4e856f4C9965ED682bd.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe2c2302f1118b55bb9aab80479b83cb896e39054f3ce7cb9a8d6caf0e510da15@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

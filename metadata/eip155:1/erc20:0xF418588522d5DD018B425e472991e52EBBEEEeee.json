@@ -1,0 +1,8 @@
+{
+  "name": "Push Protocol",
+  "symbol": "PUSH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF418588522d5DD018B425e472991e52EBBEEEeee.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x010ee14a1deb47df5abedfa7410dac5496171eeb61a8940939b47cb64308226f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

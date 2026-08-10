@@ -1,0 +1,8 @@
+{
+  "name": "Cate",
+  "symbol": "CATE",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA00453052A36D43A99ac1ca145dfe4A952Ca33b8.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3664ca42305c6bb78d41bb47b391fc5c86b2146a938516a184252c8b4a0e8c01@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

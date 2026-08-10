@@ -1,0 +1,8 @@
+{
+  "name": "Cream Binance Wrapped BTC",
+  "symbol": "crBBTC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x7Ea9c63e216d5565C3940a2b3d150E59C2907db3./ipfs/qmbnrz3qomhnddlgh7vxfyphdpolngfmrccdkbmzrvyozw/crbbtc",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0b421e0777d64d8a7cf5eb753513334debbbf43bbd53709196772e00372e4441@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

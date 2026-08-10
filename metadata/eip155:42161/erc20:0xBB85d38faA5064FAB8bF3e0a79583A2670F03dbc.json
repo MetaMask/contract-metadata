@@ -1,0 +1,8 @@
+{
+  "name": "FantomStarter",
+  "symbol": "FS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0xBB85d38faA5064FAB8bF3e0a79583A2670F03dbc.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4abe25b7435b6bc19ae5f010a83f799a1b5afafe1761ca2333e5b68f13e37d26@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

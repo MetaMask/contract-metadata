@@ -1,0 +1,8 @@
+{
+  "name": "TICKLE",
+  "symbol": "TICKLE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xA1Ebb0922A7f43DF50b34ad9bf2f602F88aab869.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb2501256c0046c4f1a8a51ab1d64b36613a381c556fb71c147de50f457002540@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

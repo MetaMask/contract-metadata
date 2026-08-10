@@ -1,0 +1,8 @@
+{
+  "name": "Acet",
+  "symbol": "ACT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x9F3bcbe48e8B754F331DFc694A894E8E686ac31d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe0e3e3da16b7d75990ed5ba62f45fafd40be07230614885244c4b2e9fd2299da@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

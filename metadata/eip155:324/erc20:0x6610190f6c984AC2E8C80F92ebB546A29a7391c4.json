@@ -1,0 +1,8 @@
+{
+  "name": "Maverick",
+  "symbol": "MAV",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x6610190f6c984AC2E8C80F92ebB546A29a7391c4.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0cbcf79220d7f36b0726caa449d050866cb8884a3aedcab9b1a892eaca95287b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

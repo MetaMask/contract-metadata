@@ -1,0 +1,8 @@
+{
+  "name": "BRZ",
+  "symbol": "BRZ",
+  "decimals": 4,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x491a4eb4f1fC3BFF8E1D2Fc856A6A46663aD556f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8c0f0bfefbd49d9448e694b5bb2c71f293612b7b45bd1be8e6d685c7b4e8a518@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

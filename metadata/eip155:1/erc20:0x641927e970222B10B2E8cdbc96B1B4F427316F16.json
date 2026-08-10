@@ -1,0 +1,8 @@
+{
+  "name": "MEEB Vault",
+  "symbol": "MEEB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x641927e970222B10B2E8cdbc96B1B4F427316F16./ipfs/qmbffkt7rjwrpfwotvwa7wi85scyz88x5fcuqnststqwmh/meeb",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdefb35eca7095d4f9f96c3a1db374a9d94b4bf690482addfe4ab8819b945a023@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

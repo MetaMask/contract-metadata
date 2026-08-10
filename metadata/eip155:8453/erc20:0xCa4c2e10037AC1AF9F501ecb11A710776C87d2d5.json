@@ -1,0 +1,8 @@
+{
+  "name": "SOVRUN",
+  "symbol": "SOVRN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xCa4c2e10037AC1AF9F501ecb11A710776C87d2d5.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x33539f91a6dc9ee736e44d64b9505203a6e05b8895df4ca3e126b6e146e0d9f8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

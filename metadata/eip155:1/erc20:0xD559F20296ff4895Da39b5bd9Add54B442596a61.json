@@ -1,0 +1,8 @@
+{
+  "name": "FintruX Network",
+  "symbol": "FTX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD559F20296ff4895Da39b5bd9Add54B442596a61./ipfs/qmcctk3pgnjw8jievrqpxelfmc66huktwibur3cbvrgmmj/ftx",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x74c02bfec7e979af5a4789b0d6b797161120460e43e5682e15f5d9a83ff3935e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

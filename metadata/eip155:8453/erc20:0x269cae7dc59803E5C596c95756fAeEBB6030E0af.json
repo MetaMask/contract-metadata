@@ -1,0 +1,8 @@
+{
+  "name": "Real MXN",
+  "symbol": "MXNe",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x269cae7dc59803E5C596c95756fAeEBB6030E0af.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x632679ec8c37c14099ee5ff5d7a427110fa9be5a1a8bdd4daaa23cd5caac1818@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

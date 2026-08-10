@@ -1,0 +1,8 @@
+{
+  "name": "MAXI",
+  "symbol": "MAXI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x080c169cd58122F8E1D36713bf8BCBCA45176905.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd9707b0419d64ea6bc0c439dce0a0973daf4059e85ff27b011a71b1184f5fbb7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Celo Brazilian Real",
+  "symbol": "cREAL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42220/erc20:0xE8537a3d056dA446677b9e9d6c5dB704Eaab4787.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xade51bcdfe1a8df68b0a33bbf9a10111bb1cab158b77df8039c0a53f5023f66f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

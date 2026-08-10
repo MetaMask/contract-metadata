@@ -1,0 +1,8 @@
+{
+  "name": "JITO",
+  "symbol": "JTO",
+  "decimals": 9,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1a43baefca07154d6f7b495ecdb71fa39acd8099aa16b3e7c26e8da9e9011adb@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "XRP",
+  "symbol": "XRP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x1D2F0da169ceB9FC7B3144628dB156F3F6C60dbe.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb014ae50051802d04da59b610ba711eef2cc9a0817597691fa69863e22eb7221@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

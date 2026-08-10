@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Perpetual Oil Futures",
+  "symbol": "sOIL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x6D16cF3ec5f763D4D99cb0b0b110eEFD93b11b56./ipfs/qmcz6tlktm2xlj5hkm4fehf6ramhnugkqeogzqzhiayrgg/soil",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x26da8e7a13585be8b589e3e8627af18a1447d07b7afcbe9ba330fdc4057ee57a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

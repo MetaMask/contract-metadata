@@ -1,0 +1,8 @@
+{
+  "name": "Pepe Inscriptions",
+  "symbol": "PEPI",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x19706c142d33376240E418d6385f05691a5Fa8e2.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd22d45f750cca20fb21d355d8d08c001d22e6fcfd36e08609a135a77bad700de@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

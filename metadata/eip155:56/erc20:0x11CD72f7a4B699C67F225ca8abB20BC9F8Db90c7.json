@@ -1,0 +1,8 @@
+{
+  "name": "Osaka Protocol",
+  "symbol": "OSAK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x11CD72f7a4B699C67F225ca8abB20BC9F8Db90c7.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x47fad05956fd8205b8bf5ece4351bff49b8fd79c23c6e8f5cd3f848500ea03a0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

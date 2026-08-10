@@ -1,0 +1,8 @@
+{
+  "name": "Cobinhood",
+  "symbol": "COB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB2F7Eb1f2c37645BE61D73953035360E768D81e6./ipfs/qmtovaus3bqfan41b3cfhvxjcgtdhspao8rhsanlatrvgh/bcd5x1wsvpbx5plrpdkfxom5nmuakc5cyqdtuux8vxs4zro2zdilp5dqfrlareat35nbxstylp7gdqlcfhybldd1pg",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbdf1585d8f88b7d51568ee05bc17afd32c2b6c296661cb5ca01721587bb968f5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Chainlink",
+  "symbol": "sLINK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xBBC455cb4f1B9E4BFC4b73970d360C8F032EFee6./ipfs/qmthvdtcfshrjxtjrqpobxs63e9kxr9ybgcjjm18pqn4zn/slink",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xcfe4675f49b70d47fb3a6462c2be4c1f5bcf298177ea8b1cf4ecc2e4788c7257@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

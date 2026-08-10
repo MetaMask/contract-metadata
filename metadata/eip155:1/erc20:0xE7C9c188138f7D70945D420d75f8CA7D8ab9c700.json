@@ -1,0 +1,8 @@
+{
+  "name": "Basis Dollar Share",
+  "symbol": "BSDS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xE7C9c188138f7D70945D420d75f8CA7D8ab9c700./ipfs/qmtxaub5ghdlzxo3qzmgvulujnjtajzhnpaosgphxq27af/bsds",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x374592f654abda3258963eac63d93249bf402b9b9fcd5fc48177ccc675cab361@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

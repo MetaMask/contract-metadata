@@ -1,0 +1,8 @@
+{
+  "name": "Lympo",
+  "symbol": "LYM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xC690F7c7fcffA6A82B79Fab7508C466FEFDFc8c5./ipfs/qmxypx3c6c5v4dv2vc73o6yppmz95ky1pnw2h3ebrufthc/bccz8gmsaab6tcpnh1nf9mpdusco1brmqexmtnizw4lozuuj6veq1kskycbvptoa3ibhofmlnhjy5xusvhh6uefo3w",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9fc9509cb92335932f626bd1b557be765b8716196753b0ef4bf74dbe750c8732@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

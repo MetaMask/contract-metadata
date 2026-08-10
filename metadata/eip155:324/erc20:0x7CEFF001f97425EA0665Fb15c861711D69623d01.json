@@ -1,0 +1,8 @@
+{
+  "name": "Reef",
+  "symbol": "REEF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x7CEFF001f97425EA0665Fb15c861711D69623d01.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2022eb5fb00c5be820c27a17e7d82124461960cdaa23a13fa1291dab57878039@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

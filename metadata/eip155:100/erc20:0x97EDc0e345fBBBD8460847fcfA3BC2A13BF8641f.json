@@ -1,0 +1,8 @@
+{
+  "name": "DAOSquare",
+  "symbol": "RICE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:100/erc20:0x97EDc0e345fBBBD8460847fcfA3BC2A13BF8641f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4a6de08411d6e7048d88e8cf1b3955a2c68aaecfbd656a33946a153730ee3bde@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

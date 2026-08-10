@@ -1,0 +1,8 @@
+{
+  "name": "Cool Mustache",
+  "symbol": "MUST",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x14DaF26c2507ACDD3B64E3302d8554611026cc40.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4b9e660f2d528822d01601c196899631fb379e3589029e9d57a935a5fc097dc5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Synthetix Network",
+  "symbol": "SNX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x9aC983826058B8A9C7aa1c9171441191232E8404.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7f46e0f7045bdcb51816c7eb12c7647d93e93d1a5796d2570089f7e3608bfd07@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

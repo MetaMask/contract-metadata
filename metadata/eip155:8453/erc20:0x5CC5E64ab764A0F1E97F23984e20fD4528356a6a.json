@@ -1,0 +1,8 @@
+{
+  "name": "XRGB",
+  "symbol": "XRGB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x5CC5E64ab764A0F1E97F23984e20fD4528356a6a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdcc7ed1d0437e5208da9b4793911a30f555891167dae072ff0930289597b0268@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

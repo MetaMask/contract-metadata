@@ -1,0 +1,8 @@
+{
+  "name": "DeFIL",
+  "symbol": "DFL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x09CE2b746c32528B7D864a1e3979BD97D2F095ab./ipfs/qmbxtqvoflvjer3u6vgqkoyslq6tlr4pruxwpha1y9nwew/dfl",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5451fa26faee92fb05591f419f3521b6ad276770b5d2b6fef8a653e97e3eb989@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

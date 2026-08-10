@@ -1,0 +1,8 @@
+{
+  "name": "Holdstation USDC",
+  "symbol": "hsUSDC",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xAF08a9d918f16332F22cF8dc9ABe9D9E14DDcbc2.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbc982cd1af038fc98925c15ef104ffaf67a92aa8ed0068e5439ffba8d9a03210@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

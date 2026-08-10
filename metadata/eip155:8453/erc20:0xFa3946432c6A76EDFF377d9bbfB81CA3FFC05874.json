@@ -1,0 +1,8 @@
+{
+  "name": "Hunter by Virtuals",
+  "symbol": "DRPXBT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xFa3946432c6A76EDFF377d9bbfB81CA3FFC05874.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb870f585a63f476906b9f82dc16c20f6b1be11cc75879cd3a8e79cb8becabfa5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

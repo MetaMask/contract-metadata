@@ -1,0 +1,8 @@
+{
+  "name": "Wilder World",
+  "symbol": "WILD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x2a3bFF78b79A009976EEa096a51A948A3DC00e34.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdfa0f6261695c16cf04c384863a0470c10ddc06602389d87c124409b7a9749c1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

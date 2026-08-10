@@ -1,0 +1,8 @@
+{
+  "name": "Unitus",
+  "symbol": "UTS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0x3B6564b5dA73A41D3a66E6558A98fD0E9E1E77ad.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4f270e6601c8681cdcaa29acde8df18dadf8562d5ee31a4b260ecf24837870d7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

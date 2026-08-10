@@ -1,0 +1,8 @@
+{
+  "name": "Base Carbon Tonne",
+  "symbol": "BCT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x576bca23dcB6D94FF8E537d88b0d3E1BEaD444a2.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x58cf860bfe6b9a864b8e4169a6ec4d63d46f24cc868d9dc9a07f7ac14a6dd0c9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

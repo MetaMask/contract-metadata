@@ -1,0 +1,8 @@
+{
+  "name": "GURU",
+  "symbol": "GURU",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x525574c899A7C877A11865339e57376092168258.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb839ff7e9dd1eccea5a6bd5055315291d60e676e2e4a6081b81d82ec13e03115@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

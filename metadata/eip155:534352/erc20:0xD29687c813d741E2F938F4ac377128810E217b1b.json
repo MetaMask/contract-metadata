@@ -1,0 +1,8 @@
+{
+  "name": "Scroll",
+  "symbol": "SCR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:534352/erc20:0xD29687c813d741E2F938F4ac377128810E217b1b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa8b5a3734061624780f27462545e42de5c56788782513b890c80072b48336464@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

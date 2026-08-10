@@ -1,0 +1,8 @@
+{
+  "name": "Shuffle Monster",
+  "symbol": "SHUF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3a9FFF453d50D4AC52a6890647B823379Ba36b9e./ipfs/qmxtac68nphspwgplb8ww1xheuovy4r47jkj7q7e6vemk2/bcdybr9t1j6wkwltfby6ybn4ro5hsrm657jrjrzd9yzwmrjuvutbapz5iqxjnhisjxauukwmrltnkwubjqp9s5pryd",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7675c1d102fc46196fe7a567449e2ef5d6310b72bbcd45627a354bd764709519@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

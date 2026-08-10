@@ -1,0 +1,8 @@
+{
+  "name": "Ankr",
+  "symbol": "ANKR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x8290333cef9e6D528DD5618fb97A76F268F3Edd4./ipfs/qmsyrpvzpv6nysuqjsa6nzagachw5rh8c4g4zvqt8zfkg8/bcd5wkttpkc7cn2htptthgq9hbpsgcgnt2yafpgqpvydxkrzvuj6ylkhi2hsajza7ps3dgzut6qfb2a52zhdvsjgco",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6cb64d6d0f5e7a2b5f3f263a71e6773618b9f3d5772532e6e5a872012c25b7e5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

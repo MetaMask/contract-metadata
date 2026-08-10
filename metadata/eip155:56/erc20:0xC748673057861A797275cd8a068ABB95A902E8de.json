@@ -1,0 +1,8 @@
+{
+  "name": "Baby Doge Coin",
+  "symbol": "BABYDOGE",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xC748673057861A797275cd8a068ABB95A902E8de.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x91e8e3bc437ddfc77c3b6e157bd236fbd12b09432f04ea6640fbc9ced1997374@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

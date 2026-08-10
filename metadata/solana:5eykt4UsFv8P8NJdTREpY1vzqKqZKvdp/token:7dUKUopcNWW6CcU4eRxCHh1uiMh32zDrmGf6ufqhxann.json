@@ -1,0 +1,8 @@
+{
+  "name": "Baby Doge Coin",
+  "symbol": "BABYDOGE",
+  "decimals": 1,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:7dUKUopcNWW6CcU4eRxCHh1uiMh32zDrmGf6ufqhxann.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf1f95dadc4abbffa55c67e561aa10e09d24d9cfcbd40b62920b80fa846996a79@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

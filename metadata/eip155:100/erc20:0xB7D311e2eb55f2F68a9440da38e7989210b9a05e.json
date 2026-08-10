@@ -1,0 +1,8 @@
+{
+  "name": "STAKE",
+  "symbol": "STAKE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:100/erc20:0xB7D311e2eb55f2F68a9440da38e7989210b9a05e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6342b1c606e812ade43f62af3feb7b7a9129ba60beb277e5953eadf60471902f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

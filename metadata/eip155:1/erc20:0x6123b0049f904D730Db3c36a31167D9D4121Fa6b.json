@@ -1,0 +1,8 @@
+{
+  "name": "Ribbon Finance",
+  "symbol": "RBN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x6123b0049f904D730Db3c36a31167D9D4121Fa6b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfa73e0b8b7e7b5f8c389c1e43f214601a4e7fa455f70391a5596ec8ae99ead2b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

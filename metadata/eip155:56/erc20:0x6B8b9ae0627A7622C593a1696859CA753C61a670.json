@@ -1,0 +1,8 @@
+{
+  "name": "Jarvis Synthetic South African Rand",
+  "symbol": "jZAR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x6B8b9ae0627A7622C593a1696859CA753C61a670.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9c0744cc8a74bce1d14f038c951cf82564e5abb4e31af6c1998021fa5eb2ddb8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Farther",
+  "symbol": "FARTHER",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x8aD5b9007556749DE59E088c88801A3AAa87134b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2142e09546c37f4cd50856dd7a8c02f9f42176a49b62d74967534b80b99b423a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

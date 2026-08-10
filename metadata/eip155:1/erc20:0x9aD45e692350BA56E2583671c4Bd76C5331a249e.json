@@ -1,0 +1,8 @@
+{
+  "name": "PeepsPay",
+  "symbol": "PeepsPay",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9aD45e692350BA56E2583671c4Bd76C5331a249e./ipfs/qmqu2axcdjqealjulmp2tzjxu4mfpyceepf5w1wfj3rqjj/peepspay",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5eb64f159354d8a5eac3e09f10080360ae1d1cb53d46e9eb1688ae15cfa03496@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

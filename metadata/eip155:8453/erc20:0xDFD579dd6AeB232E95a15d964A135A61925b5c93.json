@@ -1,0 +1,8 @@
+{
+  "name": "Marso.Tech",
+  "symbol": "MARSO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xDFD579dd6AeB232E95a15d964A135A61925b5c93.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb90b48ff9c93a126e52c07431acdb5e6e52bb12cc4f9be0c2d0b8a618acf41ca@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "WOWswap",
+  "symbol": "WOW",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xA384bc7cdc0A93E686Da9e7b8c0807CD040F4e0b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa590d2f16679a09a5e11443487fdd0ef7359c9ad3eaae1a372c3f121c1ab116f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

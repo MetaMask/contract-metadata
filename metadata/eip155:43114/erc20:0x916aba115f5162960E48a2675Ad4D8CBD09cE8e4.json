@@ -1,0 +1,8 @@
+{
+  "name": "MCVERSE",
+  "symbol": "MCV",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x916aba115f5162960E48a2675Ad4D8CBD09cE8e4.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x610ab6d207e8661117b6041b2b3de207681cd76add446b60e6a04593b2eb5fe8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

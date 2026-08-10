@@ -1,0 +1,8 @@
+{
+  "name": "Okayeg",
+  "symbol": "OKAYEG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xDB6E0e5094A25A052ab6845a9f1e486B9a9b3dde.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x55d5d288897a69a9975c68daa015cdd70438045fc0ad91af11c3c3f0882b7128@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

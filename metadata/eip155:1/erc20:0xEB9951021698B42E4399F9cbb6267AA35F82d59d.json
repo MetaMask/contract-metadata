@@ -1,0 +1,8 @@
+{
+  "name": "Líf",
+  "symbol": "LIF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xEB9951021698B42E4399F9cbb6267AA35F82d59d./ipfs/qmzngikybkrsxkajxy8ddbaiuszdxcca4bw5syucpr99dn/bcd3byyzhnmyo8st9uff3ee7d35rksvdhqivmtvk5umjfwbnaoqlpauekr9qftzuduhqm4qsn445rjgbetjjwjt8ts",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8bd4dcb5eb5901a222218d87a31e5d9d6c7159fae0c4faae1c7a6f4f8c7195a8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

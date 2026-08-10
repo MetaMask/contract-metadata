@@ -1,0 +1,8 @@
+{
+  "name": "Automata",
+  "symbol": "ATA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xA2120b9e674d3fC3875F415a7df52E382F141225.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7d99edf9eddfe7f96f3427381bbf6bf13c6469cddad43e81c7a20f7164b50e46@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

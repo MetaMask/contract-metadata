@@ -1,0 +1,8 @@
+{
+  "name": "BiLira",
+  "symbol": "TRYB",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x2C537e5624e4Af88A7aE4060c022609376C8d0eb./ipfs/qmr3rbsrkebclpjtel8sr9mp1ghs8ta2abostdzl7wwvbp/tryb",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x37dabeb69745cd5fa76e076ac5e6cd569479a448ec29ac258851397d04bca253@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

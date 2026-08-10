@@ -1,0 +1,8 @@
+{
+  "name": "StackOS",
+  "symbol": "STACK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x56a86d648c435DC707C8405b78e2AE8EB4E60ba4./ipfs/qmdj21sptjmpqpsku8dy3r7rxzjhiyz3htxm9r6rwcmrm5/stack",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x77267f782ae6e6b04288268c21e1f4ac29726037ad296b38be7dc5aaa40137b9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

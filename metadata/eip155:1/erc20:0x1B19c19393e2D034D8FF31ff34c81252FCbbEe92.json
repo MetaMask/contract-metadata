@@ -1,0 +1,8 @@
+{
+  "name": "OUSG",
+  "symbol": "OUSG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1B19c19393e2D034D8FF31ff34c81252FCbbEe92.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfd1f3ecf81d33df1375092377b16aea96bff8ced6cffd1e11a23960e6b5c216f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

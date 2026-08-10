@@ -1,0 +1,8 @@
+{
+  "name": "Bark Ruffalo by Virtuals",
+  "symbol": "PAWSY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x29E39327b5B1e500B87Fc0fcae3856CD8F96Ed2a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8abb9daf33016269d53a0fec67372ad1a31177ffd44cc7299f67b91057f9dc8c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

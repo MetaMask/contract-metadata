@@ -1,0 +1,8 @@
+{
+  "name": "Clankster",
+  "symbol": "CLANKSTER",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x3E1a6d23303Be04403badc8bff348027148FEF27.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa1ac75435f18832905608e753423568b6bb5f2a0cff251a044237f84e9b597ca@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

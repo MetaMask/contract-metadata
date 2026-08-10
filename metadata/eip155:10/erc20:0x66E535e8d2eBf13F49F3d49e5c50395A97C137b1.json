@@ -1,0 +1,8 @@
+{
+  "name": "Molten",
+  "symbol": "MOLTEN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:10/erc20:0x66E535e8d2eBf13F49F3d49e5c50395A97C137b1.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x58c75edb89c13c33dbbf8d8d6feb88bde637eff49336d7377369c01bcab15bba@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

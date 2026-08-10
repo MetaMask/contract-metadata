@@ -1,0 +1,8 @@
+{
+  "name": "OpenAlexa Protocol",
+  "symbol": "OAP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1788430620960f9A70E3dc14202A3A35DDE1a316./ipfs/qmvqzdhqmhjxgscrlgvu7jt746jvr9px3eb3ojphqjtliw/oap",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xab2c70d0b4e39dde64d12670c44da4f2506e0e7ca976906cdec76a027adceb30@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

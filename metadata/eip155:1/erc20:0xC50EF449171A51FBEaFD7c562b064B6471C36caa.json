@@ -1,0 +1,8 @@
+{
+  "name": "Zombie Inu",
+  "symbol": "ZINU",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xC50EF449171A51FBEaFD7c562b064B6471C36caa./ipfs/qmdzk85cfjiehcuxndpabs1weqb8t3vryrxnxtqkvntv3o/zinu",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6df8238abca0f47c2a3150935c2e1d97532a009754b26a34da224d1fb8f4af6f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

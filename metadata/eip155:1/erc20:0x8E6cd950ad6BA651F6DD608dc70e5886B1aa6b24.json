@@ -1,0 +1,8 @@
+{
+  "name": "StarLink",
+  "symbol": "STARL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x8E6cd950ad6BA651F6DD608dc70e5886B1aa6b24.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3a029bbfe2bbbb5e04aa1739d04be1ff2b46b1f8cac0ac529c1a1dc331d6d8c7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

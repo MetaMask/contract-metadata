@@ -1,0 +1,8 @@
+{
+  "name": "YAM",
+  "symbol": "YAM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0aacFbec6A24756C20D41914f2cABA817C0D8521./ipfs/qmzjne9x3gxbfgwguq8pyjrzsm2s3wq4gq1mgh6ur7cd6r/yam",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x308924e6db02849f3c40782512894fe6b742093720a7d86d5c8705b7fbfd8a12@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Magic Internet Money",
+  "symbol": "MIM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0xFEa7a6a0b346362BF88a9e4a88416B77A57D6c2a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6678f6d8500219a2adde4b40903cb8585efef4ebb5614bdfef4c75abe0c5c034@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

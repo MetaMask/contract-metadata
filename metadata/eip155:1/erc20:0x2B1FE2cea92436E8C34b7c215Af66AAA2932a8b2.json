@@ -1,0 +1,8 @@
+{
+  "name": "Sakhalin Husky",
+  "symbol": "SAHU",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x2B1FE2cea92436E8C34b7c215Af66AAA2932a8b2./ipfs/qmzz6upxfxbwuuss6ju5kbbnqy8nfajdh3gjcqhd6vhufp/sahu",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x60242a0dc99858af513c0e9ec60b7bde47c376001abb4bd32f31b263ba5a5840@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

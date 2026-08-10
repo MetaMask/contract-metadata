@@ -1,0 +1,8 @@
+{
+  "name": "Seal Finance",
+  "symbol": "SEAL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x33C2da7fd5B125E629b3950f3c38D7F721D7b30d./ipfs/qmqy8p62jm3ymnjkc8oszkyehrkexymksufiuzby2wjzxr/bcdybaarw8ipehtqy8kgzeevnkqmqkdiw2qqdsba7k1xnrpudwyrqasdoyqczmimpu1e9vcyb6h7ezsolvgzvk4kq7",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb497ecf258f57ee52ac75f70f12adbdb825787ac677bd0683b405b17dfafcc27@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

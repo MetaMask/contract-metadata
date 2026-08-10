@@ -1,0 +1,8 @@
+{
+  "name": "Glo Dollar",
+  "symbol": "USDGLO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42220/erc20:0x4F604735c1cf31399C6E711d5962B2B3E0225ad3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8dfbe1b1664376b109cb4358853a2bc79b721ba45204280d9c986a59a9f0da47@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

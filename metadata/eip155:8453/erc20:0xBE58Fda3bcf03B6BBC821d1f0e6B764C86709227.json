@@ -1,0 +1,8 @@
+{
+  "name": "Vabble",
+  "symbol": "VFX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xBE58Fda3bcf03B6BBC821d1f0e6B764C86709227.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x38304356e000dce034539b4fde7abf72e2b9ebf1bc559187ba9df7f1296026af@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

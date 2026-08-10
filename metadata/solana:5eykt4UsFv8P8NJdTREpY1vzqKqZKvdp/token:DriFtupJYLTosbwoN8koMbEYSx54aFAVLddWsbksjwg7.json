@@ -1,0 +1,8 @@
+{
+  "name": "Drift Protocol",
+  "symbol": "DRIFT",
+  "decimals": 6,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:DriFtupJYLTosbwoN8koMbEYSx54aFAVLddWsbksjwg7.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4cad3a536ff2ba1c226d0edbe4d41fa875fa634b1527f6ca5c763dcdb115178d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

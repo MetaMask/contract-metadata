@@ -1,0 +1,8 @@
+{
+  "name": "DebtReliefBot",
+  "symbol": "DRB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x3EC2156d4c0A9CBDAB4a016633B7BCF6A8D68ea2.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x485f182abb69df0e1df3d0e5fd3b6f97ec57eaffca95f92281ed987583023098@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

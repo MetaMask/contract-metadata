@@ -1,0 +1,8 @@
+{
+  "name": "Base MemeIndexer DTF",
+  "symbol": "BDTF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xB8753941196692E322846cfee9c14C97AC81928a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc8a4044941eed5d666573964fb4267f3e49f1c4e2470b8ba4ec5fadece9103ed@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

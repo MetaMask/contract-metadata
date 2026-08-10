@@ -1,0 +1,8 @@
+{
+  "name": "Fuku-Kun",
+  "symbol": "FUKU",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1001271083c249BD771E1bb76c22D935809a61ee.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x48db6e33c2cdb402a767eb88931e8a434673a62ab2cfb12443f3a81921d162b1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "STONK",
+  "symbol": "STONK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB4058411967d5046F3510943103805BE61F0600e./ipfs/qmzctwfzb82qjwdvptytu4hr9q32yle9ahipheugmb3b45/bcdx1wcz1u1k4exdbv8qtsztqurdhd5vhdzurrahmvehqk4fc9pmksrsmepy7ee3pzdhqn5zbnyh2vkvannexfovup",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x47f3e1f76ef9444ed0661b53509c543661928e4f64594478fdfc306e267e9431@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

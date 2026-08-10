@@ -1,0 +1,8 @@
+{
+  "name": "Decentraland LAND",
+  "symbol": "LAND",
+  "decimals": 0,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF87E31492fAf9A91B02EE0deaAd50D51D56D5d4d./ipfs/qmpznqckgcycdks32zfc81bnsppcev83hfaglockjnkxf1/land",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd4df59663c0bd7e1309723466424c19c95ba99e080cf8db125b8ab6c7198b511@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

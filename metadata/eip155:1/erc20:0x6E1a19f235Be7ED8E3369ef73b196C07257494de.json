@@ -1,0 +1,8 @@
+{
+  "name": "Wrapped Filecoin",
+  "symbol": "WFIL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x6E1a19f235Be7ED8E3369ef73b196C07257494de./ipfs/qmq7lfaec4pj36ofjz8gnvgdj2sqjxzpb3tzz6sym95nuw/wfil",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf45abd54656f85814ff2868c7d70de93a38013da6d94784c4181f815b2f9084f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Spartacus",
+  "symbol": "SPA",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:250/erc20:0x5602dF4a94eB6C680190accfa2A475621E0Ddbdc.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6e9697ac31e8adae958ec2ffdf32d656e2df410588d0c6ebfc437336966c58e9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

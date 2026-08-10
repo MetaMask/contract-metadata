@@ -1,0 +1,8 @@
+{
+  "name": "IHF Smart Debase",
+  "symbol": "IHF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x3B9728bd65cA2C11A817ce39a6e91808CCEEF6fd.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x29b54568278c19e2fa4eda544613b3b6ded7475c7895998652f468f09c060b15@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "BAD IDEA AI",
+  "symbol": "BAD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x32b86b99441480A7E5bD3a26c124eC2373E3F015./ipfs/qmpm3wxkburejpkrbajzb3hd4cx45bbzay6iqmekjbmddz/bad",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf9c7f01c2cb423ebe7c3fffe13d49b2713c1b738aa6b3312f95f3d447c043a8a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

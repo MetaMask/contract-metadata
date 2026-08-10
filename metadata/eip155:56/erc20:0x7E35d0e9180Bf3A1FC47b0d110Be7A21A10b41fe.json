@@ -1,0 +1,8 @@
+{
+  "name": "OVR",
+  "symbol": "OVR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x7E35d0e9180Bf3A1FC47b0d110Be7A21A10b41fe.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfe5bc0df65af7d48dcfbfa07bb5ccedd667c9adb1afd8692d547d0c97168b68b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

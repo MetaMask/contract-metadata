@@ -1,0 +1,8 @@
+{
+  "name": "USDK",
+  "symbol": "USDK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1C48F86ae57291F7686349f12601910BD8D470bb./ipfs/qmsek6wnf7yptresqrrqbmpdcfmklk6ve8zs8cat8f1uzu/bccy1gumghfruup1ndz7rmbryf1svjypkkjivbazjaqcpvq6mzxyfectbtfkwv7xpfh5w5kqpbr2fnmtss9ej9psgx",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8b12df069e5363ea5184a68d393b2a1c1cb7b2256e3d976c451d45562ebfbe1d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

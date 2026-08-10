@@ -1,0 +1,8 @@
+{
+  "name": "FluidFi",
+  "symbol": "FLUID",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0x876Ec6be52486EEEC06bc06434f3e629D695c6ba.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xde0e08a58b92a84df9aaf06c855d6a111490b915869f86f5ff199c3d0045f315@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

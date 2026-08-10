@@ -1,0 +1,8 @@
+{
+  "name": "Stader ETHx",
+  "symbol": "ETHx",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA35b1b31ce002fBF2058d22f30f95D405200a15b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc0a794fa18abe0337ef769562e3cfe3efda599d4fbf481b0f54a299ecb1d5d2d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

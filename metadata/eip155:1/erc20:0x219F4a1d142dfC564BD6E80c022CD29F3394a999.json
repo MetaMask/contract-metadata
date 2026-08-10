@@ -1,0 +1,8 @@
+{
+  "name": "Wrapped Stellar",
+  "symbol": "WXLM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x219F4a1d142dfC564BD6E80c022CD29F3394a999./ipfs/qmzimbjer3qqgmzvb5q1ju3arqf2r3nhpyghurog8fcfmu/wxlm",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe504d1a0f90d655e88283b092ce51af318f62e8c8739c3a87c78037a7acaf654@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

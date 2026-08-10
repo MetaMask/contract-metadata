@@ -1,0 +1,8 @@
+{
+  "name": "Blocery",
+  "symbol": "BLY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF8aD7dfe656188A23E89da09506ADf7AD9290d5d./ipfs/qmdc5qchhbme4f9jghkpulcxegggmwjmknrbxdq75smg8y/bly",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x58cc356a1aa2eca560ccbf8dcd0b8da0cd4a5e49c24437604cce2330473ab2c3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

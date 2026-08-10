@@ -1,0 +1,8 @@
+{
+  "name": "Particle Network",
+  "symbol": "PARTI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x59264F02d301281F3393E1385c0AefD446Eb0F00.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x78a6f309264e0dc1d0c2b120aff721c5ac311ea3e88b4585c861d0f2b789e000@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

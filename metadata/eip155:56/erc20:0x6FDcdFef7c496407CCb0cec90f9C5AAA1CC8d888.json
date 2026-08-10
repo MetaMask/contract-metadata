@@ -1,0 +1,8 @@
+{
+  "name": "VeChain",
+  "symbol": "VET",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x6FDcdFef7c496407CCb0cec90f9C5AAA1CC8d888.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd05ff5e82a5d6f64c4762958b5136972fe79c8e6033c8acbfef5e9ed5a9f8bad@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

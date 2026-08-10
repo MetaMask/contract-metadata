@@ -1,0 +1,8 @@
+{
+  "name": "The Css God by Virtuals",
+  "symbol": "WEBSIM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xDaF3c78f165d26F821D3d39d6598A96E962b1508.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf3c35634d8bc0b00f946d3e406ecc2e0b4d489729b07d84ed5a73dc8c6840031@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Amon",
+  "symbol": "AMN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x737F98ac8cA59f2C68aD658e3c3d8C8963E40a4c./ipfs/qma6hk1xdudsqquxcsp2dwjswcfv9qu2fjrkmledztasf4/amn",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa05970f956610cd51aabdfc8541ff31bbf4c1bc5ef0eaf553e245e6309202726@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

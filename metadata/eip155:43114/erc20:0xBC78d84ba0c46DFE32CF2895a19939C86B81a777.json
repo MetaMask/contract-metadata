@@ -1,0 +1,8 @@
+{
+  "name": "SolvBTC",
+  "symbol": "SolvBTC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xBC78d84ba0c46DFE32CF2895a19939C86B81a777.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3f0441c1a149be947468eae28cdbed1a249e9c3b474194f2ef623937fb730198@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

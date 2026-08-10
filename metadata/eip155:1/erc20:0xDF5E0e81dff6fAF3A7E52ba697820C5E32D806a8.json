@@ -1,0 +1,8 @@
+{
+  "name": "yCurve",
+  "symbol": "yCrv",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xDF5E0e81dff6fAF3A7E52ba697820C5E32D806a8./ipfs/qmz9adqumftrqixxakw48ysyl7rfhnygpy9ehyt63qy2sv/bcd5xoqr6lazwqfzi6vzdpq5njnqhej8evphjw9iu71eqxxv7eahyjwm3kjqtmed8u6a6rvfmchk3zt2dknpdrk4hw",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa2ca27357108478c355eb97f9586500a0425ebca98c8a5cbc43a36aba0a9461f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

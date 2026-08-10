@@ -1,0 +1,8 @@
+{
+  "name": "MoneyToken",
+  "symbol": "IMT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x13119e34e140097A507b07a5564BDE1BC375d9e6./ipfs/qmv7wb4jhyenx5soddnbw95hnv6jh36domwvylhnrtdcbe/bcd8g1yhuhabjv3ruzefatbe1sikddvgmogtqttka5dgc44xvj4q4jekd3ria3ak32xbiunttf5aebcmm3pcpi9ofm",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4ef379d67bb976e2d0d8136ffc5ae5bb6e8b05620809397f9ccd4512149859c7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

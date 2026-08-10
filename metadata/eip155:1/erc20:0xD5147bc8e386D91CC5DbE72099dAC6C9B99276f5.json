@@ -1,0 +1,8 @@
+{
+  "name": "renFIL",
+  "symbol": "renFIL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD5147bc8e386D91CC5DbE72099dAC6C9B99276f5./ipfs/qmtidtwkwmuxmhyu7wihvg6sxwfabtfwct6qo9nxdtny5x/renfil",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x731535d01baa5864df60ac933d37cf1a78c1b8c7dd8d8542305a683306558add@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Kanaloa Network",
+  "symbol": "KANA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x33494c24d904B87B94a1cc9870d966780D56093c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x132af8951606609edf416ada8efeb50ada81bad954a2c682acf2122e9d9a1ccf@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

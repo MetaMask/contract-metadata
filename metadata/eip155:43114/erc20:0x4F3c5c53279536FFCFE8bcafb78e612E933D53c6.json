@@ -1,0 +1,8 @@
+{
+  "name": "Phoenic",
+  "symbol": "PNIC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x4F3c5c53279536FFCFE8bcafb78e612E933D53c6.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xccc0cda87f27c60a58d8119c2f36f14609aa60160e49e8a8e21e0679ed8090d8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

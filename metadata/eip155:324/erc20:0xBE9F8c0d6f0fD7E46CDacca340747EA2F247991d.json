@@ -1,0 +1,8 @@
+{
+  "name": "Impermax",
+  "symbol": "IBEX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xBE9F8c0d6f0fD7E46CDacca340747EA2F247991d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbd978eb1c3caf88e1cbeb2933caec0ad22d3a98f61b19735952546123ff0f179@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

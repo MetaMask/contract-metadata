@@ -1,0 +1,8 @@
+{
+  "name": "CoinShop",
+  "symbol": "SHOP",
+  "decimals": 10,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xACE837f596029039E7EDd4789f9978259E1c3035./ipfs/qmtqge4vjxrqyyat3jutkdyylnh4jkrnvx22ojqgjrwdeo/shop",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4084a7aaa28bd683879e2da4a8e680e2a9400dba92188bb595a9acd443087b51@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

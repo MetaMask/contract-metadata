@@ -1,0 +1,8 @@
+{
+  "name": "Thunder",
+  "symbol": "THUN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x43a89815f33747EDBECc588d6bB7e1C10DDa5599./ipfs/qmvcp79q1cfzpjczzvedgm3nqejfkgzj9gaz8gf3vwhvvv/thun",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3d1ea63970025a3ce72cffb2c7d9d9dd7d26bcd7887583abfb6d62c0fff7cf0c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

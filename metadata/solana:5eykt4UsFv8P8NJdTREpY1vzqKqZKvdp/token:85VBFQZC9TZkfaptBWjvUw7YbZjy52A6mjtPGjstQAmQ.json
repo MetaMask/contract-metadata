@@ -1,0 +1,8 @@
+{
+  "name": "Wormhole",
+  "symbol": "W",
+  "decimals": 6,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:85VBFQZC9TZkfaptBWjvUw7YbZjy52A6mjtPGjstQAmQ.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x00883505f00be7faf3d35b4d52422b8e9d3fa1c3bb75e54d13137b9d183b8d65@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "IPOR",
+  "symbol": "IPOR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0x34229b3f16fBCDFA8D8D9d17c0852f9496F4c7bb.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1935f0932f1c32f587394a4880c362fbf480e1eea267e88e30e71dbcf64488ce@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

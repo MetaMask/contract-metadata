@@ -1,0 +1,8 @@
+{
+  "name": "TE-FOOD",
+  "symbol": "TFD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xE5F166c0d8872B68790061317bB6CCA04582c912./ipfs/qmuf8cdnnxttrxjj1ebzgsisurjmbo4nlkbff3y5hno8fm/bcdx2ankhkydmnvh1uvqzs2uknmcdc5xo2h36rke2jravqpghqppgr4dxvbdhwuwwldpr51hp1khnwv8njq1z85gsp",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb1f0b86af7ae354f449f4437ab647d1278c2a402d6da361f96b282f7edb47c70@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

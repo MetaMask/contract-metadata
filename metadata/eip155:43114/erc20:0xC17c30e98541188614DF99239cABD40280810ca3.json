@@ -1,0 +1,8 @@
+{
+  "name": "EverRise",
+  "symbol": "RISE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xC17c30e98541188614DF99239cABD40280810ca3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9c0295f4ef6fd7674731e26a5479427e7d20b80b1d1e9bd7f09fc04c1b3da3c0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

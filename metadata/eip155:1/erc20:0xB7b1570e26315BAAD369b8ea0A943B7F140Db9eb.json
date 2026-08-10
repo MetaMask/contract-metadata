@@ -1,0 +1,8 @@
+{
+  "name": "DEEPSPACE",
+  "symbol": "DPS",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB7b1570e26315BAAD369b8ea0A943B7F140Db9eb.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf7a7fbca49073dd47f21160e24146da643d72df0a2af7cb81d52aa38a071d7a2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

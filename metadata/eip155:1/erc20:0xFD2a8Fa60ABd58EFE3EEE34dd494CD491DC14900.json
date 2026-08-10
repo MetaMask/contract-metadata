@@ -1,0 +1,8 @@
+{
+  "name": "a3Curve",
+  "symbol": "a3Crv",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xFD2a8Fa60ABd58EFE3EEE34dd494CD491DC14900./ipfs/qmsptpmvfkvaxscwcxscqfx2tjusrpejyjrtgsjg4hrz4a/a3crv",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbbafda78dd3a96e606599e353e4fdadf2ab5ebf441b4eafd77ff2d383da59cf4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

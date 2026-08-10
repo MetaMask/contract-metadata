@@ -1,0 +1,8 @@
+{
+  "name": "Tornado Cash",
+  "symbol": "TORN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x77777FeddddffC19FF86db637967013E6C6a116c./ipfs/qmbbfd3aribu73swubrwkfuduztzzgtag4j5nbt5xtkcco/torn",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x18c8fadad011b3d79cc43cc6952df034f221e09bd0a3ee8aca2047b7581ff3a4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

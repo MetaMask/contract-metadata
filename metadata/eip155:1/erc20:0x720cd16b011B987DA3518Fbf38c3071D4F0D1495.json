@@ -1,0 +1,8 @@
+{
+  "name": "Flux",
+  "symbol": "FLUX",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x720cd16b011B987DA3518Fbf38c3071D4F0D1495.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x766deb34b31c0ec7d1aec23f494c3e282aaabb9aa74e8d0fd167d387612fc347@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

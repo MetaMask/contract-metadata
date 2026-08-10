@@ -1,0 +1,8 @@
+{
+  "name": "Crucible Ferrum",
+  "symbol": "cFRM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0xE685d3cc0be48BD59082Ede30c3B64CBFC0326e2.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x16c5ea44c93cca0d444198a44932758d40a31c8a26b4cb06880329c37699b9bf@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

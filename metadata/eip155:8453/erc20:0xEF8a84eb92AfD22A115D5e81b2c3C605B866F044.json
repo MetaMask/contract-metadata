@@ -1,0 +1,8 @@
+{
+  "name": "Bebe",
+  "symbol": "BEBE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xEF8a84eb92AfD22A115D5e81b2c3C605B866F044.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf62dca2eed66387ffe4ac6f1d20962f43ba3c41ba5ddbe52c53e0a756bd95619@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

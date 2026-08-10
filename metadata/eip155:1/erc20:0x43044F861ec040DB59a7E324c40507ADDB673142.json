@@ -1,0 +1,8 @@
+{
+  "name": "Cap",
+  "symbol": "CAP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x43044F861ec040DB59a7E324c40507ADDB673142./ipfs/qmqvnaqmrekggdjxtp3q2wv9fhykrgccvlvngxvmjf2mdr/cap",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5f3fc469aa66db2750eeb7061e6c1eaf1648dcc985b16fd65caf71d1aa693c15@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

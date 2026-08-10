@@ -1,0 +1,8 @@
+{
+  "name": "Hive AI",
+  "symbol": "BUZZ",
+  "decimals": 6,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:9DHe3pycTuymFk4H4bbPoAJ4hQrr2kaLDF6J6aAKpump.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xcf2a2429e93f7def79d0e2d2490e389e36c81d4ecfc71ea2ef1230acfad163f0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

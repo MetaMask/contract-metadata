@@ -1,0 +1,8 @@
+{
+  "name": "Z.com USD",
+  "symbol": "ZUSD",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xE93b73c3c96d9870D621F4ffee6d66CD57326df8.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xccef45c2e991bdd42412018ffbeebfcf1c5ae1a1080c3f8cf84ec76d4cb45970@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

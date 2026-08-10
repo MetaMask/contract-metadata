@@ -1,0 +1,8 @@
+{
+  "name": "Level Up",
+  "symbol": "LVLUP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xFF1D3d9ddff8fA05C064349f118BB3D95Ba65c85./ipfs/qmq8fkdbcejjjeiyldihbr7snwx5ktjhfwjtthd1q9wtoo/lvlup",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x81506d7bc73fa0a7d30a201070c4655213ed460de16cd6152d83b5610db5dd79@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Zenith by Virtuals",
+  "symbol": "ZENITH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x33C527361AB68B46A6669F82d25B704423CaE568.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4ec170488beae832206869438651cb5f69c5c94103ba44d7765162f90d33112b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

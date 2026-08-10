@@ -1,0 +1,8 @@
+{
+  "name": "Revenue Generating USD",
+  "symbol": "rgUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x8E5E9df4f0eA39AE5270E79bbABfCC34203a3470.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1a57e54183b5f0ad14a9c6994c1efbfdb1490c74a8558722acb7fe04927973e6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

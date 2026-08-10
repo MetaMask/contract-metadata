@@ -1,0 +1,8 @@
+{
+  "name": "Sport Bettor AI by Virtuals",
+  "symbol": "ZEBRO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x792D0447bf8B33158Ca6E02d49755f2EAB65061b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0ad548baf56b53e0be7683374c39a150e649994b0132cc768d9b7d3eb2a1b632@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

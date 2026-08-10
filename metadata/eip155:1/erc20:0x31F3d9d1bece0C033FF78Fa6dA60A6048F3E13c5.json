@@ -1,0 +1,8 @@
+{
+  "name": "EBCoin",
+  "symbol": "EBC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x31F3d9d1bece0C033FF78Fa6dA60A6048F3E13c5./ipfs/qmr6lzkzxumbrgd9fx3t9u8neeju4otp5pupx54hzjjgw7/bcd1hg6tgq5bky8qecybep1xipb9ecldqyd7d15g44wwvy6r8grk6h41esptz5kbrfefrxknkwdpckbkdntztblzid",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1933ae86c832c628878199f95ef309fc68aa2d0b76d980a32d5b6014fe9c4b31@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

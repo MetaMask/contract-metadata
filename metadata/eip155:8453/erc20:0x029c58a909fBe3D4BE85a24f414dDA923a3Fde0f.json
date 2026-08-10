@@ -1,0 +1,8 @@
+{
+  "name": "DeFi-IRA",
+  "symbol": "IRA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x029c58a909fBe3D4BE85a24f414dDA923a3Fde0f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x01afef00d185ad4568a96914bface57d364ff587897e5c23e2c7c98137dc2964@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

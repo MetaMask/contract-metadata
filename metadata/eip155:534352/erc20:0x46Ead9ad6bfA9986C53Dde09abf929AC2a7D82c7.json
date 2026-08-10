@@ -1,0 +1,8 @@
+{
+  "name": "ISSUAA Protocol",
+  "symbol": "ISS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:534352/erc20:0x46Ead9ad6bfA9986C53Dde09abf929AC2a7D82c7.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdbfd330b3926b7bb3e723e8664a3dee77544e51ee25e2ce6861eedd1052a79c1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

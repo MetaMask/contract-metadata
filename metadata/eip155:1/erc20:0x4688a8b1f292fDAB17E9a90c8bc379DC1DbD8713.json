@@ -1,0 +1,8 @@
+{
+  "name": "Cover Protocol",
+  "symbol": "COVER",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x4688a8b1f292fDAB17E9a90c8bc379DC1DbD8713./ipfs/qmwdqdq55evneiynpachf6awuqzvdq2pankubvz6hxkfdv/cover",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x398da747b15e4e4e38c2a6f372ce6828f98f2e72a2ecc169cee8efac1224abe2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

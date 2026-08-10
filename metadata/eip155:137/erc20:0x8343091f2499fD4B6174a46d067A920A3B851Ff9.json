@@ -1,0 +1,8 @@
+{
+  "name": "Jarvis Synthetic Japanese Yen",
+  "symbol": "jJPY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0x8343091f2499fD4B6174a46d067A920A3B851Ff9.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x88c8e9d3dc97d4f353e8798d355f884c0a1c13daa2b816853070f805425d55ec@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

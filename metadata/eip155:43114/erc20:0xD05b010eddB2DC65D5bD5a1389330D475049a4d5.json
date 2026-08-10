@@ -1,0 +1,8 @@
+{
+  "name": "Deepwaters",
+  "symbol": "WTR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xD05b010eddB2DC65D5bD5a1389330D475049a4d5.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x74fc62f28f9fe8f6ab72c7a9095c645c2cfb310a6ca9cfe0cb02054111a4f127@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

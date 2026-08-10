@@ -1,0 +1,8 @@
+{
+  "name": "EthereumMax",
+  "symbol": "EMAX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x15874d65e649880C2614E7a480cB7C9A55787Ff6./ipfs/qmzgqrc8kasa6trfoyyewxkpprbduaznunk1u9ymtfudej/emax",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1ad8e0627b4bce2928dd71006793fb0a58715b6402e174f160c7115b097a2088@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

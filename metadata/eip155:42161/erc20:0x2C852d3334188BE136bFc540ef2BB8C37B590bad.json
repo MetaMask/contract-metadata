@@ -1,0 +1,8 @@
+{
+  "name": "MagicLand",
+  "symbol": "MAGIC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0x2C852d3334188BE136bFc540ef2BB8C37B590bad.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x897d270a6dc1473f2df02a8380d02689d3dc61e7560654258c3347ea86904204@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

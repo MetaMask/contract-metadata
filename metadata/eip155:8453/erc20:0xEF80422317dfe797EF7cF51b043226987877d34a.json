@@ -1,0 +1,8 @@
+{
+  "name": "BicOnBase",
+  "symbol": "BIC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xEF80422317dfe797EF7cF51b043226987877d34a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x66fb4692202880e6671c2451248d1da3e744a6fb7363adb35b462192e3717d43@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

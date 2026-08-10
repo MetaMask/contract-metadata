@@ -1,0 +1,8 @@
+{
+  "name": "Sophia AI",
+  "symbol": "SPH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x95308ec85A48376F253F36720355A54808C7857b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfcc9ff6424f86bb7ca9f29b89ac96ecc8a055bcc4d6170217fe02b7fba16eb86@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "StoryFire",
+  "symbol": "BLAZE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xEF7a4dd703d074974B7240c74b5Ce938Aa8983d3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf8cac6a790575baa7fb8ad18d68ab69a26493aebcb8ebcbdf65af922def1c218@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

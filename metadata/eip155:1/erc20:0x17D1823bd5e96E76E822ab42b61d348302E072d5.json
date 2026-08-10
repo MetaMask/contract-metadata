@@ -1,0 +1,8 @@
+{
+  "name": "ROSA",
+  "symbol": "ROSA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x17D1823bd5e96E76E822ab42b61d348302E072d5./ipfs/qmweghyyuoydt93cz9sgyacm5pfkvxhxaoczmlzzj9fu7v/rosa",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4517dfabbbc7aed87dfa588959e7d8fcb28fc7756d0c8d72a638c51f076a9677@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

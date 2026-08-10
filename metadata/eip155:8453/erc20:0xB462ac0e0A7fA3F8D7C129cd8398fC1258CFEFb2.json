@@ -1,0 +1,8 @@
+{
+  "name": "DREAM by Virtuals",
+  "symbol": "DREAM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xB462ac0e0A7fA3F8D7C129cd8398fC1258CFEFb2.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x17c8393a4b83680500d5cc0e4fbc8e11a67e30e6738b96bfa8af8871e7a0d339@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

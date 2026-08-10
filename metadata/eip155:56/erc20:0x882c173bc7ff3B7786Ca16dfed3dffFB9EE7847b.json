@@ -1,0 +1,8 @@
+{
+  "name": "Venus BTC",
+  "symbol": "vBTC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x882c173bc7ff3B7786Ca16dfed3dffFB9EE7847b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd76769aa45302eaa6925ee7d6030d9793295e2eb1a30b954e84bd2ae1941a960@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

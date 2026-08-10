@@ -1,0 +1,8 @@
+{
+  "name": "SX",
+  "symbol": "SX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xBE9F61555f50DD6167F2772e9cf7519790D96624.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x72a492875e4266c0c11c1b78e317b122a25d8db3db1390f946b5d888d171354b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

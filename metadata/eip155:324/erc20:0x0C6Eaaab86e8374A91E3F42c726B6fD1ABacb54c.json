@@ -1,0 +1,8 @@
+{
+  "name": "ZinoPet",
+  "symbol": "ZPET",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x0C6Eaaab86e8374A91E3F42c726B6fD1ABacb54c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x377ba3a918cb6db939dab96b6cb7911f544b0bd174fb3449225b35110f6db9f9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

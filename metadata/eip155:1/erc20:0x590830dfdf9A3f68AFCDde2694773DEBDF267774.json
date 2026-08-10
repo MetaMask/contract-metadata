@@ -1,0 +1,8 @@
+{
+  "name": "GIZA",
+  "symbol": "GIZA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x590830dfdf9A3f68AFCDde2694773DEBDF267774.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x82e832c07b4971991cf3d5fb395baa57920655bc3d25b3805a71d2e17db48800@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "XMAX",
+  "symbol": "XMX",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0F8c45b896784A1E408526b9300519EF8660209c./ipfs/qmq9ipany2cm7q4ow4m7sxf191gqsy8hdrjbebvn1pgfzv/bccwodzmxgsawhdr8mbohby4a5nsgpasieannmzsmxertfg7hrl2az51z9jwd3lvbxjrzcdkc6nztrerngasmq2a9t",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x29f7634e41af96af1be73830e8a087832ddc92df76414634e13368cee9ec3827@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

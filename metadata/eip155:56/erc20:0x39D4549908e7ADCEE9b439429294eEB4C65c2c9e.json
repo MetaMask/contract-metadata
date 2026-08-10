@@ -1,0 +1,8 @@
+{
+  "name": "Hord",
+  "symbol": "HORD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x39D4549908e7ADCEE9b439429294eEB4C65c2c9e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7aabf4379fd180f6b8c1d32b796c3e5dee1458ddab2b238b768e5f7bfbd62811@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

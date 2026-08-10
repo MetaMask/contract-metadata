@@ -1,0 +1,8 @@
+{
+  "name": "Base Dog",
+  "symbol": "DOG",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x3B916b8f6A710E9240FF08c1dd646DD8E8ED9e1e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7d3a2b04c604d7b2031b2f3cdfadd3d660ded8867567948933080ce775ac99dc@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

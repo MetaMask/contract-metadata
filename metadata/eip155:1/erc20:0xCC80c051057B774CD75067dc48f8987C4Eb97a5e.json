@@ -1,0 +1,8 @@
+{
+  "name": "Nectar",
+  "symbol": "NEC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xCC80c051057B774CD75067dc48f8987C4Eb97a5e./ipfs/qmfubvapd6xhkftjfpgd678n5dhy2m8jpcdcatm2zyhupm/bccy1ka5wqpkz9wg8wj4a7tjxktyxiggjb7padatlyfctvpzqdob4ie6ajndgupsscfcgq8czv42cjbhh84kescxyx",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0a847ad6d53f04a552ce5904767c9b62543e491549b39b14055656ed9bcfbd97@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Jarvis Reward Token",
+  "symbol": "JRT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:100/erc20:0xCCF1279c3406AD1181bEE00dab4B28B23D17ddb1.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1ad90b6533a2c9e819b6cf27e099d9fb8346824333020068311f9408da5024f3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

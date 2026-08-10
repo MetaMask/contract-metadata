@@ -1,0 +1,8 @@
+{
+  "name": "Vite",
+  "symbol": "VITE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xADD5E881984783DD432F80381fB52f45B53F3e70.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfbafb601f3a03645759c5b951bdb47eca266fa8c9fee7131a2784e30d98f756e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

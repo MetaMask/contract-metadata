@@ -1,0 +1,8 @@
+{
+  "name": "OriginTrail",
+  "symbol": "TRAC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xAa7a9ca87d3694B5755F213b5d04094B8D0F0a6f./ipfs/qmxpridpvwwlczqkxkrfwz8ntkj9yqnrobmngj963ahnwo/bccyc5g8571zmrv75hiykq6sx12brpzujgfbtghvg4ywedydnpm2tyde5nujm61cfrrmeqhhmmr37ummrjvfxfx67v",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8a934c053c47344576b9a7ed8223ad6f7bdc9778ed84f51b0e519ceff5c18e1c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

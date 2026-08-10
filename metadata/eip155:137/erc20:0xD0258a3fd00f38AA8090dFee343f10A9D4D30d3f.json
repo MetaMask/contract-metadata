@@ -1,0 +1,8 @@
+{
+  "name": "Voxies",
+  "symbol": "VOXEL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0xD0258a3fd00f38AA8090dFee343f10A9D4D30d3f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfdc3feaab501c21cb9c97cd6879eb65b62cf66ef5234d154b9321920a3a7698f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

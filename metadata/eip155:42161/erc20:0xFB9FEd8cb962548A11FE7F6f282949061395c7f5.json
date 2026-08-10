@@ -1,0 +1,8 @@
+{
+  "name": "Nuon",
+  "symbol": "NUON",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0xFB9FEd8cb962548A11FE7F6f282949061395c7f5.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x01341d2fc3001f83d34e02418b2142d1939198e77f684ebe51ae0be33e01d82d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

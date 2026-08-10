@@ -1,0 +1,8 @@
+{
+  "name": "Viberate",
+  "symbol": "VIB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x2C974b2d0bA1716E644c1Fc59982A89DDD2FF724./ipfs/qmbivogxpfuto3kazg2dvp23dsx91ueskmq5k4sshj92iy/bcd3dyrha4yjkjwds4vtw5sft6yrganyr5fjcmjbka4jxairubsjsytrt9c7eu73ja6gewcjdtdfw86pn5dfkzv1zw",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc927831afc33af65363d021f2d86e0d8c996611d584ff8b010e3780e00737486@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

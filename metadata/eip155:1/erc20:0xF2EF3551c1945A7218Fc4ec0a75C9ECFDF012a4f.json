@@ -1,0 +1,8 @@
+{
+  "name": "Cage",
+  "symbol": "C4G3",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF2EF3551c1945A7218Fc4ec0a75C9ECFDF012a4f./ipfs/qmdf1zzrdbdbk5xb2p92qhahspsmwcbfxfijvfjsgenek2/c4g3",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe2723d6cad97cc4c52c7e881f8b953bbedc4db6e7f0af9b3b69a3e62263c16e3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

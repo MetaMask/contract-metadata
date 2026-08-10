@@ -1,0 +1,8 @@
+{
+  "name": "SHRAP",
+  "symbol": "SHRAP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xD402298a793948698B9a63311404fBBEE944Eafd.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbeab982c679eaeab39fdcb2863c0f10cf4c5415c39257792347dce2009066002@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

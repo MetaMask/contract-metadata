@@ -1,0 +1,8 @@
+{
+  "name": "ZION",
+  "symbol": "ZION",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3Da434f76226B9489ED4277eb6fdCCDF03FF190e./ipfs/qmqptb4huvqkw894v7aazjruhvncfcyp7xxd6jees88t3p/zion",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc3f72c4c7df32d50023ac24f3b0bcb38e5cb2f56cfee5c1eba01b56d2b6034ea@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

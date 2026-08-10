@@ -1,0 +1,8 @@
+{
+  "name": "LALA World",
+  "symbol": "LALA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xFD107b473AB90E8FBD89872144A3DC92C40Fa8c9./ipfs/qmqlknua4gzziuvqq8j7ywbscf2fft2eyjzzuoffqscw8c/bce1ggky1zefdctz3r5lvrs6z7371pvc79fspq6hvyz6upvjh1lb1twfavorce96t4g6sgqecda9fjw1mzh95srbgc",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa5585ec96ac7ce7608de853c61b65ce402262ca503cedf641d672eedcc3891f9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Eye Future by Virtuals",
+  "symbol": "EYE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x5537a24ad7e8D68AEC165dcff6d2f8C23605417f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe187ce8f0b34787aaafe517855dc00bae58831b49f0b346dfa7b56ad98b25181@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

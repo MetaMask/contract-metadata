@@ -1,0 +1,8 @@
+{
+  "name": "Zero Exchange",
+  "symbol": "ZERO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF0939011a9BB95C3B791F0cb546377ED2693a574./ipfs/qmsaujtqwoivkaq1z8clwfz2gn3e9ogz7ah8abf1y8c3gd/zero",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7cb7cf5bb383a442b20db67f6e3cc9578574614525f2cec1b7be661bb6b5b0f0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

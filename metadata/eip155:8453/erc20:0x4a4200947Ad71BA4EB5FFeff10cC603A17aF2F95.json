@@ -1,0 +1,8 @@
+{
+  "name": "Bell Curve Money",
+  "symbol": "BELL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x4a4200947Ad71BA4EB5FFeff10cC603A17aF2F95.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdfb2c24673a24bf1cef5e644bc808ec88718de70cbe72a550197146b7408bbbb@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

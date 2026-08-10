@@ -1,0 +1,8 @@
+{
+  "name": "Hifi Finance",
+  "symbol": "MFT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xDF2c7238198AD8B389666574f2d8BC411a4b7428./ipfs/qmuxm1qdfmqgh3bizhhwfjbnw7emz4qz2zuditebv1huds/mft",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xac3a07417a8572f6711dd1f752e169f480572c3df2c87152ca9a8021c8dc0f87@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

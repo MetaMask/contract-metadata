@@ -1,0 +1,8 @@
+{
+  "name": "COVA",
+  "symbol": "COVA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB37a769b37224449D92aac57de379E1267CD3b00./ipfs/qmnnbs6cgrrvvawvon3y7ihkzes4bwcyfkgbqovqygottb/bce1h6zvqmuzfjjfunuomcrefqz8mhefanfr8zza15x4r6asz2iam4deqvmrtzrscacbrdbrvbh7xh89f1dbwlobqu",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6ae492a7b24052a409cfa10910af708cff58e640f5fb495609859f1d0d4a006e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

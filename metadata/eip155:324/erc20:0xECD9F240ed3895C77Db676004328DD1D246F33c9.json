@@ -1,0 +1,8 @@
+{
+  "name": "ERA",
+  "symbol": "ERA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xECD9F240ed3895C77Db676004328DD1D246F33c9.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf45f04320c6146a654e4b58229a24859c901c967e6ca585ecda2df8ae2fe7abb@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

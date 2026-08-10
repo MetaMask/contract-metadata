@@ -1,0 +1,8 @@
+{
+  "name": "Venus UNI",
+  "symbol": "vUNI",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x27FF564707786720C71a2e5c1490A63266683612.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0b20a562fca8d56365c057fdbf063eb16b344bd2ccfa9c2350a2e812737fc6af@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

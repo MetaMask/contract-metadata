@@ -1,0 +1,8 @@
+{
+  "name": "Camelot",
+  "symbol": "GRAIL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0x3D9907f9a368AD0A51bE60f7dA3B97CF940982d8.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3cd1593eacbefd7508e9501b8bd541c7b9dde08aafff0e84323f59d702f5cfb9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

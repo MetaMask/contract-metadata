@@ -1,0 +1,8 @@
+{
+  "name": "Snap",
+  "symbol": "SNAP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xBa1E2321e340740F9C3685dc09de5E0326bc1799.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9780d2d28d8c51f6bc14fee44af1156892d25687e95ccc1bf35c14b91b08c42a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

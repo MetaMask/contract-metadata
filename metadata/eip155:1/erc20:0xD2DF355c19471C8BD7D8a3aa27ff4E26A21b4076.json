@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Aave",
+  "symbol": "sAAVE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD2DF355c19471C8BD7D8a3aa27ff4E26A21b4076./ipfs/qmxtysfbbghafckiqnrn7vffuqozhmxg9juimgrtrre6eu/saave",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x14a68a0e96055b16c17d83dee18accbab941315a7fb33007d554df3258708356@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

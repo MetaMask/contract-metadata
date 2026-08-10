@@ -1,0 +1,8 @@
+{
+  "name": "AntGold",
+  "symbol": "ANTG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xCa1068444196CDFE676Fd15a29f35E502580a69e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8bdb54018d9d8b0bc1df3c406dec23052092adb614cac9d9a1fd44754a9c72e4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

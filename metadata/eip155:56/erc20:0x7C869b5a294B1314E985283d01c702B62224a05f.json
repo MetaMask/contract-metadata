@@ -1,0 +1,8 @@
+{
+  "name": "Jarvis Synthetic Swiss Franc",
+  "symbol": "jCHF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x7C869b5a294B1314E985283d01c702B62224a05f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x63f8bbf086390b026433492d05becbcc91ba73b33bd295234896b02e99bef064@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

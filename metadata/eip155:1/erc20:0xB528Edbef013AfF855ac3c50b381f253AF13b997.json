@@ -1,0 +1,8 @@
+{
+  "name": "Aevo",
+  "symbol": "AEVO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB528Edbef013AfF855ac3c50b381f253AF13b997.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0924b4a8cc5c16e6ff64a52559dd5fa906773a03174eaed6266048d08649abac@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

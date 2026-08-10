@@ -1,0 +1,8 @@
+{
+  "name": "KZ",
+  "symbol": "KZ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x5FD37F12029511F17C1898477f7fB685CF6c0c0f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd9a911ca989d9a19358a26dddbd392c847736ebd9a44d02cbb4419bfec807020@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

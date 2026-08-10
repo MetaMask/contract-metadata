@@ -1,0 +1,8 @@
+{
+  "name": "Bonsai",
+  "symbol": "BONSAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xB0588F9a9cAde7CD5F194a5fe77ACD6A58250F82.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4e0dd00caa5630d9f97a91ceee043c09eb715930603bc3e614766a776b7e5764@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

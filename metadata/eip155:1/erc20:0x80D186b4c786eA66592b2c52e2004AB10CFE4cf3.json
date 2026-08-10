@@ -1,0 +1,8 @@
+{
+  "name": "Lynx Tech",
+  "symbol": "LYNX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x80D186b4c786eA66592b2c52e2004AB10CFE4cf3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5504da17cf425e0232d184ca87531e78efa2520585f2a187a01ac3e5336d6f84@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

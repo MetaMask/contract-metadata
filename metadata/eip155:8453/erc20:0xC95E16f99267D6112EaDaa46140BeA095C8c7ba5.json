@@ -1,0 +1,8 @@
+{
+  "name": "Exmplr.ai by Virtuals ",
+  "symbol": "EXMPLR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xC95E16f99267D6112EaDaa46140BeA095C8c7ba5.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0f4c5dbbce6894761c06696c2b7315e95a077b2ff14ad40c58d534d72529c004@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

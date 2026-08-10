@@ -1,0 +1,8 @@
+{
+  "name": "xKAWA",
+  "symbol": "xKAWA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xDC386452f9ffDA7F0D2940e5c60dC0F9469b1097./ipfs/qmrowxokw11gkvuanl3wtct8hwtt37hfkpmdqnthfxsezs/xkawa",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf3d8056abe9a1e264a14e32e5810267eff24078c2ce4a9a9ccbf9994fe0b0dad@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

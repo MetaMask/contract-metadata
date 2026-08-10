@@ -1,0 +1,8 @@
+{
+  "name": "Shutter",
+  "symbol": "SHU",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:100/erc20:0x8CCD277cc638e7E17F8100ce583CBCEF42007dca.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x36f39540540365e07d7474c989eea23b766513b7c721be3ca9d032cc6867b868@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

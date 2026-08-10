@@ -1,0 +1,8 @@
+{
+  "name": "Do Your Own Research",
+  "symbol": "DYOR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xA001dcc9a7974DAE133a11d2800A7ABF7B8F5F3c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xcfdadc7e1c6a3514a40d3604d16fbc333d763c034c49446a4de96aab1441c71b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

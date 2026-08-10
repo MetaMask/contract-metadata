@@ -1,0 +1,8 @@
+{
+  "name": "Avalox",
+  "symbol": "AVALOX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x1209810df5370f68B28E6832dc4AC80072E2d0b8.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb1818228f4b456c5fd164bb278e6a618003c7ddb01c9555428fe37d4ad05e695@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

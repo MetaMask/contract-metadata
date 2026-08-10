@@ -1,0 +1,8 @@
+{
+  "name": "Drip Network",
+  "symbol": "DRIP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x20F663cea80fACE82aCDFa3aae6862D246CE0333.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb69b071d3a6a33c1370a22e324c885d4aec740d581cf07944697cb6aa1292d1d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

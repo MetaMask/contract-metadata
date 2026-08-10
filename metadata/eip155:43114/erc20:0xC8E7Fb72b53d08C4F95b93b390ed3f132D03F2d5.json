@@ -1,0 +1,8 @@
+{
+  "name": "SQRCAT",
+  "symbol": "SQRCAT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xC8E7Fb72b53d08C4F95b93b390ed3f132D03F2d5.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x690fd70707bd9faa5222f130b47f539508312e281fb01a2ba8aa49fe9af8d4f3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

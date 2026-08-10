@@ -1,0 +1,8 @@
+{
+  "name": "Veno Finance",
+  "symbol": "VNO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xE75a17b4f5c4f844688D5670b684515D7C785e63.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9df1577104cfb6bb950514c61315a187b63cccd7a828361c9abddc824711932e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

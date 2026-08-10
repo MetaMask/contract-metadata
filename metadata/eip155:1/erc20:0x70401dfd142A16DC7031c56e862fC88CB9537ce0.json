@@ -1,0 +1,8 @@
+{
+  "name": "Bird.Money",
+  "symbol": "BIRD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x70401dfd142A16DC7031c56e862fC88CB9537ce0./ipfs/qmyaovzx6evu7hvmnrok46gh3vofuv7yx7mfmervfmpakb/bird",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfd1b3f24a527ea0f173a10f44c4983cde5ed26be680175d764fdb98d8c92df0e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

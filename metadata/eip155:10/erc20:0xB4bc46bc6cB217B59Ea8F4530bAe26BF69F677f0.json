@@ -1,0 +1,8 @@
+{
+  "name": "Beethoven X",
+  "symbol": "BEETS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:10/erc20:0xB4bc46bc6cB217B59Ea8F4530bAe26BF69F677f0.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7e7b67c007bb06d7018f478f9c1d2b1cff3a8ab4a5fc239351593a4efa0cd5dc@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

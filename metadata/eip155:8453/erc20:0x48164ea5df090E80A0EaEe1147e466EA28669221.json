@@ -1,0 +1,8 @@
+{
+  "name": "Marvin",
+  "symbol": "MOB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x48164ea5df090E80A0EaEe1147e466EA28669221.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1ca30a302791167989066ae6339306e72e936b1328d9062187bd98d69f333061@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

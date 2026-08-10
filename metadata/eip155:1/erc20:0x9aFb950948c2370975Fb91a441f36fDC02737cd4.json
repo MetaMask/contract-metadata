@@ -1,0 +1,8 @@
+{
+  "name": "Huobi FIL",
+  "symbol": "HFIL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9aFb950948c2370975Fb91a441f36fDC02737cd4./ipfs/qmbnpwutbfrmsgzl1gaa5ctnrsdgxbkebv5gertylwxqtt/hfil",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x983d7fb896dddc0543a027862cee6b71a9f15e3ff9a4f2963e3229d23d200b81@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

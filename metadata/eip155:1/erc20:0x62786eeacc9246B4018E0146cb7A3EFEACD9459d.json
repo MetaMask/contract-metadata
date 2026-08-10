@@ -1,0 +1,8 @@
+{
+  "name": "Less Network",
+  "symbol": "LESS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x62786eeacc9246B4018E0146cb7A3EFEACD9459d./ipfs/qmvdqfhy5t5tiorssqevgdrtgaqr77d4tof8wc9xddegfe/less",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x67e46d816a8ee1fb166c3dfe552422bb249c7bf1c868200b1b51aa6b6c1c6582@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

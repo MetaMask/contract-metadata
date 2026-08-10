@@ -1,0 +1,8 @@
+{
+  "name": "Threshold Network",
+  "symbol": "T",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xCDF7028ceAB81fA0C6971208e83fA7872994bee5.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7468ee40361c5c88183224622dcde40bef82b743b2d747ef447fba2f71de2379@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

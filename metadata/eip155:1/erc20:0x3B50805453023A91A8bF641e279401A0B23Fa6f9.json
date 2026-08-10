@@ -1,0 +1,8 @@
+{
+  "name": "Renzo",
+  "symbol": "REZ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3B50805453023A91A8bF641e279401A0B23Fa6f9.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xed9390f43ee8f5513375b0b1cb7053e2ae12c4090bbaec1da1fdfc7eea3b0b07@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

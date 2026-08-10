@@ -1,0 +1,8 @@
+{
+  "name": "MX",
+  "symbol": "MX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x11EEF04c884e24D9B7b4760e7476D06DDF797F36.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7d3b03d1ca139a7b9c4da699cf4432b4a3c5ec611653d0b8e2fd41468d9756e1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

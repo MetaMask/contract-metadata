@@ -1,0 +1,8 @@
+{
+  "name": "Sonic SVM",
+  "symbol": "SONIC",
+  "decimals": 9,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:SonicxvLud67EceaEzCLRnMTBqzYUUYNr93DBkBdDES.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2c54c7134d15944c35a270ee4e6bd41cfc9259b8d4979abf5354ef83e0247757@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

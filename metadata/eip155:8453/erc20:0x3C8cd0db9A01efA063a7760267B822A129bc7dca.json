@@ -1,0 +1,8 @@
+{
+  "name": "Based Froc",
+  "symbol": "FROC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x3C8cd0db9A01efA063a7760267B822A129bc7dca.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2bf54c80845c680233870120f31294246746bbeb5143e9a863b4a5591ab70209@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

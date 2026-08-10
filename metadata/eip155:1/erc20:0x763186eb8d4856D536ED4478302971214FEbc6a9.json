@@ -1,0 +1,8 @@
+{
+  "name": "BetterBetting",
+  "symbol": "BETR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x763186eb8d4856D536ED4478302971214FEbc6a9./ipfs/qmpqayqpaaowz9xpmnzbfrbhqp92gfmvceaiwvc5jxg3pe/betr",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x177529fc9f8e690d4571c8cdb1bb977969d4a621637f67cfa8460d4e3590ee3a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

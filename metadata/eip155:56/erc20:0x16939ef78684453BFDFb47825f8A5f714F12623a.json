@@ -1,0 +1,8 @@
+{
+  "name": "Tezos",
+  "symbol": "XTZ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x16939ef78684453BFDFb47825f8A5f714F12623a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa2dd0322167e2b52ee778e7a3111aaad90a40d5a1afe400a96b13f2c6f4a66a5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

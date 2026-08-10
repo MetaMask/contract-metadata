@@ -1,0 +1,8 @@
+{
+  "name": "Blunny",
+  "symbol": "BLUNNY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x7546E0d4d947A15F914E33de6616ffED826F45ef.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa0ccf510a974a5de93fb36661913d9cd9437c9014d344f17e14df09e640503b5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

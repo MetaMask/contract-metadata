@@ -1,0 +1,8 @@
+{
+  "name": "Better Money",
+  "symbol": "BETTER",
+  "decimals": 4,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA7925aa2a6e4575AB0C74d169f3BC3E03D4c319a./ipfs/qmqgq8kksq9iaq89csqdp9crangdzjgaijhjjtahmwfu3g/bcdxxrb8ptnsnc58r1mk2dgou6v1xr1e8zse3u2dfkmmt6h6oyydx164ghnm9berpaf3atzciisdw9cgp3pbwfas6g",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x08429cfd40c224d820360621b98daa127fbeecdd454eb5e7b1b276ac561cb824@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

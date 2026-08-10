@@ -1,0 +1,8 @@
+{
+  "name": "DigixDAO",
+  "symbol": "DGD",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xE0b7927c4Af23765CB51314a0e0521A9645F0e2a./ipfs/qmrgoetsgsquj8djzzsjz97ekwqsmq4v75pepek63mapzg/bccy1fw5zyydybwhrcfwrn9uwidyujcrksxp7sdggiwfywr1zsetcyxytuqnkm22m4mmqofrw69xwu7qgf63dmy79z",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd4d6595ae4007e9cdac7b10c16ea50a6e1579c344d56fe969d398d62d0cdf5da@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

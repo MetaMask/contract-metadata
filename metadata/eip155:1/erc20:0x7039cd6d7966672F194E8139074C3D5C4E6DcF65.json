@@ -1,0 +1,8 @@
+{
+  "name": "Super Trump",
+  "symbol": "STRUMP",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x7039cd6d7966672F194E8139074C3D5C4E6DcF65.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x599885d0f3f3baa28912d4dd95147b14971d5974e53b4bdffd3f621f0305f8c5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

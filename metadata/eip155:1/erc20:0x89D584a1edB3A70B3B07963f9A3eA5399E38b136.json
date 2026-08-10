@@ -1,0 +1,8 @@
+{
+  "name": "AIT Protocol",
+  "symbol": "AIT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x89D584a1edB3A70B3B07963f9A3eA5399E38b136.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xafab40b5365d742c304622c05680ac362a96d3c2c08bc3e4b7763cddb8a48ed0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

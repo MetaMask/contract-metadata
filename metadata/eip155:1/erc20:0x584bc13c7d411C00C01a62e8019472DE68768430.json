@@ -1,0 +1,8 @@
+{
+  "name": "Hegic",
+  "symbol": "HEGIC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x584bc13c7d411C00C01a62e8019472DE68768430./ipfs/qmepcrvye5x2mcblqxqr6lvra7nayerrdnetprjkqps2j1/bcd1wykgbuhfaybulx9os7gon2gyxdyccfcsgludjged9ugkpuvgznfjsjrnxgs4juvtftouefzkm5lkfmiixl8gre",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8e3ea688094fb40a115547e37135e9aa68dee311bdeefb90040e1c891f8491d7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

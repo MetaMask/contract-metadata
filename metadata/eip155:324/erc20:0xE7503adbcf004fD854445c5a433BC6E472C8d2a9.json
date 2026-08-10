@@ -1,0 +1,8 @@
+{
+  "name": "UniDex",
+  "symbol": "UNIDX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xE7503adbcf004fD854445c5a433BC6E472C8d2a9.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9bbe8fc28d9f3e97cfdf5083415cafba64f07f879e99e4e7a65bb17188184b08@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

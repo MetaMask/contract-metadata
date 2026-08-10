@@ -1,0 +1,8 @@
+{
+  "name": "Sunflower Land",
+  "symbol": "SFL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0xD1F9c58e33933A993a3891f8acfe05A68E1aFc05.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6e4b6d5fc64329112028994765ccece50c76249ed9d76b48a7195672a9725c0c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

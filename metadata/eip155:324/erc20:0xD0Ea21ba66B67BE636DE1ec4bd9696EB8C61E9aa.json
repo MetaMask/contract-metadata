@@ -1,0 +1,8 @@
+{
+  "name": "Onchain Trade",
+  "symbol": "OT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xD0Ea21ba66B67BE636DE1ec4bd9696EB8C61E9aa.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5eab795139457efa1385d29d4c5dd67bc72f2249ac84ee1f29335e6d9e0e12ec@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

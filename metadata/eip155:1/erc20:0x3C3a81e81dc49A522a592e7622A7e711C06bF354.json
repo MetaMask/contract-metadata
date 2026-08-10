@@ -1,0 +1,8 @@
+{
+  "name": "Mantle",
+  "symbol": "MNT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3C3a81e81dc49A522a592e7622A7e711C06bF354.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x85a87c66ab3d8f7692eb3dba4886134362b38ebaa8d5b8c7829e5648e9f9fc69@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

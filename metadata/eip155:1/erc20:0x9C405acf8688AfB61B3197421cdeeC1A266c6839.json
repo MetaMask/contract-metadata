@@ -1,0 +1,8 @@
+{
+  "name": "DogeYield",
+  "symbol": "DOGY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9C405acf8688AfB61B3197421cdeeC1A266c6839./ipfs/qmdvfrfwazsh8hogzueegehjqfjhwqnmhpctmmznb93s8b/dogy",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xac529cbb3719b8632ea2d3452a43cab9c2e50f12afd53c710236dfa8d884625e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

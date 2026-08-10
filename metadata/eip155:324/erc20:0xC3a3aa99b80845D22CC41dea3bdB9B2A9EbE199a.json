@@ -1,0 +1,8 @@
+{
+  "name": "ZKDX",
+  "symbol": "ZKDX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xC3a3aa99b80845D22CC41dea3bdB9B2A9EbE199a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbf9f3e30da0c8dcfa0e3b0d60bda9fcd608ef04613358a9d92e55b19b9a6545f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

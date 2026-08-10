@@ -1,0 +1,8 @@
+{
+  "name": "GNOBBY",
+  "symbol": "GNOBBY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:100/erc20:0x1a8805194d0ef2F73045a00c70dA399D9E74221c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0039c58e2c65d369f41e4c68d9270f4385ff964b3acbd2d2faec03345c4a17bc@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

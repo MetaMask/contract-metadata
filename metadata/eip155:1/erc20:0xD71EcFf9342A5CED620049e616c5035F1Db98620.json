@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Euros",
+  "symbol": "sEUR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD71EcFf9342A5CED620049e616c5035F1Db98620./ipfs/qmwszwrnkdouym15byzrkus9xeebsvj9l1ymhtpraseay5/seur",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa35b970ff1309e2e02616276b331263f46616c0c39ebdfee2b85f1ef063636b6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

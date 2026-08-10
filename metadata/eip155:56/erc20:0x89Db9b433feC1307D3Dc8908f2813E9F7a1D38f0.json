@@ -1,0 +1,8 @@
+{
+  "name": "Unidef",
+  "symbol": "U",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x89Db9b433feC1307D3Dc8908f2813E9F7a1D38f0.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x43bf9a8c8a3821c20f9f86b5aefaaa9f5f15d31e60a7cbb3d271a6e5c5242925@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

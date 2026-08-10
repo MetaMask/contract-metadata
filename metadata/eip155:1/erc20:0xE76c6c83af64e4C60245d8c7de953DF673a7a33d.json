@@ -1,0 +1,8 @@
+{
+  "name": "RAILGUN",
+  "symbol": "RAIL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xE76c6c83af64e4C60245d8c7de953DF673a7a33d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf67ec0aa6656ed30469d5c51ca6b5f057cbc4f67e413dba4cf29b4929ccaa562@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

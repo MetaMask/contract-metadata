@@ -1,0 +1,8 @@
+{
+  "name": "MAGIC",
+  "symbol": "MAGIC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0x539bde0d7dBd336B79148aa742883198BBF60342.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7842e503547ee20ef4dcd491fbfe226f7e0df47addf200fdb80b994b96332b73@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

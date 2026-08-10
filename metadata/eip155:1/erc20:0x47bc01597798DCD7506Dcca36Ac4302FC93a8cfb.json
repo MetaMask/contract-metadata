@@ -1,0 +1,8 @@
+{
+  "name": "Crowd Machine",
+  "symbol": "CMCT",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x47bc01597798DCD7506Dcca36Ac4302FC93a8cfb./ipfs/qmvtf9ovor9ac5zdbcqvo3yf15bvjjywopjnn7ku65wrdx/bcdxy4yo9awe6cpju4atmxnwcadch6bzdjzxknbkdh9cclyhuwjhqoslc691kuupb2zuez32qyej8muzcwxjeemxbb",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3d47ee068af6ae41ed8cf8faa840715d8bce03dd41da4e5cb102bb77d253ddeb@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Conflux",
+  "symbol": "bCFX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x045c4324039dA91C52C55df5d785385AAB073dcf.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x779ef6d41761931df372d01b6385c96effec08a8c19f627ade049748a51991cd@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

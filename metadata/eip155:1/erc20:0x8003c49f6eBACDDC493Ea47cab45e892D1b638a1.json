@@ -1,0 +1,8 @@
+{
+  "name": "AmpleGold",
+  "symbol": "AMPLG",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x8003c49f6eBACDDC493Ea47cab45e892D1b638a1./ipfs/qmwk8rzd8bikn8utmjx6z8litanole9ykxdol1aeuazoql/bce2eypnqbd42qqmyvgnwunpas3ynvmwfgmjgbla9dr4swndyc9mb7hkquwqerf2bgcyxyn21rdykeaqawc5ucsusx",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6b9a59235f2f2ea11589c038642a3f96e65d0e6eb90340f1b21b9a274415889c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

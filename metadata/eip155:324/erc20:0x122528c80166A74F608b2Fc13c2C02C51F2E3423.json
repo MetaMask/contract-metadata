@@ -1,0 +1,8 @@
+{
+  "name": "Render",
+  "symbol": "RENDER",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x122528c80166A74F608b2Fc13c2C02C51F2E3423.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x83fbcf5f818cccd834259e54d1a6f535e3dc6e992f7540b0f7c8105934801bb5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

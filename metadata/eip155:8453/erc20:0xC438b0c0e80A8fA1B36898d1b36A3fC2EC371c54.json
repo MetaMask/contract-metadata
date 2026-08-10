@@ -1,0 +1,8 @@
+{
+  "name": "Blep Super Meme",
+  "symbol": "BLEP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xC438b0c0e80A8fA1B36898d1b36A3fC2EC371c54.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x78d9c62267098c7bb218104286cbbb36c478ab0164c2fd2b1db4013c25bf2b5f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

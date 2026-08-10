@@ -1,0 +1,8 @@
+{
+  "name": "Overnight",
+  "symbol": "OVN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xA3D1a8deb97B111454b294e2324efAD13a9D8396.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x613be620488e309fbac1d179c4b92745c09c189fff4cf87b4a83d1c3be1593be@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

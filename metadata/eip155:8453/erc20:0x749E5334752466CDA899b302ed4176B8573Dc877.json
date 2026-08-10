@@ -1,0 +1,8 @@
+{
+  "name": "Assimilate",
+  "symbol": "SIM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x749E5334752466CDA899b302ed4176B8573Dc877.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7a745e59ff6d4a781f9af0092a9ef85a632a5fed2126838027cc376bfc9c1eee@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

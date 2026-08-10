@@ -1,0 +1,8 @@
+{
+  "name": "JumpToken",
+  "symbol": "JMPT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42220/erc20:0x1D18d0386f51AB03E7E84e71bdA1681EBa865F1f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9dc89f979646a20a17ca91db490316504d3d986c27783f236b909cae87f9dfb2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "DEXTools",
+  "symbol": "DEXT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xE91a8d2c584CA93C7405F15c22cdfE53C29896e3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf4dcefd1b805ef7175e5cfa97e9c7d1f74fe64f1a74e3e1bdf607463d9cf8621@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

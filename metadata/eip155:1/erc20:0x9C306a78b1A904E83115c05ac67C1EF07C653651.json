@@ -1,0 +1,8 @@
+{
+  "name": "BoringDAO DOGE",
+  "symbol": "ODOGE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9C306a78b1A904E83115c05ac67C1EF07C653651./ipfs/qmpgduqdibc6n9hdpzpfff9npgummdz8duqmznohwnkdw7/odoge",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa0fb5b21d9a4f0398821986058fd0f4c10c960e7644bc3973a97d2381c10225c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

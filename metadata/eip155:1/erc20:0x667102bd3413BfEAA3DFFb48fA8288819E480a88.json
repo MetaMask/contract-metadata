@@ -1,0 +1,8 @@
+{
+  "name": "Tokenize Xchange",
+  "symbol": "TKX",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x667102bd3413BfEAA3DFFb48fA8288819E480a88./ipfs/qmawz5dfb93cn7fd8m1nvoc5ecnh1zfjxdjoixu8mnc4oc/bccz89qqsx2jdkvgf7nukgyapmkzbrlxn2wmt5c6cozpyw2rtszqjjhllkummergwyobscn9abrgxqx61f7nywhklk",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0776e3cce718a3255b1967d9c529fb2afcfc5dc7b8657c175a3b584907781ecf@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

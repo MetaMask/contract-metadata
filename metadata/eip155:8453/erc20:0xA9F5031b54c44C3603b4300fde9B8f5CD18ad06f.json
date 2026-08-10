@@ -1,0 +1,8 @@
+{
+  "name": "SHOOT",
+  "symbol": "SHOOT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xA9F5031b54c44C3603b4300fde9B8f5CD18ad06f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa303c896759e5fe534fc24b047db71ae96ea1139e911de0c8c047b34f3186402@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

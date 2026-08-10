@@ -1,0 +1,8 @@
+{
+  "name": "EnterCoin",
+  "symbol": "ENTRC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD9D01d4cb824219A8F482a0fad479CB971FD0628./ipfs/qmqtju74ufpphqsvcfwzzstojklnq4ht9vbcfbawcois8i/bcdwnmdrd7akt4yzydnxex95pbqjpcg6rzfgvg5aurdhd2ooziwzgyzmnbkm9qx5te2dehrhyozzamfydthbj6kf1i",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc5be8a0127ee645f2bd238b8504a48d99fcaafaaad5b48f35677cf1869e76ad5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

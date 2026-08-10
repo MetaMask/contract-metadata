@@ -1,0 +1,8 @@
+{
+  "name": "Howinu",
+  "symbol": "HOW",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:250/erc20:0x7a3c802e8fB7f6CA7a5cb5c4293978A40D576b5c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x810af1eb6b130e5f6cee447acad4b076976a7d213610f73e8b6118473b121fe5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

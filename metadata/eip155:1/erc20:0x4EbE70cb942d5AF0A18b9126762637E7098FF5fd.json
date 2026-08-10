@@ -1,0 +1,8 @@
+{
+  "name": "G Revolution",
+  "symbol": "G",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x4EbE70cb942d5AF0A18b9126762637E7098FF5fd.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xcf791918fcee012fb1b6cf64d700d1f59e8840b8140176791ade0d938d148a8f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

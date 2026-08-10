@@ -1,0 +1,8 @@
+{
+  "name": "MAGA VP",
+  "symbol": "MVP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x58CD93c4a91C3940109Fa27d700f5013B18b5dc2.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x113d88716101e2b25a8a6a4ec8630bf94085bd05518d6ba568a2c04a7f2fc356@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

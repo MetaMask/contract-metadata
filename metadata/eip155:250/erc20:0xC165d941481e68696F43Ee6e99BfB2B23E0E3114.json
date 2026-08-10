@@ -1,0 +1,8 @@
+{
+  "name": "0xDAO",
+  "symbol": "OXD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:250/erc20:0xC165d941481e68696F43Ee6e99BfB2B23E0E3114.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbc1c3aac033aadb860f83d5c16f3ef8f18acac10c5f3138bacd029d8cefb7a02@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

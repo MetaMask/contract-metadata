@@ -1,0 +1,8 @@
+{
+  "name": "Squirrel Finance",
+  "symbol": "NUTS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x84294Fc9710e1252D407d3d80A84BC39001bd4a8./ipfs/qmp7hjkv39kaauegpun2mwnr2xpepckg9iq1ebousmedcz/bcdybjkrorcpqznfznvxmqbaey6dehnv2amfj2a2vtqme6awrzbsjckwqhgw7q5uwmqejfpa9xj1gkkyn7ktm9jffs",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9b512fb048f2f27269860441e3ca3d5e658ea75aa8d871cee0e374da394f50ec@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Revomon",
+  "symbol": "REVO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x155040625d7Ae3E9CaDa9a73e3e44f76D3ED1409./ipfs/qmvcuensrm568cp98l6md7vanx2zttzcuzxskgrhespeko/revo",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc56bb225c77e4317852fc7c5a7c82f66ec00f5f74d01f9bbd7804bab91e240ea@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

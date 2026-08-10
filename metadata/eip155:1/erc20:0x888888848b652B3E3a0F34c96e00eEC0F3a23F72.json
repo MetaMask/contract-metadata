@@ -1,0 +1,8 @@
+{
+  "name": "Alien Worlds",
+  "symbol": "TLM",
+  "decimals": 4,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x888888848b652B3E3a0F34c96e00eEC0F3a23F72.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4ad5df92cdf2403f6536b7163aec0f3a51643e1bbf7fe268fcec6842ce3fc95f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

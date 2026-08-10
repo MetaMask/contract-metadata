@@ -1,0 +1,8 @@
+{
+  "name": "Boost",
+  "symbol": "BOOST",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x4E0Fca55a6c3A94720DEd91153A27f60E26b9aa8./ipfs/qma43re3sbdgwdd1zc4cgxq8pwmjp1ayvescj7nnacxox1/boost",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x88e2bdb857c9589d61f754150dcc16d42a4eb9cb3f5aff3c1ada2d101785b4ce@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

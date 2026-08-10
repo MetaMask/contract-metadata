@@ -1,0 +1,8 @@
+{
+  "name": "OVCODE",
+  "symbol": "OVC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x49D09cda1deB8A1680F1270c5ed15218FC4b18f0./ipfs/qmzqfnyessgfuvhjr5gc2rbg4uiew8s2jvfjzc4vjx9kzq/bcd75xrvjv2kh1pk73ubmoxhfk8wrvdbwfyv3bavsnpm7hkgm2nerkws3ins4vpj1extcslplcz3nhnmqwhfsfqwxb",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x303e458411513a0b0182a880d7a0b71ffea6acd00f1b87e56ae94fa0027b8025@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

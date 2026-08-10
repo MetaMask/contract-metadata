@@ -1,0 +1,8 @@
+{
+  "name": "Hectic Turkey",
+  "symbol": "HECT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xB38c9d498bAB8DEEFa5FFe8e1d7CA000EF6c3362.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x153ddce6182b544dca3d9b1491ced4a5bc1d0e315deceb70f169637390b78c5d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

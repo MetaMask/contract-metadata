@@ -1,0 +1,8 @@
+{
+  "name": "Poolz Finance",
+  "symbol": "POOLX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xBaEa9aba1454Df334943951d51116AE342Eab255.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9750c363f970ab48d1d11cd55297193dbdb73c30888fe151892927ecb1ec2a9f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

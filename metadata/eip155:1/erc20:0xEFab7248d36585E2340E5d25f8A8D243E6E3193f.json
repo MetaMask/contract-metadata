@@ -1,0 +1,8 @@
+{
+  "name": "Dacxi",
+  "symbol": "DACXI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xEFab7248d36585E2340E5d25f8A8D243E6E3193f./ipfs/qmbejvgrkr481mlb3fo6lrdcojaskgkl3y21t6verx6jqa/dacxi",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa604e6966ccaa7eff979a9b5a560a30361aaf2f8a5e1335e30b918cb3132ff37@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

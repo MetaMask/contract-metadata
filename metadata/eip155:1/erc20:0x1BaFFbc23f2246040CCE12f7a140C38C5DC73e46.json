@@ -1,0 +1,8 @@
+{
+  "name": "Passive Income Bot",
+  "symbol": "PIB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1BaFFbc23f2246040CCE12f7a140C38C5DC73e46./ipfs/qmntt9wqtcpwzbz6tgfzejnhwu4qqaevnerappkxdqjqvf/pib",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x16e8dcdaf14841c429faf12a306613598e0edb8c0e63bdb8bf9e7be1f52830cc@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

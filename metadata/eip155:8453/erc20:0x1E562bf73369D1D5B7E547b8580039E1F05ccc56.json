@@ -1,0 +1,8 @@
+{
+  "name": "JARVIS AIGENT by Virtuals",
+  "symbol": "JARVIS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x1E562bf73369D1D5B7E547b8580039E1F05ccc56.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe3b808278a0c4f2f0371a922f15d7b436ddcd41da67de5a7340090906a53fcff@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

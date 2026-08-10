@@ -1,0 +1,8 @@
+{
+  "name": "DAO Invest",
+  "symbol": "VEST",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1F19F83fc9A25f3C861260143e36C17706257986./ipfs/qmda7uwzgzt1z7wibmmpdnz6xn4td6qlezuccgv8i4ppwm/vest",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7973e5877342bcf65b5d10767580b3007be76f4ad9025ddd102c6d8ecb27e2b6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

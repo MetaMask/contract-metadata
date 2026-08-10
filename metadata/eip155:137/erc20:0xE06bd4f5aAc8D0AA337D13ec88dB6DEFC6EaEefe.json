@@ -1,0 +1,8 @@
+{
+  "name": "Planet IX",
+  "symbol": "IXT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0xE06bd4f5aAc8D0AA337D13ec88dB6DEFC6EaEefe.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8afcd90bf78775a2eaf56461f5a05c3e6a4621b357373b809a46ada158e51da8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

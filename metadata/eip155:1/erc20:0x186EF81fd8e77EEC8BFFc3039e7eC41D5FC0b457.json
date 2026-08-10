@@ -1,0 +1,8 @@
+{
+  "name": "Inspect",
+  "symbol": "INSP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x186EF81fd8e77EEC8BFFc3039e7eC41D5FC0b457.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa8eb56f1cad19c8ed884238bce76e37e564ade34b32f428e19100a42e78f9e34@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

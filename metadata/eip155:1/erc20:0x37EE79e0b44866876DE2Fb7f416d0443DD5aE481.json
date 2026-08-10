@@ -1,0 +1,8 @@
+{
+  "name": "Tatcoin",
+  "symbol": "TAT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x37EE79e0b44866876DE2Fb7f416d0443DD5aE481./ipfs/qmxejp8lst8c4xjmevmb2rn5nmpx9fhazz51o6sa5c6qrb/bccx33vxdmqf6xagkurbjcqkhkcz15rkts3ocxv3cxrirzcetam6hthwcx9aoeetvfuvkmymd8mnr97yqrx3yac2qd",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9240b8fd3a0a0b819b7b79cb4398ff98a691090a32452180f8d5f14125ee3551@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

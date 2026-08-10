@@ -1,0 +1,8 @@
+{
+  "name": "Frens Club",
+  "symbol": "FREN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x45C30Fa6a2c7e031FE86E4f1cb5BeCFDE149b980.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8a9450e8e1fc10c45f4f5b68837a063146e7b8512aabf5ced40d125d8a65a635@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

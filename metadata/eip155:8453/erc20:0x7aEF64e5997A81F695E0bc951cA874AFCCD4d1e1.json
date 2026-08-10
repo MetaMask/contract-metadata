@@ -1,0 +1,8 @@
+{
+  "name": "It's so over",
+  "symbol": "OVER",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x7aEF64e5997A81F695E0bc951cA874AFCCD4d1e1.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc69a94614faff41689409d1926cb47dbb91ed0694cce46e13e96708efe71bbaa@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Kepler",
+  "symbol": "AVIA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xB9a98894ffBfA98C73a818b5b044e5B1C8666F56.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x964cb8a845d19a909e57566e1ae36647f2e331dc0bd0f661f38ab2066b3892e3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

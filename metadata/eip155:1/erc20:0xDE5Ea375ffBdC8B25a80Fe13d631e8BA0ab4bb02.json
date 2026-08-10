@@ -1,0 +1,8 @@
+{
+  "name": "Gera Coin",
+  "symbol": "GERA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xDE5Ea375ffBdC8B25a80Fe13d631e8BA0ab4bb02./ipfs/qmzmbxthrmmjdvhhmewar4ydrkr7weulnsazqdlzktzipc/gera",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf0bd237870b1397a218736a2fdbc9488470ee2b179a84e189b204f644806dbeb@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "DORA AI by Virtuals",
+  "symbol": "DORA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x1E2093ab84768948C6176db5ad98C909CE97F368.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4b2f1c9938dfa48e91b58f8358ec3b717c51c839a84ae635f09aa5361fb4d9b7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

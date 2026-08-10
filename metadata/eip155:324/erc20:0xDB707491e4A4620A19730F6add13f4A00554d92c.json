@@ -1,0 +1,8 @@
+{
+  "name": "Ether.fi",
+  "symbol": "ETHFI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xDB707491e4A4620A19730F6add13f4A00554d92c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa31314dd37c92d0692fc3659842db904b74f8c202407314b9a418b04c6d21f8a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

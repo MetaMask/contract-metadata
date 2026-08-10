@@ -1,0 +1,8 @@
+{
+  "name": "MAD",
+  "symbol": "MAD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xAaDba29443178A5BA5C79492f6e0e13901FDb2a0.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8362edd9b3daa608b96096e976f3ea061a3e62803d4d8b530c649d0a9f2392d8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

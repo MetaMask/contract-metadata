@@ -1,0 +1,8 @@
+{
+  "name": "GnomeLand",
+  "symbol": "GNOME",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x42069d11a2cC72388a2E06210921e839CFbD3280.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0d59a4bbfa730a3efd3d1f52afddccc5591885dca1744851fd305082404d63e8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

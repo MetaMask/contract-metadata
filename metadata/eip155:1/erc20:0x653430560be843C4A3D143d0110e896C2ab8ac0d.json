@@ -1,0 +1,8 @@
+{
+  "name": "Molecular Future",
+  "symbol": "MOF",
+  "decimals": 16,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x653430560be843C4A3D143d0110e896C2ab8ac0d./ipfs/qmbuuxdtrhbxobkthr3f3kqnruthgrpnn4whsbgky4zk2w/bcd4notq1qx1u9anexlax8xvpdqmr28escmqydsoxfxfxmsa94y2v97p8jsrpmvtvrs2i4bmswkgt2rtmsbh1qfqzy",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5b550534109eb247527ac40caf8a4d4aca9ffb6ae5ab16f05f354d0aaec6d599@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

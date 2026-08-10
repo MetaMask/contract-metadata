@@ -1,0 +1,8 @@
+{
+  "name": "Spore",
+  "symbol": "SPORE",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x33a3d962955A3862C8093d1273344719F03ca17c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9745d6af9ecc237ec7f300fff56f8c2cfda4fc23b3d942ccdc17670bafa111eb@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

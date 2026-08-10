@@ -1,0 +1,8 @@
+{
+  "name": "Kimbo",
+  "symbol": "KIMBO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x184FF13b3eBCB25BE44E860163A5D8391DD568c1.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd8694d5babb777bb2bc6b43bc4ed7bf6b2c8fba824af8de149e7a25f3403df39@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

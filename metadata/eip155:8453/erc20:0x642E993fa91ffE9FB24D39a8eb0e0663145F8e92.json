@@ -1,0 +1,8 @@
+{
+  "name": "BASED RABBIT",
+  "symbol": "RABBIT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x642E993fa91ffE9FB24D39a8eb0e0663145F8e92.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdca456d79dfba1a6b3d39efbb05e77e2e9df66dbce9b3fd5d5d22f5651997995@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

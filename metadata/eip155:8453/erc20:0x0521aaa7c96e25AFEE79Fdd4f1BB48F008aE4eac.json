@@ -1,0 +1,8 @@
+{
+  "name": "DR3AM Fund",
+  "symbol": "FDREAM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x0521aaa7c96e25AFEE79Fdd4f1BB48F008aE4eac.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x082067325245fa971454623b6d5bb890b964ff0f0f928868756a289e2d9a42ec@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

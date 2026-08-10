@@ -1,0 +1,8 @@
+{
+  "name": "Datamine",
+  "symbol": "DAM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF80D589b3dBe130C270a69f1a69d050F268786df./ipfs/qmxjcn4fqv7w1hft6ayws9yrxtgjg6wvxtkxyfbdpudbjt/bcd2gbwewucbeph8yfggt86fdmvejjxmnxtlzj8kwtvkbmiilzz814t7evh3btg5uucgsrimel95ybvuh4jfmsqlgh",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbb787ffb7f88ee1dacd58e96f7b0d52102295f61c75ea2c6977d1d197ac0e717@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

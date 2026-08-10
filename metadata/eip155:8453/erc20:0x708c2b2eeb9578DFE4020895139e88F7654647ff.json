@@ -1,0 +1,8 @@
+{
+  "name": "Robostack by Virtuals",
+  "symbol": "ROBOT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x708c2b2eeb9578DFE4020895139e88F7654647ff.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x84965ebdea3a8f30ba25c4759dfeb271111f7682a87786c3f33f9ca138a77d92@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

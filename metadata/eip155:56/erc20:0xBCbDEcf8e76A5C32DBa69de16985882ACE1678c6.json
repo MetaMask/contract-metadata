@@ -1,0 +1,8 @@
+{
+  "name": "Revenue",
+  "symbol": "RVC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xBCbDEcf8e76A5C32DBa69de16985882ACE1678c6.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd7203c1a9f11e6bcecdd26674893339ae450520ab29b957d296cd782dfb591a6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

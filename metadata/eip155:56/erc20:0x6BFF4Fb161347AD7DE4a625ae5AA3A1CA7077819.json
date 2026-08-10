@@ -1,0 +1,8 @@
+{
+  "name": "AdEx",
+  "symbol": "ADX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x6BFF4Fb161347AD7DE4a625ae5AA3A1CA7077819.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb295ba47a3d824c34870d081853c95d6ed2de55ce069057daae8647afc436d6a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Dragon Egg",
+  "symbol": "DREGG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x88C090496125B751B4E3ce4d3fdB8E47DD079c57.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x71a887f197f47581146d3cefb464b453b5e4c5fa5818d656c8b9eabb8ef55534@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

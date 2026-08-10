@@ -1,0 +1,8 @@
+{
+  "name": "BORA",
+  "symbol": "BORA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x26Fb86579e371C7AEDC461b2ddef0A8628C93d3b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x44c35c175e938b93ff83304457dadca7dc0ab7d6c7dee36e2d24b6a9b232b094@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

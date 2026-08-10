@@ -1,0 +1,8 @@
+{
+  "name": "InterCrone",
+  "symbol": "ICR",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:250/erc20:0x58759dd469Ae5631C42cF8a473992335575b58d7.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x68f7e3d5b634e1e94bbeac7f9f28922a8a8b268650a0bec40f1acf774959c6c9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

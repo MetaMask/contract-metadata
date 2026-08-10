@@ -1,0 +1,8 @@
+{
+  "name": "Wrapped Evmos",
+  "symbol": "WEVMOS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xA05FEc2ad302BEE513C77a21c8B5eC4636CF7e79.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xee1c39721a77fddcf7a8544b6ce1d5519aca1d424f7a64497baf473e9e76b45f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

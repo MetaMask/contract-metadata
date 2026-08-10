@@ -1,0 +1,8 @@
+{
+  "name": "Impossible Finance Launchpad",
+  "symbol": "IDIA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x0B15ddf19d47e6A86a56148fb4AfffC6929bcb89.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf5e01603a913e424db3ef10db1ee4362c92b075d5d898ea68648ae10cf4aa25c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

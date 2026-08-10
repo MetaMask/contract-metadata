@@ -1,0 +1,8 @@
+{
+  "name": "RUNNER",
+  "symbol": "RUNNER",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x18b6F6049A0Af4ED2BbE0090319174EEEF89F53a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdf6b24cae6a67a853617db469edb28bdfb35be1430fb5bc61713a4012223f97a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

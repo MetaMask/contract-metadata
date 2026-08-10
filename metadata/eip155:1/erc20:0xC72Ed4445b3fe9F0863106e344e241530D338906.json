@@ -1,0 +1,8 @@
+{
+  "name": "FLOGmall",
+  "symbol": "MLC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xC72Ed4445b3fe9F0863106e344e241530D338906./ipfs/qmrxvy2p1ny8c2ptkax9nmq1vbxpaepxxcjvkdexdrgo3x/bcd3cydv9gkk3ftkjyhf2qtpw2ayecrr8hmk9uypxzdac2zgiqognekxzvixnwxpcuhbtidezgnokb2urfx1cs3who",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5ea091f969b2b8b1b7a524b4e94ac14749e974e0b6009d75ad816b32eff0eea6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

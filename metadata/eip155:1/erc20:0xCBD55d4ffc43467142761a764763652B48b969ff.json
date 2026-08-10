@@ -1,0 +1,8 @@
+{
+  "name": "AstroTools",
+  "symbol": "ASTRO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xCBD55d4ffc43467142761a764763652B48b969ff./ipfs/qmxtyshwtaqr3xp2anmvyo9ulnxfvm3x89bnh46psh1dkg/bcdworvwp9w9jopn5lbpshuc1bn44ojo5rtab4gx5xbc8ahnyxcvw5rybkqpf4nixma4j8sfbpaqmwxyfh7h18vquc",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1df6e042f363b5cb1f5924d788a96c9b817abe07f8095d6dc2766656185d07f9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

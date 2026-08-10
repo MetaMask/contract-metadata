@@ -1,0 +1,8 @@
+{
+  "name": "USDT yVault",
+  "symbol": "yvUSDT",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x7Da96a3891AdD058ADa2E826306d812C638D87a7./ipfs/qmuagwuzplkuvkz1s41eevdwbdufanccfsqj3vjkkpy5jh/yvusdt",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x72c99166b14ab975945f3f318308900e1a2234d09cbc1a4bcd0b7e4df8c72ca6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

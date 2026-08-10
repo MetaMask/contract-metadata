@@ -1,0 +1,8 @@
+{
+  "name": "GMD",
+  "symbol": "GMD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x1FE70939c2ceC8F31E8F7729442658586B469972.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x54155f130293e621f8b3713dc67be1d91386a204e5e81a1caa1eab158345cdf0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "OneRoot Network",
+  "symbol": "RNT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xFF603F43946A3A28DF5E6a73172555D8C8b02386./ipfs/qmth43ey3jeunkhzsz4uegn8fmfaguhvxrmn3vtnfumcsi/bcd7ktwhh2yrmo4pzmcdvxadchb7of7stdcv8xr6xiyjnzzfqssux9jlmg61zcrzumbx2xnajbjopmeslpusgra1mg",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfda9df6064efefe96613ec29f260831c557bb49bd21465117b4e2100a8fe2ee7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

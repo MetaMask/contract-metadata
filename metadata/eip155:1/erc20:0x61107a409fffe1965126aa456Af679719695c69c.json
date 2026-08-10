@@ -1,0 +1,8 @@
+{
+  "name": "Umi Digital",
+  "symbol": "UMI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x61107a409fffe1965126aa456Af679719695c69c./ipfs/qmz5skrqtjaqrywccsdivnzxjpqdem4gwz7hydduqqzvt1/umi",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbac76a658546e5b6ebb03c2aafbb99160dd6adbc69014d261ace527f78a5598b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "GuildFi",
+  "symbol": "GF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xAaEF88cea01475125522E117bfe45CF32044E238.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7048ab680b6a2f2eaab685e570da2db298b4034b3bf90cb35fc12173b694ae2c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

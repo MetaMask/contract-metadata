@@ -1,0 +1,8 @@
+{
+  "name": "Bloom",
+  "symbol": "BLT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x107c4504cd79C5D2696Ea0030A8dD4E92601b82e./ipfs/qmdti3az3z6b8npnfce223rbokakicdrbrs5bralpgv9cb/bcdzlcga3o9mrhv7pybiwffrjqjhytw3jnbywc9mbsyow7c1guwvpwj1rdopzjwukqjqwcaxc7rqlczhjnjr6syc9a",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd4ed6b6c949d5ca4a7ee3b6205c19e4b5e10b27268c07573f8614c6a1f8af6dd@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

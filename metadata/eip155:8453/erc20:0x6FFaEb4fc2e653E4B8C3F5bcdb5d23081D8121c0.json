@@ -1,0 +1,8 @@
+{
+  "name": "Moshe by Virtuals",
+  "symbol": "JEW",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x6FFaEb4fc2e653E4B8C3F5bcdb5d23081D8121c0.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x935b4854107fb94852d5bfa7840a00090083c5ef31941d3b962c5d752913316d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

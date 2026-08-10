@@ -1,0 +1,8 @@
+{
+  "name": "Aludra Network",
+  "symbol": "ALD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB339Fca531367067E98D7c4f9303ffEADFF7b881./ipfs/qmu3vd6zdsh5hxerblrozybifhgwnpkazzxbqekqkzepnm/bcdzlqtrdxpr4bif5qeuey1nqrjcvlq6mpmtqndhnvlgvtqgxybvmqbwwubenkbm1pnfvhvomgtnotfndd2mwu2lbr",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc440650f2560324c0e944cafdb0606d0c541bb76caa7771d55ec760e27dcd814@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

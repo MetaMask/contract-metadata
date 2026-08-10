@@ -1,0 +1,8 @@
+{
+  "name": "Orbler",
+  "symbol": "ORBR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xDa30F261a962D5AAE94c9ecd170544600D193766.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x08a0489c77262e9c3e59f61fd144c5a9ad248e7aad59832b5177981d7f07b4e1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Maker",
+  "symbol": "MKR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x5F0Da599bb2CCCFCF6FDFd7d81743B6020864350.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xee325cf18fff45561bef8af89e9e8cdf132ec3b33e7b1c324ee54732ba1d083d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

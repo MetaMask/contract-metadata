@@ -1,0 +1,8 @@
+{
+  "name": "Binamon",
+  "symbol": "BMON",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x08ba0619b1e7A582E0bcE5bbe9843322C954c340.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5a594cb711af3853cf754b3c06966d1cb3e4be608dd0082f3692abb3f675c19f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Small Autonomous Motherfucker",
+  "symbol": "SAM",
+  "decimals": 8,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:JCKqVrB4cKRFGKFYTMuYzry8QVCgaxS6g5s3HbczCP5W.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4e9776882282486314a83d2d2007a923db29dbdb6f5034af8e8c76ce7398c171@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

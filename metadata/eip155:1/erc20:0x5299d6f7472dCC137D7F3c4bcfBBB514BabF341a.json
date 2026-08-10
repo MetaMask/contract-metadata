@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Monero",
+  "symbol": "sXMR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x5299d6f7472dCC137D7F3c4bcfBBB514BabF341a./ipfs/qmupxpql6gvqebjqamxqzpe51zryiz1pgdgxjh1n13mstm/sxmr",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9e1b7c0e3ea3666e97de0792d7851e435501bfe1feedbebd101742f18a4252e6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Orange",
+  "symbol": "ORNG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x6C14c1898c843fF66Ca51e87244690BBC28DF215.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4dc8d8c6e9ead14805410d5f9ec0c09fcb3091909c247dbd669d7ff295b8fd45@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

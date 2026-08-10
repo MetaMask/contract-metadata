@@ -1,0 +1,8 @@
+{
+  "name": "DeRace",
+  "symbol": "DERC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0xB35Fcbcf1fd489FCE02EE146599e893FDCDc60e6.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x343b91d1bcd9393d43971bb476588bc2750a56181898b208c8bf5a5ae3d7ceb2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

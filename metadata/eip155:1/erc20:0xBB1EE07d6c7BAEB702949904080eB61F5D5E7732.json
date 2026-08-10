@@ -1,0 +1,8 @@
+{
+  "name": "Dogey-Inu",
+  "symbol": "DINU",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xBB1EE07d6c7BAEB702949904080eB61F5D5E7732./ipfs/qmdtzj6wknfhmgfoov5xmflmv2aqcxhjymkm1jjerb8lgs/dinu",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6f5bdf58f3fa835c41567ba5c1bcdaf2c0ec0f8464a980f169774a6b8066e672@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

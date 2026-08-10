@@ -1,0 +1,8 @@
+{
+  "name": "Sheltie Inu",
+  "symbol": "SHINU",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x71bEFF5533dd4C0A47b739da50c56A2DD28633fa./ipfs/qmdek43ymdkzhlxv9u7aesjjztyjjibcvvsuuyeiizb4se/shinu",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x811671009e9201cde4e3096cf340823443251cb98580b809078655077351c6b7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

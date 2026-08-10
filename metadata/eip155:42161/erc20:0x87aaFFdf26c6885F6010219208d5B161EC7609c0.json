@@ -1,0 +1,8 @@
+{
+  "name": "Equation",
+  "symbol": "EQU",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0x87aaFFdf26c6885F6010219208d5B161EC7609c0.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x405fdcbe2d0410504498cd47f4113274f3d3aff9bf2a3d488f49bdd599b41971@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

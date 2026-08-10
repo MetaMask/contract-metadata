@@ -1,0 +1,8 @@
+{
+  "name": "Basin Protocol",
+  "symbol": "BASIN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x4788de271f50eA6F5D5D2a5072B8D3C61D650326.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7956166830378a4f8201bbc0df1ce1c7ecd49d3106b37047da5f9b065da40f42@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

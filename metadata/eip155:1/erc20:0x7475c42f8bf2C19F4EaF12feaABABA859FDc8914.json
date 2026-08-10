@@ -1,0 +1,8 @@
+{
+  "name": "ACCEL",
+  "symbol": "ACCEL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x7475c42f8bf2C19F4EaF12feaABABA859FDc8914./ipfs/qmpjsq8k2fsbb7zuqlkbvyg9qaulrjrufyb1iwpprudvmj/accel",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xff16819ad59de2928aafaeda983f84b3041cfe947d0623fc4ce1e043f89447db@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

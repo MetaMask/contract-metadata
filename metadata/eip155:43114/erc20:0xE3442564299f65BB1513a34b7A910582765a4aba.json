@@ -1,0 +1,8 @@
+{
+  "name": "Polar Bear",
+  "symbol": "POLARBEAR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xE3442564299f65BB1513a34b7A910582765a4aba.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x38b825dec10d82664e815694d7d14f2f60f2c12d2700f5a58e6a1fe9e10f5000@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

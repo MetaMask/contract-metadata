@@ -1,0 +1,8 @@
+{
+  "name": "Genesis Vision",
+  "symbol": "GVT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x103c3a209dA59D3E7C4a89307e66521E081cFdf0./ipfs/qmdc5b1nbp5ydqmde9svkpxkjdyduaj7mh8arkim4hlzdt/bcczm2fnezhn1bx7qvajwna95eydts3duvf7yihdtmynuzyfctb5e4i4bz31hxspwd4zxi7cwjubscmlsysgbjrpx5",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8c6f1f53934f5bbdf94ca81c10284a479cf8a4b68b23c9abe56e54e7b932e5f0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

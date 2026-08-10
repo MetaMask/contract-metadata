@@ -1,0 +1,8 @@
+{
+  "name": "Ferrum Network",
+  "symbol": "FRM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0x9F6abbf0bA6B5BFA27F4deb6597CC6EC20573Fda.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xff5a850ed517cf111b5a67f2b2985de7566d01ee616e1c6f086f0659762ba0f8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

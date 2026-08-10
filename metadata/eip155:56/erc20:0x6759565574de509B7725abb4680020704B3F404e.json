@@ -1,0 +1,8 @@
+{
+  "name": "VIP",
+  "symbol": "VIP",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x6759565574de509B7725abb4680020704B3F404e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x67011b624e3ff1822fd771003a3440c59f536a84e04d5907ceca7bb8e708f683@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

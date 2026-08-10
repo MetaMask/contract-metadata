@@ -1,0 +1,8 @@
+{
+  "name": "BYTE by Virtuals",
+  "symbol": "BYTE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x2D90785e30A9Df6CCE329c0171cB8BA0F4a5c17b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe8dae6a7f25208d3593450d83199be7f1190e3428d3b09d0b013d84b8673557a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

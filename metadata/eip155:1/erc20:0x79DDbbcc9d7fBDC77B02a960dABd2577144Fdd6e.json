@@ -1,0 +1,8 @@
+{
+  "name": "Crypxie",
+  "symbol": "CPX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x79DDbbcc9d7fBDC77B02a960dABd2577144Fdd6e./ipfs/qmy9a4qlu4d8dwhaese3cjgqnsxseu55fxkqhj7upn8tn6/bccwqkd6fvc62fwaqjlyvtjlvzdbqyybupylbaubkg6xyzggsm21vabsbusycmdyw21zkyvtp8v2yf4i2pmbc4ktuk",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x46db6bb9b2fa43544bc3209eec3f51020210f5d5f767e8b4f80966c73d8daf9d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

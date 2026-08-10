@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic 1inch",
+  "symbol": "s1INCH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xCD39b5434A0A92CF47D1F567a7df84BE356814f0./ipfs/qmdvbyjw6gx9nen1emvkyq166f7gwqv1pnizmd3xtq8of7/s1inch",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x20b1b9a7b1f3a11ec27ea653fbef523015efb5d6d4b04d2933d9f0f9b4ce9a8b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

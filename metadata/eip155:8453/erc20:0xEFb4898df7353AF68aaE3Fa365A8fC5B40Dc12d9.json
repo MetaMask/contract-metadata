@@ -1,0 +1,8 @@
+{
+  "name": "Just Juni by Virtuals",
+  "symbol": "JUNI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xEFb4898df7353AF68aaE3Fa365A8fC5B40Dc12d9.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xea1c64c6c16dcc7dea594d59adf14207d5ab19df33e0ea2f9f2ce48ef60d141c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Collab.Land",
+  "symbol": "COLLAB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:10/erc20:0x8B21E9b7dAf2C4325BF3d18c1beB79A347FE902a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xef6ecef510f505edefd17259d64ab6bdf6e262c556b54d2f7645294127ec98b2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

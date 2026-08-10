@@ -1,0 +1,8 @@
+{
+  "name": "Baron Von Whiskers by Virtuals",
+  "symbol": "BARON",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x89CD293538c2390992CDFb3520cfB136748cd9b9.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x34a813b675a6dd7c0e46cdeaa48dd0d57b04c41be2a42b59679d6e07ef0fe56b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

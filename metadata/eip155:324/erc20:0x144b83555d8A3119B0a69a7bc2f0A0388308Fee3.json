@@ -1,0 +1,8 @@
+{
+  "name": "AutoAir AI",
+  "symbol": "AAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x144b83555d8A3119B0a69a7bc2f0A0388308Fee3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc06889acbdbf1a98b7ee35bc40018623b81d26fd8f7d3c2d6d7c33a51f1a0241@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

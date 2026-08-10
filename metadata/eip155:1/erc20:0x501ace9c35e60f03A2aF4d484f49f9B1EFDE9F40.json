@@ -1,0 +1,8 @@
+{
+  "name": "Solace",
+  "symbol": "SOLACE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x501ace9c35e60f03A2aF4d484f49f9B1EFDE9F40./ipfs/qmyfkpeypeuc3jtzkgrzccvvtuircp72buihowgfchcjrb/solace",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6ea1d904c928c0d23df41b5322bbc8c399de71890b3b848fb0e65da32360b780@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

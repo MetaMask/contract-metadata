@@ -1,0 +1,8 @@
+{
+  "name": "AIOZ Network",
+  "symbol": "AIOZ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x33D08d8c7A168333A85285a68c0042B39FC3741d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x699addd400b57ea3bf900b80cc5a7a02d8f6f29847f6c82a9ee340d0393669a4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

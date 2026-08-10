@@ -1,0 +1,8 @@
+{
+  "name": "ApeBond",
+  "symbol": "ABOND",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x34294afabcBAffC616ac6614f6d2e17260b78bed.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe6d513f1736f755b5ce6350fe54807f074b82c721b7272de02e4b36bf9344aca@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

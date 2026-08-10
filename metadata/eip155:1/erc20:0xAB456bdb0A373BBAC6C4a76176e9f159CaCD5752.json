@@ -1,0 +1,8 @@
+{
+  "name": "Society of Galactic Exploration",
+  "symbol": "SGE",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xAB456bdb0A373BBAC6C4a76176e9f159CaCD5752./ipfs/qmuirouow3btrhxjjahzmntf2ypfqerusf3cptjrygbzay/sge",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x470117134cbb2ac1c1f68b543967f2aa820e19d29fcd30780c7aa18d3ec97ad5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

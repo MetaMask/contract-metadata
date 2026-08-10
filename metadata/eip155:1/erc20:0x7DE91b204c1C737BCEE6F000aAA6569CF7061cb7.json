@@ -1,0 +1,8 @@
+{
+  "name": "Robonomics Network",
+  "symbol": "XRT",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x7DE91b204c1C737BCEE6F000aAA6569CF7061cb7./ipfs/qmeznsgmxt2c5jmdvmea971fp4j4vnwqbxpjbojatws1qx/bcd5vslm3xvgjvqpmg1vjdzdz3sds9wqztkbbcu8l33n4xgpx1xxsxzh7e8dyrlcqj5nyzsxwtmzh6e4h3wekcbk3a",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x40c305170130e992be01fb5756b23d6e8bf7814022d787296d2328567be1915f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

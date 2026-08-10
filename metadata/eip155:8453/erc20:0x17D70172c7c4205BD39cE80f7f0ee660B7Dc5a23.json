@@ -1,0 +1,8 @@
+{
+  "name": "Dimes",
+  "symbol": "DIME",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x17D70172c7c4205BD39cE80f7f0ee660B7Dc5a23.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x695fbfa14558b22281a844bd3d087b51512d2e97685131c2efa59ff3345b4fd8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

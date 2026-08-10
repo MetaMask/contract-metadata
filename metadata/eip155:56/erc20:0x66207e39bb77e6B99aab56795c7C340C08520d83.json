@@ -1,0 +1,8 @@
+{
+  "name": "Rupiah",
+  "symbol": "IDRT",
+  "decimals": 2,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x66207e39bb77e6B99aab56795c7C340C08520d83.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x49d2709273db449fb6dc9b389e64f3361090975e3dbd322e2d8ed57ceb5a8e03@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

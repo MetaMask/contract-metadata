@@ -1,0 +1,8 @@
+{
+  "name": "Ethereum",
+  "symbol": "ETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x2170Ed0880AC9A755FD29b2688956BD959F933f8.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9c6f0ea1d6880a4f86960aa4e2e5425db01546cb509ccc1836e4e3f44c7d6e1a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Operating System",
+  "symbol": "OPSYS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x38b88d6568d61556D33592ad7bc24E89A7Fb6691.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x669e0783af55182f5319f2b35ace9b5bcb7673bb7659da71f8c73d37ef9fbf94@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

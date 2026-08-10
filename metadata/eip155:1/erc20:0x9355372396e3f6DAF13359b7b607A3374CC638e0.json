@@ -1,0 +1,8 @@
+{
+  "name": "WHALE",
+  "symbol": "WHALE",
+  "decimals": 4,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9355372396e3f6DAF13359b7b607A3374CC638e0./ipfs/qmarqzhru27i6csbtgdmgyfavnpfdzmsfypouena1wh5m7/bcd51rbhso2oaaq5tljrai5spyyyuse8yzexvr2sqqfp7pdagugxaya5hazkfxnru2v5jlvcagquhe5bj6ywvh6wjr",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb8912d9f4ac82dae1906235ebc054f9c8651be70510435b03dab458c9c87eac6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

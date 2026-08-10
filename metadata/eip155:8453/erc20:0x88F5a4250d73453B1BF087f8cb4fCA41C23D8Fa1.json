@@ -1,0 +1,8 @@
+{
+  "name": "Peanut the Squirrel by Virtuals",
+  "symbol": "PNUT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x88F5a4250d73453B1BF087f8cb4fCA41C23D8Fa1.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd52156c8d4143b4fcafdcedc84f2d0bd28f563bd495c3ef1e266a05256573ca7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

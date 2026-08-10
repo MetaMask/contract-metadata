@@ -1,0 +1,8 @@
+{
+  "name": "Amp",
+  "symbol": "AMP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0x0621d647cecBfB64B79E44302c1933CB4F27054d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf07ef1dcd28174981722aab3d97e990e5e26e7265d2070ae657968f7fcc028c6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

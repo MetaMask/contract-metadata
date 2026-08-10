@@ -1,0 +1,8 @@
+{
+  "name": "BitRewards",
+  "symbol": "BIT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x47Da42696A866CDC61a4c809a515500A242909c1./ipfs/qmt1n8kmbhtlnglpzhqbgsv2bppklxtcchespaazgxn4il/bcd787ysa2ydubeth3t1s7n3r84czswsdvui4zeo7lfyrnm8jxywoyrvawqpvszjusy6ukravfdbmgdpccpbveo8qs",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd0f1bb8fb7342d4dc90f8d52d85186cdb0bd5cb9ede48996638c28e4e936b696@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

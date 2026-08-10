@@ -1,0 +1,8 @@
+{
+  "name": "Zombie.Finance",
+  "symbol": "ZOMBIE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD55bd2c12b30075B325bc35aef0B46363B3818f8./ipfs/qmbyuaodjd53vehxki6ky17utcgdxjsnerzp5zpl248cex/bce2rnxnegcpzxhbopvwaz2iwyhuxzeupwk2j1gbgvzyrzaeeqamabgkexyhzsxs78jrs72n3gv3p4ahpn6nmkxffm",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x34dc8084239283f516f80fcf312d85935a694bfc60b1387b134fb971ab9664a1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

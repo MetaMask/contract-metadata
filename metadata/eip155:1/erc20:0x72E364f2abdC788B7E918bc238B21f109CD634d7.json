@@ -1,0 +1,8 @@
+{
+  "name": "Metaverse Index",
+  "symbol": "MVI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x72E364f2abdC788B7E918bc238B21f109CD634d7.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc6805445f62d248b2ddfedd73f58c53366166b6e90f45e042f760c781c863483@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

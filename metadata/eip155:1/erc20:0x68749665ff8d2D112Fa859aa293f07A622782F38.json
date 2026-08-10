@@ -1,0 +1,8 @@
+{
+  "name": "Tether Gold",
+  "symbol": "XAUt",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x68749665ff8d2D112Fa859aa293f07A622782F38.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x09c97e9b95bfc3a85adf3dc49be138818365aaa124c8a87c99ed7494244f802c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

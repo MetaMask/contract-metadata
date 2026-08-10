@@ -1,0 +1,8 @@
+{
+  "name": "Fringe",
+  "symbol": "FRIN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x066901713c5B9E0EF55c98d0986f93AB85bbb543.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5229254f701a6de3534655d26b75c4e8829fa98c65ecb3fc0d326c04a4d9bc4e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "ChainGPT",
+  "symbol": "CGPT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x25931894a86d47441213199621f1f2994E1c39aa.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd911e74ef1be7a4470a0d2e7bc61b3c43a063a50928254781fece53b93ecb51d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

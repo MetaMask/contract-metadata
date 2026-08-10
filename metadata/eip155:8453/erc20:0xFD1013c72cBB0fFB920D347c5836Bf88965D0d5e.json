@@ -1,0 +1,8 @@
+{
+  "name": "STIX",
+  "symbol": "STIX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xFD1013c72cBB0fFB920D347c5836Bf88965D0d5e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x209acc65e806193c2dc75d3579725ed50c2b5d4ba8d1b082b74f49886d01530a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

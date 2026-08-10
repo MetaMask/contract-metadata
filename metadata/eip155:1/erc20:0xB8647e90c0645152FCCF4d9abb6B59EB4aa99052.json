@@ -1,0 +1,8 @@
+{
+  "name": "KeyFi",
+  "symbol": "KEYFI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB8647e90c0645152FCCF4d9abb6B59EB4aa99052./ipfs/qmqxgohwmkex5qg4vghrfi8uwchzxq13vqkjf4fj5kzdw8/keyfi",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x99674cf2e157e6b920b8dec3723df63e2103067b319870bc1e6b4ed642c46e51@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Revain",
+  "symbol": "REV",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x2EF52ed7de8C5CE03a4EF0efbe9B7450F2D7Edc9./ipfs/qmzhf34cxayhkvbucrzqh65cnwyunsel3ahxtgravmocxo/rev",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4b9e4728d26113c1bb06e6fbfa591ce85969439186017708cb4d63100b629ede@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "HarryPotterObamaSonic10Inu",
+  "symbol": "BITCOIN",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x72E4F9f808c49A2A61DE9c5896298920DC4EEea9.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xba067ece869840266b82805ce81736433054dfb95de61690701884a89300dfb7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Particles Money xETH",
+  "symbol": "xETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xC4655eb36AA7f1E476a3059a609443DED02ab61f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe1c9e480dd71ebd0d9ff9b860579733a2916ec0e1abd58b1dda96270147ab641@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

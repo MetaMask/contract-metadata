@@ -1,0 +1,8 @@
+{
+  "name": "Bella Protocol",
+  "symbol": "BEL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA91ac63d040deB1B7a5E4d4134Ad23EB0Ba07e14./ipfs/qmqybmbq3krrygucdrfkljl3p7mg2d1c5e9fvo5pmcbsn9/bel",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x761b012770f011e34b9174106873f6a1d2e362635318d76de3f1b14ae35c380c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

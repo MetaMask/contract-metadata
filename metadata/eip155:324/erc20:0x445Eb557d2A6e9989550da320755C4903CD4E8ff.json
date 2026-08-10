@@ -1,0 +1,8 @@
+{
+  "name": "Oraichain",
+  "symbol": "ORAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x445Eb557d2A6e9989550da320755C4903CD4E8ff.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdb8e06b7d668a3d6295a44d673aa39e2bb9871e11f0a21b7ff71fb004fbd0f63@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

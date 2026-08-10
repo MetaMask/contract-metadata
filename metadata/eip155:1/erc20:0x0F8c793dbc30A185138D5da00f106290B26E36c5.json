@@ -1,0 +1,8 @@
+{
+  "name": "Ape Stax",
+  "symbol": "ASTAX",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0F8c793dbc30A185138D5da00f106290B26E36c5./ipfs/qmppzixblo1xd2wc5euduzfmsuikf1569azy8evjdxjeij/astax",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf7978155e253f2707cecf5007638600a6c75c959b7a58abdaea7a84fe4e38215@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

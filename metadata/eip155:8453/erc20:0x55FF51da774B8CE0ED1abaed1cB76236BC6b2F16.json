@@ -1,0 +1,8 @@
+{
+  "name": "Voice of the Gods by Virtuals",
+  "symbol": "ADM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x55FF51da774B8CE0ED1abaed1cB76236BC6b2F16.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x57d3f62d0f150ffe67784c9203ce91dea5a5bcc4a36105675724846639821a5f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

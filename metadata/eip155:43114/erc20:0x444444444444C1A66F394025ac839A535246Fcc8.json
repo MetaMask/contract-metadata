@@ -1,0 +1,8 @@
+{
+  "name": "Genius",
+  "symbol": "GENI",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x444444444444C1A66F394025ac839A535246Fcc8.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5c9aa49a5e159d0d8200b7f3eabb4be26444564793d803ffb94a110b36ff7e95@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

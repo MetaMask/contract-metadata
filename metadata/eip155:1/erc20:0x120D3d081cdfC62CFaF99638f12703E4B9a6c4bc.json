@@ -1,0 +1,8 @@
+{
+  "name": "Saitama Classic",
+  "symbol": "SAITAMA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x120D3d081cdfC62CFaF99638f12703E4B9a6c4bc.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd2fe54bbb045fb641c8d796006236ea946ed497649ef25ee189f28c3793bf3dc@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

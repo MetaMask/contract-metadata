@@ -1,0 +1,8 @@
+{
+  "name": "TribeOne",
+  "symbol": "HAKA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD85ad783cc94BD04196a13dc042A3054A9b52210./ipfs/qmchptxdju7xarxmd7gtahoc97x1ykgkwy9ukmwufrdsku/haka",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd8064cf94f2730f34c2e67918f86c538476ced9df8fbb57002695186700ca8cf@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

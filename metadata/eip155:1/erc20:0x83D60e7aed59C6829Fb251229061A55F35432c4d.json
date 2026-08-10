@@ -1,0 +1,8 @@
+{
+  "name": "Infinito",
+  "symbol": "INFT",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x83D60e7aed59C6829Fb251229061A55F35432c4d./ipfs/qmpuuvfxjlwhc8bhe87zqnuvhhgr9stutqcgh9pprwi2rr/inft",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x69c85627459af88b80410115cd33aaa94a055bc70eb5e2355b2a75fbf0da97c2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

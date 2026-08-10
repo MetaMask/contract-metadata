@@ -1,0 +1,8 @@
+{
+  "name": "Cardstack",
+  "symbol": "CARD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x954b890704693AF242613edef1B603825aFcd708./ipfs/qmxl8unjirbhf86lq5dmqzrf6prknnwwhsvmhlx3v3jpfw/bcczn8hrwx1mcqjcyho9emazj16suzseanixvshrmhbzcebixpltqpkg7wiecarbsbndq9k4x1bcussrg5g4ncga6r",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1ef1328717ed56c08c70d076b84b238d1eb620a53ba0688961d6cb16bcb6e80e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

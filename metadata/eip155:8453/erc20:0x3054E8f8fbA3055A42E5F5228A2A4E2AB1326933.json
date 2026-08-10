@@ -1,0 +1,8 @@
+{
+  "name": "Zuzalu",
+  "symbol": "Zuzalu",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x3054E8f8fbA3055A42E5F5228A2A4E2AB1326933.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6e44ed2f19f79afbd6c20fee18e80c481d0a8ce62d2a83123e1153241bc564bf@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

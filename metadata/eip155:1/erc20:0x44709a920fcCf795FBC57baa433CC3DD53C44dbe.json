@@ -1,0 +1,8 @@
+{
+  "name": "DappRadar",
+  "symbol": "RADAR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x44709a920fcCf795FBC57baa433CC3DD53C44dbe.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe55b4a9ee95e30f9963e66925f1d2396d9c83c0c0d92ea48fe241d49244a0cb3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

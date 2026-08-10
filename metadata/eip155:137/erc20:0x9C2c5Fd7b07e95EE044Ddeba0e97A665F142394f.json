@@ -1,0 +1,8 @@
+{
+  "name": "1inch Network",
+  "symbol": "1INCH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0x9C2c5Fd7b07e95EE044Ddeba0e97A665F142394f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xca08da5383d0bb972636fa54d6a18e006c5c85e4f7095c79a25506306540924e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

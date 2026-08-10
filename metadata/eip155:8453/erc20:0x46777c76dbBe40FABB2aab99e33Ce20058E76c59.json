@@ -1,0 +1,8 @@
+{
+  "name": "Layer3",
+  "symbol": "L3",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x46777c76dbBe40FABB2aab99e33Ce20058E76c59.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0ecca049be67e634c86eca88e3b08b565819f3f938dc04c31d3a8729feb626eb@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

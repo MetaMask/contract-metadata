@@ -1,0 +1,8 @@
+{
+  "name": "Cream Huobi BTC",
+  "symbol": "crHBTC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x054b7ed3f45714D3091E82aad64A1588DC4096ed./ipfs/qmnxcrrtvmydghg25dgqchrnqmkurom2debfylpnsig7jw/crhbtc",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7b91128f066e88a33ca1dc83b53e0908cce0dbf6f1df80595c638645a3a7a3f9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Moss Coin",
+  "symbol": "MOC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x865Ec58b06Bf6305B886793aa20A2DA31D034e68./ipfs/qmzgwgyavpu6cyng1whgflzyyncqivvjs4i5gg8nbedbve/bcd4msbccpp1qajblzk8sbhv3qat2zr3jch79aqg78biahnkksoadwbucaax48psc7jn2ik9zpbqgffeqvb5wwkqwx",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x591b3f3436155f21485d925ad831f8e66224ed0a6c14c6453fb290ed9f1af33c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Magic Eden",
+  "symbol": "ME",
+  "decimals": 6,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:MEFNBXixkEbait3xn9bkm8WsJzXtVsaJEn4c8Sam21u.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfa15f3b02d454ad95ad8feed320eb044a1d32ff0c4749beaa24bb4d704e3c07d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "luminous",
+  "symbol": "LUM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x0FD7a301b51d0A83FCaF6718628174D527b373b6.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7a7b43be28c768a5edaf4fb986e001df5aa218740d94a066f91ad893b517e689@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

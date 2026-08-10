@@ -1,0 +1,8 @@
+{
+  "name": "Jibrel Network",
+  "symbol": "JNT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA5FD1a791c4dfCAACC963d4f73c6AE5824149ea7./ipfs/qmvgs7bz57hsoqlnaebkcr6nyk7rpwjqhsv9fqh47xn2d3/bce2fw3kndrjivga7xfwg2tbd1jc6k4whdhrbzk1sscvqypm1kvqyjctehekud377xnp25qmzaailqts9nuheh7s1x",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1a442b592e5d76a5cb4117ecc2518049f3d9c9a530c27cb9f87f4a8ed9390ffe@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Rally",
+  "symbol": "RLY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF1F955016ecBCD7321C7266bccfB96C68Ea5E49b./ipfs/qmzaw1esgjuaghnr6xnwvpyp94n9a1yfu6xqqrv5dmhm93/rly",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa4ad651ae9a0adf25cabc7ff0ec659e064535371181804dd2d44da1f4ed92927@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

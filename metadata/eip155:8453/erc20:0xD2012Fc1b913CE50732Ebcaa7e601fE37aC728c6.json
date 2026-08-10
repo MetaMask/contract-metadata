@@ -1,0 +1,8 @@
+{
+  "name": "StakeStone Ether",
+  "symbol": "STONE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xD2012Fc1b913CE50732Ebcaa7e601fE37aC728c6.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2ffe70fd534a2590120286a2f6d3bc97bc5e919c7dde35effe534833fa18ba73@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

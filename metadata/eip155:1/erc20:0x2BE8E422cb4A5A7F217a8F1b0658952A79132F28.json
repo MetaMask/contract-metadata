@@ -1,0 +1,8 @@
+{
+  "name": "Monkey Shit Inu",
+  "symbol": "MSI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x2BE8E422cb4A5A7F217a8F1b0658952A79132F28.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4e590abc85d4c8093c1e74985416ea0737a46ae768b223704f4382ed46188702@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

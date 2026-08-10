@@ -1,0 +1,8 @@
+{
+  "name": "Tribe",
+  "symbol": "TRIBE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xC7283b66eb1eB5FB86327F08e1B5816B0720212b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6961603c59c8916a03e2d06e7cde1ae13ed59c719b229a757b0c77c43b8b8b8b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

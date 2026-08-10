@@ -1,0 +1,8 @@
+{
+  "name": "HashAI",
+  "symbol": "HashAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x292Fcdd1b104DE5A00250FebbA9BC6A5092a0076.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9fe006bdd4a8d4a14fbc4838f98f3869a0b2313a25ec4d8f7a84d3ed0f3d3b91@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

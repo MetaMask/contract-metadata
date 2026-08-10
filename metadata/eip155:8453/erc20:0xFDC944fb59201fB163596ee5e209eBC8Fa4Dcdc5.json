@@ -1,0 +1,8 @@
+{
+  "name": "AMC",
+  "symbol": "AMC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xFDC944fb59201fB163596ee5e209eBC8Fa4Dcdc5.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf2d9c6f393bacdf490e974d3a0261ebab6ef650f25362cd87610e6a1c4f49d74@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

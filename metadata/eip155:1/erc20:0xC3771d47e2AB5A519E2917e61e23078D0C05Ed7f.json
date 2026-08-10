@@ -1,0 +1,8 @@
+{
+  "name": "Gather",
+  "symbol": "GTH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xC3771d47e2AB5A519E2917e61e23078D0C05Ed7f./ipfs/qmnaw8o8mgn6q4dehxbnlh5ddjzywkrmvlhqy49c8lycfk/bcdvrgtsopvxtgrqseyhjq6u96yvspzvgxi3fsvj7ao5qky8rlqtsauepuvbntxrkrjtcu1ttvufekyvdugiubsmzb",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x246a13193774c40c56dc099d0a27d93d1cac17470d789ed99ceab03a5be78145@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

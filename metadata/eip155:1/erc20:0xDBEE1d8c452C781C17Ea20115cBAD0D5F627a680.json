@@ -1,0 +1,8 @@
+{
+  "name": "Strike SXP",
+  "symbol": "sSXP",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xDBEE1d8c452C781C17Ea20115cBAD0D5F627a680./ipfs/qmzpcsuczscr6qbu5t7pfdcbrq7nt9fg8gfk9uewt2gq4b/ssxp",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfbbc4fcd84d2c06d58af072bf6d311b3f4c3196c7bc39544ea3e3c14e2606b71@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

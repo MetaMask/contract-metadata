@@ -1,0 +1,8 @@
+{
+  "name": "Detto",
+  "symbol": "DETO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x7BC401227777f173FF871993b198A8632741b9bb.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0a243d7c66c7ef280116beefb8c9d4faa82b2e35efe64abdf38f53796f8fb100@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

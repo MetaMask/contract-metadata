@@ -1,0 +1,8 @@
+{
+  "name": "Pendle",
+  "symbol": "PENDLE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x808507121b80C02388Fad14726482E061B8Da827./ipfs/qmsgvcjqdvqatp9cf8mebb1p4whwfdsvobye25rdfoxvqp/pendle",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x11e8d4fa32cc8a7672aaebc169f103b508b519f65256ef12fe717850ffbbabc6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

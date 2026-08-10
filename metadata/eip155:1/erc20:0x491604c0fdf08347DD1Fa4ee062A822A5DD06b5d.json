@@ -1,0 +1,8 @@
+{
+  "name": "Cartesi",
+  "symbol": "CTSI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x491604c0fdf08347DD1Fa4ee062A822A5DD06b5d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x418a9c9262653507984decf9ec4868d4237f8680519713c63fcd84838761aae5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

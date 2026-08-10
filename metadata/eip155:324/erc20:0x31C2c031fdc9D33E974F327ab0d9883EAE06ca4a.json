@@ -1,0 +1,8 @@
+{
+  "name": "zkSwap Finance",
+  "symbol": "ZF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x31C2c031fdc9D33E974F327ab0d9883EAE06ca4a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf1ba609383ff041250743d942e709f876a471c63dddaa02343fa0b8a79043907@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

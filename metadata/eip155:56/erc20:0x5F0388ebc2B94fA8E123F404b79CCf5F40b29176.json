@@ -1,0 +1,8 @@
+{
+  "name": "Venus BCH",
+  "symbol": "vBCH",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x5F0388ebc2B94fA8E123F404b79CCf5F40b29176.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb705a7f50fcf0b71b71b54baa9ef824ac336546af64b6f5e269cbb9e6a7db365@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

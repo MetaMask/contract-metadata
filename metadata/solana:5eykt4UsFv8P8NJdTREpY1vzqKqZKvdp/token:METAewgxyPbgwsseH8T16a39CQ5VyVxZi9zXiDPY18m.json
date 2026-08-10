@@ -1,0 +1,8 @@
+{
+  "name": "Metaplex",
+  "symbol": "MPLX",
+  "decimals": 6,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8e16cf821419a349e87daa4c51250cb214f2bf6a4050edc1c3a27b916f017444@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

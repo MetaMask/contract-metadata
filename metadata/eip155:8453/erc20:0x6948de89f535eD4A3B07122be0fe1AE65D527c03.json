@@ -1,0 +1,8 @@
+{
+  "name": "Actual by Virtuals",
+  "symbol": "ACTUAL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x6948de89f535eD4A3B07122be0fe1AE65D527c03.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8736b30b2e51b635c261f1c3c83a592d501e90ba7c0d36221e8c2d2cce8d341f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "BOBS",
+  "symbol": "BOBS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xF5F3216e9fed36F8CCF08d310feC6fBF7F06200f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2c7d47d0f7163965b8bca0caefb6191101790d0754d4c4f6fcb0a503dfc81caf@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

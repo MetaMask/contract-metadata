@@ -1,0 +1,8 @@
+{
+  "name": "Crypto-AI-Robo",
+  "symbol": "CAIR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x48a8ba1754fe84E2F9DFa97982e524F18E5b4bd3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x63b7f730279d03eecfba35948f04edf8fc4aa4d0d718e3283f04f9888e224a1a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

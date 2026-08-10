@@ -1,0 +1,8 @@
+{
+  "name": "Momentum",
+  "symbol": "XMM",
+  "decimals": 10,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9a7a4c141A3BCCE4A31E42c1192AC6ADD35069b4./ipfs/qmqcfk1mlrcenpyeutaukt31e6hmk8hgeupzmepkqc6x7q/xmm",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5b901e1fb53cd9d4d0ffd012f94a690261cd21b73196c281c992d7cc3c1796bf@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

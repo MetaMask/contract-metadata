@@ -1,0 +1,8 @@
+{
+  "name": "Position Exchange",
+  "symbol": "POSI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x5Ca42204cdAA70D5C773946e69de942B85Ca6706.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdb367b59ede93761c63f669c10acdb78115dfa49111902033a07d372b6d3f075@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

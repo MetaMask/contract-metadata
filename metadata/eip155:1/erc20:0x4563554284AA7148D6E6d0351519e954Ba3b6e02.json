@@ -1,0 +1,8 @@
+{
+  "name": "Xend Finance",
+  "symbol": "RWA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x4563554284AA7148D6E6d0351519e954Ba3b6e02.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1d87516d9b0a5c7f19f5ab37c52c20df48c9124a5bc38d6985a8458f5d15b78e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

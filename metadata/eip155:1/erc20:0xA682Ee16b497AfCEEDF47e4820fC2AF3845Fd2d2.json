@@ -1,0 +1,8 @@
+{
+  "name": "Pika",
+  "symbol": "PIKA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA682Ee16b497AfCEEDF47e4820fC2AF3845Fd2d2./ipfs/qmwvyhxu3mneskvzeajwh86y9nf12rkgongf5prubcuspt/pika",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6fc152d27ed631255611a63ddf33911207d1eb1210153cfbad67a7c920fe0ff8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

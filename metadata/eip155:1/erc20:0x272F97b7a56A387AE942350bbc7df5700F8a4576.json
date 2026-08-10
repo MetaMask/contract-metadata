@@ -1,0 +1,8 @@
+{
+  "name": "Aave BAL",
+  "symbol": "aBAL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x272F97b7a56A387AE942350bbc7df5700F8a4576./ipfs/qmvpyqzedc93xscz5hhn4d8eq3sddc8eqeqnsmkhd3bgru/abal",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbd15b742782ffb352f5a92f7c9e02c8d5d8e65e7e8d781cbbe62fb03921b4dd6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}
