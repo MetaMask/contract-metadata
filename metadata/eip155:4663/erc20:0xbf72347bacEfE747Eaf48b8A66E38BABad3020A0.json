@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0xbf72347bacEfE747Eaf48b8A66E38BABad3020A0.png",
+  "name": "Stonks",
+  "symbol": "STONKS",
+  "decimals": 18,
+  "erc20": true
+}
