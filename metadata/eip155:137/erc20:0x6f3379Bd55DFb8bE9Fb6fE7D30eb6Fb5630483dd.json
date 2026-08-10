@@ -1,0 +1,7 @@
+{
+  "name": "FlagShiiip",
+  "symbol": "FTN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0x6f3379Bd55DFb8bE9Fb6fE7D30eb6Fb5630483dd.svg"
+}
