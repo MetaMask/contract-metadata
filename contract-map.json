@@ -3104,6 +3104,13 @@
     "symbol": "LVN",
     "decimals": 18
   },
+  "0x4Eeea7B48b9C3ac8F70a9c932A8B1E8a5CB624c7": {
+    "name": "Membrana Token",
+    "logo": "MBN_membrana.png",
+    "erc20": true,
+    "symbol": "MBN",
+    "decimals": 18
+  },
   "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD": {
     "name": "Loopring",
     "logo": "LRC.svg",
