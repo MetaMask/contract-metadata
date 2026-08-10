@@ -1,0 +1,7 @@
+{
+  "name": "BlackRock USD Institutional Digital Liquidity Fund - I Class",
+  "symbol": "BUIDL-I",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x6a9DA2D710BB9B700acde7Cb81F10F1fF8C89041.png"
+}
