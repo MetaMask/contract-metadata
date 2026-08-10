@@ -1,0 +1,7 @@
+{
+  "name": "USDC.SUI",
+  "symbol": "USDC.SUI",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:7000/erc20:0xe134d947644f90486c8106ee528b1cd3e54a385e.svg"
+}

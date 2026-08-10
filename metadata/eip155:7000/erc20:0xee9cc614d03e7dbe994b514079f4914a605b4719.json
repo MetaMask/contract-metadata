@@ -1,0 +1,7 @@
+{
+  "name": "USDT.SOL",
+  "symbol": "USDT.SOL",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:7000/erc20:0xee9cc614d03e7dbe994b514079f4914a605b4719.svg"
+}

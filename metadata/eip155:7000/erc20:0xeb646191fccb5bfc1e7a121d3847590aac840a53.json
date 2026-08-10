@@ -1,0 +1,7 @@
+{
+  "name": "SUI.SUI",
+  "symbol": "SUI.SUI",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:7000/erc20:0xeb646191fccb5bfc1e7a121d3847590aac840a53.svg"
+}

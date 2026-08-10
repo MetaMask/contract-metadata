@@ -1,0 +1,7 @@
+{
+  "name": "CBBTC.SOL",
+  "symbol": "CBBTC.SOL",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:7000/erc20:0x54bf2b1e91fcb56853097bd2545750d218e245e1.svg"
+}

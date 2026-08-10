@@ -1,0 +1,7 @@
+{
+  "name": "DAI.ETH",
+  "symbol": "DAI.ETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:7000/erc20:0xcc683a782f4b30c138787cb5576a86af66fdc31d.svg"
+}

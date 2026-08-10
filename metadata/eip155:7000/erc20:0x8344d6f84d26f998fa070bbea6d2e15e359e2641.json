@@ -1,0 +1,7 @@
+{
+  "name": "USDC.SOL",
+  "symbol": "USDC.SOL",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:7000/erc20:0x8344d6f84d26f998fa070bbea6d2e15e359e2641.svg"
+}

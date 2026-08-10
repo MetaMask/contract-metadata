@@ -1,0 +1,7 @@
+{
+  "name": "USDC.BSC",
+  "symbol": "USDC.BSC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:7000/erc20:0x05ba149a7bd6dc1f937fa9046a9e05c05f3b18b0.svg"
+}

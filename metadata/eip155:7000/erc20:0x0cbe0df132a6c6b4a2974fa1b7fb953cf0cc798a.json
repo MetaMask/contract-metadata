@@ -1,0 +1,7 @@
+{
+  "name": "USDC.ETH",
+  "symbol": "USDC.ETH",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:7000/erc20:0x0cbe0df132a6c6b4a2974fa1b7fb953cf0cc798a.svg"
+}
