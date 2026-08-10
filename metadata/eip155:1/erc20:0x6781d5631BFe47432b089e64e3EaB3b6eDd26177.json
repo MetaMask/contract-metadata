@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x6781d5631BFe47432b089e64e3EaB3b6eDd26177.svg",
+  "name": "JPYSC",
+  "symbol": "JPYSC",
+  "decimals": 18,
+  "erc20": true
+}
