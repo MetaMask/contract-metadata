@@ -1,0 +1,7 @@
+{
+"name": "sPIKU Staked Utility Token",
+"symbol": "sPIKU",
+"decimals": 18,
+"erc20": true,
+"logo": "./icons/eip155:1/erc20:0x5Da17CA137f1128d4be7Ce574bc61f3ac4839Df8.svg"
+}
