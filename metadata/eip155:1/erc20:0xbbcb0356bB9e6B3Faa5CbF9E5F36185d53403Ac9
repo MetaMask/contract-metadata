@@ -1,0 +1,9 @@
+{
+  "eip155:1/erc20:0xbbcb0356bB9e6B3Faa5CbF9E5F36185d53403Ac9": {
+    "name": "Backed Coinbase Global",
+    "symbol": "bCOIN",
+    "decimals": 18,
+    "erc20": true,
+    "logo": "./icons/eip155:1/erc20:0xbbcb0356bB9e6B3Faa5CbF9E5F36185d53403Ac9.svg"
+  }
+}

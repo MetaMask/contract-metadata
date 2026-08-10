@@ -1,0 +1,9 @@
+{
+  "eip155:1/erc20:0xEbee37Aaf2905b7BdA7E3b928043862e982E8F32": {
+    "name": "Backed Alphabet Inc",
+    "symbol": "bGOOGL",
+    "decimals": 18,
+    "erc20": true,
+    "logo": "./icons/eip155:1/erc20:0xEbee37Aaf2905b7BdA7E3b928043862e982E8F32.svg"
+  }
+}

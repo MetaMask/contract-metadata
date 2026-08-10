@@ -1,0 +1,9 @@
+{
+  "eip155:1/erc20:0x2f11EeeE0bf21E7661A22dbBbb9068F4ad191b86": {
+    "name": "Backed Niu Technologies",
+    "symbol": "bNIU",
+    "decimals": 18,
+    "erc20": true,
+    "logo": "./icons/eip155:1/erc20:0x2f11EeeE0bf21E7661A22dbBbb9068F4ad191b86.svg"
+  }
+}
