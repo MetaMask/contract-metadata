@@ -584,6 +584,13 @@
     "symbol": "ARIA20",
     "decimals": 18
   },
+  "0x45B239Cc0a760D1AFd276B749141c7E404844Ee6": {
+    "name": "Community Token",
+    "logo": "comtmeta.png",
+    "erc20": true,
+    "symbol": "COMT",
+    "decimals": 18
+  },
   "0x88D8DA2A8D0fA5b1f4E38030AC486aDE0AFA2798": {
     "name": "Terrapass Coin",
     "logo": "tpsc.svg",
