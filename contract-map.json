@@ -3671,13 +3671,6 @@
     "symbol": "SAND",
     "decimals": 18
   },
-  "0xcc7ab8d78dBA187dC95bF3bB86e65E0C26d0041f": {
-    "name": "Spacelens",
-    "logo": "SPACE.svg",
-    "erc20": true,
-    "symbol": "SPACE",
-    "decimals": 18
-  },
   "0x50f5474724e0Ee42D9a4e711ccFB275809Fd6d4a": {
     "name": "Sandbox's LANDs",
     "logo": "SAND.svg",
@@ -4406,6 +4399,27 @@
     "erc721": false,
     "symbol": "QUICK",
     "decimals": 18
+  },
+  "0x866A2BF4E572CbcF37D5071A7a58503Bfb36be1b":{
+    "name": "M by M^0",
+    "logo": "m-by-m-0.svg",
+    "erc20": true,
+    "symbol": "M",
+    "decimals": 6
+  },
+  "0x988567FE094570cCE1FFdA29D1f2d842B70492be":{
+    "name": "Zero by M^0",
+    "logo": "zero-by-m-0.svg",
+    "erc20": true,
+    "symbol": "ZERO",
+    "decimals": 6
+  },
+  "0x5983B89FA184f14917013B9C3062afD9434C5b03":{
+    "name": "Power by M^0",
+    "logo": "power-by-m-0.svg",
+    "erc20": true,
+    "symbol": "POWER",
+    "decimals": 0
   },
   "0x2be5e8c109e2197D077D13A82dAead6a9b3433C5": {
     "name": "Tokamak Network Token",
