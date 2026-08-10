@@ -1132,6 +1132,13 @@
     "symbol": "EURe",
     "decimals": 18
   },
+  "0x820802Fa8a99901F52e39acD21177b0BE6EE2974": {
+    "name": "EUROe Stablecoin",
+    "logo": "EUROe.svg",
+    "erc20": true,
+    "symbol": "EUROe",
+    "decimals": 6
+  },
   "0x7ba92741Bf2A568abC6f1D3413c58c6e0244F8fD": {
     "name": "Monerium GBP",
     "logo": "GBPe.svg",
