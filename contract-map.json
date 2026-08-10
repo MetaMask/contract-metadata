@@ -3876,6 +3876,13 @@
     "symbol": "SPWN",
     "decimals": 18
   },
+ "0xFAfD4CB703B25CB22f43D017e7e0d75FEBc26743": {
+    "name": "WEYU",
+    "logo": "WEYU.PNG",
+    "erc20": true,
+    "symbol": "WEYU",
+    "decimals": 18
+  },
   "0xB16e967ff83DE3F1e9FCeAfbc2C28c1c5c56eF91": {
     "name": "Polkadog",
     "logo": "polkadog.svg",
