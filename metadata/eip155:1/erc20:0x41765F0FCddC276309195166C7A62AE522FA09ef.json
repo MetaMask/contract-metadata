@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x41765F0FCddC276309195166C7A62AE522FA09ef.svg",
+  "name": "Alibaba (Ondo Tokenized)",
+  "symbol": "BABAon",
+  "decimals": 18,
+  "erc20": true
+}

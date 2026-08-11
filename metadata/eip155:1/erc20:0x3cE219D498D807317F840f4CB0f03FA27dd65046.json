@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x3cE219D498D807317F840f4CB0f03FA27dd65046.svg",
+  "name": "PepsiCo (Ondo Tokenized)",
+  "symbol": "PEPon",
+  "decimals": 18,
+  "erc20": true
+}

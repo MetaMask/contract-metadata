@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x390a684EF9cADE28A7AD0DFa61AB1Eb3842618c4.svg",
+  "name": "Apple (Ondo Tokenized)",
+  "symbol": "AAPLon",
+  "decimals": 18,
+  "erc20": true
+}

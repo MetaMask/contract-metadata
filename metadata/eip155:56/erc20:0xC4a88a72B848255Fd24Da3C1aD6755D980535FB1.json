@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xC4a88a72B848255Fd24Da3C1aD6755D980535FB1.svg",
+  "name": "Riot Platforms (Ondo Tokenized)",
+  "symbol": "RIOTon",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xE4E12c9CEc3e8cAE405202A97f66AFA695075fa0.svg",
+  "name": "Equinix (Ondo Tokenized)",
+  "symbol": "EQIXon",
+  "decimals": 18,
+  "erc20": true
+}

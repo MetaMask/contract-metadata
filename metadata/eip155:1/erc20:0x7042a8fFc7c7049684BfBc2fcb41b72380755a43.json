@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x7042a8fFc7c7049684BfBc2fcb41b72380755a43.svg",
+  "name": "Adobe (Ondo Tokenized)",
+  "symbol": "ADBEon",
+  "decimals": 18,
+  "erc20": true
+}

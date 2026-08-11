@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x1fb5a8DCd70bE750a97Eaf8a47bBe74Ab7d3183e.svg",
+  "name": "Waste Management (Ondo Tokenized)",
+  "symbol": "WMon",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x5A9D924FC336A5EC8cf3B1909aA660533B50b015.svg",
+  "name": "Enlivex Therapeutics (Ondo Tokenized)",
+  "symbol": "ENLVon",
+  "decimals": 18,
+  "erc20": true
+}

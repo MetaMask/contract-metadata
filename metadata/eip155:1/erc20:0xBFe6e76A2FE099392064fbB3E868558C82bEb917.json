@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xBFe6e76A2FE099392064fbB3E868558C82bEb917.svg",
+  "name": "VinFast Auto (Ondo Tokenized)",
+  "symbol": "VFSon",
+  "decimals": 18,
+  "erc20": true
+}

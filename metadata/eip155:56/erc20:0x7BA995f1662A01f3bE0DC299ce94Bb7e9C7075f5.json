@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x7BA995f1662A01f3bE0DC299ce94Bb7e9C7075f5.svg",
+  "name": "BigBear.ai Holdings (Ondo Tokenized)",
+  "symbol": "BBAIon",
+  "decimals": 18,
+  "erc20": true
+}

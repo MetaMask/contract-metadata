@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xB2924278cc92E60DB9b673d6A311d7a331dD703D.svg",
+  "name": "Snap (Ondo Tokenized)",
+  "symbol": "SNAPon",
+  "decimals": 18,
+  "erc20": true
+}

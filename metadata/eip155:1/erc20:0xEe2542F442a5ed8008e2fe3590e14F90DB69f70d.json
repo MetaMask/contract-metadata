@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xEe2542F442a5ed8008e2fe3590e14F90DB69f70d.svg",
+  "name": "NIO (Ondo Tokenized)",
+  "symbol": "NIOon",
+  "decimals": 18,
+  "erc20": true
+}
