@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:196/erc20:0x0000000000000000000000000000000000000000.svg",
+  "name": "OKB",
+  "symbol": "OKB",
+  "decimals": 18,
+  "erc20": false
+}
