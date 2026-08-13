@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0x020bfC650A365f8BB26819deAAbF3E21291018b4.png",
+  "name": "Cash Cat",
+  "symbol": "CASHCAT",
+  "decimals": 18,
+  "erc20": true
+}

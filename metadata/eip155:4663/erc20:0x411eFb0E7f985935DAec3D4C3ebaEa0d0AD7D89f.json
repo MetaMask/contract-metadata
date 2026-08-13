@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0x411eFb0E7f985935DAec3D4C3ebaEa0d0AD7D89f.png",
+  "name": "iShares Silver Trust (Robinhood)",
+  "symbol": "SLV",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0x4a0E65A3EcceC6dBe60AE065F2e7bb85Fae35eEa.png",
+  "name": "Space Exploration Technologies Corp (Robinhood)",
+  "symbol": "SPCX",
+  "decimals": 18,
+  "erc20": true
+}

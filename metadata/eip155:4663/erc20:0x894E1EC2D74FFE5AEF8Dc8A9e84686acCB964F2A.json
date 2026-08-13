@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0x894E1EC2D74FFE5AEF8Dc8A9e84686acCB964F2A.png",
+  "name": "Palantir Technologies (Robinhood)",
+  "symbol": "PLTR",
+  "decimals": 18,
+  "erc20": true
+}

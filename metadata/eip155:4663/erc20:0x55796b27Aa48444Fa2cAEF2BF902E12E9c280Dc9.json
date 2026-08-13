@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0x55796b27Aa48444Fa2cAEF2BF902E12E9c280Dc9.png",
+  "name": "ROBIN",
+  "symbol": "ROBIN",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0xB90A19fF0Af67f7779afF50A882A9CfF42446400.png",
+  "name": "Sandisk Corporation (Robinhood)",
+  "symbol": "SNDK",
+  "decimals": 18,
+  "erc20": true
+}

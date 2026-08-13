@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0x56A98Db16Cf501b686c14BA00a5DeC02E87083FA.png",
+  "name": "Robinfun",
+  "symbol": "ROBINFUN",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "name": "XLM",
+  "symbol": "XLM",
+  "decimals": 7,
+  "erc20": false,
+  "logo": "./icons/stellar:pubnet/slip44:148.svg"
+}

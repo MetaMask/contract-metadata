@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0xaF3D76f1834A1d425780943C99Ea8A608f8a93f9.png",
+  "name": "Apple (Robinhood)",
+  "symbol": "AAPL",
+  "decimals": 18,
+  "erc20": true
+}

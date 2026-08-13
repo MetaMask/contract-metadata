@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3.png",
+  "name": "Alphabet Class A (Robinhood)",
+  "symbol": "GOOGL",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0xd917B029C761D264c6A312BBbcDA868658eF86a6.png",
+  "name": "USA Rare Earth (Robinhood)",
+  "symbol": "USAR",
+  "decimals": 18,
+  "erc20": true
+}

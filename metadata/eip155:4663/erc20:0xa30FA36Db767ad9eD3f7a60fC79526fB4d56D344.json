@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0xa30FA36Db767ad9eD3f7a60fC79526fB4d56D344.png",
+  "name": "United States Oil Fund (Robinhood)",
+  "symbol": "USO",
+  "decimals": 18,
+  "erc20": true
+}

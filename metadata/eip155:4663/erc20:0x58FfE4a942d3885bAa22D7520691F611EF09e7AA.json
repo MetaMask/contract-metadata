@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0x58FfE4a942d3885bAa22D7520691F611EF09e7AA.png",
+  "name": "Taiwan Semiconductor Manufacturing (Robinhood)",
+  "symbol": "TSM",
+  "decimals": 18,
+  "erc20": true
+}

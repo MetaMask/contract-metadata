@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0x5f10A1C971B69e47e059e1dC91901B59b3fB49C3.png",
+  "name": "CoreWeave (Robinhood)",
+  "symbol": "CRWV",
+  "decimals": 18,
+  "erc20": true
+}

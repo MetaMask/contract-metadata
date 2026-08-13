@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0x322F0929c4625eD5bAd873c95208D54E1c003b2d.png",
+  "name": "Tesla (Robinhood)",
+  "symbol": "TSLA",
+  "decimals": 18,
+  "erc20": true
+}

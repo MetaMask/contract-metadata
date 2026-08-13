@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0x01637b14B7378B99dE75A64d50656d98488D9a4d.png",
+  "name": "Lady Marian",
+  "symbol": "MARIAN",
+  "decimals": 18,
+  "erc20": true
+}

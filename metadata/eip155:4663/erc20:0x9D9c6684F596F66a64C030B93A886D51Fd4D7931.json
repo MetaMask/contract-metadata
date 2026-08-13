@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0x9D9c6684F596F66a64C030B93A886D51Fd4D7931.png",
+  "name": "Nebius Group (Robinhood)",
+  "symbol": "NBIS",
+  "decimals": 18,
+  "erc20": true
+}

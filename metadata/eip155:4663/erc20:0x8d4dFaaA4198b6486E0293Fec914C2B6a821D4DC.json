@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0x8d4dFaaA4198b6486E0293Fec914C2B6a821D4DC.png",
+  "name": "Kitsu",
+  "symbol": "KITSU",
+  "decimals": 18,
+  "erc20": true
+}

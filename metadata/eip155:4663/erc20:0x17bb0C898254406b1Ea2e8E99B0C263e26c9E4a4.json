@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0x17bb0C898254406b1Ea2e8E99B0C263e26c9E4a4.png",
+  "name": "Dog In Hood",
+  "symbol": "DIH",
+  "decimals": 18,
+  "erc20": true
+}

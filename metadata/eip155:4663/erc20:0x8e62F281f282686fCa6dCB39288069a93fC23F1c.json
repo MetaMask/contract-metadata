@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0x8e62F281f282686fCa6dCB39288069a93fC23F1c.png",
+  "name": "Hoodrat",
+  "symbol": "HOODRAT",
+  "decimals": 18,
+  "erc20": true
+}

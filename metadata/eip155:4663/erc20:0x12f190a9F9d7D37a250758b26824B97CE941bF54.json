@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0x12f190a9F9d7D37a250758b26824B97CE941bF54.png",
+  "name": "Amazon (Robinhood)",
+  "symbol": "AMZN",
+  "decimals": 18,
+  "erc20": true
+}

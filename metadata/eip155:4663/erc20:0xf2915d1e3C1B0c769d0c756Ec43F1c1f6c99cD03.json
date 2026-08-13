@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0xf2915d1e3C1B0c769d0c756Ec43F1c1f6c99cD03.png",
+  "name": "Arrow",
+  "symbol": "ARROW",
+  "decimals": 18,
+  "erc20": true
+}
