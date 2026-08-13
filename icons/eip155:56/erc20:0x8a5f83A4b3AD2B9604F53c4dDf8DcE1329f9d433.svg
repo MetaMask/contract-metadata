@@ -1,15 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40"><circle cx="20" cy="20" r="20" fill="#eadefe"/><rect x="6" y="6" width="28" height="28" rx="7.9799999999999995" ry="7.9799999999999995" fill="#7326f5"/><g transform="translate(11.32, 13.602144702842377)"><svg width="17.36" height="12.795710594315244" viewBox="0 0 1548 1141" xmlns="http://www.w3.org/2000/svg">
-	<title xmlns="http://www.w3.org/2000/svg">NVMI_BIG</title>
-	<defs xmlns="http://www.w3.org/2000/svg">
-		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(939.528,603.11,-175.018,272.645,543.996,512.166)">
-			<stop offset="0" stop-color="#ffffff"/>
-			<stop offset=".05" stop-color="#ffffff"/>
-			<stop offset=".49" stop-color="#ffffff"/>
-			<stop offset=".82" stop-color="#ffffff"/>
-			<stop offset="1" stop-color="#ffffff"/>
-		</linearGradient>
-	</defs>
-	
-	<path xmlns="http://www.w3.org/2000/svg" class="s0" d="m1358.8 0.2l-1358.4 1139.6h327.5l1006.5-846.4v689.4l107.4-29.7 105.6-4.6v-948.3z" fill="#ffffff"/>
-	<path xmlns="http://www.w3.org/2000/svg" class="s1" d="m1539.3 945.4c-162.9 0-323.1-40.6-466.1-118.7-142.5-78-263.5-190.8-351-328-24.3-37.9-46.5-77.6-65.4-119.1l-153.4 129.5c16.7 32.5 34.7 64.1 54.6 95.6 105.1 164.3 250.4 300.1 421.8 393.5 171.5 93.8 364.1 143 559.9 142.5h7.7v-195.3z" fill="#ffffff"/>
-</svg></g></svg>
+<!-- by TradingView --><svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56"><path fill="#F0F3FA" d="M0 0h56v56H0z"/><path d="M8 25.8V33H6V23h1.46L16 30.1V23h2v10h-1.25L8 25.8Z" fill="#071866"/><path fill-rule="evenodd" d="M24.5 33a5 5 0 1 0 0-10 5 5 0 0 0 0 10Zm0-2a3 3 0 1 0 0-6 3 3 0 0 0 0 6Z" fill="#071866"/><path d="M42.33 23 33 30.47V23h-2v10h2l12.52-10h-3.19ZM36.71 33l11.7-10H50v10l-2-1v-6.08L39.87 33H36.7Z" fill="#071866"/><path d="M42.6 26a6.94 6.94 0 0 0 3.53 4.11c1.36.71 2.7.92 3.87.75V33c-1.47 0-3.16-.15-4.72-.96A9.25 9.25 0 0 1 41 27.42L42.6 26Z" fill="url(#apjo2z1su)"/><defs><linearGradient id="apjo2z1su" x1="41.67" y1="27.14" x2="49.81" y2="31.35" gradientUnits="userSpaceOnUse"><stop stop-color="#A30B9E"/><stop offset="1" stop-color="#720DFD"/></linearGradient></defs></svg>

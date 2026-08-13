@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x274B0cB6DB9473245A31cDEA9B789786f4108e4B.svg",
+  "name": "Caterpillar (Ondo Tokenized)",
+  "symbol": "CATon",
+  "decimals": 18,
+  "erc20": true
+}

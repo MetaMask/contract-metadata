@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x4Fd67CB8CFEdc718BAc984b5936abE3330d0a2A4.svg",
+  "name": "SanDisk (Ondo Tokenized)",
+  "symbol": "SNDKon",
+  "decimals": 18,
+  "erc20": true
+}

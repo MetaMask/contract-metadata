@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xf2C24c47805f4f72d3919C8674bFDd401505794B.svg",
+  "name": "Vistra (Ondo Tokenized)",
+  "symbol": "VSTon",
+  "decimals": 18,
+  "erc20": true
+}

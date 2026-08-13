@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x0e3D889D5B857C3e6eb361B9C9aE35bb7DdbD254.svg",
+  "name": "Verizon (Ondo Tokenized)",
+  "symbol": "VZon",
+  "decimals": 18,
+  "erc20": true
+}

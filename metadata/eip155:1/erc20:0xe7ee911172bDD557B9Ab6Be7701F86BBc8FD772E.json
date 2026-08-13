@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xe7ee911172bDD557B9Ab6Be7701F86BBc8FD772E.svg",
+  "name": "Plug Power (Ondo Tokenized)",
+  "symbol": "PLUGon",
+  "decimals": 18,
+  "erc20": true
+}

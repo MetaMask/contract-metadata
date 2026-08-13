@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xC017C622cd05698580E2decD0F97d4A17DaB70F9.svg",
+  "name": "Pinterest (Ondo Tokenized)",
+  "symbol": "PINSon",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xD3113A0AD20a46F6a662C63fe8E637f7713E59c7.svg",
+  "name": "Chevron (Ondo Tokenized)",
+  "symbol": "CVXon",
+  "decimals": 18,
+  "erc20": true
+}

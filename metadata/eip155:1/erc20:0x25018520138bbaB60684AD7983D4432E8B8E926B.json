@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x25018520138bbaB60684AD7983D4432E8B8E926B.svg",
+  "name": "Chipotle (Ondo Tokenized)",
+  "symbol": "CMGon",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x1b468d5535Ed7C19Ce42f0073db7Fdf441028131.svg",
+  "name": "Albemarle (Ondo Tokenized)",
+  "symbol": "ALBon",
+  "decimals": 18,
+  "erc20": true
+}

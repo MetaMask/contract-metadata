@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xC142ba8ccD36d80C3a001342fb83E4C3d218A873.svg",
+  "name": "Super Micro Computer (Ondo Tokenized)",
+  "symbol": "SMCIon",
+  "decimals": 18,
+  "erc20": true
+}

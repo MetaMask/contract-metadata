@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x55720eF5b023Fd043AE5F8D2e526030207978950.svg",
+  "name": "Salesforce (Ondo Tokenized)",
+  "symbol": "CRMon",
+  "decimals": 18,
+  "erc20": true
+}

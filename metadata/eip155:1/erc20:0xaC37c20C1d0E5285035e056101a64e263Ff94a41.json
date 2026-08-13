@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xaC37c20C1d0E5285035e056101a64e263Ff94a41.svg",
+  "name": "Visa (Ondo Tokenized)",
+  "symbol": "Von",
+  "decimals": 18,
+  "erc20": true
+}

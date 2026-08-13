@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xFe4eC50E0413148021d2f50d114CC44De6fFBF23.svg",
+  "name": "Carvana (Ondo Tokenized)",
+  "symbol": "CVNAon",
+  "decimals": 18,
+  "erc20": true
+}

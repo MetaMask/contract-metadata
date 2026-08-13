@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x8Ce34F749796F82A6990fFa2d80622ef75CA7aD5.svg",
+  "name": "Northrop Grumman (Ondo Tokenized)",
+  "symbol": "NOCon",
+  "decimals": 18,
+  "erc20": true
+}

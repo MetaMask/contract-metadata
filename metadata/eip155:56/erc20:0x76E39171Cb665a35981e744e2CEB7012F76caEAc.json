@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x76E39171Cb665a35981e744e2CEB7012F76caEAc.svg",
+  "name": "CoreWeave (Ondo Tokenized)",
+  "symbol": "CRWVon",
+  "decimals": 18,
+  "erc20": true
+}

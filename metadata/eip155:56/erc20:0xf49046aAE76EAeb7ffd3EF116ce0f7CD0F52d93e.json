@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xf49046aAE76EAeb7ffd3EF116ce0f7CD0F52d93e.svg",
+  "name": "MasTec (Ondo Tokenized)",
+  "symbol": "MTZon",
+  "decimals": 18,
+  "erc20": true
+}
