@@ -32,41 +32,18 @@
     <stop offset="1" stop-color="#fff" stop-opacity=".28"/>
   </linearGradient>
 
-<!-- outer background gradient: top half / bottom half -->
 <linearGradient id="bgGrad" x1="0" y1="0" x2="0" y2="1">
   <stop offset="0" stop-color="#231551"/>
   <stop offset="1" stop-color="#21144D"/>
 </linearGradient>
 
-  <filter id="soft" x="-10%" y="-10%" width="120%" height="120%">
-    <feGaussianBlur stdDeviation="1.2"/>
-  </filter>
-  <filter id="panelShadow" x="-30%" y="-30%" width="160%" height="160%">
-    <feDropShadow dx="0" dy="10" stdDeviation="10" flood-color="#000000" flood-opacity="0.45"/>
-  </filter>
-  <filter id="glowBlur" x="-60%" y="-60%" width="220%" height="220%">
-    <feGaussianBlur stdDeviation="7"/>
-  </filter>
-  <filter id="glintBlur" x="-100%" y="-100%" width="300%" height="300%">
-    <feGaussianBlur stdDeviation="4"/>
-  </filter>
 </defs>
 
 <rect width="512" height="512" rx="128" ry="128" fill="url(#bgGrad)"/>
 
-<!-- dark screen panel behind the logo -->
-<rect x="44" y="143" width="424" height="226" rx="20" ry="20"
-      fill="url(#panelGrad)" filter="url(#panelShadow)"/>
-<!-- <rect x="44.5" y="143.5" width="423" height="225" rx="19.5" ry="19.5"
-      fill="none" stroke="#3a3168" stroke-width="1" opacity=".5"/> -->
-
-<!-- small top glint -->
-<!-- <path d="M346 138 L360 152 L332 152 Z" fill="#bfe9ff" opacity=".4" filter="url(#glintBlur)"/> -->
-
 <g transform="translate(-74.27 37.14) scale(0.4952)">
 
-<!-- outer neon glow silhouette (drawn behind the colored artwork) -->
-<g filter="url(#glowBlur)" opacity=".85">
+<g opacity=".35">
   <path d="M618 238
            L684 239 C713 240 735 250 754 268
            L1080 645
@@ -109,7 +86,6 @@
            Z" fill="#f6d3fb"/>
 </g>
 
-<!-- rear X stroke -->
 <path d="M618 238
          L684 239 C713 240 735 250 754 268
          L1080 645
