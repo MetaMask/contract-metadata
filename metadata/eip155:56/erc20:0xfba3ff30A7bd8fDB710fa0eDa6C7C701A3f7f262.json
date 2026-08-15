@@ -1,0 +1,7 @@
+{
+  "name": "BitcoinBR",
+  "symbol": "BTCBR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xfba3ff30A7bd8fDB710fa0eDa6C7C701A3f7f262.png"
+}
