@@ -1,0 +1,7 @@
+{
+  "name": "sELUSD",
+  "symbol": "sELUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x2Cd7Dc2E7446E3DB781900218B90d7bb856E255a.svg"
+}
