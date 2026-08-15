@@ -1,0 +1,7 @@
+{
+  "name": "Pitch Lucy AI",
+  "symbol": "LUCYA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:7000/erc20:0xe102f20347D601C08E9f998475b7c9998b498deE.svg"
+}
