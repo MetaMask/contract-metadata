@@ -1,5 +1,7 @@
 {
   "name": "USDT for SUBS Test",
   "symbol": "USDT",
-  "decimals": 6
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x9433EcF38f9168b265c161585d41b18c35262d7C.png"
 }
