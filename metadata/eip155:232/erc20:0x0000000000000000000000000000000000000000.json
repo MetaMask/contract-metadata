@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:232/erc20:0x0000000000000000000000000000000000000000.svg",
+  "name": "GHO",
+  "symbol": "GHO",
+  "decimals": 18,
+  "erc20": false
+}

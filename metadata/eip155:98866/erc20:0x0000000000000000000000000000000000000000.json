@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:98866/erc20:0x0000000000000000000000000000000000000000.svg",
+  "name": "PLUME",
+  "symbol": "PLUME",
+  "decimals": 18,
+  "erc20": false
+}

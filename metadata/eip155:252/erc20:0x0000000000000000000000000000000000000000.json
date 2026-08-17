@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:252/erc20:0x0000000000000000000000000000000000000000.svg",
+  "name": "FRAX",
+  "symbol": "FRAX",
+  "decimals": 18,
+  "erc20": false
+}
