@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x3b8816b51D2b71840129C0A5c21dAaf899085CF8.svg",
+  "name": "evonDex Token",
+  "symbol": "EVDEX",
+  "decimals": 18,
+  "erc20": true
+}
