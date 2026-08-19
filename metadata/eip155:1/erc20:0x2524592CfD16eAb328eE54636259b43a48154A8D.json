@@ -3,5 +3,5 @@
   "symbol": "CUBIT",
   "decimals": 8,
   "erc20": true,
-  "logo": "./icons/eip155:1/erc20:0x2524592CfD16eAb328eE54636259b43a48154A8D.png"
+  "logo": "./icons/eip155:1/erc20:0x2524592CfD16eAb328eE54636259b43a48154A8D.svg"
 }
