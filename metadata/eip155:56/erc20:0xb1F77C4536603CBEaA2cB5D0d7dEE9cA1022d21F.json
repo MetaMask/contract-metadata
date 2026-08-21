@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xb1F77C4536603CBEaA2cB5D0d7dEE9cA1022d21F.png",
+  "name": "AetheriumX BNB Smart Chain USD",
+  "symbol": "xBnbUSDT",
+  "decimals": 18,
+  "erc20": true
+}
