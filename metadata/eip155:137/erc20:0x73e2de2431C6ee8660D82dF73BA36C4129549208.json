@@ -1,0 +1,7 @@
+{
+  "name": "USDTz",
+  "symbol": "USDTz",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0x73e2de2431C6ee8660D82dF73BA36C4129549208.svg"
+}
