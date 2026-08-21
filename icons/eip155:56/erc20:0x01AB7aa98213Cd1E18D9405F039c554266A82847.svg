@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="42%" r="68%">
+      <stop offset="0" stop-color="#363C42"/>
+      <stop offset="1" stop-color="#171B1F"/>
+    </radialGradient>
+    <linearGradient id="orange" x1="96" y1="96" x2="416" y2="416" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFB13B"/>
+      <stop offset="0.52" stop-color="#FF6A1A"/>
+      <stop offset="1" stop-color="#FF3D12"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="88" fill="url(#bg)"/>
+  <circle cx="256" cy="256" r="224" fill="none" stroke="#495159" stroke-width="3"/>
+  <path d="M420 318A184 184 0 1 0 316 430" fill="none" stroke="url(#orange)" stroke-width="34" stroke-linecap="round"/>
+  <polygon points="256,135 335,214 302,247 256,201 210,247 177,214" fill="url(#orange)"/>
+  <polygon points="147,258 184,221 221,258 184,295" fill="url(#orange)"/>
+  <polygon points="365,258 328,221 291,258 328,295" fill="url(#orange)"/>
+  <polygon points="256,213 301,258 256,303 211,258" fill="url(#orange)"/>
+  <polygon points="177,302 210,269 256,315 302,269 335,302 256,381" fill="url(#orange)"/>
+  <path d="M376 372C391 372 401 384 409 399C417 414 426 421 438 422" fill="none" stroke="#FF5A17" stroke-width="9" stroke-linecap="round"/>
+  <path d="M438 373C423 373 414 384 407 399C399 414 390 422 377 422" fill="none" stroke="#FF5A17" stroke-width="9" stroke-linecap="round"/>
+</svg>
