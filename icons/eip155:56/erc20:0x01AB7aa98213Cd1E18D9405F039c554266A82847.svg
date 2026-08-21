@@ -1,23 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">xBnbWBNB</title>
+  <desc id="desc">AetheriumX BNB staking voucher token icon</desc>
   <defs>
-    <radialGradient id="bg" cx="50%" cy="42%" r="68%">
-      <stop offset="0" stop-color="#363C42"/>
-      <stop offset="1" stop-color="#171B1F"/>
-    </radialGradient>
-    <linearGradient id="orange" x1="96" y1="96" x2="416" y2="416" gradientUnits="userSpaceOnUse">
+    <linearGradient id="xbnb-orange" x1="96" y1="72" x2="420" y2="438" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#FFB13B"/>
-      <stop offset="0.52" stop-color="#FF6A1A"/>
+      <stop offset="0.55" stop-color="#FF711C"/>
       <stop offset="1" stop-color="#FF3D12"/>
     </linearGradient>
   </defs>
-  <rect width="512" height="512" rx="88" fill="url(#bg)"/>
-  <circle cx="256" cy="256" r="224" fill="none" stroke="#495159" stroke-width="3"/>
-  <path d="M420 318A184 184 0 1 0 316 430" fill="none" stroke="url(#orange)" stroke-width="34" stroke-linecap="round"/>
-  <polygon points="256,135 335,214 302,247 256,201 210,247 177,214" fill="url(#orange)"/>
-  <polygon points="147,258 184,221 221,258 184,295" fill="url(#orange)"/>
-  <polygon points="365,258 328,221 291,258 328,295" fill="url(#orange)"/>
-  <polygon points="256,213 301,258 256,303 211,258" fill="url(#orange)"/>
-  <polygon points="177,302 210,269 256,315 302,269 335,302 256,381" fill="url(#orange)"/>
-  <path d="M376 372C391 372 401 384 409 399C417 414 426 421 438 422" fill="none" stroke="#FF5A17" stroke-width="9" stroke-linecap="round"/>
-  <path d="M438 373C423 373 414 384 407 399C399 414 390 422 377 422" fill="none" stroke="#FF5A17" stroke-width="9" stroke-linecap="round"/>
+  <rect width="512" height="512" fill="#171B20"/>
+  <circle cx="256" cy="256" r="238" fill="#252A30"/>
+  <path d="M331 431A188 188 0 1 1 431 310" fill="none" stroke="url(#xbnb-orange)" stroke-width="34" stroke-linecap="round"/>
+  <g transform="translate(124 124) scale(2.75)" fill="url(#xbnb-orange)">
+    <path d="M34.5355 42.4676L48.0002 29.0032L61.4717 42.4747L69.3063 34.6397L48.0002 13.3333L26.7007 34.6328L34.5355 42.4676ZM21.1683 40.1646L29.003 47.9993L21.1679 55.8344L13.3333 47.9997L21.1683 40.1646ZM34.5355 53.5322L48.0002 66.9962L61.4714 53.5254L69.3105 61.3562L69.3063 61.3602L48.0002 82.6666L26.7004 61.3672L26.6895 61.3564L34.5355 53.5322ZM82.6674 48.0007L74.8327 55.8353L66.9981 48.0007L74.8327 40.166L82.6674 48.0007Z"/>
+    <path d="M55.9466 47.996H55.9502L47.9999 40.0456L40.0457 47.9998L40.0565 48.0109L47.9999 55.9543L55.9539 47.9998L55.9466 47.996Z"/>
+  </g>
+  <g fill="url(#xbnb-orange)">
+    <path d="M355 346H374L405 386H386Z"/>
+    <path d="M405 346H386L353 386H372Z"/>
+  </g>
 </svg>

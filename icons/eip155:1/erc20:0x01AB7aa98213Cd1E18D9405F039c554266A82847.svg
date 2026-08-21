@@ -1,32 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">xEthWETH</title>
+  <desc id="desc">AetheriumX Ethereum WETH voucher token icon</desc>
   <defs>
-    <radialGradient id="bg" cx="50%" cy="42%" r="68%">
-      <stop offset="0" stop-color="#363C42"/>
-      <stop offset="1" stop-color="#171B1F"/>
-    </radialGradient>
-    <linearGradient id="orange" x1="96" y1="96" x2="416" y2="416" gradientUnits="userSpaceOnUse">
+    <linearGradient id="xeth-orange" x1="96" y1="72" x2="420" y2="438" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#FFB13B"/>
-      <stop offset="0.52" stop-color="#FF6A1A"/>
+      <stop offset="0.55" stop-color="#FF711C"/>
       <stop offset="1" stop-color="#FF3D12"/>
     </linearGradient>
-    <linearGradient id="ethLeft" x1="180" y1="130" x2="270" y2="300" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#FFE1B5"/>
-      <stop offset="1" stop-color="#FF8A22"/>
-    </linearGradient>
-    <linearGradient id="ethRight" x1="260" y1="130" x2="338" y2="300" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#FF8B2B"/>
-      <stop offset="1" stop-color="#FF4515"/>
-    </linearGradient>
   </defs>
-  <rect width="512" height="512" rx="88" fill="url(#bg)"/>
-  <circle cx="256" cy="256" r="224" fill="none" stroke="#495159" stroke-width="3"/>
-  <path d="M420 318A184 184 0 1 0 316 430" fill="none" stroke="url(#orange)" stroke-width="34" stroke-linecap="round"/>
-  <polygon points="256,118 162,270 256,226" fill="url(#ethLeft)"/>
-  <polygon points="256,118 350,270 256,226" fill="url(#ethRight)"/>
-  <polygon points="162,270 256,324 256,226" fill="#FF7419"/>
-  <polygon points="350,270 256,324 256,226" fill="#FF4A13"/>
-  <polygon points="166,289 256,405 256,342" fill="#FF9A2D"/>
-  <polygon points="346,289 256,405 256,342" fill="#FF5216"/>
-  <path d="M376 372C391 372 401 384 409 399C417 414 426 421 438 422" fill="none" stroke="#FF5A17" stroke-width="9" stroke-linecap="round"/>
-  <path d="M438 373C423 373 414 384 407 399C399 414 390 422 377 422" fill="none" stroke="#FF5A17" stroke-width="9" stroke-linecap="round"/>
+  <rect width="512" height="512" fill="#171B20"/>
+  <circle cx="256" cy="256" r="238" fill="#252A30"/>
+  <path d="M331 431A188 188 0 1 1 431 310" fill="none" stroke="url(#xeth-orange)" stroke-width="34" stroke-linecap="round"/>
+  <g>
+    <path d="M256 124V239L180 258Z" fill="#FFD08A"/>
+    <path d="M256 124L332 258L256 239Z" fill="url(#xeth-orange)"/>
+    <path d="M180 258L256 303V239Z" fill="#FF7E20"/>
+    <path d="M332 258L256 239V303Z" fill="#FF4A13"/>
+    <path d="M180 276L256 388V320Z" fill="#FF9B2A"/>
+    <path d="M332 276L256 388V320Z" fill="#FF5C17"/>
+  </g>
+  <g fill="url(#xeth-orange)">
+    <path d="M355 346H374L405 386H386Z"/>
+    <path d="M405 346H386L353 386H372Z"/>
+  </g>
 </svg>

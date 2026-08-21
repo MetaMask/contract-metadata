@@ -1,22 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">xBnbUSDT</title>
+  <desc id="desc">AetheriumX BNB Smart Chain USDT staking voucher token icon</desc>
   <defs>
-    <radialGradient id="bg" cx="50%" cy="42%" r="68%">
-      <stop offset="0" stop-color="#363C42"/>
-      <stop offset="1" stop-color="#171B1F"/>
-    </radialGradient>
-    <linearGradient id="orange" x1="96" y1="96" x2="416" y2="416" gradientUnits="userSpaceOnUse">
+    <linearGradient id="xusdt-orange" x1="96" y1="72" x2="420" y2="438" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#FFB13B"/>
-      <stop offset="0.52" stop-color="#FF6A1A"/>
+      <stop offset="0.55" stop-color="#FF711C"/>
       <stop offset="1" stop-color="#FF3D12"/>
     </linearGradient>
   </defs>
-  <rect width="512" height="512" rx="88" fill="url(#bg)"/>
-  <circle cx="256" cy="256" r="224" fill="none" stroke="#495159" stroke-width="3"/>
-  <path d="M420 318A184 184 0 1 0 316 430" fill="none" stroke="url(#orange)" stroke-width="34" stroke-linecap="round"/>
-  <path d="M172 163H340V213H283V365H229V213H172Z" fill="url(#orange)" stroke="#FFB23C" stroke-width="4" stroke-linejoin="round"/>
-  <ellipse cx="256" cy="253" rx="104" ry="31" fill="none" stroke="#FFB23C" stroke-width="16"/>
-  <ellipse cx="256" cy="253" rx="104" ry="31" fill="none" stroke="#FF5515" stroke-width="8"/>
-  <rect x="229" y="213" width="54" height="57" fill="url(#orange)"/>
-  <path d="M376 372C391 372 401 384 409 399C417 414 426 421 438 422" fill="none" stroke="#FF5A17" stroke-width="9" stroke-linecap="round"/>
-  <path d="M438 373C423 373 414 384 407 399C399 414 390 422 377 422" fill="none" stroke="#FF5A17" stroke-width="9" stroke-linecap="round"/>
+  <rect width="512" height="512" fill="#171B20"/>
+  <circle cx="256" cy="256" r="238" fill="#252A30"/>
+  <path d="M331 431A188 188 0 1 1 431 310" fill="none" stroke="url(#xusdt-orange)" stroke-width="34" stroke-linecap="round"/>
+  <path transform="translate(114 104) scale(3)" d="M53.1982 52.7846C52.8895 52.7846 51.1146 52.9389 47.3332 52.9389C44.2464 52.9389 42.1628 52.8617 41.3911 52.7846C29.7384 52.3215 20.941 50.2379 20.941 47.8457C20.941 45.3762 29.6612 43.3698 41.3911 42.8296V50.7781C42.1628 50.8553 44.3236 50.9325 47.4104 50.9325C51.0374 50.9325 52.8895 50.7781 53.1982 50.7781V42.8296C64.9281 43.3698 73.6484 45.3762 73.6484 47.8457C73.6484 50.2379 64.9281 52.3215 53.1982 52.7846ZM53.1982 41.9807V34.881H69.5583V24H25.1082V34.881H41.4683V41.9807C28.195 42.5981 18.24 45.2219 18.24 48.3859C18.24 51.5498 28.195 54.1736 41.4683 54.791V77.6334H53.2754V54.791C66.5487 54.1736 76.5037 51.5498 76.5037 48.3859C76.4265 45.2219 66.4715 42.5981 53.1982 41.9807Z" fill="url(#xusdt-orange)"/>
+  <g fill="url(#xusdt-orange)">
+    <path d="M355 346H374L405 386H386Z"/>
+    <path d="M405 346H386L353 386H372Z"/>
+  </g>
 </svg>
