@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x23ec765c63e0C1Dd2204734F58e1F8610C61D1FE.svg",
+  "name": "AetheriumX BTCB",
+  "symbol": "xBnbBTCB",
+  "decimals": 18,
+  "erc20": true
+}
