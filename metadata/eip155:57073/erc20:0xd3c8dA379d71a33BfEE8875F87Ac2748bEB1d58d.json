@@ -1,0 +1,7 @@
+{
+  "name": "uniBTC",
+  "symbol": "uniBTC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:57073/erc20:0xd3c8dA379d71a33BfEE8875F87Ac2748bEB1d58d.svg"
+}

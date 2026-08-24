@@ -1,0 +1,7 @@
+{
+  "name": "Re Protocol reUSD",
+  "symbol": "reUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:57073/erc20:0x5BCf6B008bf80b9296238546BaCE1797657B05d6.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "NVIDIA xStock",
+  "symbol": "NVDAx",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:57073/erc20:0xc845b2894dBddd03858fd2D643B4eF725fE0849d.svg"
+}
