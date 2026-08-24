@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:714/erc20:0x0000000000000000000000000000000000000000.svg",
+  "name": "Celestia",
+  "symbol": "TIA",
+  "decimals": 18,
+  "erc20": true
+}
