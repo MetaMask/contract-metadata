@@ -1,5 +1,5 @@
 {
-  "name": "ChainLink Token",
+  "name": "Chainlink Token",
   "symbol": "LINK",
   "decimals": 18,
   "erc20": true,

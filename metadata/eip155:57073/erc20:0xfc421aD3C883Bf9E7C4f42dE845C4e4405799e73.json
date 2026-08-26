@@ -1,5 +1,5 @@
 {
-  "name": "Gho Token",
+  "name": "GHO Token",
   "symbol": "GHO",
   "decimals": 18,
   "erc20": true,
