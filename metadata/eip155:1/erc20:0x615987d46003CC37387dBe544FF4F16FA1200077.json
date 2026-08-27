@@ -2,5 +2,5 @@
   "name": "NSDQ420",
   "symbol": "NSDQ",
   "decimals": 18,
-  "logo": "logo.png"
+  "logo": "./icons/eip155:1/erc20:0x615987d46003CC37387dBe544FF4F16FA1200077.svg"
 }
