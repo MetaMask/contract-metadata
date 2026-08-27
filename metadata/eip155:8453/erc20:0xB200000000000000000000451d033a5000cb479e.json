@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:8453/erc20:0xB200000000000000000000451d033a5000cb479e.svg",
+  "name": "Coinbase Wrapped Hyperliquid",
+  "symbol": "cbHYPE",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:8453/erc20:0xB2000000000000000000008501b13360000cb2EC.svg",
+  "name": "Coinbase Wrapped ZEC",
+  "symbol": "cbZEC",
+  "decimals": 8,
+  "erc20": true
+}
