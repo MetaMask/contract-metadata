@@ -1,0 +1,9 @@
+{
+  "eip155:1/erc20:0xB79aba668859704b30988aAB84AeB88F0467D892": {
+    "name": "USDTz",
+    "symbol": "USDTZ",
+    "decimals": 6,
+    "erc20": true,
+    "logo": "./icons/eip155:1/erc20:0xB79aba668859704b30988aAB84AeB88F0467D892.png"
+  }
+}
