@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:8453/erc20:0xB61618efBA89F893a516211323c3736D1dF4aB9A.svg",
+  "name": "CoinTracer",
+  "symbol": "CTR",
+  "decimals": 18,
+  "erc20": true
+}
