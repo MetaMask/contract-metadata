@@ -1,0 +1,9 @@
+{
+  "name": "Dragon TigerMan",
+  "symbol": "DTM",
+  "decimals": 18,
+  "address": "0x2C80c9D6B3d5C23E535CEf79f5EcC04cd18fd600",
+  "erc20": true,
+  "chainId": 56,
+  "logo": "images/0x2C80c9D6B3d5C23E535CEf79f5EcC04cd18fd600.svg"
+}
