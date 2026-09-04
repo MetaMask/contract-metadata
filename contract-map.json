@@ -146,6 +146,14 @@
     "symbol": "BST",
     "decimals": 18
   },
+  {
+  "0xd5eaAaC47bD1993d661bc087E15dfb079a7f3C19": {
+    "name": "Koma Inu",
+    "logo": "koma-inu.png",
+    "erc20": true,
+    "symbol": "KOMA",
+    "decimals": 18
+  },
   "0xccC8cb5229B0ac8069C51fd58367Fd1e622aFD97": {
     "name": "Gods Unchained",
     "logo": "gods.svg",
