@@ -1,0 +1,7 @@
+{
+  "name": "WBTC.ETH",
+  "symbol": "WBTC.ETH",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:7000/erc20:0xd0efed75622e7aa4555ee44f296da3744e3cee19.svg"
+}

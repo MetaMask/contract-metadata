@@ -1,0 +1,7 @@
+{
+  "name": "USDT.POL",
+  "symbol": "USDT.POL",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:7000/erc20:0xdbff6471a79e5374d771922f2194eccc42210b9f.svg"
+}

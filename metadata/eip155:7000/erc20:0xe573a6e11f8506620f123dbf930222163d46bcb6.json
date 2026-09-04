@@ -1,0 +1,7 @@
+{
+  "name": "ULTI.ETH",
+  "symbol": "ULTI.ETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:7000/erc20:0xe573a6e11f8506620f123dbf930222163d46bcb6.svg"
+}
