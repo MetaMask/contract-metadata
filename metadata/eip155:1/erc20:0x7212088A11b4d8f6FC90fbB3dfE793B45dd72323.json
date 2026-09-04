@@ -1,0 +1,9 @@
+{
+  "eip155:1/erc20:0x7212088A11b4d8f6FC90fbB3dfE793B45dd72323": {
+    "name": "Backed GameStop Corp",
+    "symbol": "bGME",
+    "decimals": 18,
+    "erc20": true,
+    "logo": "./icons/eip155:1/erc20:0x7212088A11b4d8f6FC90fbB3dfE793B45dd72323.svg"
+  }
+}

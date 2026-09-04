@@ -1,0 +1,9 @@
+{
+  "eip155:1/erc20:0x2F123cF3F37CE3328CC9B5b8415f9EC5109b45e7": {
+    "name": "Backed GOVIES 0-6 months EURO investment grade",
+    "symbol": "bC3MX",
+    "decimals": 18,
+    "erc20": true,
+    "logo": "./icons/eip155:1/erc20:0x2F123cF3F37CE3328CC9B5b8415f9EC5109b45e7.svg"
+  }
+}
