@@ -1,0 +1,7 @@
+{
+  "name": "Fautor",
+  "symbol": "FTR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD6C7bB8531295e88D364EA67D5D1acC7D3F87454.svg"
+}
