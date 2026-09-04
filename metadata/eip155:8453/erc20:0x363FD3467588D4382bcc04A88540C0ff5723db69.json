@@ -1,0 +1,7 @@
+{
+  "name": "CHOOCH",
+  "symbol": "CHOOCH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x363FD3467588D4382bcc04A88540C0ff5723db69.svg"
+}
