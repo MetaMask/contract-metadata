@@ -1,0 +1,8 @@
+{
+  "name": "Shuna Inuverse",
+  "symbol": "ShunaV2",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xDE72a052cbB212EFF11a4a33d61df9C5A2DE8dd1./ipfs/qmql9ieakrsh73zsbgfqscx1ulmne5fgdu2yzrs2kzjzuw/shunav2",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0f86d9845e68f8f99862f78a3cf884e5e07c22e5fcc1e274cc5c03233455d47c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

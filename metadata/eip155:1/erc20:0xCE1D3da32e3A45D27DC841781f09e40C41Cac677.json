@@ -1,0 +1,8 @@
+{
+  "name": "Data Link Base",
+  "symbol": "DLB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xCE1D3da32e3A45D27DC841781f09e40C41Cac677./ipfs/qmb1hjcsrwg3pdlhtdftps5rbuglbvjvaczkkkcbcbtw5u/dlb",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x70768a7cddecac9d7c19cfb14cd74d3037b68b83e7a2f6d32ce7f82d09d07d7b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

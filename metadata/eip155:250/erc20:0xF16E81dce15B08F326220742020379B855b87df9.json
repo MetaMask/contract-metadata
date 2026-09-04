@@ -1,0 +1,8 @@
+{
+  "name": "Popsicle Finance",
+  "symbol": "ICE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:250/erc20:0xF16E81dce15B08F326220742020379B855b87df9.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x772f25758ae01fd7a133ad24b6e68e139d5ec99011758fb68e10f8e24793eaa3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

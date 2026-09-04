@@ -1,0 +1,8 @@
+{
+  "name": "KONGZ Vault",
+  "symbol": "KONGZ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x5a235c0b4cB8D0E80a5c3bf4d2fAD5C32E440884./ipfs/qmbyamtagdyczfwbnahfwbaxeknz7s9elwpwq2gcx6amf7/kongz",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x723924691dcffcee3be187ddd88cf8995a11165318a4ccf4ff6afb2682d02683@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

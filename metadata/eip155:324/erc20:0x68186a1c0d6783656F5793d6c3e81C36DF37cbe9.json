@@ -1,0 +1,8 @@
+{
+  "name": "Scamfari",
+  "symbol": "SCM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x68186a1c0d6783656F5793d6c3e81C36DF37cbe9.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x640875fc22d84e316e7abfddc0cfc95898d35698b04575031597e8cd921947ea@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

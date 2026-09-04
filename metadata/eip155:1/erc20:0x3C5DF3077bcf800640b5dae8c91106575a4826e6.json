@@ -1,0 +1,8 @@
+{
+  "name": "Curve pBTC Pool yVault",
+  "symbol": "yvCurve-pBTC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3C5DF3077bcf800640b5dae8c91106575a4826e6./ipfs/qmfyy6cnilayh5covgwocb2sxndvrn6z2sxdwunn4aktc2/yvcurve-pbtc",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x13ae18dd9d9ce2641024dc586f9d96be2a206127e136ee6f4f2574ecdc11a5c8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

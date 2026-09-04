@@ -1,0 +1,8 @@
+{
+  "name": "PirateCash",
+  "symbol": "PIRATE",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xAFCc12e4040615E7AFE9Fb4330eB3D9120acac05.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3d596994ada2bf2a69abbbc69a4e8c96fcaea7188b539f88191309131aa22c4d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "First Digital USD",
+  "symbol": "FDUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xC5F0F7b66764f6EC8C8DFF7ba683102295E16409.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3da50ff1850551ab080f9d4340e4a0a204d7148be485e2b975a3576c406f050b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

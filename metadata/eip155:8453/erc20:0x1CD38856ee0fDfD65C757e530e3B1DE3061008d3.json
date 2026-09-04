@@ -1,0 +1,8 @@
+{
+  "name": "GROOVE",
+  "symbol": "GROOVE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x1CD38856ee0fDfD65C757e530e3B1DE3061008d3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb7e947866eb01378d4b67f4229f2b9bbd342a39a0780222387c0a47b315b7730@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

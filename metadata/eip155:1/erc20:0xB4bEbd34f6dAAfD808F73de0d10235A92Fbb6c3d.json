@@ -1,0 +1,8 @@
+{
+  "name": "Yearn Ecosystem Token Index",
+  "symbol": "YETI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB4bEbd34f6dAAfD808F73de0d10235A92Fbb6c3d./ipfs/qmvzrg3iyyzd8igk6ucxofknbaselk6mdgmde5ol6kzrzp/yeti",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5c0ea230497b44cb8f484757d467c6f840c2c23bffb6513706c57c481e7fc53f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

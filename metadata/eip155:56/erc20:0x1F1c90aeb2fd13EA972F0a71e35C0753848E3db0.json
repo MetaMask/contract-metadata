@@ -1,0 +1,8 @@
+{
+  "name": "Cheelee",
+  "symbol": "CHEEL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x1F1c90aeb2fd13EA972F0a71e35C0753848E3db0.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc0082cfb2ba900aab35c32abaa960173e2628dab365643473732731e092c1840@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

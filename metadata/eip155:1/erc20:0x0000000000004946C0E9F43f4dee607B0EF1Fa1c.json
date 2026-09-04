@@ -1,0 +1,8 @@
+{
+  "name": "Chi Gastoken",
+  "symbol": "CHI",
+  "decimals": 0,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0000000000004946C0E9F43f4dee607B0EF1Fa1c./ipfs/qmahdhla3qfstdmayzvurvrpch96y1q9bcesrauurx8iuv/bcd4zduk3qqxxw6jbqu33a8zspev9fvnzpwex3bunfia6x8k9lgdvcg2yjt7ocr4gizf9k882wymnwxjn14m9b44j8",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x47a0980aa9bdafa8f6e6eaccad3331b1a33423cfed35e809302b0a35b79ad164@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

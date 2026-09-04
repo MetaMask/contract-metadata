@@ -1,0 +1,8 @@
+{
+  "name": "Public Mint",
+  "symbol": "MINT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0CDF9acd87e940837FF21bb40c9fD55F68bba059.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe015a88a79fae9cc6af79b0a0c04c07b80685c470db1f336bfee0fdd2c95d194@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

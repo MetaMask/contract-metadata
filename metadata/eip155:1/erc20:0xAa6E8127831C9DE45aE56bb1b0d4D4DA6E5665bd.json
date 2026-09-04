@@ -1,0 +1,8 @@
+{
+  "name": "ETH 2x Flexible Leverage Index",
+  "symbol": "ETH2x-FLI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xAa6E8127831C9DE45aE56bb1b0d4D4DA6E5665bd.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb9853e2e0699d13314cdb9f1e93f314974364ca81738f5fce7cef489b8fd7223@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

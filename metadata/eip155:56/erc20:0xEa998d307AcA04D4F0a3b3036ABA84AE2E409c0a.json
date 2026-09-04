@@ -1,0 +1,8 @@
+{
+  "name": "JUST",
+  "symbol": "JST",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xEa998d307AcA04D4F0a3b3036ABA84AE2E409c0a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x47eb718a9eaf649b9f2272cf25597037a84a5fc1e5e5c24b91fe6d8bd77b060d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "APower",
+  "symbol": "APOW",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x7F9c841feAddDB4BDBb2a161cA40BEBC4F215a9a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x68025a1bbf57e2e6ccb9a75339be3c6e88621fb2e958d9b7e1839846c000ca3b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

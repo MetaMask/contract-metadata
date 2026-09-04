@@ -1,0 +1,8 @@
+{
+  "name": "HippoFinance",
+  "symbol": "HIPPO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x81313F7c5c9C824236C9E4cba3AC4B049986E756./ipfs/qmbtlqy7pcgnrathj87aykiagemhj459m1xlkuuh18um7b/bcdz7oeqzratgb8xtpfqsqwdwwfqwgeabmateirmlgzta2j6da3dotxpw1ardvxyae5zpp6qm6a3h8eavdc9jk2crd",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0599b929c0692eecd3b48f4fe7afd98c4b3586cba5ce43b3d904a692880a063b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

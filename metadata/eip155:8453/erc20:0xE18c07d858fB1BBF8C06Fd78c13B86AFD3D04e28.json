@@ -1,0 +1,8 @@
+{
+  "name": "Hempy",
+  "symbol": "HEMPY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xE18c07d858fB1BBF8C06Fd78c13B86AFD3D04e28.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x85743747071704c6543eb8d659452916e8ab0f28853015f837bb0a3679dd4636@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

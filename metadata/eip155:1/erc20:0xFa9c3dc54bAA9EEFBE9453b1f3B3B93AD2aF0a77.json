@@ -1,0 +1,8 @@
+{
+  "name": "Dynamic Supply",
+  "symbol": "DST",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xFa9c3dc54bAA9EEFBE9453b1f3B3B93AD2aF0a77./ipfs/qmbkuthf6ax2hq53fy9xscghsalgrvshqbiscxqkcvv5ax/dst",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa237b2369e3d697bee4fbe93a2a6a97bce1acdd2c3a038933338c69c413e1b1c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

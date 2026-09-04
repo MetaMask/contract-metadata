@@ -1,0 +1,8 @@
+{
+  "name": "CrappyBird",
+  "symbol": "CRAPPY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x67CE18961c3269CA03C2E5632f1938CC53E614a1.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x132d87cf0e433be34d18624e97c664f86ad56ddc1ab073e7ae5a391e94d359cf@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

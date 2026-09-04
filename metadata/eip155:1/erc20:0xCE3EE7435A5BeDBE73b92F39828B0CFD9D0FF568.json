@@ -1,0 +1,8 @@
+{
+  "name": "UniDexAI",
+  "symbol": "UDX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xCE3EE7435A5BeDBE73b92F39828B0CFD9D0FF568.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x54ad94a3547123f5e2ad865e053fab935a13afc6dc51dc7b5364c03a7325a697@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

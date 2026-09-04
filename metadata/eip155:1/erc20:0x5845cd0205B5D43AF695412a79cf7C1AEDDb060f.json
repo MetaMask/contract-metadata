@@ -1,0 +1,8 @@
+{
+  "name": "ShardingDAO",
+  "symbol": "SHD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x5845cd0205B5D43AF695412a79cf7C1AEDDb060f./ipfs/qmcsk5olzfmgpttojjhgcbsg3kjkle9z7sddw94hbh4k7n/shd",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x037e41107bd874859436af79fd3d5c24732b788aac40d32636f110ff39ff3c61@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

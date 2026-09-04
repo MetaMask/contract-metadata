@@ -1,0 +1,8 @@
+{
+  "name": "BaseX",
+  "symbol": "BSX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xD5046b976188eB40F6DE40fb527f89C05B323385.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2d3b2c001402a0d3f6e0b80b1d520e2acd118242e6dd79c5b9360a0236c1da42@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

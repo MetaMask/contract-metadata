@@ -1,0 +1,8 @@
+{
+  "name": "Fire",
+  "symbol": "FIRE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xD27c288fd69f228E0C02F79e5ecADfF962E05a2b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x24cbe9652c9c8ce1c20666295fd9efbb4e133b34d464807509b6d7763710f88f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

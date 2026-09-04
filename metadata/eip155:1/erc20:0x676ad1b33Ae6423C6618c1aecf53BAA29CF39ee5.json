@@ -1,0 +1,8 @@
+{
+  "name": "Wrapped SDT",
+  "symbol": "SDT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x676ad1b33Ae6423C6618c1aecf53BAA29CF39ee5./ipfs/qmw27pqpj9nbnn9trnqafhevq13yv9xvru6efesensmcu6/sdt",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xed3a4664835396c25a9f95a696d9393a04d97944166370709966652beb16abed@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

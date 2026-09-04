@@ -1,0 +1,8 @@
+{
+  "name": "MEME TAO",
+  "symbol": "MTAO",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1E8E29ca51363D923725ab9dac73BD7E9C440F71./ipfs/qmuw4myxqjbiuasfzfvpzns3kw85btu44eqolwhsnfnjtn/mtao",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xae846f825a783c0a4509c8e8c4ce6484c788c1ef34e5e41dabb893c4f61ba0d1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

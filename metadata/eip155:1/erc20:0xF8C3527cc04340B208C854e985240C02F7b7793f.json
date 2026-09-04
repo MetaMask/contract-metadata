@@ -1,0 +1,8 @@
+{
+  "name": "Frontier",
+  "symbol": "FRONT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF8C3527cc04340B208C854e985240C02F7b7793f./ipfs/qmw9db4kqlj5cbttuzfqp6tpxciaffctejqydu6msqhxh6/bccz89wengzfufkvt8y9ebqcdyqw8rvqbwah3uhuezgwvehn6ltosgevyeidss4afktgdoqryfmx5aqfskjdmd7ub4",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x429f1ada92ef463115c346050d9ca5e2cfc7d7bfe1f8957315dfbc85d30e78cc@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

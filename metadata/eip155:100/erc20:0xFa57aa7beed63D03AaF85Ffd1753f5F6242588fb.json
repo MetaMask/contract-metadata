@@ -1,0 +1,8 @@
+{
+  "name": "Mt Pelerin Shares",
+  "symbol": "MPS",
+  "decimals": 0,
+  "erc20": true,
+  "logo": "./icons/eip155:100/erc20:0xFa57aa7beed63D03AaF85Ffd1753f5F6242588fb.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x75365f075a4cb6d47d082f1df108795bcc676411d26f5f8741a9e50ec2f3dcad@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

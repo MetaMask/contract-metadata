@@ -1,0 +1,8 @@
+{
+  "name": "BoringDAO",
+  "symbol": "BORING",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xFFEEcbf8d7267757C2Dc3d13d730e97E15bFdF7f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1e1635d1be9724a65f2408dc6249830af64c69167b5bc370b8d1443ecb91afda@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

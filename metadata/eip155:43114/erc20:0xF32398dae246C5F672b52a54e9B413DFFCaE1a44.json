@@ -1,0 +1,8 @@
+{
+  "name": "Kassandra",
+  "symbol": "KACY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xF32398dae246C5F672b52a54e9B413DFFCaE1a44.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x02a820737a2ac3f78599dc2768ceb6ba3615813ba6e87dab836e2af8a7ba93c8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

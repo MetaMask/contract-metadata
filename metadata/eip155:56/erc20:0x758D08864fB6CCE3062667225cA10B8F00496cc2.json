@@ -1,0 +1,8 @@
+{
+  "name": "NAOS Finance",
+  "symbol": "NAOS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x758D08864fB6CCE3062667225cA10B8F00496cc2.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8271450a86d6c96777e86c2f924147f14bc1ca1d1c582553b8be4e7a644a9aff@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

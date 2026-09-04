@@ -1,0 +1,8 @@
+{
+  "name": "AVASTR Vault",
+  "symbol": "AVASTR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xDCDc1c1cc33AA817CBDbE8f5e2390BF7CC43dc4b./ipfs/qmzab3rfkedrhvjgijb1ghhpj82ah66uxj27tgdgzg5cfo/avastr",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x853e5f3546d955b858e340a693af5d33cc6c2e68f8f050296be7c934f2762d3f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

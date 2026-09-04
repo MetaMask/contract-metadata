@@ -1,0 +1,8 @@
+{
+  "name": "SteakHut Finance",
+  "symbol": "STEAK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0xDDbFbd5dc3BA0fEB96Cb513b689966B2176D4c09.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5586323e38928018bf125d71eaed09405a67b82d849fa5ba59325d4bb6ee5d6b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

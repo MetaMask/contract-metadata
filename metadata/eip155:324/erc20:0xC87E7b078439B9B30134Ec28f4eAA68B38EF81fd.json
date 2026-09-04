@@ -1,0 +1,8 @@
+{
+  "name": "zkSync Labs",
+  "symbol": "ZKLAB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xC87E7b078439B9B30134Ec28f4eAA68B38EF81fd.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd5c777766f109e8c16567edcda780f73d69b1ad6d77ddb0b7fdd03cf56bf710d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

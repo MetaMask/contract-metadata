@@ -1,0 +1,8 @@
+{
+  "name": "WAXE",
+  "symbol": "WAXE",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x7a2bc711e19BA6AFF6CE8246c546e8C4B4944dfd./ipfs/qmcvedz1dp73khbfxqztdx4yxcus8mh3wbhy4cn7nghruz/waxe",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6c09a7a13cf2b6c4b8d8e81f9dbacbe5b3905d25da095fc9eeaec5f170e0f4c6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

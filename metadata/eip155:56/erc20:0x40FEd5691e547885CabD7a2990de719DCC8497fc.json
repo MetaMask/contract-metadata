@@ -1,0 +1,8 @@
+{
+  "name": "Safe Haven",
+  "symbol": "SHA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x40FEd5691e547885CabD7a2990de719DCC8497fc.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x55732fae904c64bfa4692e3a489cbb4fe1471f37011fd4cb127391ed15ee9756@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

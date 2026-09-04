@@ -1,0 +1,8 @@
+{
+  "name": "Gnosis",
+  "symbol": "GNO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0x5FFD62d3c3ee2E81C00a7b9079fB248E7DF024a8.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd5f8b8944c7dbc9d0a41624976bb4bd7d89b1ef6ebe84a5fa72ff68ed4a9b6d5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

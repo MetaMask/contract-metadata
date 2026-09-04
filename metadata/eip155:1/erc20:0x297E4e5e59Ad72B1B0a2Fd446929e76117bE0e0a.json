@@ -1,0 +1,8 @@
+{
+  "name": "SMART VALOR",
+  "symbol": "VALOR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x297E4e5e59Ad72B1B0a2Fd446929e76117bE0e0a./ipfs/qmrx7e9z4mbotzzsne2yjkk5pqa4kgcc9cv2ndkdzqtije/bcdz71hrfkumxpczvscpzfcrkvvppa4dhrycfvzrgdvjglxbzsszgew6nsxen2ofts6ps8aoshmkluiqyak5vhywud",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8e8ab33676f3d6b2806580a712c59ef1283b4c1fd86d9574f4b6476a0da6d77e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

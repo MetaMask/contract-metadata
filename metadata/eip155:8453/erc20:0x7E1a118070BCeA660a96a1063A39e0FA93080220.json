@@ -1,0 +1,8 @@
+{
+  "name": "EZ Pepe",
+  "symbol": "EZ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x7E1a118070BCeA660a96a1063A39e0FA93080220.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x02fce5b42a0ad0b7d76b6d0248bdfda22883ca52d37f9fbf1e235f0f31b0262a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

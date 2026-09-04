@@ -1,0 +1,8 @@
+{
+  "name": "Vector Finance",
+  "symbol": "VTX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x5817d4f0b62A59B17F75207da1848C2CE75E7af4.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6683b96afa0ae94fc6c1501f4d0c457a861700e56c8f436fba1ed5d8c9ab4516@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

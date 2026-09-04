@@ -1,0 +1,8 @@
+{
+  "name": "Long",
+  "symbol": "LONG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x5165Ec33b491D7B67260b3143f96BB4AC4736398.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd7b5b3b71e171ceedb1849a1ddf0f986561d169e5a6127c3b1c8cb57973238dc@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

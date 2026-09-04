@@ -1,0 +1,8 @@
+{
+  "name": "CeDeFiAi",
+  "symbol": "CDFI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x527856315A4BCD2F428Ea7fa05eA251F7E96a50a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x44728ac67911ea98bf3b92c226b07ae639e3e4066bbc67d53ff089471f648325@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

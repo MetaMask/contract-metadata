@@ -1,0 +1,8 @@
+{
+  "name": "Sphere Finance",
+  "symbol": "SPHERE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0x62F594339830B90AE4C084ae7d223fFAFD9658a7.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x40f7a0def37c310ec3727efee94bbd51fa0523c423c6615755936f62876facd2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

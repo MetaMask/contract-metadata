@@ -1,0 +1,8 @@
+{
+  "name": "Battle.tech by Virtuals",
+  "symbol": "BTA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xAB10E517f3138B17108b32129e8C8446AD44a267.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x72af71661f4918b64bd0be8267e93d00dacfccff91d3c04d5a5ab87446bfb2bb@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Gloria by Virtuals",
+  "symbol": "GLORIA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x3B313F5615BBD6B200C71F84ec2f677B94DF8674.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7d38ad120d0f09ca8f0cace5127dc0c8201f33201ee223abd532ad0bd7bfff9d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

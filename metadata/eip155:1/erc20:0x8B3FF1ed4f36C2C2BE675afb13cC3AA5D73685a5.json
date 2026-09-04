@@ -1,0 +1,8 @@
+{
+  "name": "Cream Celsius",
+  "symbol": "crCEL",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x8B3FF1ed4f36C2C2BE675afb13cC3AA5D73685a5./ipfs/qmsk2ejoqhisu88yjmjgbnnhxykn6r1ie3njac4zbraxqt/crcel",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe6f948184c5cc661b9b560521fac7a2c090a2ab2733bb082e4f0909ca4a93db1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

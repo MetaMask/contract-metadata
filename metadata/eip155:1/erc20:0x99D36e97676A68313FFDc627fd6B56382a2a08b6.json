@@ -1,0 +1,8 @@
+{
+  "name": "Baby Trump",
+  "symbol": "BABYTRUMP",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x99D36e97676A68313FFDc627fd6B56382a2a08b6./ipfs/qmp7fdscncpxlmxkjvs24s38txjaxdnthxt4kkg6kdmvwl/babytrump",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4b5edfbaba683ed2920e681edaab5a2211720d5057101e52942f6373ad482c92@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "H4CK Terminal by Virtuals",
+  "symbol": "H4CK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x625bb9bb04BdCA51871Ed6d07e2dD9034E914631.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4872ea20ed8c69048916bb9e72033391bcd4cb68c56609af0bfd043988f55650@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

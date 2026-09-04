@@ -1,0 +1,8 @@
+{
+  "name": "PEPCAT",
+  "symbol": "$pcat",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x92827F96f2795A60FE701d8b1A1B5B5170C82199.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa006dd8079884e0d13c2293013a3bcfde1844aec42c65a8402cf91da1a2fdc28@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

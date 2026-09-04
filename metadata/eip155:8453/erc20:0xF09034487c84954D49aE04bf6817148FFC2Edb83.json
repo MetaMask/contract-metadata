@@ -1,0 +1,8 @@
+{
+  "name": "Barry The Badger",
+  "symbol": "BARRY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xF09034487c84954D49aE04bf6817148FFC2Edb83.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0995891884afe06119fd7b63480b4be523e882ec8c3b9cb2955d82a1bf8ad8ba@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

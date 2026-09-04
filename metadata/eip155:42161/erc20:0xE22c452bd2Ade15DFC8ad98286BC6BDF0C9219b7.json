@@ -1,0 +1,8 @@
+{
+  "name": "Polytrade",
+  "symbol": "TRADE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0xE22c452bd2Ade15DFC8ad98286BC6BDF0C9219b7.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb9b6f750f66107de8e33735a8ef216e91366ed5380a706a0047d4e8d276a34f2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

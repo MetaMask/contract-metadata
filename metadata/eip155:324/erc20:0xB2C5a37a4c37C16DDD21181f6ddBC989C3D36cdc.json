@@ -1,0 +1,8 @@
+{
+  "name": "Increment",
+  "symbol": "INCR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xB2C5a37a4c37C16DDD21181f6ddBC989C3D36cdc.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x452a8ab6f964aaf8a6a074f7f539415b0ce1bcf0fee5cf2b08f91f7e4d04fdc8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

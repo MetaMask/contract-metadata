@@ -1,0 +1,8 @@
+{
+  "name": "Silo Finance",
+  "symbol": "SILO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0x0341c0c0ec423328621788d4854119B97F44E391.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2ce48cc6853951aed30e1f70002a6b26078d31fd8be7b752e9b85fac43159ab2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

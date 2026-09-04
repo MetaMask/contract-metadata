@@ -1,0 +1,8 @@
+{
+  "name": "Curio",
+  "symbol": "CUR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x13339Fd07934CD674269726edf3B5CCEE9DD93de./ipfs/qmxg7sekx2acpcmjdxo9uyeqiivs1tbnlerwhgcv9f4gbg/bccz8gyaxp9yznuncp8toqrwpd6dwh8bxyzsybim4n5uhdeogg11emnhidtvpbwhunjaltkgoravdvnscxywqrdwe9",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5f3338d037500e4e39283de28f935748552ee2d6f3fbef65547dd21ffe025471@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

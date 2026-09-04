@@ -1,0 +1,8 @@
+{
+  "name": "StaFi",
+  "symbol": "FIS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xEF3a930e1ffffACD2FC13434ac81BD278B0Ecc8d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xcd51e090f4f10bc2c98128546d401d183659598c5f91f20702dc7708a6371ee9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

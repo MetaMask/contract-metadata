@@ -1,0 +1,8 @@
+{
+  "name": "Venus Luna",
+  "symbol": "vLUNA",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xB91a659e88B51474767cd97ef3196A3E7CEDd2c8.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa06df5cbac68b440029e2421ccc031b4e0bd8fb85068152d28597aff7db9e787@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

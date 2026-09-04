@@ -1,0 +1,8 @@
+{
+  "name": "New Frontier Presents",
+  "symbol": "NFP",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x299698b4b44BD6D023981a7317798DEE12860834./ipfs/qmzrgsj6v8y7kcwpr1pc6hmyw3l12ayrn5dkvgyp382eh2/nfp",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xad8b48235c9dbbb4cd35f811d05c7230340e7bf5e2c39c254fd55b79144c23e7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

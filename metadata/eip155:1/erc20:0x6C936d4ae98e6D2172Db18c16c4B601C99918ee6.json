@@ -1,0 +1,8 @@
+{
+  "name": "Life Crypto",
+  "symbol": "LIFE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x6C936d4ae98e6D2172Db18c16c4B601C99918ee6./ipfs/qmnw1zqi8pgeg4ljhfhge1a9khng2hedxtu6vyvyt2rb3e/life",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xeb1a92906d10b7de6d5235f6ebd0407c6a6586ec0a290bba86c574da8270bcd1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

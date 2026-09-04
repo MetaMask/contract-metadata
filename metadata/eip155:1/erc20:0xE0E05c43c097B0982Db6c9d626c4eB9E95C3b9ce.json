@@ -1,0 +1,8 @@
+{
+  "name": "Unslashed Finance",
+  "symbol": "USF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xE0E05c43c097B0982Db6c9d626c4eB9E95C3b9ce./ipfs/qmzz2zhyq4rcadcpzhcwrffyqh9xanyxv9dfnl4cgc3i1m/usf",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xac8672bce15aec34621a88567fa485ac1999a55e4e0bf99897c7331bb0de8497@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

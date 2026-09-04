@@ -1,0 +1,8 @@
+{
+  "name": "KIRA Network",
+  "symbol": "KEX",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x16980b3b4A3f9D89E33311b5aA8f80303E5ca4f8./ipfs/qmvbzbqocerfwe9v9q8xsvtcxjirmo357j1ywkydp1smpq/kex",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x60d2febcf4573b2180e8edd3c79f2d44a81bcfe05ce010e7ee1b4a211a27accb@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

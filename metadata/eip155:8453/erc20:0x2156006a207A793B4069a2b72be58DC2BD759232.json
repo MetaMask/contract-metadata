@@ -1,0 +1,8 @@
+{
+  "name": "Coin",
+  "symbol": "COIN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x2156006a207A793B4069a2b72be58DC2BD759232.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x378be165cc864c4bf0ec8422bcc1e5be09552b939ea9f6580277d073e2e23b2c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

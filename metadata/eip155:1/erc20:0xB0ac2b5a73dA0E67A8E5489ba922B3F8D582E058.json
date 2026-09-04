@@ -1,0 +1,8 @@
+{
+  "name": "Shiro Neko",
+  "symbol": "SHIRO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB0ac2b5a73dA0E67A8E5489ba922B3F8D582E058.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfc3caa1f28bd35b8d4a4cd1a08821ec818f042d52cb7e28eb887d826643a01a8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

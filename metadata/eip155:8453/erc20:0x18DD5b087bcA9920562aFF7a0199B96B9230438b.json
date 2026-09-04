@@ -1,0 +1,8 @@
+{
+  "name": "Propy",
+  "symbol": "PRO",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x18DD5b087bcA9920562aFF7a0199B96B9230438b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x885bb00aea4f878a3de2f2a8e41d75cb5a47e9cf31e80014ba8096ac19c2267d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Zebec Network",
+  "symbol": "ZBCN",
+  "decimals": 6,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:ZBCNpuD7YMXzTHB2fhGkGi78MNsHGLRXUhRewNRm9RU.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2cf83f563ed515a336147508545c43681466ac26ec1bbe36da9bab66bb155869@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

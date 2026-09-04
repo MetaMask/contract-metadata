@@ -1,0 +1,8 @@
+{
+  "name": "Staked Frax",
+  "symbol": "sFRAX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0xE3b3Fe7bcA19CA77AD877a5bebAB186BECFad906.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbbbeea7f36236637356938811fafb0a103f4a7bda8002150dbbe906d9c55c650@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

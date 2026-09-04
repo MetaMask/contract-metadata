@@ -1,0 +1,8 @@
+{
+  "name": "Divi",
+  "symbol": "DIVI",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x246908bff0B1BA6ECaDcF57fb94f6AE2FCD43a77.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x83c32adb8388921aba588436a35bbec33d6c90286c382676e818b27f3bf6dc45@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

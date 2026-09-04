@@ -1,0 +1,8 @@
+{
+  "name": "TEKTIAS",
+  "symbol": "TEKTIAS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x7D3cFc3e9eee2AA5FEFF52d6193A0DBB08492279.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdf092f1dfebe2ccf46156f92ffc9292c1ea757c5fbfc087703dfdc16e4ce247f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

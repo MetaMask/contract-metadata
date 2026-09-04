@@ -1,0 +1,8 @@
+{
+  "name": "PunkSwap",
+  "symbol": "PUNK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:534352/erc20:0xDDEb23905f6987D5F786a93c00BBeD3D97aF1ccc.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0c59d3d6d4aa0183c8d51e6dc5bd404720f90667c26636ccc9fb6ffb6c5bf82a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

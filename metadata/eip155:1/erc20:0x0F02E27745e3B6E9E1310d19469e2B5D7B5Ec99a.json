@@ -1,0 +1,8 @@
+{
+  "name": "Peculium",
+  "symbol": "PCL",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0F02E27745e3B6E9E1310d19469e2B5D7B5Ec99a./ipfs/qmdnvhqb7caquc2ffxnnpjspzcqwsnpv3esnkakn5px7ia/bccyccgedj4fdbtps7c3zckknjfmnctkbhnd9z2mc2ukggcg8yjjgd5pragcplbzmkcqpgvbffwaqfj9ewhoq87xtx",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x29f1ecfd17da54cfb2e8d1aa68ffe02c65a2f16f6c9af5b71e332b7c2fb6dadc@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

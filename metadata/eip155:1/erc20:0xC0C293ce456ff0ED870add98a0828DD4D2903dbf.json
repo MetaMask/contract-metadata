@@ -1,0 +1,8 @@
+{
+  "name": "Aura",
+  "symbol": "AURA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xC0C293ce456ff0ED870add98a0828DD4D2903dbf./ipfs/qmcedjgrphyxxhrqzhnqmqpmmxfhu95xzubqd9wpuxdzuz/aura",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x559ab296d3aa35f91fd515d8b4c5c3c53097049c49ed494fb74f7ff75ece9211@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

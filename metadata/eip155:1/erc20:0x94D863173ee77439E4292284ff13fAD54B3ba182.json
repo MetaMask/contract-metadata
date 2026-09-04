@@ -1,0 +1,8 @@
+{
+  "name": "Akropolis Delphi",
+  "symbol": "ADEL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x94D863173ee77439E4292284ff13fAD54B3ba182./ipfs/qmybhbafe3b1fzybyddsek5ei3gakengh8tpv2cvue49d4/adel",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x80a5a6a7970cb3dbbc491cf5a613099f2550e1db6c8d356917f4ccb402637db4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

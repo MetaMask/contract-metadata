@@ -1,0 +1,8 @@
+{
+  "name": "0xcert",
+  "symbol": "ZXC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x83E2be8d114f9661221384b3a50d24B96a5653f5./ipfs/qmealyvmfsr12fwcjs172aq5pxvm3xs7fch2webgf7gyh4/bcdwo591rtqdq5w9au6hrggiv317tr2itaaf1gajhvm6uotfjlfb2c7mb2tpy5djudwmpvaczhbkkgd2csc3h7paej",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa7d510791fa28f64195de284bb63680ea1263c04daf0a2add86618db47d9fa9d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

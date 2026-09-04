@@ -1,0 +1,8 @@
+{
+  "name": "World Token",
+  "symbol": "WORLD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xBF494F02ee3fDE1F20bEE6242bce2D1ED0C15e47./ipfs/qmzidtnhj7h5gubdxmst1bovjt2bc65hqe8af95a8dhd4z/world",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4ddfb1527e3123589267d93f3fd39399f7fbce7861de43d3330ba60ab1a51e90@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

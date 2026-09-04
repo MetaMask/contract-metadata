@@ -1,0 +1,8 @@
+{
+  "name": "Thena",
+  "symbol": "THE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xF4C8E32eadeC4BFE97E0F595add0f4450a863a11.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xec7b8ca60bb69bf179242ea0fa17f4db0180dec4923ef3edfa764c995b7650f0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

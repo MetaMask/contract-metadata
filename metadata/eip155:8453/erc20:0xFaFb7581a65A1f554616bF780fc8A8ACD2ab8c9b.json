@@ -1,0 +1,8 @@
+{
+  "name": "Squid Game V2",
+  "symbol": "SQUID",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xFaFb7581a65A1f554616bF780fc8A8ACD2ab8c9b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbebe6875f8c0c3380caf26c66337e517764149f9ff9c2e5dc31b061135f9710f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

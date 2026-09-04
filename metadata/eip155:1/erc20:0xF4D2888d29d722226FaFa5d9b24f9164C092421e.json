@@ -1,0 +1,8 @@
+{
+  "name": "LooksRare",
+  "symbol": "LOOKS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF4D2888d29d722226FaFa5d9b24f9164C092421e./ipfs/qmudqtmjupyrhkmrup3tyrqkoomhmvbd36qkjgtvkgl3br/looks",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfaff30cb8b41f5adbbcc3e51fa34ceaf6da00a0c90b0e0f7c9d504470e27e6ee@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

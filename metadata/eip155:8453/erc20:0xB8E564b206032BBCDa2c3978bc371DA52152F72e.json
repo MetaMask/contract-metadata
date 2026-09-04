@@ -1,0 +1,8 @@
+{
+  "name": "Base Terminal",
+  "symbol": "BASEX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xB8E564b206032BBCDa2c3978bc371DA52152F72e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7e40d3467ead0e1ca6cdd05b05bae89ddb577b79b9d45ae0022483a98d59c23f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

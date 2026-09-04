@@ -1,0 +1,8 @@
+{
+  "name": "Omlira",
+  "symbol": "OML",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x224Db5e6180761DF4C3D8936585f6B8B83879770./ipfs/qmda3vsvl5p5n5z5gpfpci2f7r9sue4rew9ymajz9nhupc/oml",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x24267f114e7d0ee79507bfef9ed56acfc7086ed35ab84ae408e119dbf975b623@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

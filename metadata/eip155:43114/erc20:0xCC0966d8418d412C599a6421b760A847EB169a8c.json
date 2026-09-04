@@ -1,0 +1,8 @@
+{
+  "name": "SolvBTC Babylon",
+  "symbol": "SolvBTC.BBN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xCC0966d8418d412C599a6421b760A847EB169a8c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x323171b4dae736618762e2fe8c882edec0de62a84b69042554e261c48490bad4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

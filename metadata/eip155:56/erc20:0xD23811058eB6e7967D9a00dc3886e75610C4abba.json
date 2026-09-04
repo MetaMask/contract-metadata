@@ -1,0 +1,8 @@
+{
+  "name": "KnightSwap",
+  "symbol": "KNIGHT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xD23811058eB6e7967D9a00dc3886e75610C4abba.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf47718654bf7eddcef7f5a619ccb7ec3e7ef90c15ba198df6dda01fe8db22202@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

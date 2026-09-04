@@ -1,0 +1,8 @@
+{
+  "name": "Sally",
+  "symbol": "A1C",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x1F1c695f6b4A3f8B05F2492cef9474AFB6D6ad69.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd5e8b5801b1dc8dc82531e7f2d2d3bbfc7c3b9ca63e0a98a284a163d8519e0ef@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

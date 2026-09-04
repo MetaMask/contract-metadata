@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Bitcoin Cash",
+  "symbol": "sBCH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x36a2422a863d5B950882190ff5433E513413343a./ipfs/qmtj3t1hmywlaovjuydxtt6dcdkpstjzkmrawb3flsqocf/sbch",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd7997cb69b4febd7a413f1744411d7600fd2194690e10f6724de4ee91943f450@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

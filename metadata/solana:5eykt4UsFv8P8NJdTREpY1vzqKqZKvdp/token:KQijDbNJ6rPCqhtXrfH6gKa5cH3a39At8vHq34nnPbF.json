@@ -1,0 +1,8 @@
+{
+  "name": "Department Of Government Efficiency",
+  "symbol": "DOGE",
+  "decimals": 8,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:KQijDbNJ6rPCqhtXrfH6gKa5cH3a39At8vHq34nnPbF.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdf73baf7a3273da1992f1816e780daa4888f9d793f521daf72f31363d3e4a288@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

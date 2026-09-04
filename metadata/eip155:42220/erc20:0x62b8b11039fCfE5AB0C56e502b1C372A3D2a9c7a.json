@@ -1,0 +1,8 @@
+{
+  "name": "GoodDollar",
+  "symbol": "G$",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42220/erc20:0x62b8b11039fCfE5AB0C56e502b1C372A3D2a9c7a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0d2cb901cdcf9b6571f7d645ab34ef6f3a21321ee1429b1a52a7b33147fa567a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

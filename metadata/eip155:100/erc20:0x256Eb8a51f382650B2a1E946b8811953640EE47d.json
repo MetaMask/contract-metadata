@@ -1,0 +1,8 @@
+{
+  "name": "Streamr",
+  "symbol": "DATA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:100/erc20:0x256Eb8a51f382650B2a1E946b8811953640EE47d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x924fd280c0445b278b624f69de50b8c05e595d52a0306800a982a2b77f113990@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

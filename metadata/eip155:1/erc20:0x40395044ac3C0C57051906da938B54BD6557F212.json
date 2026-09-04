@@ -1,0 +1,8 @@
+{
+  "name": "MobileGo",
+  "symbol": "MGO",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x40395044ac3C0C57051906da938B54BD6557F212./ipfs/qmevzlr71ijluz5rvx4uwk3sdxxacd2gruxk68nyhcrvuh/bcd7k9uf8cyq7lmukycdjpbardsi7w9w49mupwzbnabxpy7qvykbdqor25vmuby6jbfecjpgvusukbals7gkb1hdmf",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb142f5c857df4cef1bea878e6c780c86ec920f816ce17cf3b4ff75f96e36c1d4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

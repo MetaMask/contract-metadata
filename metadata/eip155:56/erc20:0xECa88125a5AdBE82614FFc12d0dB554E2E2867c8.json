@@ -1,0 +1,8 @@
+{
+  "name": "Venus USDC",
+  "symbol": "vUSDC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xECa88125a5AdBE82614FFc12d0dB554E2E2867c8.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5a9fd6234e63042a1acab39689f8790299548704c12f4bbe40245311db3b536b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

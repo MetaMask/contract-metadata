@@ -1,0 +1,8 @@
+{
+  "name": "Heurist",
+  "symbol": "HEU",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xABEc5ecbe08B6C02F5C9a2ff82696E1E7Db6F9bf.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x89ecf863168fca1dd23a6975467dc3d359323017c0b496a42847ddb7ca2032b5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

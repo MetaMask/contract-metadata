@@ -1,0 +1,8 @@
+{
+  "name": "Strike LINK",
+  "symbol": "sLINK",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3F3b3b269d9f7088B022290906ACff8710914be1./ipfs/qmtpwtwviveu2vb8v5dhq3q6rqk8hhmpqwepsfqbe9pwar/slink",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x68463679c279aaab2521decaa2ae140b56e76a06264b7998fcddda0725602291@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Basic Attention Token",
+  "symbol": "BAT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x101D82428437127BF1608F699cd651E6ABF9766e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5053fd46525847f6847f3468059b74c4adde421e8e5bd73c60761ebc9ccdc8fd@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "yearn.finance",
+  "symbol": "YFI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x9EaF8c1e34f05A589EDa6bafdf391CF6AD3cb239.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe656c84fcf4ce2b24d3d8f3612a6a72ad8fdec13c344940c3b6553f419f0f46a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

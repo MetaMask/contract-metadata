@@ -1,0 +1,8 @@
+{
+  "name": "Melania Meme",
+  "symbol": "MELANIA",
+  "decimals": 6,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:FUAfBo2jgks6gB4Z4LfZkqSZgzNucisEHqnNebaRxM1P.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9e7ac926d289a35107ff7ecc2c773adb69c42399110008c7969efd815b63d8da@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Solidly",
+  "symbol": "SOLID",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:250/erc20:0x777cF5ba9c291A1A8F57FF14836f6f9DC5C0F9dd.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x64523a6c5c34fa684d1f8c6c843172ca7f43b98dbfbafda1ff94391be4e7be3f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Onsenswap",
+  "symbol": "ON",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x286F34bf2384B38067709e2abb255AA16D79F0e5.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5205712f19aab317b55c1cd6de75934ffd53878ef4dd29ac79715d4011e859b2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

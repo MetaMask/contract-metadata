@@ -1,0 +1,8 @@
+{
+  "name": "Dai If Trump Loses The 2020 Election",
+  "symbol": "NOTRUMP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x40CE0a1d8f4999807B92Ec266A025f071814b15d./ipfs/qmpasphchphe3ljwewbna2fwq1kg3c2fz8sexy53b7kjn7/bcd2upyrcdyehsuzpawh92mhptc9llpbhuz71h6plq8tat1lwusag6v8atmpfcte8ft5nggt83ukfgxwb8yrsprb56",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe50b88ea2bfc6538f61ca3c0fbbfd60b1f64d5f107d44c5676223d1815f12e5e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

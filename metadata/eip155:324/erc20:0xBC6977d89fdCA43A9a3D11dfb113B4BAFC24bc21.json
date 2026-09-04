@@ -1,0 +1,8 @@
+{
+  "name": "P3PE HACKER",
+  "symbol": "P3PE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xBC6977d89fdCA43A9a3D11dfb113B4BAFC24bc21.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x25664ae362abe17d4648eb61ce7ec7af7894970d04cc13170aaf6da83df22d93@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

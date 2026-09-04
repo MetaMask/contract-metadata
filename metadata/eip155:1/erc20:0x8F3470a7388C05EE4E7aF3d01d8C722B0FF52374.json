@@ -1,0 +1,8 @@
+{
+  "name": "Veritaseum",
+  "symbol": "VERI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x8F3470a7388C05EE4E7aF3d01d8C722B0FF52374./ipfs/qmq27vefcmprepsfrwrs1b9s55whfqqfejrbsg5x24beev/bcd76kcubrwjabnctkg81ncjggkjsyrmtzgvuryykbgaqb8lfejceqztmetkzawczpnpbfxgiyr2sge7r5veyz1yah",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1bba919bc5e70dcfff6c545587b5bb2bf094d8c82707d66c4a4a567a461ca131@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

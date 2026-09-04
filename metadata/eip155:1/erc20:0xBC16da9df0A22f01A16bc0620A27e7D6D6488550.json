@@ -1,0 +1,8 @@
+{
+  "name": "Percent",
+  "symbol": "PCT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xBC16da9df0A22f01A16bc0620A27e7D6D6488550./ipfs/qmfktvtmfj246y9xscyfltqkuhdnte9fwnice2et1hhmqk/bcdvsasmr3anxi25vdyhnyg5bgqdvg3zsnfha6txuadrtj9ryefknydjezjvqew8zr8en1fe1cbtsmzy7oakznlv8j",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd96feb8f072fcfa768da7ba74f7cfdd6d06a11798d7f28991065d4d87d8c98e3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

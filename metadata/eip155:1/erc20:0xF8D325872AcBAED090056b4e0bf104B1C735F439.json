@@ -1,0 +1,8 @@
+{
+  "name": "STC",
+  "symbol": "STC",
+  "decimals": 0,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF8D325872AcBAED090056b4e0bf104B1C735F439./ipfs/qmbv7d9jqma89ret5xfw7yzncxnjlfwcqqvtyxcdcpxrza/stc",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3f616c38d7d19f0d88792401501f9f2ac90d701513e1f06530968396d7d8547f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "PAW",
+  "symbol": "wPAW",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xC11158c5dA9dB1D553ED28f0c2BA1CBEDD42cFcb.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf417f5e18c1479271825cb6a8841fe48ad816ed1d62f68a4a6b16e9c0ce8276b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

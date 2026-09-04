@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic FTSE 100 Index",
+  "symbol": "sFTSE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x23348160d7f5ACA21195dF2b70f28fCE2B0bE9fc./ipfs/qmtrn8gzrkgekhksxfs22v1j4eslfwmvn6ldmcnxfueemy/sftse",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfb5248579b990d5457dc910ba79082d9d3fa511bfbd60c17787f07bcd65a99ad@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

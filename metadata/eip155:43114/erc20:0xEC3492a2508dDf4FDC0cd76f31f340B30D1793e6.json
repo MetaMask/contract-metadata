@@ -1,0 +1,8 @@
+{
+  "name": "Colony",
+  "symbol": "CLY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xEC3492a2508dDf4FDC0cd76f31f340B30D1793e6.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdd361b4f22e564bb63403079da04ebed1c2164b8712167b17462462037122c56@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

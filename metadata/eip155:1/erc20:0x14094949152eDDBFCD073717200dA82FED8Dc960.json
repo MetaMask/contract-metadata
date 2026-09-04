@@ -1,0 +1,8 @@
+{
+  "name": "Fulcrum SAI iToken",
+  "symbol": "iSAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x14094949152eDDBFCD073717200dA82FED8Dc960./ipfs/qmqvduphysj8sdnrgbbfahjijxgvk985gfkstxwnosp47z/isai",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x39871e65602bfe4352e3175aaa76ece971d3a5e26b92acf2e8d67b654e08757d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

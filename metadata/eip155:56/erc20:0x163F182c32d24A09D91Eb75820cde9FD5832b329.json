@@ -1,0 +1,8 @@
+{
+  "name": "ElonDoge",
+  "symbol": "EDOGE",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x163F182c32d24A09D91Eb75820cde9FD5832b329.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf12f410787a4b92e535c214df407b4da935fcc3c0ffea61e8fdd75201c892dbe@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

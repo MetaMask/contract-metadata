@@ -1,0 +1,8 @@
+{
+  "name": "DAV",
+  "symbol": "DAV",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD82DF0abd3f51425EB15EF7580fdA55727875F14./ipfs/qmuymxmkxm6mjjjbbxyfxnpwtvacnfkkn55wtmjbfrimg7/bcd7jd4x7udf33iaj3vwouhxajzcg3r3w5gncjgg5puayxtjqrtq8dx81s68msyb5qswbwiugxzh3ocfjjyfnjerkh",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0e6e287eb2ed14004ac1a35b3c19b7d2abc2157c2eb8f3561c14cdc19353d4c1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

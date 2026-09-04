@@ -1,0 +1,8 @@
+{
+  "name": "Maneki AI by Virtuals",
+  "symbol": "MANEKI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xE6ab1cc1307B496748753e017f3dBB4D4378ca3f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa64762e4f3ba404a7cae5d5a62a31624e6b979de0d0f4dfad390b61bcb58a6ec@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

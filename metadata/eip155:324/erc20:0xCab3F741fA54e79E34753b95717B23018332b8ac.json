@@ -1,0 +1,8 @@
+{
+  "name": "Tiny Era Shard",
+  "symbol": "TES",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xCab3F741fA54e79E34753b95717B23018332b8ac.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x826d756fedeae7cd07ffcf7f2a1511a00f98096553d590332710d35e8b220ee1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

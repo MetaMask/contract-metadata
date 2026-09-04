@@ -1,0 +1,8 @@
+{
+  "name": "BrainWorms",
+  "symbol": "BWORM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x506bEb7965fC7053059006c7ab4C62C02C2D989f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x66a1bcccf27815ae2a656d7a0ad3d3ed59ea7bc30b76c37b310c6dbd990a95b2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

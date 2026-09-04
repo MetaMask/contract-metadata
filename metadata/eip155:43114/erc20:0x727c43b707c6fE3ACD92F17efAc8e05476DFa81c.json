@@ -1,0 +1,8 @@
+{
+  "name": "Cougar",
+  "symbol": "CGS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x727c43b707c6fE3ACD92F17efAc8e05476DFa81c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x71e253f3f8d3a249e60ca943f2f43bed633ee29a42576bbb6d1f996c72f1dc7b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

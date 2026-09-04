@@ -1,0 +1,8 @@
+{
+  "name": "Booty",
+  "symbol": "BOOTY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x4a5bb433132B7E7F75D6a9a3e4136BB85CE6E4d5.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa7188332fc9c61278db911695a07506a1368aa852a901499b9e354f9c961df04@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

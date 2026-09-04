@@ -1,0 +1,8 @@
+{
+  "name": "Whisper",
+  "symbol": "WISP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xC8Ec5b0627c794DE0E4Ea5d97Ad9A556B361d243.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x360e0f7ce26769ec43c028b98e912e98a8d5440b81aff993acdaed6e8b780573@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

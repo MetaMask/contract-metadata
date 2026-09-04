@@ -1,0 +1,8 @@
+{
+  "name": "PieDAO USD++",
+  "symbol": "USD++",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9a48bd0ec040eA4F1D3147c025cd4076A2E71e3e./ipfs/qmpcfsdmmgc7us7iirfl53ifecb248ctnpycuh83b8fujp/bcdz7h7yhukoh2afxf9dsstdllnkcdihuv71zskk57x4rdjthcn2anqdvc8uspyxchkohxpwjdfav3wankjmemiykh",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xed086d73ad28fc933478a47b114dad0e3b66422292395f82224007621b40f71f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

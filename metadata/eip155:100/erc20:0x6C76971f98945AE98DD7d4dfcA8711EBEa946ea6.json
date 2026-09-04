@@ -1,0 +1,8 @@
+{
+  "name": "Wrapped Staked Ether",
+  "symbol": "wstETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:100/erc20:0x6C76971f98945AE98DD7d4dfcA8711EBEa946ea6.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x91164581323c0c07b9950979f9c1627711c4f02ae2c427edbd7fc46925b3525d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Golden Goose",
+  "symbol": "GOLD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x40D1F63b5d2048E67E9bEdb1b4c2f1A9FB4b6817./ipfs/qmtzgwnbstn4zsuyifrvqqkgmgehlpqjnkmnpoqgyrfols/gold",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4e212e0d8c87c6f99890d508be750bc0b1b48c0ef0540d3aa9132033411ca6da@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

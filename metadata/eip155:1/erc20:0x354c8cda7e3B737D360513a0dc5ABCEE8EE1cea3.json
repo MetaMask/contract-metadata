@@ -1,0 +1,8 @@
+{
+  "name": "BABYTRUMP",
+  "symbol": "BABYTRUMP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x354c8cda7e3B737D360513a0dc5ABCEE8EE1cea3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe3da1844b2a33d9ec7308513d9bac4c634f7faa9fb82e04a929372234d5e6411@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

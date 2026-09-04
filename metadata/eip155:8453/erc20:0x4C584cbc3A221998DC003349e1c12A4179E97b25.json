@@ -1,0 +1,8 @@
+{
+  "name": "Brett Is Based",
+  "symbol": "BMONEY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x4C584cbc3A221998DC003349e1c12A4179E97b25.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x254252214f651c9bf24e76caa69055f8c795372cb6e30c58b790d040b7d33031@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

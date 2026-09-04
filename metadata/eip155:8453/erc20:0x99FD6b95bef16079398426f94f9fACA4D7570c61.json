@@ -1,0 +1,8 @@
+{
+  "name": "Aegents",
+  "symbol": "AEGNT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x99FD6b95bef16079398426f94f9fACA4D7570c61.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xda8c8a0a7c6544f26aba71c4258efc809b5920cc68b3f226a47ef852dcd035f2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

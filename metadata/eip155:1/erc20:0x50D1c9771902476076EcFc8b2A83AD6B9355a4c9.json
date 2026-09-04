@@ -1,0 +1,8 @@
+{
+  "name": "FTX Token",
+  "symbol": "FTT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x50D1c9771902476076EcFc8b2A83AD6B9355a4c9./ipfs/qms4cdqpd1hgfhsxsoynugpdwazqtmnqe35fhzeaekuddi/bcd1xljpyw29bbherkg7izgukunx6gaoowegb7fvm4rtiubafxwgnxnqxsx9yzvr5m5jyzlzsfmsw11n6grwuraxce",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa0e839af28f33e4e52d1075188a83afa8a578a3fe55d34c4afc73273734b07b7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

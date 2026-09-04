@@ -1,0 +1,8 @@
+{
+  "name": "Sentinel",
+  "symbol": "SENT",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA44E5137293e855B1B7bc7e2c6f8CD796FFcb037./ipfs/qmtdgk9irbqnjzenchblwtnc7zrfvncvwndxpqnhbuwiip/bcd1xlhje6htqzemystkj7by6pyrjv6shkducam49lvk4n3c2p4nftfleyk8jgcjsnwkilrvphexe6untu93fcgbny",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x45e89befd2a2453a0ce98defda46ced37f5eb491048a55d283b6b0a0e600e3b9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

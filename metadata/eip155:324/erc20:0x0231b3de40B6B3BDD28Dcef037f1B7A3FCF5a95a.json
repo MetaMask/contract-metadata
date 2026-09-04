@@ -1,0 +1,8 @@
+{
+  "name": "Zynergy",
+  "symbol": "ZYN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x0231b3de40B6B3BDD28Dcef037f1B7A3FCF5a95a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbff79442d0d718b8d4ddb0742aaf3f1ef2ad196826c9bdc5e1ab02ef531f6a98@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

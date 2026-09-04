@@ -1,0 +1,8 @@
+{
+  "name": "Koji",
+  "symbol": "KOJI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1C8266a4369Af6D80DF2659ba47B3C98F35cb8be./ipfs/qmrm8sxugwwzizrtjjqfbnqvecxy9jfsxgubhkbyky7g8f/koji",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd60112f4de33dc14824577cf60a4444be75849bf141593373db8608f3ee2da8b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

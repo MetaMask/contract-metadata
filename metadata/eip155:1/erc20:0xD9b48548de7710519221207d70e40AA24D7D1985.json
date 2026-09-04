@@ -1,0 +1,8 @@
+{
+  "name": "CandyBooty",
+  "symbol": "BOOTY",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD9b48548de7710519221207d70e40AA24D7D1985./ipfs/qmscj26uabdra3q5xplvadbhsxubdsr8fu8tqbdxlre49r/booty",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0e31603ad21b7372113dbaf95e6771cd34be5e91ecb09a5adc4b12fb89e83234@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

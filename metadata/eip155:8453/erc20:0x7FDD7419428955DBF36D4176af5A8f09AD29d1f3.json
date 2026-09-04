@@ -1,0 +1,8 @@
+{
+  "name": "Based Satoshi",
+  "symbol": "BOSHI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x7FDD7419428955DBF36D4176af5A8f09AD29d1f3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3f8008666cf0e8d00ad658971f058137111bdad8333e790583069f261b2bafe5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

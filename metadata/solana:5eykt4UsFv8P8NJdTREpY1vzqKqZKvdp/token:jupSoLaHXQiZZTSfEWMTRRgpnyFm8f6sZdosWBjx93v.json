@@ -1,0 +1,8 @@
+{
+  "name": "Jupiter Staked SOL",
+  "symbol": "JupSOL",
+  "decimals": 9,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd2e9df0fa49dd7e9ca99031c3f23d65d4d4ceabddafe1cdef85ce4ae70a72965@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

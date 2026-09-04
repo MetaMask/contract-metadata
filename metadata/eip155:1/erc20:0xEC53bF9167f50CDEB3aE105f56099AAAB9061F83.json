@@ -1,0 +1,8 @@
+{
+  "name": "EigenLayer",
+  "symbol": "EIGEN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xEC53bF9167f50CDEB3aE105f56099AAAB9061F83.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xcdcfecf92628877d2bd20cd352d968556c5d94174a430c29cdf6ee570c8769dc@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

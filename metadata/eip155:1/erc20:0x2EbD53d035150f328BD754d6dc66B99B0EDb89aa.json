@@ -1,0 +1,8 @@
+{
+  "name": "Metronome",
+  "symbol": "MET",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x2EbD53d035150f328BD754d6dc66B99B0EDb89aa./ipfs/qmt4kypmgcihg7z2kaevrhnt9syeecvdygyps9z1yorn3l/met",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdde9b8a743dbf5ba025d6ef33cee4497c8a5c86c3e792071a58d8d10a7a350cb@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Boo",
+  "symbol": "BOO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xEC1DF7edfcdC2E2042C63252c1cef480F64F9189.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1fb406dff90001f1ad0092b1874aa995fe485238d9dcbbd95068e2db09f32004@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Data Transaction Token",
+  "symbol": "XD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x24Dcc881e7dd730546834452f21872D5CB4b5293./ipfs/qmwpp3lmjzrqglvfhb1opgxlfvqgnv9mpabw4mawyf7wke/bcd1hzbwkt78eyewbd53yrkmf8tznkddf8htgj4hebgqxxf3xxdmge85dqm6wnxzssgxq5h2tfkcqxvyjlqvduh3jh",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc84cd96dc45111f7e90000bba5e8341d64bcd0b93ff60c3c61606963ce770d6b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Nifty League",
+  "symbol": "NFTL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3C8D2Fce49906E11E71cb16fa0ffeB2B16C29638.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x58b1437a1b6768047c8f4cab72b26b15450fe247cb3c66c6e664f79691373973@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

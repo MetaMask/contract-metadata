@@ -1,0 +1,8 @@
+{
+  "name": "Xena",
+  "symbol": "XEN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x981D41c115A2D48CB1215d13bdA8f989D407c9c5.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd92deaa53bb1a392239c34846fbaf00c874729f57de110460840b6fe16e0622e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

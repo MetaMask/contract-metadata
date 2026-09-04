@@ -1,0 +1,8 @@
+{
+  "name": "Stable USDLR",
+  "symbol": "USDLR",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xB6841b40bAAfeDF4E37935270357ff89DF42E68e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0e77e45446e0d7527afb14be3b230b6a179dab2bea258ddca894cfbe9068dd40@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

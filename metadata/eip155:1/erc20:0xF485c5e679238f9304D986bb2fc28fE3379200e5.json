@@ -1,0 +1,8 @@
+{
+  "name": "ugChain",
+  "symbol": "UGC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF485c5e679238f9304D986bb2fc28fE3379200e5./ipfs/qmxrjrw9ehhddxkapwudmtzuv9ukmkqrbdznfmtktdmaru/bcd8fdhpedqtz5famk3783cpsznzo3nvpwnvurhb5n85jotmo1vefrzvw8cephvysdceprtagcni4cejnhhdya71xc",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xda78a29843b01720c76557ecb9b855078e2d2375f6ca12e881aca7204c839c15@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Livepeer",
+  "symbol": "LPT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0x289ba1701c2f088CF0FaF8b3705246331Cb8a839.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb325af80e3455e2e68f27069dec7cacea118d510f572b9b13806631c5fb68183@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

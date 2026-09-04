@@ -1,0 +1,8 @@
+{
+  "name": "Snark Launch",
+  "symbol": "SNRK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x533b5F887383196C6BC642f83338A69596465307.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0bd22d46db5f50b82e0e27b50af52b0a7e6288882f3ac303063c78db5da19378@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

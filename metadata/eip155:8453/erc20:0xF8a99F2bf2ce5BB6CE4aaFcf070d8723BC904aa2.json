@@ -1,0 +1,8 @@
+{
+  "name": "Chinese BRETT",
+  "symbol": "CHRETT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xF8a99F2bf2ce5BB6CE4aaFcf070d8723BC904aa2.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd62e1b9792703509f3dd8e4da7f700134e0bdcf7017f5700839fe976dc4b5a03@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

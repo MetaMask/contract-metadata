@@ -1,0 +1,8 @@
+{
+  "name": "iMe Lab",
+  "symbol": "LIME",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x7BC75e291e656E8658D66be1cc8154A3769a35dd.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa4241c8454b1ced3b3e761765323f47b914694805aaeb41397a8a5debf56d273@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Milady",
+  "symbol": "LADYS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xE28c7Fd13be1558B49b6373a5646538E001E04d3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6fc78405a346b1d740ab60496e60fe6fb1273157aa770a123ffbaac209196590@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

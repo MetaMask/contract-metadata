@@ -1,0 +1,8 @@
+{
+  "name": "BitTorrent",
+  "symbol": "BTT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x352cb5e19b12fC216548a2677bd0fCE83BaE434b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5197a30aa8ae5bb1efaa419835fef6b73b434cbc2d484ff5ba5eb0280fffdc32@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

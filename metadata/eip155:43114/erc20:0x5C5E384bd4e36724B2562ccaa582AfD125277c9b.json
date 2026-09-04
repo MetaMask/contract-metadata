@@ -1,0 +1,8 @@
+{
+  "name": "Arrow Markets",
+  "symbol": "ARROW",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x5C5E384bd4e36724B2562ccaa582AfD125277c9b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc5c487e57068de2a119912c137522e777262b36b25522787d0320666f131bd16@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

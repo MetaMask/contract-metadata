@@ -1,0 +1,8 @@
+{
+  "name": "Rocket Pool ETH",
+  "symbol": "rETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xB6FE221fe9eef5ABA221c348bA20A1BF5E73624c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa02e62441155e3504fa1b0e934e6e8ff2a57317306a5361a3da5b3af74b49587@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

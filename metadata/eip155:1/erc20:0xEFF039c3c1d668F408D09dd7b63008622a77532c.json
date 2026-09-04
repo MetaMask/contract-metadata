@@ -1,0 +1,8 @@
+{
+  "name": "Cream Wrapped NXM",
+  "symbol": "crWNXM",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xEFF039c3c1d668F408D09dd7b63008622a77532c./ipfs/qmuegv9hbsaxqt91fv5uflert4esvkcjdvvn2ddfsm5ydv/crwnxm",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x982b37bf19a4930a98c99263948ba2b10d4efcee711ca374ec49fedd61dfb83e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

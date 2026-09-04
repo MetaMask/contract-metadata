@@ -1,0 +1,8 @@
+{
+  "name": "Hana by Virtuals",
+  "symbol": "HANA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x1CFc22860fe46A622E3c2d1c9b036412467EF4c9.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe8971e429801bf0b1d250bbe6cbc72ed3b99455c1372b4604805527ce912bc1e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

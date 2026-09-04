@@ -1,0 +1,8 @@
+{
+  "name": "Mrweb Finance",
+  "symbol": "AMA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xA77D560e34Bd6A8D7265F754b4fCD65D9a8E5619.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8d3016eefefeeac020e71d1b410d63469825346f7e89bdcf93f7547cc8c98a2c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

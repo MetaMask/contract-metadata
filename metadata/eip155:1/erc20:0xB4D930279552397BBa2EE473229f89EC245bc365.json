@@ -1,0 +1,8 @@
+{
+  "name": "MahaDAO",
+  "symbol": "MAHA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB4D930279552397BBa2EE473229f89EC245bc365./ipfs/qmnprjwnxjiqd9krsf2xxhe1he921mzeomc6zwjh7nzokj/maha",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe2444d2178a8cf0854b6397c3f5925581e9140263060ca80b42679b975bd112c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

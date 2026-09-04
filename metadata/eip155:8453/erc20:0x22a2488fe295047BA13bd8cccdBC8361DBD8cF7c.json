@@ -1,0 +1,8 @@
+{
+  "name": "Sonne Finance",
+  "symbol": "SONNE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x22a2488fe295047BA13bd8cccdBC8361DBD8cF7c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4c0691762b69949eeff2dd4993be0a6f53d47f83273ca05026c1f7a6814bf8bd@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Fat Doge",
+  "symbol": "FOGE",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x76851a93977BeA9264C32255b6457882035c7501./ipfs/qmtt62sjw4pvw3rufrkpaklzzrw7x1npgzeundadgsuk96/foge",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf7ff6e602896b521ffbc1bc011aef8c8b1b2bd82c37a38f9f10cb2a2517f177f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

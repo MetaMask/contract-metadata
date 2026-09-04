@@ -1,0 +1,8 @@
+{
+  "name": "Primas",
+  "symbol": "PST",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x5D4abc77b8405AD177D8ac6682d584ECBFD46cec./ipfs/qmpd1zgb8mg3ggb5mkvkhgh2wsiqf2rvcwcnl8dkuqm3aa/bcd8ufwypnya5tp6g1iarb2d77zzfdsptxdby7fomshl29ze9x3egnzjokknd8tsif2lnzeud6qwwdaoddhkjfaltf",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfb9151c17f1b59c7a0a66f03488ca84160d2225f7269e46ef6c6375b481db489@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Celo",
+  "symbol": "CELO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42220/erc20:0x471Ece3750dA237F93b8E339c536989B8978a438.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbd4ae8fad46b3bbb27142e1e1b76b297f9fe00495c87a090ff25b2496cdbe17c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

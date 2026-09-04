@@ -1,0 +1,8 @@
+{
+  "name": "HEX",
+  "symbol": "HEX",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0x23D29d30e35C5E8D321E1dc9a8A61BFD846D4c5c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8aa94bb2dd1a957de36b08515a14919a464f41a0d25b1860641838f4d6e1ef51@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "FriendTech33",
+  "symbol": "FTW",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x3347453ced85BD288D783d85cdeC9B01AB90F9d8.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe730c537858b201eb35cf650e5e70937372481fb9f4a00e746c4eeee60d9b999@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

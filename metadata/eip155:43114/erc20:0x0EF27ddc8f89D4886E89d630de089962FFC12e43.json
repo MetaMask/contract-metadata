@@ -1,0 +1,8 @@
+{
+  "name": "Pegaxy Stone",
+  "symbol": "PGX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x0EF27ddc8f89D4886E89d630de089962FFC12e43.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6154d5cc8c0a0e4f8bb6a35ad443881e69f95fbf5e2ef3c33435f23dab4aeaff@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

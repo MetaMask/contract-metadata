@@ -1,0 +1,8 @@
+{
+  "name": "Agentwood",
+  "symbol": "AWS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xCB6ab91007fe165C81b1E672007361CCE9995Fd1.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x606d52cd11b4f1c33f591f3f3d42bd176011729103ebf7fad7a0c20f883a21be@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

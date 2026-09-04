@@ -1,0 +1,8 @@
+{
+  "name": "Venus AAVE",
+  "symbol": "vAAVE",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x26Da28954763B92139ED49283625CECAF52c6F94.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4dce6a431a797cbd09f615f9b06e57382d218f0a584c63ac9a780afd2cb0b757@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "ChoccySwap",
+  "symbol": "CCY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xB723783e0f9015C8E20b87f6cf7Ae24DF6479e62.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x10a424ccd78829bf3ffdc86e0401940ba6c3012f3e6d2de9b7fda86a0172d852@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

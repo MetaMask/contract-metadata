@@ -1,0 +1,8 @@
+{
+  "name": "ZED",
+  "symbol": "ZED",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x5F819F701d6CA4A38CEca5c23e72528580b01977.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfd335496b06ba184e77a56caa37a32e6ebdddad7b911be7e297c275149426c93@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

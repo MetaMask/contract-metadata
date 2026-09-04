@@ -1,0 +1,8 @@
+{
+  "name": "Inari",
+  "symbol": "INARI",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xCa75c43f8c9AfD356C585ce7aA4490B48a95c466./ipfs/qmf2wlbw3qjutsmsfquwzjy4t97mtmhf7yfkudvswexcpg/inari",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5a10129986bda06899b1521494d97b8b39fbf577b3146ff13806f021120e971a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

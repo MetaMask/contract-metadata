@@ -1,0 +1,8 @@
+{
+  "name": "iZUMi Bond USD",
+  "symbol": "iUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:534352/erc20:0x0a3bb08b3A15A19B4DE82F8acfc862606Fb69a2d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xee016178fb1f95b65d54eafae53bd80a9714e065ca6103217c301ac581e97455@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

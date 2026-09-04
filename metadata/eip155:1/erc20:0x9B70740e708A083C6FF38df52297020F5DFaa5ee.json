@@ -1,0 +1,8 @@
+{
+  "name": "Daneel",
+  "symbol": "DAN",
+  "decimals": 10,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9B70740e708A083C6FF38df52297020F5DFaa5ee./ipfs/qmef8fyfk83t4f5dvic6phikphfs4szfboc5qdmyv2fqbb/bcd1kmszcxgjqiybmczyjirv9klbqbtyjvvw3g3fk85ic3vn4sgrud4kfyabbnwhizdefwhezmzvek5zjbnh8zy1aq",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x971871008f30a82d533b242fa8937c65bfe8d6c05a1e5cd1f821c442aa525d61@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "GAMMA",
+  "symbol": "GAMMA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xB3Cb6d2f8f2fDE203a022201c81A96C167607F15.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf931d59316e427e54dc1fe1a82039faf8fc364333b8828941d08e90de842434a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

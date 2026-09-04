@@ -1,0 +1,8 @@
+{
+  "name": "Beam",
+  "symbol": "BEAM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x62D0a8458ed7719FDaF978fe5929C6D342b0bFce.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6c1538575c4981ee422eb6e4d082208394805f39b423da94fbc2bf3d7d969b40@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

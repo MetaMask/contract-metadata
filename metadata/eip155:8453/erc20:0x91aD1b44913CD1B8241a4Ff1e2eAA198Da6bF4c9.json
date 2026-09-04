@@ -1,0 +1,8 @@
+{
+  "name": "Altura",
+  "symbol": "ALU",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x91aD1b44913CD1B8241a4Ff1e2eAA198Da6bF4c9.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe4a806aef1e2e3f79299b8274d154fa3f72e9936ac55a37e46bf6c305cdc9921@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

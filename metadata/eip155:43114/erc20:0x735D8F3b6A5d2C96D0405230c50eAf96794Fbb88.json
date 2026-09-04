@@ -1,0 +1,8 @@
+{
+  "name": "XPower",
+  "symbol": "XPOW",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x735D8F3b6A5d2C96D0405230c50eAf96794Fbb88.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xcba94382137c209d2f216e4efc211fe44476a872ab0e6aa78cda6feb44b226a3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

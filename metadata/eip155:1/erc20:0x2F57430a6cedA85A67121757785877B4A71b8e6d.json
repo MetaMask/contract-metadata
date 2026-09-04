@@ -1,0 +1,8 @@
+{
+  "name": "DefiPlaza",
+  "symbol": "DFP2",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x2F57430a6cedA85A67121757785877B4A71b8e6d./ipfs/qme6w8hvqeqqpzcs1wckfjgtk3hmawrn4cbpu6x6ujixa8/dfp2",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6263f686b43f551145453276ff637f7500dbfc82f8b22002410f5ba07f0a0943@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Armor",
+  "symbol": "ARMOR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1337def16f9B486FAED0293eb623DC8395DFE46a./ipfs/qmwswwyzxivzjktqzjrujr7xbszfz4hknqegddbyrccau4/armor",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6232c3e01f0f5376f75dd6420133c247120ad9b177c400bc33673f8285c7d797@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

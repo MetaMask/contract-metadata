@@ -1,0 +1,8 @@
+{
+  "name": "RBXSamurai",
+  "symbol": "RBXS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA9639160481B625BA43677be753e0A70BF58c647./ipfs/qmbtyereetlcdudpkpnwuaeckhqw3d62twouvheckcwoy4/rbxs",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfec6e78041226bc1ff2ca6cc651b5340cb96e087cb0fc2bb4110ae5974b50cb2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

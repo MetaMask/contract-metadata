@@ -1,0 +1,8 @@
+{
+  "name": "1INCH",
+  "symbol": "1INCH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x3F0b8b206A7fBDB3ECFc08c9407CA83F5ab1ce59.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x00ef2d3dbbe1f83ce26e4cfd3bc3523a1296dcf34961860a8c971c3e966f258b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

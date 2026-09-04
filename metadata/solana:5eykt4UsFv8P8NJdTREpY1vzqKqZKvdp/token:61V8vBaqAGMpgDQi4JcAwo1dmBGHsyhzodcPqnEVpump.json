@@ -1,0 +1,8 @@
+{
+  "name": "AI Rig Complex",
+  "symbol": "arc",
+  "decimals": 6,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:61V8vBaqAGMpgDQi4JcAwo1dmBGHsyhzodcPqnEVpump.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7ff0919ccde8b52213ca31ff186d9a9b6d46348c6f03c98b1ead1ff51cf87a1f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

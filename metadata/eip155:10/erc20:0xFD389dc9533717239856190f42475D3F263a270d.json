@@ -1,0 +1,8 @@
+{
+  "name": "Granary",
+  "symbol": "GRAIN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:10/erc20:0xFD389dc9533717239856190f42475D3F263a270d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe235f379d7a83eed058cc9108518c816a75d901ab556787762fae56ce3a59317@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

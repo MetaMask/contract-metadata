@@ -1,0 +1,8 @@
+{
+  "name": "DWONK",
+  "symbol": "DWONK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x078404004442C3F2B0F1868947BC275976F0089a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0dd8e581bc4edcd4d4b66164bf05401202fdbcef5ed62139901a68f9978d340e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

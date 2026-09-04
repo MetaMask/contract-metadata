@@ -1,0 +1,8 @@
+{
+  "name": "OLCF",
+  "symbol": "OLCF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xEEaa34af95B034BADa4baF565063132C765b1Fa5./ipfs/qmzaqz2jalxnbugydasbjdvaazgodrdhyf2nqqnfh1verv/bcdves7oeyapuaoejjnhxo3uxp4g42zzqomdsr2h3pmiwluc6bzv5rsrvgzrsue7sbmzwuxejywfnzkge11ywcjmto",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x662073e869574e2755fe23d1822c8c216e6e224c353a96fa7ae1cfe6cd108932@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

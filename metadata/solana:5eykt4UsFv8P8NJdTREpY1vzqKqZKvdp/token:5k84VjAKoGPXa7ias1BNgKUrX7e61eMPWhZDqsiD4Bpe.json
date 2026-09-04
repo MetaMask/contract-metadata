@@ -1,0 +1,8 @@
+{
+  "name": "Layer3",
+  "symbol": "L3",
+  "decimals": 9,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:5k84VjAKoGPXa7ias1BNgKUrX7e61eMPWhZDqsiD4Bpe.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x43dc6b5f706b8d228413dd2c9e3082408cfec059a2d4c21eeec48f75a32a6e1b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

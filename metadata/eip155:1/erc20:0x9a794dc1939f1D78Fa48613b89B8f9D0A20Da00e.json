@@ -1,0 +1,8 @@
+{
+  "name": "Arbidex",
+  "symbol": "ABX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9a794dc1939f1D78Fa48613b89B8f9D0A20Da00e./ipfs/qmv2dvjy8v7lxzbgienrfbfwzwupxctoqcocdd41zg5ym5/bcdz8dym4xvre4cy2pd6utuznljkdkyxgrkcxcbxmfgjmrzoa26by117qrmyrxhat6y68vzum9fjxks8jp958kdezd",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x98fc1b398b478ff12528456493697e50aea624ef51465f0015ff504fe530ba74@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

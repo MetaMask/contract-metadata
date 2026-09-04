@@ -1,0 +1,8 @@
+{
+  "name": "WoofTools.io",
+  "symbol": "TOOLS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA40a8280590B276ADaE8d9ebcc8AeCF723751F8e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x09f02f351f45f1e999cbaf3dbc88c107bc9c2cdf0987fe0d9529efe3906d3024@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

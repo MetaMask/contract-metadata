@@ -1,0 +1,8 @@
+{
+  "name": "Risitas",
+  "symbol": "RISITA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xE6F47303032A09C8C0F8Ebb713c00E6ED345E8c3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0ad01d3b1489ba2f20289cb74c1c1d2075a3bf38cabc893849e44fa1a1f5eef7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

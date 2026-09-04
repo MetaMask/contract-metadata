@@ -1,0 +1,8 @@
+{
+  "name": "FDX",
+  "symbol": "FDX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xE248c0bce837B8DFB21FdFa51fB31D22FBbb4380.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5b0111c25e8db14385a5752fb965f244ce6f55f43ea5113acaca1a7ccb1646ee@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

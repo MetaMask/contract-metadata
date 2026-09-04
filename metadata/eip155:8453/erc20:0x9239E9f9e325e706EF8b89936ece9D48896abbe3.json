@@ -1,0 +1,8 @@
+{
+  "name": "Artto AI",
+  "symbol": "ARTTO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x9239E9f9e325e706EF8b89936ece9D48896abbe3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x163edb3bd2909c70dbde822e60443cde16b344f99c2eeb896a794bd7f659f920@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

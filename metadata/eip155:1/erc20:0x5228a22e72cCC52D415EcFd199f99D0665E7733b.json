@@ -1,0 +1,8 @@
+{
+  "name": "pTokens BTC",
+  "symbol": "pBTC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x5228a22e72cCC52D415EcFd199f99D0665E7733b./ipfs/qmnbyveukk4mnteuapaw3qkgsn9uqxutbkxpou8d3yjtsq/bcd1xezbiyyjsqbe18qnbedptjlprwihnejs3ggbhrclgdh29emdbndepghicpie8dy2kyfed6sbt4y9xtrzs6znmh",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbc0fc3486990af2b2e3c536369e3344a878d5a095ccbeb367d2faa459f6f1b88@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Fuse",
+  "symbol": "FUSE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x5857c96dae9Cf8511B08cb07f85753C472D36ea3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc5dc2ecc9a836da7a19daab41ba3f64213eefc032c95160f7639eb0f5a716c4d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

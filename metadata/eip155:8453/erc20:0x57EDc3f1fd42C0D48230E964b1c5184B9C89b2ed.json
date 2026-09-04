@@ -1,0 +1,8 @@
+{
+  "name": "draiftking",
+  "symbol": "DKING",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x57EDc3f1fd42C0D48230E964b1c5184B9C89b2ed.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9758adf2616f7262a34e7361cc08574ee6f02919d1ce9d94dcd56ff666d64c25@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

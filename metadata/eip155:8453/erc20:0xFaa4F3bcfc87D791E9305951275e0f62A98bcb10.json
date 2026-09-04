@@ -1,0 +1,8 @@
+{
+  "name": "Super Best Friends",
+  "symbol": "SUBF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xFaa4F3bcfc87D791E9305951275e0f62A98bcb10.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x03e1e960b9cd393252f4f22a4518c217f63bc3b73d20b23c00347dab151ca5ca@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

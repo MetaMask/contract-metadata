@@ -1,0 +1,8 @@
+{
+  "name": "Sociall",
+  "symbol": "SCL",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD7631787b4dCC87B1254cFd1e5ce48E96823dee8./ipfs/qmufvaxdw9bveq8urtw4utmhakbnewaxxu5jrajbul1n4j/bcd2tmxkayxcpyqejpexdeeg7m8e3w6rgcmiw399pjmettk5ec87jrco3xzk8h7amxpbbj4jbt65ckpbtdenwkalae",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8a6b8225eb6f50f46cd9facddd9f9038215e473f16e43f5b54bd942ec041c252@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "R U Generous",
+  "symbol": "RUG",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xB8EF3a190b68175000b74b4160d325FD5024760e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4df8cfcfb7443715a3a76d030d419d69db33466a2e765d7d0373b971e9332115@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Ambire Wallet",
+  "symbol": "WALLET",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x88800092ff476844F74Dc2fc427974BBEE2794ae.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x49eb46614ee12eac4b438a1c3f08962f1797f22ac04d2291113eddb9392cab0d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

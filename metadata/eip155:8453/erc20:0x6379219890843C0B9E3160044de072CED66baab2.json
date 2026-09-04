@@ -1,0 +1,8 @@
+{
+  "name": "ThreatSlayerAI by Virtuals",
+  "symbol": "SLAYER",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x6379219890843C0B9E3160044de072CED66baab2.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb4211d20569f81949a929d1d61a98c18dd3e49aa688e2f019996055ff78cffa0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

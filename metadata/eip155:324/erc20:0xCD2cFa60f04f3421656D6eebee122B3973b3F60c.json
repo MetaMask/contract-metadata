@@ -1,0 +1,8 @@
+{
+  "name": "MetaElfLand",
+  "symbol": "MELD",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xCD2cFa60f04f3421656D6eebee122B3973b3F60c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7204cd48c1342d9345fb8fcec22431bd539317ca2768a8f866d0f90783d6f1ee@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

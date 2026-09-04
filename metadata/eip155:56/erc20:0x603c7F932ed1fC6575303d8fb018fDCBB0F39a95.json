@@ -1,0 +1,8 @@
+{
+  "name": "ApeSwap",
+  "symbol": "BANANA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x603c7F932ed1fC6575303d8fb018fDCBB0F39a95.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb29c847f9d540e5950b6f1a0d4843a559141a57dfe8c724f79bed5afa319c20f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

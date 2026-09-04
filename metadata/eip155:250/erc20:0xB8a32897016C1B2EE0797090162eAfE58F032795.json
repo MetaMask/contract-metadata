@@ -1,0 +1,8 @@
+{
+  "name": "FantomEco",
+  "symbol": "ECO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:250/erc20:0xB8a32897016C1B2EE0797090162eAfE58F032795.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x45716824d9d394ad700b2a4512837a84010d9815f0eed8a0675ddadd64b49741@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

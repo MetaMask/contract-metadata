@@ -1,0 +1,8 @@
+{
+  "name": "JPY Coin",
+  "symbol": "JPYC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:100/erc20:0x431D5dff03120AFA4BDF332c61A6e1766EF37bdb.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd586e8c037d3828c08cd7a8b7d10e87738c9de9f7829f0acb5d2e4b3f6b6ab4b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

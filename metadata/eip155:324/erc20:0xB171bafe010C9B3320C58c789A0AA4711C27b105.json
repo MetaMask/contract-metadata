@@ -1,0 +1,8 @@
+{
+  "name": "mETH",
+  "symbol": "mETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xB171bafe010C9B3320C58c789A0AA4711C27b105.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd3b091be87a4f7f05da41bbd77aaa2af2df91b5cbdfd3bb48582523f0cea825c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Nebulas",
+  "symbol": "NAS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x5D65d971895eDC438F465c17db6992698a52318d./ipfs/qmvgysejsojkbwhnofrmfavupancnrsymzquq9r3ajgnqn/bccx3mbge3bw9hy8r8jt3fm9v82dqkxnnclex1wstjswxgc5epuvhnob6ksdmddtogmkbnml964xdzhiqzrsnvx4n1",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb177f066d3346d974e9b137381d6c6e2f69981fae07f4b561734eabba4db87f4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

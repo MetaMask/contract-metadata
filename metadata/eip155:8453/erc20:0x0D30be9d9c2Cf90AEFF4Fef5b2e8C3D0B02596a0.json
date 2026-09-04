@@ -1,0 +1,8 @@
+{
+  "name": "BLARB",
+  "symbol": "BLARB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x0D30be9d9c2Cf90AEFF4Fef5b2e8C3D0B02596a0.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9c4b17aa0457d68ae8efb908fbc5a7bc87e3542d065ebaec96e1d6eb081bf137@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

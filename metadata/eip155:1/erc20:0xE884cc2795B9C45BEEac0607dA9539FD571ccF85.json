@@ -1,0 +1,8 @@
+{
+  "name": "Ultiledger",
+  "symbol": "ULT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xE884cc2795B9C45BEEac0607dA9539FD571ccF85./ipfs/qmcbwlp79qomcbnwnn63razmfk3tmcctkdmx1d8rvc5xer/bcd771sykb4tstkhl2diggwxjby4f776ceog7gbvdvpyzaagmvyggaf3juavu9qaxenxscpbm6drgxmuoelm97t1wv",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6569c38d264e8752fece653d420e58df1317c2c90cda267eddcc5181f02aef63@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

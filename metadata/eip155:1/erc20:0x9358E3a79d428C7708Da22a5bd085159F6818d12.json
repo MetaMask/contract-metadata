@@ -1,0 +1,8 @@
+{
+  "name": "Tenshi",
+  "symbol": "TENSHI",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9358E3a79d428C7708Da22a5bd085159F6818d12./ipfs/qmezy98yst9x2bcb15y19eejwfajrhnwvefw8evnsibzpg/tenshi",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfd276116997f30aa4463c42df790683662601207834eb73936b941bbe4456c4e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Wick Finance",
+  "symbol": "WICK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xBBE460dc4Ac73f7C13a2a2feecf9ACF6D5083F9b./ipfs/qmrrqewpzt8zbhnwg1jlyrdamv5t4wcpxl25mbkiyambya/wick",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9001de12cc05c693f23fc5e004cad8a68f1ef2854b6275102cd88ce68e14a958@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "TBOT Project",
+  "symbol": "TBOT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA4F2Fdb0a5842D62BBaa5b903f09687B85E4bF59./ipfs/qmsehmtpcuxldvnxnrfmajzxevny2xzecnrcr7fds4hnpg/tbot",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1f9bcb48a95e5c1d98d00ba6ae0531eb86cb12e1b9e165f8c036a096857582f2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

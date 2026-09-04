@@ -1,0 +1,8 @@
+{
+  "name": "DePay",
+  "symbol": "DEPAY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA0bEd124a09AC2BD941b10349d8d224FE3C955eb./ipfs/qmappkdfb1q6juekrvyfmz6yi84o2c14bd9zkacehmktq3/depay",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2b21fae6ab579216f622d21170d7897a19bef33b8c164056aba70516a8761bd2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

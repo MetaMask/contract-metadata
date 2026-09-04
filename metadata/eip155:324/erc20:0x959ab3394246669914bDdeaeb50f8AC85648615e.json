@@ -1,0 +1,8 @@
+{
+  "name": "zkLaunchpad",
+  "symbol": "ZKPAD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x959ab3394246669914bDdeaeb50f8AC85648615e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x342b3eeb93ecc347bff50c7e9ec0544331b4a6bd9a78fa7ffbb5a8d914374a39@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

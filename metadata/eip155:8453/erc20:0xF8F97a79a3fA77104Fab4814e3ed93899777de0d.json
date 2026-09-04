@@ -1,0 +1,8 @@
+{
+  "name": "Gertrude",
+  "symbol": "GDP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xF8F97a79a3fA77104Fab4814e3ed93899777de0d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x741256616e4dcbb84f32a2f3f42db3e0b0a5a4c062e7e4b23cd7ccd4e2eb8a22@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

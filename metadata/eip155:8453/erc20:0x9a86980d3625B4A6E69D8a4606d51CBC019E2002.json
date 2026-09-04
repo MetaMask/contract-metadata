@@ -1,0 +1,8 @@
+{
+  "name": "FOMO BULL CLUB",
+  "symbol": "FOMO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x9a86980d3625B4A6E69D8a4606d51CBC019E2002.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb788d2675dcb40a3a646993f2d22db92e79a18cfc46169e6c8c025e669dd8589@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "DogeClub",
+  "symbol": "DOGC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xDa8263d8ce3f726233F8b5585bcB86A3120a58b6.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbe5337adfd54eed00e36aad462572d059b6307947f8646ab1db24bb498e60a9f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

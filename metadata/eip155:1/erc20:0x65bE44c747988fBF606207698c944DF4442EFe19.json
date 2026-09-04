@@ -1,0 +1,8 @@
+{
+  "name": "FUCK Token",
+  "symbol": "FUCK",
+  "decimals": 4,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x65bE44c747988fBF606207698c944DF4442EFe19./ipfs/qmysavscwdahxxcavznpmsjfwgakznv9hudnoq56vfe83b/bcdz9aqtnp7tlxygbb5lh86eis4rfzm1ocgjqx2peddegfzxspk1gmgtfdfqhygy5wlggvhjlzfzr8gheewspejunh",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1bdb9a3f080f0615545f1c3d5ddb2d42cbc77fcfca2fe1c36a075adbf499b60f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Roam",
+  "symbol": "ROAM",
+  "decimals": 6,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:RoamA1USA8xjvpTJZ6RvvxyDRzNh6GCA1zVGKSiMVkn.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x85a140a65291268fa717947c23b1c3308e29251be49c62ca5de4dc54a65f545d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "PAAL AI",
+  "symbol": "PAAL",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x14FEE680690900BA0CCcFc76ad70fD1B95D10e16.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfa245b276302fbb05ccab94076804daa754df6c66d33d49214e7638c9048ac94@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

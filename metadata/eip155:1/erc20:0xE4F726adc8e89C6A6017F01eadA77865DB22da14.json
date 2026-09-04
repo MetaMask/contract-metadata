@@ -1,0 +1,8 @@
+{
+  "name": "PieDAO Balanced Crypto Pie",
+  "symbol": "BCP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xE4F726adc8e89C6A6017F01eadA77865DB22da14./ipfs/qmbvhc3rxbqdc84rig459fpxmeaebcsr4h1h7vl2ee5qrd/bcp",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc3f696ca15f365e1c615b05ad59b597861cf55bf6782cf79a28b7c9264370ee8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

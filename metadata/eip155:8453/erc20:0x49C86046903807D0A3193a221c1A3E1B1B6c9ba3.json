@@ -1,0 +1,8 @@
+{
+  "name": "CYI by Virtuals",
+  "symbol": "CYI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x49C86046903807D0A3193a221c1A3E1B1B6c9ba3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x50991cdb0845a2fdd6c41901717e7a8d924853fc16f6797dc44342e00ed13ee3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

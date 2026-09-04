@@ -1,0 +1,8 @@
+{
+  "name": "Cakepie",
+  "symbol": "CKP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x2B5D9adea07B590B638FFc165792B2C610EDa649.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfa715195ec9754bb6e5861b89b885f9083619b5e3a456a3de8c57df731d5cbf1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Wrapped Minima",
+  "symbol": "WMINIMA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x75b1668b8fB44A6A66bD4104248dD836E2E2b4a6.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0c334670f6772b19410c140635a31dadf97e4502218baf879c2616e777793d3f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

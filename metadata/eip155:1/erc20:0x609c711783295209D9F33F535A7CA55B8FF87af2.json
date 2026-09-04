@@ -1,0 +1,8 @@
+{
+  "name": "Toll Free Swap",
+  "symbol": "TOLL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x609c711783295209D9F33F535A7CA55B8FF87af2./ipfs/qmnf1uppjuglsywixafn8ey5h3hvyt8t9gxoq3cmygnkqv/toll",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0bb56531524c7c81817763763bf862fd09892f92ee3fff80bde26eb16e987ff7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

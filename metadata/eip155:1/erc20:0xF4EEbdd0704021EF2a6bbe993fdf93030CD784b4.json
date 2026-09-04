@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Inverse EOS",
+  "symbol": "iEOS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF4EEbdd0704021EF2a6bbe993fdf93030CD784b4./ipfs/qmzurjr5ygl7bafavbfmzp7ehaqrn8s2rd37qrxjm9r2eh/ieos",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x39450807d4b2395d9fc54f236a964132b98ea90d861b27815328ed2e4d01a33f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Nabox",
+  "symbol": "NABOX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x630bc7dd0ABfC2D196289ce09dB947DD2CaFae7c./ipfs/qmuvoeufxwco4eejbyjmctvwah6imycok9vvfj5dvlmewb/nabox",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf3747a9eae82b33b80f1a1a13cefece857c2fc7be4112c972b85461ec0219c64@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

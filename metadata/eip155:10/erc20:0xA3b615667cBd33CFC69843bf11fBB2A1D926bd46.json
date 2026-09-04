@@ -1,0 +1,8 @@
+{
+  "name": "mPendle",
+  "symbol": "mPendle",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:10/erc20:0xA3b615667cBd33CFC69843bf11fBB2A1D926bd46.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xbce63e63dd1a96b30da3fc19a2ffba48f1d4885e0b39e19ad68f9723294225aa@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

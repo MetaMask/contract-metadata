@@ -1,0 +1,8 @@
+{
+  "name": "Z Protocol",
+  "symbol": "ZP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:534352/erc20:0x2147a89fb4608752807216d5070471C09a0Dce32.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1bac8cb16566b5038e5363335f9187c149ecd6bbdaa4a15c74681bc626cd08ef@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

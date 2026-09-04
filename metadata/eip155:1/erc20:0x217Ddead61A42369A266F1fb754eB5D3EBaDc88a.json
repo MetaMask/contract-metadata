@@ -1,0 +1,8 @@
+{
+  "name": "Don-key",
+  "symbol": "DON",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x217Ddead61A42369A266F1fb754eB5D3EBaDc88a./ipfs/qmwxvxy9ouvxbe7rutjn4dcgbcn3xutmxpffsjrhrcdffe/don",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf3a265d4fbc4602025a7fba9de16f9dc4c1e2d24b6a7afa83397c485cdffa706@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

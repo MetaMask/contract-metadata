@@ -1,0 +1,8 @@
+{
+  "name": "eXpanz",
+  "symbol": "XPANZ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x235Dc4738290AAD823b8c4ac2012C188C5232933.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xcfc022ef1623f781fa43d323ca6622857081fc07ad8d455809572535ad1c4c40@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

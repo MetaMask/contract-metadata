@@ -1,0 +1,8 @@
+{
+  "name": "veSync",
+  "symbol": "VS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x5756a28e2AAe01F600Fc2c01358395F5C1F8ad3a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe0962e140114749d290e4830f47a8e59a301a035e82d93bb63d80f5bfc76a88e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

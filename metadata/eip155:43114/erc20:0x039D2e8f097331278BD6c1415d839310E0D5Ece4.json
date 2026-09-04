@@ -1,0 +1,8 @@
+{
+  "name": "Linda",
+  "symbol": "LINDA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x039D2e8f097331278BD6c1415d839310E0D5Ece4.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x59ee3890d7116a3e08f249f8b72beb0781416173494e3f9df6d2828e1fe953c4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

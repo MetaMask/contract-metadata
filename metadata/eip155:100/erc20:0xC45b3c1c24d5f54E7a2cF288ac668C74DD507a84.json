@@ -1,0 +1,8 @@
+{
+  "name": "Symmetric",
+  "symbol": "SYMM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:100/erc20:0xC45b3c1c24d5f54E7a2cF288ac668C74DD507a84.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4594d919603ceb7df6d72203dda451c02f551efde13d2eb757deba7fcdbe4622@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

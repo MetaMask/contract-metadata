@@ -1,0 +1,8 @@
+{
+  "name": "Cream Serum",
+  "symbol": "crSRM",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xEF58b2d5a1B8D3CDE67b8ab054dC5C831E9bc025./ipfs/qmnmtugivmzhjh4fq8yvrqihctrxcaab4re2hht5hjplmy/crsrm",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x80906a9274a328a7a1b7550abbab342d8c3d09a0fe6f4d49fad8dcf0505d815b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

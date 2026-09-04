@@ -1,0 +1,8 @@
+{
+  "name": "Digital Rand",
+  "symbol": "DZAR",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9Cb2F26a23B8D89973F08c957c4d7CDF75CD341c./ipfs/qmskagjxqvwihx7jzqhnxd9abvchkx4adxoyuyw5aupmku/bcdzlqi9kd5iu6uxdgvuamhd6rrjbkehqtriirur5e9fjshffwvt4gldiwo4itpuymdly4gubdafvp3kqrzezypgcc",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa805ec1dd8167b447e59fcb5d40d39a5f010b59f3e468c6a5c740eb099ffba0b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

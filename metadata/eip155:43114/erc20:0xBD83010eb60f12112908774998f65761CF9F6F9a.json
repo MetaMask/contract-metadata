@@ -1,0 +1,8 @@
+{
+  "name": "SpookySwap",
+  "symbol": "BOO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xBD83010eb60f12112908774998f65761CF9F6F9a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xea3b6c8c3415855ce2c94485aa2d65cb8764fa9d22cb382075ff194b0ae0e37d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

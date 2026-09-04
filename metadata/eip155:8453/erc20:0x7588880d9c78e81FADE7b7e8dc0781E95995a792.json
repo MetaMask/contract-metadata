@@ -1,0 +1,8 @@
+{
+  "name": "Satoshi AI agent by Virtuals",
+  "symbol": "SAINT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x7588880d9c78e81FADE7b7e8dc0781E95995a792.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x88b4a068898235895ba61f4719d51f24f5773fd34e9b91168264aef05620a68e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Aviator",
+  "symbol": "AVI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD2bDaaf2b9cC6981FD273dcb7c04023BFBE0a7fe.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2b25f9285aa597ac6ccf1b575aab19941c1e9c5ec639ffb3bbb42b8ce5b8658d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

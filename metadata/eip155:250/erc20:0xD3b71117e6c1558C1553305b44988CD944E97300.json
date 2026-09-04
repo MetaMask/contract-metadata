@@ -1,0 +1,8 @@
+{
+  "name": "YEL.Finance",
+  "symbol": "YEL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:250/erc20:0xD3b71117e6c1558C1553305b44988CD944E97300.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x29b981b16ce341d7cef0a786f7bd5edcee8a0fbd62d3f3266a88dc6d4f161521@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

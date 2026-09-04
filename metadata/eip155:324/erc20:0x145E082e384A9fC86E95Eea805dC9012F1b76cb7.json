@@ -1,0 +1,8 @@
+{
+  "name": "TRALA",
+  "symbol": "TRALA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x145E082e384A9fC86E95Eea805dC9012F1b76cb7.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfd91cde6a40620cd1a6c7af981b2b3b766948c102112358a29407709996b0bfe@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

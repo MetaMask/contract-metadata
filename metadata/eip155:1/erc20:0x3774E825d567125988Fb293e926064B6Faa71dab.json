@@ -1,0 +1,8 @@
+{
+  "name": "Strike USDC",
+  "symbol": "sUSDC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x3774E825d567125988Fb293e926064B6Faa71dab./ipfs/qmsrj8qqhuiydat3npoim7ouejvfr2qsd2esa4jrni3ssg/susdc",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x437f9b67f53ee67a31ee4e638dca92ee2b751fc19c1a5626ad76304537d6d0b4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

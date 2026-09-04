@@ -1,0 +1,8 @@
+{
+  "name": "J3FF by Virtuals",
+  "symbol": "J3FF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x7C3aF051bfA356B8EaEE35c273A21AD9223EE994.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0e9114569d544d1dd13f656b88758bafc0845ec55b29230f47c4c18820f4be61@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

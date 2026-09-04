@@ -1,0 +1,8 @@
+{
+  "name": "Cardano",
+  "symbol": "ADA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x3EE2200efb3400FABB9aacf31297CBDD1D435d47.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7ec0de9ca206e1dcd46860a596790b9e23c1f483a0745f6a9afd0a90f90a1197@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

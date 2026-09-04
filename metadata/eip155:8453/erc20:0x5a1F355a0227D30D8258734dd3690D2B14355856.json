@@ -1,0 +1,8 @@
+{
+  "name": "zETH",
+  "symbol": "zETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x5a1F355a0227D30D8258734dd3690D2B14355856.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x33dd3fad5d4d90f314adabf53a346cd2dd42d2c57b7d40dc40534e24d7f52405@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "fBomb",
+  "symbol": "fBOMB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x74Ccbe53f77B08632CE0cb91d3A545BF6B8E0979.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x273fa1d328b6f24af2ff91ecd86fc782f6d65c9da87f5615828f84217f111965@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Vainguard by Virtuals",
+  "symbol": "VAIN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x6C7Ebb64e258f5712EEEc83ceAf41C3DCBb534b1.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x86f4648cc6f768e482ad11cbb57f888c1a6d11cb2407d58fb27d5b9ff9b078d8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Civic",
+  "symbol": "CVC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x41E5560054824EA6B0732e656e3AD64E20E94e45./ipfs/qmexaxqb5qkjjka1cymdctcbvewl7xqop3qmn14wdjjvmh/bce1vfzus5g1n26e5wgquwwdrxesuyeg1ckhekmpqafdkdf8mph73m63o9icsssoqe3f4msr8pyeyqabwtihqrzovt",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd15fa84abb677c5263761a25644a94cf371f0501b58f2a2a8f71f63bf18b084e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

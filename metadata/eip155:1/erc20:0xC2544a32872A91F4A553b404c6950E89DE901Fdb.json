@@ -1,0 +1,8 @@
+{
+  "name": "Frax Price Index Share",
+  "symbol": "FPIS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xC2544a32872A91F4A553b404c6950E89DE901Fdb.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe4114fb68552722b9b0d1af929b63914d52bab2abad5e822b76297504ce04bb0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

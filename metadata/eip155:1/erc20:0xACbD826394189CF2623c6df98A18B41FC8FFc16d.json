@@ -1,0 +1,8 @@
+{
+  "name": "NFTify",
+  "symbol": "N1",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xACbD826394189CF2623c6df98A18B41FC8FFc16d./ipfs/qmusbrjddpg6qkhy9xnrqgeavhei97thawtoucwtcjaczb/n1",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x46f2b55b56e28bae3cfac858d25c47db8f1b82409b027f432641104bd505358d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

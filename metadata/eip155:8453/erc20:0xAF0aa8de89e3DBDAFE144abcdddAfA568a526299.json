@@ -1,0 +1,8 @@
+{
+  "name": "HadesAI by Virtuals",
+  "symbol": "HADES",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xAF0aa8de89e3DBDAFE144abcdddAfA568a526299.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x08317d91ad3581f4724c2f7beaac3e585fc16756acfc023decc1ed86d6e4dbdc@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Pancake Bunny",
+  "symbol": "BUNNY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xC9849e6fdb743D08FaEE3e34dd2d1BC69Ea11a51.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x328e9fd528c18d81d370f78332dd75a95cb1b7adf9952b1c0572c93ebe243cd9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

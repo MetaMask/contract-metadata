@@ -1,0 +1,8 @@
+{
+  "name": "XTAG",
+  "symbol": "XTAG",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x06ba3e871Ae3C14026D3E8a819fB3B5F31FEF1d3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf175d34b5a0e98180d62e82ad24814e6ac2629b412690e834cca381279648e74@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

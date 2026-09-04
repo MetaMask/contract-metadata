@@ -1,0 +1,8 @@
+{
+  "name": "Ixs",
+  "symbol": "IXS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xFE550bffb51eB645Ea3b324d772A19AC449E92c5.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xabeaf3a53a6e04fc18d75061a6ce38acb5267a62c54168354bd6ea20ad6d73ce@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

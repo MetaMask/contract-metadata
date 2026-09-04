@@ -1,0 +1,8 @@
+{
+  "name": "Governor DAO",
+  "symbol": "GDAO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x515D7e9d75e2B76DB60F8a051cd890EBA23286bc./ipfs/qmutssgfjpccwnfwhtacikjbpcy3mnflg4py9fswxgvcub/gdao",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x105783e94034efbd05cd840b48dca5de7898e305bcb5b79c4ab55a392e495152@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

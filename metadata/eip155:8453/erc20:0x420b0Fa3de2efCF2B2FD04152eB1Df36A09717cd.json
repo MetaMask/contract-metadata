@@ -1,0 +1,8 @@
+{
+  "name": "King Of Memes",
+  "symbol": "KING",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x420b0Fa3de2efCF2B2FD04152eB1Df36A09717cd.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa6499a4918229525dff3d181f9c6250416a562eeb12ca78d89247063634f7146@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

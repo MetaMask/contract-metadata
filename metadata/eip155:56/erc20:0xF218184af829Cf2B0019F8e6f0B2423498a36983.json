@@ -1,0 +1,8 @@
+{
+  "name": "MATH",
+  "symbol": "MATH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xF218184af829Cf2B0019F8e6f0B2423498a36983.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9bd31f4cc703fcfb292388276c3422d2fca883388fefa563e394027ed569bce7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

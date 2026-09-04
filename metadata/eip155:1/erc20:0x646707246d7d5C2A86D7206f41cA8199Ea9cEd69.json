@@ -1,0 +1,8 @@
+{
+  "name": "Porkchop",
+  "symbol": "CHOP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x646707246d7d5C2A86D7206f41cA8199Ea9cEd69./ipfs/qmub2m4miyshzk9lk9v2jkp3kxzaaquymqouauqn5uchpu/bccxygyptdgrieuugnstna9tareu8jxct2eurt8xqp4wtyajnfxbxz5kraud1h8ovqejy7krp1ckbxtyc6kcyh9and",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6d29840c1961266b3958989a9aa430577791089570d2d27d987cf492b4c31778@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

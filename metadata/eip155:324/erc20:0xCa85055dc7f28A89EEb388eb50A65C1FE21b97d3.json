@@ -1,0 +1,8 @@
+{
+  "name": "USDe",
+  "symbol": "USDe",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xCa85055dc7f28A89EEb388eb50A65C1FE21b97d3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x154d40af024be70490f2be8120d72dab7bb201497816b0a81a78112466d61791@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

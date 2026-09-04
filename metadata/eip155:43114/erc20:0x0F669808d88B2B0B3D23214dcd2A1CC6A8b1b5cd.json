@@ -1,0 +1,8 @@
+{
+  "name": "Blub",
+  "symbol": "BLUB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x0F669808d88B2B0B3D23214dcd2A1CC6A8b1b5cd.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb4e9e99aa9e2291189b487e1294863f641910cb7ec8ea715074cb1599a5e264f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

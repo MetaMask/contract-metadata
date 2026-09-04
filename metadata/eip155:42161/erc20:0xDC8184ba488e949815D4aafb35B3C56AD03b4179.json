@@ -1,0 +1,8 @@
+{
+  "name": "Roseon",
+  "symbol": "ROSX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0xDC8184ba488e949815D4aafb35B3C56AD03b4179.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x02350d62c21710d9daecb12f1b1430501773786388aed7b1c84e898a43d0d388@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "LTO Network",
+  "symbol": "LTO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x857b222fc79e1CBBF8Ca5F78cb133D1B7CF34bbd.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x414a3cef7c3155d2b7df5fab48482fa1b71922996b21deabe781256d800c0096@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Cream Dai",
+  "symbol": "crDAI",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x92b767185fB3B04F881E3ac8e5B0662A027a1d9f./ipfs/qmcuaqnghuh4kfymuxhbk7sxwjy1tfbfnmnwdbm9m9ndx4/crdai",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1de536c233ec9917f026dd164d51e2d27ea5a49efa8b4cb9bed38294b2302f29@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

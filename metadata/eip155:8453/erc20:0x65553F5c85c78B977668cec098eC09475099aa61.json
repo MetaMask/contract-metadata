@@ -1,0 +1,8 @@
+{
+  "name": "QubeCv",
+  "symbol": "QCV",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x65553F5c85c78B977668cec098eC09475099aa61.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x10af17c016209b2ca8bcf6f04c319184dead0aa291e8dab708f2e04842e08048@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

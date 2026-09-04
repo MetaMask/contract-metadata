@@ -1,0 +1,8 @@
+{
+  "name": "UCROWDME",
+  "symbol": "UCM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x722F97a435278B7383a1E3c47f41773BEBF3232c./ipfs/qmrgdoal8fhq6apgkx1vvxewa3f9xrvzyckgicdpdbbyey/ucm",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x57c91334e10e5a99e1f19d2cedca1d8c5d970583c39d1dc5839873047a873977@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

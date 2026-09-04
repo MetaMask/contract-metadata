@@ -1,0 +1,8 @@
+{
+  "name": "Cult DAO",
+  "symbol": "CULT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF0F9d895acA5C8678F706Fb8216fA22957685a13./ipfs/qmpmrmulnqgpxjzxkwzz7rufyzg9p9eu8oncuwzhhr3xsy/cult",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc3de39e55ebc22b277ee13994bbea361a1eda5b9ecac935ecddd84a730034435@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

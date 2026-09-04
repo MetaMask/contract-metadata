@@ -1,0 +1,8 @@
+{
+  "name": "Swapr",
+  "symbol": "SWPR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:100/erc20:0x532801ed6f82ffFD2Dab70a19fc2D7B2772c4F4b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0be9c1f9d005292ec4d967f8104b92565476a97f5b58377649fce0ef33304e3d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

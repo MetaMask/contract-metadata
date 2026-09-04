@@ -1,0 +1,8 @@
+{
+  "name": "Pirate Nation",
+  "symbol": "PIRATE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x7613c48e0cd50E42DD9bF0f6c235063145F6F8dc.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x012fc7d56fa9e7c71b34ceba9c118c351f4d7d926bf04381098a50e11fd143af@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

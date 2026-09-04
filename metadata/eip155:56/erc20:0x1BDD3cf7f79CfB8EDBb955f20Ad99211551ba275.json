@@ -1,0 +1,8 @@
+{
+  "name": "Stader BNBx",
+  "symbol": "BNBx",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x1BDD3cf7f79CfB8EDBb955f20Ad99211551ba275.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4e2750b4400424c1101dfceae60cf056abbf8113562417f4a6c1772e44f0c2c6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

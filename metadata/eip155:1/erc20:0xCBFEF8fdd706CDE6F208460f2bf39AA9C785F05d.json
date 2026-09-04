@@ -1,0 +1,8 @@
+{
+  "name": "KINE",
+  "symbol": "KINE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xCBFEF8fdd706CDE6F208460f2bf39AA9C785F05d./ipfs/qmrb5wguf5r8n281uwsvmjqprnwpvmbsuqbxskai6u5m5v/kine",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5c1772be8e26c12358fbdf44622a9df60e019f92fa44c6921e2e738506dbb5fc@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

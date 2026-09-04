@@ -1,0 +1,8 @@
+{
+  "name": "Ethverse",
+  "symbol": "ETHV",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xEEEEEeeee2Af8D0E1940679860398308E0EF24d6./ipfs/qmpzvqdp68eygfkxyysc1speqbe68f17j9l3wythqijyfr/bcczm5tbymabdzc8759xaintkm3ht258kszjxjaczwjhrqftlpbhv2zd5fl1ljcvcfk2kswkrhbjhkhfd8hydlz5we",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb56d8ad3d757c92a3d925992b97ed70cfbbde83bfe59b2f748e252425853eaa8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

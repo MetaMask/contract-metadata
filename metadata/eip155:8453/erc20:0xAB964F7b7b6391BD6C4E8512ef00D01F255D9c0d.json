@@ -1,0 +1,8 @@
+{
+  "name": "Prefrontal Cortex Convo Agent",
+  "symbol": "CONVO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xAB964F7b7b6391BD6C4E8512ef00D01F255D9c0d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x42610c92aa966b085964c3cdfc7009c88589edc200f224c9c5f48cb536c84cf9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

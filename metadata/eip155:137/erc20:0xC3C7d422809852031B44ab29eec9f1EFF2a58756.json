@@ -1,0 +1,8 @@
+{
+  "name": "Lido DAO",
+  "symbol": "LDO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0xC3C7d422809852031B44ab29eec9f1EFF2a58756.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xed35f61a275e2790a98e9c23940ee3e8c4c7c1830b27645eb4b58117bbf09bf7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

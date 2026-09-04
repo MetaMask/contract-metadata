@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Inverse Bitcoin",
+  "symbol": "iBTC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD6014ea05bde904448b743833ddf07C3C7837481./ipfs/qmtptqa6y41lvdugvavqzkffq7fyzfkxphjyyd667tbf7j/ibtc",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x50037a6302b7fda1e8120e7c8c8115f49a3e50c892cd6c91d23a0f8a1fceb9e7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

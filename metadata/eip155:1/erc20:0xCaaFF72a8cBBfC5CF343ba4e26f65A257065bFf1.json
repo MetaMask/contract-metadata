@@ -1,0 +1,8 @@
+{
+  "name": "Wrapped KRT",
+  "symbol": "KRT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xCaaFF72a8cBBfC5CF343ba4e26f65A257065bFf1./ipfs/qmnue61b99pxzheyhgl715ipzpqtgbbrssgs5moh7aweec/krt",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x36671604783cc5de0aa7d277d5bf7257d254531ad991ac35aab8b5da5f8d4b5c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Moo BIFI",
+  "symbol": "mooBIFI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xBEEF8e0982874E0292E6c5751c5A4092B3E1beef.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x16cde0f40ac3c62c65b8f723dedd807b66020a5af88c31c35527b827a342fb26@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

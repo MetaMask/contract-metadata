@@ -1,0 +1,8 @@
+{
+  "name": "Illuvium",
+  "symbol": "ILV",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x4D5ac5cc4f8ABDF2EC2cb986c00C382369F787d4.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x58b1822c40f7f15a574c02561b546e80681d63dc3ddc340b2b22620b0030c3f0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

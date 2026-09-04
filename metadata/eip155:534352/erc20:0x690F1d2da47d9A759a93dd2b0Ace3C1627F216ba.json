@@ -1,0 +1,8 @@
+{
+  "name": "Venium",
+  "symbol": "VEN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:534352/erc20:0x690F1d2da47d9A759a93dd2b0Ace3C1627F216ba.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd91002146eec14d62b8a810d5b2800924e06127287179d79caa019ae6ff59028@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

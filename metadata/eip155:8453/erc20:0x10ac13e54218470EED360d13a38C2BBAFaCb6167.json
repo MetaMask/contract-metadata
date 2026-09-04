@@ -1,0 +1,8 @@
+{
+  "name": "Pollo",
+  "symbol": "POLLO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x10ac13e54218470EED360d13a38C2BBAFaCb6167.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0a8b98e6f04a3c6fa5ee7335a5ea357c9ce284f24364c2236d44c8170242b8e9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "BLOB",
+  "symbol": "BLOB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x334EFd1aa0cAf4B9B206dd8b9002B7172FC805e6.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x22ba0bcbd1342f71d1d5e5b722591cc706bd0563d97893676e3103afaa998451@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

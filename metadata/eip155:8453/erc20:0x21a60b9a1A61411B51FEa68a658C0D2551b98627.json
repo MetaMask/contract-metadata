@@ -1,0 +1,8 @@
+{
+  "name": "Airt Blocks by Virtuals",
+  "symbol": "AIBLKS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x21a60b9a1A61411B51FEa68a658C0D2551b98627.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x76b4d7cd41d33d3ca5d360920e0b07b00f8064d92da0d818566e56517749db04@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

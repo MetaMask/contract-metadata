@@ -1,0 +1,8 @@
+{
+  "name": "XYO",
+  "symbol": "XYO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x55296F69f40eA6D20E478533c15A6B08B654E758./ipfs/qmpahgjhtppjdwuqiwvhqzxbef2czs9ls6vrmmxq9gn5v6/bcczmlebx48bijczeje8wzcyfvm9xhzmafk98fwblhw4xy8rv7viuuvqbq6sfzyverdg8yybxzt2rgqyfguartjpb1",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc8a9317e3c7ef40bc81f37341b3696f052ccc8451971337409844c31ceca0af8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

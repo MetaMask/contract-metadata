@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Alphabet",
+  "symbol": "sGOOG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xC63b8ecce56AB9C46184Ec6ab85e4771FEa4c8ad./ipfs/qmf7yjo5ru1stp823z9bgaeuh1hpkvmj7hqkocvhufsgwv/sgoog",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x38e66f369219d7594cfc6577159cb2416efcfba7bf27ebadf6361feb8f96130f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

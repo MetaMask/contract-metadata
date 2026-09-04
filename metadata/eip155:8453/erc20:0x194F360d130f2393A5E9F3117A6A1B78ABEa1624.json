@@ -1,0 +1,8 @@
+{
+  "name": "SummerToken",
+  "symbol": "SUMR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x194F360d130f2393A5E9F3117A6A1B78ABEa1624.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4879ea2348c9753ea2dcd79959da9d2f37a18de287ab30df8b72a2ca0b0d38e0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

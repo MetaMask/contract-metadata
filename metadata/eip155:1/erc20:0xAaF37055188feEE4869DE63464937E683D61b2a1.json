@@ -1,0 +1,8 @@
+{
+  "name": "UChain",
+  "symbol": "UCN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xAaF37055188feEE4869DE63464937E683D61b2a1./ipfs/qmqtqzr3uniksafzak9xaf1gzjhjz1cgn41nzve8hbkrbu/bce2efuefnhszzpcbzse4rrzmzf8h3iuoyyhftxn75tngddnckicwymds7g7g2a9kwiwosxxd2rmtiyqalypxqbruk",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7e7c099c8d78e1dc6bbf37ca57da707d3847fd40ef7c34414659dd6eefa34142@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

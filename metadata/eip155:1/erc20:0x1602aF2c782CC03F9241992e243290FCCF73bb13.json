@@ -1,0 +1,8 @@
+{
+  "name": "Qubitica",
+  "symbol": "QBIT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1602aF2c782CC03F9241992e243290FCCF73bb13./ipfs/qmtakg5gpinbhesivqz4cvweg5z2whqkes9guadjq5txvv/bce2evbwevek719suzzphrfsbww6pf6v5hbuw4cfldekckdvfnmqtpfzovhhe7acevv39aex2sm14m1pk4zdy11pmy",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8d9cb9a87ee7c297e6108355463421d0404668db75e8337e9b559726221d3b29@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

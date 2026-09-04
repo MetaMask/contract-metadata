@@ -1,0 +1,8 @@
+{
+  "name": "DUDEGEN",
+  "symbol": "DUDEGEN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xCC6cE98579BA909344bb765f0c4f45964D5cE1d2.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe7d5b7e37abf360f7a5d47f7af993cacf7e133d247da53c23753e5ae457d5503@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

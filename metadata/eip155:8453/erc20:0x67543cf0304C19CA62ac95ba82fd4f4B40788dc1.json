@@ -1,0 +1,8 @@
+{
+  "name": "Rivalz",
+  "symbol": "RIZ",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x67543cf0304C19CA62ac95ba82fd4f4B40788dc1.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x960c2f5c2f016a505e50fc7c319f6b0aad900545e5268eb46fbba7595803ca0c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

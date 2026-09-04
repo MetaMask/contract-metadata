@@ -1,0 +1,8 @@
+{
+  "name": "Penpie",
+  "symbol": "PNP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0x2aC2b254bc18CD4999F64773a966e4F4869c34ee.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x26b7d4996eebafc5fc20d3f8f468135a146dfb04a79507d6f54b45b0be724f28@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

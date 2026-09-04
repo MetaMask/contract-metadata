@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Facebook",
+  "symbol": "sFB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF50b5e535f62A56A9BD2d8e2434204E726C027fa./ipfs/qmrsnabsyn7jcxggd34tjlje6ckxyjwuwpmpvzodetp8rm/sfb",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1c0e1b29498cc7cdb431a7b58b76bdac0f75fe8f97978447d976709777d3f736@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "cr0w by Virtuals",
+  "symbol": "CROW",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x2EFb2110f352fC98CD39dc041887C41766Dbb301.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0416b2efa7bc55bfe35f7b0369956f89efe2f2a468e1b93a865ff6b7dd7fd48b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

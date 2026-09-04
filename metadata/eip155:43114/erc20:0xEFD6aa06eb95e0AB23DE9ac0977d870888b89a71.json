@@ -1,0 +1,8 @@
+{
+  "name": "Micro Coq",
+  "symbol": "MICRO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xEFD6aa06eb95e0AB23DE9ac0977d870888b89a71.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x672ad1c086e6ae26393b31e3ac7a53cd5bd69668a9369ee92f9a269f29ddcf5c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Vesta Finance",
+  "symbol": "VSTA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0xA684cd057951541187F288294A1e1C2646aa2d24.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x738e784a9174aeec17ff2d40d5f0a487bd7c7634cad99c52d0081002e05fccb9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

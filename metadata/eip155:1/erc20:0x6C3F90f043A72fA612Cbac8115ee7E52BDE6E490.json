@@ -1,0 +1,8 @@
+{
+  "name": "3Curve",
+  "symbol": "3Crv",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x6C3F90f043A72fA612Cbac8115ee7E52BDE6E490./ipfs/qmzmbrjdil2zh6ykmbkmqqd1x4ddm6mgqjrge21klrwvxl/3crv",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd5b464a62a6d26f0e7385b34591489374228fcbf1533f40f064d24e41808942c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

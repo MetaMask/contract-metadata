@@ -1,0 +1,8 @@
+{
+  "name": "Tensor",
+  "symbol": "TNSR",
+  "decimals": 9,
+  "spl20": true,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:TNSRxcUxoT9xBG3de7PiJyTDYu7kskLqcpddxnEJAS6.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7a14c9b8a2b65a52520128631b82a2312c2f64fb45870142076c0c99bdcefbd4@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

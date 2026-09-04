@@ -1,0 +1,8 @@
+{
+  "name": "The Graph",
+  "symbol": "GRT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x8a0cac13c7dA965A312F08ea4229C37869E85cb9.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x917a86bcd731c6308311baab81157c8e7a5de00c8217be1e17eb6c47b8528071@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

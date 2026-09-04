@@ -1,0 +1,8 @@
+{
+  "name": "Universa",
+  "symbol": "UTNP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x9E3319636e2126E3C0bc9e3134AeC5E1508a46c7./ipfs/qmrzr6hsh4f8dowdzsofwtcg74zukfqhcfydnbb25j5swm/bcd2tcviyxtpwbydln6gxgn7jvdbnz3czwx8gpeqom9du7rxnzvteajeke8gxjihvx2ibnphwazwgf9hsdwkustegg",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xce202c4bda351a475637ad2fb0ebcb337a9c8a19f0c375308fcefd58f7c21541@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

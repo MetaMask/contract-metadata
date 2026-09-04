@@ -1,0 +1,8 @@
+{
+  "name": "Emilia by Virtuals",
+  "symbol": "EMILIA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xE4a7b54c0A30DA69C04Dc54b89868C185FF382bc.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf5a8890a42414bb591def9f250128fd35afd708a59f99f1b87f2af8fad558854@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Propel",
+  "symbol": "PEL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xA75E7928d3de682E3F44da60c26f33117C4E6c5c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb095709beca59dbe7d84a61cbd5748d2fb2126cba147ccde73d968ad34bee42c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

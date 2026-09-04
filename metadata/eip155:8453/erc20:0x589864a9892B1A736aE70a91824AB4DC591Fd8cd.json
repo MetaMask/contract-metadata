@@ -1,0 +1,8 @@
+{
+  "name": "Gibape",
+  "symbol": "gib",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x589864a9892B1A736aE70a91824AB4DC591Fd8cd.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1f4267820b9c028e33f05299635605ee497a91a91fe403229963ec012ec889f1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Pixiu Finance",
+  "symbol": "PIXIU",
+  "decimals": 0,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x37a15c92e67686AA268DF03d4c881A76340907e8./ipfs/qmehlwyhffxi5qfeyvqqwxwidxoegbh7sbxxq2b7ughkdb/pixiu",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xcd5a5275f04672a1e5ab37d77a03e63addc8d9117381e238ceaeeadc47321901@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

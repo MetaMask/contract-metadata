@@ -1,0 +1,8 @@
+{
+  "name": "Worldcoin",
+  "symbol": "WLD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:10/erc20:0xDC6FF44d5d932CBD77b52e5612BA0529DC6226f1.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6a6b70a51b2dbf3e8407fea3b247771529eaefa5fddfb93c283c5bf7edb1478e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

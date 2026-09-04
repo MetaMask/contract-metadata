@@ -1,0 +1,8 @@
+{
+  "name": "Chicky",
+  "symbol": "CHICKY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xA7152Fa3b1fA9EC858E959164758A66F1ECF33f7.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd61d1874ff5e68462a79eb2e0cf07ab101ec17a8e365c6dc62011d5a41bb6eef@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

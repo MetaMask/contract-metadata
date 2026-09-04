@@ -1,0 +1,8 @@
+{
+  "name": "VaultCraft",
+  "symbol": "VCX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xCE246eea10988C495B4a90a905ee9237A0F91543.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x056fd032e116597e05cab190c0e60c7b68d4f6d79606a69a62f042b566aece94@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

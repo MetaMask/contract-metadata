@@ -1,0 +1,8 @@
+{
+  "name": "Dudiez Meme",
+  "symbol": "DUDIEZ",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x3B925184c17B4648Da212229a2fde6A8031462ee.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x804937ee4a35c900e613ee0808c7eb1d2de416969240e668dfc06e00d1016789@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

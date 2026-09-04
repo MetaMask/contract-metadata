@@ -1,0 +1,8 @@
+{
+  "name": "Harvest Finance",
+  "symbol": "FARM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA0246c9032BC3A600820415ae600C6388619a14d./ipfs/qmzexwtcab3xj9zmuma1rtviq1f25qtd9lk3zumg4r5mrh/farm",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xcfdeede5c6495cbd95f1f08a10af5bfa907d6c439566457525c81d598e2d0dfe@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

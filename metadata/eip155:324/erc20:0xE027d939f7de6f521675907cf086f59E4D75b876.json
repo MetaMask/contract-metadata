@@ -1,0 +1,8 @@
+{
+  "name": "SolarCoin",
+  "symbol": "SLR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xE027d939f7de6f521675907cf086f59E4D75b876.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8ae937dcd482600deba0af84b0261393bf6bee9049116fd0b43c06eba5e74ca2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

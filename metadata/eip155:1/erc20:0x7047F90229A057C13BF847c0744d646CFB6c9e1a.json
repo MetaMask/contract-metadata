@@ -1,0 +1,8 @@
+{
+  "name": "Curve renBTC Pool yVault",
+  "symbol": "yvCurve-renBTC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x7047F90229A057C13BF847c0744d646CFB6c9e1a./ipfs/qmndaqvabs3gyppzdhwy1fnbfn2sufu3az6p8tdr6bhznx/yvcurve-renbtc",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x728207f926d6e7cd15ed2625f0e9f649398f80d6926eac1019a918bd733f92e2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

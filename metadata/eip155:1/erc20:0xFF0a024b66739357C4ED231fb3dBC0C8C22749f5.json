@@ -1,0 +1,8 @@
+{
+  "name": "Binance Wrapped WRX",
+  "symbol": "BWRX",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xFF0a024b66739357C4ED231fb3dBC0C8C22749f5./ipfs/qmchwxyuqinzsrh95uzcjayuzwdhddrzbdohg3znwbzt6h/bwrx",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc728bf7f8fadf044392a5bb76562a89d677770e312eaa52e8eb3031ba21070ce@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

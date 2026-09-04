@@ -1,0 +1,8 @@
+{
+  "name": "Bookie AI by Virtuals",
+  "symbol": "BOOKIE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x5D54725b48d2C8BADF5F6046c71C3fFB73E26228.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfd3ee93dbc195357321a9d37845cdfafe8d7683c10e374856c166879e672a6ce@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

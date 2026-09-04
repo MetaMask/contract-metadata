@@ -1,0 +1,8 @@
+{
+  "name": "Ocean",
+  "symbol": "OCEAN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x99abd6389692e8A42FDba0094fA1B12B32b1ce04.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd147509622a31a6761fc177af11a8f07101c11b4310779bf3d6beabf86c2e810@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

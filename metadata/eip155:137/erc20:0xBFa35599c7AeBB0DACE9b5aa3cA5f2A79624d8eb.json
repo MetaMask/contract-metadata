@@ -1,0 +1,8 @@
+{
+  "name": "Retro Finance",
+  "symbol": "RETRO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0xBFa35599c7AeBB0DACE9b5aa3cA5f2A79624d8eb.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf1e2a64c295bcb2445bf24aa0ef51299cbf9855d7cde22ec242e3d129bd640b6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

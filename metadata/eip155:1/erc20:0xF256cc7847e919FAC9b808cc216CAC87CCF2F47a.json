@@ -1,0 +1,8 @@
+{
+  "name": "Aave XSUSHI",
+  "symbol": "aXSUSHI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF256cc7847e919FAC9b808cc216CAC87CCF2F47a./ipfs/qmdmfamradh5d5qnrlbs7jg7qqctltjxapg5t6slhffq95/axsushi",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6ce9922cb4fc6104da9a479b41deea249694696a4c1d377072d7468759a26a6e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

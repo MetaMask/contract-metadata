@@ -1,0 +1,8 @@
+{
+  "name": "BankEth",
+  "symbol": "BANKETH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xBE0c826f17680D8DA620855be89dD6544C034ca1./ipfs/qmrirauk2mzfdo43ta7c9hu17kuhemmee7xxfwztz4ae2f/banketh",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x87c0f4c787231388a0fd57f00552a817e480dc9011636f361af7f3acf4987a24@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

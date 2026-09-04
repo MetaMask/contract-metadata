@@ -1,0 +1,8 @@
+{
+  "name": "Soul Power",
+  "symbol": "SOUL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x11D6dd25c1695764E64F439e32cC7746F3945543.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfad013f757d4f335d49621fda766339ab23a136eaa13e820ce9ae297a9747aee@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

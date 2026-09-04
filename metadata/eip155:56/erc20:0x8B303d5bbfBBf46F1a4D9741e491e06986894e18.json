@@ -1,0 +1,8 @@
+{
+  "name": "Woonkly Power",
+  "symbol": "WOOP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x8B303d5bbfBBf46F1a4D9741e491e06986894e18.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xcde50e90a1b854e57b4ba770c781061de57d4ec3a62effde2c50d3aea1de9cdf@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

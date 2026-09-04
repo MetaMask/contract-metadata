@@ -1,0 +1,8 @@
+{
+  "name": "Society",
+  "symbol": "FAME",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xF307E242bfe1eC1FF01a4cef2fdAA81B10a52418.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb4ec47d9d2603f2512cd33dfbbe4ce71bad758f2517be61671c72e52cb8922b0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

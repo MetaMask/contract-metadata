@@ -1,0 +1,8 @@
+{
+  "name": "Level",
+  "symbol": "LVL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0xB64E280e9d1B5DBEC4accedb2257A87B400Db149.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x49b0806b259cca2a9e7a9c4fef5646111619de259f63864129ace5d495797fff@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

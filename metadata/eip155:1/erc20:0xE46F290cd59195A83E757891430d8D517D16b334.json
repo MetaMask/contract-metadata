@@ -1,0 +1,8 @@
+{
+  "name": "AltaFin",
+  "symbol": "AFN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xE46F290cd59195A83E757891430d8D517D16b334./ipfs/qmsbpg47kgskeyakhcwszzldn8u1z5mceyvdpftvfvgosi/afn",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6cefd8e16e7abe0220611a973c011a2e6c70c1253025d4f43c28f55ad978c443@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

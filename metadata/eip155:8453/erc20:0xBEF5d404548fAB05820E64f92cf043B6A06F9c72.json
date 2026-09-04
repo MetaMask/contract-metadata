@@ -1,0 +1,8 @@
+{
+  "name": "POD",
+  "symbol": "POD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xBEF5d404548fAB05820E64f92cf043B6A06F9c72.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x229edd32f5681d115fc3901bbb124eee4ef2722768e168f9b5bf64122b4a2b1d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

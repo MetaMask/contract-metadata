@@ -1,0 +1,8 @@
+{
+  "name": "WOO Network",
+  "symbol": "WOO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xABC9547b534519FF73921b1fbA6e672B5F58d083.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfd5e2febdd31c2cc4d3e4a4759b8fb8df0cd9bd28b71906b487552729da2c218@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

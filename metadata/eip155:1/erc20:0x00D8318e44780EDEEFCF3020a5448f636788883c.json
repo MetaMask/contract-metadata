@@ -1,0 +1,8 @@
+{
+  "name": "dAppstore",
+  "symbol": "DAPPX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x00D8318e44780EDEEFCF3020a5448f636788883c./ipfs/qmb3gfgp3xmsufrv73dnfw2mo7ettfm62xsk7scjylm5xz/dappx",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x22ce09579a6c54b70429326e493c1358d83d9433ef166d015969e45e7eb1d065@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

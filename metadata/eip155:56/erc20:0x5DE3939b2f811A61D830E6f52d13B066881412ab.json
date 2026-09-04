@@ -1,0 +1,8 @@
+{
+  "name": "XPR Network",
+  "symbol": "XPR",
+  "decimals": 4,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x5DE3939b2f811A61D830E6f52d13B066881412ab.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0750f1dde26c8f06224d566be7be469dd97131e80f6ff4451299c5fa7d0498c6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

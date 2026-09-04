@@ -1,0 +1,8 @@
+{
+  "name": "Owl",
+  "symbol": "OWL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1a5F9352af8Af974BFC03399e3767DF6370D82e4./ipfs/qmaykdfhxredfajh8xftduvswyztmlmrz6kkkrhrcsakpe/bcd3ccauysfmxerl7h6fb68erp6td5fo2x8bmpvgevgi7cyezqp3ggv3kpbga5vfyqd8no8aktkeayig48rxktk9aj",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x03791b0983ae107ae32e740823f96e12eb57c1f1beb1be51af13e50446b17731@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

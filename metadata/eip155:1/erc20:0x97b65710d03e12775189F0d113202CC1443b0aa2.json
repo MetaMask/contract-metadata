@@ -1,0 +1,8 @@
+{
+  "name": "AstroElon",
+  "symbol": "ELONONE",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x97b65710d03e12775189F0d113202CC1443b0aa2./ipfs/qmdkfggjnwtfpt8e8za1tdb83dswgq3hlz3of32qpy1mhh/elonone",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xde53a3a73e316b8105f3c870a615e360009b2daf84ce04d50d181287843e3160@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

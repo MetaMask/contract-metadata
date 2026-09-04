@@ -1,0 +1,8 @@
+{
+  "name": "CryptoMines Reborn",
+  "symbol": "CRUX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xE0191Fefdd0d2B39B1a2E4e029cCDA8A481b7995.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x855f938888eda33ae0fac0d2bc01af302d1b36130a5d3ad65696d3f7c726fee9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

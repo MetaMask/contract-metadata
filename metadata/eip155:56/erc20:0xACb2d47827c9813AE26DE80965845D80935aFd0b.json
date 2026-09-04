@@ -1,0 +1,8 @@
+{
+  "name": "MacaronSwap",
+  "symbol": "MCRN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xACb2d47827c9813AE26DE80965845D80935aFd0b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0ca004906f8797c0d4baf4550d73ec0451642803a9d84de07ecb87d58aa9ddc5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

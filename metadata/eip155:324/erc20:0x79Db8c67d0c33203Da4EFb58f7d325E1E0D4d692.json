@@ -1,0 +1,8 @@
+{
+  "name": "Zeek",
+  "symbol": "MEOW",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x79Db8c67d0c33203Da4EFb58f7d325E1E0D4d692.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa428e41c046a47044451c6acf90434d14b8c56f11059d404936919e90640afbd@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

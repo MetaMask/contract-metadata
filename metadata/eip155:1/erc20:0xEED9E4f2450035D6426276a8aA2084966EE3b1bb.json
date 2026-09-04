@@ -1,0 +1,8 @@
+{
+  "name": "Steaks Finance",
+  "symbol": "STEAK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xEED9E4f2450035D6426276a8aA2084966EE3b1bb./ipfs/qmtc4wu73l5jb7wsmmjztm7kh56vyy8gxm4mo6th7zsgfq/bcdwpus9l1yzxcz4soacwk2sbnwbysrkujmt7xzbjle8g4qqgcnavsvj4q3rtaucpec3cfub7m9udk37nubbwhp2eb",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0b8c6652926d10779c3f005355f23ad63e816df7c20b5e087083ab4f8722898c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

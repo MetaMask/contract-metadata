@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Inverse Ethereum Classic",
+  "symbol": "iETC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xD50c1746d835D2770DDa3703b69187BFFEb14126./ipfs/qmerq7jf1js5a2yhxr8zrqydpndtnnn5xua6mxfkz29ueb/ietc",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xb9c652093fcd3008e2542f05c1c7925226e89d16d1a4901792f706c676590882@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

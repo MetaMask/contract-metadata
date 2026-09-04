@@ -1,0 +1,8 @@
+{
+  "name": "UNION Protocol Governance Token",
+  "symbol": "UNN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x226F7b842e0f0120B7E194d05432B3FD14773a9d./ipfs/qmvcr26wrc3ptxpsbex4v1ywb5hjy8fy8ttyeep1pzlc7j/unn",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x45844fbd9da4cc5ca21deef4c194c8a27b472f38e95b44bdea814e0208ad979b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

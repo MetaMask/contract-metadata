@@ -1,0 +1,8 @@
+{
+  "name": "Bella",
+  "symbol": "BEL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xB83cFb285fc8D936E8647Fa9b1cC641DBaaE92d9.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x473711b2b77ad064aff80119c253aa9b133761b3e4c0308a03fd627948ef0139@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

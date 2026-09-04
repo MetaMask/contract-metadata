@@ -1,0 +1,8 @@
+{
+  "name": "HodlTree",
+  "symbol": "HTRE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xDEa67845a51e24461D5FEd8084e69B426aF3d5db./ipfs/qmwbchu8nkjwcfr52feecgxdkrm6zvhwwtqvz56awpqd41/bcd4zr6ckdhshmbzjzdgo98cyhurkunbzj7d37vnbijqqlfpdq5zi7gxqw2uks3s1ajvstxmpfj8t9wxcaxufjmk98",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6e59d38b06647c76cc5b764de82e3f1aa1ffe991d3e4e266c35bd5902b4aeaf8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

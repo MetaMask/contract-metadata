@@ -1,0 +1,8 @@
+{
+  "name": "YFII Gold",
+  "symbol": "YFIIG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xEF8ba8cba86f81B3108F60186fce9C81B5096d5c./ipfs/qmucqesaosxtswxbypgxo6ktznwhmuizkwl3pmhuhgn6fk/bcd69mrkkbsja7znmquokjnvhsxhkrrgjpfwznfn962zqndwdfppcsjoix8wdx5ohxhffkscaklphq69j7ssktfeje",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x7e35be3a07dd1b9645fcd2175b5c5455e7ade4f588f0fdac1a1276ea52722f66@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

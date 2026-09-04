@@ -1,0 +1,8 @@
+{
+  "name": "Synthetic Inverse Aave",
+  "symbol": "iAAVE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x176c674ee533C6139B0Dc8b458d72A93DCb3E705./ipfs/qmxnea69dvkmwrtqzysetlbzpp7xldvbr3rjxfxd9nygma/iaave",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0d30d7025a68deec55a9ff01c21b5772e214fe3610861fa99cf89574351ff644@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

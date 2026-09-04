@@ -1,0 +1,8 @@
+{
+  "name": "Dexfin",
+  "symbol": "DXF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x15Eabb7500e44B7FDB6E4051cA8deCA430CF9Fb8./ipfs/qmr3k1nsdjjnceittqsgrvqyqqqnwxvcon2gtaywkpx91b/dxf",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x0fbbddd273efce36d7ee8e6126607768c3b457f085d9a12920192f95dfc1bcd3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

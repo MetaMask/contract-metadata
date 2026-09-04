@@ -1,0 +1,8 @@
+{
+  "name": "OTO Protocol",
+  "symbol": "OTO",
+  "decimals": 5,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x3E5a9F09923936427aD6E487b24e23A862FcF6b7.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x16ffa58fe61b5bddf9d669c80d3142919f6d2fcb7c79ec7b1b377d7dea4bd09b@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

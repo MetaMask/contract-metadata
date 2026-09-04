@@ -1,0 +1,8 @@
+{
+  "name": "PRIMAL",
+  "symbol": "PRIMAL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xCB5327ed4649548E0D73E70b633CDfD99aF6da87.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xda08107783f0c55581de3dd170b9d1af8b34900ea8bbc9479b53a3fbf825d6cd@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

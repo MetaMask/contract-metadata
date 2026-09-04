@@ -1,0 +1,8 @@
+{
+  "name": "SHAKE",
+  "symbol": "SHAKE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x6006Fc2a849feDABA8330ce36f5133DE01F96189./ipfs/qmcaqs5zbakbjg95p1wspj2gw6tg5h3itsthxc1zqwbmv9/bcd4z46arjbq28cefae54r4rlxnceoelqwkqundi1umsh9ziu1godazanpx6xqgawnvhx1cjbisgyyb2zawcvjz1m7",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x33eedad8427f930e65611b75aba50144b751b8860b253f9b9721085fce0dcf6c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

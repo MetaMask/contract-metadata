@@ -1,0 +1,8 @@
+{
+  "name": "PSYOP",
+  "symbol": "PSYOP",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xA7E990235549BA6D4aC27F8181f1Bf72F94b7eac.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc9c061f5db7250942927e087bf0da27089c9df606b0c8072d5599292e66863de@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

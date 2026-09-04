@@ -1,0 +1,8 @@
+{
+  "name": "Media",
+  "symbol": "MEDIA",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xDB726152680eCE3C9291F1016f1d36F3995F6941.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xacd4981a84438fc61518efe8ef66c01734cc7b6ca83d264a3d388f22746d574a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

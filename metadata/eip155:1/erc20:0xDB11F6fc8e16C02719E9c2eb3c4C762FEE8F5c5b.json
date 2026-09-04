@@ -1,0 +1,8 @@
+{
+  "name": "Nydronia",
+  "symbol": "NIA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xDB11F6fc8e16C02719E9c2eb3c4C762FEE8F5c5b./ipfs/qmwkjdszzcmjuqtdjdjgwcv8reg7mk7jddrdjpjjjyxpqg/nia",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x809d74a1ddbf25ca79858554b8480dcf7799775b286b76258db9ad7d363369c0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

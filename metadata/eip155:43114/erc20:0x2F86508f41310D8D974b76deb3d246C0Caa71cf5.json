@@ -1,0 +1,8 @@
+{
+  "name": "Hot Cross",
+  "symbol": "HOTCROSS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x2F86508f41310D8D974b76deb3d246C0Caa71cf5.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x72673e2edbfa79836e400baf4d729da29d647775a2cd185936a5f173f423be0d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Shoe404",
+  "symbol": "SHOE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x096D19b58cAB84A2F0FF0e81c08291BFFaa62848.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x988c465978582f0b0070376e5f622e04d63ae9f86f44398e4dbdeb8838112e9c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

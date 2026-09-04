@@ -1,0 +1,8 @@
+{
+  "name": "Clover",
+  "symbol": "CLV",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x22222c03318440305aC3E8a7820563D6A9FD777f./ipfs/qmazjjdyiun8xkkyxigevkwqqm5zljmw8wdyiwbyihktsa/bce2t74r6lhgs494fi7elfddf5pwsexavctz5uq7nyqccgeivc29swk3n1khburjpmf2mvkcn6amsq6co3stumdpd6",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x81a79e87be4a11e96b7c28034993f986234e45be76b29bde9d2fac5a06ce2afd@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

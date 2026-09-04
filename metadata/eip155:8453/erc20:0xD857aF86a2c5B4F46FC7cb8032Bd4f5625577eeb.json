@@ -1,0 +1,8 @@
+{
+  "name": "Hokkaidu Inu",
+  "symbol": "HOKK",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xD857aF86a2c5B4F46FC7cb8032Bd4f5625577eeb.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd2053c473621713f6af763085fdf7bba7f3cf70116fab2f33ae2ba7287f06343@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

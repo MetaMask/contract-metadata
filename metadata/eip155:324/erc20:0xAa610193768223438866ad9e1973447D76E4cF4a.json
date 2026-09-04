@@ -1,0 +1,8 @@
+{
+  "name": "FLOKI",
+  "symbol": "FLOKI",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xAa610193768223438866ad9e1973447D76E4cF4a.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf0cb5bc58b37a07999b187569b45e3b36a6d7f0778ddd6c9a763d401672a1cd2@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

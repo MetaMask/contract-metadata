@@ -1,0 +1,8 @@
+{
+  "name": "Big Tony",
+  "symbol": "TONY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xB22a793a81ff5B6AD37F40d5fe1e0AC4184D52f3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1fd282edb084053ae30f1feb472c8e191ae3e2b76c70b897206b4cff6f94fa28@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

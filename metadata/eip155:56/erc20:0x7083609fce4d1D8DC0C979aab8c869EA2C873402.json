@@ -1,0 +1,8 @@
+{
+  "name": "Polkadot",
+  "symbol": "DOT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x7083609fce4d1D8DC0C979aab8c869EA2C873402.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9fe0eb0340d55cf4052e2c273066fda3e0661cdc1fab7b2c053bdda73c7da7c8@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

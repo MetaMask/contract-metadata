@@ -1,0 +1,8 @@
+{
+  "name": "Simon's Cat",
+  "symbol": "CAT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x6894cde390A3f51155Ea41ed24A33A4827D3063d.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4a60de5e9efe7f6d0fddbe321dc5444a9c43650573f629a50365e2a018ba93d9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

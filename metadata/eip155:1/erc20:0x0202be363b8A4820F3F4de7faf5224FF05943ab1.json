@@ -1,0 +1,8 @@
+{
+  "name": "UniLend Finance",
+  "symbol": "UFT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x0202be363b8A4820F3F4de7faf5224FF05943ab1./ipfs/qmqdq4wxmzavtbqhigexwh3xi4fvhmf2ej4jyer1vdp2ze/bcd1hgqlhjayqr7jhrtlcfnhdq92k4rcscdnqjmsrzvhjprlpjckqgcavecbc43lsuqvv6l94bl18f1hajwodmppiy",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc683a60b1edd39434bfdf03b972b155b962688810e4558801aaa9ddf840f05f3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

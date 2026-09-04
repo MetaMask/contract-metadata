@@ -1,0 +1,8 @@
+{
+  "name": "Hacken",
+  "symbol": "HAI",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x05Fb86775fd5C16290F1E838f5cAAA7342bD9a63.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4ca7d62ecf7ad36542df454dd09b00a09c782e327c8e84e3cd5c9f7a5eae5cab@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

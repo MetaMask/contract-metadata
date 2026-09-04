@@ -1,0 +1,8 @@
+{
+  "name": "Trackgood AI",
+  "symbol": "TRAI",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xDD32659b1e7A6A6B3C6E96cd8A4C936BCFEa0607.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1a9691b59382309cca3c4a70b1ba3c0ab5e4c2e0f2c680af51e5212e98c19ec9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

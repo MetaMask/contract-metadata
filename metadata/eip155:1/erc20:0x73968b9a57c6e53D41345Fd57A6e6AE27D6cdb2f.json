@@ -1,0 +1,8 @@
+{
+  "name": "Stake DAO",
+  "symbol": "SDT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x73968b9a57c6e53D41345Fd57A6e6AE27D6cdb2f./ipfs/qmrjz6wzqkftxccetwh1s75shkr59dkxrwphbdbs8q4lf1/sdt",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x433cc393343508dcf4311f2ce16f03239f24d7d7943cf88ee9ae48160b0071a6@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Symbiosis Bridged BTC",
+  "symbol": "syBTC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xED0c95ebe5A3e687CB2224687024fEC6518E683e.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa7ee281574631740f312af3b8bb73de2147c9fa651e3f5e044a479daac314946@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Panana",
+  "symbol": "PANANA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x844c03892863B0E3E00E805e41B34527044D5c72.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xd079fae0238002034051340c2701295526dadfedbdf091ac2c9c06418e512ca3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

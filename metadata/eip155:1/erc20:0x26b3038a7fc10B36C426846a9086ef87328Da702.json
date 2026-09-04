@@ -1,0 +1,8 @@
+{
+  "name": "Yield Farming Token",
+  "symbol": "YFT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x26b3038a7fc10B36C426846a9086ef87328Da702./ipfs/qmu6smpe7pmn1razm5j5gfvywxx2zs2xylpsdzysqqtf1c/bcd1jzxkqmpvhfzxhgmvmmvcdkvl12gbby7tymusvmcibkkrk7vihpqvyc9tymgmy2hdsxtyfsmcfj3zy5ytujabay",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4baede7803e8f2e67eb6983aeb5639a3813277cda69f38e29eca41019fec8fb3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

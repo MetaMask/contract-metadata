@@ -1,0 +1,8 @@
+{
+  "name": "BLCKCoin",
+  "symbol": "BLCK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xF5DE8697232A16A942F7cF706415f553CE53E27f.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x33ab21bf1694394ae3ec906854afa4b6ad9d56b29b3ec5bf097c68851608906f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

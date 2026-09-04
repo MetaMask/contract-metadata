@@ -1,0 +1,8 @@
+{
+  "name": "Onyxcoin",
+  "symbol": "XCN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA2CD3d43c775978A96bDbF12d733D5A1ED94Fb18.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfaf7799248e936b839699bda481c989d1a94894ec2f68cb90f12892290244e86@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

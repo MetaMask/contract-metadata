@@ -1,0 +1,8 @@
+{
+  "name": "Medicalchain",
+  "symbol": "MTN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x41DbEcc1cdc5517C6F76F6a6e836ADBEE2754de3./ipfs/qmawva25gjam3qc4gfrmdnsehyznkcnxeb1ytlryz8pfi8/bcczmhfzvgfg7gw7iueqtqqgrlyeayrlsr1w9dypxeagytbd2pgwie77mewzgkwbckazdhilgoeb8ch5epsbjgg8ph",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4133321fe93a8c71c5aac3a27cb3aa0b27c8d9e1a0755c015a87090c0c095db3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

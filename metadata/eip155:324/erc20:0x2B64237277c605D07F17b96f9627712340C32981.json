@@ -1,0 +1,8 @@
+{
+  "name": "ZkSync Gem",
+  "symbol": "ZGEM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x2B64237277c605D07F17b96f9627712340C32981.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xec1f60104571c949f778340593247231049f062cb48183fd3a46df78d2e9f358@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

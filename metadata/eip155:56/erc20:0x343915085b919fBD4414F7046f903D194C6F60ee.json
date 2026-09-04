@@ -1,0 +1,8 @@
+{
+  "name": "Hectagon",
+  "symbol": "HECTA",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x343915085b919fBD4414F7046f903D194C6F60ee.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfc4367bee03cf79ce24df6eaca342304d7f01cf5254539246a095ca301bf6d49@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

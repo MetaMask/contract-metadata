@@ -1,0 +1,8 @@
+{
+  "name": "Cheeky Dawg",
+  "symbol": "DAWG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xA835F70dd5f8B4F0023509f8f36C155785758db0.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x668348ad8c72fab38e2736686b6c758887bc4b81894cfc8ac441fa0455d578ad@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

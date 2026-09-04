@@ -1,0 +1,8 @@
+{
+  "name": "Degen Capital by Virtuals",
+  "symbol": "DEGENC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x99298c6be0e8eC9E56b7a2be5850ABE1FC109d94.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf093759fcd93c53f380542780a4bbf81b1a5cf21123e78c715c4e58838e7d5bf@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

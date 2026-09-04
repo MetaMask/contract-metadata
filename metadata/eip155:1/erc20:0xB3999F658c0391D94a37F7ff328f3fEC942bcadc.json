@@ -1,0 +1,8 @@
+{
+  "name": "Hashflow",
+  "symbol": "HFT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB3999F658c0391D94a37F7ff328f3fEC942bcadc.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6f609703898cd44b4589774a93345325bbaa66d77e6db93c802b149ced800982@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Beany",
+  "symbol": "BEANY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xC65364c35d8e2AABA17D00e468c29576F3Ec105c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x922513196ca066211069da46ba90e51c210416f65d33c80c828ebe74612b42d5@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

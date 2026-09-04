@@ -1,0 +1,8 @@
+{
+  "name": "Pyth Network ",
+  "symbol": "PYTH",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0xE4D5c6ae46AdfAF04313081e8c0052A30B6Dd724.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x05c0ab70bb2769ac411042222c57123c0f0646477b00d7cef8fd2a460deed6cd@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

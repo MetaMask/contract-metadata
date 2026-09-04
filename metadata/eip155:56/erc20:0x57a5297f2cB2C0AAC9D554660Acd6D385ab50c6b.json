@@ -1,0 +1,8 @@
+{
+  "name": "Venus LTC",
+  "symbol": "vLTC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x57a5297f2cB2C0AAC9D554660Acd6D385ab50c6b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x780c9db08c97e24ab36831f40804c962f5a8e3baff7313e5b7fb1c81357ea15d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

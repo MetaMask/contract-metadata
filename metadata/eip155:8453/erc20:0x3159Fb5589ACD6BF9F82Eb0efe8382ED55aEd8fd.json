@@ -1,0 +1,8 @@
+{
+  "name": "Apu Apustaja",
+  "symbol": "APU",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x3159Fb5589ACD6BF9F82Eb0efe8382ED55aEd8fd.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x6c6f8988cde961698ebdfa6feca5b7d594235825f94747dd6e7d5d6d6d4cfa5d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

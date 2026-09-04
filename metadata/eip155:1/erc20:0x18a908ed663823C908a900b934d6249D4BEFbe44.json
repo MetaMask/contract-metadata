@@ -1,0 +1,8 @@
+{
+  "name": "Strike BUSD",
+  "symbol": "sBUSD",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x18a908ed663823C908a900b934d6249D4BEFbe44./ipfs/qmcw24dq4fxem35nwquynatrin5yxc5ytcmp71ugnyyvzv/sbusd",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x62ed4663d15ffaff2dc99b10838774162f223962a1c9d01b8e6611bf43ef737c@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

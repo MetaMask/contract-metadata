@@ -1,0 +1,8 @@
+{
+  "name": "TrueFi Binance USD",
+  "symbol": "tfBUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x1ED460d149d48fA7D91703bf4890f97220C09437.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x2a1cca7bcfb690f94cf9e335301f47a0426295294d1bcfe38a5c27f9cac207a3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "The Currency Analytics",
+  "symbol": "TCAT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xAFF84e86d72eDB971341a6a66eB2DA209446Fa14./ipfs/qmttgu3bdqltbujk1nan5adhaqfkcnyi1zrzqpbhixtdsy/bcczag9yspzfc3fvnbg5lsawk6tm1mmdghpwfjt38dx4ipgj22d61hawi83yyzgntsrfnszchfaeszkdu9z6sbcd1r",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa99265209348fafd908c32d3a73fee47bc7d9b866fd2797e0372709bba3a2f79@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

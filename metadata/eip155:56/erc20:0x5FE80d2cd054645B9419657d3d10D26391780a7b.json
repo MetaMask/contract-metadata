@@ -1,0 +1,8 @@
+{
+  "name": "MUX Protocol",
+  "symbol": "MCB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x5FE80d2cd054645B9419657d3d10D26391780a7b.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe14992595774950db943a7ff9b18e7dc8d50ad28820ffd8e99ad2438af292c3a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

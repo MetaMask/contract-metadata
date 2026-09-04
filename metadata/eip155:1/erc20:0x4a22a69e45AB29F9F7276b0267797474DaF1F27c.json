@@ -1,0 +1,8 @@
+{
+  "name": "SUNI",
+  "symbol": "SUNI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x4a22a69e45AB29F9F7276b0267797474DaF1F27c./ipfs/qmbhwnktocgqasnpq1gy4zreef4qcjbtfqntnaemee1l3e/suni",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf20abdfcc1f0db0aa8adfae13786490f810cd9b23b29f5aa7a11af83020b8176@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Jigen",
+  "symbol": "JIGEN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x25F11e22d5079C2970496d592579Bf4902D09d76.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x184bf221a4ebdb15e0dd68941a01f6977eb515ed715da4de762c802eda3e6555@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

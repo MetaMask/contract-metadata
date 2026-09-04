@@ -1,0 +1,8 @@
+{
+  "name": "AIVeronica by Virtuals",
+  "symbol": "AIV",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x0D91Ebb16291873A0C67158f578eC249F4321b49.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc1c2a7cbb3e8231cf82d87c1f3a7120ec99a0caf0fed60a7d7d52d5063dd3f5f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

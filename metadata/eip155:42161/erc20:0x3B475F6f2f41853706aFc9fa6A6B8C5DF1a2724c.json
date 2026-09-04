@@ -1,0 +1,8 @@
+{
+  "name": "Zyberswap",
+  "symbol": "ZYB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0x3B475F6f2f41853706aFc9fa6A6B8C5DF1a2724c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x787e2f0fdf233ee9c15d76a057d2fc48b1ba82ba2a73e38567d7eda34d8bed06@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

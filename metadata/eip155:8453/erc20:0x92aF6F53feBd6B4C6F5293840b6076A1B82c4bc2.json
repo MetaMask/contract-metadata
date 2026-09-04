@@ -1,0 +1,8 @@
+{
+  "name": "Bird Dog",
+  "symbol": "BIRDDOG",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x92aF6F53feBd6B4C6F5293840b6076A1B82c4bc2.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x36a38b9c8fb27291b4b1c27a7767e1e80549a5d21c49a7abcd2f6e57b24a7ae9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

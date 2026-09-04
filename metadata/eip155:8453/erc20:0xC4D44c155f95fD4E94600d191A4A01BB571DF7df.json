@@ -1,0 +1,8 @@
+{
+  "name": "GammaSwap",
+  "symbol": "GS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xC4D44c155f95fD4E94600d191A4A01BB571DF7df.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x4786cd2ce17b3d406e1bf9b6cb2b47339afb61e21cd6b0778abcfd62cd3662fc@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

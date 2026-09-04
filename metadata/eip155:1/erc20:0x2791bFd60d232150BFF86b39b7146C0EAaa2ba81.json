@@ -1,0 +1,8 @@
+{
+  "name": "BiFi",
+  "symbol": "BIFI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x2791bFd60d232150BFF86b39b7146C0EAaa2ba81./ipfs/qmtqtrvv9gu2f9g9br4jjf9c3rtv5vtyqespo6hfezcexv/bifi",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x9e9110727b77ead0644504a3a70b1b3a42b3ce93d02f68f4d9faea65f2683eca@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

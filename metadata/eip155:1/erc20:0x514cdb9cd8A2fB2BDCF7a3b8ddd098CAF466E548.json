@@ -1,0 +1,8 @@
+{
+  "name": "RedPanda Earth",
+  "symbol": "REDPANDA",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x514cdb9cd8A2fB2BDCF7a3b8ddd098CAF466E548./ipfs/qmtjegr6s4rqlt93xlztyrm8rbenclfhqtxtw8ivytiwbf/redpanda",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xa4ac028e858a49f6683cbcff33dc20278ca0a882a2c61cb37867189ba1a457c1@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

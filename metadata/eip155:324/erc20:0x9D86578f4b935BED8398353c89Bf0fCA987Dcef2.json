@@ -1,0 +1,8 @@
+{
+  "name": "Baby Zeek",
+  "symbol": "KITTEN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x9D86578f4b935BED8398353c89Bf0fCA987Dcef2.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3b90d36b9eb9db81a332cd0acb2fc9892f8839b1e5274904a501ae659879960d@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

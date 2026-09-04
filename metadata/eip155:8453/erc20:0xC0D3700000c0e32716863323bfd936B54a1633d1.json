@@ -1,0 +1,8 @@
+{
+  "name": "Cod3x",
+  "symbol": "CDX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xC0D3700000c0e32716863323bfd936B54a1633d1.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xcf4256c996984c78f1858e3cdc5b6b7daec9f2ae0665b99a0afdd2db70ba75e7@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

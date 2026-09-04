@@ -1,0 +1,8 @@
+{
+  "name": "BankrX",
+  "symbol": "BNXR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x04175b1f982B8C8444F238ac0AAe59F029E21099.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xf03465af0533d1731c6bdf48dee7dbf4344d172372fe52e01c1dd6a56179d903@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

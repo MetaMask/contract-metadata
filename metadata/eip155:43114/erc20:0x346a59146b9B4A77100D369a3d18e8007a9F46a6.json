@@ -1,0 +1,8 @@
+{
+  "name": "AVAI",
+  "symbol": "AVAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x346a59146b9B4A77100D369a3d18e8007a9F46a6.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x52c7001cd8d660010027e4c66b7cc00c1ee44946dbd76251403a6d271d4863d0@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

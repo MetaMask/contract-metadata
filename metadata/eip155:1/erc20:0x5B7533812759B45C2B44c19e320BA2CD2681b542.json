@@ -1,0 +1,8 @@
+{
+  "name": "SingularityNET",
+  "symbol": "AGIX",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x5B7533812759B45C2B44c19e320BA2CD2681b542.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x1fc99719889d2b5a127e99e1f7e1122f9b4e1320e96cdb8ebb6be73cd2235340@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

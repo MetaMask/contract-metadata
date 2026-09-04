@@ -1,0 +1,8 @@
+{
+  "name": "The People's Coin",
+  "symbol": "PEEPS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xE1030b48b2033314979143766d7dC1F40EF8ce11./ipfs/qmuywfxavgwi4sxirx4dom9n67idksqk8uyipfpvljs6dv/peeps",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x3a66314220687cdbfb0147132c387f71dccda851d31c7516d04126bb8762369f@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "VVS Finance",
+  "symbol": "VVS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x839E71613f9AA06E5701cF6de63e303616b0dde3.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xfd67e501e48bf5d6fc1d56f2b8adc33eb1414d84f97eddfbe0482d887981a2d9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

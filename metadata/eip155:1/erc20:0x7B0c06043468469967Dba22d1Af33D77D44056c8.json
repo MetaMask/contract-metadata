@@ -1,0 +1,8 @@
+{
+  "name": "Morpheus.Network",
+  "symbol": "MRPH",
+  "decimals": 4,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x7B0c06043468469967Dba22d1Af33D77D44056c8./ipfs/qmdupr2apqddw64yjdpa2ejlgvukdw8rcpsaajzs9eyhbo/bcdwnyyz2vefuqcm8eo5alnkaeq1snc5uhpcv5jzkaqmf8yptwybhwbieqaaxugd8ikfr3sdsnaz7a2kgl4zvnhpam",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x5fe150b63f7937f0642460170a364929a7584f8e43daa4afc644f87530262737@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

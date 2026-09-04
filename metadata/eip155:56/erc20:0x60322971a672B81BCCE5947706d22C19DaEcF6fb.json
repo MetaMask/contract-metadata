@@ -1,0 +1,8 @@
+{
+  "name": "MarsDAO",
+  "symbol": "MDAO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x60322971a672B81BCCE5947706d22C19DaEcF6fb.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc46386e33ae0e0f71ea2ad82089d2b1192747aaadf79e15201f8ec2fb27d49af@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

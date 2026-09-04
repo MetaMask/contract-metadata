@@ -1,0 +1,8 @@
+{
+  "name": "UNIBOT",
+  "symbol": "UNIBOT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xF819d9cb1c2A819FD991781a822de3CA8607c3c9.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x226d5b695f0fb4a6b8aa2b53543eba2f0e799380f4ccb38aba03cd2a3ef784ec@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

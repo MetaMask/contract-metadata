@@ -1,0 +1,8 @@
+{
+  "name": "Gekko AI by Virtuals",
+  "symbol": "GEKKO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xF7b0dd0b642A6CCC2FC4d8ffe2BffB0CAC8c43c8.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xc13201e78c0fd8c53dd0160cbe2b0f54a7447440b0a446886a8ef8b778e9729a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Shibaken Finance",
+  "symbol": "SHIBAKEN",
+  "decimals": 0,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xA4CF2afd3b165975AFFFbF7e487CDD40C894ab6b./ipfs/qmarrlxxiymrhwmtauttqqjhafspss6klry4rubbamafgx/shibaken",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x35aadcd154eeafa80a70ef4e0a07e3cc56039f740a36f2d02103c9de13b21b1e@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

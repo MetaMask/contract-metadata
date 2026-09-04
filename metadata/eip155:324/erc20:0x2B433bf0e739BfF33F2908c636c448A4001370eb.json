@@ -1,0 +1,8 @@
+{
+  "name": "PondCoin",
+  "symbol": "PNDC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x2B433bf0e739BfF33F2908c636c448A4001370eb.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x8ff6f9805e86ca76b21e8c6074a8554d86bf398be63840337796be982c177f92@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

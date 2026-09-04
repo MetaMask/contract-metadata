@@ -1,0 +1,8 @@
+{
+  "name": "Rai",
+  "symbol": "RAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x4C9bbFc1fbd93DFB509E718400978fBEEDF590e9./ipfs/qmtxnkgdw6hvolpzphsemu82xsxb8ygoyth7zhfpnws3hs/rai",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe197fd3924c91a156110e8cf87bf21f316904392e4d72014664437bf84e62f35@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

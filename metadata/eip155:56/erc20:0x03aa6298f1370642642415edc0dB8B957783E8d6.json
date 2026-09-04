@@ -1,0 +1,8 @@
+{
+  "name": "NetMind",
+  "symbol": "NMT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x03aa6298f1370642642415edc0dB8B957783E8d6.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x20befeed16289b47773b93137e6183a372c47cd1910638634880f0d477ea3533@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Gochujangcoin",
+  "symbol": "GOCHU",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x9aaaE745cf2830FB8DDc6248b17436DC3a5E701c.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x46898a87411287fdf52fe59c7dc07457bd4e99ff1ff676ed4a23b936f8136ba9@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

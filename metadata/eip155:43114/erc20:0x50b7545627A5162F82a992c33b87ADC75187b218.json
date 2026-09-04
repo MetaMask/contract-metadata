@@ -1,0 +1,8 @@
+{
+  "name": "Wrapped Bitcoin",
+  "symbol": "WBTC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x50b7545627A5162F82a992c33b87ADC75187b218.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xafac20288f9a1a2249b39b86f916800854ab9c81265947b4875c246c3319c25a@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

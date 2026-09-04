@@ -1,0 +1,8 @@
+{
+  "name": "ICOStart",
+  "symbol": "ICH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x330839ef82d34801BD96E75a4ee778AC56Fa1ed8./ipfs/qmwse9q37jtc8rl7c8szxf4coyh6ctakfs3cbp6ba2l7nr/bcd8v9snsgvmrucmstcn8k78xyjjgniuhsn9sfhwm4h8myxeyhdn5cusxj79hjuykeenvck3fugtwqgbiizw3nn1ma",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xe11837325edf8bd806ca9772acb4b29c77315a533920215f9ba26afd4aed4f38@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

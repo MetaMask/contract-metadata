@@ -1,0 +1,8 @@
+{
+  "name": "Karat",
+  "symbol": "KAT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0xCDb7d260c107499C80b4b748e8331C64595972a1.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0x99273641827b22e9174b31ebf36c306f6123f1347e8ca95dee85741b27134b85@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}

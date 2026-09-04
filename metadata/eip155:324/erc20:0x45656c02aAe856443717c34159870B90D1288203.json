@@ -1,0 +1,8 @@
+{
+  "name": "HYPERCOMIC",
+  "symbol": "HYCO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:324/erc20:0x45656c02aAe856443717c34159870B90D1288203.png",
+  "dataSource": "https://app.klerosscout.eth.limo/#/?registry=Tokens&itemdetails=0xdd5d4c3866c498904b9a328d25d1ddbfa2c63e06df70b4cb64a0600d9ea46ff3@0xee1502e29795ef6c2d60f8d7120596abe3bad990"
+}
