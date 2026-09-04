@@ -1,0 +1,18 @@
+{
+  "name": "Deep Whales AI",
+  "symbol": "DEEPAI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x18bc66f0c15e27179dd8e2277c1c9c056df0a14d.svg",
+  "description": "Deep Whales AI (DEEPAI) is an Ethereum based ERC-20 token associated with an AI-driven crypto trading toolkit and ecosystem.",
+  "website": "https://www.deepwhalesai.ai",
+  "explorer": "https://etherscan.io/token/0x18bc66f0c15e27179dd8e2277c1c9c056df0a14d",
+  "socials": {
+    "twitter": "https://x.com/DeepWhalesAI",
+    "telegram": "https://t.me/DeepWhalesAI"
+  },
+  "source": {
+    "code": "https://etherscan.io/address/0x18bc66f0c15e27179dd8e2277c1c9c056df0a14d#code",
+    "verified": true
+  }
+}
