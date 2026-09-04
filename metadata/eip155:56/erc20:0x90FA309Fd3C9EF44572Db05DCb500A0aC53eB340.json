@@ -1,0 +1,7 @@
+{
+  "name": "Bigly Bucks",
+  "symbol": "$Bigly",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x90FA309Fd3C9EF44572Db05DCb500A0aC53eB340.png"
+}
