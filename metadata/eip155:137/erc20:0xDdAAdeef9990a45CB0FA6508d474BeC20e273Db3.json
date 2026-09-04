@@ -1,0 +1,7 @@
+{
+    "name": "BeGreenly Coin",
+    "symbol": "BGREEN",
+    "decimals": 18,
+    "erc20": true,
+    "logo": "./icons/eip155:137/erc20:0xDdAAdeef9990a45CB0FA6508d474BeC20e273Db3.svg"
+}
