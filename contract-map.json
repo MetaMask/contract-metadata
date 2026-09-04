@@ -1,4 +1,10 @@
-{
+```json
+"0x567cb27139bcc6c3617636cb4f882564a91d6e10": {
+    "name": "holly",
+    "symbol": "HOLLY",
+    "decimals": 18,
+    "erc20": true
+},
   "0x14778860E937f509e651192a90589dE711Fb88a9": {
     "name": "Cyber",
     "logo": "cyber.svg",
