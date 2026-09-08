@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:8453/erc20:0xB095274743941e953c746F9C228DA9c18Bb6ec29.png",
+  "name": "Hunter Biden's Laptop",
+  "symbol": "LAPTOP",
+  "decimals": 18,
+  "erc20": true
+}
