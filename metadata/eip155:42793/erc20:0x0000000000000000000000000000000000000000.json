@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:42793/erc20:0x0000000000000000000000000000000000000000.svg",
+  "name": "XTZ",
+  "symbol": "XTZ",
+  "decimals": 18,
+  "erc20": false
+}

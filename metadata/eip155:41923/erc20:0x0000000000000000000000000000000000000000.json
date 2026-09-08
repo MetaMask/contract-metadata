@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:41923/erc20:0x0000000000000000000000000000000000000000.svg",
+  "name": "EDU",
+  "symbol": "EDU",
+  "decimals": 18,
+  "erc20": false
+}
