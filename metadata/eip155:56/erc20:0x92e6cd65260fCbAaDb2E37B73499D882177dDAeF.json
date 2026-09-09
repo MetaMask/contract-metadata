@@ -1,0 +1,7 @@
+{
+  "name": "OSDT",
+  "symbol": "OSDT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x92e6cd65260fCbAaDb2E37B73499D882177dDAeF.svg"
+}
