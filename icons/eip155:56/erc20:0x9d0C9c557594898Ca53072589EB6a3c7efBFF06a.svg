@@ -56,12 +56,7 @@
 
 <!-- dark screen panel behind the logo -->
 <rect x="44" y="143" width="424" height="226" rx="20" ry="20"
-      fill="url(#panelGrad)" filter="url(#panelShadow)"/>
-<!-- <rect x="44.5" y="143.5" width="423" height="225" rx="19.5" ry="19.5"
-      fill="none" stroke="#3a3168" stroke-width="1" opacity=".5"/> -->
-
-<!-- small top glint -->
-<!-- <path d="M346 138 L360 152 L332 152 Z" fill="#bfe9ff" opacity=".4" filter="url(#glintBlur)"/> -->
+      fill="#21144D" filter="url(#panelShadow)"/>
 
 <g transform="translate(-74.27 37.14) scale(0.4952)">
 
