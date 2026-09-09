@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x8e9c32A536Ab623a2e0e9961BcE6F5fe7504e084.svg",
+  "name": "Revolut Euro",
+  "symbol": "EURR",
+  "decimals": 6,
+  "erc20": true
+}
