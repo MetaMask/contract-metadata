@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0xe8fB470E0685437d7739BD2AacBA60b228800335.png",
+  "name": "Throbbin",
+  "symbol": "THROBBIN",
+  "decimals": 18,
+  "erc20": true
+}
