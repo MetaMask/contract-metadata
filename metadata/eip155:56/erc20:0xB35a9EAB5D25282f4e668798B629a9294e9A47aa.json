@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xB35a9EAB5D25282f4e668798B629a9294e9A47aa.svg",
+  "name": "ON Semiconductor (Ondo Tokenized)",
+  "symbol": "ONon",
+  "decimals": 18,
+  "erc20": true
+}

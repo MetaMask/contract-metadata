@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x5ecC352C4640f1d26BD231dbBd171f40f7d0Eec6.svg",
+  "name": "Applied Materials (Ondo Tokenized)",
+  "symbol": "AMATon",
+  "decimals": 18,
+  "erc20": true
+}

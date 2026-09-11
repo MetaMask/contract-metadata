@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xc95c9e3fA311664b5e744B3C2716547BEc2Ba7dA.svg",
+  "name": "Quantum Computing (Ondo Tokenized)",
+  "symbol": "QUBTon",
+  "decimals": 18,
+  "erc20": true
+}

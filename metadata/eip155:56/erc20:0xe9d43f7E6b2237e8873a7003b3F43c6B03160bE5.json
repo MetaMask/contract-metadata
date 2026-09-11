@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xe9d43f7E6b2237e8873a7003b3F43c6B03160bE5.svg",
+  "name": "NextEra Energy (Ondo Tokenized)",
+  "symbol": "NEEon",
+  "decimals": 18,
+  "erc20": true
+}

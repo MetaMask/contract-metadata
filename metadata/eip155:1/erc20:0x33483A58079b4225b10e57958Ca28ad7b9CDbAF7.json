@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x33483A58079b4225b10e57958Ca28ad7b9CDbAF7.svg",
+  "name": "BitMine Immersion Technologies (Ondo Tokenized)",
+  "symbol": "BMNRon",
+  "decimals": 18,
+  "erc20": true
+}

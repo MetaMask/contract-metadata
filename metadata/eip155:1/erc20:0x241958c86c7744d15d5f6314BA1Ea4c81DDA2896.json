@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x241958c86c7744d15d5f6314BA1Ea4c81DDA2896.svg",
+  "name": "DoorDash (Ondo Tokenized)",
+  "symbol": "DASHon",
+  "decimals": 18,
+  "erc20": true
+}

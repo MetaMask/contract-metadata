@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x94d7754541B829A87321d56121Bc544167Ac490D.svg",
+  "name": "Starbucks (Ondo Tokenized)",
+  "symbol": "SBUXon",
+  "decimals": 18,
+  "erc20": true
+}

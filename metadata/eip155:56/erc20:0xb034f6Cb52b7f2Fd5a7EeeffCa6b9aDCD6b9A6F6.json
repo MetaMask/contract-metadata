@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xb034f6Cb52b7f2Fd5a7EeeffCa6b9aDCD6b9A6F6.svg",
+  "name": "ASML Holding NV (Ondo Tokenized)",
+  "symbol": "ASMLon",
+  "decimals": 18,
+  "erc20": true
+}

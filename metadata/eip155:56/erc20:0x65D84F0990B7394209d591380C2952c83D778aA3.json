@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x65D84F0990B7394209d591380C2952c83D778aA3.svg",
+  "name": "Constellation Energy (Ondo Tokenized)",
+  "symbol": "CEGon",
+  "decimals": 18,
+  "erc20": true
+}

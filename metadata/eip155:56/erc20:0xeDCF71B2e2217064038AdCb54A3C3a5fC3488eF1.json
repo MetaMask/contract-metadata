@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xeDCF71B2e2217064038AdCb54A3C3a5fC3488eF1.svg",
+  "name": "SoundHound AI (Ondo Tokenized)",
+  "symbol": "SOUNon",
+  "decimals": 18,
+  "erc20": true
+}

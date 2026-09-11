@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x4C82c8cD9a218612DCe60b156B73A36705645e3b.svg",
+  "name": "McDonald's (Ondo Tokenized)",
+  "symbol": "MCDon",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xA528CaaA2f96090e379d43F90834C75dF54D6E74.svg",
+  "name": "Intel (Ondo Tokenized)",
+  "symbol": "INTCon",
+  "decimals": 18,
+  "erc20": true
+}

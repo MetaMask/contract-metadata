@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x2D1F7226Bd1F780AF6B9A49DCC0aE00E8Df4bDEE.svg",
+  "name": "NVIDIA (Ondo Tokenized)",
+  "symbol": "NVDAon",
+  "decimals": 18,
+  "erc20": true
+}

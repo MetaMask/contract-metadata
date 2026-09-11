@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x9f16E46c73b43BDB70861247d537bEE4eA18F639.svg",
+  "name": "AMD (Ondo Tokenized)",
+  "symbol": "AMDon",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xbc843b147DB4C7E00721d76037b8b92e13AfE13f.svg",
+  "name": "S&P Global (Ondo Tokenized)",
+  "symbol": "SPGIon",
+  "decimals": 18,
+  "erc20": true
+}

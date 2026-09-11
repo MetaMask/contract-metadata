@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xFC003a764a7B5054Cc6fDb6b511F35deC8022751.svg",
+  "name": "Vertex Pharmaceuticals (Ondo Tokenized)",
+  "symbol": "VRTXon",
+  "decimals": 18,
+  "erc20": true
+}

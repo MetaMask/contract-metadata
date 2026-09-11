@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xdA81DA76070a7377eAEEB2978F0E13C5d57FaDb7.svg",
+  "name": "Southern Copper (Ondo Tokenized)",
+  "symbol": "SCCOon",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xA29dC2102dfc2a0A4A5dCb84Af984315567c9858.svg",
+  "name": "Mastercard (Ondo Tokenized)",
+  "symbol": "MAon",
+  "decimals": 18,
+  "erc20": true
+}

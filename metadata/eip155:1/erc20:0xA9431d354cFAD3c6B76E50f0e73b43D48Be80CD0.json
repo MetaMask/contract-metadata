@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xA9431d354cFAD3c6B76E50f0e73b43D48Be80CD0.svg",
+  "name": "Reddit (Ondo Tokenized)",
+  "symbol": "RDDTon",
+  "decimals": 18,
+  "erc20": true
+}

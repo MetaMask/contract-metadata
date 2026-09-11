@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xE1743616f705954620aa351465c8885fBDE5A8A9.svg",
+  "name": "Linde plc (Ondo Tokenized)",
+  "symbol": "LINon",
+  "decimals": 18,
+  "erc20": true
+}

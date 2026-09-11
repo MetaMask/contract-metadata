@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x04d94914Cd1D7FF749eFedEe764335777225b962.svg",
+  "name": "Rivian Automotive (Ondo Tokenized)",
+  "symbol": "RIVNon",
+  "decimals": 18,
+  "erc20": true
+}

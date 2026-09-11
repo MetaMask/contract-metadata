@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x0E246E05212DbBD78A354C072a92B4e5723B2fa0.svg",
+  "name": "Analog Devices (Ondo Tokenized)",
+  "symbol": "ADIon",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x90cCbB75d61Cb65cd73a3ABb5Df04a75961612b7.svg",
+  "name": "Deere (Ondo Tokenized)",
+  "symbol": "DEon",
+  "decimals": 18,
+  "erc20": true
+}

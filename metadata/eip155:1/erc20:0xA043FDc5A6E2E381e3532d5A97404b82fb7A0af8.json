@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xA043FDc5A6E2E381e3532d5A97404b82fb7A0af8.svg",
+  "name": "GE Vernova (Ondo Tokenized)",
+  "symbol": "GEVon",
+  "decimals": 18,
+  "erc20": true
+}

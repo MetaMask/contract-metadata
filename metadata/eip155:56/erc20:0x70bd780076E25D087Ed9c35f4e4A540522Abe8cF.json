@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x70bd780076E25D087Ed9c35f4e4A540522Abe8cF.svg",
+  "name": "Denison Mines (Ondo Tokenized)",
+  "symbol": "DNNon",
+  "decimals": 18,
+  "erc20": true
+}

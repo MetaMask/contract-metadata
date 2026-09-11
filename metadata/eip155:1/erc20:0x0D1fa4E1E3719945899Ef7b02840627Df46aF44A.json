@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x0D1fa4E1E3719945899Ef7b02840627Df46aF44A.svg",
+  "name": "AST SpaceMobile (Ondo Tokenized)",
+  "symbol": "ASTSon",
+  "decimals": 18,
+  "erc20": true
+}

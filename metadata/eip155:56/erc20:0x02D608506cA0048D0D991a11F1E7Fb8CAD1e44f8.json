@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x02D608506cA0048D0D991a11F1E7Fb8CAD1e44f8.svg",
+  "name": "American Airlines Group (Ondo Tokenized)",
+  "symbol": "AALon",
+  "decimals": 18,
+  "erc20": true
+}

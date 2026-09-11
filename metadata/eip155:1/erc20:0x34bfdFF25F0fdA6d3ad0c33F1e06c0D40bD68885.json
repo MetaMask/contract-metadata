@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x34bfdFF25F0fdA6d3ad0c33F1e06c0D40bD68885.svg",
+  "name": "Palo Alto Networks (Ondo Tokenized)",
+  "symbol": "PANWon",
+  "decimals": 18,
+  "erc20": true
+}

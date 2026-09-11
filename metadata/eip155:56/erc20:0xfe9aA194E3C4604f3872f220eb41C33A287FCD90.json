@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xfe9aA194E3C4604f3872f220eb41C33A287FCD90.svg",
+  "name": "Union Pacific Corporation (Ondo Tokenized)",
+  "symbol": "UNPon",
+  "decimals": 18,
+  "erc20": true
+}

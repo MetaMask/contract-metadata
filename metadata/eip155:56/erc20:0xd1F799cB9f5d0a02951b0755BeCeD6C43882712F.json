@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xd1F799cB9f5d0a02951b0755BeCeD6C43882712F.svg",
+  "name": "Johnson & Johnson (Ondo Tokenized)",
+  "symbol": "JNJon",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xc3D93B45249E8E06cfeB01d25A96337E8893265d.svg",
+  "name": "Disney (Ondo Tokenized)",
+  "symbol": "DISon",
+  "decimals": 18,
+  "erc20": true
+}

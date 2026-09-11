@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xB53894f82a6B2d3B7365f24932B5bDE1c5Fb51FF.svg",
+  "name": "Seagate (Ondo Tokenized)",
+  "symbol": "STXon",
+  "decimals": 18,
+  "erc20": true
+}

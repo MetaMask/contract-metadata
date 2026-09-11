@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x7c7378143a9c8839e0502e2178F058F46c6ea504.svg",
+  "name": "AbbVie (Ondo Tokenized)",
+  "symbol": "ABBVon",
+  "decimals": 18,
+  "erc20": true
+}

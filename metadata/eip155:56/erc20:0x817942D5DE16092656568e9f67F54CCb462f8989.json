@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x817942D5DE16092656568e9f67F54CCb462f8989.svg",
+  "name": "Gemini Space Station (Ondo Tokenized)",
+  "symbol": "GEMIon",
+  "decimals": 18,
+  "erc20": true
+}

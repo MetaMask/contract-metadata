@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xF05Ad9840924EA6f977EBccb3b1da87e31DcD0B4.svg",
+  "name": "Exxon Mobil (Ondo Tokenized)",
+  "symbol": "XOMon",
+  "decimals": 18,
+  "erc20": true
+}

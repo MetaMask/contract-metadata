@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x3807562A482B824C08A564DFefcc471806d3E00a.svg",
+  "name": "D-Wave Quantum (Ondo Tokenized)",
+  "symbol": "QBTSon",
+  "decimals": 18,
+  "erc20": true
+}

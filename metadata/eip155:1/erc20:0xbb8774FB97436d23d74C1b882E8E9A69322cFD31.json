@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xbb8774FB97436d23d74C1b882E8E9A69322cFD31.svg",
+  "name": "Amazon (Ondo Tokenized)",
+  "symbol": "AMZNon",
+  "decimals": 18,
+  "erc20": true
+}

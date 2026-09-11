@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x58a2EDF0169eDE82904e47a0E2a3a4008eDebB60.svg",
+  "name": "Intuitive Machines (Ondo Tokenized)",
+  "symbol": "LUNRon",
+  "decimals": 18,
+  "erc20": true
+}

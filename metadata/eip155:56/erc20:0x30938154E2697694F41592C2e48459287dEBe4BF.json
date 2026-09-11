@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x30938154E2697694F41592C2e48459287dEBe4BF.svg",
+  "name": "Enphase Energy (Ondo Tokenized)",
+  "symbol": "ENPHon",
+  "decimals": 18,
+  "erc20": true
+}
