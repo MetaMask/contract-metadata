@@ -4,6 +4,8 @@
 
 This repository uses a CLI tool (`cli-update-asset.js`) to manage contract metadata and icons following the CAIP-19 standard.
 
+Install dependencies first with `yarn` (the repo pins them via `yarn.lock`, which is what CI installs from).
+
 ### Available Commands
 
 #### 1. Add or Update an Asset
@@ -12,7 +14,7 @@ Use the `set` command to add a new asset or update an existing one:
 
 ```bash
 # Add a new asset with all required fields
-npm run asset:set -- \
+yarn asset:set \
   --caip "eip155:1/erc20:0xTOKEN_ADDRESS" \
   --name "Token Name" \
   --symbol "SYMBOL" \
@@ -20,12 +22,12 @@ npm run asset:set -- \
   --image ./path/to/logo.svg
 
 # Add or update labels for an asset
-npm run asset:set -- \
+yarn asset:set \
   --caip "eip155:1/erc20:0xTOKEN_ADDRESS" \
   --labels "stable_coin,blue_chip"
 
 # Or use a direct URL for the image
-npm run asset:set -- \
+yarn asset:set \
   --caip "eip155:1/erc20:0xTOKEN_ADDRESS" \
   --name "Token Name" \
   --symbol "SYMBOL" \
@@ -33,12 +35,12 @@ npm run asset:set -- \
   --image "https://example.com/logo.png"
 
 # Update only specific fields of an existing asset
-npm run asset:set -- \
+yarn asset:set \
   --caip "eip155:1/erc20:0xTOKEN_ADDRESS" \
   --name "Updated Token Name"
 
 # Update just the image
-npm run asset:set -- \
+yarn asset:set \
   --caip "eip155:1/erc20:0xTOKEN_ADDRESS" \
   --image ./new-logo.svg
 ```
@@ -67,7 +69,7 @@ npm run asset:set -- \
 Check if an asset's metadata and icon files are valid:
 
 ```bash
-npm run asset:verify -- \
+yarn asset:verify \
   --caip "eip155:1/erc20:0xTOKEN_ADDRESS"
 ```
 
@@ -77,16 +79,16 @@ List all assets in a specific namespace:
 
 ```bash
 # List all Ethereum Mainnet assets
-npm run asset:list -- --namespace "eip155:1"
+yarn asset:list --namespace "eip155:1"
 
 # List all Polygon assets
-npm run asset:list -- --namespace "eip155:137"
+yarn asset:list --namespace "eip155:137"
 ```
 
 ### Workflow
 
-1. **Add or update** an asset using `npm run asset:set`
-2. **Verify** the changes using `npm run asset:verify`
+1. **Add or update** an asset using `yarn asset:set`
+2. **Verify** the changes using `yarn asset:verify`
 3. **Rebuild** the contract-map.json: `node buildindex.js`
 4. **Review** the changes in git
 5. **Commit and push** your changes
