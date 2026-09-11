@@ -1,0 +1,7 @@
+{
+  "name": "Growth Yield Token",
+  "symbol": "GYT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xb2F0d43f6496b38bb55AbEA0fD2ee5cC891AcB33.png"
+}
