@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x4c93B9FbF7Fd1777CCBcBc538B1d0a8b58fB1ad6.png",
+  "name": "Ethereum STRATO",
+  "symbol": "STRATO",
+  "decimals": 18,
+  "erc20": true
+}

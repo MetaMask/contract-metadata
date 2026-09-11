@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xF6C8a66788FddEa78Eb4654a8B5674B2fe1857cb.png",
+  "name": "Ethereum GOLDST",
+  "symbol": "GOLDST",
+  "decimals": 18,
+  "erc20": true
+}
