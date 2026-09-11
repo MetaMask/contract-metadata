@@ -1,7 +1,0 @@
-{
-  "name": "GHO Token",
-  "symbol": "GHO",
-  "decimals": 18,
-  "erc20": true,
-  "logo": "./icons/eip155:57073/erc20:0xfc421aD3C883Bf9E7C4f42dE845C4e4405799e73.svg"
-}

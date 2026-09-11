@@ -1,7 +1,0 @@
-{
-  "logo": "./icons/eip155:137/slip44:966.svg",
-  "name": "POL",
-  "symbol": "POL",
-  "decimals": 18,
-  "erc20": false
-}

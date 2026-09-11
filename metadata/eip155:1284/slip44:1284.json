@@ -1,7 +1,0 @@
-{
-  "logo": "./icons/eip155:1284/slip44:1284.svg",
-  "name": "GLMR",
-  "symbol": "GLMR",
-  "decimals": 18,
-  "erc20": false
-}

@@ -1,7 +1,0 @@
-{
-  "logo": "./icons/eip155:30/slip44:137.svg",
-  "name": "RBTC",
-  "symbol": "RBTC",
-  "decimals": 18,
-  "erc20": false
-}

@@ -1,7 +1,0 @@
-{
-  "name": "RSK Swap LP rDAI/RBTC",
-  "symbol": "🦄rDAI:RBTC",
-  "decimals": 18,
-  "erc20": true,
-  "logo": "./icons/eip155:30/erc20:0xC9FE8e7a47eFF9f62F2684A540619D52FBcd6649.png"
-}

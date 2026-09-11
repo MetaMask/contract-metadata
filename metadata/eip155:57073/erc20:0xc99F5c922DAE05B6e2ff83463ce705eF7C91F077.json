@@ -1,7 +1,0 @@
-{
-  "name": "xSolvBTC",
-  "symbol": "xSolvBTC",
-  "decimals": 18,
-  "erc20": true,
-  "logo": "./icons/eip155:57073/erc20:0xc99F5c922DAE05B6e2ff83463ce705eF7C91F077.svg"
-}

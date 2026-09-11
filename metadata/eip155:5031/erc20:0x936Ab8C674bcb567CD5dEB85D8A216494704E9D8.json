@@ -1,7 +1,0 @@
-{
-  "name": "Stargate Bridged WETH (Somnia)",
-  "symbol": "WETH",
-  "decimals": 18,
-  "erc20": true,
-  "logo": "./icons/eip155:5031/erc20:0x936Ab8C674bcb567CD5dEB85D8A216494704E9D8.svg"
-}

@@ -1,7 +1,0 @@
-{
-  "logo": "./icons/eip155:1/erc20:0x7EC90eD9297dBc5702b1E616A938235AfD20a1dE.svg",
-  "name": "Golden backed US Dollar",
-  "symbol": "USAD",
-  "decimals": 6,
-  "erc20": true
-}

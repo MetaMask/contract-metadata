@@ -1,7 +1,0 @@
-{
-  "name": "Stargate Bridged USDT (Somnia)",
-  "symbol": "USDT",
-  "decimals": 6,
-  "erc20": true,
-  "logo": "./icons/eip155:5031/erc20:0x67B302E35Aef5EEE8c32D934F5856869EF428330.svg"
-}

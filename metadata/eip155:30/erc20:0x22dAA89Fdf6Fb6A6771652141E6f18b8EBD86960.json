@@ -1,7 +1,0 @@
-{
-  "name": "RSK Swap LP rDAI/DOC",
-  "symbol": "🦄DAI:DOC",
-  "decimals": 18,
-  "erc20": true,
-  "logo": "./icons/eip155:30/erc20:0x22dAA89Fdf6Fb6A6771652141E6f18b8EBD86960.png"
-}
