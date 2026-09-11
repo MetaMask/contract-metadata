@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0x8d8f709357203b4933Af3Ac410CC521C5680611f.png",
+  "name": "Money Dog",
+  "symbol": "MONEYDOG",
+  "decimals": 18,
+  "erc20": true
+}
