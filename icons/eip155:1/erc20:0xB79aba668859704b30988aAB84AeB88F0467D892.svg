@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <circle cx="16" cy="16" r="16" fill="#26A17B"/>
+  <circle cx="16" cy="16" r="13.5" fill="none" stroke="#FFFFFF" stroke-width="1.5"/>
+  <text x="16" y="18.5"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="7"
+        font-weight="700"
+        fill="#FFFFFF">USDTz</text>
+</svg>
