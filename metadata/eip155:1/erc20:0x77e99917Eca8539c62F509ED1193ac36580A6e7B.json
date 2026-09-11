@@ -1,0 +1,7 @@
+{
+  "name": "Inferno",
+  "symbol": "IFR",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x77e99917Eca8539c62F509ED1193ac36580A6e7B.png"
+}
