@@ -1,0 +1,7 @@
+{
+  "name": "ALTDeer",
+  "symbol": "ALT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x2Eb0D0586454f6D4B1BC00e9E79Bf8aA2233c258.png"
+}
