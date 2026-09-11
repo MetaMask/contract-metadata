@@ -1,0 +1,9 @@
+{
+  "eip155:56/erc20:0xF4C8E32EaDEC4BFe97E0F595AdD0f4450a863a11": {
+    "name": "THENA",
+    "symbol": "THE",
+    "decimals": 18,
+    "erc20": true,
+    "logo": "./icons/eip155:56/erc20:0xF4C8E32EaDEC4BFe97E0F595AdD0f4450a863a11.svg"
+  }
+}
