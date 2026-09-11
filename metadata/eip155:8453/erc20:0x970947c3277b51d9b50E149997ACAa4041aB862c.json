@@ -1,0 +1,7 @@
+{
+    "name": "TURAN",
+    "symbol": "TRN",
+    "decimals": 18,
+    "erc20": true,
+    "logo": "./icons/eip155:8453/erc20:0x970947c3277b51d9b50E149997ACAa4041aB862c.svg"
+}
