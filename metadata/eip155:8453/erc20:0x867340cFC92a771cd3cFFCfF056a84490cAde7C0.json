@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped Wojakcoin",
+  "symbol": "wWojakcoin",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x867340cFC92a771cd3cFFCfF056a84490cAde7C0.png"
+}
