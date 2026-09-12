@@ -1,7 +1,0 @@
-{
-  "logo": "./icons/eip155:250/slip44:1007.svg",
-  "name": "FTM",
-  "symbol": "FTM",
-  "decimals": 18,
-  "erc20": false
-}

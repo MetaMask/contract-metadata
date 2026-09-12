@@ -1,7 +1,0 @@
-{
-  "logo": "./icons/eip155:321/slip44:641.svg",
-  "name": "KCS",
-  "symbol": "KCS",
-  "decimals": 18,
-  "erc20": false
-}
