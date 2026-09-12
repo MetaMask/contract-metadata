@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x53Cc641Ef8769d81e586Fc56E6AAdc4Fe0B142c2.svg",
+  "name": "Aegent",
+  "symbol": "AGNT",
+  "decimals": 18,
+  "erc20": true
+}
