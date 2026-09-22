@@ -1,0 +1,7 @@
+{
+  "name": "Meridian Protocol",
+  "symbol": "MRDN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xd4025a390a0b2a606f24Ea33A902D10D978715F2.png"
+}
