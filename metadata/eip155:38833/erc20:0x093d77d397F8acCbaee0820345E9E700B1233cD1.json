@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:38833/erc20:0x093d77d397F8acCbaee0820345E9E700B1233cD1.svg",
+  "name": "Igra Token",
+  "symbol": "IGRA",
+  "decimals": 18,
+  "erc20": true
+}
