@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped 0G",
+  "symbol": "W0G",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x4C1Dab3Be86347977F3DfC4b9688224ef2272939.svg"
+}
