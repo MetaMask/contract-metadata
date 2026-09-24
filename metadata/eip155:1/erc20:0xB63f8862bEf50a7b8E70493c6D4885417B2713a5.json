@@ -1,0 +1,7 @@
+{
+  "name": "ISE Token",
+  "symbol": "ISE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xB63f8862bEf50a7b8E70493c6D4885417B2713a5.svg"
+}
