@@ -1,0 +1,7 @@
+{
+  "name": "USDT.ARB",
+  "symbol": "USDT.ARB",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:7000/erc20:0x0ca762fa958194795320635c11ff0c45c6412958.svg"
+}

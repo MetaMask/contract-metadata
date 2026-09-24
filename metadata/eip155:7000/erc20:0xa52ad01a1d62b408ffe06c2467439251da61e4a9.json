@@ -1,0 +1,7 @@
+{
+  "name": "USDC.AVAX",
+  "symbol": "USDC.AVAX",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:7000/erc20:0xa52ad01a1d62b408ffe06c2467439251da61e4a9.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ULTI.BSC",
+  "symbol": "ULTI.BSC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:7000/erc20:0xd10932eb3616a937bd4a2652c87e9febbace53e5.svg"
+}
