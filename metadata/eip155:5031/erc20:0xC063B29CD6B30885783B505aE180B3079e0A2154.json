@@ -1,7 +1,0 @@
-{
-  "name": "Nia",
-  "symbol": "NIA",
-  "decimals": 18,
-  "erc20": true,
-  "logo": "./icons/eip155:5031/erc20:0xC063B29CD6B30885783B505aE180B3079e0A2154.png"
-}

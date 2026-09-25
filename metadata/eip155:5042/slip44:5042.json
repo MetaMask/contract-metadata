@@ -1,7 +1,0 @@
-{
-  "name": "USDC",
-  "symbol": "USDC",
-  "decimals": 18,
-  "erc20": false,
-  "logo": "./icons/eip155:5042/slip44:5042.svg"
-}

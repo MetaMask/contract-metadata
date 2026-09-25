@@ -1,7 +1,0 @@
-{
-  "logo": "./icons/eip155:59144/erc20:0x91C4596B9Aba38CB46318F01A0C1943922f47aE5.svg",
-  "name": "Linea USD",
-  "symbol": "USDL",
-  "decimals": 6,
-  "erc20": true
-}

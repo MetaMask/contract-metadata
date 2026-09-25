@@ -1,7 +1,0 @@
-{
-  "logo": "./icons/eip155:747/slip44:539.svg",
-  "name": "FLOW",
-  "symbol": "FLOW",
-  "decimals": 18,
-  "erc20": false
-}

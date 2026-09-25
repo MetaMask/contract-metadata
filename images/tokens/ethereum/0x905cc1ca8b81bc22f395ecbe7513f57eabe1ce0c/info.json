@@ -1,0 +1,11 @@
+{
+  "name": "EuroID",
+  "symbol": "EID",
+  "erc20": true,
+  "website": "https://eid.guardian-id.org",
+  "description": "EuroID (EID) is a European digital identity token on Ethereum enabling decentralized verification, cross-border payments, and frictionless access to European financial services.",
+  "research": "https://github.com/GuardianID-SK/euroid-token",
+  "contracts": {
+    "mainnet": "0x905cc1ca8b81bc22f395ecbe7513f57eabe1ce0c"
+  }
+}
