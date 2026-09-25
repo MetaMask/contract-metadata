@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xEf80743f78d98FC2B47a2253B293152ce8B879ba.svg",
+  "name": "Airbnb (Ondo Tokenized)",
+  "symbol": "ABNBon",
+  "decimals": 18,
+  "erc20": true
+}

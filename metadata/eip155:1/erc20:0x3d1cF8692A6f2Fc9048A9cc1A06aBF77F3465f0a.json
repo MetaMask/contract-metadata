@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x3d1cF8692A6f2Fc9048A9cc1A06aBF77F3465f0a.svg",
+  "name": "NetEase (Ondo Tokenized)",
+  "symbol": "NTESon",
+  "decimals": 18,
+  "erc20": true
+}

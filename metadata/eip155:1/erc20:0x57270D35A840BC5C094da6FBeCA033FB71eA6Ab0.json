@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x57270D35A840BC5C094da6FBeCA033FB71eA6Ab0.svg",
+  "name": "Boeing (Ondo Tokenized)",
+  "symbol": "BAon",
+  "decimals": 18,
+  "erc20": true
+}

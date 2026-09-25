@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xa637ae510cB50E61236a89AC480B93B8c3bcCc46.svg",
+  "name": "KLA (Ondo Tokenized)",
+  "symbol": "KLACon",
+  "decimals": 18,
+  "erc20": true
+}

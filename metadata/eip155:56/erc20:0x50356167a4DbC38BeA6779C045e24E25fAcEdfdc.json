@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x50356167a4DbC38BeA6779C045e24E25fAcEdfdc.svg",
+  "name": "Spotify (Ondo Tokenized)",
+  "symbol": "SPOTon",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x47B36DDB9dd12A8411f78226f55e8c3f0D65481f.svg",
+  "name": "PG&E (Ondo Tokenized)",
+  "symbol": "PCGon",
+  "decimals": 18,
+  "erc20": true
+}

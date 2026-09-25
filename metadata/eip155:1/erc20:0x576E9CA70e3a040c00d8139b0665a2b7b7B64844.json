@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x576E9CA70e3a040c00d8139b0665a2b7b7B64844.svg",
+  "name": "Bank of America (Ondo Tokenized)",
+  "symbol": "BACon",
+  "decimals": 18,
+  "erc20": true
+}

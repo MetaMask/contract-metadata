@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x405F38B90beBF1259062CF29Da299f3398662bcb.svg",
+  "name": "Coca-Cola (Ondo Tokenized)",
+  "symbol": "KOon",
+  "decimals": 18,
+  "erc20": true
+}

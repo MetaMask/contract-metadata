@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x8dDB97556F6ae98B4d408c56B167139fE1Cbe3e8.svg",
+  "name": "Citigroup (Ondo Tokenized)",
+  "symbol": "Con",
+  "decimals": 18,
+  "erc20": true
+}

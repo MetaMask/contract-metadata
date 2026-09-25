@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xe2Ac868F2FD097086d83Bc939248E5aE08d35DA4.svg",
+  "name": "B2Gold (Ondo Tokenized)",
+  "symbol": "BTGon",
+  "decimals": 18,
+  "erc20": true
+}

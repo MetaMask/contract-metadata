@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x510Dd21055188Eda378714DE3bb5591Ffa0CC468.svg",
+  "name": "BitGo Holdings (Ondo Tokenized)",
+  "symbol": "BTGOon",
+  "decimals": 18,
+  "erc20": true
+}

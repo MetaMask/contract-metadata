@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xE8ff70859Ce4cbd72E4352b4fb45F5BF39d07464.svg",
+  "name": "IBM (Ondo Tokenized)",
+  "symbol": "IBMon",
+  "decimals": 18,
+  "erc20": true
+}

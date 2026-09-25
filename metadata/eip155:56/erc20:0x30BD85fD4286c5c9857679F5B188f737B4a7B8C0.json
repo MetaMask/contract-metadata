@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x30BD85fD4286c5c9857679F5B188f737B4a7B8C0.svg",
+  "name": "Regeneron Pharmaceuticals (Ondo Tokenized)",
+  "symbol": "REGNon",
+  "decimals": 18,
+  "erc20": true
+}

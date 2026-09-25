@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x34375f826fD3dD4E15F883d4F4786bB45eb705ac.svg",
+  "name": "Costco (Ondo Tokenized)",
+  "symbol": "COSTon",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xfDFDf5db2F4A72cb754FfA8896EA012dC2cc0F5e.svg",
+  "name": "Rigetti Computing (Ondo Tokenized)",
+  "symbol": "RGTIon",
+  "decimals": 18,
+  "erc20": true
+}

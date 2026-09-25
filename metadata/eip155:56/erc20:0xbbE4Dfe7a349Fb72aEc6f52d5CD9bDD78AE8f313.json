@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xbbE4Dfe7a349Fb72aEc6f52d5CD9bDD78AE8f313.svg",
+  "name": "Talen Energy (Ondo Tokenized)",
+  "symbol": "TLNon",
+  "decimals": 18,
+  "erc20": true
+}

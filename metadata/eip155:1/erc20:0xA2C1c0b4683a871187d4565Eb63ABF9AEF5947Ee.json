@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xA2C1c0b4683a871187d4565Eb63ABF9AEF5947Ee.svg",
+  "name": "Moderna (Ondo Tokenized)",
+  "symbol": "MRNAon",
+  "decimals": 18,
+  "erc20": true
+}

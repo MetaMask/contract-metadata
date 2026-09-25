@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xC37042A7a4fa510D8884a433762aB87257B91965.svg",
+  "name": "Taiwan Semiconductor Manufacturing (Ondo Tokenized)",
+  "symbol": "TSMon",
+  "decimals": 18,
+  "erc20": true
+}

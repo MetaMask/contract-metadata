@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x9351AbD19f42101dD36025E495B98E910b255d78.svg",
+  "name": "Palantir Technologies (Ondo Tokenized)",
+  "symbol": "PLTRon",
+  "decimals": 18,
+  "erc20": true
+}

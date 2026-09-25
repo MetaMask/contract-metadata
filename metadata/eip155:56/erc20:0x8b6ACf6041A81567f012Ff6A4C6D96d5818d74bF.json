@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x8b6ACf6041A81567f012Ff6A4C6D96d5818d74bF.svg",
+  "name": "Micron Technology (Ondo Tokenized)",
+  "symbol": "MUon",
+  "decimals": 18,
+  "erc20": true
+}

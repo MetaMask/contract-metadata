@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x35895a1fa1AFf7FB3204fB01257409Fd75acB24C.svg",
+  "name": "Lam Research (Ondo Tokenized)",
+  "symbol": "LRCXon",
+  "decimals": 18,
+  "erc20": true
+}

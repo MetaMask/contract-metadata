@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x36E3b8d9aAd0e51aC08E56a75A8f6005bF68535B.svg",
+  "name": "Rocket Lab (Ondo Tokenized)",
+  "symbol": "RKLBon",
+  "decimals": 18,
+  "erc20": true
+}

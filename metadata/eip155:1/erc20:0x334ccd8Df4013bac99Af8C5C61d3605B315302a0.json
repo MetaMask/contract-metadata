@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x334ccd8Df4013bac99Af8C5C61d3605B315302a0.svg",
+  "name": "Bullish (Ondo Tokenized)",
+  "symbol": "BLSHon",
+  "decimals": 18,
+  "erc20": true
+}

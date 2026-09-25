@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x4693f6F5EF257381a28afd0673e64d8b32d5C6aD.svg",
+  "name": "Hims & Hers Health (Ondo Tokenized)",
+  "symbol": "HIMSon",
+  "decimals": 18,
+  "erc20": true
+}

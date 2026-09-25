@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xfBD4D681C92ead6Af0E49950c8B2e47EeAcbB2dB.svg",
+  "name": "Qualcomm (Ondo Tokenized)",
+  "symbol": "QCOMon",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x8E82a0d7347329703FB6c6A745B1C2b3aBB1658c.svg",
+  "name": "SolarEdge Technologies (Ondo Tokenized)",
+  "symbol": "SEDGon",
+  "decimals": 18,
+  "erc20": true
+}

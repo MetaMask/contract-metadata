@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xd5C5B2883735Fa9B658Dd52e2FCC8d7c0f1A42Ce.svg",
+  "name": "AppLovin (Ondo Tokenized)",
+  "symbol": "APPon",
+  "decimals": 18,
+  "erc20": true
+}

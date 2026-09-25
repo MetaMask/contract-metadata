@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xECABE1Ff8a9e1dC55899cf58dac8497ecE5Ae84c.svg",
+  "name": "Strategy Stretch Preferred (Ondo Tokenized)",
+  "symbol": "STRCon",
+  "decimals": 18,
+  "erc20": true
+}

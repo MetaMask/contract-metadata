@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x073E7a0669833d356fa88ca65CC6D454EFaAa3c5.svg",
+  "name": "Figma (Ondo Tokenized)",
+  "symbol": "FIGon",
+  "decimals": 18,
+  "erc20": true
+}

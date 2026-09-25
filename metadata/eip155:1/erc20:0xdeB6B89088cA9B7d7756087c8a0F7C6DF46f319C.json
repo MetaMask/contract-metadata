@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xdeB6B89088cA9B7d7756087c8a0F7C6DF46f319C.svg",
+  "name": "JD.com (Ondo Tokenized)",
+  "symbol": "JDon",
+  "decimals": 18,
+  "erc20": true
+}

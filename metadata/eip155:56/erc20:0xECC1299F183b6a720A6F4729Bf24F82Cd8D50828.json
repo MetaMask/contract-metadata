@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xECC1299F183b6a720A6F4729Bf24F82Cd8D50828.svg",
+  "name": "Toyota (Ondo Tokenized)",
+  "symbol": "TMon",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x58fC9d573Ea773ef9a25c3DE66F990B87Ee5f50E.svg",
+  "name": "Texas Instruments (Ondo Tokenized)",
+  "symbol": "TXNon",
+  "decimals": 18,
+  "erc20": true
+}

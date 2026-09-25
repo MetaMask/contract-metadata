@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xf192957AE52dB3eb088654403CC2eDeD014ae556.svg",
+  "name": "Eli Lilly (Ondo Tokenized)",
+  "symbol": "LLYon",
+  "decimals": 18,
+  "erc20": true
+}

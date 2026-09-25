@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x629520dEE1620dEf11596F84E85de9F1Ff653012.svg",
+  "name": "Wells Fargo (Ondo Tokenized)",
+  "symbol": "WFCon",
+  "decimals": 18,
+  "erc20": true
+}

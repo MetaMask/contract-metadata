@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x9d4C6AD12B55E4645b585209F90Cc26614061E91.svg",
+  "name": "Baidu (Ondo Tokenized)",
+  "symbol": "BIDUon",
+  "decimals": 18,
+  "erc20": true
+}

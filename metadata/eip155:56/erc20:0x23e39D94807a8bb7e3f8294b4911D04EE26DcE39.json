@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x23e39D94807a8bb7e3f8294b4911D04EE26DcE39.svg",
+  "name": "Redwire (Ondo Tokenized)",
+  "symbol": "RDWon",
+  "decimals": 18,
+  "erc20": true
+}

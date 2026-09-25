@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x5151A22421Ed4277F1e4ca4785a07b035D548a36.svg",
+  "name": "General Electric (Ondo Tokenized)",
+  "symbol": "GEon",
+  "decimals": 18,
+  "erc20": true
+}
