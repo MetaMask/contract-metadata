@@ -1,0 +1,7 @@
+{
+  "name": "Test USDT",
+  "symbol": "tUSDT",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x1524A42B27b28E6bD3eb9908f4aE012FF1F7eBBE.png"
+}
