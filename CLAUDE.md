@@ -9,8 +9,8 @@
 This repository uses a CLI tool for managing CAIP-19 contract metadata and icons.
 
 **Main commands:**
-- `npm run asset:set` - Add or update an asset
-- `npm run asset:verify` - Verify asset files
-- `npm run asset:list` - List assets in a namespace
+- `yarn asset:set` - Add or update an asset
+- `yarn asset:verify` - Verify asset files
+- `yarn asset:list` - List assets in a namespace
 
 For detailed usage, parameters, examples, and workflow, refer to the canonical documentation in `.github/copilot-instructions.md`.
