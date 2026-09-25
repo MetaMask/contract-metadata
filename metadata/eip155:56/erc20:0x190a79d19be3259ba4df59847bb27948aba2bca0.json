@@ -1,0 +1,7 @@
+{
+  "name": "Green Tech Agro Farms",
+  "symbol": "GTAF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x190a79d19be3259ba4df59847bb27948aba2bca0.svg"
+}
