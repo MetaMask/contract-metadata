@@ -1,7 +1,0 @@
-{
-  "logo": "./icons/eip155:1666600000/slip44:1023.svg",
-  "name": "ONE",
-  "symbol": "ONE",
-  "decimals": 18,
-  "erc20": false
-}

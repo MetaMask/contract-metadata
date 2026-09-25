@@ -1,7 +1,0 @@
-{
-  "name": "Sandisk Corporation xStock",
-  "symbol": "SNDKx",
-  "decimals": 18,
-  "erc20": true,
-  "logo": "./icons/eip155:57073/erc20:0xb63EFBc28860c8097e341DE1fCF59456161E9D98.svg"
-}

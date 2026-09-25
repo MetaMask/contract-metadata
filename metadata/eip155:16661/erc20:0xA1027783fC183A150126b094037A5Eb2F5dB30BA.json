@@ -1,7 +1,0 @@
-{
-  "name": "Midas mEDGE",
-  "symbol": "mEDGE",
-  "decimals": 18,
-  "erc20": true,
-  "logo": "./icons/eip155:16661/erc20:0xA1027783fC183A150126b094037A5Eb2F5dB30BA.svg"
-}

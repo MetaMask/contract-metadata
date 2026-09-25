@@ -1,7 +1,0 @@
-{
-  "logo": "./icons/eip155:1776/slip44:22000119.svg",
-  "name": "INJ",
-  "symbol": "INJ",
-  "decimals": 18,
-  "erc20": false
-}

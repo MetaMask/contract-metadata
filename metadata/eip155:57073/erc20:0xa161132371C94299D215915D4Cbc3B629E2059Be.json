@@ -1,7 +1,0 @@
-{
-  "name": "brBTC",
-  "symbol": "brBTC",
-  "decimals": 8,
-  "erc20": true,
-  "logo": "./icons/eip155:57073/erc20:0xa161132371C94299D215915D4Cbc3B629E2059Be.png"
-}

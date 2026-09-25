@@ -1,7 +1,0 @@
-{
-  "name": "Solv BTC",
-  "symbol": "SolvBTC",
-  "decimals": 18,
-  "erc20": true,
-  "logo": "./icons/eip155:57073/erc20:0xaE4EFbc7736f963982aACb17EFA37fCBAb924cB3.svg"
-}

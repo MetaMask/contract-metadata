@@ -1,7 +1,0 @@
-{
-  "name": "Pesos Panameños PagoLinea",
-  "symbol": "PABCB",
-  "decimals": 18,
-  "erc20": true,
-  "logo": "./icons/eip155:30/erc20:0x99Af5DEb8dAEBCD36FCCD16fA46dC95D922CdE5b.png"
-}

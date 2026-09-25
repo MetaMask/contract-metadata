@@ -1,7 +1,0 @@
-{
-  "logo": "./icons/eip155:1/erc20:0xa0Df17B5aC76ABaBA36E1450E2cbCd18A620C845.png",
-  "name": "Fake World Assets",
-  "symbol": "FWA",
-  "decimals": 18,
-  "erc20": true
-}
