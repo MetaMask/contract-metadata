@@ -1,0 +1,7 @@
+{
+  "name": "RootCrak",
+  "symbol": "ROOT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:4663/erc20:0x16E05f62D1b3a442785a8554dC993D818A637777.png"
+}
