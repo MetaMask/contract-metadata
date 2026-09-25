@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xCFeA5ED79693fdCe70189768D378Eab12a639768.png",
+  "name": "OxyLoan",
+  "symbol": "OXY",
+  "decimals": 18,
+  "erc20": true
+}
