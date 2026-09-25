@@ -838,6 +838,13 @@
     "symbol": "RSR",
     "decimals": 18
   },
+  "0x1Bf74C010E6320bab11e2e5A532b5AC15e0b8aA6": {
+    "name": "Wrapped eETH",
+    "logo": "weeth.svg",
+    "erc20": true,
+    "symbol": "weETH",
+    "decimals": 18
+  },
   "0x1cF4592ebfFd730c7dc92c1bdFFDfc3B9EfCf29a": {
     "name": "WAVES",
     "logo": "waves.svg",
@@ -976,6 +983,13 @@
     "logo": "wstETH.svg",
     "erc20": true,
     "symbol": "wstETH",
+    "decimals": 18
+  },
+  "0x5A7fACB970D094B6C7FF1df0eA68D99E6e73CBFF": {
+    "name": "Wrapped eETH",
+    "logo": "weeth.svg",
+    "erc20": true,
+    "symbol": "weETH",
     "decimals": 18
   },
   "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32": {
@@ -1662,6 +1676,13 @@
     "logo": "CHAI.svg",
     "erc20": true,
     "symbol": "CHAI",
+    "decimals": 18
+  },
+  "0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A": {
+    "name": "Wrapped eETH",
+    "logo": "weeth.svg",
+    "erc20": true,
+    "symbol": "weETH",
     "decimals": 18
   },
   "0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828": {
@@ -3321,6 +3342,13 @@
     "symbol": "AXNv1",
     "decimals": 18
   },
+  "0x35751007a407ca6FEFfE80b3cB397736D2cf4dbe": {
+    "name": "Wrapped eETH",
+    "logo": "weeth.svg",
+    "erc20": true,
+    "symbol": "weETH",
+    "decimals": 18
+  },
   "0x358AA737e033F34df7c54306960a38d09AaBd523": {
     "name": "Ares Protocol",
     "logo": "ARES.svg",
@@ -4009,6 +4037,13 @@
     "symbol": "XHT",
     "decimals": 18
   },
+  "0x01f0a31698c4d065659b9bdc21b3610292a1c506": {
+    "name": "Wrapped eETH",
+    "logo": "weeth.svg",
+    "erc20": true,
+    "symbol": "weETH",
+    "decimals": 18
+  },
   "0x01e0E2e61f554eCAaeC0cC933E739Ad90f24a86d": {
     "name": "GTON",
     "logo": "gton.svg",
@@ -4433,6 +4468,13 @@
     "logo": "PAW.svg",
     "erc20": true,
     "symbol": "wPAW",
+    "decimals": 18
+  }, 
+  "0xc1fa6e2e8667d9be0ca938a54c7e0285e9df924a": {
+    "name": "Wrapped eETH",
+    "logo": "weeth.svg",
+    "erc20": true,
+    "symbol": "weETH",
     "decimals": 18
   },
   "0x808688c820AB080A6Ff1019F03E5EC227D9b522B": {
