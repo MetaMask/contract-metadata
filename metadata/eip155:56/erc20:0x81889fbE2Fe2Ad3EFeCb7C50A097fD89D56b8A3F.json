@@ -1,0 +1,7 @@
+{
+  "name": "AngelBucks",
+  "symbol": "ABX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "icons/eip155:56/erc20:0x81889fbE2Fe2Ad3EFeCb7C50A097fD89D56b8A3F.png"
+}
