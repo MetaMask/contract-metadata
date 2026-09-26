@@ -1,0 +1,7 @@
+{
+  "name": "Phila Forex Trading",
+  "symbol": "PFX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:11155111/erc20:0x0f50737418526b53Ce6D2B67007530E2C7D6AF2a.png"
+}
