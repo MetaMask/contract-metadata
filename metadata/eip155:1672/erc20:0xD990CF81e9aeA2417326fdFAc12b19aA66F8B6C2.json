@@ -1,0 +1,7 @@
+{
+  "name": "FunctionBTC",
+  "symbol": "FBTC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1672/erc20:0xD990CF81e9aeA2417326fdFAc12b19aA66F8B6C2.png"
+}
