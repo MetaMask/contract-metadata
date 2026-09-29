@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped Savings rUSD",
+  "symbol": "wsrUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1672/erc20:0x4809010926aec940b550D34a46A52739f996D75D.png"
+}

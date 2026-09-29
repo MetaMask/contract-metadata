@@ -1,0 +1,7 @@
+{
+  "name": "pRNH",
+  "symbol": "pRNH",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1672/erc20:0x6ce4bc043398ac40392d1e063328048072b2075d.png"
+}
