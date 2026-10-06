@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x9f6F3991D525015a6F8CaF062C83b62fD3AC4436.png",
+  "name": "OpenUSD",
+  "symbol": "OUSD",
+  "decimals": 6,
+  "erc20": true
+}
