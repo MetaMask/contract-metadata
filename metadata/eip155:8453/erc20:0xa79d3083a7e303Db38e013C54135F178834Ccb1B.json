@@ -1,0 +1,7 @@
+{
+  "name": "TigerCoin",
+  "symbol": "TGR",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xa79d3083a7e303Db38e013C54135F178834Ccb1B.png"
+}
