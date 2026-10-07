@@ -1,0 +1,7 @@
+{
+  "name": "Furety",
+  "symbol": "FTY",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0xD1f0Cd986Da6E05619Ef81559BCA5e82609A66E5.svg"
+}
