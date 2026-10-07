@@ -4518,5 +4518,12 @@
     "erc20": true,
     "symbol": "FPS",
     "decimals": 18
+  },
+  "0x3Fc98a885E99420d0ce43Bcb81bF21A4e3F45E5f": {
+    "name": "MYR Stablecoin",
+    "logo": "MYRT.png",
+    "erc20": true,
+    "symbol": "MYRT",
+    "decimals": 6
   }
 }
