@@ -4,5 +4,5 @@
   "decimals": 18,
   "description": "LUMINOUS CREW Token",
   "website": "https://doc.luminouscrew.com",
-  "logo": "icons/eip155:56/erc20/0x3CFEA1d440c98aA91F59692112a50999EA97A0Cf.png"
+  "logo": "./icons/eip155:56/erc20:0x3CFEA1d440c98aA91F59692112a50999EA97A0Cf.png"
 }
