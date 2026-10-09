@@ -1,0 +1,7 @@
+{
+  "name": "ether.fi governance token",
+  "symbol": "ETHFI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:10/erc20:0xe0080d2F853ecDdbd81A643dC10DA075Df26fD3f.svg"
+}
