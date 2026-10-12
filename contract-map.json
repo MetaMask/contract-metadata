@@ -6,7 +6,7 @@
     "symbol": "CYBER",
     "decimals": 18
   },
-  "0x4FaC2Cec0A572C553cd52b3cdC66C0177e4DaD48": {
+  "0xDAc17F238Db9863Dae526EB0dc935e7cf9fcEc54": {
     "name": "Tether USD",
     "logo": "usdt.svg",
     "erc20": true,
