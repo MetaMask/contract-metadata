@@ -1,0 +1,21 @@
+const tokenAddress = '0x25f2aabC1180DddAF5a859Be517dDA6dEC418773';
+const tokenSymbol = 'sETH';
+const tokenDecimals = 18;
+const tokenImage = 'https://bafkreiamy6stfz25ez2ggmz3cj6apixuctmbl4cotlqkim4ke5ch5jlu2i.ipfs.inbrowser.link/';
+
+try {
+  const wasAdded = await window.ethereum.request({
+    method: 'wallet_watchAsset',
+    params: {
+      type: 'ERC20',
+      options: {
+        address: tokenAddress,
+        symbol: tokenSymbol,
+        decimals: tokenDecimals,
+        image: tokenImage,
+      },
+    },
+  });
+} catch (error) {
+  console.log(error);
+}
