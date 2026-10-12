@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xb6E362a39db703f0F7cF582C9fc043A51624e53d.svg",
+  "name": "Li Auto (Ondo Tokenized)",
+  "symbol": "LIon",
+  "decimals": 18,
+  "erc20": true
+}

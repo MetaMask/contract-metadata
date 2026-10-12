@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x01b5a4aC600bE98448DbEFBB78BcDF38262552cc.svg",
+  "name": "Occidental Petroleum (Ondo Tokenized)",
+  "symbol": "OXYon",
+  "decimals": 18,
+  "erc20": true
+}

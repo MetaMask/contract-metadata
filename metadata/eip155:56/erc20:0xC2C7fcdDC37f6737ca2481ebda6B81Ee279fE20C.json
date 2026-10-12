@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xC2C7fcdDC37f6737ca2481ebda6B81Ee279fE20C.svg",
+  "name": "Kanzhun (Ondo Tokenized)",
+  "symbol": "BZon",
+  "decimals": 18,
+  "erc20": true
+}

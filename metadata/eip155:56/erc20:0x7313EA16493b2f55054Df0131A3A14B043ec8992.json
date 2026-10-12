@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x7313EA16493b2f55054Df0131A3A14B043ec8992.svg",
+  "name": "MicroStrategy (Ondo Tokenized)",
+  "symbol": "MSTRon",
+  "decimals": 18,
+  "erc20": true
+}

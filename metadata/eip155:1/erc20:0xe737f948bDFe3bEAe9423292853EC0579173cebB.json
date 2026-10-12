@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xe737f948bDFe3bEAe9423292853EC0579173cebB.svg",
+  "name": "Charles Schwab (Ondo Tokenized)",
+  "symbol": "SCHWon",
+  "decimals": 18,
+  "erc20": true
+}

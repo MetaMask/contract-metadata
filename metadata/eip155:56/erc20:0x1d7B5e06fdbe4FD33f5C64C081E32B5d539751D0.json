@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x1d7B5e06fdbe4FD33f5C64C081E32B5d539751D0.svg",
+  "name": "AMC Entertainment (Ondo Tokenized)",
+  "symbol": "AMCon",
+  "decimals": 18,
+  "erc20": true
+}

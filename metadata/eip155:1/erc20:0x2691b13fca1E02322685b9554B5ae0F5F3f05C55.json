@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x2691b13fca1E02322685b9554B5ae0F5F3f05C55.svg",
+  "name": "Intuitive Surgical (Ondo Tokenized)",
+  "symbol": "ISRGon",
+  "decimals": 18,
+  "erc20": true
+}

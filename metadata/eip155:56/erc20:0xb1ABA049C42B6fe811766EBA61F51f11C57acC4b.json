@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xb1ABA049C42B6fe811766EBA61F51f11C57acC4b.svg",
+  "name": "Ford Motor (Ondo Tokenized)",
+  "symbol": "Fon",
+  "decimals": 18,
+  "erc20": true
+}

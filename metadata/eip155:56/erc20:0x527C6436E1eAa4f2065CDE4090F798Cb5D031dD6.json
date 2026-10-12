@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x527C6436E1eAa4f2065CDE4090F798Cb5D031dD6.svg",
+  "name": "Arm Holdings plc (Ondo Tokenized)",
+  "symbol": "ARMon",
+  "decimals": 18,
+  "erc20": true
+}

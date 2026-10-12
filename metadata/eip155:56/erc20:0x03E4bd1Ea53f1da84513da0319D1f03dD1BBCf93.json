@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x03E4bd1Ea53f1da84513da0319D1f03dD1BBCf93.svg",
+  "name": "Oracle (Ondo Tokenized)",
+  "symbol": "ORCLon",
+  "decimals": 18,
+  "erc20": true
+}

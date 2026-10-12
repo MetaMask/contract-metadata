@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x339ce23a355ed6D513DD3e1462975C4eCD86823a.svg",
+  "name": "Procter & Gamble (Ondo Tokenized)",
+  "symbol": "PGon",
+  "decimals": 18,
+  "erc20": true
+}

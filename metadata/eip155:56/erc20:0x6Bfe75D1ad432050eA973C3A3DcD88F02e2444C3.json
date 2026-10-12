@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x6Bfe75D1ad432050eA973C3A3DcD88F02e2444C3.svg",
+  "name": "Microsoft (Ondo Tokenized)",
+  "symbol": "MSFTon",
+  "decimals": 18,
+  "erc20": true
+}

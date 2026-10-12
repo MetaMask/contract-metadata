@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xe778A2e5D953c82EB9475cf3B87654226a867344.svg",
+  "name": "Block (Ondo Tokenized)",
+  "symbol": "XYZon",
+  "decimals": 18,
+  "erc20": true
+}

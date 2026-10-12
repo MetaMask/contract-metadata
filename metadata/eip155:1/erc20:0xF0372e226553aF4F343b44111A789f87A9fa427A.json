@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xF0372e226553aF4F343b44111A789f87A9fa427A.svg",
+  "name": "Oklo (Ondo Tokenized)",
+  "symbol": "OKLOon",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x7DBd435aa4eCAB5471CFCeF4527a022feF0b7e1C.svg",
+  "name": "Home Depot (Ondo Tokenized)",
+  "symbol": "HDon",
+  "decimals": 18,
+  "erc20": true
+}

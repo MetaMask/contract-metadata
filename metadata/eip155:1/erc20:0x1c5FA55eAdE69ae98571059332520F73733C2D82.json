@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x1c5FA55eAdE69ae98571059332520F73733C2D82.svg",
+  "name": "Amgen (Ondo Tokenized)",
+  "symbol": "AMGNon",
+  "decimals": 18,
+  "erc20": true
+}

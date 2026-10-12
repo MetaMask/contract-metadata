@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xF98B89825233808CD37706A53D2b4Ae3e359d442.svg",
+  "name": "Galaxy Digital (Ondo Tokenized)",
+  "symbol": "GLXYon",
+  "decimals": 18,
+  "erc20": true
+}

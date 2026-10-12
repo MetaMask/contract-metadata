@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x60a8f8e05200fF73aFde9E2caE819bF1605f0BdD.svg",
+  "name": "MercadoLibre (Ondo Tokenized)",
+  "symbol": "MELIon",
+  "decimals": 18,
+  "erc20": true
+}

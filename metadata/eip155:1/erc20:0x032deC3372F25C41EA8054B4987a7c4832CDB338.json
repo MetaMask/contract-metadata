@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x032deC3372F25C41EA8054B4987a7c4832CDB338.svg",
+  "name": "Netflix (Ondo Tokenized)",
+  "symbol": "NFLXon",
+  "decimals": 18,
+  "erc20": true
+}

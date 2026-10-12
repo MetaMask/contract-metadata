@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xee268780473E7a0e47baC41547C6E01512555A16.svg",
+  "name": "Nebius Group (Ondo Tokenized)",
+  "symbol": "NBISon",
+  "decimals": 18,
+  "erc20": true
+}

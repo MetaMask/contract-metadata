@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x7aF44d51d1fb88c5b74Fc71d3cba649Bb8099D14.svg",
+  "name": "Accenture (Ondo Tokenized)",
+  "symbol": "ACNon",
+  "decimals": 18,
+  "erc20": true
+}

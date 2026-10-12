@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x3385Cb29cCA0aC66f5d2354d13ef977b49A2510f.svg",
+  "name": "UnitedHealth (Ondo Tokenized)",
+  "symbol": "UNHon",
+  "decimals": 18,
+  "erc20": true
+}
