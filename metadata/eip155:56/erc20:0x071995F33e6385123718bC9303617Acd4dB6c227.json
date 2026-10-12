@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x071995F33e6385123718bC9303617Acd4dB6c227.svg",
+  "name": "Paper Author Token",
+  "symbol": "PAT",
+  "decimals": 18,
+  "erc20": true
+}
