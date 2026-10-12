@@ -1,0 +1,7 @@
+{
+  "name": "SexCoin",
+  "symbol": "SXC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x7eB4dB01000a472d4FD744b72Be24e391Cdd0dC8.png"
+}
