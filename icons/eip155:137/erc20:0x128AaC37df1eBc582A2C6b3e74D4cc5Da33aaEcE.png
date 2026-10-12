@@ -1,0 +1,7 @@
+{
+  "name": "QUANTA",
+  "symbol": "QUANTA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0x128AaC37df1eBc582A2C6b3e74D4cc5Da33aaEcE.png"
+}
