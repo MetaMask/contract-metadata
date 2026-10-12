@@ -1,0 +1,7 @@
+{
+  "name": "Oink",
+  "symbol": "OINK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:4663/erc20:0xF2c5F81F291E80BFC59e66E6D027C23471ED745b.svg"
+}
