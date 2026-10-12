@@ -4518,5 +4518,12 @@
     "erc20": true,
     "symbol": "FPS",
     "decimals": 18
+  },
+  "0x6B4b59237f5C78c6eD94bE88DB757f327737BF38": {
+    "name": "SuzukaCoin",
+    "logo": "0x6B4b59237f5C78c6eD94bE88DB757f327737BF38.png",
+    "erc20": true,
+    "symbol": "SUZUKA",
+    "decimals": 18
   }
 }
