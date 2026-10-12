@@ -4519,4 +4519,11 @@
     "symbol": "FPS",
     "decimals": 18
   }
+  "0x236Eb848c95b231299b4aa9f56c73d6893462720": {
+  "name": "Yellow",
+  "logo": "YELLOW.svg",
+  "erc20": true,
+  "symbol": "YELLOW",
+  "decimals": 18
+  }
 }
