@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x884649f1fE3Bf3Ae0Bd720Eaf660cB561dcE39ef.png",
+  "name": "World Pup Coin",
+  "symbol": "PUPCUP",
+  "decimals": 18,
+  "erc20": true
+}
