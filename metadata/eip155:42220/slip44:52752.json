@@ -1,7 +1,0 @@
-{
-  "logo": "./icons/eip155:42220/slip44:52752.svg",
-  "name": "CELO",
-  "symbol": "CELO",
-  "decimals": 18,
-  "erc20": false
-}

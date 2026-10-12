@@ -1,7 +1,0 @@
-{
-  "logo": "./icons/eip155:56/slip44:714.svg",
-  "name": "BNB",
-  "symbol": "BNB",
-  "decimals": 18,
-  "erc20": false
-}

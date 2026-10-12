@@ -1,7 +1,0 @@
-{
-  "name": "Gimo Staked 0G",
-  "symbol": "st0G",
-  "decimals": 18,
-  "erc20": true,
-  "logo": "./icons/eip155:16661/erc20:0x7bBC63D01CA42491c3E084C941c3E86e55951404.svg"
-}

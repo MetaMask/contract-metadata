@@ -1,7 +1,0 @@
-{
-  "logo": "./icons/eip155:57073/slip44:60.svg",
-  "name": "Ether",
-  "symbol": "ETH",
-  "decimals": 18,
-  "erc20": false
-}

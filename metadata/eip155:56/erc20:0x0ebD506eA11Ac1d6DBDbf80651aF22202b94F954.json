@@ -1,7 +1,0 @@
-{
-    "name": "ARSH COIN",
-    "symbol": "AR$H",
-    "decimals": 18,
-    "erc20": true,
-    "logo": "./icons/eip155:56/erc20:0x0ebD506eA11Ac1d6DBDbf80651aF22202b94F954.svg"
-}

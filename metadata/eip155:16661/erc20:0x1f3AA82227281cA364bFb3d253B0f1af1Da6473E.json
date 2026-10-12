@@ -1,7 +1,0 @@
-{
-  "name": "XSwap Bridged USDC (0G)",
-  "symbol": "USDC.e",
-  "decimals": 6,
-  "erc20": true,
-  "logo": "./icons/eip155:16661/erc20:0x1f3AA82227281cA364bFb3d253B0f1af1Da6473E.svg"
-}

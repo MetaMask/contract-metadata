@@ -1,7 +1,0 @@
-{
-  "logo": "./icons/eip155:43114/slip44:9005.svg",
-  "name": "AVAX",
-  "symbol": "AVAX",
-  "decimals": 18,
-  "erc20": false
-}

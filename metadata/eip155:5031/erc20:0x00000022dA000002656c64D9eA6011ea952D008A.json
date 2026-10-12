@@ -1,7 +1,0 @@
-{
-  "name": "USD Somnia",
-  "symbol": "USDso",
-  "decimals": 18,
-  "erc20": true,
-  "logo": "./icons/eip155:5031/erc20:0x00000022dA000002656c64D9eA6011ea952D008A.png"
-}
