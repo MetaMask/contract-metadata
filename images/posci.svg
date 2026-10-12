@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  POSCI primary token logo. Monochrome edition matching the Tesla/Starlink-
+  inflected site theme. 512×512 viewBox, recognizable at any size from 16px to
+  1024px, no gradients (rasterizes cleanly via Chrome headless).
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <radialGradient id="orbBg" cx="35%" cy="28%" r="80%">
+      <stop offset="0%"   stop-color="#3a3f4a"/>
+      <stop offset="35%"  stop-color="#1a1d23"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </radialGradient>
+    <radialGradient id="specular" cx="38%" cy="22%" r="35%">
+      <stop offset="0%"   stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Outer body — slightly off-pure-black sphere, gives subtle depth -->
+  <circle cx="256" cy="256" r="248" fill="url(#orbBg)"/>
+
+  <!-- Top-light specular highlight — gives the orb a "lit" feel -->
+  <ellipse cx="200" cy="160" rx="160" ry="90" fill="url(#specular)"/>
+
+  <!-- Crisp 1px white outline ring — readable at any size -->
+  <circle cx="256" cy="256" r="248" fill="none" stroke="#ffffff" stroke-width="2" stroke-opacity="0.92"/>
+
+  <!-- Subtle inner mesh: 2 latitude lines, suggests "scientific instrument" -->
+  <g fill="none" stroke="#ffffff" stroke-opacity="0.10" stroke-width="1">
+    <ellipse cx="256" cy="256" rx="246" ry="80"/>
+    <ellipse cx="256" cy="256" rx="246" ry="160"/>
+  </g>
+
+  <!-- One thin tilted orbital ring — the project's "scientist" motif -->
+  <g transform="rotate(-22 256 256)">
+    <ellipse cx="256" cy="256" rx="234" ry="58" fill="none" stroke="#ffffff" stroke-opacity="0.42" stroke-width="2"/>
+    <circle cx="22" cy="256" r="6" fill="#ffffff"/>
+  </g>
+
+  <!-- Φ glyph — the brand. Light weight, large, perfectly centered. -->
+  <text
+    x="256" y="256"
+    text-anchor="middle"
+    dominant-baseline="central"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-weight="500"
+    font-size="296"
+    fill="#ffffff"
+  >Φ</text>
+</svg>
