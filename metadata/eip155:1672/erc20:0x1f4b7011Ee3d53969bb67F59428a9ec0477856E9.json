@@ -3,5 +3,5 @@
   "symbol": "WETH",
   "decimals": 18,
   "erc20": true,
-  "logo": "./icons/eip155:1672/erc20:0x1f4b7011Ee3d53969bb67F59428a9ec0477856E9.png"
+  "logo": "./icons/eip155:1672/erc20:0x1f4b7011Ee3d53969bb67F59428a9ec0477856E9.svg"
 }
