@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x1201dCFc7c0b2cE46C7604Bf104234AB42A56Bbd.svg",
+  "name": "OpenAI Exposure Note",
+  "symbol": "OPAIPon",
+  "decimals": 18,
+  "erc20": true
+}
