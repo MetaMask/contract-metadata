@@ -3,5 +3,5 @@
   "symbol": "FXUSD",
   "decimals": 18,
   "erc20": true,
-  "logo": "./icons/eip155:137/erc20:0xa1760B60625eac39f672187a510185B2B3914624.svg"
+  "logo": "./icons/eip155:137/erc20:0xa1760B60625eac39f672187a510185B2B3914624.png"
 }
