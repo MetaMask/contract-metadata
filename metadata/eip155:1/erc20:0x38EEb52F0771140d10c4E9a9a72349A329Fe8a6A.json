@@ -1,0 +1,7 @@
+{
+  "name": "apyUSD",
+  "symbol": "apyUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x38EEb52F0771140d10c4E9a9a72349A329Fe8a6A.svg"
+}
