@@ -1,0 +1,16 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#0847F7" />
+
+  <!-- Centered + scaled logo (80% of box height) -->
+  <g transform="
+      translate(256 256)
+      scale(1.4423)
+      translate(-123.5 -142)
+    ">
+    <path
+      d="M123.5 0L0 70.9726V212.918L123.5 283.89L247 212.918V70.9726L123.5 0ZM194.679 182.837L123.523 223.728L52.3663 182.837V101.054L123.523 60.1621L194.679 101.054V182.837Z"
+      fill="white"
+    />
+  </g>
+</svg>

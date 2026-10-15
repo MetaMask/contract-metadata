@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:50/erc20:0xE27dd9BF01B55ce6803c0d81386A04212c718b95.svg",
+  "name": "Chainlink Token",
+  "symbol": "LINK",
+  "decimals": 18,
+  "erc20": true
+}
