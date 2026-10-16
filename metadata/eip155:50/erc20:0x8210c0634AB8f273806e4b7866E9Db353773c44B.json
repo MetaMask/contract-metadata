@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:50/erc20:0x8210c0634AB8f273806e4b7866E9Db353773c44B.svg",
+  "name": "Falcon USD",
+  "symbol": "USDf",
+  "decimals": 18,
+  "erc20": true
+}

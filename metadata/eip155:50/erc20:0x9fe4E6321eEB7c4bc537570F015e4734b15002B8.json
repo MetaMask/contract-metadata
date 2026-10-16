@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:50/erc20:0x9fe4E6321eEB7c4bc537570F015e4734b15002B8.svg",
+  "name": "AUDD",
+  "symbol": "AUDD",
+  "decimals": 6,
+  "erc20": true
+}
