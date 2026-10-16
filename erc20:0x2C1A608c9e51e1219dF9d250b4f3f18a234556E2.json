@@ -1,0 +1,7 @@
+{
+  "name": "Fixx USD",
+  "symbol": "FXUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0x2C1A608c9e51e1219dF9d250b4f3f18a234556E2.png"
+}
