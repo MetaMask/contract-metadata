@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0x6EA39A23AA46E51CA6CD2d1cbc0B5bfb29ECB216.png",
+  "name": "QIANQI",
+  "symbol": "QIANQI",
+  "decimals": 18,
+  "erc20": true
+}
