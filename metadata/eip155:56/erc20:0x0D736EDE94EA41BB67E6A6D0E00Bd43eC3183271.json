@@ -1,0 +1,7 @@
+{
+  "name": "PRIZRAK AI",
+  "symbol": "PRZK",
+  "decimals": 18,
+  "logo": "./icons/eip155:56/erc20:0x0D736EDE94EA41BB67E6A6D0E00Bd43eC3183271.svg",
+  "erc20": true
+}
