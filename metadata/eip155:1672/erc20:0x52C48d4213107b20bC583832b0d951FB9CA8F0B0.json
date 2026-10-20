@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped PROS",
+  "symbol": "WPROS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1672/erc20:0x52C48d4213107b20bC583832b0d951FB9CA8F0B0.svg"
+}

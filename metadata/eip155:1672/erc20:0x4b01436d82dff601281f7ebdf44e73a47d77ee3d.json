@@ -1,0 +1,7 @@
+{
+  "name": "BTCvc",
+  "symbol": "BTCVC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:1672/erc20:0x4b01436d82dff601281f7ebdf44e73a47d77ee3d.svg"
+}
