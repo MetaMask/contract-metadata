@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0xBD4802d70448fb1D776683bebEa592d66B623e29.svg",
+  "name": "Stonk.Fi",
+  "symbol": "STONKFI",
+  "decimals": 18,
+  "erc20": true
+}
