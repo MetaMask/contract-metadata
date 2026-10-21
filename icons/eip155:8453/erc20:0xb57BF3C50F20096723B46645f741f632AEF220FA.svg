@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1fe28f"/>
+      <stop offset="1" stop-color="#12b877"/>
+    </linearGradient>
+  </defs>
+  <circle cx="128" cy="128" r="128" fill="#0b1220"/>
+  <circle cx="128" cy="128" r="120" fill="url(#g)"/>
+  <!-- Q ring -->
+  <circle cx="128" cy="122" r="60" fill="none" stroke="#0b1220" stroke-width="20"/>
+  <!-- Q tail -->
+  <line x1="150" y1="150" x2="182" y2="190" stroke="#0b1220" stroke-width="22" stroke-linecap="round"/>
+  <!-- dollar bar through the Q -->
+  <line x1="128" y1="40" x2="128" y2="204" stroke="#ffffff" stroke-width="12" stroke-linecap="round"/>
+</svg>
