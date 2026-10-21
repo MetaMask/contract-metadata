@@ -1,0 +1,18 @@
+{
+  "name": "wdutrust",
+  "symbol": "wdu",
+  "contractAddress": "0x74D7d1aD19bD14655cD0Ab26BEcc57ED69d69413",
+  "decimals": 18,
+  "logo": "erc20:0x74D7d1aD19bD14655cD0Ab26BEcc57ED69d69413.svg",
+  "website": "https://quazenthor.com",
+  "description": "wdutrust (wdu) is an asset deployed on BNB Smart Chain.",
+  "links": {
+    "x": "https://x.com",
+    "telegram": "https://t.me",
+    "facebook": "https://facebook.com",
+    "instagram": "https://instagram.com",
+    "medium": "https://medium.com",
+    "github": "https://github.com",
+    "bitcointalk": "https://bitcointalk.org"
+  }
+}
