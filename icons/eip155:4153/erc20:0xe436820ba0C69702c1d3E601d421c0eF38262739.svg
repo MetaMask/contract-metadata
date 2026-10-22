@@ -1,14 +1,54 @@
-<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_3853_21562)">
-<rect width="100%" height="100%" fill="#0B53BF"/>
-<path d="M48 96C74.5097 96 96 74.5097 96 48C96 21.4903 74.5097 0 48 0C21.4903 0 0 21.4903 0 48C0 74.5097 21.4903 96 48 96Z" fill="#0B53BF"/>
-<path d="M58.2 59.4305C56.1 60.2705 53.82 60.7505 51.63 60.7505C47.2929 60.7505 43.2039 58.9034 41.25 54.4505H50.79L52.65 49.9505H40.1397C40.0806 49.3307 40.05 48.6812 40.05 48.0005C40.05 47.3198 40.0806 46.6703 40.1397 46.0505H54.24L56.1 41.5505H41.25C43.2039 37.0976 47.2929 35.2505 51.63 35.2505C53.82 35.2505 56.1 35.7305 58.2 36.5705L60.12 32.0105C57.54 30.6605 54.63 30.0005 51.72 30.0005C44.6964 30.0005 37.5966 33.9272 35.0265 41.5505H30.42V46.0505H34.1037C34.0488 46.6823 34.02 47.3324 34.02 48.0005C34.02 48.6686 34.0485 49.3187 34.1037 49.9505H30.42V54.4505H35.0265C37.5966 62.0738 44.6964 66.0005 51.72 66.0005C54.63 66.0005 57.54 65.3405 60.12 63.9905L58.2 59.4305Z" fill="white" stroke="#0B53BF" stroke-width="0.03" stroke-miterlimit="10"/>
-<path d="M18 48.0003C18 34.4103 27.03 22.9503 39.36 19.2303V13.0503C23.64 16.8903 12 31.0803 12 48.0003C12 64.9203 23.64 79.1103 39.36 82.9503V76.7703C27.03 73.0803 18 61.5903 18 48.0003Z" fill="white" stroke="#0B53BF" stroke-width="0.03" stroke-miterlimit="10"/>
-<path d="M56.64 13.0503V19.2303C68.97 22.9503 78 34.4103 78 48.0003C78 61.5903 68.97 73.0503 56.64 76.7703V82.9503C72.36 79.1103 84 64.9203 84 48.0003C84 31.0803 72.36 16.8903 56.64 13.0503Z" fill="white" stroke="#0B53BF" stroke-width="0.03" stroke-miterlimit="10"/>
-</g>
-<defs>
-<clipPath id="clip0_3853_21562">
-<rect width="96" height="96" fill="white"/>
-</clipPath>
-</defs>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   fill="none"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="erc20:0x754704Bc059F8C67012fEd69BC8A327a5aafb603.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.2925771"
+     inkscape:cx="150.70376"
+     inkscape:cy="152.44852"
+     inkscape:window-width="1920"
+     inkscape:window-height="1050"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <rect
+     style="fill:#0b53bf;fill-opacity:1;stroke-width:1.27158"
+     id="rect4"
+     width="256"
+     height="256"
+     x="0"
+     y="0" />
+  <path
+     d="M150.921 35.2922V51.6852C183.627 61.5527 207.579 91.9509 207.579 127.999C207.579 164.048 183.627 194.446 150.921 204.313V220.706C192.619 210.52 223.495 172.88 223.495 127.999C223.495 83.1179 192.619 45.4781 150.921 35.2922Z"
+     fill="white"
+     id="path2" />
+  <path
+     d="M48.4233 127.999C48.4233 91.9509 72.3759 61.5527 105.082 51.6852V35.2922C63.3837 45.4781 32.5079 83.1179 32.5079 127.999C32.5079 172.88 63.3837 210.52 105.082 220.706V204.313C72.3759 194.525 48.4233 164.048 48.4233 127.999Z"
+     fill="white"
+     id="path3" />
+  <path
+     d="M162.22 145.746C162.22 113.199 111.211 126.568 111.211 108.583C111.211 102.137 116.384 97.9995 126.251 97.9995C138.028 97.9995 142.087 103.729 143.36 111.448H159.594C158.145 96.9619 149.831 87.8153 135.96 85.0906V72.2963H120.044V84.6338C104.847 86.5691 95.2957 95.4189 95.2957 108.583C95.2957 141.289 146.384 129.035 146.384 146.7C146.384 153.385 139.938 157.841 129.036 157.841C114.792 157.841 110.097 151.555 108.346 142.881H92.5106C93.5365 158.748 103.32 168.678 120.044 171.156V183.704H135.96V171.323C152.282 169.214 162.22 159.719 162.22 145.746Z"
+     fill="white"
+     id="path4" />
 </svg>
