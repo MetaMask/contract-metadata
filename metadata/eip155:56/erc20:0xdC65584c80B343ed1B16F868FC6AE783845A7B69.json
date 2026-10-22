@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xdC65584c80B343ed1B16F868FC6AE783845A7B69.svg",
+  "name": "HARVEST",
+  "symbol": "HARVEST",
+  "decimals": 18,
+  "erc20": true
+}
