@@ -1,0 +1,7 @@
+{
+  "name": "Bridged WBTC",
+  "symbol": "WBTCE",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:4153/erc20:0x0F873d666Db6da313416b002035620EAe64f4780.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "RISEx Exchange Liquidity Protocol",
+  "symbol": "XLPUSD",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:4153/erc20:0xBCf7A882B6A95827B4996055a5018FdC3B95D40c.png"
+}
