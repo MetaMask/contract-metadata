@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xa50ad3a559A10f384a5bB2e27516f63E0B937b1A.svg",
+  "name": "Vortex Koin",
+  "symbol": "vKOIN",
+  "decimals": 8,
+  "erc20": true
+}
