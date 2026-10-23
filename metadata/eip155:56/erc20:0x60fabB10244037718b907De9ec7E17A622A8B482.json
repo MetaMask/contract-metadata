@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x60fabB10244037718b907De9ec7E17A622A8B482.png",
+  "name": "FIDURIS",
+  "symbol": "FID",
+  "decimals": 18,
+  "erc20": true
+}
