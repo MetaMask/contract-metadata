@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title>Independent USDT token mark</title>
+  <desc>Distinct iU monogram for an independently issued BNB Smart Chain token; not Tether branding.</desc>
+  <rect width="256" height="256" rx="48" fill="#102A43"/>
+  <path d="M48 58h160v24H48z" fill="#2DD4BF"/>
+  <path d="M58 100h24v98H58z" fill="#2DD4BF"/>
+  <path d="M105 112c0-8 6-14 14-14s14 6 14 14v72c0 8-6 14-14 14s-14-6-14-14z" fill="#F8FAFC"/>
+  <circle cx="131" cy="76" r="14" fill="#F8FAFC"/>
+  <path d="M157 115c0-9 7-16 16-16h26v20h-21v55h21v20h-26c-9 0-16-7-16-16z" fill="#F8FAFC"/>
+</svg>
