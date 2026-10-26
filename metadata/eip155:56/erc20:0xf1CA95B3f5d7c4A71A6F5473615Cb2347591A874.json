@@ -1,7 +1,7 @@
 {
-  "name": "Independent BSC Token",
-  "symbol": "iBSC",
+  "name": "USDT",
+  "symbol": "USDT",
   "decimals": 18,
   "erc20": true,
-  "logo": "./icons/eip155:56/erc20:0xf1CA95B3f5d7c4A71A6F5473615Cb2347591A874.svg"
+  "logo": "./icons/eip155:56/erc20:0xf1CA95B3f5d7c4A71A6F5473615Cb2347591A874.png"
 }
