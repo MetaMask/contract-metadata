@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped MON (Bridged from Monad)",
+  "symbol": "WMON",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:20261001/erc20:0xa8c69e1b3DBA07717bbe7dB9a03E3581F57fc4f7.png"
+}
