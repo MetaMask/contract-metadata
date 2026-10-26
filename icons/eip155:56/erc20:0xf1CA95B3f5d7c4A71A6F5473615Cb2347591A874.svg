@@ -1,10 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
-  <title>Independent USDT token mark</title>
-  <desc>Distinct iU monogram for an independently issued BNB Smart Chain token; not Tether branding.</desc>
-  <rect width="256" height="256" rx="48" fill="#102A43"/>
-  <path d="M48 58h160v24H48z" fill="#2DD4BF"/>
-  <path d="M58 100h24v98H58z" fill="#2DD4BF"/>
-  <path d="M105 112c0-8 6-14 14-14s14 6 14 14v72c0 8-6 14-14 14s-14-6-14-14z" fill="#F8FAFC"/>
-  <circle cx="131" cy="76" r="14" fill="#F8FAFC"/>
-  <path d="M157 115c0-9 7-16 16-16h26v20h-21v55h21v20h-26c-9 0-16-7-16-16z" fill="#F8FAFC"/>
+  <title>Independent token T mark</title>
+  <desc>White T monogram inside a turquoise circular ring for an independently issued BNB Smart Chain token.</desc>
+  <defs>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#62F0D4"/>
+      <stop offset="1" stop-color="#12BFA7"/>
+    </linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#123A4A"/>
+      <stop offset="1" stop-color="#092332"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="240" height="240" rx="58" fill="#071A27"/>
+  <circle cx="128" cy="128" r="94" fill="url(#bg)" stroke="url(#ring)" stroke-width="18"/>
+  <path d="M70 76h116v30h-43v92h-30v-92H70z" fill="#FFFFFF"/>
 </svg>
