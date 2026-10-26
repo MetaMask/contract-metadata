@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0x4A35a5eC2A50A4d2957B2F2366E017f526cAB318.png",
+  "name": "Foundry Compute Dollar",
+  "symbol": "USDF",
+  "decimals": 6,
+  "erc20": true
+}
