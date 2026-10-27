@@ -1,5 +1,5 @@
 {
-  "name": "Investarab-Peg USD Coin",
+  "name": "InvestArab Bridged USDT",
   "symbol": "USDT",
   "decimals": 18,
   "logo": "./icons/eip155:1/erc20:0x672848C237698A44378d64c98280275cEfae61B2.svg"
