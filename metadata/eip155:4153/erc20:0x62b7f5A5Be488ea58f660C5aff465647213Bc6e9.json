@@ -1,0 +1,7 @@
+{
+  "name": "RISE Dollar",
+  "symbol": "USDR",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:4153/erc20:0x62b7f5A5Be488ea58f660C5aff465647213Bc6e9.png"
+}
