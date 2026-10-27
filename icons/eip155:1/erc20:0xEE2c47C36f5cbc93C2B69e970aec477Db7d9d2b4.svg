@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 241 241" width="241" height="241">
+  <!-- Tether-style pentagon badge, rebuilt as pure paths (no font dependency).
+       Geometry measured from the reference artwork: top edge 61% of width,
+       widest at 38% of height, apex centred. Glyph 51% x 56% of the badge. -->
+  <path d="M48 24 L195 24 L241 98 L121 217 L0 98 Z" fill="#009393"/>
+  <g fill="#0B0B0B">
+    <rect x="69" y="55" width="104" height="16" rx="1"/>
+    <rect x="109" y="55" width="25" height="107" rx="1"/>
+  </g>
+  <ellipse cx="121" cy="108.5" rx="56" ry="11.5" fill="none" stroke="#0B0B0B" stroke-width="10"/>
+</svg>
