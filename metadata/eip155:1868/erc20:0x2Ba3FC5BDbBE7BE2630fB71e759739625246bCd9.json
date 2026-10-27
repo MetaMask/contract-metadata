@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1868/erc20:0x2Ba3FC5BDbBE7BE2630fB71e759739625246bCd9.svg",
+  "name": "IP Vault Share",
+  "symbol": "sipUSD",
+  "decimals": 6,
+  "erc20": true
+}
