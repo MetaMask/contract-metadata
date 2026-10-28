@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" role="img" aria-label="AURA Token logo">
+<defs>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff5a0"/><stop offset=".25" stop-color="#ffce3d"/><stop offset=".55" stop-color="#b66b0b"/><stop offset=".82" stop-color="#ffdb57"/><stop offset="1" stop-color="#a95e0b"/></linearGradient>
+ <linearGradient id="blue" x1="0" y1="0" x2=".2" y2="1"><stop stop-color="#20d7f7"/><stop offset=".55" stop-color="#0eb7e9"/><stop offset="1" stop-color="#0789d0"/></linearGradient>
+ <radialGradient id="face" cx=".37" cy=".2" r=".9"><stop stop-color="#342a22"/><stop offset=".65" stop-color="#0d0b0a"/><stop offset="1" stop-color="#020202"/></radialGradient>
+</defs>
+<rect width="32" height="32" fill="#020202"/>
+<circle cx="15.9" cy="15.8" r="15.15" fill="#9b590f"/>
+<circle cx="16.15" cy="15.55" r="14.8" fill="url(#gold)"/>
+<circle cx="16.15" cy="15.55" r="13.83" fill="#74440b"/>
+<circle cx="16.15" cy="15.55" r="13.54" fill="url(#face)"/>
+<circle cx="16.15" cy="15.55" r="13.75" fill="none" stroke="#ffe16a" stroke-width=".26" opacity=".9"/>
+<!-- halo -->
+<ellipse cx="16.15" cy="7.85" rx="4.8" ry="1.45" fill="none" stroke="#774309" stroke-width=".85"/>
+<ellipse cx="16.15" cy="7.78" rx="4.85" ry="1.42" fill="none" stroke="url(#gold)" stroke-width=".54"/>
+<!-- golden rays -->
+<g stroke="#6e410b" stroke-width=".78" stroke-linecap="round">
+<path d="M8.35 9.55 10.65 11.95 M6.35 12.45 9.1 14.0 M5.55 16.15 8.65 16.15 M6.5 19.8 9.25 18.3 M23.65 9.55 21.4 11.95 M25.65 12.45 22.9 14.0 M26.5 16.15 23.4 16.15 M25.55 19.8 22.75 18.3"/>
+</g>
+<g stroke="#ffd64b" stroke-width=".49" stroke-linecap="round">
+<path d="M8.35 9.55 10.65 11.95 M6.35 12.45 9.1 14.0 M5.55 16.15 8.65 16.15 M6.5 19.8 9.25 18.3 M23.65 9.55 21.4 11.95 M25.65 12.45 22.9 14.0 M26.5 16.15 23.4 16.15 M25.55 19.8 22.75 18.3"/>
+</g>
+<!-- smiling A, custom vector silhouette -->
+<path d="M14.52 10.68 Q13.8 10.68 13.42 11.45 L9.3 23.65 Q8.98 24.6 10.03 24.65 L12.2 24.65 Q12.77 24.65 12.98 24.08 L13.67 22.15 Q13.86 21.57 14.48 21.57 L17.73 21.57 Q18.35 21.57 18.55 22.15 L19.24 24.08 Q19.45 24.65 20.05 24.65 L22.2 24.65 Q23.23 24.62 22.92 23.65 L18.8 11.45 Q18.45 10.68 17.7 10.68 Z" fill="url(#blue)" stroke="#067cb8" stroke-width=".15"/>
+<!-- black nose -->
+<path d="M14.98 17.05 15.77 14.8 Q16.12 14.02 16.48 14.8 L17.27 17.05" fill="none" stroke="#070909" stroke-width="1.05" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- smile -->
+<path d="M14.25 18.35 Q16.14 20.55 18.06 18.35" fill="none" stroke="#050607" stroke-width="1.07" stroke-linecap="round"/>
+</svg>
