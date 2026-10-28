@@ -1,0 +1,7 @@
+{
+  "name": "Kamui",
+  "symbol": "KAMUI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:42161/erc20:0x5ef1A2Ec309FfFea5eF07a61E88b92b7B58B9F9D.png"
+}
