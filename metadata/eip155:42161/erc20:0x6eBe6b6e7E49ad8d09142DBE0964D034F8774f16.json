@@ -1,0 +1,7 @@
+{
+  "name": "JERT Utility Token",
+  "symbol": "JERT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "icons/eip155:42161/erc20:0x6eBe6b6e7E49ad8d09142DBE0964D034F8774f16.svg"
+}
