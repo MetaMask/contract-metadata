@@ -1,0 +1,7 @@
+{
+  "name": "Cookchain Bridged WBTC",
+  "symbol": "WBTC",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:20261001/erc20:0x3ab4db8EcB9f1139E156ff94ed630155E057166E.png"
+}

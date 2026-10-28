@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped COOK",
+  "symbol": "wCOOK",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:20261001/erc20:0xf800BF07394e8290807b4Ce579F4E9f99c3dA869.png"
+}

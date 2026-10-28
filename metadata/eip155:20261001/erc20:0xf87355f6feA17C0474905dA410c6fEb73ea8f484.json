@@ -1,0 +1,7 @@
+{
+  "name": "Cookchain Bridged USDT",
+  "symbol": "USDT",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:20261001/erc20:0xf87355f6feA17C0474905dA410c6fEb73ea8f484.png"
+}
