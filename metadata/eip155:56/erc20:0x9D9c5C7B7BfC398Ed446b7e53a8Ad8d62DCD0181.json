@@ -1,0 +1,7 @@
+{
+  "name": "Zelion",
+  "symbol": "ZLN",
+  "decimals": 18,
+  "logo": "./icons/eip155:56/erc20:0x9D9c5C7B7BfC398Ed446b7e53a8Ad8d62DCD0181.svg",
+  "erc20": true
+}
