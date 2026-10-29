@@ -6,6 +6,13 @@
     "symbol": "CYBER",
     "decimals": 18
   },
+  "0xDAc17F238Db9863Dae526EB0dc935e7cf9fcEc54": {
+    "name": "Tether USD",
+    "logo": "usdt.svg",
+    "erc20": true,
+    "symbol": "USDT",
+    "decimals": 6
+  },
   "0x9Cf0ED013e67DB12cA3AF8e7506fE401aA14dAd6": {
     "name": "Spectre AI",
     "logo": "spectre-ai.svg",
