@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1868/erc20:0x9dB3DDb02159E57b5078317a2391Bc3c94eF5cd0.svg",
+  "name": "ipUSD",
+  "symbol": "ipUSD",
+  "decimals": 6,
+  "erc20": true
+}
