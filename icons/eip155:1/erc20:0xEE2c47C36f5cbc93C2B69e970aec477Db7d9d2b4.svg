@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 241 241" width="241" height="241">
-  <!-- Tether-style pentagon badge, rebuilt as pure paths (no font dependency).
-       Geometry measured from the reference artwork: top edge 61% of width,
-       widest at 38% of height, apex centred. Glyph 51% x 56% of the badge. -->
-  <path d="M48 24 L195 24 L241 98 L121 217 L0 98 Z" fill="#009393"/>
-  <g fill="#0B0B0B">
-    <rect x="69" y="55" width="104" height="16" rx="1"/>
-    <rect x="109" y="55" width="25" height="107" rx="1"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <!-- Tether-style USDT mark: full-bleed circle + white Tugrik glyph, pure paths
+       (no font dependency). Geometry measured from the reference artwork on a
+       298px grid, then scaled: bar 46.6% x 13.1%, stem 13.1% wide, ring 2% stroke. -->
+  <circle cx="128" cy="128" r="128" fill="#26A17B"/>
+  <g fill="#FFFFFF">
+    <rect x="68.5" y="63" width="119" height="33" rx="1"/>
+    <rect x="111.5" y="63" width="33" height="141" rx="1"/>
   </g>
-  <ellipse cx="121" cy="108.5" rx="56" ry="11.5" fill="none" stroke="#0B0B0B" stroke-width="10"/>
+  <ellipse cx="128" cy="129" rx="73" ry="15.4" fill="none" stroke="#FFFFFF" stroke-width="5.2"/>
 </svg>
