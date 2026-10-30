@@ -1,0 +1,6 @@
+"eip155:11155111/erc20:0x237384907253C01Ce126aD9D0cd0eAB765905f14": {
+  "name": "Your Token Name",
+  "symbol": "TKN",
+  "decimals": 18,
+  "logo": "images/YOUR_CHECKSUM_ADDRESS.png"
+}
