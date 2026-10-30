@@ -1,0 +1,7 @@
+{
+  "name": "DTP-EDU-2",
+  "symbol": "DTP-EDU-2",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x07123b4081836c5993C074724518d2eA56f6F9c5.png"
+}
