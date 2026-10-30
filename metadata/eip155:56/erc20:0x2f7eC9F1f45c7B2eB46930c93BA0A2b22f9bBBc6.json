@@ -1,0 +1,7 @@
+{
+  "name": "GOLDENGUN",
+  "symbol": "GGN",
+  "decimals": 18,
+  "logo": "./icons/eip155:56/GOLDENGUN logotipo.png",
+  "erc20": true
+}
