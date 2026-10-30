@@ -1,0 +1,7 @@
+{
+  "name": "The ChampCoin",
+  "symbol": "TCC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x1831257D6FEF2b83354a75b19B8aAf8f6514D3DA.png"
+}
