@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="title">
+  <title id="title">Arab USD (AUSD)</title>
+  <defs>
+    <linearGradient id="ausdCoin" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F3D67F"/><stop offset=".45" stop-color="#D4AF37"/><stop offset="1" stop-color="#A67C1B"/>
+    </linearGradient>
+    <linearGradient id="ausdSheen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity=".28"/><stop offset=".55" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <circle cx="128" cy="128" r="128" fill="url(#ausdCoin)"/>
+  <circle cx="128" cy="128" r="128" fill="url(#ausdSheen)"/>
+  <circle cx="128" cy="128" r="125" fill="none" stroke="#8E5E14" stroke-opacity=".6" stroke-width="5"/>
+  <g transform="translate(43 37.9) scale(1.7)"><polygon points="50,16 37,42 63,42" fill="#0F172A"/><polygon points="34,48 66,48 87,90 13,90" fill="#0F172A"/></g>
+</svg>

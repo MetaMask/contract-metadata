@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x4Bf63e029e90b7dd08E02320045743D3176a67E6.svg",
+  "name": "Arab USD",
+  "symbol": "AUSD",
+  "decimals": 18,
+  "erc20": true
+}
