@@ -40,5 +40,16 @@ jobs:
       - name: Upload to S3
         run: |
           echo "Uploading tokenlist to S3..."
-          aws s3 cp metamask-uniswap-tokenlist.json s3://${{ env.S3_BUCKET_NAME }}/${{ env.S3_PATH }} --cache-control "max-age=3600"
+          aws s3 cp metamask-uniswap-tokenlist.json s3://${{ env.S3_BUCKET_NAME }}/${{ env.S3_PATH }} --cache-control "max-age=300"
           echo "Upload complete"
+
+      # Downstream syncs (tokens api) poll this file every 20 minutes; without an
+      # invalidation a merged token only reaches them once the CDN copy expires.
+      # Requires the STATIC_CF_DISTRIBUTION_ID repository variable and
+      # cloudfront:CreateInvalidation on the S3 role; skipped until both exist.
+      - name: Invalidate CDN cache
+        if: ${{ vars.STATIC_CF_DISTRIBUTION_ID != '' }}
+        run: |
+          echo "Invalidating /${{ env.S3_PATH }} on distribution ${{ vars.STATIC_CF_DISTRIBUTION_ID }}..."
+          aws cloudfront create-invalidation --distribution-id "${{ vars.STATIC_CF_DISTRIBUTION_ID }}" --paths "/${{ env.S3_PATH }}"
+          echo "Invalidation requested"
