@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x244EFb92f76a57da49B5F71045dcE3E546E13106.svg",
+  "name": "Oscar Health (Ondo Tokenized)",
+  "symbol": "OSCRon",
+  "decimals": 18,
+  "erc20": true
+}

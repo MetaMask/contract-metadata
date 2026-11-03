@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x91fc7371d6dE682A1e8CFcB4EB7dA693312A03a4.svg",
+  "name": "Bilibili (Ondo Tokenized)",
+  "symbol": "BILIon",
+  "decimals": 18,
+  "erc20": true
+}

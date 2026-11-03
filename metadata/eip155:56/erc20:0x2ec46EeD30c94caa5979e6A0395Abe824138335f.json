@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x2ec46EeD30c94caa5979e6A0395Abe824138335f.svg",
+  "name": "Lowe's (Ondo Tokenized)",
+  "symbol": "LOWon",
+  "decimals": 18,
+  "erc20": true
+}

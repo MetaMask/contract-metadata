@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xaD56701D9e57957e28e546Db7db508A16d4f86CC.svg",
+  "name": "Terawulf (Ondo Tokenized)",
+  "symbol": "WULFon",
+  "decimals": 18,
+  "erc20": true
+}

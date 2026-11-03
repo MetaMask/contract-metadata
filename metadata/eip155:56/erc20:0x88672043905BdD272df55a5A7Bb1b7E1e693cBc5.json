@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x88672043905BdD272df55a5A7Bb1b7E1e693cBc5.svg",
+  "name": "Opera (Ondo Tokenized)",
+  "symbol": "OPRAon",
+  "decimals": 18,
+  "erc20": true
+}

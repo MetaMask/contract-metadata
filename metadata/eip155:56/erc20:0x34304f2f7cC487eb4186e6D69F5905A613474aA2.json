@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x34304f2f7cC487eb4186e6D69F5905A613474aA2.svg",
+  "name": "Cisco Systems (Ondo Tokenized)",
+  "symbol": "CSCOon",
+  "decimals": 18,
+  "erc20": true
+}

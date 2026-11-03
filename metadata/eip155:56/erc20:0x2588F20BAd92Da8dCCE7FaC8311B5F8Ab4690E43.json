@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x2588F20BAd92Da8dCCE7FaC8311B5F8Ab4690E43.svg",
+  "name": "T-Mobile US (Ondo Tokenized)",
+  "symbol": "TMUSon",
+  "decimals": 18,
+  "erc20": true
+}

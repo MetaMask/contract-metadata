@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xD7dF5863A3e742F0c767768cDfcb63f09E0422f6.svg",
+  "name": "Meta Platforms (Ondo Tokenized)",
+  "symbol": "METAon",
+  "decimals": 18,
+  "erc20": true
+}

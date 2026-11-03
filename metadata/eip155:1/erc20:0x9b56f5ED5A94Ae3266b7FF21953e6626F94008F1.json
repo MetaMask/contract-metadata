@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x9b56f5ED5A94Ae3266b7FF21953e6626F94008F1.svg",
+  "name": "Eaton (Ondo Tokenized)",
+  "symbol": "ETNon",
+  "decimals": 18,
+  "erc20": true
+}

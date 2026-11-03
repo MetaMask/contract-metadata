@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x67c5902F5210F62f37157cd9C735c693164c1378.svg",
+  "name": "RTX (Ondo Tokenized)",
+  "symbol": "RTXon",
+  "decimals": 18,
+  "erc20": true
+}

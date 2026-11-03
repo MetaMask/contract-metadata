@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xe5b26BA77E6a4d79a7c54a5296d81254269D9700.svg",
+  "name": "Grindr (Ondo Tokenized)",
+  "symbol": "GRNDon",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xa7d1e886acf66Ec0656DF2DECB4B7C893A3bAb4C.svg",
+  "name": "Walmart (Ondo Tokenized)",
+  "symbol": "WMTon",
+  "decimals": 18,
+  "erc20": true
+}

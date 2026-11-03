@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x992879Cd8ce0c312d98648875B5A8D6D042cbF34.svg",
+  "name": "Circle Internet Group (Ondo Tokenized)",
+  "symbol": "CRCLon",
+  "decimals": 18,
+  "erc20": true
+}

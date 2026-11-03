@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xcC40965d3621362C3EE1dD946bA98d6A708ea86B.svg",
+  "name": "PDD Holdings (Ondo Tokenized)",
+  "symbol": "PDDon",
+  "decimals": 18,
+  "erc20": true
+}

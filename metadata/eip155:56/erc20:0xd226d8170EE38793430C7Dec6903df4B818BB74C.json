@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xd226d8170EE38793430C7Dec6903df4B818BB74C.svg",
+  "name": "MARA Holdings (Ondo Tokenized)",
+  "symbol": "MARAon",
+  "decimals": 18,
+  "erc20": true
+}

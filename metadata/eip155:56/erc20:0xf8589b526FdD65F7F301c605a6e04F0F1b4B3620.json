@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xf8589b526FdD65F7F301c605a6e04F0F1b4B3620.svg",
+  "name": "Coinbase (Ondo Tokenized)",
+  "symbol": "COINon",
+  "decimals": 18,
+  "erc20": true
+}

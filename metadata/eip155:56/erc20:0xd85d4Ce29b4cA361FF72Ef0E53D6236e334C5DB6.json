@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xd85d4Ce29b4cA361FF72Ef0E53D6236e334C5DB6.svg",
+  "name": "Ondas Holdings (Ondo Tokenized)",
+  "symbol": "ONDSon",
+  "decimals": 18,
+  "erc20": true
+}

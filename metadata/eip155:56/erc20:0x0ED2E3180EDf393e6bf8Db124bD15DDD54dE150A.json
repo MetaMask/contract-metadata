@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x0ED2E3180EDf393e6bf8Db124bD15DDD54dE150A.svg",
+  "name": "Broadcom (Ondo Tokenized)",
+  "symbol": "AVGOon",
+  "decimals": 18,
+  "erc20": true
+}

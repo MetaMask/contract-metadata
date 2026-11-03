@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xB22d83E228c4266075Ec75c32aCc3BC059B6f248.svg",
+  "name": "Opendoor Technologies (Ondo Tokenized)",
+  "symbol": "OPENon",
+  "decimals": 18,
+  "erc20": true
+}

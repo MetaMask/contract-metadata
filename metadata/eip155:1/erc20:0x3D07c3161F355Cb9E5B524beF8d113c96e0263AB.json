@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x3D07c3161F355Cb9E5B524beF8d113c96e0263AB.svg",
+  "name": "Capital One (Ondo Tokenized)",
+  "symbol": "COFon",
+  "decimals": 18,
+  "erc20": true
+}

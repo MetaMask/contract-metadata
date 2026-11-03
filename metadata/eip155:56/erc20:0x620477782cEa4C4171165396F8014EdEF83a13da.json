@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x620477782cEa4C4171165396F8014EdEF83a13da.svg",
+  "name": "Figure Technology Solutions (Ondo Tokenized)",
+  "symbol": "FIGRon",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xFA9f0Bf8baa9A3D5E0a8E5c0AeAF186ACaBef63D.svg",
+  "name": "Coupang (Ondo Tokenized)",
+  "symbol": "CPNGon",
+  "decimals": 18,
+  "erc20": true
+}

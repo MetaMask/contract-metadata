@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xD7a6353a23ED2c4fcaC29A63CBBe3f65ffEf41F5.svg",
+  "name": "Southern (Ondo Tokenized)",
+  "symbol": "SOon",
+  "decimals": 18,
+  "erc20": true
+}

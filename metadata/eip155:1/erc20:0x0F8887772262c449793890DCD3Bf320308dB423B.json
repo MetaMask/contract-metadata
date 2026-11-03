@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x0F8887772262c449793890DCD3Bf320308dB423B.svg",
+  "name": "Uranium Energy (Ondo Tokenized)",
+  "symbol": "UECon",
+  "decimals": 18,
+  "erc20": true
+}

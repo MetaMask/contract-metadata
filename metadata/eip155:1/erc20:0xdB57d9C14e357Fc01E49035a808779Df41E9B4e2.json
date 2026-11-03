@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xdB57d9C14e357Fc01E49035a808779Df41E9B4e2.svg",
+  "name": "Goldman Sachs (Ondo Tokenized)",
+  "symbol": "GSon",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x2F2e4b09B99fbf018F600e031aAfD9Da6347Cc75.svg",
+  "name": "IonQ (Ondo Tokenized)",
+  "symbol": "IONQon",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x8A83C31D6751833B4940b6e871c48d9A15a07b46.svg",
+  "name": "Pfizer (Ondo Tokenized)",
+  "symbol": "PFEon",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xbCf7D958791152128710565a5fC6f68342Ed71C8.svg",
+  "name": "Thermo Fisher Scientific (Ondo Tokenized)",
+  "symbol": "TMOon",
+  "decimals": 18,
+  "erc20": true
+}

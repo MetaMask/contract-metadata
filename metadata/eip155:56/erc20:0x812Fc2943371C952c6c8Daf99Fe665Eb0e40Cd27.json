@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x812Fc2943371C952c6c8Daf99Fe665Eb0e40Cd27.svg",
+  "name": "Capricor Therapeutics (Ondo Tokenized)",
+  "symbol": "CAPRon",
+  "decimals": 18,
+  "erc20": true
+}

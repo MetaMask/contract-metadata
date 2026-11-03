@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x0D586b51A90Dc999f9bB6A0506Da7F034a1D3A2E.svg",
+  "name": "ConocoPhillips (Ondo Tokenized)",
+  "symbol": "COPon",
+  "decimals": 18,
+  "erc20": true
+}

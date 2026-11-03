@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x5D1a9a9B118fF19721e0111f094f2360b6Ef7A2f.svg",
+  "name": "Snowflake (Ondo Tokenized)",
+  "symbol": "SNOWon",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x24F5471183eA549987f245D6ce236B6108869C92.svg",
+  "name": "Blackrock, Inc. (Ondo Tokenized)",
+  "symbol": "BLKon",
+  "decimals": 18,
+  "erc20": true
+}

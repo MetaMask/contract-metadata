@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x185E5FA1B84F94D46ef2A33052aD39bD5f326fd8.svg",
+  "name": "Exodus Movement (Ondo Tokenized)",
+  "symbol": "EXODon",
+  "decimals": 18,
+  "erc20": true
+}

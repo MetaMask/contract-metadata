@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xab2F74804C022C5249d52e743AF4340E42F5f3b6.svg",
+  "name": "Grab Holdings (Ondo Tokenized)",
+  "symbol": "GRABon",
+  "decimals": 18,
+  "erc20": true
+}

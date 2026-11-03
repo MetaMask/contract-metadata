@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x398f7f759380F3d309B9fC0E6cB3D36E0D67818d.svg",
+  "name": "Trip.com Group (Ondo Tokenized)",
+  "symbol": "TCOMon",
+  "decimals": 18,
+  "erc20": true
+}

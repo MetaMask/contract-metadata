@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xD8e26FcC879b30cB0a0B543925a2B3500f074D81.svg",
+  "name": "Nike (Ondo Tokenized)",
+  "symbol": "NKEon",
+  "decimals": 18,
+  "erc20": true
+}
