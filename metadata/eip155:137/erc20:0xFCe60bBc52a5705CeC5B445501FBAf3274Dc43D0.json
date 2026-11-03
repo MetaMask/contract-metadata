@@ -1,0 +1,7 @@
+{
+  "name": "Apollo Diversified Credit Securitize Fund",
+  "symbol": "ACRED",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0xFCe60bBc52a5705CeC5B445501FBAf3274Dc43D0.png"
+}
