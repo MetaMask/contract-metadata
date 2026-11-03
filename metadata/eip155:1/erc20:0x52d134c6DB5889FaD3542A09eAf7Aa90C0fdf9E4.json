@@ -1,0 +1,9 @@
+{
+  "eip155:1/erc20:0x52d134c6DB5889FaD3542A09eAf7Aa90C0fdf9E4": {
+    "name": "Backed IBTA $ Treasury Bond 1-3yr",
+    "symbol": "bIBTA",
+    "decimals": 18,
+    "erc20": true,
+    "logo": "./icons/eip155:1/erc20:0x52d134c6DB5889FaD3542A09eAf7Aa90C0fdf9E4.svg"
+  }
+}
