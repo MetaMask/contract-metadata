@@ -4518,5 +4518,12 @@
     "erc20": true,
     "symbol": "FPS",
     "decimals": 18
+  },
+  "0x5fd1fFA1d817e2BC1E594081A9f883A8707e959c": {
+    "name": "CMGCoin",
+    "logo": "cmg.png",
+    "erc20": true,
+    "symbol": "CMG",
+    "decimals": 8
   }
 }
