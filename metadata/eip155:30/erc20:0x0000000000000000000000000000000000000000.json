@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:30/erc20:0x0000000000000000000000000000000000000000.svg",
+  "name": "Smart Bitcoin",
+  "symbol": "RBTC",
+  "decimals": 18,
+  "erc20": false
+}
