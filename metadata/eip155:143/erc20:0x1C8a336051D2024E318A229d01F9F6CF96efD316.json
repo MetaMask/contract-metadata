@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:143/erc20:0x1C8a336051D2024E318A229d01F9F6CF96efD316.svg",
+  "name": "mUSD Vault",
+  "symbol": "vmUSD",
+  "decimals": 6,
+  "erc20": true
+}
