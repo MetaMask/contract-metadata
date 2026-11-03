@@ -1,0 +1,7 @@
+{
+"name": "Nillion",
+"symbol": "NIL",
+"decimals": 6,
+"erc20": true,
+"logo": "./icons/eip155:1/erc20:0x7Cf9a80db3B29eE8efE3710AadB7b95270572d47.svg"
+}
