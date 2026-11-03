@@ -1,0 +1,7 @@
+{
+  "name": "Yellow Black USDC",
+  "symbol": "USDC",
+  "decimals": 18,
+  "logo": "https://gateway.pinata.cloud/ipfs/bafkreide5pv6m4eejsq43r22kkzmwj54cyptxngsai7oifvneekbdlt7ti",
+  "erc20": true
+}
