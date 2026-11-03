@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:166/slip44:1.svg",
+  "name": "Nomina",
+  "symbol": "NOM",
+  "decimals": 18,
+  "erc20": false
+}

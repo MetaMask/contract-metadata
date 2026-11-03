@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:747/erc20:0x0000000000000000000000000000000000000000.svg",
+  "name": "Flow",
+  "symbol": "FLOW",
+  "decimals": 18,
+  "erc20": false
+}
