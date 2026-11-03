@@ -1,0 +1,7 @@
+{
+  "name": "Native Decentralized Euro Protocol Share",
+  "symbol": "nDEPS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xc71104001A3CCDA1BEf1177d765831Bd1bfE8eE6.svg"
+}
