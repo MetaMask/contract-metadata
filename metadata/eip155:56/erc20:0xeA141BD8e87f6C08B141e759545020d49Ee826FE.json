@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xeA141BD8e87f6C08B141e759545020d49Ee826FE.svg",
+  "name": "PXA Governance Token",
+  "symbol": "PXT",
+  "decimals": 18,
+  "erc20": true
+}
