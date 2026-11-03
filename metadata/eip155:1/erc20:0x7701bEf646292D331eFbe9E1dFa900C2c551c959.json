@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x7701bEf646292D331eFbe9E1dFa900C2c551c959.png",
+  "name": "Cryptid Currency",
+  "symbol": "CRYPT",
+  "decimals": 18,
+  "erc20": true
+}
