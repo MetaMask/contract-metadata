@@ -1,0 +1,7 @@
+{
+  "name": "Virtual TAO",
+  "symbol": "vTAO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:964/erc20:0x31049849CCdD983D8F401077537438eaF12B12Af.svg"
+}
