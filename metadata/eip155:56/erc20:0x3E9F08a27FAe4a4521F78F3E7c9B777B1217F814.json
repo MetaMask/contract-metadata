@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x3E9F08a27FAe4a4521F78F3E7c9B777B1217F814.png",
+  "name": "GlobalToken",
+  "symbol": "GBC",
+  "decimals": 18,
+  "erc20": true
+}
