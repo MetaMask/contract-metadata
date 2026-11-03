@@ -1,0 +1,7 @@
+{
+  "name": "Avaride",
+  "symbol": "AVAR",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x77199eaa4eabc6CB0ADf5c26fF1dC12867583cCA.svg"
+}
