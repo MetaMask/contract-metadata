@@ -1,0 +1,9 @@
+{
+  "eip155:56/erc20:0xe75c25caaab756105e43abec37d73fa899e99534": {
+    "name": "PayPal USD",
+    "symbol": "PYUSD",
+    "decimals": 18,
+    "erc20": true,
+    "logo": "./icons/eip155:56/erc20:0xe75c25caaab756105e43abec37d73fa899e99534.png"
+  }
+}
