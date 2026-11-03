@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0xbc9E7b1c5C0081f4aE85e71eC95703d3dEC9ffaD.png",
+  "name": "Bucket Shop",
+  "symbol": "BUCKET",
+  "decimals": 18,
+  "erc20": true
+}
