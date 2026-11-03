@@ -1,0 +1,7 @@
+{
+  "name": "everyweekend",
+  "symbol": "evww",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x72edc8A6Bd089cA9Ec20B21A40e119f08A844e0f.png"
+}
