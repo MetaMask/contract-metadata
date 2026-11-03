@@ -21,7 +21,7 @@ jobs:
       contents: write
       pull-requests: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
         with:
           # This is to guarantee that the most recent tag is fetched.
           # This can be configured to a more reasonable value by consumers.
@@ -32,10 +32,10 @@ jobs:
       - name: Get Node.js version
         id: nvm
         run: echo ::set-output name=NODE_VERSION::$(cat .nvmrc)
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
         with:
           node-version: ${{ steps.nvm.outputs.NODE_VERSION }}
-      - uses: MetaMask/action-create-release-pr@v1
+      - uses: MetaMask/action-create-release-pr@c2131cc326cb7e95644b147a107ccb60af87eaf6 # v1.5.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
