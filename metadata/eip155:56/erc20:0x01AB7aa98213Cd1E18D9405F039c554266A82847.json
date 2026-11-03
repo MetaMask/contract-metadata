@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x01AB7aa98213Cd1E18D9405F039c554266A82847.svg",
+  "name": "xBnbWBNB",
+  "symbol": "xBnbWBNB",
+  "decimals": 18,
+  "erc20": true
+}
