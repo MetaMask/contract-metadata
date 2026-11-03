@@ -1,0 +1,7 @@
+{
+  "name": "Stone Vault Token",
+  "symbol": "SVT",
+  "decimals": 21,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xc5c6cB88598203f3652E531dbb1128Ff52F38621.png"
+}
