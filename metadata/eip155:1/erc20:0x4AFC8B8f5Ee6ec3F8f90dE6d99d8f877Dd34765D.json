@@ -1,0 +1,7 @@
+{
+  "name": "Singularity Foundation",
+  "symbol": "SF",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x4AFC8B8f5Ee6ec3F8f90dE6d99d8f877Dd34765D.svg"
+}
