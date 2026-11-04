@@ -1,0 +1,7 @@
+{
+  "name": "InvestArab Bridged USDT",
+  "symbol": "USDT",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x65e2F96217D84e2D712c1f17819f95F593Eb41Fb.png"
+}
