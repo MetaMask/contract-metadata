@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">PRZK token</title>
+  <desc id="desc">Prizrak AI PRZK token mark</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7e8bf"/>
+      <stop offset="0.19" stop-color="#916636"/>
+      <stop offset="0.55" stop-color="#f9edca"/>
+      <stop offset="1" stop-color="#9a6a35"/>
+    </linearGradient>
+    <linearGradient id="rim" x1="0.12" y1="0.02" x2="0.88" y2="0.98">
+      <stop offset="0" stop-color="#fff0b7"/>
+      <stop offset="0.25" stop-color="#a56e2d"/>
+      <stop offset="0.52" stop-color="#fff4c8"/>
+      <stop offset="0.78" stop-color="#c39247"/>
+      <stop offset="1" stop-color="#6e431c"/>
+    </linearGradient>
+    <linearGradient id="disc" x1="0.5" y1="0" x2="0.5" y2="1">
+      <stop offset="0" stop-color="#22b7d5"/>
+      <stop offset="0.36" stop-color="#0c6f96"/>
+      <stop offset="0.7" stop-color="#06365d"/>
+      <stop offset="1" stop-color="#02082b"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7b4b20"/>
+      <stop offset="0.2" stop-color="#ffd77b"/>
+      <stop offset="0.46" stop-color="#fff1b1"/>
+      <stop offset="0.72" stop-color="#be8035"/>
+      <stop offset="1" stop-color="#f1c46d"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="256" height="256" fill="url(#bg)"/>
+  <circle cx="128" cy="128" r="120" fill="#6b421d"/>
+  <circle cx="128" cy="128" r="117" fill="url(#rim)"/>
+  <circle cx="128" cy="128" r="108" fill="url(#disc)" stroke="#1b3149" stroke-width="2"/>
+  <circle cx="128" cy="128" r="106" fill="none" stroke="#ffe39a" stroke-width="2"/>
+
+  <!-- cyan edge accents reproduce the cool reflections of the original emblem -->
+  <g fill="#087aa0">
+    <rect x="67" y="57" width="5" height="153"/>
+    <rect x="99" y="23" width="5" height="165"/>
+    <rect x="133" y="36" width="5" height="95"/>
+  </g>
+
+  <!-- candlesticks -->
+  <g fill="url(#gold)">
+    <rect x="71" y="54" width="4" height="159" rx="1"/>
+    <rect x="76" y="64" width="10" height="128" rx="1"/>
+    <rect x="104" y="21" width="4" height="169" rx="1"/>
+    <rect x="109" y="37" width="10" height="49" rx="1"/>
+    <rect x="138" y="34" width="4" height="99" rx="1"/>
+    <rect x="143" y="55" width="10" height="56" rx="1"/>
+  </g>
+
+  <!-- stylised P -->
+  <path d="M113 82V164M113 84H159C179 84 193 95 193 113C193 131 179 141 159 141H113"
+        fill="none" stroke="#0b7899" stroke-width="15" stroke-linecap="square" stroke-linejoin="round"/>
+  <path d="M110 80V162M110 82H157C177 82 190 94 190 112C190 130 177 138 157 138H110"
+        fill="none" stroke="url(#gold)" stroke-width="11" stroke-linecap="square" stroke-linejoin="round"/>
+
+  <!-- PRZK wordmark converted to geometric paths -->
+  <g fill="url(#gold)" transform="translate(10 17) scale(.88 .92)">
+    <!-- P -->
+    <path d="M82 169H105C117 169 124 175 124 184C124 193 117 199 105 199H91V210H82Zm9 8V191H104C111 191 115 189 115 184C115 179 111 177 104 177Z"/>
+    <!-- R -->
+    <path d="M125 169H150C162 169 169 175 169 184C169 191 165 196 158 198L171 210H159L148 200H134V210H125Zm9 8V192H149C156 192 160 189 160 184C160 179 156 177 149 177Z"/>
+    <!-- Z -->
+    <path d="M170 169H205V177L181 202H206V210H168V202L192 177H170Z"/>
+    <!-- K -->
+    <path d="M207 169H216V185L232 169H244L225 188L245 210H233L219 194L216 197V210H207Z"/>
+  </g>
+
+  <path d="M39 205C60 226 90 238 126 238C163 238 194 224 215 202" fill="none" stroke="#d3a250" stroke-width="2" opacity="0.45"/>
+</svg>
