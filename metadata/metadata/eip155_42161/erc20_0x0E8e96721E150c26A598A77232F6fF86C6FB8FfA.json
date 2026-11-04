@@ -1,0 +1,9 @@
+{
+  "eip155:42161/erc20:0x0E8e96721E150c26A598A77232F6fF86C6FB8FfA": {
+    "name": "Zenith Net",
+    "decimals": 18,
+    "symbol": "ZNT",
+    "erc20": true,
+    "logo": "./icons/ZNT.png"
+  }
+}
