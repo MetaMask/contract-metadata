@@ -1,0 +1,7 @@
+{
+  "name": "Trust Me Capital",
+  "symbol": "TMC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:4663/erc20:0x5c845330b41D9Bef68B46DC254353A770f44dee8.png"
+}
