@@ -1,0 +1,18 @@
+{
+  "name": "wdutrust",
+  "symbol": "wdu",
+  "contractAddress": "0x74D7d1aD19bD14655cD0Ab26BEcc57ED69d69413",
+  "decimals": 18,
+  "logo": "erc20:0x74D7d1aD19bD14655cD0Ab26BEcc57ED69d69413.svg",
+  "website": "https://quazenthor.com/wdu",
+  "description": "wdutrust (wdu) is a fixed-supply, immutable BEP-20 token on BNB Smart Chain created for educational and transparency purposes.",
+  "links": {
+    "x": "https://x.com/wdutrust",
+    "telegram": "https://t.me/wdutrust",
+    "facebook": "https://www.facebook.com/wdutrust",
+    "instagram": "https://www.instagram.com/wdu.trustwdu/",
+    "medium": "https://medium.com/@wdutrust.wdu",
+    "github": "https://github.com/wdutrust/wdu",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=5570556.0"
+  }
+}
