@@ -1,0 +1,7 @@
+{
+  "name": "Emerald Digital Security Token",
+  "symbol": "EMRL.D",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0x7A02Bd374312fAc10B4E64FE3a0E4369E2E7876c.png"
+}
