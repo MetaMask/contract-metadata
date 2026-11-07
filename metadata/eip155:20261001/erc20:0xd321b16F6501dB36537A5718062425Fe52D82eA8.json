@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped Sonic (Bridged from Sonic)",
+  "symbol": "wS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:20261001/erc20:0xd321b16F6501dB36537A5718062425Fe52D82eA8.png"
+}

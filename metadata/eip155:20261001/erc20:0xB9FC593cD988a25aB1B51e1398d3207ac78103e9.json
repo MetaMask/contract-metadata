@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped Fantom (Bridged from Fantom Opera)",
+  "symbol": "WFTM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:20261001/erc20:0xB9FC593cD988a25aB1B51e1398d3207ac78103e9.png"
+}
