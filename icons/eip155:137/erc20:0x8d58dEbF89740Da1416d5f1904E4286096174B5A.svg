@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="pQUSD">
+  <title>pQUSD</title>
+  <desc>pQUSD token mark. QVTX brand: Xpress Gold #F5A623 on DNA Navy #0A2540, no purple in the coin. A Q encloses the dollar glyph; a bold Q ring encloses the dollar glyph; the Polygon p collar stays in the lower-right. Every glyph is geometry, never text, so it rasterises identically with no font installed.</desc>
+
+  <!-- coin field: DNA Navy -->
+  <circle cx="128" cy="128" r="124" fill="#0A2540"/>
+
+  <!-- outer rim: Xpress Gold -->
+  <circle cx="128" cy="128" r="117" fill="none" stroke="#F5A623" stroke-width="7"/>
+
+  <!-- THE Q: ring around the dollar, with its tail at lower-left -->
+  <g stroke="#F5A623" fill="none" stroke-linecap="round">
+    <circle cx="128" cy="128" r="100" stroke-width="10"/>
+  </g>
+
+  <g stroke="#F5A623" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- dollar S-curve, inside the Q -->
+    <path d="M163 98
+             C163 82 148 74 128 74
+             C108 74 94 83 94 98
+             C94 113 108 120 128 126
+             C148 132 162 139 162 154
+             C162 169 148 178 128 178
+             C108 178 93 170 93 154"
+          stroke-width="17"/>
+    <!-- the vertical stroke, overhanging top and bottom -->
+    <path d="M128 58 L128 194" stroke-width="13"/>
+  </g>
+
+  <!-- POLYGON COLLAR: unchanged, lower-right -->
+  <g transform="translate(186,186)">
+    <circle cx="0" cy="0" r="40" fill="#0A2540"/>
+    <circle cx="0" cy="0" r="34" fill="#8247E5"/>
+    <g fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M-11 -16 L-11 20" stroke-width="7"/>
+      <path d="M-11 -13
+               C-11 -17 -5 -18 1 -18
+               C10 -18 15 -12 15 -4
+               C15 4 10 10 1 10
+               C-5 10 -11 9 -11 5"
+            stroke-width="7"/>
+    </g>
+  </g>
+</svg>
