@@ -1,0 +1,7 @@
+{
+  "name": "EZCoin",
+  "symbol": "EZC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x40060cD119217dcE12ebcDEe3160474534cf3eD5.svg"
+}
