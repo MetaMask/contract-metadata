@@ -1,0 +1,7 @@
+{
+  "name": "AgroLastro",
+  "symbol": "AGL",
+  "decimals": 9,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0x0000000000109de411eabC9f04906d79F06FDa0e.svg"
+}
