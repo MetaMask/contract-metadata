@@ -1,0 +1,10 @@
+
+{
+  "eip155:1/erc20:0xfc60fc0145D7330e5abcFc52AF7B043a1cE18e7d": {
+    "name": "GVNR",
+    "symbol": "GVNR",
+    "decimals": 18,
+    "erc20": true,
+    "logo": "./icons/eip155:1/erc20:0xfc60fc0145D7330e5abcFc52AF7B043a1cE18e7d.png"
+  }
+}
