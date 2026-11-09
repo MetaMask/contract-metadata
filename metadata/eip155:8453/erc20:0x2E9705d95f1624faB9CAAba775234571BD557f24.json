@@ -1,0 +1,7 @@
+{
+  "name": "Zoth BlackOpal",
+  "symbol": "zOPAL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x2E9705d95f1624faB9CAAba775234571BD557f24.svg"
+}
