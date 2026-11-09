@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xAd05253A381FeAde280Ca50bf875dc8113E8a746.png",
+  "name": "Propbase",
+  "symbol": "PROPS",
+  "decimals": 8,
+  "erc20": true
+}
