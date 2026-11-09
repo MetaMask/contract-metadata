@@ -1,0 +1,7 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xc532E416535973af7A22a4FCed72e9935c072e88.svg"
+}
