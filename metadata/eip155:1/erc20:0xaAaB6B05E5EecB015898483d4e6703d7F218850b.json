@@ -1,10 +1,7 @@
-
 {
-  "eip155:1/erc20:0xaAaB6B05E5EecB015898483d4e6703d7F218850b": {
-    "name": "Ultimate Collateral Dollar",
-    "symbol": "UCD",
-    "decimals": 18,
-    "erc20": true,
-    "logo": "./icons/eip155:1/erc20:0xaAaB6B05E5EecB015898483d4e6703d7F218850b.png"
-  }
+  "name": "Ultimate Collateral Dollar",
+  "symbol": "UCD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xaAaB6B05E5EecB015898483d4e6703d7F218850b.png"
 }

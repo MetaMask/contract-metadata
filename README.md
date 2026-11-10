@@ -1,37 +1,48 @@
 # @metamask/contract-metadata
 
-A mapping of checksummed Ethereum contract addresses to metadata, like names, and images of their logos.
+A mapping of ethereum contract addresses to broadly accepted icons for those addresses, plus a CAIP-19 based multi-chain metadata store used in this repository.
 
-All address keys follow the [EIP 55 address checksum format](https://github.com/ethereum/EIPs/issues/55).
-All file keys follow the [CAIP 19 asset id format](https://github.com/ChainAgnostic/CAIPs/blob/main/CAIPs/caip-19.md).
+- The **npm package** exports a legacy Ethereum mainnet map keyed by [EIP-55](https://github.com/ethereum/EIPs/issues/55) checksummed addresses (`contract-map.json` + `images/`).
+- The **repository source of truth** for new assets is CAIP-19 file layout under `metadata/` and `icons/` ([CAIP-19](https://github.com/ChainAgnostic/CAIPs/blob/main/CAIPs/caip-19.md)).
 
-This repository is effectively frozen. We recommend that developers of new tokens use [EIP 747](https://docs.metamask.io/guide/registering-your-token.html) to ask the user's permission to display your tokens in their wallet. This reduces the dangers of airdrop-based phishing, and reduces administrative overhead from managing this list.
+This repository is effectively frozen for casual token additions. We recommend that developers of new tokens use [EIP-747](https://docs.metamask.io/guide/registering-your-token.html) to ask the user's permission to display your tokens in their wallet. This reduces the dangers of airdrop-based phishing, and reduces administrative overhead from managing this list.
 
 ## Usage
 
-You can install from npm with `npm install @metamask/contract-metadata` and use it in your code like this:
+Install from npm with `npm install @metamask/contract-metadata` and use it like this:
 
 ```javascript
 import contractMap from '@metamask/contract-metadata'
 import ethJSUtil from 'ethereumjs-util'
 const { toChecksumAddress } = ethJSUtil
 
-function imageElForEVMToken (chainId, address) {
-  const caip19Address = `eip155:${chainId}/erc20:${toChecksumAddress(address)}`
-  const metadata = contractMap[caip19Address]
+function imageElFor (address) {
+  const metadata = contractMap[toChecksumAddress(address)]
   if (metadata?.logo) {
-    const fileName = metadata.logo
-    const path = `${__dirname}/${metadata.logo}`
     const img = document.createElement('img')
-    img.src = path
+    // Published package keeps logos under images/
+    img.src = `${__dirname}/images/${metadata.logo}`
     img.style.width = '100%'
     return img
   }
 }
-// to get ethereum erc20 token img el
-const ethereumNetworkChainId = 1
-imageElForEVMToken (ethereumNetworkChainId, "0x06012c8cf97BEaD5deAe237070F9587f8E7A266d")
+
+imageElFor('0x6B175474E89094C44Da98b954EedeAC495271d0F')
 ```
+
+Each map entry looks like:
+
+```json
+{
+  "name": "Dai Stablecoin",
+  "logo": "dai.svg",
+  "erc20": true,
+  "symbol": "DAI",
+  "decimals": 18
+}
+```
+
+For local CAIP-19 data in this repo, require `./buildindex.js` instead. That builds an in-memory map keyed by CAIP-19 asset IDs (for example `eip155:1/erc20:0x6B175474E89094C44Da98b954EedeAC495271d0F`) from the `metadata/` folder. It does **not** rewrite `contract-map.json`.
 
 ## CLI Tool for Managing Assets
 
@@ -98,15 +109,26 @@ npm run asset:list -- --namespace "eip155:1"
 - `--erc20`: Set to `true` or `false` (optional, auto-detected for `erc20:` prefix)
 - `--spl`: Set to `true` or `false` (optional, auto-detected for `spl:` prefix)
 
+### File Structure
+
+The tool manages:
+
+- Metadata: `metadata/{namespace}/{assetId}.json`  
+  Example: `metadata/eip155:1/erc20:0x6B175474E89094C44Da98b954EedeAC495271d0F.json`
+- Icons: `icons/{namespace}/{assetId}.{ext}`  
+  Example: `icons/eip155:1/erc20:0x6B175474E89094C44Da98b954EedeAC495271d0F.svg`
+- Labels (optional): `labels/{namespace}/{assetId}.json`
+
 ### Workflow
 
 1. Add or update an asset using `npm run asset:set`
 2. Verify the changes using `npm run asset:verify`
-3. Rebuild the contract-map.json: `node buildindex.js`
+3. Run tests: `npm test`
 4. Review the changes in git
 5. Commit and push your changes
 
 The tool automatically:
+
 - Validates all inputs using Zod schemas
 - Renames icon files to match the asset ID
 - Removes old icons when updating with a new image
@@ -117,13 +139,17 @@ The tool automatically:
 
 Maintaining this list is a considerable chore, and it is not our highest priority. We do not guarantee inclusion in this list on any urgent timeline. We are actively looking for fair and safe ways to maintain a list like this in a decentralized way, because maintaining it is a large and security-delicate task.
 
+Preferred path: use the CLI (`npm run asset:set`) so paths and fields are generated correctly.
+
+Manual submissions:
+
 1. Fork this repository.
-2. Add your logo image in `.svg` or `.png` file format to the `icons` folder.
-3. Add your asset metadata in a json format to a  `metadata/${caip19AssetId}.json` file with the CAIP-19 Asset ID as the key inside of the `metadata/` folder.
+2. Add your logo image in `.svg` or `.png` format under `icons/{namespace}/` using the CAIP-19 asset id as the filename (for example `icons/eip155:1/erc20:0x….svg`).
+3. Add asset metadata as a JSON object (not wrapped in an outer key) at `metadata/{namespace}/{assetId}.json`.
 
 Criteria:
 
-- The icon should be small, square, but high resolution, and a vector/svg or a png. Please refer to the [style guide](STYLEGUIDE.md) for best practices. 
+- The icon should be small, square, but high resolution, and a vector/svg or a png. Please refer to the [style guide](STYLEGUIDE.md) for best practices.
 - The address should be in checksum format or it will not be accepted. This is true of non-evm assets as well - since some network's addressing formats are case-sensitive.
 - PR should include link to official project website referencing the suggested address.
 - Project website should include explanation of project.
@@ -132,26 +158,24 @@ Criteria:
 - Must have a ['NEUTRAL' reputation or 'OK' reputation](https://info.etherscan.com/etherscan-token-reputation) on Etherscan if it is an Ethereum-network asset. Other EVM Networks will be verified as possible.
 - Assets must not be ERC-721s or ERC-1155s.
 
-A sample submission:
+A sample submission file at `metadata/eip155:1/erc20:0x6B175474E89094C44Da98b954EedeAC495271d0F.json`:
 
 ```json
 {
-  "eip:155/erc20:0x6090A6e47849629b7245Dfa1Ca21D94cd15878Ef": {
-    "name": "ENS Registrar",
-    "decimals": 18,
-    "symbol": "ENS",
-    "erc20": true,
-    "logo": "./icons/eip:155/erc20:0x6090A6e47849629b7245Dfa1Ca21D94cd15878Ef.svg"
-  }
+  "name": "Dai Stablecoin",
+  "decimals": 18,
+  "symbol": "DAI",
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x6B175474E89094C44Da98b954EedeAC495271d0F.svg"
 }
 ```
 
-Tokens should include a field `"erc20": true`, and can include additional fields:
+Tokens should include a field `"erc20": true` when applicable, and can include additional fields:
 
-- symbol (a five-character or less ticker symbol)
-- decimals (precision of the tokens stored)
+- `symbol` (ticker symbol; keep to 11 characters or fewer to pass tests)
+- `decimals` (precision of the tokens stored)
 
-A full list of permitted fields can be found in the [permitted-fields.json](./permitted-fields.json) file.
+A full list of permitted fields for the legacy contract map can be found in the [permitted-fields.json](./permitted-fields.json) file.
 
 ### Release & Publishing
 
@@ -167,7 +191,7 @@ The project follows the same release process as the other libraries in the MetaM
 
 3. Trigger the [`workflow_dispatch`](https://docs.github.com/en/actions/reference/events-that-trigger-workflows#workflow_dispatch) event [manually](https://docs.github.com/en/actions/managing-workflow-runs/manually-running-a-workflow) for the `Create Release Pull Request` action to create the release PR.
 
-   - For a backport release, the base branch should be the major version branch that you ensured existed in step 2. For a normal release, the base branch should be the main branch for that repository (which should be the default value).
+   - For a backport release, the base branch should be the major version branch that you ensured existed in step 2. For a normal release, the base branch should be `master` (the workflow default).
    - This should trigger the [`action-create-release-pr`](https://github.com/MetaMask/action-create-release-pr) workflow to create the release PR.
 
 4. Update the changelog to move each change entry into the appropriate change category ([See here](https://keepachangelog.com/en/1.0.0/#types) for the full list of change categories, and the correct ordering), and edit them to be more easily understood by users of the package.
@@ -175,7 +199,6 @@ The project follows the same release process as the other libraries in the MetaM
    - Generally any changes that don't affect consumers of the package (e.g. lockfile changes or development environment changes) are omitted. Exceptions may be made for changes that might be of interest despite not having an effect upon the published package (e.g. major test improvements, security improvements, improved documentation, etc.).
    - Try to explain each change in terms that users of the package would understand (e.g. avoid referencing internal variables/concepts).
    - Consolidate related changes into one change entry if it makes it easier to explain.
-   - Run `yarn auto-changelog validate --rc` to check that the changelog is correctly formatted.
 
 5. Review and QA the release.
 
