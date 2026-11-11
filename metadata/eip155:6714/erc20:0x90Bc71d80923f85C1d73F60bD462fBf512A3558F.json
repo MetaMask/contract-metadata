@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:6714/erc20:0x90Bc71d80923f85C1d73F60bD462fBf512A3558F.png",
+  "name": "GOLDEN PACT",
+  "symbol": "GOT",
+  "decimals": 9,
+  "erc20": true
+}

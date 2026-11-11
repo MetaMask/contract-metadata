@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:6714/erc20:0x9A80e910C533B1CEeeE4591bF0B80A34717c0e9d.png",
+  "name": "Temple Raid",
+  "symbol": "TEM",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:6714/erc20:0xA921267c56B3a57696d6Fd7949c9FaD0A8E0c177.png",
+  "name": "Bridged A",
+  "symbol": "A",
+  "decimals": 18,
+  "erc20": true
+}

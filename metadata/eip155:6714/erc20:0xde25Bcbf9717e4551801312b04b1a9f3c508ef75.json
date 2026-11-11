@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:6714/erc20:0xde25Bcbf9717e4551801312b04b1a9f3c508ef75.png",
+  "name": "VEST Coin",
+  "symbol": "VES",
+  "decimals": 9,
+  "erc20": true
+}

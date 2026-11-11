@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:6714/erc20:0xA77609896bb3D6D4dB05D06C957CB0C611f58f31.png",
+  "name": "Anubis LayerZero NFLXon",
+  "symbol": "NFLXon",
+  "decimals": 18,
+  "erc20": true
+}

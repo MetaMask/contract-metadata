@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:6714/erc20:0x7c2Ff3733683817b66834B29562A6AF4A70eF7F9.png",
+  "name": "Anubis LayerZero AMDon",
+  "symbol": "AMDon",
+  "decimals": 18,
+  "erc20": true
+}

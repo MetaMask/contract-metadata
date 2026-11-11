@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:6714/erc20:0xc6D0778718d40f31422e60F25299A04878E8d9c2.png",
+  "name": "Anubis LayerZero AAPLon",
+  "symbol": "AAPLon",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:6714/erc20:0x7a242e5815c9B406dAb597388F33C83BB0caa79e.png",
+  "name": "Anubis DAO2",
+  "symbol": "ADAO2",
+  "decimals": 9,
+  "erc20": true
+}

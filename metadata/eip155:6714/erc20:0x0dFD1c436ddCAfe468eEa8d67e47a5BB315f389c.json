@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:6714/erc20:0x0dFD1c436ddCAfe468eEa8d67e47a5BB315f389c.png",
+  "name": "Anubis LayerZero MSTRon",
+  "symbol": "MSTRon",
+  "decimals": 18,
+  "erc20": true
+}

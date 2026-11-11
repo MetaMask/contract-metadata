@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:6714/erc20:0x72cf15f74657Bb00dd1D8Dd475248dEe644F689A.png",
+  "name": "Bridged POL",
+  "symbol": "POL",
+  "decimals": 18,
+  "erc20": true
+}

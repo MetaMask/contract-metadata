@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:6714/erc20:0x7c29CE7AaA51C3Cc671805449a79078d926babc3.png",
+  "name": "Anubis LayerZero INTCon",
+  "symbol": "INTCon",
+  "decimals": 18,
+  "erc20": true
+}

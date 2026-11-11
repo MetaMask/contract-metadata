@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:6714/erc20:0xA0bD8B3d33718F623C5C1F1551B5B069f6a4F127.png",
+  "name": "Anubis LayerZero USDT",
+  "symbol": "USDT",
+  "decimals": 6,
+  "erc20": true
+}

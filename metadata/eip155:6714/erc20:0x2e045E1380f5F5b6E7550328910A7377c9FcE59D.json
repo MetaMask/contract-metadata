@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:6714/erc20:0x2e045E1380f5F5b6E7550328910A7377c9FcE59D.png",
+  "name": "Rome",
+  "symbol": "RM",
+  "decimals": 9,
+  "erc20": true
+}

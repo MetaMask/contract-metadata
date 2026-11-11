@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:6714/erc20:0x21b6B0b3FaB224921d3054d187E324a673411B4c.png",
+  "name": "Gladiator",
+  "symbol": "GD",
+  "decimals": 18,
+  "erc20": true
+}

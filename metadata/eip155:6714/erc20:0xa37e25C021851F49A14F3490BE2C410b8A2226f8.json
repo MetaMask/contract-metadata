@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:6714/erc20:0xa37e25C021851F49A14F3490BE2C410b8A2226f8.png",
+  "name": "Anubis LayerZero GOOGLon",
+  "symbol": "GOOGLon",
+  "decimals": 18,
+  "erc20": true
+}
