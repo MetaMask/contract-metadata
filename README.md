@@ -150,6 +150,7 @@ Rules (enforced by `npm run network-icons:verify` and `npm test`):
 - `.svg` only. Raster formats are not accepted.
 - The file name must be a valid CAIP-2 chain ID.
 - The root `<svg>` must declare `xmlns="http://www.w3.org/2000/svg"`.
+- The root `<svg>` must be `width="256" height="256"` with a square `viewBox`. For non-square artwork, pad the viewBox to a square instead of stretching it (e.g. `viewBox="0 0 346 360"` → `viewBox="-7 0 360 360"`).
 - No `<script>`, `<foreignObject>`, `<image>` (embedded rasters), inline event handlers, `DOCTYPE`/`ENTITY` declarations, or external references (`href`/`url()` must point to a `#fragment`).
 - 100 KB max. Strip editor metadata (e.g. Adobe Illustrator's `i:pgf` blocks) before submitting.
 

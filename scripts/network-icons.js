@@ -23,6 +23,7 @@ const S3_PREFIX = 'api/v2/networkIcons';
 const CAIP2_REGEX = /^([-a-z0-9]{3,8}):([-_a-zA-Z0-9]{1,32})$/;
 
 const MAX_BYTES = 100 * 1024;
+const ICON_SIZE = 256;
 
 // Icons are served from a MetaMask-owned origin, so reject anything that can
 // execute, pull in external content, or abuse the XML parser.
@@ -78,8 +79,31 @@ function validateNetworkIcon(fileName) {
   if (!/xmlns\s*=\s*["']http:\/\/www\.w3\.org\/2000\/svg["']/.test(content)) {
     errors.push('missing xmlns="http://www.w3.org/2000/svg" (required to render via <img>)');
   }
+  errors.push(...validateDimensions(content));
   for (const [pattern, label] of FORBIDDEN_PATTERNS) {
     if (pattern.test(content)) errors.push(`contains ${label}`);
+  }
+  return errors;
+}
+
+/** Root <svg> must be ICON_SIZE x ICON_SIZE with a square viewBox. */
+function validateDimensions(content) {
+  const root = /<svg\b[^>]*>/.exec(content);
+  if (!root) return [];
+  const attr = (name) => {
+    const m = new RegExp(`\\s${name}\\s*=\\s*["']([^"']*)["']`).exec(root[0]);
+    return m ? m[1].trim() : null;
+  };
+  const errors = [];
+  const width = attr('width');
+  const height = attr('height');
+  if (width !== String(ICON_SIZE) || height !== String(ICON_SIZE)) {
+    errors.push(`root <svg> must have width="${ICON_SIZE}" height="${ICON_SIZE}" (got width=${width} height=${height})`);
+  }
+  const viewBox = attr('viewBox');
+  const parts = viewBox ? viewBox.split(/[\s,]+/).map(Number) : [];
+  if (parts.length !== 4 || !parts.every(Number.isFinite) || parts[2] <= 0 || parts[2] !== parts[3]) {
+    errors.push(`root <svg> must have a square viewBox (got ${viewBox === null ? 'none' : `"${viewBox}"`})`);
   }
   return errors;
 }
