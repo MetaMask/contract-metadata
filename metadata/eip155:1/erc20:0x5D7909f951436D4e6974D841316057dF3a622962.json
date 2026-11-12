@@ -1,0 +1,7 @@
+{
+  "name": "Goat Network",
+  "symbol": "GOATED",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x5D7909f951436D4e6974D841316057dF3a622962.svg"
+}

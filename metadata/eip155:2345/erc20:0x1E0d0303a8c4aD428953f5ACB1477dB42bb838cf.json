@@ -1,0 +1,7 @@
+{
+  "name": "GOAT BSC DOGE",
+  "symbol": "DOGEB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:2345/erc20:0x1E0d0303a8c4aD428953f5ACB1477dB42bb838cf.svg"
+}
