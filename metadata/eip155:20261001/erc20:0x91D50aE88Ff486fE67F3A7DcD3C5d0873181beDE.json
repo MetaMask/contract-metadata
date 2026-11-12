@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped BNB",
+  "symbol": "WBNB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:20261001/erc20:0x91D50aE88Ff486fE67F3A7DcD3C5d0873181beDE.png"
+}
