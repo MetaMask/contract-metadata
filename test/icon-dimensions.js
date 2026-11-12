@@ -1,6 +1,6 @@
 // The token icon API serves a PNG icon at its own pixel size, so a PNG over
-// MAX_DIMENSION fails here. `yarn icons:resize` shrinks it to fit. SVGs are not
-// checked: their declared size does not change the vector artwork.
+// MAX_DIMENSION fails here. SVGs are not checked: their declared size does not
+// change the vector artwork.
 
 const fs = require('fs')
 const path = require('path')
@@ -38,35 +38,12 @@ function findOversizedIcons() {
     )
 }
 
-async function resizePng(filePath) {
-  const sharp = require('sharp')
-  const image = sharp(fs.readFileSync(filePath))
-  const { isPalette } = await image.metadata()
-  const resized = await image
-    .resize({ width: MAX_DIMENSION, height: MAX_DIMENSION, fit: 'inside' })
-    .png({ compressionLevel: 9, palette: isPalette })
-    .toBuffer()
-  fs.writeFileSync(filePath, resized)
-}
-
-async function resizeOversizedIcons() {
-  const oversized = findOversizedIcons()
-  for (const { filePath } of oversized) {
-    await resizePng(filePath)
-  }
-  console.log(`Resized ${oversized.length} PNG icons to at most ${MAX_DIMENSION}px on each side`)
-}
-
-if (process.argv.includes('--fix')) {
-  resizeOversizedIcons()
-} else {
-  const test = require('tape')
-  test(`PNG icons are at most ${MAX_DIMENSION}px on each side`, function (t) {
-    findOversizedIcons().forEach(({ filePath, dimensions }) => {
-      t.fail(
-        `${path.relative(ROOT, filePath)} is ${dimensions.width}x${dimensions.height}; run \`yarn icons:resize\` to shrink it to at most ${MAX_DIMENSION}px on each side`,
-      )
-    })
-    t.end()
+const test = require('tape')
+test(`PNG icons are at most ${MAX_DIMENSION}px on each side`, function (t) {
+  findOversizedIcons().forEach(({ filePath, dimensions }) => {
+    t.fail(
+      `${path.relative(ROOT, filePath)} is ${dimensions.width}x${dimensions.height}; resize it to at most ${MAX_DIMENSION}px on each side`,
+    )
   })
-}
+  t.end()
+})
