@@ -1,4 +1,4 @@
-name: Generate Uniswap Token List and Upload to S3
+name: Upload Token List and Network Icons to S3
 
 on:
   push:
@@ -14,6 +14,7 @@ env:
   AWS_REGION: us-east-2
   S3_BUCKET_NAME: static.cx.metamask.io
   S3_PATH: metamask-uniswap-tokenlist.json
+  NETWORK_ICONS_S3_PREFIX: api/v2/networkIcons
 
 jobs:
   generate-uniswap-list:
@@ -41,4 +42,37 @@ jobs:
         run: |
           echo "Uploading tokenlist to S3..."
           aws s3 cp metamask-uniswap-tokenlist.json s3://${{ env.S3_BUCKET_NAME }}/${{ env.S3_PATH }} --cache-control "max-age=3600"
+          echo "Upload complete"
+
+  upload-network-icons:
+    runs-on: ubuntu-latest
+    environment: generate-uniswap-list
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '16'
+
+      # Validates every icon (CAIP-2 file name, .svg only, no scripts or
+      # external references) and lays them out as <namespace>/<reference>.svg.
+      - name: Stage network icons
+        run: node scripts/network-icons.js stage build/network-icons
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: ${{ vars.S3_ROLE_ARN }}
+          aws-region: ${{ env.AWS_REGION }}
+
+      # Additive only: icons removed from the repo are not deleted from S3.
+      - name: Upload network icons to S3
+        run: |
+          echo "Uploading network icons to s3://${{ env.S3_BUCKET_NAME }}/${{ env.NETWORK_ICONS_S3_PREFIX }}/ ..."
+          aws s3 sync build/network-icons s3://${{ env.S3_BUCKET_NAME }}/${{ env.NETWORK_ICONS_S3_PREFIX }} \
+            --exclude "*" --include "*.svg" \
+            --content-type "image/svg+xml" \
+            --cache-control "max-age=3600"
           echo "Upload complete"

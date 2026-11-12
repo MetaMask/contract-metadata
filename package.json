@@ -11,13 +11,15 @@
     "node": ">=14.0.0"
   },
   "scripts": {
-    "test": "node test && node ./test/cli-update-asset.js && node ./test/caip.js && node ./test/ondo-naming.js",
+    "test": "node test && node ./test/cli-update-asset.js && node ./test/caip.js && node ./test/ondo-naming.js && node ./test/network-icons.js",
     "test:caip": "node ./test/caip.js",
     "test:ondo-naming": "node ./test/ondo-naming.js",
     "asset": "node cli-update-asset.js",
     "asset:set": "node cli-update-asset.js set",
     "asset:verify": "node cli-update-asset.js verify",
-    "asset:list": "node cli-update-asset.js list"
+    "asset:list": "node cli-update-asset.js list",
+    "test:network-icons": "node ./test/network-icons.js",
+    "network-icons:verify": "node scripts/network-icons.js verify"
   },
   "repository": {
     "type": "git",
@@ -37,7 +39,8 @@
   "files": [
     "index.js",
     "contract-map.json",
-    "images"
+    "images",
+    "network-icons"
   ],
   "devDependencies": {
     "ethereumjs-util": "^5.1.1",

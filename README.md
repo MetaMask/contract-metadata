@@ -135,6 +135,34 @@ The tool automatically:
 - Auto-detects `erc20` and `spl` fields based on the asset namespace
 - Downloads and saves images from URLs with the correct extension
 
+## Network Icons
+
+Network (chain) icons live in [`network-icons/`](./network-icons), one file per network, named by its [CAIP-2 chain ID](https://github.com/ChainAgnostic/CAIPs/blob/main/CAIPs/caip-2.md):
+
+```
+network-icons/eip155:1.svg
+network-icons/eip155:59144.svg
+network-icons/bip122:000000000019d6689c085ae165831e93.svg
+```
+
+Rules (enforced by `npm run network-icons:verify` and `npm test`):
+
+- `.svg` only. Raster formats are not accepted.
+- The file name must be a valid CAIP-2 chain ID.
+- The root `<svg>` must declare `xmlns="http://www.w3.org/2000/svg"`.
+- The root `<svg>` must be `width="256" height="256"` with a square `viewBox`. For non-square artwork, pad the viewBox to a square instead of stretching it (e.g. `viewBox="0 0 346 360"` → `viewBox="-7 0 360 360"`).
+- No `<script>`, `<foreignObject>`, `<image>` (embedded rasters), inline event handlers, `DOCTYPE`/`ENTITY` declarations, or external references (`href`/`url()` must point to a `#fragment`).
+- 100 KB max. Strip editor metadata (e.g. Adobe Illustrator's `i:pgf` blocks) before submitting.
+
+On every merge to `master`, the icons are uploaded to the static cache bucket with the CAIP-2 colon turned into a path separator:
+
+```
+https://static.cx.metamask.io/api/v2/networkIcons/{namespace}/{reference}.svg
+https://static.cx.metamask.io/api/v2/networkIcons/eip155/1.svg
+```
+
+The upload only adds or replaces objects. Deleting a file here does not remove it from the bucket.
+
 ## Submission Process
 
 Maintaining this list is a considerable chore, and it is not our highest priority. We do not guarantee inclusion in this list on any urgent timeline. We are actively looking for fair and safe ways to maintain a list like this in a decentralized way, because maintaining it is a large and security-delicate task.

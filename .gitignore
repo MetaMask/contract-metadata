@@ -94,3 +94,6 @@ Temporary Items
 .vscode/
 
 # End of https://www.gitignore.io/api/osx,node
+
+# Staging output of scripts/network-icons.js
+/build/
