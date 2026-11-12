@@ -17,7 +17,8 @@
     "asset": "node cli-update-asset.js",
     "asset:set": "node cli-update-asset.js set",
     "asset:verify": "node cli-update-asset.js verify",
-    "asset:list": "node cli-update-asset.js list"
+    "asset:list": "node cli-update-asset.js list",
+    "icons:resize": "node ./test/icon-dimensions.js --fix"
   },
   "repository": {
     "type": "git",
@@ -41,6 +42,7 @@
   ],
   "devDependencies": {
     "ethereumjs-util": "^5.1.1",
+    "sharp": "0.34.5",
     "tape": "^4.6.3",
     "zod": "^4.3.6"
   }

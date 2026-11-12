@@ -1,15 +1,12 @@
 // The token icon API serves each icon as a PNG at its declared size, so an
-// icon over MAX_DIMENSION fails unless icon-dimensions-baseline.json lists it.
-// The baseline only shrinks; regenerate it with `--write-baseline`.
+// icon over MAX_DIMENSION fails here. `yarn icons:resize` shrinks it to fit.
 
 const fs = require('fs')
 const path = require('path')
-const test = require('tape')
 
 const MAX_DIMENSION = 256
 const ROOT = path.join(__dirname, '..')
 const ICON_DIRECTORIES = ['icons', 'images']
-const BASELINE_PATH = path.join(__dirname, 'icon-dimensions-baseline.json')
 
 function listFiles(directory) {
   return fs.readdirSync(directory, { withFileTypes: true }).flatMap((entry) => {
@@ -18,25 +15,29 @@ function listFiles(directory) {
   })
 }
 
+function readSvgRootTag(contents) {
+  return (contents.match(/<svg\b[^>]*>/i) || [''])[0]
+}
+
+function readSvgLength(rootTag, attribute) {
+  const match = rootTag.match(
+    new RegExp(`\\s${attribute}\\s*=\\s*["']\\s*([\\d.]+)\\s*(px)?\\s*["']`, 'i'),
+  )
+  return match ? parseFloat(match[1]) : undefined
+}
+
+function readSvgViewBox(rootTag) {
+  const match = rootTag.match(
+    /viewBox\s*=\s*["']\s*[-\d.]+[\s,]+[-\d.]+[\s,]+([\d.]+)[\s,]+([\d.]+)/i,
+  )
+  return match ? { width: parseFloat(match[1]), height: parseFloat(match[2]) } : undefined
+}
+
 function readSvgDimensions(contents) {
-  const rootTag = (contents.match(/<svg\b[^>]*>/i) || [''])[0]
-  const readLength = (attribute) => {
-    const match = rootTag.match(
-      new RegExp(`\\s${attribute}\\s*=\\s*["']\\s*([\\d.]+)\\s*(px)?\\s*["']`, 'i'),
-    )
-    return match ? parseFloat(match[1]) : undefined
-  }
-  let width = readLength('width')
-  let height = readLength('height')
-  if (width === undefined || height === undefined) {
-    const viewBox = rootTag.match(
-      /viewBox\s*=\s*["']\s*[-\d.]+[\s,]+[-\d.]+[\s,]+([\d.]+)[\s,]+([\d.]+)/i,
-    )
-    if (viewBox) {
-      width = width === undefined ? parseFloat(viewBox[1]) : width
-      height = height === undefined ? parseFloat(viewBox[2]) : height
-    }
-  }
+  const rootTag = readSvgRootTag(contents)
+  const viewBox = readSvgViewBox(rootTag)
+  const width = readSvgLength(rootTag, 'width') ?? viewBox?.width
+  const height = readSvgLength(rootTag, 'height') ?? viewBox?.height
   return width === undefined || height === undefined ? undefined : { width, height }
 }
 
@@ -60,45 +61,67 @@ function readDimensions(filePath) {
 
 function findOversizedIcons() {
   return ICON_DIRECTORIES.flatMap((directory) => listFiles(path.join(ROOT, directory)))
-    .map((filePath) => ({
-      file: path.relative(ROOT, filePath).split(path.sep).join('/'),
-      dimensions: readDimensions(filePath),
-    }))
+    .map((filePath) => ({ filePath, dimensions: readDimensions(filePath) }))
     .filter(
       ({ dimensions }) =>
         dimensions && Math.max(dimensions.width, dimensions.height) > MAX_DIMENSION,
     )
 }
 
-if (process.argv.includes('--write-baseline')) {
-  const files = findOversizedIcons()
-    .map(({ file }) => file)
-    .sort()
-  fs.writeFileSync(BASELINE_PATH, `${JSON.stringify(files, null, 2)}\n`)
-  console.log(`Wrote ${files.length} entries to ${path.relative(ROOT, BASELINE_PATH)}`)
-} else {
-  const baseline = new Set(JSON.parse(fs.readFileSync(BASELINE_PATH, 'utf8')))
+function round(value) {
+  return Math.round(value * 100) / 100
+}
+
+// Rewrites only the root tag's width and height, so the drawing is untouched.
+// Without a viewBox the old size becomes one, or the content would be cropped.
+function resizeSvg(filePath, { width, height }) {
+  const contents = fs.readFileSync(filePath, 'utf8')
+  const rootTag = readSvgRootTag(contents)
+  const scale = MAX_DIMENSION / Math.max(width, height)
+  let resized = rootTag.replace(/\s(width|height)\s*=\s*(["'])[^"']*\2/gi, '')
+  if (!readSvgViewBox(rootTag)) {
+    resized = resized.replace(/^<svg\b/i, `<svg viewBox="0 0 ${width} ${height}"`)
+  }
+  resized = resized.replace(
+    /^<svg\b/i,
+    `<svg width="${round(width * scale)}" height="${round(height * scale)}"`,
+  )
+  fs.writeFileSync(filePath, contents.replace(rootTag, resized))
+}
+
+async function resizePng(filePath) {
+  const sharp = require('sharp')
+  const image = sharp(fs.readFileSync(filePath))
+  const { isPalette } = await image.metadata()
+  const resized = await image
+    .resize({ width: MAX_DIMENSION, height: MAX_DIMENSION, fit: 'inside' })
+    .png({ compressionLevel: 9, palette: isPalette })
+    .toBuffer()
+  fs.writeFileSync(filePath, resized)
+}
+
+async function resizeOversizedIcons() {
   const oversized = findOversizedIcons()
-  const oversizedFiles = new Set(oversized.map(({ file }) => file))
+  for (const { filePath, dimensions } of oversized) {
+    if (filePath.toLowerCase().endsWith('.svg')) {
+      resizeSvg(filePath, dimensions)
+    } else {
+      await resizePng(filePath)
+    }
+  }
+  console.log(`Resized ${oversized.length} icons to at most ${MAX_DIMENSION}px on each side`)
+}
 
+if (process.argv.includes('--fix')) {
+  resizeOversizedIcons()
+} else {
+  const test = require('tape')
   test(`icons are at most ${MAX_DIMENSION}px on each side`, function (t) {
-    oversized
-      .filter(({ file }) => !baseline.has(file))
-      .forEach(({ file, dimensions }) => {
-        t.fail(
-          `${file} is ${dimensions.width}x${dimensions.height}; resize it to at most ${MAX_DIMENSION}x${MAX_DIMENSION} (for an SVG, set its width and height attributes and keep its viewBox)`,
-        )
-      })
-    t.pass(`${oversized.length} icons exceed the cap, ${baseline.size} of them allowed by the baseline`)
-    t.end()
-  })
-
-  test('the oversized-icon baseline lists only icons that are still oversized', function (t) {
-    ;[...baseline]
-      .filter((file) => !oversizedFiles.has(file))
-      .forEach((file) => {
-        t.fail(`${file} now fits the cap or no longer exists; remove it from test/icon-dimensions-baseline.json`)
-      })
+    findOversizedIcons().forEach(({ filePath, dimensions }) => {
+      t.fail(
+        `${path.relative(ROOT, filePath)} is ${dimensions.width}x${dimensions.height}; run \`yarn icons:resize\` to shrink it to at most ${MAX_DIMENSION}px on each side`,
+      )
+    })
     t.end()
   })
 }
