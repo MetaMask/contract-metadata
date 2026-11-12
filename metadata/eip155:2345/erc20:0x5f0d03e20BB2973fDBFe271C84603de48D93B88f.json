@@ -1,0 +1,7 @@
+{
+  "name": "Goat Network Deposited token",
+  "symbol": "ArtGOATED",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:2345/erc20:0x5f0d03e20BB2973fDBFe271C84603de48D93B88f.svg"
+}
