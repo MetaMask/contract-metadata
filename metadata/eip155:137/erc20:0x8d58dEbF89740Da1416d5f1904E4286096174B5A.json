@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:137/erc20:0x8d58dEbF89740Da1416d5f1904E4286096174B5A.svg",
+  "name": "QVTX USD",
+  "symbol": "pQUSD",
+  "decimals": 18,
+  "erc20": true
+}
