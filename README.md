@@ -154,12 +154,14 @@ Rules (enforced by `npm run network-icons:verify` and `npm test`):
 - No `<script>`, `<foreignObject>`, `<image>` (embedded rasters), inline event handlers, `DOCTYPE`/`ENTITY` declarations, or external references (`href`/`url()` must point to a `#fragment`).
 - 100 KB max. Strip editor metadata (e.g. Adobe Illustrator's `i:pgf` blocks) before submitting.
 
-On every merge to `master`, the icons are uploaded to the static cache bucket with the CAIP-2 colon turned into a path separator:
+On every merge to `master`, the icons are uploaded to the static cache bucket of each environment (dev, uat, prd), with the CAIP-2 colon turned into a path separator:
 
 ```
-https://static.cx.metamask.io/api/v2/networkIcons/{namespace}/{reference}.svg
+https://{dev-,uat-,}static.cx.metamask.io/api/v2/networkIcons/{namespace}/{reference}.svg
 https://static.cx.metamask.io/api/v2/networkIcons/eip155/1.svg
 ```
+
+Each environment's upload uses the role ARN in the `generate-uniswap-list` environment's `S3_ROLE_ARN_DEV`, `S3_ROLE_ARN_UAT` and `S3_ROLE_ARN` (prd) variables, and is skipped with a warning if its variable is unset.
 
 The upload only adds or replaces objects. Deleting a file here does not remove it from the bucket.
 

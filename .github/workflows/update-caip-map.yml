@@ -44,34 +44,67 @@ jobs:
           aws s3 cp metamask-uniswap-tokenlist.json s3://${{ env.S3_BUCKET_NAME }}/${{ env.S3_PATH }} --cache-control "max-age=3600"
           echo "Upload complete"
 
+  # One static bucket per environment, each in its own AWS account with its
+  # own `github-contract-metadata` role (va-mmcx-api-platform-infra).
   upload-network-icons:
+    name: upload-network-icons (${{ matrix.env }})
     runs-on: ubuntu-latest
     environment: generate-uniswap-list
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - env: dev
+            bucket: dev-static.cx.metamask.io
+            role_var: S3_ROLE_ARN_DEV
+          - env: uat
+            bucket: uat-static.cx.metamask.io
+            role_var: S3_ROLE_ARN_UAT
+          - env: prd
+            bucket: static.cx.metamask.io
+            role_var: S3_ROLE_ARN
+    env:
+      ROLE_ARN: ${{ vars[matrix.role_var] }}
     steps:
+      - name: Check role is configured
+        id: role
+        run: |
+          if [ -z "$ROLE_ARN" ]; then
+            echo "::warning::${{ matrix.role_var }} is not set; skipping network icon upload to ${{ matrix.bucket }}"
+            echo "configured=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "configured=true" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Checkout code
+        if: steps.role.outputs.configured == 'true'
         uses: actions/checkout@v4
 
       - name: Set up Node.js
+        if: steps.role.outputs.configured == 'true'
         uses: actions/setup-node@v4
         with:
           node-version: '16'
 
-      # Validates every icon (CAIP-2 file name, .svg only, no scripts or
-      # external references) and lays them out as <namespace>/<reference>.svg.
+      # Validates every icon (CAIP-2 file name, .svg only, 256x256, no scripts
+      # or external references) and lays them out as <namespace>/<reference>.svg.
       - name: Stage network icons
+        if: steps.role.outputs.configured == 'true'
         run: node scripts/network-icons.js stage build/network-icons
 
       - name: Configure AWS credentials
+        if: steps.role.outputs.configured == 'true'
         uses: aws-actions/configure-aws-credentials@v4
         with:
-          role-to-assume: ${{ vars.S3_ROLE_ARN }}
+          role-to-assume: ${{ env.ROLE_ARN }}
           aws-region: ${{ env.AWS_REGION }}
 
       # Additive only: icons removed from the repo are not deleted from S3.
       - name: Upload network icons to S3
+        if: steps.role.outputs.configured == 'true'
         run: |
-          echo "Uploading network icons to s3://${{ env.S3_BUCKET_NAME }}/${{ env.NETWORK_ICONS_S3_PREFIX }}/ ..."
-          aws s3 sync build/network-icons s3://${{ env.S3_BUCKET_NAME }}/${{ env.NETWORK_ICONS_S3_PREFIX }} \
+          echo "Uploading network icons to s3://${{ matrix.bucket }}/${{ env.NETWORK_ICONS_S3_PREFIX }}/ ..."
+          aws s3 sync build/network-icons s3://${{ matrix.bucket }}/${{ env.NETWORK_ICONS_S3_PREFIX }} \
             --exclude "*" --include "*.svg" \
             --content-type "image/svg+xml" \
             --cache-control "max-age=3600"
