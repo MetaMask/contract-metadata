@@ -1,0 +1,9 @@
+{
+  "eip155:137/erc20:0x52C8Ff13ada1431376b3E77E8219b644805122dF": {
+    "name": "JosJis",
+    "symbol": "JJS",
+    "decimals": 18,
+    "erc20": true,
+    "logo": "./icons/eip155:137/erc20:0x52C8Ff13ada1431376b3E77E8219b644805122dF.png"
+  }
+}
