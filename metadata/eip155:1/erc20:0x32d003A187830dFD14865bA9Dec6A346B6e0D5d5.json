@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x32d003A187830dFD14865bA9Dec6A346B6e0D5d5.png",
+  "name": "PayNova Token",
+  "symbol": "PNOVA",
+  "decimals": 18,
+  "erc20": true
+}
