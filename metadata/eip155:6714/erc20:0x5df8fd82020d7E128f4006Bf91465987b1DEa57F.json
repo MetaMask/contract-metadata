@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:6714/erc20:0x5df8fd82020d7E128f4006Bf91465987b1DEa57F.png",
+  "name": "AURUM GOV",
+  "symbol": "AUG",
+  "decimals": 18,
+  "erc20": true
+}

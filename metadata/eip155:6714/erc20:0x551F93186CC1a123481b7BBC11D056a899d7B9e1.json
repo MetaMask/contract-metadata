@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:6714/erc20:0x551F93186CC1a123481b7BBC11D056a899d7B9e1.png",
+  "name": "Anubis LayerZero MRNAon",
+  "symbol": "MRNAon",
+  "decimals": 18,
+  "erc20": true
+}

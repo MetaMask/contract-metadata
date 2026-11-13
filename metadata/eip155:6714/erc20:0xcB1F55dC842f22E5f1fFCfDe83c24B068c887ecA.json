@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:6714/erc20:0xcB1F55dC842f22E5f1fFCfDe83c24B068c887ecA.png",
+  "name": "Governance WKEY",
+  "symbol": "GWKEY",
+  "decimals": 18,
+  "erc20": true
+}

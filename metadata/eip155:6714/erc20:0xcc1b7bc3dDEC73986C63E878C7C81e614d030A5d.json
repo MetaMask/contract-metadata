@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:6714/erc20:0xcc1b7bc3dDEC73986C63E878C7C81e614d030A5d.png",
+  "name": "Anubis LayerZero NVDAon",
+  "symbol": "NVDAon",
+  "decimals": 18,
+  "erc20": true
+}

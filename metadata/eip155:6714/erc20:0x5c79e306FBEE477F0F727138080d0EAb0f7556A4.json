@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:6714/erc20:0x5c79e306FBEE477F0F727138080d0EAb0f7556A4.png",
+  "name": "Anubis LayerZero LINK",
+  "symbol": "LINK",
+  "decimals": 18,
+  "erc20": true
+}

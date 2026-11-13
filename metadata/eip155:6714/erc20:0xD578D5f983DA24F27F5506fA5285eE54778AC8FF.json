@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:6714/erc20:0xD578D5f983DA24F27F5506fA5285eE54778AC8FF.png",
+  "name": "Anubis LayerZero CRCLon",
+  "symbol": "CRCLon",
+  "decimals": 18,
+  "erc20": true
+}

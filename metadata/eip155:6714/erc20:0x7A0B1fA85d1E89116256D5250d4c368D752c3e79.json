@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:6714/erc20:0x7A0B1fA85d1E89116256D5250d4c368D752c3e79.png",
+  "name": "Anubis LayerZero PAXG",
+  "symbol": "PAXG",
+  "decimals": 18,
+  "erc20": true
+}

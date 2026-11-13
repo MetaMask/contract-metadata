@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:6714/erc20:0xc8fA84483EEbF11f2A7F61ACc0417e84e7043845.png",
+  "name": "Anubis LayerZero MSFTon",
+  "symbol": "MSFTon",
+  "decimals": 18,
+  "erc20": true
+}

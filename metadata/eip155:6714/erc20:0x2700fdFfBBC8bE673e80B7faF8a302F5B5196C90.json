@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:6714/erc20:0x2700fdFfBBC8bE673e80B7faF8a302F5B5196C90.png",
+  "name": "Anubis LayerZero TSLAon",
+  "symbol": "TSLAon",
+  "decimals": 18,
+  "erc20": true
+}

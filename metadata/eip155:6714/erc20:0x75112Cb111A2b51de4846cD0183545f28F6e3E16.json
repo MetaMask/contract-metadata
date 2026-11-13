@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:6714/erc20:0x75112Cb111A2b51de4846cD0183545f28F6e3E16.png",
+  "name": "Anubis LayerZero UNI",
+  "symbol": "UNI",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:6714/erc20:0x83fd06F0846d9D90B3016bF670Efe2E0B11cDe14.png",
+  "name": "Dai Stablecoin",
+  "symbol": "DAI",
+  "decimals": 18,
+  "erc20": true
+}
