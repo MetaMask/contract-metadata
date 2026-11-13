@@ -1,0 +1,7 @@
+{
+  "name": "Ruby Digital Security Token",
+  "symbol": "RUBY.D",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0x41C21F6334884b5f21A2E1067b48e3AB2fb48a31.png"
+}
