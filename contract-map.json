@@ -4519,4 +4519,11 @@
     "symbol": "FPS",
     "decimals": 18
   }
+  "0x7f7fF945b57ba679D3cc68e9C15b2DB2a91AeE1f": {
+  "name": "Tradamint",
+  "logo": "TAT.png",
+  "erc20": true,
+  "symbol": "TAT",
+  "decimals": 17
+  }
 }
