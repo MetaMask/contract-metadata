@@ -15,6 +15,10 @@
  * (keyless https endpoints only). Public RPCs are flaky: failed lookups are reported as
  * "unreachable", never as mismatches. Re-run or supply better RPCs for those chains.
  *
+ * Network safety: the only data sent to RPC endpoints is the JSON-RPC call for a contract address taken
+ * from a metadata file name (validated as an EVM/Solana address). RPC URLs from --rpc-file must be https,
+ * without embedded credentials, and must not point to localhost/private networks.
+ *
  * Exit code 1 if any mismatch found.
  */
 import { readdirSync, readFileSync, writeFileSync } from 'node:fs'
@@ -31,7 +35,33 @@ const concurrency = Number(opt('concurrency', 8))
 const outFile = opt('out')
 const rpcFile = opt('rpc-file')
 
-const userRpcs = rpcFile ? JSON.parse(readFileSync(rpcFile, 'utf8')) : {}
+// Only RPC endpoints and on-chain addresses ever leave this machine. Both are validated below
+// before any request is built: nothing else read from disk (names, symbols, file contents) is sent.
+const EVM_ADDRESS = /^0x[0-9a-fA-F]{40}$/
+const SOLANA_ADDRESS = /^[1-9A-HJ-NP-Za-km-z]{32,44}$/
+const PRIVATE_HOST = /^(localhost|.*\.local|.*\.internal)$|^(127\.|10\.|0\.|169\.254\.|192\.168\.|172\.(1[6-9]|2\d|3[01])\.)|^\[?(::1?|f[cd][0-9a-f]{2}:|fe80:)/i
+
+function validateRpcUrl(raw) {
+  let u
+  try { u = new URL(raw) } catch { throw new Error(`Invalid RPC URL: ${raw}`) }
+  if (u.protocol !== 'https:') throw new Error(`RPC URL must use https: ${u.origin}`)
+  if (u.username || u.password) throw new Error(`RPC URL must not embed credentials: ${u.origin}`)
+  if (PRIVATE_HOST.test(u.hostname)) throw new Error(`RPC URL must not point to a local/private host: ${u.hostname}`)
+  return u.toString()
+}
+
+function loadUserRpcs(file) {
+  if (!file) return {}
+  const raw = JSON.parse(readFileSync(file, 'utf8'))
+  const out = {}
+  for (const [chain, urls] of Object.entries(raw)) {
+    if (!Array.isArray(urls)) throw new Error(`rpc-file: "${chain}" must be an array of URLs`)
+    out[chain] = urls.map(validateRpcUrl)
+  }
+  return out
+}
+
+const userRpcs = loadUserRpcs(rpcFile)
 const SOLANA_DEFAULT = ['https://api.mainnet-beta.solana.com']
 const ZERO = '0x0000000000000000000000000000000000000000'
 
@@ -93,7 +123,11 @@ function collect() {
 }
 
 async function readOnchain(item, urls, seed) {
-  if (item.chain.startsWith('solana:')) {
+  const isSolana = item.chain.startsWith('solana:')
+  if (!(isSolana ? SOLANA_ADDRESS : EVM_ADDRESS).test(item.address)) {
+    return { ok: false, reason: 'invalid address in file name, skipped' }
+  }
+  if (isSolana) {
     const r = await withFailover(urls, 'getAccountInfo', [item.address, { encoding: 'jsonParsed' }], seed)
     if (!r.ok) return r
     const d = r.value?.value?.data?.parsed?.info?.decimals
