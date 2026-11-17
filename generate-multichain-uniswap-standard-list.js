@@ -25,7 +25,8 @@ function createUniswapTokenList() {
         address,
         name: data.name || '',
         symbol: data.symbol || '',
-        decimals: data.decimals || 18,
+        // `??` (not `||`): 0 is a valid decimals value and must not fall back to 18
+        decimals: data.decimals ?? 18,
         logoURI
       };
     });
@@ -49,17 +50,21 @@ function createUniswapTokenList() {
   return tokenList;
 }
 
-const tokenList = createUniswapTokenList();
-const outputPath = path.join(__dirname, 'metamask-uniswap-tokenlist.json');
+if (require.main === module) {
+  const tokenList = createUniswapTokenList();
+  const outputPath = path.join(__dirname, 'metamask-uniswap-tokenlist.json');
 
-try {
-  fs.writeFileSync(
-    outputPath,
-    JSON.stringify(tokenList, null, 2),
-    'utf8'
-  );
-  console.log(`Successfully wrote MetaMask Uniswap token list to ${outputPath}`);
-} catch (error) {
-  console.error('Error writing Uniswap token list:', error);
-  process.exit(1);
+  try {
+    fs.writeFileSync(
+      outputPath,
+      JSON.stringify(tokenList, null, 2),
+      'utf8'
+    );
+    console.log(`Successfully wrote MetaMask Uniswap token list to ${outputPath}`);
+  } catch (error) {
+    console.error('Error writing Uniswap token list:', error);
+    process.exit(1);
+  }
 }
+
+module.exports = { createUniswapTokenList };
