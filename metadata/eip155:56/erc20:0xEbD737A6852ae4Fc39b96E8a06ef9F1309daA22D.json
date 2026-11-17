@@ -1,0 +1,7 @@
+{
+  "name": "Deck",
+  "decimals": 18,
+  "symbol": "DCC",
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0xEbD737A6852ae4Fc39b96E8a06ef9F1309daA22D.svg"
+}
