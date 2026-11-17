@@ -135,6 +135,68 @@ The tool automatically:
 - Auto-detects `erc20` and `spl` fields based on the asset namespace
 - Downloads and saves images from URLs with the correct extension
 
+## Uniswap-standard token list (`metamask-uniswap-tokenlist.json`)
+
+In addition to the npm package and the CAIP-19 `metadata/` store, this repository produces a flat
+[Token Lists](https://tokenlists.org/) (Uniswap standard) JSON file covering every `eip155:*` asset in `metadata/`.
+It lets consumers ingest this repo's data with any standard token-list reader instead of walking the repo.
+
+### Where it is published
+
+- **Published copy (source of truth for consumers):** <https://static.cx.metamask.io/metamask-uniswap-tokenlist.json>
+  (S3 bucket `static.cx.metamask.io`, key `metamask-uniswap-tokenlist.json`, served with `max-age=3600`).
+- **Repository copy:** the `metamask-uniswap-tokenlist.json` committed at the repo root is only a historical
+  snapshot. It is **not** updated by CI and should not be relied on. Use the published URL.
+
+### How it is generated
+
+[`.github/workflows/update-caip-map.yml`](./.github/workflows/update-caip-map.yml) runs on every push to
+`master` (and on manual `workflow_dispatch`). It runs
+[`generate-multichain-uniswap-standard-list.js`](./generate-multichain-uniswap-standard-list.js) and uploads the
+result to S3. Changes to `metadata/` therefore reach the published list on merge, with no release or npm publish needed.
+
+To generate it locally (writes `metamask-uniswap-tokenlist.json` in the repo root):
+
+```bash
+node generate-multichain-uniswap-standard-list.js
+```
+
+The generator reads the map built by [`buildindex.js`](./buildindex.js) (every file under `metadata/`),
+keeps keys starting with `eip155:`, and maps each to a token entry:
+
+| Token list field | Source                                                                                      |
+| ---------------- | ------------------------------------------------------------------------------------------- |
+| `chainId`        | Numeric part of the CAIP-2 chain (`eip155:1` -> `1`)                                        |
+| `address`        | The reference part of the asset id (`erc20:0xabc...` -> `0xabc...`), case preserved         |
+| `name`/`symbol`  | `name` / `symbol` from the metadata file (empty string if missing)                          |
+| `decimals`       | `decimals` from the metadata file, **verbatim**. `0` is kept; only a missing value becomes `18` |
+| `logoURI`        | `https://raw.githubusercontent.com/MetaMask/contract-metadata/master/icons/<chain>/<asset>.<ext>`, or `''` if the asset has no logo |
+
+The file also carries the standard top-level fields: `name` (`MetaMask Token List`), `logoURI`, `keywords`,
+`timestamp` (generation time) and `version` (currently fixed at `1.0.0`).
+
+Known characteristics:
+
+- **EVM only.** Non-EVM namespaces (`solana:`, `bip122:`, `stellar:`) are not included.
+- **Not only ERC-20s.** All `eip155:*` asset types are emitted, including `slip44` (native coins) and `hip3`
+  entries. For those the token-list `address` is the asset reference (for example `60` for ETH), not a
+  `0x...` contract address. Consumers that need contract addresses should filter for `0x`-prefixed 40-hex values.
+- **No on-chain validation.** Values are copied from `metadata/`; nothing is checked against the chain at generation time.
+
+### Who uses it
+
+The MetaMask token API pipeline (`va-mmcx-platform-workflow-service`) ingests this list as its `metamask`
+source for many EVM chains (see `tokenStandardURLMap` in `evm_tokens/sources/standard_urls.go` in that repo).
+That source has the **highest priority** when sources are merged, so whatever is in this list, including
+`decimals`, `symbol` and `name`, wins over CoinGecko, TrustWallet and aggregator data and ends up in
+`tokens.api.cx.metamask.io/v3/chains/<chain>/assets`. A wrong value here is therefore a wrong value in the API
+(this is how `decimals: 0` tokens such as Dentacoin were once served as 18).
+
+### Testing
+
+`npm run test:uniswap-list` (also part of `npm test`) asserts that every `eip155:*` asset's `decimals` in
+`metadata/` is carried unchanged into the generated list.
+
 ## Submission Process
 
 Maintaining this list is a considerable chore, and it is not our highest priority. We do not guarantee inclusion in this list on any urgent timeline. We are actively looking for fair and safe ways to maintain a list like this in a decentralized way, because maintaining it is a large and security-delicate task.
