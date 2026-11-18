@@ -1,0 +1,7 @@
+{
+  "name": "Bobina",
+  "decimals": 18,
+  "symbol": "BOBINA",
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xAF3a37E800991501b88DC4745A96cc8Fc3D5Cb52.svg"
+}
