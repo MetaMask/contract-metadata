@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0x1320b310E523B8fA89048Dcc3611A73c33F51320.svg",
+  "name": "Racing Legends",
+  "symbol": "RCL",
+  "decimals": 18,
+  "erc20": true
+}
