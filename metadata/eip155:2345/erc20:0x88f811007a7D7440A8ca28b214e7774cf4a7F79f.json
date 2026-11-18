@@ -1,0 +1,7 @@
+{
+  "name": "goatUSDT",
+  "symbol": "USDT.g",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:2345/erc20:0x88f811007a7D7440A8ca28b214e7774cf4a7F79f.svg"
+}

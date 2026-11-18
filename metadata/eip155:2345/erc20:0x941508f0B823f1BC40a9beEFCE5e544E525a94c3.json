@@ -1,0 +1,7 @@
+{
+  "name": "BTCB Token Deposited token",
+  "symbol": "ArtBTCB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:2345/erc20:0x941508f0B823f1BC40a9beEFCE5e544E525a94c3.svg"
+}

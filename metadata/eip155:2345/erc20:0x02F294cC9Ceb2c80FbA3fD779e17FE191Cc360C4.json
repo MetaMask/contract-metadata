@@ -1,0 +1,7 @@
+{
+  "name": "BTC Deposited token",
+  "symbol": "ArtBTC",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:2345/erc20:0x02F294cC9Ceb2c80FbA3fD779e17FE191Cc360C4.svg"
+}
