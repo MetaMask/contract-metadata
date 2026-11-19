@@ -307,7 +307,6 @@
     "symbol": "NRG",
     "decimals": 18
   },
-
   "0x0d88eD6E74bbFD96B831231638b66C05571e824F": {
     "name": "Aventus",
     "logo": "aventus.svg",
@@ -2071,7 +2070,6 @@
     "symbol": "MLN",
     "decimals": 18
   },
-
   "0xba358B6f5b4c0215650444B8C30D870B55050D2D": {
     "name": "Hub Token",
     "logo": "hub.svg",
@@ -4517,6 +4515,13 @@
     "logo": "FPS.svg",
     "erc20": true,
     "symbol": "FPS",
+    "decimals": 18
+  },
+  "0x992c30DD833E65586c6CEe32686dBE0cdCA077cc": {
+    "name": "JiuCaiBi",
+    "logo": "jcc.png",
+    "erc20": true,
+    "symbol": "JCC",
     "decimals": 18
   }
 }
