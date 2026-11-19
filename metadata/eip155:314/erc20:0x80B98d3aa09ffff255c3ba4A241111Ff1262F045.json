@@ -1,0 +1,7 @@
+{
+  "name": "USD for Filecoin Community",
+  "logo": "./icons/eip155:314/erc20:0x80B98d3aa09ffff255c3ba4A241111Ff1262F045.svg",
+  "erc20": true,
+  "symbol": "USDFC",
+  "decimals": 18
+}
