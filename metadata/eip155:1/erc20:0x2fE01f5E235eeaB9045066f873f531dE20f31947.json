@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x2fE01f5E235eeaB9045066f873f531dE20f31947.svg",
+  "name": "USD8",
+  "symbol": "USD8",
+  "decimals": 18,
+  "erc20": true
+}
