@@ -1,0 +1,9 @@
+{
+  "name": "MyUSDT",
+  "symbol": "MUSDT",
+  "address": "TPHjxcwuDiAJtnySMo99ou7Rbqo8cqVhsh",
+  "decimals": 6,
+  "logo": "https://i.ibb.co/s9HhX5jP/file-00000000b53482468cb1a919f5cc14ff.png",
+  "website": "https://github.com/nassicatbessir-cell/justlists",
+  "description": "A custom TRC20 token for testing and demonstration purposes."
+}
