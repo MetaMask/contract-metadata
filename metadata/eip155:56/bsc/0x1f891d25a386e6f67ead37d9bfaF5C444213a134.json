@@ -1,0 +1,7 @@
+{
+  "name": "SkyTrade Pro (SUSDT)",
+  "symbol": "SUSDT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./images/0x1f891d25a386e6f67ead37d9bfaF5C444213a134.png"
+}
