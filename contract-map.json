@@ -4518,5 +4518,12 @@
     "erc20": true,
     "symbol": "FPS",
     "decimals": 18
+  },
+  "0x93B0D81fe10E5DB1927dD5a4346445EAFE548a2E": {
+    "name": "MovieDOM",
+    "logo": "mdom.png",
+    "erc20": true,
+    "symbol": "MDOM",
+    "decimals": 18
   }
 }
