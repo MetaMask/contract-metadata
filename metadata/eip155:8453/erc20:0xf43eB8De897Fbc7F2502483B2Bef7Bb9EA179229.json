@@ -1,0 +1,7 @@
+{
+  "name": "Horizen",
+  "symbol": "ZEN",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xf43eB8De897Fbc7F2502483B2Bef7Bb9EA179229.svg"
+}
