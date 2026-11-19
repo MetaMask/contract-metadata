@@ -4456,6 +4456,13 @@
     "symbol": "deUSD",
     "decimals": 18
   },
+  "0x13E906C1c0288B5224d145A256eC36f452D613ED": {
+    "name": "Dwinity",
+    "logo": "dwin.svg",
+    "erc20": true,
+    "symbol": "DWIN",
+    "decimals": 18
+  },
   "0x6E79B51959CF968d87826592f46f819F92466615": {
     "name": "Hoppy",
     "logo": "hoppy.svg",
