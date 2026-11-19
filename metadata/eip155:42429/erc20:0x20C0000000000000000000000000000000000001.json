@@ -1,0 +1,7 @@
+{
+  "name": "AlphaUSD",
+  "symbol": "AlphaUSD",
+  "decimals": 6,
+  "erc20": true,
+  "logo": "./icons/eip155:42429/erc20:0x20C0000000000000000000000000000000000001.svg"
+}
