@@ -1,0 +1,7 @@
+{
+  "name": "PUSD Ecosystem",
+  "symbol": "PUSD",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x29eaac64eD38aEa8b79051cc9D1E2746cfdC2587.png"
+}
