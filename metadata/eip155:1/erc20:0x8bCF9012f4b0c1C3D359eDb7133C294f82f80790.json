@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x8bCF9012f4b0c1C3D359eDb7133C294f82f80790.svg",
+  "name": "ServiceNow (Ondo Tokenized)",
+  "symbol": "NOWon",
+  "decimals": 18,
+  "erc20": true
+}

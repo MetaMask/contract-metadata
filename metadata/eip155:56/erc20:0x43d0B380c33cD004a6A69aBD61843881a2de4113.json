@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x43d0B380c33cD004a6A69aBD61843881a2de4113.svg",
+  "name": "Shopify (Ondo Tokenized)",
+  "symbol": "SHOPon",
+  "decimals": 18,
+  "erc20": true
+}

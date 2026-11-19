@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x3361A73262199873b74D6835760a59B8817fa592.svg",
+  "name": "AT&T (Ondo Tokenized)",
+  "symbol": "Ton",
+  "decimals": 18,
+  "erc20": true
+}

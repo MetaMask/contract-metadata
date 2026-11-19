@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x2B7727076B9C9B1834a2f95B81f12EEdD30db9f1.svg",
+  "name": "Coherent (Ondo Tokenized)",
+  "symbol": "COHRon",
+  "decimals": 18,
+  "erc20": true
+}

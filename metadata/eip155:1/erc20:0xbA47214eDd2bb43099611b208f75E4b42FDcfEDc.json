@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xbA47214eDd2bb43099611b208f75E4b42FDcfEDc.svg",
+  "name": "Alphabet Class A (Ondo Tokenized)",
+  "symbol": "GOOGLon",
+  "decimals": 18,
+  "erc20": true
+}

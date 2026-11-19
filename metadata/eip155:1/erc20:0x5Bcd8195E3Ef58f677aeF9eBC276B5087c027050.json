@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x5Bcd8195E3Ef58f677aeF9eBC276B5087c027050.svg",
+  "name": "Uber (Ondo Tokenized)",
+  "symbol": "UBERon",
+  "decimals": 18,
+  "erc20": true
+}

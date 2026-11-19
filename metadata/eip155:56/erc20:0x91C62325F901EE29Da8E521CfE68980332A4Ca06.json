@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x91C62325F901EE29Da8E521CfE68980332A4Ca06.svg",
+  "name": "Archer Aviation (Ondo Tokenized)",
+  "symbol": "ACHRon",
+  "decimals": 18,
+  "erc20": true
+}

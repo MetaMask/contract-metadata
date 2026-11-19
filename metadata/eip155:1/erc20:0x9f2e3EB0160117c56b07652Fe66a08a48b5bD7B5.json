@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x9f2e3EB0160117c56b07652Fe66a08a48b5bD7B5.svg",
+  "name": "SoFi Technologies (Ondo Tokenized)",
+  "symbol": "SOFIon",
+  "decimals": 18,
+  "erc20": true
+}

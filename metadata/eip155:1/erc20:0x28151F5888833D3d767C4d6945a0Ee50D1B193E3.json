@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x28151F5888833D3d767C4d6945a0Ee50D1B193E3.svg",
+  "name": "Novo Nordisk (Ondo Tokenized)",
+  "symbol": "NVOon",
+  "decimals": 18,
+  "erc20": true
+}

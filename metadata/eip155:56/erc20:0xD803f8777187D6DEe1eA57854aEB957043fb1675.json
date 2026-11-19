@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xD803f8777187D6DEe1eA57854aEB957043fb1675.svg",
+  "name": "American Express (Ondo Tokenized)",
+  "symbol": "AXPon",
+  "decimals": 18,
+  "erc20": true
+}

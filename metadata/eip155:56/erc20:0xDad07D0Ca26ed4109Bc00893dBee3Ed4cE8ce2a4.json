@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xDad07D0Ca26ed4109Bc00893dBee3Ed4cE8ce2a4.svg",
+  "name": "Cipher Mining (Ondo Tokenized)",
+  "symbol": "CIFRon",
+  "decimals": 18,
+  "erc20": true
+}

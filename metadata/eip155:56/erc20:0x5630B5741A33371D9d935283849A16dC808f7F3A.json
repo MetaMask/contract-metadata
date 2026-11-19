@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x5630B5741A33371D9d935283849A16dC808f7F3A.svg",
+  "name": "Apollo Global Management (Ondo Tokenized)",
+  "symbol": "APOon",
+  "decimals": 18,
+  "erc20": true
+}

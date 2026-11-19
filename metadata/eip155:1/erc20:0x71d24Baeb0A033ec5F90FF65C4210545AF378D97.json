@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x71d24Baeb0A033ec5F90FF65C4210545AF378D97.svg",
+  "name": "GameStop (Ondo Tokenized)",
+  "symbol": "GMEon",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x869027261075c3C239D6A26842579b93802606f4.svg",
+  "name": "Merck (Ondo Tokenized)",
+  "symbol": "MRKon",
+  "decimals": 18,
+  "erc20": true
+}

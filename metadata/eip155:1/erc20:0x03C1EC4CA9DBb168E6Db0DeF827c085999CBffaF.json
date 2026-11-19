@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x03C1EC4CA9DBb168E6Db0DeF827c085999CBffaF.svg",
+  "name": "JPMorgan Chase (Ondo Tokenized)",
+  "symbol": "JPMon",
+  "decimals": 18,
+  "erc20": true
+}

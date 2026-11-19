@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x6cc0afD51CE4Cb6920B775F3D6376Ab82b9A93Bb.svg",
+  "name": "Intuit (Ondo Tokenized)",
+  "symbol": "INTUon",
+  "decimals": 18,
+  "erc20": true
+}
