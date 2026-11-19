@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xaC3Ef1E6780395f6a35081dcB88957BfBE1b2606.png",
+  "name": "polymark Ecosystem",
+  "symbol": "prUSD",
+  "decimals": 18,
+  "erc20": true
+}
