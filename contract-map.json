@@ -1,3 +1,10 @@
+"0x1f891d25a386e6f67ead37d9bfaf5c444213a134": {
+  "name": "SkyTrade Pro",
+  "logo": "images/bnb-chain/0x1f891d25a386e6f67ead37d9bfaf5c444213a134/logo.png",
+  "erc20": true,
+  "symbol": "SUSDT",
+  "decimals": 18,
+  "chainId": 56
 {
   "0x14778860E937f509e651192a90589dE711Fb88a9": {
     "name": "Cyber",
