@@ -1,0 +1,7 @@
+{
+  "name": "BURNIE",
+  "symbol": "BURNIE",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:4663/erc20:0xB20A96454BA3dD6180655eecCa146D23b5EBBD8D.svg"
+}
