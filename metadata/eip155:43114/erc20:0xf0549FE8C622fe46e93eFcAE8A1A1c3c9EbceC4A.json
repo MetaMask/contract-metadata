@@ -1,0 +1,7 @@
+{
+  "name": "Apertum APTM",
+  "symbol": "aAPTM",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:43114/erc20:0xf0549FE8C622fe46e93eFcAE8A1A1c3c9EbceC4A.png"
+}
