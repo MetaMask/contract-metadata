@@ -1,0 +1,9 @@
+{
+  "eip155:1/erc20:0x7E8101A1C322D394b3961498c7D40d2DFA94C392": {
+    "name": "Wrapped Backed NVIDIA Corp",
+    "symbol": "wbNVDA",
+    "decimals": 18,
+    "erc20": true,
+    "logo": "./icons/eip155:1/erc20:0xA34C5e0AbE843E10461E2C9586Ea03E55Dbcc495.svg"
+  }
+}
