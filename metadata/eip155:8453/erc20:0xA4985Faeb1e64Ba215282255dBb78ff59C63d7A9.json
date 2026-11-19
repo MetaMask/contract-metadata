@@ -1,0 +1,7 @@
+{
+  "name": "XMA",
+  "symbol": "XMA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xA4985Faeb1e64Ba215282255dBb78ff59C63d7A9.svg"
+}
