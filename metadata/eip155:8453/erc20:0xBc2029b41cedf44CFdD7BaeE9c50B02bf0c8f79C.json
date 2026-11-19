@@ -1,0 +1,7 @@
+{
+  "name": "TPRO Network",
+  "symbol": "TPRO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0xBc2029b41cedf44CFdD7BaeE9c50B02bf0c8f79C.svg"
+}
