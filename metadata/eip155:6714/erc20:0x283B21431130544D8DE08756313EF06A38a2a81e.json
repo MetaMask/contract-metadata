@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:6714/erc20:0x283B21431130544D8DE08756313EF06A38a2a81e.png",
+  "name": "Anubis LayerZero USDC",
+  "symbol": "USDC",
+  "decimals": 6,
+  "erc20": true
+}

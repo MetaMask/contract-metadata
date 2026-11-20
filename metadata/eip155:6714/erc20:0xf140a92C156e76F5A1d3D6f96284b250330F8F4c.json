@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:6714/erc20:0xf140a92C156e76F5A1d3D6f96284b250330F8F4c.png",
+  "name": "Governance LGNS",
+  "symbol": "gLGNS",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:6714/erc20:0x567c7f4587532FF4645D46c2546e80ADE6782B12.png",
+  "name": "Anubis LayerZero MUon",
+  "symbol": "MUon",
+  "decimals": 18,
+  "erc20": true
+}

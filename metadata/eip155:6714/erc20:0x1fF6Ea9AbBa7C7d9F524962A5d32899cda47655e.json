@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:6714/erc20:0x1fF6Ea9AbBa7C7d9F524962A5d32899cda47655e.png",
+  "name": "Anubis LayerZero SKY",
+  "symbol": "SKY",
+  "decimals": 18,
+  "erc20": true
+}

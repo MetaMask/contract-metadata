@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:6714/erc20:0xdDfEAA69B9351156BE245915C3f1ce45Ac7c0544.png",
+  "name": "Anubis LayerZero XAUt",
+  "symbol": "XAUt",
+  "decimals": 6,
+  "erc20": true
+}

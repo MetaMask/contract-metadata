@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:6714/erc20:0x51dbea18a37b503C1207b6B6cEB678182f72a91e.png",
+  "name": "Anubis LayerZero SNDKon",
+  "symbol": "SNDKon",
+  "decimals": 18,
+  "erc20": true
+}

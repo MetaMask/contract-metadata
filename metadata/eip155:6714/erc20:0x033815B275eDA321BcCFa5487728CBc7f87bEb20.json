@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:6714/erc20:0x033815B275eDA321BcCFa5487728CBc7f87bEb20.png",
+  "name": "Anubis LayerZero GMEon",
+  "symbol": "GMEon",
+  "decimals": 18,
+  "erc20": true
+}

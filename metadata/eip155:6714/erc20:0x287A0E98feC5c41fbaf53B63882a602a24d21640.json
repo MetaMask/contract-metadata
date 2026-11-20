@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:6714/erc20:0x287A0E98feC5c41fbaf53B63882a602a24d21640.png",
+  "name": "Anubis LayerZero WBTC",
+  "symbol": "WBTC",
+  "decimals": 8,
+  "erc20": true
+}

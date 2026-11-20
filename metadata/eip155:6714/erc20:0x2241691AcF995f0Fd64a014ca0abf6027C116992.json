@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:6714/erc20:0x2241691AcF995f0Fd64a014ca0abf6027C116992.png",
+  "name": "VEST Token",
+  "symbol": "VST",
+  "decimals": 18,
+  "erc20": true
+}

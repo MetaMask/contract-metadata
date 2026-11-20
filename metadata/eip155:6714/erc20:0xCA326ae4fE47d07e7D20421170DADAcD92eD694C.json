@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:6714/erc20:0xCA326ae4fE47d07e7D20421170DADAcD92eD694C.png",
+  "name": "Bridged ETH",
+  "symbol": "ETH",
+  "decimals": 18,
+  "erc20": true
+}

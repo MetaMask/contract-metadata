@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:6714/erc20:0x9aB7638f85eCfb449Cef84d11e2Da69694B3b792.png",
+  "name": "Anubis LayerZero DAI",
+  "symbol": "DAI",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:6714/erc20:0x256EdB652db43E721EC6A12B6b51b6967D3bb8cB.png",
+  "name": "AiLGNS",
+  "symbol": "AiLGNS",
+  "decimals": 18,
+  "erc20": true
+}

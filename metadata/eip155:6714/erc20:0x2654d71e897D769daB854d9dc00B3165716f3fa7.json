@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:6714/erc20:0x2654d71e897D769daB854d9dc00B3165716f3fa7.png",
+  "name": "Sweets",
+  "symbol": "Sweets",
+  "decimals": 18,
+  "erc20": true
+}

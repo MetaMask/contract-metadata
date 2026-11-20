@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:6714/erc20:0xf0Cf5B49E8cd02573EC2F76Ab3b357A7Eab7bE3d.png",
+  "name": "Anubis LayerZero ETH",
+  "symbol": "ETH",
+  "decimals": 18,
+  "erc20": true
+}

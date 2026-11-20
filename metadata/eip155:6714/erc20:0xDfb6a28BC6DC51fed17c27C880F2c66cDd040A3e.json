@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:6714/erc20:0xDfb6a28BC6DC51fed17c27C880F2c66cDd040A3e.png",
+  "name": "Bridged USDT",
+  "symbol": "USDT",
+  "decimals": 6,
+  "erc20": true
+}

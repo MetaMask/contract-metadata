@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:6714/erc20:0x699D13487Ed6b78953da2750887B58Ef738f9636.png",
+  "name": "Bridged BNB",
+  "symbol": "BNB",
+  "decimals": 18,
+  "erc20": true
+}

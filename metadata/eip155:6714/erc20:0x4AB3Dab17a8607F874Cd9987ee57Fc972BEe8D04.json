@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:6714/erc20:0x4AB3Dab17a8607F874Cd9987ee57Fc972BEe8D04.png",
+  "name": "Anubis LayerZero SPCXon",
+  "symbol": "SPCXon",
+  "decimals": 18,
+  "erc20": true
+}

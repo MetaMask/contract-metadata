@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:6714/erc20:0xA6DB5061A613176aB8F8ae868BF22C1c3dD88363.png",
+  "name": "Anubis LayerZero USDS",
+  "symbol": "USDS",
+  "decimals": 18,
+  "erc20": true
+}
