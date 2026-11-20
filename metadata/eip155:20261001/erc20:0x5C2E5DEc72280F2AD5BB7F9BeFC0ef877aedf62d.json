@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped Polygon Ecosystem Token (Bridged from Polygon PoS)",
+  "symbol": "WPOL",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:20261001/erc20:0x5C2E5DEc72280F2AD5BB7F9BeFC0ef877aedf62d.png"
+}
