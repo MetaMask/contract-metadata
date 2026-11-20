@@ -1,0 +1,7 @@
+{
+  "name": "Anthropic (Ondo Tokenized)",
+  "symbol": "ANTon",
+  "decimals": 9,
+  "spl20": false,
+  "logo": "./icons/solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp/token:5Kz7Xs8iWvEZFBsyAVDVKgEzNc8KTFxE7eX2Q9jondo.svg"
+}

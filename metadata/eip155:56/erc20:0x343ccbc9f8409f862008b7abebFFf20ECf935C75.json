@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x343ccbc9f8409f862008b7abebFFf20ECf935C75.svg",
+  "name": "Anthropic (Ondo Tokenized)",
+  "symbol": "ANTon",
+  "decimals": 18,
+  "erc20": true
+}
