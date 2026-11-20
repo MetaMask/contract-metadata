@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0xe846503C6915A93F30Fce4fc003b4F4f4E75F9D9.png",
+  "name": "LoopUP",
+  "symbol": "LOOP",
+  "decimals": 18,
+  "erc20": true
+}
