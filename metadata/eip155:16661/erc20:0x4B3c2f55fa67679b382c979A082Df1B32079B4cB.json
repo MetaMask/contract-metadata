@@ -1,0 +1,7 @@
+{
+  "name": "Ascend Staked 0G",
+  "symbol": "a0G",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:16661/erc20:0x4B3c2f55fa67679b382c979A082Df1B32079B4cB.png"
+}
