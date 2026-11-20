@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0x2ed26Dd7BEfE020B39916E9CeAf1D6a96a52CDD6.png",
+  "name": "Emerald Liquidity Instrument",
+  "symbol": "EMRL.X",
+  "decimals": 18,
+  "erc20": true
+}
