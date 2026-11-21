@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/werc-bsc.png",
+  "name": "Wien Euro Reserve Coin",
+  "symbol": "WERC",
+  "decimals": 18,
+  "erc20": true
+}
