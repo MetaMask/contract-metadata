@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:8453/erc20:0xc2181d975c05c8c724b334bcED0764c0b86B1D53.png",
+  "name": "Global Balanced Liquidity Index",
+  "symbol": "GBLIN",
+  "decimals": 18,
+  "erc20": true
+}
