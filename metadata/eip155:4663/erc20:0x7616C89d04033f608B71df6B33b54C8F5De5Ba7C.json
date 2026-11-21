@@ -1,0 +1,8 @@
+
+{
+  "logo": "../../icons/eip155:4663/erc20:0x7616C89d04033f608B71df6B33b54C8F5De5Ba7C.png",
+  "name": "Camelz",
+  "symbol": "CAMELZ",
+  "decimals": 18,
+  "erc20": true
+}
