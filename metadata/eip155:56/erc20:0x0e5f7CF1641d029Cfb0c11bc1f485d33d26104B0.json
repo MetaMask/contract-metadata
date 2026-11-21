@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x0e5f7CF1641d029Cfb0c11bc1f485d33d26104B0.png",
+  "name": "BABY COIN",
+  "symbol": "BABY",
+  "decimals": 18,
+  "erc20": true
+}
