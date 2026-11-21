@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="SDBR — Solidity Brasil">
+  <defs>
+    <linearGradient id="fundo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0e1a44"/>
+      <stop offset="1" stop-color="#070d24"/>
+    </linearGradient>
+    <linearGradient id="anel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3fd0ff"/>
+      <stop offset="1" stop-color="#3d7bff"/>
+    </linearGradient>
+    <linearGradient id="bloco" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3fd0ff"/>
+      <stop offset="1" stop-color="#3d7bff"/>
+    </linearGradient>
+  </defs>
+  <circle cx="256" cy="256" r="256" fill="url(#fundo)"/>
+  <circle cx="256" cy="256" r="236" fill="none" stroke="url(#anel)" stroke-width="10"/>
+  <g transform="translate(88 88) scale(7)">
+    <path d="M18 6H40V22H20V16H8A10 10 0 0 1 18 6Z" fill="#ffffff"/>
+    <path d="M8 26H28V32H40A10 10 0 0 1 30 42H8Z" fill="url(#bloco)"/>
+  </g>
+</svg>
