@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:137/erc20:0x56DD55A602576788e14f0255b83917b484403F9A.png",
+  "name": "Standard Units Rupol",
+  "symbol": "SRP",
+  "decimals": 18,
+  "erc20": true
+}
