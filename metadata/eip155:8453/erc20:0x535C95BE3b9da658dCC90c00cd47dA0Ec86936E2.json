@@ -1,0 +1,7 @@
+{
+  "name": "Ethical Node Token",
+  "symbol": "ENT",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x535C95BE3b9da658dCC90c00cd47dA0Ec86936E2.png"
+}
