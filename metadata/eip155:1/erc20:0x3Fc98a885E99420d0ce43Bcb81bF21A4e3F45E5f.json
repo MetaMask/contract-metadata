@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x3Fc98a885E99420d0ce43Bcb81bF21A4e3F45E5f.png",
+  "name": "MYR Stablecoin",
+  "symbol": "MYRT",
+  "decimals": 6,
+  "erc20": true
+}
