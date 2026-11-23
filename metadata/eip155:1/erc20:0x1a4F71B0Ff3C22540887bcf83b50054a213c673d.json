@@ -1,0 +1,9 @@
+{
+  "eip155:1/erc20:0x1a4F71B0Ff3C22540887bcf83b50054a213c673d": {
+    "name": "Wrapped Backed MicroStrategy Inc",
+    "symbol": "wbMSTR",
+    "decimals": 18,
+    "erc20": true,
+    "logo": "./icons/eip155:1/erc20:0xaC28C9178ACc8BA4A11A29E013a3A2627086e422.svg"
+  }
+}
