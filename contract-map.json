@@ -4518,5 +4518,12 @@
     "erc20": true,
     "symbol": "FPS",
     "decimals": 18
+  },
+  "0x6b2353ad8ee1ee49b8939fb3fd558e16291fde5a": {
+  "name": "A.C.EON Coin",
+  "logo": "0x6b2353ad8ee1ee49b8939fb3fd558e16291fde5a.png",
+  "erc20": true,
+  "symbol": "ACEON",
+  "decimals": 18
   }
 }
