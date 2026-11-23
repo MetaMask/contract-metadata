@@ -1,0 +1,7 @@
+{
+  "name": "SolStream Music",
+  "symbol": "STREAM",
+  "decimals": 8,
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0x1F1546E30728F4979fE1112F9e6D4b630123571D.png"
+}
