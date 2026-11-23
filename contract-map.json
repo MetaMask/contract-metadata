@@ -139,6 +139,20 @@
     "symbol": "MATH",
     "decimals": 18
   },
+  "0x07fF8bCe905CB285220e4D96d8443cfCF141af8b": {
+    "name": "defimarketplus SAFE-USD",
+    "logo": "smUSD.svg",
+    "erc20": true,
+    "symbol": "smUSD",
+    "decimals": 12
+  },
+  "0x09fd7e0d021D29106c534Edfb4Ea817AC0ea7F84": {
+    "name": "defimarketplus",
+    "logo": "DMTp.svg",
+    "erc20": true,
+    "symbol": "DMTp",
+    "decimals": 18
+  },
   "0x509A38b7a1cC0dcd83Aa9d06214663D9eC7c7F4a": {
     "name": "Blocksquare Token",
     "logo": "BST.svg",
