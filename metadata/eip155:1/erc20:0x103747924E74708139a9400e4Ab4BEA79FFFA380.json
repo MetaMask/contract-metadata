@@ -1,0 +1,7 @@
+{
+  "name": "Decentralized Euro Protocol Share",
+  "symbol": "DEPS",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x103747924E74708139a9400e4Ab4BEA79FFFA380.svg"
+}
