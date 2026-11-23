@@ -1,0 +1,7 @@
+{
+  "name": "Vikasa Network",
+  "decimals": 18,
+  "symbol": "VIK",
+  "erc20": true,
+  "logo": "./icons/eip155:137/erc20:0x2921D67Ac78EBDA0020F952e51e931ed125e00C1.png"
+}
