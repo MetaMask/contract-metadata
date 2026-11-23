@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x691b126cF619707Ed5d16CaB1B27C000aa8De300.svg",
+  "name": "Lockheed (Ondo Tokenized)",
+  "symbol": "LMTon",
+  "decimals": 18,
+  "erc20": true
+}

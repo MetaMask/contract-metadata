@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x0C802aCB21Cb2AadB2EB5E5090868E1361B26B69.svg",
+  "name": "Newmont (Ondo Tokenized)",
+  "symbol": "NEMon",
+  "decimals": 18,
+  "erc20": true
+}

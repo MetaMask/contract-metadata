@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x19601179A60f55Ff6636F5D1A8b6671053Bd60a8.svg",
+  "name": "Robinhood Markets (Ondo Tokenized)",
+  "symbol": "HOODon",
+  "decimals": 18,
+  "erc20": true
+}

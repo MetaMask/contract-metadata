@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xCaC9AAfb2cf51645Ae1ab4Fb1F35F07d42437f80.svg",
+  "name": "CrowdStrike (Ondo Tokenized)",
+  "symbol": "CRWDon",
+  "decimals": 18,
+  "erc20": true
+}

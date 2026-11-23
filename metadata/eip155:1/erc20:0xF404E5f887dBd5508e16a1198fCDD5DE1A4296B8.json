@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xF404E5f887dBd5508e16a1198fCDD5DE1A4296B8.svg",
+  "name": "Marvell Technology (Ondo Tokenized)",
+  "symbol": "MRVLon",
+  "decimals": 18,
+  "erc20": true
+}

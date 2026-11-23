@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x75846A2b2Eeee6575Ac775f9984be54fd1D08189.svg",
+  "name": "MP Materials (Ondo Tokenized)",
+  "symbol": "MPon",
+  "decimals": 18,
+  "erc20": true
+}

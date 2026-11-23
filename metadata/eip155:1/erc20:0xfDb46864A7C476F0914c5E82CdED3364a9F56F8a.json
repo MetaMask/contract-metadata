@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0xfDb46864A7C476F0914c5E82CdED3364a9F56F8a.svg",
+  "name": "SharpLink Gaming (Ondo Tokenized)",
+  "symbol": "SBETon",
+  "decimals": 18,
+  "erc20": true
+}

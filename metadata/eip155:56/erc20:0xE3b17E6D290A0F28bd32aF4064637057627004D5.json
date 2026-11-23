@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0xE3b17E6D290A0F28bd32aF4064637057627004D5.svg",
+  "name": "Freeport-McMoRan (Ondo Tokenized)",
+  "symbol": "FCXon",
+  "decimals": 18,
+  "erc20": true
+}

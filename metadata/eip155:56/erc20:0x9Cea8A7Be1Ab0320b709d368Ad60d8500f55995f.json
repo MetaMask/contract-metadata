@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x9Cea8A7Be1Ab0320b709d368Ad60d8500f55995f.svg",
+  "name": "Vertiv (Ondo Tokenized)",
+  "symbol": "VRTon",
+  "decimals": 18,
+  "erc20": true
+}

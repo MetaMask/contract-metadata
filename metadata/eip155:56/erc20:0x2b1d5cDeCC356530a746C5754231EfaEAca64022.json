@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x2b1d5cDeCC356530a746C5754231EfaEAca64022.svg",
+  "name": "Petrobras (Ondo Tokenized)",
+  "symbol": "PBRon",
+  "decimals": 18,
+  "erc20": true
+}

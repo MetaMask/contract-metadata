@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x374D03A6c0d5bd4bE0A5117eBE1B49D52aC8a53F.svg",
+  "name": "PayPal (Ondo Tokenized)",
+  "symbol": "PYPLon",
+  "decimals": 18,
+  "erc20": true
+}

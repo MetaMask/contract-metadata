@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x2494b603319d4D9F9715c9f4496d9E0364B59d93.svg",
+  "name": "Tesla (Ondo Tokenized)",
+  "symbol": "TSLAon",
+  "decimals": 18,
+  "erc20": true
+}

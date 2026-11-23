@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x538e2838f9ebC9B891399DF4a8dcc42890D9dc20.svg",
+  "name": "Arista Networks (Ondo Tokenized)",
+  "symbol": "ANETon",
+  "decimals": 18,
+  "erc20": true
+}

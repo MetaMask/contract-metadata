@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x0b59fDb1A233A7477ea14061004b9DD776e73CB3.svg",
+  "name": "IREN (Ondo Tokenized)",
+  "symbol": "IRENon",
+  "decimals": 18,
+  "erc20": true
+}

@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x44e89d34601b8D0155e16634d2553EF7F54DBab2.svg",
+  "name": "Western Digital (Ondo Tokenized)",
+  "symbol": "WDCon",
+  "decimals": 18,
+  "erc20": true
+}

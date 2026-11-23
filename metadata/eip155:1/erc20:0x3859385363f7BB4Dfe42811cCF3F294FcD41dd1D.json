@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:1/erc20:0x3859385363f7BB4Dfe42811cCF3F294FcD41dd1D.svg",
+  "name": "Abbott (Ondo Tokenized)",
+  "symbol": "ABTon",
+  "decimals": 18,
+  "erc20": true
+}
