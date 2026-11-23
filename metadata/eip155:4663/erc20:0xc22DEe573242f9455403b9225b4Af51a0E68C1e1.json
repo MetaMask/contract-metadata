@@ -1,0 +1,7 @@
+{
+  "name": "MAVIRI",
+  "symbol": "MAVIRI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:4663/erc20:0xc22DEe573242f9455403b9225b4Af51a0E68C1e1.png"
+}
