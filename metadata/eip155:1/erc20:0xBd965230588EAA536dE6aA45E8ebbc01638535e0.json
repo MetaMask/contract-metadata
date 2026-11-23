@@ -1,0 +1,7 @@
+{
+  "name": "Motoswap",
+  "symbol": "MOTO",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xBd965230588EAA536dE6aA45E8ebbc01638535e0.png"
+}
