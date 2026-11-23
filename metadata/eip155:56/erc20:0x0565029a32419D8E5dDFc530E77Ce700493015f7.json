@@ -1,0 +1,9 @@
+{
+  "name": "Tether Zaola SAT10",
+  "symbol": "USDTz",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:56/erc20:0x0565029a32419D8E5dDFc530E77Ce700493015f7.png",
+  "web": "https://tetherzaola.com",
+  "explorer": "https://bscscan.com/token/0x0565029a32419D8E5dDFc530E77Ce700493015f7"
+}
