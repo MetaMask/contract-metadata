@@ -1,0 +1,7 @@
+{
+  "name": "Crea Coin",
+  "symbol": "CREA",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0xAf5CF1Df75ECf1EfE763dD69D570AF5cbbb7eFbd.png"
+}
