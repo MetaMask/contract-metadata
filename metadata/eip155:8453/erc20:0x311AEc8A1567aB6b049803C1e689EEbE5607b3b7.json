@@ -1,0 +1,7 @@
+{
+  "name": "KAMUITRANSLATOR",
+  "symbol": "KAMUI",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x311AEc8A1567aB6b049803C1e689EEbE5607b3b7.png"
+}
