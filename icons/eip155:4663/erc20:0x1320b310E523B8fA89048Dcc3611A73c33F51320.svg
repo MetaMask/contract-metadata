@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <rect width="120" height="120" fill="#0b0e13"/>
+  <g transform="translate(60 60) scale(0.94) translate(-60 -60)">
+  <defs>
+    <linearGradient id="e-chrome" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset=".34" stop-color="#c6d0da"/>
+      <stop offset=".5" stop-color="#7f8a96"/>
+      <stop offset=".53" stop-color="#565f6a"/>
+      <stop offset=".72" stop-color="#b4bec8"/>
+      <stop offset="1" stop-color="#eef3f8"/>
+    </linearGradient>
+    <linearGradient id="e-red" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ff8585"/>
+      <stop offset=".46" stop-color="#e01b1b"/>
+      <stop offset=".54" stop-color="#9f0000"/>
+      <stop offset="1" stop-color="#ff5151"/>
+    </linearGradient>
+  </defs>
+  
+  <circle cx="60" cy="60" r="50" fill="#0e1218" stroke="url(#e-chrome)" stroke-width="3.5"/>
+  <circle cx="60" cy="60" r="31" fill="#121722" stroke="url(#e-red)" stroke-width="3.5"/>
+  <g fill="#eef2f7">
+    <rect x="42" y="31" width="6.2" height="6.2"/>
+    <rect x="54.4" y="31" width="6.2" height="6.2"/>
+    <rect x="66.8" y="31" width="6.2" height="6.2"/>
+    <rect x="48.2" y="37.2" width="6.2" height="6.2"/>
+    <rect x="60.6" y="37.2" width="6.2" height="6.2"/>
+  </g>
+  <path d="M61.70 81L55.10 81L52.66 71.72L50.62 71.72L50.62 81L44.22 81L44.22 53.48L53.90 53.48Q56.90 53.48 58.46 54.48Q60.02 55.48 60.54 57.40Q61.06 59.32 61.06 62.60L61.06 62.60Q61.06 65.64 60.56 67.58Q60.06 69.52 58.54 70.52L58.54 70.52L61.70 81ZM52.30 66.40Q53.46 66.40 53.90 66.18Q54.34 65.96 54.50 65.22Q54.66 64.48 54.66 62.64L54.66 62.64Q54.66 60.80 54.52 60.08Q54.38 59.36 53.92 59.14Q53.46 58.92 52.30 58.92L52.30 58.92L50.62 58.92L50.62 66.40L52.30 66.40ZM77.10 81L64.18 81L64.18 53.48L70.58 53.48L70.58 75.36L77.10 75.36L77.10 81Z" fill="url(#e-chrome)" transform="translate(0 81) skewX(-14.036) translate(0 -81)"/>
+</g>
+</svg>
