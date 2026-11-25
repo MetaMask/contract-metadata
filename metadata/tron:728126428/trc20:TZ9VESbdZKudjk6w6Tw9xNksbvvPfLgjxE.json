@@ -1,6 +1,7 @@
 {
+  "logo": "./icons/tron:728126428/trc20:TZ9VESbdZKudjk6w6Tw9xNksbvvPfLgjxE.svg",
   "name": "USĐT",
   "symbol": "USĐT",
   "decimals": 6,
-  "logo": "./icons/tron:728126428/trc20:TZ9VESbdZKudjk6w6Tw9xNksbvvPfLgjxE.svg"
+  "erc20": false
 }
