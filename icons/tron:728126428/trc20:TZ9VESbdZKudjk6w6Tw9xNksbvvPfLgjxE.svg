@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" role="img" aria-labelledby="title desc">
-  <title id="title">Turbo USD logo</title>
-  <desc id="desc">An emerald circular emblem with a white geometric T and orbital ring.</desc>
-  <circle cx="320" cy="320" r="300" fill="#079F72"/>
-  <!-- Orbital band -->
-  <ellipse cx="320" cy="323" rx="207" ry="39" fill="none" stroke="#FFFFFF" stroke-width="17"/>
-  <!-- Distinctive T mark -->
-  <path d="M166 151h308a14 14 0 0 1 14 14v45a14 14 0 0 1-14 14H360v249a12 12 0 0 1-4 9l-36 35-36-35a12 12 0 0 1-4-9V224H166a14 14 0 0 1-14-14v-45a14 14 0 0 1 14-14Z" fill="#FFFFFF"/>
+ <title id="title">Tethur UDS logo</title>
+ <desc id="desc">An emerald circular emblem with a white geometric T and orbital ring.</desc>
+ <circle cx="320" cy="320" r="300" fill="#079F72"/>
+ <!-- Orbital band -->
+ <ellipse cx="320" cy="323" rx="207" ry="39" fill="none" stroke="#FFFFFF" stroke-width="17"/>
+ <!-- Distinctive T mark -->
+ <path d="M166 151h308a14 14 0 0 1 14 14v45a14 14 0 0 1-14 14H360v249a12 12 0 0 1-4 9l-36 35-36-35a12 12 0 0 1-4-9V224H166a14 14 0 0 1-14-14v-45a14 14 0 0 1 14-14Z" fill="#FFFFFF"/>
 </svg>
