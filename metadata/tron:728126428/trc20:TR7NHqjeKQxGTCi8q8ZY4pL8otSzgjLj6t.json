@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/tron:728126428/trc20:TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t.svg",
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 6,
+  "erc20": false
+}
