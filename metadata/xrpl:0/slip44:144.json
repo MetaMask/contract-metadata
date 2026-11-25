@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/xrpl:0/slip44:144.svg",
+  "name": "XRP",
+  "symbol": "XRP",
+  "decimals": 6,
+  "erc20": false
+}
