@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><circle cx="50" cy="50" r="50" fill="#F5A623"/><text x="50" y="62" text-anchor="middle" font-size="28" font-family="sans-serif" fill="white" font-weight="bold">Q$</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#FFD166"/>
+      <stop offset="100%" stop-color="#D4860A"/>
+    </radialGradient>
+  </defs>
+  <circle cx="50" cy="50" r="49" fill="url(#bg)" stroke="#B8720E" stroke-width="1.5"/>
+  <text x="50" y="58" text-anchor="middle" font-size="34" font-family="Arial,sans-serif" font-weight="900" fill="white" letter-spacing="-1">Q$</text>
+  <text x="50" y="76" text-anchor="middle" font-size="12" font-family="Arial,sans-serif" font-weight="700" fill="rgba(255,255,255,0.85)" letter-spacing="2">QUSD</text>
+</svg>
