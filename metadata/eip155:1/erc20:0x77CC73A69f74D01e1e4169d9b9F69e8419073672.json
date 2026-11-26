@@ -1,0 +1,7 @@
+{
+  "name": "Seonix Utility",
+  "symbol": "SX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:1/erc20:0x77CC73A69f74D01e1e4169d9b9F69e8419073672.png"
+}
