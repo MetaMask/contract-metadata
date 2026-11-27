@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="QUSD">
+  <title>QUSD</title>
+  <desc>QUSD token mark on BNB Chain. QVTX brand: Xpress Gold #F5A623 on DNA Navy #0A2540. A Q ring encloses the dollar glyph. BNB collar lower-right.</desc>
+
+  <circle cx="128" cy="128" r="124" fill="#0A2540"/>
+  <circle cx="128" cy="128" r="117" fill="none" stroke="#F5A623" stroke-width="7"/>
+
+  <g stroke="#F5A623" fill="none" stroke-linecap="round">
+    <circle cx="128" cy="128" r="100" stroke-width="10"/>
+  </g>
+
+  <g stroke="#F5A623" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M163 98
+             C163 82 148 74 128 74
+             C108 74 94 83 94 98
+             C94 113 108 120 128 126
+             C148 132 162 139 162 154
+             C162 169 148 178 128 178
+             C108 178 93 170 93 154"
+          stroke-width="17"/>
+    <path d="M128 58 L128 194" stroke-width="13"/>
+  </g>
+
+  <!-- BNB COLLAR: lower-right -->
+  <g transform="translate(186,186)">
+    <circle cx="0" cy="0" r="40" fill="#0A2540"/>
+    <circle cx="0" cy="0" r="34" fill="#F3BA2F"/>
+    <!-- BNB diamond pattern (4 rotated squares) -->
+    <g fill="#0A2540" transform="scale(0.52)">
+      <rect x="-10" y="-28" width="20" height="20" transform="rotate(45)"/>
+      <rect x="12" y="-10" width="20" height="20" transform="rotate(45)"/>
+      <rect x="-10" y="8" width="20" height="20" transform="rotate(45)"/>
+      <rect x="-34" y="-10" width="20" height="20" transform="rotate(45)"/>
+      <rect x="-10" y="-10" width="20" height="20" transform="rotate(45)"/>
+    </g>
+  </g>
+</svg>
