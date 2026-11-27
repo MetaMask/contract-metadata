@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/tron:728126428/slip44:195.svg",
+  "name": "Tron",
+  "symbol": "TRX",
+  "decimals": 6,
+  "erc20": false
+}

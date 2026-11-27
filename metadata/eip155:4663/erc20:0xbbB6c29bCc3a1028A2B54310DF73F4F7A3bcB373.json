@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0xbbB6c29bCc3a1028A2B54310DF73F4F7A3bcB373.png",
+  "name": "Anthropic (Robinhood)",
+  "symbol": "ANT",
+  "decimals": 18,
+  "erc20": true
+}
