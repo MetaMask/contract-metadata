@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:4663/erc20:0x5F2b0542CAa2e6b8DAB50bFa846063A723B5823B.png",
+  "name": "Stockmon DNA",
+  "symbol": "DNA",
+  "decimals": 18,
+  "erc20": true
+}
