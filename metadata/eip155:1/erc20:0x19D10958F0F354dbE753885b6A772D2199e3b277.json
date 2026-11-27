@@ -1,1 +1,9 @@
-
+{
+  "eip155:1/erc20:0x19D10958F0F354dbE753885b6A772D2199e3b277": {
+    "name": "DAMY Network",
+    "symbol": "DAMY",
+    "decimals": 18,
+    "erc20": true,
+    "logo": "./icons/19d10958f0f354dbe753885b6a772d2199e3b277.png"
+  }
+}
