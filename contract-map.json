@@ -6,6 +6,13 @@
     "symbol": "CYBER",
     "decimals": 18
   },
+  "0x4FaC2Cec0A572C553cd52b3cdC66C0177e4DaD48": {
+    "name": "Tether USD",
+    "logo": "usdt.svg",
+    "erc20": true,
+    "symbol": "USDT",
+    "decimals": 6
+  },
   "0x9Cf0ED013e67DB12cA3AF8e7506fE401aA14dAd6": {
     "name": "Spectre AI",
     "logo": "spectre-ai.svg",
@@ -4466,7 +4473,7 @@
   "0x2013C72c04D3071bE73f0af6eDC909F659656bda": {
     "name": "Shiba San",
     "logo": "SHIBADOG.svg",
-    "erc20": true,
+    "erc20": true, 
     "symbol": "SHIBADOG",
     "decimals": 18
   },
