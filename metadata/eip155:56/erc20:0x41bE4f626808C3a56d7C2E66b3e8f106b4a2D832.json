@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:56/erc20:0x41bE4f626808C3a56d7C2E66b3e8f106b4a2D832.png",
+  "name": "Homeunity",
+  "symbol": "HRPT",
+  "decimals": 6,
+  "erc20": true
+}
