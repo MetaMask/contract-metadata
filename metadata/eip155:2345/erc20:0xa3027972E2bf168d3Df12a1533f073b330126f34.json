@@ -1,0 +1,7 @@
+{
+  "name": "GOAT BSC DOGE Deposited token",
+  "symbol": "ArtDOGEB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:2345/erc20:0xa3027972E2bf168d3Df12a1533f073b330126f34.svg"
+}
