@@ -68,11 +68,14 @@ function validateNetworkIcon(fileName) {
   if (errors.length) return errors;
 
   const filePath = path.join(NETWORK_ICONS_DIR, fileName);
-  const { size } = fs.statSync(filePath);
+  // Read once and derive the size from the same buffer, so the checks can't
+  // race a separate stat() (CodeQL js/file-system-race).
+  const buffer = fs.readFileSync(filePath);
+  const size = buffer.length;
   if (size === 0) errors.push('file is empty');
   if (size > MAX_BYTES) errors.push(`file is ${size} bytes, max is ${MAX_BYTES}`);
 
-  const content = fs.readFileSync(filePath, 'utf8');
+  const content = buffer.toString('utf8');
   if (!/<svg[\s>]/.test(content) || !/<\/svg>\s*$/.test(content)) {
     errors.push('does not look like an SVG document (missing <svg> root)');
   }
