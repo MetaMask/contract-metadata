@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:8453/erc20:0x2E968fB88998a6303535Ac637C809119ECAd4a4b.svg",
+  "name": "Nesa",
+  "symbol": "NES",
+  "decimals": 18,
+  "erc20": true
+}
