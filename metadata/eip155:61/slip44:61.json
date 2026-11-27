@@ -1,0 +1,7 @@
+{
+  "logo": "./icons/eip155:61/slip44:61.svg",
+  "name": "Ethereum Classic",
+  "symbol": "ETC",
+  "decimals": 18,
+  "erc20": false
+}
