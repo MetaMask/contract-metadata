@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped AVAX (Bridged from Avalanche C-Chain)",
+  "symbol": "WAVAX",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:20261001/erc20:0x694423d43FeE72223EF90bf3413BC75Ca1D56988.png"
+}
