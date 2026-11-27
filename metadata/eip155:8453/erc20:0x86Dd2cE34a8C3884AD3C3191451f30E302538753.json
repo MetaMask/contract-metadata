@@ -1,0 +1,7 @@
+{
+  "name": "POET",
+  "symbol": "POET",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x86Dd2cE34a8C3884AD3C3191451f30E302538753.svg"
+}
